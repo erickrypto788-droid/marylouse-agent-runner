@@ -1,0 +1,464 @@
+from __future__ import annotations
+
+import json
+import os
+import re
+import time
+from typing import Any, Dict, Optional
+
+import requests
+
+from .models import Product, OfferCopy
+from .utils import clamp
+
+
+def money(value: float | None, currency: str = "BRL") -> str:
+    if value is None:
+        return ""
+    if currency.upper() == "BRL":
+        return "R$ " + f"{value:,.2f}".replace(",", "X").replace(".", ",").replace("X", ".")
+    return f"{currency} {value:.2f}"
+
+
+def _copy_cfg(cfg: Dict[str, Any]) -> Dict[str, Any]:
+    return cfg.get("copywriting", {}) or {}
+
+
+def _disclosure(cfg: Dict[str, Any]) -> str:
+    return _copy_cfg(cfg).get("affiliate_disclosure", "Link de afiliado. Preço sujeito a alteração.")
+
+
+def _max_chars(cfg: Dict[str, Any]) -> int:
+    return int(_copy_cfg(cfg).get("max_caption_chars", 950))
+
+
+def details_block(product: Product) -> str:
+    lines = []
+
+    if product.old_price and product.price is not None and product.old_price > product.price:
+        lines.append(f"💸 De: {money(product.old_price, product.currency)}")
+
+    if product.price is not None:
+        lines.append(f"🔥 Por: {money(product.price, product.currency)}")
+
+    if product.rating:
+        lines.append(f"⭐ Avaliação: {product.rating:.1f}/5")
+
+    # Importante:
+    # Não adicionamos link aqui.
+    # O link principal pode vir na legenda gerada pela IA.
+    # Isso evita duplicar o link e evita mostrar dict/list do AliExpress no final.
+    return "\n\n".join(lines).strip()
+
+def clean_caption_before_details(caption: str, product: Product) -> str:
+    banned_phrases = [
+        "Link de afiliado. Preço sujeito a alteração.",
+        "Link de afiliado.",
+        "Preço sujeito a alteração.",
+    ]
+
+    for banned in banned_phrases:
+        caption = caption.replace(banned, "")
+
+    cleaned_lines = []
+
+    for line in caption.splitlines():
+        stripped = line.strip()
+        normalized = stripped.lstrip("🔥🚨⭐✅👉🛒💥📌🎯⚡💸🏷️💰🚚😂😍🤩😱👇➡️✨🎁🛡️ ").strip()
+        lower = normalized.lower()
+
+        if not stripped:
+            cleaned_lines.append("")
+            continue
+
+        # Remove bloco automático duplicado do final.
+        if lower.startswith("comprar agora:"):
+            continue
+
+        # Remove objeto/dicionário/lista do AliExpress quando aparece na legenda.
+        if "promotion_link" in lower or "source_value" in lower:
+            continue
+
+        # Remove preço/avaliação duplicados. O sistema adiciona de forma padronizada depois.
+        if lower.startswith("de: r$"):
+            continue
+
+        if lower.startswith("por: r$"):
+            continue
+
+        if lower.startswith("avaliação:") or lower.startswith("avaliacao:"):
+            continue
+
+        if stripped in banned_phrases:
+            continue
+
+        cleaned_lines.append(line.rstrip())
+
+    text = "\n".join(cleaned_lines).strip()
+
+    # Remove excesso de linhas em branco.
+    text = re.sub(r"\n{3,}", "\n\n", text)
+
+    return text.strip()
+
+def finalize_caption(product: Product, caption: str, cfg: Dict[str, Any]) -> str:
+    max_chars = _max_chars(cfg)
+    caption = (caption or "").strip()
+
+    if not caption:
+        caption = product.title
+
+    caption = clean_caption_before_details(caption, product)
+    block = details_block(product)
+
+    if block:
+        caption = f"{caption}\n\n{block}".strip()
+
+    return clamp(caption, max_chars).strip()
+
+
+def fallback_copy(product: Product, cfg: Dict[str, Any]) -> OfferCopy:
+    max_chars = _max_chars(cfg)
+
+    discount_line = f"🔥 {product.discount_percent:.0f}% OFF" if product.discount_percent else "🔥 Oferta encontrada"
+
+    caption = (
+        f"{discount_line}\n\n"
+        f"{product.title}"
+    ).strip()
+
+    # finalize_caption adiciona De/Por/Avaliação.
+    # Não adicionamos link aqui para evitar mostrar dict/list do AliExpress no final.
+    caption = finalize_caption(product, caption, cfg)
+    caption = clamp(caption, max_chars)
+
+    return OfferCopy(
+        approved=True,
+        title_short=clamp(product.title, 70),
+        hook="🔥 Oferta encontrada!",
+        caption=caption,
+        hashtags=["#oferta", f"#{product.marketplace}"],
+    )
+
+def build_prompt(product: Product, cfg: Dict[str, Any]) -> str:
+    max_chars = _max_chars(cfg)
+    product_json = json.dumps(product.to_dict(), ensure_ascii=False, default=str, indent=2)
+
+    return f"""
+Você é um copywriter brasileiro especializado em ofertas para Telegram.
+
+Crie uma legenda curta, chamativa e persuasiva para divulgar este produto.
+
+REGRAS IMPORTANTES:
+- Não invente preço, desconto, frete, avaliação, cupom, estoque ou garantia.
+- Use somente os dados enviados.
+- Use emojis para deixar a oferta mais chamativa, mas sem exagero.
+- Use no máximo 1 ou 2 emojis por linha.
+- Use emojis relacionados ao contexto da oferta.
+- Comece a legenda com uma chamada forte usando emoji.
+- Não use Markdown complexo.
+- A mensagem precisa ser curta, clara, natural e com cara de anúncio para Telegram.
+- Inclua o link de compra.
+- Não inclua a frase "Link de afiliado. Preço sujeito a alteração." nem qualquer aviso de afiliado.
+- Use exatamente este formato para preço, avaliação e link quando esses dados existirem:
+
+💸 De: R$ 155,52
+🔥 Por: R$ 38,88
+⭐ Avaliação: 4.7/5
+
+🛒 Comprar agora:
+https://exemplo.com
+
+- A legenda final deve ter no máximo {max_chars} caracteres.
+- Se o produto parecer inválido, responda approved=false.
+
+DADOS DO PRODUTO:
+{product_json}
+
+Responda SOMENTE em JSON válido neste formato:
+{{
+  "approved": true,
+  "reason": "",
+  "title_short": "título curto",
+  "hook": "chamada curta",
+  "caption": "legenda completa para Telegram",
+  "hashtags": ["#oferta"]
+}}
+""".strip()
+
+
+def parse_json_from_text(text: str) -> Optional[Dict[str, Any]]:
+    if not text:
+        return None
+
+    content = text.strip()
+
+    # Remove blocos ```json ... ```
+    if content.startswith("```"):
+        content = re.sub(r"^```(?:json)?\s*", "", content, flags=re.I)
+        content = re.sub(r"\s*```$", "", content)
+        content = content.strip()
+
+    # Tenta JSON direto.
+    try:
+        data = json.loads(content)
+        return data if isinstance(data, dict) else None
+    except Exception:
+        pass
+
+    # Tenta extrair o primeiro objeto JSON dentro do texto.
+    match = re.search(r"\{.*\}", content, flags=re.S)
+    if match:
+        try:
+            data = json.loads(match.group(0))
+            return data if isinstance(data, dict) else None
+        except Exception:
+            return None
+
+    return None
+
+
+def post_with_retries(url: str, headers: Dict[str, str], payload: Dict[str, Any], timeout: int = 60) -> Dict[str, Any]:
+    last_error: Optional[Exception] = None
+
+    for attempt in range(3):
+        try:
+            resp = requests.post(url, headers=headers, json=payload, timeout=timeout)
+
+            if resp.status_code in {429, 500, 502, 503, 504} and attempt < 2:
+                wait = 2 ** attempt
+                print(f"[copywriter] API ocupada/limitada ({resp.status_code}). Tentando novamente em {wait}s...")
+                time.sleep(wait)
+                continue
+
+            resp.raise_for_status()
+            return resp.json()
+
+        except Exception as exc:
+            last_error = exc
+
+            if attempt < 2:
+                wait = 2 ** attempt
+                print(f"[copywriter] Erro temporário na IA. Tentando novamente em {wait}s... Erro: {exc}")
+                time.sleep(wait)
+                continue
+
+    raise last_error if last_error else RuntimeError("Erro desconhecido na chamada da IA")
+
+
+def call_gemini_direct(prompt: str, model: str, api_key: str) -> str:
+    """
+    Usa a API nativa do Gemini:
+    https://generativelanguage.googleapis.com/v1beta/models/{model}:generateContent
+    """
+    model = model.replace("models/", "").strip()
+    url = f"https://generativelanguage.googleapis.com/v1beta/models/{model}:generateContent?key={api_key}"
+
+    payload = {
+        "contents": [
+            {
+                "role": "user",
+                "parts": [
+                    {"text": prompt}
+                ]
+            }
+        ],
+        "generationConfig": {
+            "temperature": 0.6,
+            "responseMimeType": "application/json"
+        }
+    }
+
+    headers = {"Content-Type": "application/json"}
+
+    try:
+        data = post_with_retries(url, headers, payload)
+    except requests.HTTPError as exc:
+        # Alguns modelos/contas podem não aceitar responseMimeType.
+        # Tenta de novo sem forçar JSON.
+        status = exc.response.status_code if exc.response is not None else None
+        if status == 400:
+            payload["generationConfig"].pop("responseMimeType", None)
+            data = post_with_retries(url, headers, payload)
+        else:
+            raise
+
+    candidates = data.get("candidates") or []
+    if not candidates:
+        raise RuntimeError(f"Gemini não retornou candidatos: {data}")
+
+    content = candidates[0].get("content") or {}
+    parts = content.get("parts") or []
+
+    texts = []
+    for part in parts:
+        if isinstance(part, dict) and part.get("text"):
+            texts.append(str(part["text"]))
+
+    text = "\n".join(texts).strip()
+    if not text:
+        raise RuntimeError(f"Gemini retornou resposta sem texto: {data}")
+
+    return text
+
+
+def _message_content_to_text(content: Any) -> str:
+    if content is None:
+        return ""
+
+    if isinstance(content, str):
+        return content
+
+    if isinstance(content, list):
+        parts = []
+        for item in content:
+            if isinstance(item, dict):
+                if item.get("text"):
+                    parts.append(str(item["text"]))
+                elif item.get("content"):
+                    parts.append(str(item["content"]))
+            else:
+                parts.append(str(item))
+        return "\n".join(parts)
+
+    return str(content)
+
+
+def call_openai_compatible(prompt: str, model: str, api_key: str, base_url: str) -> str:
+    """
+    Usa endpoint compatível com OpenAI.
+
+    Exemplos:
+    https://generativelanguage.googleapis.com/v1beta/openai
+    https://openrouter.ai/api/v1
+    https://api.groq.com/openai/v1
+    """
+    base_url = (base_url or "https://api.openai.com/v1").rstrip("/")
+    url = f"{base_url}/chat/completions"
+
+    payload = {
+        "model": model,
+        "messages": [
+            {
+                "role": "system",
+                "content": "Você é um copywriter brasileiro especialista em ofertas para Telegram. Responda somente JSON válido."
+            },
+            {
+                "role": "user",
+                "content": prompt
+            }
+        ],
+        "temperature": 0.6
+    }
+
+    headers = {
+        "Content-Type": "application/json",
+        "Authorization": f"Bearer {api_key}"
+    }
+
+    data = post_with_retries(url, headers, payload)
+    choices = data.get("choices") or []
+
+    if not choices:
+        raise RuntimeError(f"API não retornou choices: {data}")
+
+    message = choices[0].get("message") or {}
+    content = _message_content_to_text(message.get("content")).strip()
+
+    if not content:
+        raise RuntimeError(f"API retornou mensagem sem content: {data}")
+
+    return content
+
+
+def offer_from_ai_text(product: Product, ai_text: str, cfg: Dict[str, Any]) -> OfferCopy:
+    data = parse_json_from_text(ai_text)
+
+    if data is None:
+        # Se a IA responder texto livre, usa o próprio texto como legenda.
+        caption = finalize_caption(product, ai_text, cfg)
+        return OfferCopy(
+            approved=True,
+            title_short=clamp(product.title, 70),
+            hook="🔥 Oferta encontrada!",
+            caption=caption,
+            hashtags=["#oferta", f"#{product.marketplace}"],
+            reason=""
+        )
+
+    approved = bool(data.get("approved", True))
+    reason = str(data.get("reason") or "")
+
+    if not approved:
+        return OfferCopy(
+            approved=False,
+            title_short=str(data.get("title_short") or product.title)[:80],
+            hook=str(data.get("hook") or ""),
+            caption="",
+            hashtags=data.get("hashtags") or [],
+            reason=reason
+        )
+
+    caption = str(data.get("caption") or "").strip()
+    caption = finalize_caption(product, caption, cfg)
+
+    hashtags = data.get("hashtags") or []
+    if not isinstance(hashtags, list):
+        hashtags = []
+
+    return OfferCopy(
+        approved=True,
+        title_short=str(data.get("title_short") or product.title)[:80],
+        hook=str(data.get("hook") or "🔥 Oferta encontrada!"),
+        caption=caption,
+        hashtags=hashtags,
+        reason=reason
+    )
+
+
+def ai_copy(product: Product, cfg: Dict[str, Any]) -> OfferCopy:
+    api_key = (
+        os.getenv("GOOGLE_API_KEY", "").strip()
+        or os.getenv("GEMINI_API_KEY", "").strip()
+        or os.getenv("OPENAI_API_KEY", "").strip()
+    )
+
+    if not api_key:
+        return fallback_copy(product, cfg)
+
+    model = os.getenv("OPENAI_MODEL", "gemini-2.5-flash").strip()
+    base_url = os.getenv("OPENAI_BASE_URL", "").strip()
+    provider = os.getenv("AI_PROVIDER", "").strip().lower()
+
+    # Se não informar provider, detecta automaticamente.
+    if not provider:
+        if "generativelanguage.googleapis.com" in base_url or model.startswith("gemini"):
+            provider = "gemini"
+        else:
+            provider = "openai_compatible"
+
+    prompt = build_prompt(product, cfg)
+
+    try:
+        if provider in {"gemini", "google", "google_gemini", "google-ai-studio"}:
+            ai_text = call_gemini_direct(prompt, model, api_key)
+        else:
+            ai_text = call_openai_compatible(prompt, model, api_key, base_url)
+
+        offer = offer_from_ai_text(product, ai_text, cfg)
+
+        if offer.approved:
+            print(f"[copywriter] IA OK via {provider} ({model})")
+
+        return offer
+
+    except Exception as exc:
+        print(f"[copywriter] IA falhou; usando fallback. Erro: {exc}")
+        return fallback_copy(product, cfg)
+
+
+def create_copy(product: Product, cfg: Dict[str, Any]) -> OfferCopy:
+    if _copy_cfg(cfg).get("use_ai", True):
+        return ai_copy(product, cfg)
+
+    return fallback_copy(product, cfg)

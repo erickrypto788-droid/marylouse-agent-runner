@@ -1,0 +1,1064 @@
+agent:
+  language: pt-BR
+  timezone: America/Sao_Paulo
+  post_limit_per_run: 3
+  max_candidates_per_run: 80
+  recent_duplicate_days: 10
+  min_seconds_between_posts: 60
+  dry_run: true
+  post_one_per_marketplace: true
+  posts_per_marketplace: 1
+  posts_per_marketplace_by_marketplace:
+    mercadolivre: 5
+    shopee: 5
+    aliexpress: 3
+telegram:
+  parse_mode: ''
+  disable_web_page_preview: false
+copywriting:
+  use_ai: true
+  affiliate_disclosure: ''
+  max_caption_chars: 950
+  style:
+  - Curto
+  - Direto
+  - Tom de achadinho/oferta
+  - Sem promessas falsas
+  - Sem inventar cupom, estoque, desconto ou frete
+filters:
+  min_discount_percent: 0
+  min_price: 10
+  max_price: 5000
+  require_image: true
+  allowed_marketplaces:
+  - mercadolivre
+  - amazon
+  - shopee
+  - aliexpress
+  - csv
+  marketplace_title_blacklist:
+    aliexpress:
+    - watch
+    - watches
+    - relogio
+    - relógio
+    - olevs
+    - quartz watch
+    - wristwatch
+    - pill box
+    - medicine box
+    - porta remedio
+    - porta-remedio
+    - porta remédio
+    - porta-remédio
+    - tablet box
+    - medicine organizer
+    - slipper
+    - slippers
+    - fluffy
+    - fur slipper
+    - fur slippers
+    - plush slipper
+    - plush slippers
+    - cross strap fur
+    - women's fluffy
+    - tesla
+    - model y
+    - bumper
+    - scratch resistant
+    - car lens
+    - camera lens guard
+    - protective cover for
+    - car cover
+    - auto trim
+    - car sticker
+    - insole
+    - shoe pad
+    - women dress
+    - men shirt
+    - women blouse
+    - men jacket
+    mercadolivre:
+    - mochila
+    - bolsa para notebook
+    - capa para notebook
+    - estojo para notebook
+    - avental
+    - mochila escolar grande console
+    - avental para forno
+    - adesivo
+    - pelicula
+    - película
+    - molho ração
+    - molho racao
+    - petisco churrasco
+    - petisco costela
+    - petisco frango
+    - animalíssimo
+    - animalissimo
+    - filtro bebedouro pet
+    - refil bebedouro pet
+  marketplace_filters:
+    mercadolivre:
+      min_price: 15
+      max_price: 15000
+    aliexpress:
+      min_price: 20
+      max_price: 2500
+scoring:
+  discount_weight: 0.35
+  commission_weight: 0.25
+  sales_weight: 0.18
+  rating_weight: 0.12
+  shipping_weight: 0.07
+  novelty_weight: 0.03
+  high_ticket_weight: 0.12
+  premium_keyword_boost: 0.08
+tracking:
+  channel: telegram
+  campaign: ofertas
+  sub_id_prefix: tg
+  affiliate_templates:
+    mercadolivre: '{url}'
+    amazon: '{url}'
+    shopee: '{url}'
+    aliexpress: '{url}'
+    csv: '{url}'
+marketplaces:
+  mercadolivre:
+    enabled: true
+    keywords:
+    - sofa
+    - mesa de jantar
+    - cadeira escritorio
+    - rack para tv
+    - painel para tv
+    - luminaria led
+    - tapete sala
+    - organizador cozinha
+    - jogo de panelas
+    - mesa gamer
+    limit_per_keyword: 25
+    sort: relevance
+    site_id: MLB
+    condition: new
+    free_shipping: false
+    only_deals: false
+    category_label: Mercado Livre
+    require_affiliate_link: true
+    affiliate_mode: matt_params
+    pending_links_file: data/mercadolivre_pending_links.csv
+    affiliate_links_file: data/mercadolivre_affiliate_links.csv
+    matt_word: eu20251007130002
+    matt_tool: '50459180'
+    force_in_app: true
+    integration_status: active_matt_params
+    note: Links Mercado Livre gerados automaticamente com matt_word/matt_tool. Cliques
+      confirmados no painel com delay.
+    source_mode: catalog
+    max_products_per_keyword: 12
+    allowed_domain_ids: []
+    blocked_domain_ids: []
+    domain_category_labels:
+      MLB-CELLPHONES: Celulares
+      MLB-NOTEBOOKS: Computadores
+      MLB-AIR_FRYERS: Casa e Cozinha
+      MLB-KITCHEN_COOKWARE_KITS: Casa e Cozinha
+      MLB-GAME_CONSOLES: Jogos e Consoles
+      MLB-VIDEO_GAMES: Jogos e Consoles
+      MLB-TELEVISIONS: Eletrônicos
+      MLB-HEADPHONES: Eletrônicos
+      MLB-SPEAKERS: Eletrônicos
+      MLB-TABLETS: Eletrônicos
+    posts_per_run: 5
+    niche_mode: sequential
+    niche_state_file: data/mercadolivre_niche_state.json
+    keyword_groups:
+      casa_moveis_decoracao:
+        enabled: true
+        name: Casa, Móveis e Decoração
+        category_label: Casa e Decoração
+        keywords:
+        - jogo de panelas
+        - panelas antiaderente
+        - air fryer
+        - cafeteira
+        - liquidificador
+        - aspirador de po
+        - ventilador
+        - umidificador
+        - organizador cozinha
+        - mesa gamer
+        - cadeira escritorio
+        - cadeira gamer
+        - rack para tv
+        - painel para tv
+        - tapete sala
+        - luminaria led
+        - mesa de jantar
+        - guarda roupa
+        - sofa
+        - cama box
+        allowed_domain_ids: []
+      calcados_roupas_bolsas:
+        enabled: true
+        name: Calçados, Roupas e Bolsas
+        category_label: Moda
+        keywords:
+        - tenis masculino
+        - tenis feminino
+        - tenis nike
+        - tenis adidas
+        - sandalia feminina
+        - bota feminina
+        - bolsa feminina
+        - mochila feminina
+        - jaqueta masculina
+        - jaqueta feminina
+        - vestido feminino
+        - camiseta masculina
+        - calca jeans feminina
+        - calca jeans masculina
+        - shorts feminino
+        - moletom masculino
+        - moletom feminino
+        - chinelo masculino
+        - chinelo feminino
+        - sapato social masculino
+        allowed_domain_ids: []
+      esportes_fitness:
+        enabled: true
+        name: Esportes e Fitness
+        category_label: Esportes e Fitness
+        keywords:
+        - bicicleta
+        - esteira ergometrica
+        - halteres
+        - bike spinning
+        - tenis corrida
+        - luva academia
+        - whey protein
+        - bola futebol
+        - corda pular
+        - tapete yoga
+        allowed_domain_ids: []
+      beleza_cuidado_pessoal:
+        enabled: true
+        name: Beleza e Cuidado Pessoal
+        category_label: Beleza
+        keywords:
+        - secador cabelo
+        - chapinha cabelo
+        - escova secadora
+        - barbeador eletrico
+        - maquina cortar cabelo
+        - aparador de pelos
+        - perfume feminino
+        - perfume masculino
+        - kit skincare
+        - massageador facial
+        allowed_domain_ids: []
+      eletrodomesticos:
+        enabled: true
+        name: Eletrodomésticos
+        category_label: Eletrodomésticos
+        keywords:
+        - air fryer
+        - fritadeira air fryer
+        - aspirador de po
+        - liquidificador
+        - cafeteira
+        - microondas
+        - maquina lavar
+        - geladeira
+        - ventilador
+        - purificador agua
+        allowed_domain_ids: []
+      ferramentas:
+        enabled: true
+        name: Ferramentas
+        category_label: Ferramentas
+        keywords:
+        - furadeira
+        - parafusadeira
+        - kit ferramentas
+        - serra circular
+        - lavadora alta pressao
+        - multimetro
+        - chave impacto
+        - esmerilhadeira
+        - caixa ferramentas
+        - compressor ar
+        allowed_domain_ids: []
+      informatica:
+        enabled: true
+        name: Informática
+        category_label: Informática
+        keywords:
+        - notebook
+        - notebook gamer
+        - monitor gamer
+        - monitor 24 polegadas
+        - ssd 1tb
+        - ssd nvme
+        - teclado mecanico
+        - mouse gamer
+        - roteador wifi
+        - impressora
+        allowed_domain_ids: []
+      eletronicos_audio_video:
+        enabled: true
+        name: Eletrônicos, Áudio e Vídeo
+        category_label: Eletrônicos
+        keywords:
+        - smart tv
+        - caixa de som bluetooth
+        - fone bluetooth
+        - soundbar
+        - projetor
+        - camera seguranca
+        - tablet
+        - controle remoto universal
+        - tv box
+        - home theater
+        allowed_domain_ids: []
+      celulares_telefones:
+        enabled: true
+        name: Celulares e Telefones
+        category_label: Celulares
+        keywords:
+        - smartphone samsung
+        - smartphone xiaomi
+        - iphone
+        - motorola
+        - celular 5g
+        - redmi note
+        - poco x6
+        - galaxy a55
+        - carregador iphone
+        - power bank
+        allowed_domain_ids: []
+      brinquedos_hobbies:
+        enabled: true
+        name: Brinquedos e Hobbies
+        category_label: Brinquedos
+        keywords:
+        - lego
+        - boneca
+        - carrinho controle remoto
+        - brinquedo educativo
+        - hot wheels
+        - massinha
+        - quebra cabeca
+        - nerf
+        - patinete infantil
+        - piscina infantil
+        allowed_domain_ids: []
+      saude:
+        enabled: true
+        name: Saúde
+        category_label: Saúde
+        keywords:
+        - monitor pressao
+        - oximetro
+        - termometro digital
+        - balanca digital
+        - inalador nebulizador
+        - massageador
+        - medidor glicose
+        - cadeira rodas
+        - umidificador ar
+        - purificador ar
+        allowed_domain_ids: []
+      pet_shop:
+        enabled: true
+        name: Pet Shop
+        category_label: Pet
+        keywords:
+        - racao cachorro
+        - racao gato
+        - arranhador gato
+        - bebedouro pet
+        - comedouro automatico
+        - cama cachorro
+        - tapete higienico
+        - caixa transporte pet
+        - brinquedo cachorro
+        - coleira cachorro
+        allowed_domain_ids: []
+      bebes:
+        enabled: true
+        name: Bebês
+        category_label: Bebês
+        keywords:
+        - carrinho bebe
+        - bebe conforto
+        - cadeirinha carro bebe
+        - mamadeira
+        - monitor bebe
+        - berco portatil
+        - banheira bebe
+        - cadeira alimentacao
+        - fralda
+        - mochila maternidade
+        allowed_domain_ids: []
+      arte_papelaria_armarinho:
+        enabled: true
+        name: Arte, Papelaria e Armarinho
+        category_label: Papelaria
+        keywords:
+        - kit pintura
+        - caneta marcador
+        - papelaria
+        - maquina costura
+        - tecido tricoline
+        - organizador escritorio
+        - caderno inteligente
+        - lapis de cor
+        - impressora etiquetas
+        - kit desenho
+        allowed_domain_ids: []
+      games:
+        enabled: true
+        name: Games
+        category_label: Games
+        keywords:
+        - xbox series s
+        - xbox series x
+        - playstation 5
+        - nintendo switch
+        - controle xbox
+        - controle ps5
+        - jogo ps5
+        - jogo xbox
+        - headset gamer
+        - cadeira gamer
+        allowed_domain_ids: []
+        blocked_domain_ids:
+        - MLB-BACKPACKS
+        - MLB-HANDBAGS
+      supermercados:
+        enabled: true
+        name: Supermercados
+        category_label: Supermercados
+        source_urls:
+        - https://www.mercadolivre.com.br/supermercado/market/bebes-e-criancas
+        - https://www.mercadolivre.com.br/supermercado/market/higiene-e-cuidados-pessoais
+        - https://www.mercadolivre.com.br/supermercado/market/limpeza
+        keywords:
+        - fralda
+        - fralda pampers
+        - fralda huggies
+        - lenço umedecido bebê
+        - pomada assadura
+        - sabonete bebê
+        - shampoo infantil
+        - condicionador infantil
+        - mamadeira
+        - chupeta bebê
+        - talco bebê
+        - kit higiene bebê
+        - shampoo
+        - condicionador
+        - sabonete líquido
+        - sabonete barra
+        - desodorante
+        - creme dental
+        - escova dental
+        - enxaguante bucal
+        - absorvente
+        - papel higiênico
+        - aparelho barbear
+        - hidratante corporal
+        - sabão líquido
+        - lava roupas
+        - amaciante
+        - detergente
+        - desinfetante
+        - limpador multiuso
+        - água sanitária
+        - álcool limpeza
+        - lava louças
+        - esponja limpeza
+        - papel toalha
+        - saco lixo
+        blocked_domain_ids: []
+        allowed_domain_ids: []
+    niche_groups_per_run: 1
+  amazon:
+    enabled: false
+    keywords:
+    - fone bluetooth
+    - ssd
+    - air fryer
+    search_index: All
+    item_count: 10
+    min_savings_percent: 5
+  shopee:
+    enabled: true
+    keywords:
+    - fone bluetooth
+    - informática
+    - air fryer
+    - smartwatch
+    - ssd
+    - kit cozinha
+    - maquiagem
+    - brinquedos
+    - smartphone
+    - gamer
+    limit_per_keyword: 20
+    list_type: 2
+    sort_type: 2
+  aliexpress:
+    enabled: true
+    keywords:
+    - bluetooth speaker
+    - wireless earphones
+    - security camera
+    - projector
+    - action camera
+    - led strip
+    - solar light
+    - desk lamp
+    - night light
+    - hair dryer
+    - hair straightener
+    - electric shaver
+    - facial massager
+    - nail drill
+    - makeup organizer
+    - baby monitor
+    - baby bottle
+    - educational toy
+    - phone charger
+    - usb c cable
+    - power bank
+    - phone holder
+    - smart plug
+    - mini projector
+    page_size: 40
+    target_currency: BRL
+    target_language: EN
+    ship_to_country: BR
+    sort: null
+    affiliate_link_mode: generated
+    ship_from_country: BR
+    delivery_days: '10'
+    selected_ad_center_categories:
+    - Lights & Lighting
+    - Consumer Electronics
+    - Beauty & Health
+    - Mother & Kids
+    - Women's Clothing
+    - Men's Clothing
+    - Special Category
+    - Phones & Telecommunications
+    posts_per_run: 3
+  csv:
+    enabled: false
+    path: data/products.example.csv
+niches:
+  enabled: true
+  mode: sequential
+  state_file: data/niche_state.json
+  lists:
+    shopee_roupas_femininas:
+      enabled: true
+      name: Roupas Femininas
+      only_marketplaces:
+      - shopee
+      min_price: 25
+      max_price: 800
+      marketplaces:
+        shopee:
+        - vestido feminino
+        - blusa feminina
+        - calça feminina
+        - saia feminina
+        - conjunto feminino
+        - cropped feminino
+        - jaqueta feminina
+        - legging feminina
+        - moda feminina
+        - lingerie feminina
+    shopee_roupas_masculinas:
+      enabled: true
+      name: Roupas Masculinas
+      only_marketplaces:
+      - shopee
+      min_price: 25
+      max_price: 800
+      marketplaces:
+        shopee:
+        - camiseta masculina
+        - camisa masculina
+        - bermuda masculina
+        - calça masculina
+        - jaqueta masculina
+        - moletom masculino
+        - camisa polo masculina
+        - conjunto masculino
+        - cueca masculina
+        - roupa masculina
+    shopee_roupas_plus_size:
+      enabled: true
+      name: Roupas Plus Size
+      only_marketplaces:
+      - shopee
+      min_price: 30
+      max_price: 900
+      marketplaces:
+        shopee:
+        - vestido plus size
+        - blusa plus size
+        - moda plus size feminina
+        - calça plus size
+        - conjunto plus size
+        - lingerie plus size
+        - camiseta plus size
+        - bermuda plus size
+        - moda plus size masculina
+        - jaqueta plus size
+    shopee_sapatos_masculinos:
+      enabled: true
+      name: Sapatos Masculinos
+      only_marketplaces:
+      - shopee
+      min_price: 35
+      max_price: 1000
+      marketplaces:
+        shopee:
+        - tenis masculino
+        - sapato social masculino
+        - bota masculina
+        - chinelo masculino
+        - sandalia masculina
+        - sapatênis masculino
+        - tenis casual masculino
+        - tenis corrida masculino
+        - mocassim masculino
+        - coturno masculino
+    shopee_celulares_dispositivos:
+      enabled: true
+      name: Celulares e Dispositivos
+      only_marketplaces:
+      - shopee
+      min_price: 80
+      max_price: 8000
+      marketplaces:
+        shopee:
+        - smartphone samsung
+        - celular samsung
+        - smartphone xiaomi
+        - celular xiaomi
+        - redmi note
+        - poco x6
+        - poco x7
+        - iphone
+        - motorola edge
+        - galaxy a55
+        - galaxy s23
+        - galaxy s24
+        - smartphone 5g
+        - smartwatch
+        - fone bluetooth
+        - power bank
+        - carregador turbo
+        - cabo usb c
+    shopee_eletrodomesticos:
+      enabled: true
+      name: Eletrodomésticos
+      only_marketplaces:
+      - shopee
+      min_price: 50
+      max_price: 6000
+      marketplaces:
+        shopee:
+        - air fryer
+        - fritadeira air fryer
+        - liquidificador
+        - cafeteira
+        - aspirador de pó
+        - ventilador
+        - microondas
+        - purificador de água
+        - batedeira
+        - sanduicheira
+        - panela eletrica
+        - ferro de passar
+    shopee_beleza:
+      enabled: true
+      name: Beleza
+      only_marketplaces:
+      - shopee
+      min_price: 25
+      max_price: 1500
+      marketplaces:
+        shopee:
+        - escova secadora
+        - secador de cabelo
+        - chapinha cabelo
+        - modelador de cachos
+        - maquina cortar cabelo
+        - barbeador eletrico
+        - aparador de pelos
+        - kit skincare
+        - massageador facial
+        - organizador maquiagem
+        - espelho led
+        - perfume feminino
+    shopee_sapatos_femininos:
+      enabled: true
+      name: Sapatos Femininos
+      only_marketplaces:
+      - shopee
+      min_price: 35
+      max_price: 1000
+      marketplaces:
+        shopee:
+        - tenis feminino
+        - sandalia feminina
+        - bota feminina
+        - chinelo feminino
+        - sapato feminino
+        - sapatilha feminina
+        - salto feminino
+        - rasteirinha feminina
+        - tenis casual feminino
+        - tenis corrida feminino
+    shopee_moda_infantil:
+      enabled: true
+      name: Moda infantil
+      only_marketplaces:
+      - shopee
+      min_price: 20
+      max_price: 700
+      marketplaces:
+        shopee:
+        - roupa infantil
+        - vestido infantil
+        - conjunto infantil
+        - tenis infantil
+        - sandalia infantil
+        - pijama infantil
+        - moletom infantil
+        - camiseta infantil
+        - bermuda infantil
+        - moda infantil menina
+        - moda infantil menino
+    shopee_esportes_lazer:
+      enabled: true
+      name: Esportes e Lazer
+      only_marketplaces:
+      - shopee
+      min_price: 25
+      max_price: 2500
+      marketplaces:
+        shopee:
+        - tenis corrida
+        - halteres
+        - corda pular
+        - tapete yoga
+        - luva academia
+        - bike spinning
+        - bola futebol
+        - mochila esportiva
+        - garrafa academia
+        - camiseta esportiva
+        - shorts academia
+        - whey protein
+    shopee_brinquedos_hobbies:
+      enabled: true
+      name: Brinquedos e Hobbies
+      only_marketplaces:
+      - shopee
+      min_price: 20
+      max_price: 1200
+      marketplaces:
+        shopee:
+        - brinquedo educativo
+        - lego
+        - carrinho controle remoto
+        - boneca
+        - hot wheels
+        - massinha
+        - quebra cabeça
+        - nerf
+        - patinete infantil
+        - piscina infantil
+        - brinquedo montessori
+        - jogo de tabuleiro
+    shopee_saude:
+      enabled: true
+      name: Saúde
+      only_marketplaces:
+      - shopee
+      min_price: 25
+      max_price: 2000
+      marketplaces:
+        shopee:
+        - monitor de pressão
+        - oximetro
+        - termometro digital
+        - balança digital
+        - inalador nebulizador
+        - massageador
+        - medidor glicose
+        - umidificador ar
+        - purificador ar
+        - almofada ortopedica
+        - corretor postura
+    shopee_mae_bebe:
+      enabled: true
+      name: Mãe e Bebê
+      only_marketplaces:
+      - shopee
+      min_price: 25
+      max_price: 2500
+      marketplaces:
+        shopee:
+        - carrinho de bebe
+        - bebe conforto
+        - cadeirinha carro bebe
+        - mamadeira
+        - monitor bebe
+        - berco portatil
+        - banheira bebe
+        - cadeira alimentacao
+        - mochila maternidade
+        - bolsa maternidade
+        - aquecedor mamadeira
+    shopee_bolsas_femininas:
+      enabled: true
+      name: Bolsas Femininas
+      only_marketplaces:
+      - shopee
+      min_price: 25
+      max_price: 1200
+      marketplaces:
+        shopee:
+        - bolsa feminina
+        - bolsa transversal feminina
+        - bolsa maternidade
+        - mochila feminina
+        - bolsa de couro feminina
+        - bolsa pequena feminina
+        - bolsa tiracolo feminina
+        - bolsa praia feminina
+        - carteira feminina
+        - necessaire feminina
+    shopee_bolsas_masculinas:
+      enabled: true
+      name: Bolsas Masculinas
+      only_marketplaces:
+      - shopee
+      min_price: 25
+      max_price: 1200
+      marketplaces:
+        shopee:
+        - mochila masculina
+        - bolsa masculina
+        - pochete masculina
+        - carteira masculina
+        - mochila notebook
+        - bolsa transversal masculina
+        - mala viagem
+        - necessaire masculina
+        - mochila executiva
+        - mochila impermeavel
+    shopee_papelaria:
+      enabled: true
+      name: Papelaria
+      only_marketplaces:
+      - shopee
+      min_price: 15
+      max_price: 800
+      marketplaces:
+        shopee:
+        - caderno inteligente
+        - caneta marcador
+        - kit papelaria
+        - lapis de cor
+        - organizador escritorio
+        - impressora etiquetas
+        - planner
+        - estojo escolar
+        - mochila escolar
+        - papelaria criativa
+        - marca texto
+        - caneta gel
+    shopee_computadores_acessorios:
+      enabled: true
+      name: Computadores e Acessórios
+      only_marketplaces:
+      - shopee
+      min_price: 80
+      max_price: 7000
+      marketplaces:
+        shopee:
+        - notebook
+        - notebook gamer
+        - monitor gamer
+        - monitor 24 polegadas
+        - monitor 27 polegadas
+        - mini pc
+        - ssd 1tb
+        - ssd nvme
+        - teclado mecanico
+        - mouse gamer
+        - webcam full hd
+        - roteador wifi 6
+        - hub usb c
+        - suporte notebook
+        - cadeira escritorio
+    shopee_bebidas_alimentos:
+      enabled: true
+      name: Bebidas e Alimentos
+      only_marketplaces:
+      - shopee
+      min_price: 15
+      max_price: 1000
+      marketplaces:
+        shopee:
+        - cafe gourmet
+        - capsula cafe
+        - whey protein
+        - creatina
+        - suplemento alimentar
+        - cha
+        - azeite
+        - chocolate
+        - barra proteina
+        - leite em po
+        - granola
+        - castanhas
+    shopee_jogos_consoles:
+      enabled: true
+      name: Jogos e Consoles
+      only_marketplaces:
+      - shopee
+      min_price: 80
+      max_price: 7000
+      marketplaces:
+        shopee:
+        - console portatil
+        - console retro
+        - video game portatil
+        - nintendo switch
+        - xbox series s
+        - playstation 5
+        - controle ps5
+        - controle xbox
+        - controle nintendo switch
+        - jogo ps5
+        - jogo xbox
+        - headset gamer
+        - cadeira gamer
+        - mesa gamer
+        - volante gamer
+        - controle arcade
+        - game stick
+        - tv box game
+    ali_toys_games:
+      enabled: true
+      name: Toys & Games
+      only_marketplaces:
+      - aliexpress
+      min_price: 20
+      max_price: 1200
+      marketplaces:
+        aliexpress:
+        - educational toy
+        - building blocks
+        - rc car
+        - kids toy
+        - puzzle toy
+        - montessori toy
+        - action figure
+        - board game
+        - baby toy
+        - creative toy
+    ali_cellphones_accessories:
+      enabled: true
+      name: Cell Phones & Accessories
+      only_marketplaces:
+      - aliexpress
+      min_price: 20
+      max_price: 1500
+      marketplaces:
+        aliexpress:
+        - phone charger
+        - usb c cable
+        - phone case
+        - power bank
+        - wireless charger
+        - phone holder
+        - car phone holder
+        - screen protector
+        - bluetooth earphones
+        - charging cable
+    ali_electronics:
+      enabled: true
+      name: Electronics
+      only_marketplaces:
+      - aliexpress
+      min_price: 30
+      max_price: 2500
+      marketplaces:
+        aliexpress:
+        - bluetooth speaker
+        - wireless earphones
+        - projector
+        - mini projector
+        - security camera
+        - smart plug
+        - led strip
+        - action camera
+        - microphone
+        - usb hub
+        - portable monitor
+    ali_tools_home_improvement:
+      enabled: true
+      name: Tools & Home Improvement
+      only_marketplaces:
+      - aliexpress
+      min_price: 20
+      max_price: 2000
+      marketplaces:
+        aliexpress:
+        - screwdriver set
+        - electric screwdriver
+        - drill bits
+        - laser level
+        - measuring tape
+        - tool kit
+        - led light
+        - solar light
+        - smart switch
+        - home improvement tool
+        - multimeter
+    ali_baby_maternity:
+      enabled: true
+      name: Baby & Maternity
+      only_marketplaces:
+      - aliexpress
+      min_price: 20
+      max_price: 1500
+      marketplaces:
+        aliexpress:
+        - baby monitor
+        - baby bottle
+        - stroller organizer
+        - baby safety
+        - baby feeding
+        - baby toy
+        - maternity bag
+        - baby carrier
+        - diaper bag
+        - baby bath
+        - baby night light
+site:
+  enabled: true
+  max_offers: 200
+  keep_hours: 12

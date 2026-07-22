@@ -1,0 +1,253 @@
+from __future__ import annotations
+
+import hashlib
+import hmac
+import os
+import re
+import time
+from typing import Any, Dict, List
+
+import requests
+
+from .base import Marketplace
+from ..models import Product
+from ..utils import find_first_key_recursive, normalize_rate, to_float, to_int
+
+
+class AliExpressMarketplace(Marketplace):
+    name = "aliexpress"
+
+    def _sign(self, params: Dict[str, Any]) -> str:
+        secret = os.getenv("ALIEXPRESS_SECRET", "")
+        sorted_string = "".join(f"{k}{params[k]}" for k in sorted(params.keys()))
+        return hmac.new(secret.encode("utf-8"), sorted_string.encode("utf-8"), hashlib.sha256).hexdigest().upper()
+
+    def _request(self, params: Dict[str, Any]) -> Dict[str, Any]:
+        app_key = os.getenv("ALIEXPRESS_APP_KEY", "")
+        secret = os.getenv("ALIEXPRESS_SECRET", "")
+        if not app_key or not secret:
+            raise RuntimeError("ALIEXPRESS_APP_KEY e ALIEXPRESS_SECRET não configurados")
+        endpoint = os.getenv("ALIEXPRESS_ENDPOINT", "https://api-sg.aliexpress.com/sync")
+        base_params: Dict[str, Any] = {
+            "app_key": app_key,
+            "timestamp": int(time.time() * 1000),
+            "v": "2.0",
+            "sign_method": "sha256",
+        }
+        base_params.update({k: v for k, v in params.items() if v is not None and v != ""})
+        base_params["sign"] = self._sign(base_params)
+        resp = requests.get(endpoint, params=base_params, timeout=45)
+        resp.raise_for_status()
+        return resp.json()
+
+
+    def _extract_link_value(self, value: Any) -> str | None:
+        """
+        A API do AliExpress às vezes retorna promotion_link como:
+          "https://..."
+        ou:
+          [{"promotion_link": "...", "source_value": "..."}]
+
+        Esta função extrai somente a URL correta.
+        """
+        if value is None:
+            return None
+
+        if isinstance(value, str):
+            value = value.strip()
+            return value or None
+
+        if isinstance(value, dict):
+            for key in ["promotion_link", "promotionUrl", "promotion_url", "source_value", "sourceValue"]:
+                link = value.get(key)
+                if link:
+                    return str(link).strip()
+            return None
+
+        if isinstance(value, list):
+            for item in value:
+                link = self._extract_link_value(item)
+                if link:
+                    return link
+            return None
+
+        return str(value).strip() or None
+
+    def _generate_affiliate_link(self, url: str) -> str | None:
+        tracking_id = os.getenv("ALIEXPRESS_TRACKING_ID", "")
+        if not tracking_id or not url:
+            return None
+        try:
+            data = self._request(
+                {
+                    "method": "aliexpress.affiliate.link.generate",
+                    "tracking_id": tracking_id,
+                    "promotion_link_type": 0,
+                    "source_values": url,
+                }
+            )
+            # Respostas variam; procura o primeiro campo de link conhecido.
+            link = find_first_key_recursive(data, ["promotion_link", "promotionUrl", "promotion_url"])
+            return str(link).strip() if link else None
+        except Exception as exc:
+            print(f"[aliexpress] Erro gerando link afiliado: {exc}")
+            return None
+
+    def _canonical_detail_url(self, item_id: str, detail_url: str) -> str:
+        """
+        Garante um link limpo do produto.
+        Alguns links retornados pela API vêm com tracking/redirect muito grande ou instável.
+        """
+        detail_url = (detail_url or "").strip()
+
+        # Se já vier um link de item normal, mantém.
+        match = re.search(r"https?://[^\s]+/item/(\d+)\.html", detail_url)
+        if match:
+            return match.group(0)
+
+        # Se a URL tiver o ID em algum lugar, cria URL canônica.
+        match = re.search(r"/(\d{8,})\.html", detail_url)
+        if match:
+            return f"https://www.aliexpress.com/item/{match.group(1)}.html"
+
+        # Fallback pelo product_id.
+        if item_id:
+            return f"https://www.aliexpress.com/item/{item_id}.html"
+
+        return detail_url
+
+    def _choose_final_link(self, item: Dict[str, Any], detail_url: str, mcfg: Dict[str, Any]) -> str:
+        """
+        Controla qual link usar no Telegram.
+
+        affiliate_link_mode no config.yaml:
+          detail    = usa link limpo do produto. Mais seguro para abrir o produto.
+          query     = usa promotion_link retornado na busca da API.
+          generated = tenta gerar link afiliado via aliexpress.affiliate.link.generate.
+          auto      = tenta generated, depois query, depois detail.
+
+        Para resolver link gigante/quebrado, use detail primeiro.
+        """
+        mode = str(mcfg.get("affiliate_link_mode", "detail")).strip().lower()
+        query_link = self._extract_link_value(item.get("promotion_link") or item.get("promotionUrl") or item.get("promotion_url")) or ""
+
+        if mode == "query":
+            return query_link or detail_url
+
+        if mode == "generated":
+            return self._generate_affiliate_link(detail_url) or detail_url
+
+        if mode == "auto":
+            return self._generate_affiliate_link(detail_url) or query_link or detail_url
+
+        # Padrão: detail. É o modo mais estável para garantir que abre o produto certo.
+        return detail_url
+
+
+    def _normalize_rating(self, value: Any) -> float | None:
+        """
+        O AliExpress às vezes retorna evaluate_rate como percentual, ex: 98%.
+        O agente espera nota de 0 a 5.
+        Então:
+          98  -> 4.9
+          96% -> 4.8
+          4.7 -> 4.7
+        """
+        rating = to_float(value)
+        if rating is None:
+            return None
+
+        # Se vier como percentual 0-100, converte para escala 0-5.
+        if rating > 5 and rating <= 100:
+            return round(rating / 20, 2)
+
+        # Se vier fora do padrão, evita mostrar nota absurda.
+        if rating > 100:
+            return None
+
+        return rating
+
+    def fetch(self) -> List[Product]:
+        mcfg = self.cfg.get("marketplaces", {}).get(self.name, {})
+        if not mcfg.get("enabled", False):
+            return []
+        if not os.getenv("ALIEXPRESS_APP_KEY") or not os.getenv("ALIEXPRESS_SECRET"):
+            print("[aliexpress] Desabilitado: configure ALIEXPRESS_APP_KEY e ALIEXPRESS_SECRET para usar a API.")
+            return []
+
+        keywords = mcfg.get("keywords", []) or []
+        page_size = int(mcfg.get("page_size", 20))
+        products: List[Product] = []
+        seen: set[str] = set()
+
+        for keyword in keywords:
+            params = {
+                "method": "aliexpress.affiliate.product.query",
+                "keywords": keyword,
+                "page_no": 1,
+                "page_size": page_size,
+                "target_currency": mcfg.get("target_currency", "BRL"),
+                "target_language": mcfg.get("target_language", "EN"),
+                "ship_to_country": mcfg.get("ship_to_country", "BR"),
+                "sort": mcfg.get("sort"),
+                "tracking_id": os.getenv("ALIEXPRESS_TRACKING_ID", ""),
+                "fields": "product_id,product_title,product_main_image_url,product_detail_url,promotion_link,target_sale_price,target_original_price,sale_price,original_price,discount,volume,lastest_volume,evaluate_rate,commission_rate,shop_url,shop_id",
+            }
+            try:
+                data = self._request(params)
+            except Exception as exc:
+                print(f"[aliexpress] Erro buscando '{keyword}': {exc}")
+                continue
+
+            raw_products = find_first_key_recursive(data, ["product"])
+            if raw_products is None:
+                raw_products = find_first_key_recursive(data, ["products"])
+            if raw_products is None:
+                print(f"[aliexpress] Nenhum produto encontrado para '{keyword}'. Resposta resumida: {str(data)[:300]}")
+                continue
+            if isinstance(raw_products, dict):
+                raw_products = [raw_products]
+            if not isinstance(raw_products, list):
+                continue
+
+            for item in raw_products:
+                if not isinstance(item, dict):
+                    continue
+
+                item_id = str(item.get("product_id") or item.get("productId") or item.get("itemId") or "").strip()
+                if not item_id or item_id in seen:
+                    continue
+                seen.add(item_id)
+
+                title = str(item.get("product_title") or item.get("productTitle") or "").strip()
+                price = to_float(item.get("target_sale_price") or item.get("sale_price") or item.get("app_sale_price"))
+                old_price = to_float(item.get("target_original_price") or item.get("original_price"))
+                discount = to_float(item.get("discount"))
+                if old_price is None and price is not None and discount and 0 < discount < 100:
+                    old_price = round(price / (1 - discount / 100), 2)
+
+                raw_detail_url = str(item.get("product_detail_url") or item.get("productUrl") or item.get("product_url") or "")
+                detail_url = self._canonical_detail_url(item_id, raw_detail_url)
+                final_link = self._choose_final_link(item, detail_url, mcfg)
+
+                products.append(
+                    Product(
+                        marketplace=self.name,
+                        id=item_id,
+                        title=title,
+                        price=price,
+                        old_price=old_price,
+                        currency=str(mcfg.get("target_currency", "BRL")),
+                        url=detail_url,
+                        # Mantemos affiliate_url preenchido para o agente não tentar recriar outro link depois.
+                        affiliate_url=final_link,
+                        image_url=str(item.get("product_main_image_url") or item.get("imageUrl") or "") or None,
+                        rating=self._normalize_rating(item.get("evaluate_rate") or item.get("evaluateScore")),
+                        sales_count=to_int(item.get("volume") or item.get("lastest_volume")),
+                        commission_rate=normalize_rate(item.get("commission_rate") or item.get("commissionRate")),
+                        shipping_text=None,
+                        category=None,
+                        raw=item,
+                    )
+                )
+        return products

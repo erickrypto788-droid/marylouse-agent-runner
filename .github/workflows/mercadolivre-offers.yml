@@ -1,0 +1,231 @@
+﻿name: Mercado Livre ofertas
+
+run-name: Mercado Livre - ${{ github.event.inputs.post_count }} produto(s)
+
+on:
+  workflow_dispatch:
+    inputs:
+      post_count:
+        description: "Quantidade de produtos Mercado Livre"
+        required: true
+        default: "5"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: marylouse-mercadolivre
+  cancel-in-progress: false
+
+jobs:
+  mercadolivre:
+    name: Rodar Mercado Livre independente
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+
+    steps:
+      - name: Baixar repositório do agente
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Configurar Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Instalar dependências
+        run: |
+          python -m pip install --upgrade pip
+
+          if [ -f requirements.txt ]; then
+            pip install -r requirements.txt
+          else
+            pip install requests PyYAML python-dotenv
+          fi
+
+      - name: Baixar repositório público do site
+        uses: actions/checkout@v4
+        with:
+          repository: erickrypto788-droid/marylouse-ofertas
+          token: ${{ secrets.SITE_REPO_TOKEN }}
+          path: site_live
+          fetch-depth: 0
+
+      - name: Preparar dados atuais do site
+        run: |
+          mkdir -p site/data
+
+          if [ -f site_live/data/offers.json ]; then
+            cp site_live/data/offers.json site/data/offers.json
+          else
+            echo "[]" > site/data/offers.json
+          fi
+
+          if [ -f site_live/data/coupons.json ]; then
+            cp site_live/data/coupons.json site/data/coupons.json
+          else
+            echo "[]" > site/data/coupons.json
+          fi
+
+      - name: Configurar Mercado Livre independente
+        env:
+          POST_COUNT: ${{ github.event.inputs.post_count }}
+        run: |
+          python - <<'PY'
+          import os
+          from pathlib import Path
+
+          import yaml
+
+          post_count = int(os.getenv("POST_COUNT", "5"))
+
+          path = Path("config.yaml")
+          cfg = yaml.safe_load(path.read_text(encoding="utf-8")) or {}
+
+          # Desativa rotação global de nichos.
+          cfg.setdefault("niches", {})["enabled"] = False
+          cfg["active_niche"] = None
+
+          agent = cfg.setdefault("agent", {})
+          agent["dry_run"] = False
+          agent["post_one_per_marketplace"] = True
+          agent["posts_per_marketplace"] = post_count
+          agent["post_limit_per_run"] = post_count
+          agent["posts_per_marketplace_by_marketplace"] = {
+              "mercadolivre": post_count
+          }
+
+          marketplaces = cfg.setdefault("marketplaces", {})
+
+          for name, mcfg in marketplaces.items():
+              if isinstance(mcfg, dict):
+                  mcfg["enabled"] = str(name).strip().lower() == "mercadolivre"
+
+          ml = marketplaces.setdefault("mercadolivre", {})
+          ml["enabled"] = True
+          ml["posts_per_run"] = post_count
+          ml["source_mode"] = "catalog"
+          ml["affiliate_mode"] = "matt_params"
+          ml["matt_word"] = "eu20251007130002"
+          ml["matt_tool"] = "50459180"
+          ml["force_in_app"] = True
+          ml["site_id"] = "MLB"
+
+          # Boa cobertura por execução.
+          ml["niche_groups_per_run"] = 1
+          ml["limit_per_keyword"] = 25
+          ml["max_products_per_keyword"] = 12
+
+          filters = cfg.setdefault("filters", {})
+          filters["allowed_marketplaces"] = ["mercadolivre"]
+
+          marketplace_filters = filters.setdefault("marketplace_filters", {})
+          marketplace_filters["mercadolivre"] = {
+              "min_price": 15,
+              "max_price": 15000
+          }
+
+          path.write_text(
+              yaml.safe_dump(cfg, allow_unicode=True, sort_keys=False, default_flow_style=False),
+              encoding="utf-8",
+          )
+
+          print(f"[workflow-mercadolivre] post_count={post_count}")
+          print("[workflow-mercadolivre] Mercado Livre independente configurado.")
+          PY
+
+      - name: Testar sintaxe Python
+        run: |
+          python -m py_compile src/copywriter.py
+          python -m py_compile src/agent.py
+          python -m py_compile src/scoring.py
+          python -m py_compile src/marketplaces/mercadolivre.py
+          python -m py_compile src/site_publisher.py
+
+      - name: Rodar agente Mercado Livre
+        env:
+          DRY_RUN: "false"
+
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+
+          AI_PROVIDER: ${{ secrets.AI_PROVIDER }}
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+          OPENAI_MODEL: ${{ secrets.OPENAI_MODEL }}
+          OPENAI_BASE_URL: ${{ secrets.OPENAI_BASE_URL }}
+
+          MERCADOLIVRE_CLIENT_ID: ${{ secrets.MERCADOLIVRE_CLIENT_ID }}
+          MERCADOLIVRE_CLIENT_SECRET: ${{ secrets.MERCADOLIVRE_CLIENT_SECRET }}
+          MERCADOLIVRE_REFRESH_TOKEN: ${{ secrets.MERCADOLIVRE_REFRESH_TOKEN }}
+          MERCADOLIVRE_MATT_WORD: ${{ secrets.MERCADOLIVRE_MATT_WORD }}
+          MERCADOLIVRE_MATT_TOOL: ${{ secrets.MERCADOLIVRE_MATT_TOOL }}
+
+        run: |
+          python run.py --once --post
+
+      - name: Atualizar ofertas no repositório do site
+        run: |
+          mkdir -p site_live/data
+          cp site/data/offers.json site_live/data/offers.json
+
+      - name: Commit e push no site público
+        working-directory: site_live
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          if [ -n "$(git status --porcelain)" ]; then
+            git add data/offers.json
+            git commit -m "Atualiza ofertas Mercado Livre"
+            git push
+          else
+            echo "Sem alterações no site público."
+          fi
+
+      - name: Persistir estado do agente
+        continue-on-error: true
+        run: |
+          set +e
+
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          STATE_FILES=(
+            "data/agent.sqlite3"
+            "data/mercadolivre_niche_state.json"
+            "data/mercadolivre_oauth_token.json"
+          )
+
+          mkdir -p data
+          mkdir -p /tmp/marylouse-state
+
+          for file in "${STATE_FILES[@]}"; do
+            if [ -f "$file" ]; then
+              cp "$file" "/tmp/marylouse-state/$(basename "$file")"
+            fi
+          done
+
+          git fetch origin main
+          git reset --hard origin/main
+
+          mkdir -p data
+
+          for file in "${STATE_FILES[@]}"; do
+            base="$(basename "$file")"
+            if [ -f "/tmp/marylouse-state/$base" ]; then
+              cp "/tmp/marylouse-state/$base" "$file"
+            fi
+          done
+
+          git add "${STATE_FILES[@]}" || true
+
+          if [ -n "$(git status --porcelain -- "${STATE_FILES[@]}")" ]; then
+            git commit -m "Atualiza estado Mercado Livre [skip ci]" || true
+            git push || true
+          else
+            echo "Sem alterações no estado Mercado Livre."
+          fi
+

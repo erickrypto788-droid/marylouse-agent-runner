@@ -1,0 +1,142 @@
+from __future__ import annotations
+
+import json
+import os
+from typing import Any, Dict
+
+import requests
+
+from .models import Product, OfferCopy
+from .utils import clamp, compact_json
+
+
+def money(value: float | None, currency: str = "BRL") -> str:
+    if value is None:
+        return ""
+    if currency.upper() == "BRL":
+        return "R$ " + f"{value:,.2f}".replace(",", "X").replace(".", ",").replace("X", ".")
+    return f"{currency} {value:.2f}"
+
+
+def fallback_copy(product: Product, cfg: Dict[str, Any]) -> OfferCopy:
+    disclosure = cfg.get("copywriting", {}).get("affiliate_disclosure", "Link de afiliado. Preço sujeito a alteração.")
+    max_chars = int(cfg.get("copywriting", {}).get("max_caption_chars", 950))
+
+    price_line = f"Por: {money(product.price, product.currency)}" if product.price is not None else "Confira o preço no link"
+    old_line = ""
+    if product.old_price and product.old_price > (product.price or 0):
+        old_line = f"De: {money(product.old_price, product.currency)}\n"
+
+    discount_line = f"🔥 {product.discount_percent:.0f}% OFF\n" if product.discount_percent else "🔥 Oferta encontrada\n"
+    shipping_line = f"🚚 {product.shipping_text}\n" if product.shipping_text else ""
+    rating_line = f"⭐ Avaliação: {product.rating:.1f}/5\n" if product.rating else ""
+
+    caption = (
+        f"{discount_line}\n"
+        f"{product.title}\n\n"
+        f"{old_line}"
+        f"{price_line}\n"
+        f"{shipping_line}"
+        f"{rating_line}\n"
+        f"👉 Comprar agora:\n{product.affiliate_url or product.url}\n\n"
+        f"{disclosure}"
+    ).strip()
+
+    caption = clamp(caption, max_chars)
+    return OfferCopy(
+        approved=True,
+        title_short=clamp(product.title, 70),
+        hook="🔥 Oferta encontrada!",
+        caption=caption,
+        hashtags=["#oferta", f"#{product.marketplace}"],
+    )
+
+
+def ai_copy(product: Product, cfg: Dict[str, Any]) -> OfferCopy:
+    api_key = os.getenv("OPENAI_API_KEY", "")
+    if not api_key:
+        return fallback_copy(product, cfg)
+
+    base_url = os.getenv("OPENAI_BASE_URL", "https://api.openai.com/v1").rstrip("/")
+    model = os.getenv("OPENAI_MODEL", "gpt-4o-mini")
+    disclosure = cfg.get("copywriting", {}).get("affiliate_disclosure", "Link de afiliado. Preço sujeito a alteração.")
+    max_chars = int(cfg.get("copywriting", {}).get("max_caption_chars", 950))
+
+    system = (
+        "Você é um curador de ofertas para canal de Telegram no Brasil. "
+        "Escreva textos curtos, objetivos e persuasivos, sem inventar dados. "
+        "Retorne somente JSON válido."
+    )
+    user = {
+        "instrucoes": [
+            "Não invente preço, cupom, desconto, frete, estoque, avaliação ou comissão.",
+            "Se os dados forem insuficientes ou o produto parecer ruim, reprove.",
+            "Mensagem em português do Brasil.",
+            "Use no máximo 2 emojis por bloco, sem exagero.",
+            "Inclua o link de compra exatamente como enviado.",
+            f"Inclua o aviso: {disclosure}",
+            f"A legenda deve ter no máximo {max_chars} caracteres.",
+            "Não use Markdown complexo; texto puro é preferível.",
+        ],
+        "produto": product.to_dict(),
+        "formato_saida": {
+            "approved": True,
+            "title_short": "",
+            "hook": "",
+            "caption": "",
+            "hashtags": ["#oferta"],
+            "reason": "",
+        },
+    }
+
+    try:
+        resp = requests.post(
+            f"{base_url}/chat/completions",
+            headers={"Authorization": f"Bearer {api_key}", "Content-Type": "application/json"},
+            json={
+                "model": model,
+                "messages": [
+                    {"role": "system", "content": system},
+                    {"role": "user", "content": compact_json(user)},
+                ],
+                "temperature": 0.6,
+            },
+            timeout=45,
+        )
+        resp.raise_for_status()
+        content = resp.json()["choices"][0]["message"].get("content") or ""
+        content = content.strip()
+
+        # Alguns modelos retornam JSON dentro de bloco ```json ... ```.
+        if content.startswith("```"):
+            content = re.sub(r"^```(?:json)?\\s*", "", content)
+            content = re.sub(r"\\s*```$", "", content)
+            content = content.strip()
+
+        # Se vier algum texto antes/depois, tenta extrair apenas o objeto JSON.
+        if not content.startswith("{"):
+            match = re.search(r"\{.*\}", content, re.S)
+            if match:
+                content = match.group(0)
+
+        data = json.loads(content)
+        caption = clamp(str(data.get("caption") or ""), max_chars)
+        if not caption:
+            return fallback_copy(product, cfg)
+        return OfferCopy(
+            approved=bool(data.get("approved", True)),
+            title_short=str(data.get("title_short") or product.title)[:80],
+            hook=str(data.get("hook") or "🔥 Oferta encontrada!"),
+            caption=caption,
+            hashtags=data.get("hashtags") or [],
+            reason=str(data.get("reason") or ""),
+        )
+    except Exception as exc:
+        print(f"[copywriter] IA falhou; usando fallback. Erro: {exc}")
+        return fallback_copy(product, cfg)
+
+
+def create_copy(product: Product, cfg: Dict[str, Any]) -> OfferCopy:
+    if cfg.get("copywriting", {}).get("use_ai", True):
+        return ai_copy(product, cfg)
+    return fallback_copy(product, cfg)

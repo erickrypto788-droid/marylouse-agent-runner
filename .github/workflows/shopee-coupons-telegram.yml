@@ -1,0 +1,85 @@
+﻿name: Cupons Shopee Telegram
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: marylouse-shopee-coupons
+  cancel-in-progress: false
+
+jobs:
+  post-shopee-coupons:
+    name: Postar cupons Shopee
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      - name: Enviar mensagem de cupons no Telegram
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+          SHOPEE_COUPON_URL: "https://s.shopee.com.br/111NhMP4uM"
+
+        run: |
+          python - <<'PY'
+          import os
+          import sys
+          import urllib.parse
+          import urllib.request
+
+          token = os.environ.get("TELEGRAM_BOT_TOKEN", "").strip()
+          chat_id = os.environ.get("TELEGRAM_CHAT_ID", "").strip()
+          coupon_url = os.environ.get("SHOPEE_COUPON_URL", "").strip()
+
+          if not token:
+              print("TELEGRAM_BOT_TOKEN não configurado.")
+              sys.exit(1)
+
+          if not chat_id:
+              print("TELEGRAM_CHAT_ID não configurado.")
+              sys.exit(1)
+
+          if not coupon_url:
+              print("SHOPEE_COUPON_URL não configurado.")
+              sys.exit(1)
+
+          lines = [
+              "🎟️ <b>CUPONS SHOPEE ATIVOS</b>",
+              "",
+              "Antes de finalizar sua compra, veja se tem cupom disponível para economizar ainda mais:",
+              "",
+              "🚚 Frete grátis",
+              "🏷️ Cupom de desconto",
+              "🏬 Cupom de loja",
+              "",
+              "✅ <b>Pegar cupons Shopee:</b>",
+              coupon_url,
+              "",
+              "💡 Dica: pegue os cupons antes de abrir as ofertas."
+          ]
+
+          text = "\n".join(lines)
+
+          api_url = f"https://api.telegram.org/bot{token}/sendMessage"
+
+          payload = urllib.parse.urlencode({
+              "chat_id": chat_id,
+              "text": text,
+              "parse_mode": "HTML",
+              "disable_web_page_preview": "false",
+          }).encode("utf-8")
+
+          request = urllib.request.Request(api_url, data=payload, method="POST")
+
+          try:
+              with urllib.request.urlopen(request, timeout=30) as response:
+                  body = response.read().decode("utf-8", errors="replace")
+                  print("Resposta Telegram:")
+                  print(body)
+          except Exception as exc:
+              print(f"Erro ao postar no Telegram: {exc}")
+              sys.exit(1)
+          PY

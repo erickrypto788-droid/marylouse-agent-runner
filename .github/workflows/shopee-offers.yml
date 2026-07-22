@@ -1,0 +1,628 @@
+﻿name: Shopee ofertas
+
+run-name: Shopee - ${{ github.event.inputs.post_count }} produto(s)
+
+on:
+  workflow_dispatch:
+    inputs:
+      post_count:
+        description: "Quantidade de produtos Shopee"
+        required: true
+        default: "5"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: marylouse-shopee
+  cancel-in-progress: false
+
+jobs:
+  shopee:
+    name: Rodar Shopee independente
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+
+    steps:
+      - name: Baixar repositório do agente
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Configurar Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Instalar dependências
+        run: |
+          python -m pip install --upgrade pip
+
+          if [ -f requirements.txt ]; then
+            pip install -r requirements.txt
+          else
+            pip install requests PyYAML python-dotenv
+          fi
+
+      - name: Baixar repositório público do site
+        uses: actions/checkout@v4
+        with:
+          repository: erickrypto788-droid/marylouse-ofertas
+          token: ${{ secrets.SITE_REPO_TOKEN }}
+          path: site_live
+          fetch-depth: 0
+
+      - name: Preparar dados atuais do site
+        run: |
+          mkdir -p site/data
+
+          if [ -f site_live/data/offers.json ]; then
+            cp site_live/data/offers.json site/data/offers.json
+          else
+            echo "[]" > site/data/offers.json
+          fi
+
+          if [ -f site_live/data/coupons.json ]; then
+            cp site_live/data/coupons.json site/data/coupons.json
+          else
+            echo "[]" > site/data/coupons.json
+          fi
+
+      - name: Configurar Shopee independente
+        env:
+          POST_COUNT: ${{ github.event.inputs.post_count }}
+        run: |
+          python - <<'PY'
+          import json
+          import os
+          from pathlib import Path
+
+          import yaml
+
+          post_count = int(os.getenv("POST_COUNT", "5"))
+
+          groups = [
+              {
+                  "key": "shopee_roupas_femininas",
+                  "name": "Roupas Femininas",
+                  "min_price": 25,
+                  "max_price": 800,
+                  "keywords": [
+                      "vestido feminino",
+                      "blusa feminina",
+                      "calça feminina",
+                      "saia feminina",
+                      "conjunto feminino",
+                      "cropped feminino",
+                      "jaqueta feminina",
+                      "legging feminina",
+                      "moda feminina",
+                      "lingerie feminina"
+                  ],
+              },
+              {
+                  "key": "shopee_roupas_masculinas",
+                  "name": "Roupas Masculinas",
+                  "min_price": 25,
+                  "max_price": 800,
+                  "keywords": [
+                      "camiseta masculina",
+                      "camisa masculina",
+                      "bermuda masculina",
+                      "calça masculina",
+                      "jaqueta masculina",
+                      "moletom masculino",
+                      "camisa polo masculina",
+                      "conjunto masculino",
+                      "cueca masculina",
+                      "roupa masculina"
+                  ],
+              },
+              {
+                  "key": "shopee_roupas_plus_size",
+                  "name": "Roupas Plus Size",
+                  "min_price": 30,
+                  "max_price": 900,
+                  "keywords": [
+                      "vestido plus size",
+                      "blusa plus size",
+                      "moda plus size feminina",
+                      "calça plus size",
+                      "conjunto plus size",
+                      "lingerie plus size",
+                      "camiseta plus size",
+                      "bermuda plus size",
+                      "moda plus size masculina",
+                      "jaqueta plus size"
+                  ],
+              },
+              {
+                  "key": "shopee_sapatos_masculinos",
+                  "name": "Sapatos Masculinos",
+                  "min_price": 35,
+                  "max_price": 1000,
+                  "keywords": [
+                      "tenis masculino",
+                      "sapato social masculino",
+                      "bota masculina",
+                      "chinelo masculino",
+                      "sandalia masculina",
+                      "sapatênis masculino",
+                      "tenis casual masculino",
+                      "tenis corrida masculino",
+                      "mocassim masculino",
+                      "coturno masculino"
+                  ],
+              },
+              {
+                  "key": "shopee_celulares_dispositivos",
+                  "name": "Celulares e Dispositivos",
+                  "min_price": 80,
+                  "max_price": 8000,
+                  "keywords": [
+                      "smartphone samsung",
+                      "celular samsung",
+                      "smartphone xiaomi",
+                      "celular xiaomi",
+                      "redmi note",
+                      "poco x6",
+                      "poco x7",
+                      "iphone",
+                      "motorola edge",
+                      "galaxy a55",
+                      "galaxy s23",
+                      "galaxy s24",
+                      "smartphone 5g",
+                      "smartwatch",
+                      "fone bluetooth",
+                      "power bank",
+                      "carregador turbo",
+                      "cabo usb c"
+                  ],
+              },
+              {
+                  "key": "shopee_eletrodomesticos",
+                  "name": "Eletrodomésticos",
+                  "min_price": 50,
+                  "max_price": 6000,
+                  "keywords": [
+                      "air fryer",
+                      "fritadeira air fryer",
+                      "liquidificador",
+                      "cafeteira",
+                      "aspirador de pó",
+                      "ventilador",
+                      "microondas",
+                      "purificador de água",
+                      "batedeira",
+                      "sanduicheira",
+                      "panela eletrica",
+                      "ferro de passar"
+                  ],
+              },
+              {
+                  "key": "shopee_beleza",
+                  "name": "Beleza",
+                  "min_price": 25,
+                  "max_price": 1500,
+                  "keywords": [
+                      "escova secadora",
+                      "secador de cabelo",
+                      "chapinha cabelo",
+                      "modelador de cachos",
+                      "maquina cortar cabelo",
+                      "barbeador eletrico",
+                      "aparador de pelos",
+                      "kit skincare",
+                      "massageador facial",
+                      "organizador maquiagem",
+                      "espelho led",
+                      "perfume feminino"
+                  ],
+              },
+              {
+                  "key": "shopee_sapatos_femininos",
+                  "name": "Sapatos Femininos",
+                  "min_price": 35,
+                  "max_price": 1000,
+                  "keywords": [
+                      "tenis feminino",
+                      "sandalia feminina",
+                      "bota feminina",
+                      "chinelo feminino",
+                      "sapato feminino",
+                      "sapatilha feminina",
+                      "salto feminino",
+                      "rasteirinha feminina",
+                      "tenis casual feminino",
+                      "tenis corrida feminino"
+                  ],
+              },
+              {
+                  "key": "shopee_moda_infantil",
+                  "name": "Moda infantil",
+                  "min_price": 20,
+                  "max_price": 700,
+                  "keywords": [
+                      "roupa infantil",
+                      "vestido infantil",
+                      "conjunto infantil",
+                      "tenis infantil",
+                      "sandalia infantil",
+                      "pijama infantil",
+                      "moletom infantil",
+                      "camiseta infantil",
+                      "bermuda infantil",
+                      "moda infantil menina",
+                      "moda infantil menino"
+                  ],
+              },
+              {
+                  "key": "shopee_esportes_lazer",
+                  "name": "Esportes e Lazer",
+                  "min_price": 25,
+                  "max_price": 2500,
+                  "keywords": [
+                      "tenis corrida",
+                      "halteres",
+                      "corda pular",
+                      "tapete yoga",
+                      "luva academia",
+                      "bike spinning",
+                      "bola futebol",
+                      "mochila esportiva",
+                      "garrafa academia",
+                      "camiseta esportiva",
+                      "shorts academia",
+                      "whey protein"
+                  ],
+              },
+              {
+                  "key": "shopee_brinquedos_hobbies",
+                  "name": "Brinquedos e Hobbies",
+                  "min_price": 20,
+                  "max_price": 1200,
+                  "keywords": [
+                      "brinquedo educativo",
+                      "lego",
+                      "carrinho controle remoto",
+                      "boneca",
+                      "hot wheels",
+                      "massinha",
+                      "quebra cabeça",
+                      "nerf",
+                      "patinete infantil",
+                      "piscina infantil",
+                      "brinquedo montessori",
+                      "jogo de tabuleiro"
+                  ],
+              },
+              {
+                  "key": "shopee_saude",
+                  "name": "Saúde",
+                  "min_price": 25,
+                  "max_price": 2000,
+                  "keywords": [
+                      "monitor de pressão",
+                      "oximetro",
+                      "termometro digital",
+                      "balança digital",
+                      "inalador nebulizador",
+                      "massageador",
+                      "medidor glicose",
+                      "umidificador ar",
+                      "purificador ar",
+                      "almofada ortopedica",
+                      "corretor postura"
+                  ],
+              },
+              {
+                  "key": "shopee_mae_bebe",
+                  "name": "Mãe e Bebê",
+                  "min_price": 25,
+                  "max_price": 2500,
+                  "keywords": [
+                      "carrinho de bebe",
+                      "bebe conforto",
+                      "cadeirinha carro bebe",
+                      "mamadeira",
+                      "monitor bebe",
+                      "berco portatil",
+                      "banheira bebe",
+                      "cadeira alimentacao",
+                      "mochila maternidade",
+                      "bolsa maternidade",
+                      "aquecedor mamadeira"
+                  ],
+              },
+              {
+                  "key": "shopee_bolsas_femininas",
+                  "name": "Bolsas Femininas",
+                  "min_price": 25,
+                  "max_price": 1200,
+                  "keywords": [
+                      "bolsa feminina",
+                      "bolsa transversal feminina",
+                      "bolsa maternidade",
+                      "mochila feminina",
+                      "bolsa de couro feminina",
+                      "bolsa pequena feminina",
+                      "bolsa tiracolo feminina",
+                      "bolsa praia feminina",
+                      "carteira feminina",
+                      "necessaire feminina"
+                  ],
+              },
+              {
+                  "key": "shopee_bolsas_masculinas",
+                  "name": "Bolsas Masculinas",
+                  "min_price": 25,
+                  "max_price": 1200,
+                  "keywords": [
+                      "mochila masculina",
+                      "bolsa masculina",
+                      "pochete masculina",
+                      "carteira masculina",
+                      "mochila notebook",
+                      "bolsa transversal masculina",
+                      "mala viagem",
+                      "necessaire masculina",
+                      "mochila executiva",
+                      "mochila impermeavel"
+                  ],
+              },
+              {
+                  "key": "shopee_papelaria",
+                  "name": "Papelaria",
+                  "min_price": 15,
+                  "max_price": 800,
+                  "keywords": [
+                      "caderno inteligente",
+                      "caneta marcador",
+                      "kit papelaria",
+                      "lapis de cor",
+                      "organizador escritorio",
+                      "impressora etiquetas",
+                      "planner",
+                      "estojo escolar",
+                      "mochila escolar",
+                      "papelaria criativa",
+                      "marca texto",
+                      "caneta gel"
+                  ],
+              },
+              {
+                  "key": "shopee_computadores_acessorios",
+                  "name": "Computadores e Acessórios",
+                  "min_price": 80,
+                  "max_price": 7000,
+                  "keywords": [
+                      "notebook",
+                      "notebook gamer",
+                      "monitor gamer",
+                      "monitor 24 polegadas",
+                      "monitor 27 polegadas",
+                      "mini pc",
+                      "ssd 1tb",
+                      "ssd nvme",
+                      "teclado mecanico",
+                      "mouse gamer",
+                      "webcam full hd",
+                      "roteador wifi 6",
+                      "hub usb c",
+                      "suporte notebook",
+                      "cadeira escritorio"
+                  ],
+              },
+              {
+                  "key": "shopee_bebidas_alimentos",
+                  "name": "Bebidas e Alimentos",
+                  "min_price": 15,
+                  "max_price": 1000,
+                  "keywords": [
+                      "cafe gourmet",
+                      "capsula cafe",
+                      "whey protein",
+                      "creatina",
+                      "suplemento alimentar",
+                      "cha",
+                      "azeite",
+                      "chocolate",
+                      "barra proteina",
+                      "leite em po",
+                      "granola",
+                      "castanhas"
+                  ],
+              },
+              {
+                  "key": "shopee_jogos_consoles",
+                  "name": "Jogos e Consoles",
+                  "min_price": 80,
+                  "max_price": 7000,
+                  "keywords": [
+                      "console portatil",
+                      "console retro",
+                      "video game portatil",
+                      "nintendo switch",
+                      "xbox series s",
+                      "playstation 5",
+                      "controle ps5",
+                      "controle xbox",
+                      "controle nintendo switch",
+                      "jogo ps5",
+                      "jogo xbox",
+                      "headset gamer",
+                      "cadeira gamer",
+                      "mesa gamer",
+                      "volante gamer",
+                      "controle arcade",
+                      "game stick",
+                      "tv box game"
+                  ],
+              },
+          ]
+
+          state_path = Path("data/shopee_workflow_state.json")
+          state_path.parent.mkdir(parents=True, exist_ok=True)
+
+          if state_path.exists():
+              try:
+                  state = json.loads(state_path.read_text(encoding="utf-8"))
+                  if not isinstance(state, dict):
+                      state = {}
+              except Exception:
+                  state = {}
+          else:
+              state = {}
+
+          index = int(state.get("next_index", 0))
+          group = groups[index % len(groups)]
+
+          state["next_index"] = (index + 1) % len(groups)
+          state["last_key"] = group["key"]
+          state["last_name"] = group["name"]
+
+          state_path.write_text(json.dumps(state, ensure_ascii=False, indent=2), encoding="utf-8")
+
+          path = Path("config.yaml")
+          cfg = yaml.safe_load(path.read_text(encoding="utf-8")) or {}
+
+          # Desativa rotação global de nichos para não haver interferência.
+          cfg.setdefault("niches", {})["enabled"] = False
+          cfg["active_niche"] = {
+              "key": group["key"],
+              "name": group["name"],
+          }
+
+          agent = cfg.setdefault("agent", {})
+          agent["dry_run"] = False
+          agent["post_one_per_marketplace"] = True
+          agent["posts_per_marketplace"] = post_count
+          agent["post_limit_per_run"] = post_count
+          agent["posts_per_marketplace_by_marketplace"] = {
+              "shopee": post_count
+          }
+
+          marketplaces = cfg.setdefault("marketplaces", {})
+
+          for name, mcfg in marketplaces.items():
+              if isinstance(mcfg, dict):
+                  mcfg["enabled"] = str(name).strip().lower() == "shopee"
+
+          shopee = marketplaces.setdefault("shopee", {})
+          shopee["enabled"] = True
+          shopee["keywords"] = group["keywords"]
+          shopee["posts_per_run"] = post_count
+
+          filters = cfg.setdefault("filters", {})
+          allowed = filters.setdefault("allowed_marketplaces", [])
+
+          if isinstance(allowed, list):
+              filters["allowed_marketplaces"] = ["shopee"]
+
+          marketplace_filters = filters.setdefault("marketplace_filters", {})
+          marketplace_filters["shopee"] = {
+              "min_price": group["min_price"],
+              "max_price": group["max_price"],
+          }
+
+          path.write_text(
+              yaml.safe_dump(cfg, allow_unicode=True, sort_keys=False, default_flow_style=False),
+              encoding="utf-8",
+          )
+
+          print(f"[workflow-shopee] Nicho ativo: {group['name']} ({group['key']}) | {len(group['keywords'])} keywords")
+          print(f"[workflow-shopee] post_count={post_count}")
+          PY
+
+      - name: Testar sintaxe Python
+        run: |
+          python -m py_compile src/copywriter.py
+          python -m py_compile src/agent.py
+          python -m py_compile src/scoring.py
+          python -m py_compile src/marketplaces/shopee.py
+          python -m py_compile src/site_publisher.py
+
+      - name: Rodar agente Shopee
+        env:
+          DRY_RUN: "false"
+
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+
+          AI_PROVIDER: ${{ secrets.AI_PROVIDER }}
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+          OPENAI_MODEL: ${{ secrets.OPENAI_MODEL }}
+          OPENAI_BASE_URL: ${{ secrets.OPENAI_BASE_URL }}
+
+          SHOPEE_APP_ID: ${{ secrets.SHOPEE_APP_ID }}
+          SHOPEE_SECRET: ${{ secrets.SHOPEE_SECRET }}
+          SHOPEE_ENDPOINT: ${{ secrets.SHOPEE_ENDPOINT }}
+
+        run: |
+          if [ -z "${SHOPEE_ENDPOINT:-}" ]; then unset SHOPEE_ENDPOINT; fi
+          python run.py --once --post
+
+      - name: Atualizar ofertas no repositório do site
+        run: |
+          mkdir -p site_live/data
+          cp site/data/offers.json site_live/data/offers.json
+
+      - name: Commit e push no site público
+        working-directory: site_live
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          if [ -n "$(git status --porcelain)" ]; then
+            git add data/offers.json
+            git commit -m "Atualiza ofertas Shopee"
+            git push
+          else
+            echo "Sem alterações no site público."
+          fi
+
+      - name: Persistir estado do agente
+        continue-on-error: true
+        run: |
+          set +e
+
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          STATE_FILES=(
+            "data/agent.sqlite3"
+            "data/shopee_workflow_state.json"
+          )
+
+          mkdir -p data
+          mkdir -p /tmp/marylouse-state
+
+          for file in "${STATE_FILES[@]}"; do
+            if [ -f "$file" ]; then
+              cp "$file" "/tmp/marylouse-state/$(basename "$file")"
+            fi
+          done
+
+          git fetch origin main
+          git reset --hard origin/main
+
+          mkdir -p data
+
+          for file in "${STATE_FILES[@]}"; do
+            base="$(basename "$file")"
+            if [ -f "/tmp/marylouse-state/$base" ]; then
+              cp "/tmp/marylouse-state/$base" "$file"
+            fi
+          done
+
+          git add "${STATE_FILES[@]}" || true
+
+          if [ -n "$(git status --porcelain -- "${STATE_FILES[@]}")" ]; then
+            git commit -m "Atualiza estado Shopee [skip ci]" || true
+            git push || true
+          else
+            echo "Sem alterações no estado Shopee."
+          fi

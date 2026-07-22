@@ -1,0 +1,395 @@
+﻿name: AliExpress ofertas
+
+run-name: AliExpress - ${{ github.event.inputs.post_count }} produto(s)
+
+on:
+  workflow_dispatch:
+    inputs:
+      post_count:
+        description: "Quantidade de produtos AliExpress"
+        required: true
+        default: "3"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: marylouse-aliexpress
+  cancel-in-progress: false
+
+jobs:
+  aliexpress:
+    name: Rodar AliExpress independente
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+
+    steps:
+      - name: Baixar repositório do agente
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Configurar Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Instalar dependências
+        run: |
+          python -m pip install --upgrade pip
+
+          if [ -f requirements.txt ]; then
+            pip install -r requirements.txt
+          else
+            pip install requests PyYAML python-dotenv
+          fi
+
+      - name: Baixar repositório público do site
+        uses: actions/checkout@v4
+        with:
+          repository: erickrypto788-droid/marylouse-ofertas
+          token: ${{ secrets.SITE_REPO_TOKEN }}
+          path: site_live
+          fetch-depth: 0
+
+      - name: Preparar dados atuais do site
+        run: |
+          mkdir -p site/data
+
+          if [ -f site_live/data/offers.json ]; then
+            cp site_live/data/offers.json site/data/offers.json
+          else
+            echo "[]" > site/data/offers.json
+          fi
+
+          if [ -f site_live/data/coupons.json ]; then
+            cp site_live/data/coupons.json site/data/coupons.json
+          else
+            echo "[]" > site/data/coupons.json
+          fi
+
+      - name: Configurar AliExpress independente
+        env:
+          POST_COUNT: ${{ github.event.inputs.post_count }}
+        run: |
+          python - <<'PY'
+          import json
+          import os
+          from pathlib import Path
+
+          import yaml
+
+          post_count = int(os.getenv("POST_COUNT", "3"))
+
+          groups = [
+              {
+                  "key": "ali_toys_games",
+                  "name": "Toys & Games",
+                  "min_price": 20,
+                  "max_price": 1200,
+                  "keywords": [
+                      "educational toy",
+                      "building blocks",
+                      "rc car",
+                      "kids toy",
+                      "puzzle toy",
+                      "montessori toy",
+                      "action figure",
+                      "board game",
+                      "baby toy",
+                      "creative toy"
+                  ],
+              },
+              {
+                  "key": "ali_cellphones_accessories",
+                  "name": "Cell Phones & Accessories",
+                  "min_price": 20,
+                  "max_price": 1500,
+                  "keywords": [
+                      "phone charger",
+                      "usb c cable",
+                      "phone case",
+                      "power bank",
+                      "wireless charger",
+                      "phone holder",
+                      "car phone holder",
+                      "screen protector",
+                      "bluetooth earphones",
+                      "charging cable"
+                  ],
+              },
+              {
+                  "key": "ali_electronics",
+                  "name": "Electronics",
+                  "min_price": 30,
+                  "max_price": 2500,
+                  "keywords": [
+                      "bluetooth speaker",
+                      "wireless earphones",
+                      "projector",
+                      "mini projector",
+                      "security camera",
+                      "smart plug",
+                      "led strip",
+                      "action camera",
+                      "microphone",
+                      "usb hub",
+                      "portable monitor"
+                  ],
+              },
+              {
+                  "key": "ali_tools_home_improvement",
+                  "name": "Tools & Home Improvement",
+                  "min_price": 20,
+                  "max_price": 2000,
+                  "keywords": [
+                      "screwdriver set",
+                      "electric screwdriver",
+                      "drill bits",
+                      "laser level",
+                      "measuring tape",
+                      "tool kit",
+                      "led light",
+                      "solar light",
+                      "smart switch",
+                      "home improvement tool",
+                      "multimeter"
+                  ],
+              },
+              {
+                  "key": "ali_baby_maternity",
+                  "name": "Baby & Maternity",
+                  "min_price": 20,
+                  "max_price": 1500,
+                  "keywords": [
+                      "baby monitor",
+                      "baby bottle",
+                      "stroller organizer",
+                      "baby safety",
+                      "baby feeding",
+                      "baby toy",
+                      "maternity bag",
+                      "baby carrier",
+                      "diaper bag",
+                      "baby bath",
+                      "baby night light"
+                  ],
+              },
+          ]
+
+          state_path = Path("data/aliexpress_workflow_state.json")
+          state_path.parent.mkdir(parents=True, exist_ok=True)
+
+          if state_path.exists():
+              try:
+                  state = json.loads(state_path.read_text(encoding="utf-8"))
+                  if not isinstance(state, dict):
+                      state = {}
+              except Exception:
+                  state = {}
+          else:
+              state = {}
+
+          index = int(state.get("next_index", 0))
+          group = groups[index % len(groups)]
+
+          state["next_index"] = (index + 1) % len(groups)
+          state["last_key"] = group["key"]
+          state["last_name"] = group["name"]
+
+          state_path.write_text(json.dumps(state, ensure_ascii=False, indent=2), encoding="utf-8")
+
+          path = Path("config.yaml")
+          cfg = yaml.safe_load(path.read_text(encoding="utf-8")) or {}
+
+          # Desativa rotação global de nichos para não haver interferência.
+          cfg.setdefault("niches", {})["enabled"] = False
+          cfg["active_niche"] = {
+              "key": group["key"],
+              "name": group["name"],
+          }
+
+          agent = cfg.setdefault("agent", {})
+          agent["dry_run"] = False
+          agent["post_one_per_marketplace"] = True
+          agent["posts_per_marketplace"] = post_count
+          agent["post_limit_per_run"] = post_count
+          agent["posts_per_marketplace_by_marketplace"] = {
+              "aliexpress": post_count
+          }
+
+          marketplaces = cfg.setdefault("marketplaces", {})
+
+          for name, mcfg in marketplaces.items():
+              if isinstance(mcfg, dict):
+                  mcfg["enabled"] = str(name).strip().lower() == "aliexpress"
+
+          ali = marketplaces.setdefault("aliexpress", {})
+          ali["enabled"] = True
+          ali["keywords"] = group["keywords"]
+          ali["posts_per_run"] = post_count
+          ali["page_size"] = 40
+          ali["target_currency"] = "BRL"
+          ali["target_language"] = "EN"
+          ali["ship_to_country"] = "BR"
+          ali["ship_from_country"] = "BR"
+
+          filters = cfg.setdefault("filters", {})
+          filters["allowed_marketplaces"] = ["aliexpress"]
+
+          marketplace_filters = filters.setdefault("marketplace_filters", {})
+          marketplace_filters["aliexpress"] = {
+              "min_price": group["min_price"],
+              "max_price": group["max_price"],
+          }
+
+          # Blacklist reforçada para AliExpress.
+          marketplace_blacklist = filters.setdefault("marketplace_title_blacklist", {})
+          ali_blacklist = marketplace_blacklist.setdefault("aliexpress", [])
+
+          blocked_terms = [
+              "watch",
+              "watches",
+              "relogio",
+              "relógio",
+              "olevs",
+              "quartz watch",
+              "wristwatch",
+              "pill box",
+              "medicine box",
+              "porta remedio",
+              "porta-remedio",
+              "porta remédio",
+              "porta-remédio",
+              "slipper",
+              "slippers",
+              "fluffy",
+              "fur slipper",
+              "fur slippers",
+              "plush slipper",
+              "plush slippers",
+              "cross strap fur",
+              "women's fluffy",
+              "tesla",
+              "model y",
+              "bumper",
+              "scratch resistant",
+              "car lens",
+              "camera lens guard",
+              "protective cover for",
+              "car cover",
+              "auto trim",
+              "car sticker",
+              "insole",
+              "shoe pad",
+              "women dress",
+              "men shirt",
+              "women blouse",
+              "men jacket"
+          ]
+
+          for term in blocked_terms:
+              if term not in ali_blacklist:
+                  ali_blacklist.append(term)
+
+          path.write_text(
+              yaml.safe_dump(cfg, allow_unicode=True, sort_keys=False, default_flow_style=False),
+              encoding="utf-8",
+          )
+
+          print(f"[workflow-aliexpress] Nicho ativo: {group['name']} ({group['key']}) | {len(group['keywords'])} keywords")
+          print(f"[workflow-aliexpress] post_count={post_count}")
+          PY
+
+      - name: Testar sintaxe Python
+        run: |
+          python -m py_compile src/copywriter.py
+          python -m py_compile src/agent.py
+          python -m py_compile src/scoring.py
+          python -m py_compile src/marketplaces/aliexpress.py
+          python -m py_compile src/site_publisher.py
+
+      - name: Rodar agente AliExpress
+        env:
+          DRY_RUN: "false"
+
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+
+          AI_PROVIDER: ${{ secrets.AI_PROVIDER }}
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+          OPENAI_MODEL: ${{ secrets.OPENAI_MODEL }}
+          OPENAI_BASE_URL: ${{ secrets.OPENAI_BASE_URL }}
+
+          ALIEXPRESS_APP_KEY: ${{ secrets.ALIEXPRESS_APP_KEY }}
+          ALIEXPRESS_SECRET: ${{ secrets.ALIEXPRESS_SECRET }}
+          ALIEXPRESS_TRACKING_ID: ${{ secrets.ALIEXPRESS_TRACKING_ID }}
+          ALIEXPRESS_ENDPOINT: ${{ secrets.ALIEXPRESS_ENDPOINT }}
+
+        run: |
+          if [ -z "${ALIEXPRESS_ENDPOINT:-}" ]; then unset ALIEXPRESS_ENDPOINT; fi
+          python run.py --once --post
+
+      - name: Atualizar ofertas no repositório do site
+        run: |
+          mkdir -p site_live/data
+          cp site/data/offers.json site_live/data/offers.json
+
+      - name: Commit e push no site público
+        working-directory: site_live
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          if [ -n "$(git status --porcelain)" ]; then
+            git add data/offers.json
+            git commit -m "Atualiza ofertas AliExpress"
+            git push
+          else
+            echo "Sem alterações no site público."
+          fi
+
+      - name: Persistir estado do agente
+        continue-on-error: true
+        run: |
+          set +e
+
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          STATE_FILES=(
+            "data/agent.sqlite3"
+            "data/aliexpress_workflow_state.json"
+          )
+
+          mkdir -p data
+          mkdir -p /tmp/marylouse-state
+
+          for file in "${STATE_FILES[@]}"; do
+            if [ -f "$file" ]; then
+              cp "$file" "/tmp/marylouse-state/$(basename "$file")"
+            fi
+          done
+
+          git fetch origin main
+          git reset --hard origin/main
+
+          mkdir -p data
+
+          for file in "${STATE_FILES[@]}"; do
+            base="$(basename "$file")"
+            if [ -f "/tmp/marylouse-state/$base" ]; then
+              cp "/tmp/marylouse-state/$base" "$file"
+            fi
+          done
+
+          git add "${STATE_FILES[@]}" || true
+
+          if [ -n "$(git status --porcelain -- "${STATE_FILES[@]}")" ]; then
+            git commit -m "Atualiza estado AliExpress [skip ci]" || true
+            git push || true
+          else
+            echo "Sem alterações no estado AliExpress."
+          fi
