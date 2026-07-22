@@ -482,6 +482,24 @@ marketplaces:
         - esponja limpeza
         - papel toalha
         - saco lixo
+        - papel higienico
+        - papel higiênico folha dupla
+        - papel higienico folha dupla
+        - papel higiênico 12 rolos
+        - papel higienico 12 rolos
+        - papel higiênico 16 rolos
+        - papel higienico 16 rolos
+        - papel higiênico 24 rolos
+        - papel higienico 24 rolos
+        - café
+        - azeite de oliva
+        - arroz
+        - feijão
+        - leite
+        - sabão em pó
+        - lava-roupas
+        - amaciante de roupas
+        - cloro
         blocked_domain_ids: []
         allowed_domain_ids: []
     niche_groups_per_run: 1
