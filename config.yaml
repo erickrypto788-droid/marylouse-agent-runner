@@ -1078,5 +1078,5 @@ niches:
         - baby night light
 site:
   enabled: true
-  max_offers: 200
-  keep_hours: 12
+  max_offers: 400
+  keep_hours: 24
