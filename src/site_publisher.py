@@ -647,7 +647,7 @@ def _normalize_site_category(category: Any, title: Any = "", description: Any = 
 
     # Calçados
     if has_any([
-        "sapato", "sapatos", "sandals", "sandals and clogs", "clogs",
+        "sapato", "sapatos", "sandals", "sandals and clogs", "clogs", "babuche", "sneaker", "sneakers",
         "tenis", "tênis", "bota", "chinelo", "calçados", "calcados",
         "sneakers", "sapatilha", "rasteirinha", "mocassim", "coturno"
     ]):
