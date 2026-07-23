@@ -1,11 +1,11 @@
 {
-  "next_index": 3,
+  "next_index": 4,
   "last_keys": [
-    "esportes_fitness"
+    "beleza_cuidado_pessoal"
   ],
   "last_names": [
-    "Esportes e Fitness"
+    "Beleza e Cuidado Pessoal"
   ],
   "note": "Forçado para testar Supermercados no Mercado Livre.",
-  "updated_at": 1784757625
+  "updated_at": 1784829360
 }
