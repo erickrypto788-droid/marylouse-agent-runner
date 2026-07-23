@@ -445,6 +445,289 @@ def _site_description(product: Any, offer_copy: Any = None, title: str = "") -> 
     return _clean_card_text(f"Oferta selecionada automaticamente: {raw_title}", 155)
 
 
+
+def _normalize_site_category(category: Any, title: Any = "", description: Any = "") -> str:
+    raw_category = str(category or "").strip()
+    raw_title = str(title or "").strip()
+    raw_description = str(description or "").strip()
+
+    text = f"{raw_category} {raw_title} {raw_description}".strip().lower()
+
+    try:
+        import unicodedata
+
+        text = unicodedata.normalize("NFD", text)
+        text = "".join(ch for ch in text if unicodedata.category(ch) != "Mn")
+    except Exception:
+        pass
+
+    text = re.sub(r"[^a-z0-9À-ÿ]+", " ", text, flags=re.I)
+    text = re.sub(r"\s+", " ", text).strip()
+
+    def has_any(terms: list[str]) -> bool:
+        return any(term in text for term in terms)
+
+    if not text:
+        return "Outros"
+
+    # ======================================================
+    # Regras de prioridade alta
+    # ======================================================
+
+    # Papelaria / livros / desenho / pintura
+    if has_any([
+        "livro", "book", "caderno", "papelaria", "drafting", "stationery",
+        "pencil", "pencils", "lapis", "lápis", "caneta", "marcador",
+        "marca texto", "sketch", "sketching", "desenho", "pintura",
+        "canvas", "wooden frames", "kit pintura", "caran d ache", "caran dache",
+        "base de corte", "papel", "planner", "estojo escolar"
+    ]):
+        return "Papelaria"
+
+    # Brinquedos / hobbies
+    if has_any([
+        "brinquedo", "toy", "toys", "toy robots", "puzzles", "puzzle",
+        "lego", "boneca", "carrinho controle remoto", "kick scooters",
+        "scooter", "patinete", "montessori", "labirinto magnetico",
+        "labirinto magnético", "jogo da forca", "brinquedo educativo",
+        "massinha", "doll clothes kits", "carrinho blocos", "jogo de tabuleiro"
+    ]):
+        return "Brinquedos e Hobbies"
+
+    # Moda infantil antes de roupas masculinas/femininas
+    if has_any([
+        "moda infantil", "baby clothing sets", "roupa infantil",
+        "conjunto infantil", "tenis infantil", "tênis infantil",
+        "moletom infantil", "infantil menino", "infantil menina",
+        "criança", "crianca", "menino", "menina"
+    ]):
+        return "Moda infantil"
+
+    # Panela de pressão não é Saúde
+    if has_any([
+        "panela de pressao", "panela de pressão", "panela pressao",
+        "panela pressão", "panela eletrica", "panela elétrica",
+        "panela eletrica digital", "panela elétrica digital"
+    ]):
+        return "Casa e Cozinha"
+
+    # Aspirador é Eletrodoméstico
+    if has_any([
+        "aspirador de po", "aspirador de pó", "aspirador po",
+        "aspirador portatil", "aspirador portátil"
+    ]):
+        return "Eletrodomésticos"
+
+    # Lavadora de alta pressão / ferramentas
+    if has_any([
+        "lavadora alta pressao", "lavadora alta pressão",
+        "lavadora de alta pressao", "lavadora de alta pressão",
+        "esmerilhadeira", "furadeira", "parafusadeira", "serra circular",
+        "chave impacto"
+    ]):
+        return "Ferramentas"
+
+    # Cadeira de escritório / móveis
+    if has_any([
+        "office chairs", "cadeira escritorio", "cadeira escritório",
+        "cadeira gamer", "mesa gamer", "mesa escritorio", "mesa escritório",
+        "rack", "painel tv", "sofa", "sofá", "guarda roupa", "cama box"
+    ]):
+        return "Casa e Decoração"
+
+    # Mãe e Bebê
+    if has_any([
+        "baba eletronica", "babá eletrônica", "baby monitor", "monitor bebe",
+        "monitor bebê", "camera bebe", "câmera bebê", "mae e bebe",
+        "mãe e bebê", "mamadeira", "chupeta", "carrinho bebe",
+        "carrinho bebê", "bebe conforto", "bebê conforto", "banheira bebe",
+        "banheira bebê", "baby bathtubs", "baby strollers", "baby high chairs",
+        "baby pacifier clips", "mochila maternidade", "cadeira alimentacao",
+        "cadeira alimentação", "stroller organizer", "baby carrier",
+        "diaper bag", "maternity bag"
+    ]):
+        return "Mãe e Bebê"
+
+    # Saúde
+    if has_any([
+        "monitor pressao", "monitor pressão", "monitor de pressao",
+        "monitor de pressão", "pressao arterial", "pressão arterial",
+        "blood pressure", "blood pressure monitors", "blood glucose",
+        "blood glucose meters", "medidor glicose", "medidor de glicose",
+        "oximetro", "oxímetro", "termometro", "termômetro", "glicose",
+        "wheelchair", "wheelchairs", "cadeira de rodas", "inalador",
+        "nebulizador", "omron", "balanca digital", "balança digital",
+        "umidificador ar", "purificador ar", "corretor postura"
+    ]):
+        return "Saúde"
+
+    # Supermercados
+    if has_any([
+        "supermercado", "bebidas e alimentos", "bar soaps", "fabric softeners",
+        "fralda pampers", "fralda huggies", "fralda descartavel",
+        "fralda descartável", "lenco umedecido", "lenço umedecido",
+        "sabonete", "detergente", "amaciante", "papel higienico",
+        "papel higiênico", "lava roupas", "desinfetante", "absorvente",
+        "creme dental", "escova dental", "saco lixo", "papel toalha",
+        "shampoo infantil", "condicionador infantil", "sabao liquido",
+        "sabão líquido", "agua sanitaria", "água sanitária", "alcool limpeza",
+        "álcool limpeza", "lava loucas", "lava louças", "esponja limpeza",
+        "azeite", "cafe gourmet", "café gourmet", "capsula cafe",
+        "cápsula café", "chocolate", "granola", "castanhas"
+    ]):
+        return "Supermercados"
+
+    # Pet
+    padded = f" {text} "
+    if (
+        has_any([
+            "cat and dog foods", "cat dog foods", "pet collars",
+            "gato", "cachorro", "racao", "ração", "coleira", "arranhador",
+            "bebedouro pet", "comedouro pet", "tapete higienico",
+            "tapete higiênico", "cama cachorro", "caixa transporte pet"
+        ])
+        or " pet " in padded
+        or " dog " in padded
+        or " cat " in padded
+    ):
+        return "Pet"
+
+    # Informática
+    if has_any([
+        "informatica", "informática", "computadores e acessorios",
+        "computadores e acessórios", "computador", "computer", "notebook",
+        "printer ribbons", "ribbon impressora", "fita de impressora",
+        "fita impressora", "printer", "printers", "thermal printer",
+        "thermal printers", "monitor gamer", "monitor 24", "monitor 27",
+        "ssd", "teclado", "keyboard", "mouse", "roteador", "router",
+        "routers and wireless systems", "webcam", "hub usb", "hub usb c",
+        "mini pc", "ssd nvme"
+    ]):
+        return "Informática"
+
+    # Jogos e Consoles
+    if has_any([
+        "jogos e consoles", "games", "video game", "console", "xbox",
+        "playstation", "ps5", "nintendo", "controller",
+        "video game controller covers", "gamepad", "joystick", "arcade",
+        "headset gamer", "controle ps5", "controle xbox", "game stick"
+    ]):
+        return "Jogos e Consoles"
+
+    # Eletrônicos
+    if has_any([
+        "eletronico", "eletrônico", "eletronicos", "eletrônicos",
+        "soundbar", "caixa de som", "bluetooth speaker", "speaker",
+        "camera seguranca", "câmera segurança", "camera de seguranca",
+        "câmera de segurança", "security camera", "projetor", "projector",
+        "fone bluetooth", "wireless earphones", "microfone", "microphone",
+        "audio", "áudio", "video", "vídeo", "tv box", "smart plug",
+        "led strip", "action camera", "portable monitor"
+    ]):
+        return "Eletrônicos"
+
+    # Esportes
+    if has_any([
+        "esportes e lazer", "esportes", "fitness", "sport", "gym",
+        "gym gloves", "halter", "yoga", "bike", "bicicleta", "whey",
+        "tenis corrida", "tênis corrida", "stationary bicycles",
+        "football balls", "treadmills", "luva academia", "corda pular"
+    ]):
+        return "Esportes e Lazer"
+
+    # Beleza
+    if has_any([
+        "beleza", "beauty", "makeup", "makeup sponges", "skin care",
+        "skin care kits", "razor", "razor blades", "shaving", "shaving brushes",
+        "hair", "hair clippers", "hair straighteners", "hair shampoos",
+        "hair conditioners", "barbeador", "secador", "chapinha", "escova secadora",
+        "modelador de cachos", "organizador maquiagem", "espelho led"
+    ]):
+        return "Beleza"
+
+    # Calçados
+    if has_any([
+        "sapato", "sapatos", "sandals", "sandals and clogs", "clogs",
+        "tenis", "tênis", "bota", "chinelo", "calçados", "calcados",
+        "sneakers", "sapatilha", "rasteirinha", "mocassim", "coturno"
+    ]):
+        return "Sapatos"
+
+    # Bolsas
+    if has_any([
+        "bolsas femininas", "bolsas masculinas", "bolsa", "handbag",
+        "handbags", "mochila", "bag", "necessaire", "carteira"
+    ]):
+        return "Bolsas"
+
+    # Roupas
+    if has_any([
+        "roupas femininas", "moda feminina", "vestido", "blusa feminina",
+        "women", "female", "cropped", "legging feminina", "saia feminina"
+    ]):
+        return "Roupas Femininas"
+
+    if has_any([
+        "roupas masculinas", "moda masculina", "camiseta masculina",
+        "camisa masculina", "men shirt", "male", "bermuda masculina",
+        "cueca masculina", "camisa polo"
+    ]):
+        return "Roupas Masculinas"
+
+    if has_any([
+        "plus size"
+    ]):
+        return "Roupas Plus Size"
+
+    if has_any([
+        "clothing lots", "clothing", "moda", "roupa", "clothes"
+    ]):
+        return "Moda"
+
+    # Casa
+    if has_any([
+        "casa e cozinha", "kitchen", "cookware", "air fryer", "panela",
+        "cafeteira", "liquidificador", "stovetop popcorn poppers", "popcorn",
+        "cooking oils", "dining kits", "jogo de panelas"
+    ]):
+        return "Casa e Cozinha"
+
+    if has_any([
+        "eletrodomesticos", "eletrodomésticos", "air purifiers", "air purifier",
+        "aspirador", "ventilador", "microondas", "purificador", "umidificador",
+        "batedeira", "sanduicheira", "ferro de passar"
+    ]):
+        return "Eletrodomésticos"
+
+    if has_any([
+        "casa e decoracao", "casa e decoração", "decoracao", "decoração",
+        "moveis", "móveis", "tv storage units", "tapete", "luminaria",
+        "luminária"
+    ]):
+        return "Casa e Decoração"
+
+    if has_any([
+        "ferramenta", "ferramentas", "tools", "tools home improvement",
+        "drill", "screwdriver", "multimeter", "laser level"
+    ]):
+        return "Ferramentas"
+
+    friendly = {
+        "supermercados", "celulares", "informatica", "informática",
+        "jogos e consoles", "papelaria", "pet", "saude", "saúde",
+        "mãe e bebê", "mae e bebe", "moda infantil", "brinquedos e hobbies",
+        "esportes e lazer", "beleza", "sapatos", "bolsas", "roupas femininas",
+        "roupas masculinas", "roupas plus size", "casa e cozinha",
+        "eletrodomésticos", "eletrodomesticos", "casa e decoração",
+        "casa e decoracao", "ferramentas", "eletrônicos", "eletronicos", "moda"
+    }
+
+    if text in friendly:
+        return raw_category or "Outros"
+
+    return raw_category if raw_category and len(raw_category) <= 28 else "Outros"
+
+
 def product_to_site_offer(product: Any, offer_copy: Any = None) -> Dict[str, Any]:
     raw_title = _clean_card_text(_get(product, "title", "Oferta encontrada"), 160)
 
@@ -454,10 +737,12 @@ def product_to_site_offer(product: Any, offer_copy: Any = None) -> Dict[str, Any
         _first_value(product, ["marketplace", "source"], "Oferta")
     )
 
-    category = _clean_card_text(
+    raw_category = _clean_card_text(
         _first_value(product, ["category", "niche", "category_name"], "Oferta"),
-        60,
+        80,
     )
+
+    category = _normalize_site_category(raw_category, title)
 
     price_value = _first_value(
         product,
