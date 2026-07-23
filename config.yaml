@@ -1,4 +1,4 @@
-agent:
+﻿agent:
   language: pt-BR
   timezone: America/Sao_Paulo
   post_limit_per_run: 3
@@ -41,7 +41,7 @@ filters:
     - watch
     - watches
     - relogio
-    - relógio
+    - relÃ³gio
     - olevs
     - quartz watch
     - wristwatch
@@ -49,8 +49,8 @@ filters:
     - medicine box
     - porta remedio
     - porta-remedio
-    - porta remédio
-    - porta-remédio
+    - porta remÃ©dio
+    - porta-remÃ©dio
     - tablet box
     - medicine organizer
     - slipper
@@ -88,13 +88,13 @@ filters:
     - avental para forno
     - adesivo
     - pelicula
-    - película
-    - molho ração
+    - pelÃ­cula
+    - molho raÃ§Ã£o
     - molho racao
     - petisco churrasco
     - petisco costela
     - petisco frango
-    - animalíssimo
+    - animalÃ­ssimo
     - animalissimo
     - filtro bebedouro pet
     - refil bebedouro pet
@@ -149,7 +149,7 @@ marketplaces:
     affiliate_mode: matt_params
     pending_links_file: data/mercadolivre_pending_links.csv
     affiliate_links_file: data/mercadolivre_affiliate_links.csv
-    matt_word: eu20251007130002
+    matt_word: marylouse
     matt_tool: '50459180'
     force_in_app: true
     integration_status: active_matt_params
@@ -166,18 +166,18 @@ marketplaces:
       MLB-KITCHEN_COOKWARE_KITS: Casa e Cozinha
       MLB-GAME_CONSOLES: Jogos e Consoles
       MLB-VIDEO_GAMES: Jogos e Consoles
-      MLB-TELEVISIONS: Eletrônicos
-      MLB-HEADPHONES: Eletrônicos
-      MLB-SPEAKERS: Eletrônicos
-      MLB-TABLETS: Eletrônicos
+      MLB-TELEVISIONS: EletrÃ´nicos
+      MLB-HEADPHONES: EletrÃ´nicos
+      MLB-SPEAKERS: EletrÃ´nicos
+      MLB-TABLETS: EletrÃ´nicos
     posts_per_run: 5
     niche_mode: sequential
     niche_state_file: data/mercadolivre_niche_state.json
     keyword_groups:
       casa_moveis_decoracao:
         enabled: true
-        name: Casa, Móveis e Decoração
-        category_label: Casa e Decoração
+        name: Casa, MÃ³veis e DecoraÃ§Ã£o
+        category_label: Casa e DecoraÃ§Ã£o
         keywords:
         - jogo de panelas
         - panelas antiaderente
@@ -202,7 +202,7 @@ marketplaces:
         allowed_domain_ids: []
       calcados_roupas_bolsas:
         enabled: true
-        name: Calçados, Roupas e Bolsas
+        name: CalÃ§ados, Roupas e Bolsas
         category_label: Moda
         keywords:
         - tenis masculino
@@ -260,8 +260,8 @@ marketplaces:
         allowed_domain_ids: []
       eletrodomesticos:
         enabled: true
-        name: Eletrodomésticos
-        category_label: Eletrodomésticos
+        name: EletrodomÃ©sticos
+        category_label: EletrodomÃ©sticos
         keywords:
         - air fryer
         - fritadeira air fryer
@@ -292,8 +292,8 @@ marketplaces:
         allowed_domain_ids: []
       informatica:
         enabled: true
-        name: Informática
-        category_label: Informática
+        name: InformÃ¡tica
+        category_label: InformÃ¡tica
         keywords:
         - notebook
         - notebook gamer
@@ -308,8 +308,8 @@ marketplaces:
         allowed_domain_ids: []
       eletronicos_audio_video:
         enabled: true
-        name: Eletrônicos, Áudio e Vídeo
-        category_label: Eletrônicos
+        name: EletrÃ´nicos, Ãudio e VÃ­deo
+        category_label: EletrÃ´nicos
         keywords:
         - smart tv
         - caixa de som bluetooth
@@ -356,8 +356,8 @@ marketplaces:
         allowed_domain_ids: []
       saude:
         enabled: true
-        name: Saúde
-        category_label: Saúde
+        name: SaÃºde
+        category_label: SaÃºde
         keywords:
         - monitor pressao
         - oximetro
@@ -388,8 +388,8 @@ marketplaces:
         allowed_domain_ids: []
       bebes:
         enabled: true
-        name: Bebês
-        category_label: Bebês
+        name: BebÃªs
+        category_label: BebÃªs
         keywords:
         - carrinho bebe
         - bebe conforto
@@ -449,54 +449,54 @@ marketplaces:
         - fralda
         - fralda pampers
         - fralda huggies
-        - lenço umedecido bebê
+        - lenÃ§o umedecido bebÃª
         - pomada assadura
-        - sabonete bebê
+        - sabonete bebÃª
         - shampoo infantil
         - condicionador infantil
         - mamadeira
-        - chupeta bebê
-        - talco bebê
-        - kit higiene bebê
+        - chupeta bebÃª
+        - talco bebÃª
+        - kit higiene bebÃª
         - shampoo
         - condicionador
-        - sabonete líquido
+        - sabonete lÃ­quido
         - sabonete barra
         - desodorante
         - creme dental
         - escova dental
         - enxaguante bucal
         - absorvente
-        - papel higiênico
+        - papel higiÃªnico
         - aparelho barbear
         - hidratante corporal
-        - sabão líquido
+        - sabÃ£o lÃ­quido
         - lava roupas
         - amaciante
         - detergente
         - desinfetante
         - limpador multiuso
-        - água sanitária
-        - álcool limpeza
-        - lava louças
+        - Ã¡gua sanitÃ¡ria
+        - Ã¡lcool limpeza
+        - lava louÃ§as
         - esponja limpeza
         - papel toalha
         - saco lixo
         - papel higienico
-        - papel higiênico folha dupla
+        - papel higiÃªnico folha dupla
         - papel higienico folha dupla
-        - papel higiênico 12 rolos
+        - papel higiÃªnico 12 rolos
         - papel higienico 12 rolos
-        - papel higiênico 16 rolos
+        - papel higiÃªnico 16 rolos
         - papel higienico 16 rolos
-        - papel higiênico 24 rolos
+        - papel higiÃªnico 24 rolos
         - papel higienico 24 rolos
-        - café
+        - cafÃ©
         - azeite de oliva
         - arroz
-        - feijão
+        - feijÃ£o
         - leite
-        - sabão em pó
+        - sabÃ£o em pÃ³
         - lava-roupas
         - amaciante de roupas
         - cloro
@@ -516,7 +516,7 @@ marketplaces:
     enabled: true
     keywords:
     - fone bluetooth
-    - informática
+    - informÃ¡tica
     - air fryer
     - smartwatch
     - ssd
@@ -592,7 +592,7 @@ niches:
         shopee:
         - vestido feminino
         - blusa feminina
-        - calça feminina
+        - calÃ§a feminina
         - saia feminina
         - conjunto feminino
         - cropped feminino
@@ -612,7 +612,7 @@ niches:
         - camiseta masculina
         - camisa masculina
         - bermuda masculina
-        - calça masculina
+        - calÃ§a masculina
         - jaqueta masculina
         - moletom masculino
         - camisa polo masculina
@@ -631,7 +631,7 @@ niches:
         - vestido plus size
         - blusa plus size
         - moda plus size feminina
-        - calça plus size
+        - calÃ§a plus size
         - conjunto plus size
         - lingerie plus size
         - camiseta plus size
@@ -652,7 +652,7 @@ niches:
         - bota masculina
         - chinelo masculino
         - sandalia masculina
-        - sapatênis masculino
+        - sapatÃªnis masculino
         - tenis casual masculino
         - tenis corrida masculino
         - mocassim masculino
@@ -686,7 +686,7 @@ niches:
         - cabo usb c
     shopee_eletrodomesticos:
       enabled: true
-      name: Eletrodomésticos
+      name: EletrodomÃ©sticos
       only_marketplaces:
       - shopee
       min_price: 50
@@ -697,10 +697,10 @@ niches:
         - fritadeira air fryer
         - liquidificador
         - cafeteira
-        - aspirador de pó
+        - aspirador de pÃ³
         - ventilador
         - microondas
-        - purificador de água
+        - purificador de Ã¡gua
         - batedeira
         - sanduicheira
         - panela eletrica
@@ -801,7 +801,7 @@ niches:
         - boneca
         - hot wheels
         - massinha
-        - quebra cabeça
+        - quebra cabeÃ§a
         - nerf
         - patinete infantil
         - piscina infantil
@@ -809,17 +809,17 @@ niches:
         - jogo de tabuleiro
     shopee_saude:
       enabled: true
-      name: Saúde
+      name: SaÃºde
       only_marketplaces:
       - shopee
       min_price: 25
       max_price: 2000
       marketplaces:
         shopee:
-        - monitor de pressão
+        - monitor de pressÃ£o
         - oximetro
         - termometro digital
-        - balança digital
+        - balanÃ§a digital
         - inalador nebulizador
         - massageador
         - medidor glicose
@@ -829,7 +829,7 @@ niches:
         - corretor postura
     shopee_mae_bebe:
       enabled: true
-      name: Mãe e Bebê
+      name: MÃ£e e BebÃª
       only_marketplaces:
       - shopee
       min_price: 25
@@ -908,7 +908,7 @@ niches:
         - caneta gel
     shopee_computadores_acessorios:
       enabled: true
-      name: Computadores e Acessórios
+      name: Computadores e AcessÃ³rios
       only_marketplaces:
       - shopee
       min_price: 80
@@ -1080,3 +1080,4 @@ site:
   enabled: true
   max_offers: 400
   keep_hours: 24
+

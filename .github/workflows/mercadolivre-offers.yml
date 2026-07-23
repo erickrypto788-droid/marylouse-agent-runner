@@ -107,7 +107,7 @@ jobs:
           ml["posts_per_run"] = post_count
           ml["source_mode"] = "catalog"
           ml["affiliate_mode"] = "matt_params"
-          ml["matt_word"] = "eu20251007130002"
+          ml["matt_word"] = "marylouse"
           ml["matt_tool"] = "50459180"
           ml["force_in_app"] = True
           ml["site_id"] = "MLB"
@@ -228,4 +228,5 @@ jobs:
           else
             echo "Sem alterações no estado Mercado Livre."
           fi
+
 

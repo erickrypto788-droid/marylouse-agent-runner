@@ -507,7 +507,7 @@ class MercadoLivreMarketplace(Marketplace):
         matt_word = str(
             mcfg.get("matt_word")
             or os.getenv("MERCADOLIVRE_MATT_WORD", "")
-            or "eu20251007130002"
+            or "marylouse"
         ).strip()
 
         matt_tool = str(
@@ -564,3 +564,4 @@ class MercadoLivreMarketplace(Marketplace):
             return domain_id.replace("MLB-", "").replace("_", " ").title()
 
         return str(mcfg.get("category_label") or "Mercado Livre")
+
