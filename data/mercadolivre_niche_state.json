@@ -1,11 +1,11 @@
 {
-  "next_index": 5,
+  "next_index": 6,
   "last_keys": [
-    "eletrodomesticos"
+    "ferramentas"
   ],
   "last_names": [
-    "EletrodomÃ©sticos"
+    "Ferramentas"
   ],
   "note": "Forçado para testar Supermercados no Mercado Livre.",
-  "updated_at": 1784912432
+  "updated_at": 1784916034
 }
