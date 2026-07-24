@@ -308,7 +308,7 @@ marketplaces:
         allowed_domain_ids: []
       eletronicos_audio_video:
         enabled: true
-        name: EletrÃ´nicos, Ãudio e VÃ­deo
+        name: EletrÃ´nicos, Ãudio e VÃ­deo
         category_label: EletrÃ´nicos
         keywords:
         - smart tv
