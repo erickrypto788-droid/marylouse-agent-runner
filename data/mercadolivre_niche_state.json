@@ -1,11 +1,11 @@
 {
-  "next_index": 9,
+  "next_index": 10,
   "last_keys": [
-    "celulares_telefones"
+    "brinquedos_hobbies"
   ],
   "last_names": [
-    "Celulares e Telefones"
+    "Brinquedos e Hobbies"
   ],
   "note": "Forçado para testar Supermercados no Mercado Livre.",
-  "updated_at": 1784869227
+  "updated_at": 1784872822
 }
