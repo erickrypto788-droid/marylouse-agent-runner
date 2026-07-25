@@ -8,10 +8,12 @@ import time
 import requests
 
 from .models import Product, OfferCopy
+import re
 
 
 
 def _inline_buy_link(text):
+    import re
     """
     Normaliza o padrão do link de compra no Telegram.
 
