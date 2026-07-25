@@ -1,9 +1,9 @@
-﻿agent:
+agent:
   language: pt-BR
   timezone: America/Sao_Paulo
   post_limit_per_run: 3
   max_candidates_per_run: 80
-  recent_duplicate_days: 10
+  recent_duplicate_days: 45
   min_seconds_between_posts: 60
   dry_run: true
   post_one_per_marketplace: true
@@ -1080,4 +1080,3 @@ site:
   enabled: true
   max_offers: 400
   keep_hours: 24
-

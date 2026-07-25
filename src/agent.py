@@ -205,6 +205,60 @@ def _site_duplicate_keys(cfg: Dict[str, Any]) -> set[str]:
         print(f"[site-duplicado] Não foi possível ler offers.json: {exc}")
         return set()
 
+
+def _duplicate_tokens_for_selection(value: str) -> list[str]:
+    import re
+    import unicodedata
+
+    stopwords = {
+        "de", "da", "do", "das", "dos", "para", "com", "sem", "e", "ou",
+        "a", "o", "as", "os", "em", "no", "na", "nos", "nas", "por",
+        "oferta", "promocao", "promoção", "original", "novo", "nova",
+        "pronta", "entrega", "loja", "kit"
+    }
+
+    text = str(value or "").strip().lower()
+    text = unicodedata.normalize("NFD", text)
+    text = "".join(ch for ch in text if unicodedata.category(ch) != "Mn")
+    text = re.sub(r"[^a-z0-9À-ÿ]+", " ", text, flags=re.I)
+    text = re.sub(r"\s+", " ", text).strip()
+
+    return [
+        token
+        for token in text.split()
+        if token not in stopwords and len(token) > 1
+    ]
+
+
+def _similar_title_for_selection(title: str, previous_titles: list[str]) -> bool:
+    current = set(_duplicate_tokens_for_selection(title))
+
+    if not current:
+        return False
+
+    for previous in previous_titles:
+        old = set(_duplicate_tokens_for_selection(previous))
+
+        if not old:
+            continue
+
+        common = current & old
+        union = current | old
+
+        if len(common) >= 5:
+            return True
+
+        if len(common) >= 4 and (len(common) / max(len(union), 1)) >= 0.58:
+            return True
+
+        smaller = min(len(current), len(old))
+
+        if smaller >= 4 and len(common) / smaller >= 0.80:
+            return True
+
+    return False
+
+
 def fetch_all_products(cfg: Dict[str, Any]) -> List[Product]:
     products: List[Product] = []
     for MarketplaceCls in ALL_MARKETPLACES:
@@ -298,6 +352,7 @@ def select_products_to_post(candidates: List[Product], cfg: Dict[str, Any]) -> L
     selected: List[Product] = []
     selected_keys = set()
     selected_title_keys = set()
+    selected_titles_by_marketplace: Dict[str, List[str]] = {}
 
     for marketplace_name in active_marketplaces:
         mcfg = marketplaces_cfg.get(marketplace_name, {}) or {}
@@ -324,9 +379,16 @@ def select_products_to_post(candidates: List[Product], cfg: Dict[str, Any]) -> L
             if title_key in selected_title_keys:
                 continue
 
+            previous_titles = selected_titles_by_marketplace.get(product.marketplace, [])
+
+            if _similar_title_for_selection(product.title, previous_titles):
+                print(f"[duplicado-selecao] Ignorado por parecer produto já selecionado: {product.key}")
+                continue
+
             selected.append(product)
             selected_keys.add(product.key)
             selected_title_keys.add(title_key)
+            selected_titles_by_marketplace.setdefault(product.marketplace, []).append(product.title)
 
             picked += 1
 

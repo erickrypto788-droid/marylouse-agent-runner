@@ -2,14 +2,22 @@
 
 import hashlib
 import json
+import re
 import sqlite3
 import unicodedata
-import re
 from datetime import datetime, timedelta, timezone
 from pathlib import Path
 from typing import Optional
 
 from .models import OfferCopy, Product
+
+
+STOPWORDS = {
+    "de", "da", "do", "das", "dos", "para", "com", "sem", "e", "ou",
+    "a", "o", "as", "os", "em", "no", "na", "nos", "nas", "por",
+    "oferta", "promocao", "promoção", "original", "novo", "nova",
+    "pronta", "entrega", "loja", "kit"
+}
 
 
 class Storage:
@@ -52,12 +60,11 @@ class Storage:
         self.conn.execute("CREATE INDEX IF NOT EXISTS idx_posted_at ON posted_products(posted_at)")
         self.conn.execute("CREATE INDEX IF NOT EXISTS idx_posted_market_title ON posted_products(marketplace, title_norm)")
 
-        # Preenche title_norm em registros antigos.
+        # Recalcula normalização para registros antigos.
         rows = self.conn.execute(
             """
             SELECT id, title
             FROM posted_products
-            WHERE title_norm IS NULL OR title_norm = ''
             """
         ).fetchall()
 
@@ -83,18 +90,62 @@ class Storage:
         return hashlib.sha256((url or "").encode("utf-8")).hexdigest()
 
     @staticmethod
-    def normalize_title(value: str) -> str:
+    def _clean_text(value: str) -> str:
         text = str(value or "").strip().lower()
-
         text = unicodedata.normalize("NFD", text)
         text = "".join(ch for ch in text if unicodedata.category(ch) != "Mn")
-
         text = re.sub(r"[^a-z0-9À-ÿ]+", " ", text, flags=re.I)
         text = re.sub(r"\s+", " ", text).strip()
+        return text
 
-        # Mantém uma chave longa o bastante para diferenciar modelos,
-        # mas curta o bastante para pegar duplicatas visuais.
-        return text[:140]
+    @classmethod
+    def title_tokens(cls, value: str) -> list[str]:
+        text = cls._clean_text(value)
+
+        tokens = []
+
+        for token in text.split():
+            if token in STOPWORDS:
+                continue
+
+            if len(token) <= 1:
+                continue
+
+            tokens.append(token)
+
+        return tokens
+
+    @classmethod
+    def normalize_title(cls, value: str) -> str:
+        tokens = cls.title_tokens(value)
+
+        # Assinatura agressiva para evitar variações do mesmo produto.
+        return " ".join(tokens[:7])
+
+    @classmethod
+    def similar_titles(cls, a: str, b: str) -> bool:
+        ta = set(cls.title_tokens(a))
+        tb = set(cls.title_tokens(b))
+
+        if not ta or not tb:
+            return False
+
+        common = ta & tb
+        union = ta | tb
+
+        if len(common) >= 5:
+            return True
+
+        if len(common) >= 4 and (len(common) / max(len(union), 1)) >= 0.58:
+            return True
+
+        # Se um título é quase subconjunto do outro.
+        smaller = min(len(ta), len(tb))
+
+        if smaller >= 4 and len(common) / smaller >= 0.80:
+            return True
+
+        return False
 
     def was_recently_posted(self, product: Product, days: int) -> bool:
         cutoff = (datetime.now(timezone.utc) - timedelta(days=days)).isoformat()
@@ -128,7 +179,29 @@ class Storage:
             ),
         ).fetchone()
 
-        return row is not None
+        if row is not None:
+            return True
+
+        # Segunda camada: similaridade de título com posts recentes.
+        rows = self.conn.execute(
+            """
+            SELECT title
+            FROM posted_products
+            WHERE dry_run = 0
+              AND posted_at >= ?
+              AND marketplace = ?
+            ORDER BY posted_at DESC
+            LIMIT 600
+            """,
+            (cutoff, product.marketplace),
+        ).fetchall()
+
+        for old in rows:
+            if self.similar_titles(product.title, old["title"]):
+                print(f"[duplicado-similar] Ignorado por título parecido: {product.key}")
+                return True
+
+        return False
 
     def mark_posted(
         self,
