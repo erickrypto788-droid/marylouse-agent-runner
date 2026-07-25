@@ -1,0 +1,87 @@
+﻿name: Ofertas manuais Amazon CSV
+
+on:
+  workflow_dispatch:
+    inputs:
+      post_count:
+        description: "Quantidade de ofertas para publicar"
+        required: false
+        default: "3"
+      post_telegram:
+        description: "Postar no Telegram?"
+        required: false
+        default: "true"
+      publish_site:
+        description: "Publicar no site?"
+        required: false
+        default: "true"
+
+  push:
+    branches:
+      - main
+    paths:
+      - "data/manual_offers.csv"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: manual-offers-amazon
+  cancel-in-progress: false
+
+jobs:
+  manual-offers:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Baixar runner
+        uses: actions/checkout@v4
+
+      - name: Configurar Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Rodar importador de ofertas manuais
+        env:
+          POST_COUNT: ${{ github.event_name == 'workflow_dispatch' && inputs.post_count || '3' }}
+          POST_TELEGRAM: ${{ github.event_name == 'workflow_dispatch' && inputs.post_telegram || 'true' }}
+          PUBLISH_SITE: ${{ github.event_name == 'workflow_dispatch' && inputs.publish_site || 'true' }}
+
+          MANUAL_VALID_HOURS: "24"
+
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+
+          SITE_REPO_TOKEN: ${{ secrets.SITE_REPO_TOKEN }}
+          SITE_REPO: erickrypto788-droid/marylouse-ofertas
+          SITE_BRANCH: main
+          SITE_FILE_PATH: data/offers.json
+
+          AFFILIATE_DISCLOSURE: "Aviso: como afiliados, podemos receber comissão por compras feitas pelos links."
+        run: |
+          python scripts/manual_offers_importer.py
+
+      - name: Salvar estado no runner
+        run: |
+          git config user.name "marylouse-bot"
+          git config user.email "marylouse-bot@users.noreply.github.com"
+
+          git add data/manual_offers_state.json
+
+          if git diff --cached --quiet; then
+            echo "Nenhuma mudança de estado para salvar."
+            exit 0
+          fi
+
+          git commit -m "Atualiza estado de ofertas manuais Amazon"
+
+          for i in 1 2 3; do
+            git push && exit 0
+            echo "Push falhou. Tentativa $i/3. Fazendo pull --rebase..."
+            git pull --rebase origin main || true
+            sleep 5
+          done
+
+          echo "Falha ao salvar estado após 3 tentativas."
+          exit 1
