@@ -334,10 +334,7 @@ def telegram_api(method, payload):
 def build_caption(row):
     title = row["title"]
     price_text = row["price_text"]
-    category = row["category"]
-
-    expires_at = utc_now() + timedelta(hours=VALID_HOURS)
-    expires_local = expires_at.astimezone(BR_TZ).strftime("%d/%m às %H:%M")
+    affiliate_url = row["affiliate_url"]
 
     lines = [
         f"🔥 {title}",
@@ -345,67 +342,79 @@ def build_caption(row):
         f"💰 Por: {price_text}",
         "",
         "🛒 Loja: Amazon",
-        f"📌 Categoria: {category}",
         "",
         f"⏰ Oferta válida no site por até {VALID_HOURS}h.",
-        f"⚠️ Preço conferido no momento da publicação e pode mudar a qualquer momento.",
+        "",
+        "🛒 Comprar agora:",
+        "",
+        affiliate_url,
+        "",
         AFFILIATE_DISCLOSURE,
     ]
 
     caption = "\n".join(lines).strip()
 
-    if len(caption) > 1000:
-        caption = caption[:997] + "..."
+    # O Telegram aceita até 1024 caracteres em legenda de foto.
+    # Se passar do limite, encurta o título/texto, mas preserva preço, link e aviso.
+    max_len = 1024
+
+    if len(caption) > max_len:
+        suffix = f"\n\n💰 Por: {price_text}\n\n🛒 Loja: Amazon\n\n⏰ Oferta válida no site por até {VALID_HOURS}h.\n\n🛒 Comprar agora:\n\n{affiliate_url}\n\n{AFFILIATE_DISCLOSURE}"
+        title_prefix = "🔥 "
+        allowed_title_len = max_len - len(suffix) - len(title_prefix) - 3
+
+        if allowed_title_len < 40:
+            allowed_title_len = 40
+
+        short_title = title[:allowed_title_len].rstrip() + "..."
+        caption = title_prefix + short_title + suffix
+
+        if len(caption) > max_len:
+            caption = caption[:max_len - 3].rstrip() + "..."
 
     return caption
 
 
 def post_to_telegram(row):
+    offer_id = row["offer_id"]
+    title = row["title"]
+
     if DRY_RUN:
-        print(f"[dry-run] Telegram publicaria: {row['offer_id']} | {row['title']}")
+        print(f"[dry-run] Telegram publicaria: {offer_id} | {title}")
+        print("[dry-run] Prévia da legenda:")
+        print(build_caption(row))
         return
 
     if not TELEGRAM_CHAT_ID:
         raise RuntimeError("TELEGRAM_CHAT_ID ausente")
 
-    affiliate_url = row["affiliate_url"]
-    image_url = row["image_url"]
+    image_url = row.get("image_url") or ""
     caption = build_caption(row)
 
-    keyboard = {
-        "inline_keyboard": [
-            [
-                {
-                    "text": "Comprar na Amazon",
-                    "url": affiliate_url
-                }
-            ]
-        ]
-    }
+    # Formato igual Shopee/ML: o link aparece visível no texto.
+    # Não usamos botão inline para manter o padrão visual.
+    if image_url:
+        photo_payload = {
+            "chat_id": TELEGRAM_CHAT_ID,
+            "photo": image_url,
+            "caption": caption,
+        }
 
-    photo_payload = {
-        "chat_id": TELEGRAM_CHAT_ID,
-        "photo": image_url,
-        "caption": caption,
-        "reply_markup": keyboard,
-    }
-
-    try:
-        telegram_api("sendPhoto", photo_payload)
-        print(f"[telegram] publicado com imagem: {row['offer_id']} | {row['title']}")
-        return
-    except Exception as e:
-        print(f"[telegram] falha ao enviar imagem, tentando texto: {e}")
+        try:
+            telegram_api("sendPhoto", photo_payload)
+            print(f"[telegram] publicado com imagem e link no texto: {offer_id} | {title}")
+            return
+        except Exception as e:
+            print(f"[telegram] falha ao enviar imagem, tentando texto: {e}")
 
     text_payload = {
         "chat_id": TELEGRAM_CHAT_ID,
-        "text": f"{caption}\n\n{affiliate_url}",
-        "reply_markup": keyboard,
+        "text": caption,
         "disable_web_page_preview": False,
     }
 
     telegram_api("sendMessage", text_payload)
-    print(f"[telegram] publicado como texto: {row['offer_id']} | {row['title']}")
+    print(f"[telegram] publicado como texto com link visível: {offer_id} | {title}")
 
 
 def github_request(method, url, token, payload=None):
