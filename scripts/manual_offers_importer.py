@@ -1,6 +1,7 @@
 ﻿import base64
 import csv
 import hashlib
+import io
 import json
 import os
 import re
@@ -202,6 +203,24 @@ def auto_category(title):
     return "Outros"
 
 
+def read_csv_text_with_fallback(path):
+    encodings = ("utf-8-sig", "utf-8", "cp1252", "latin-1")
+    last_error = None
+
+    for encoding in encodings:
+        try:
+            with open(path, "r", encoding=encoding, newline="") as f:
+                content = f.read()
+
+            print(f"[manual] CSV lido com encoding: {encoding}")
+            return content
+
+        except UnicodeDecodeError as e:
+            last_error = e
+
+    raise RuntimeError(f"Não foi possível ler o CSV em nenhum encoding conhecido: {last_error}")
+
+
 def read_csv_rows():
     if not os.path.exists(CSV_PATH):
         print(f"[manual] CSV não encontrado: {CSV_PATH}")
@@ -209,53 +228,72 @@ def read_csv_rows():
 
     rows = []
 
-    with open(CSV_PATH, "r", encoding="utf-8-sig", newline="") as f:
-        reader = csv.DictReader(f)
+    csv_text = read_csv_text_with_fallback(CSV_PATH)
 
-        required_columns = {"title", "price", "image_url", "affiliate_url"}
-        current_columns = set(reader.fieldnames or [])
+    sample = csv_text[:4096]
+    first_line = csv_text.splitlines()[0] if csv_text.splitlines() else ""
 
-        missing = required_columns - current_columns
-        if missing:
-            raise RuntimeError(f"CSV sem colunas obrigatórias: {', '.join(sorted(missing))}")
+    try:
+        dialect = csv.Sniffer().sniff(sample, delimiters=",;\t")
+        delimiter = dialect.delimiter
+    except Exception:
+        if ";" in first_line:
+            delimiter = ";"
+        elif "\t" in first_line:
+            delimiter = "\t"
+        else:
+            delimiter = ","
 
-        for line_number, row in enumerate(reader, start=2):
-            row = {
-                str(k).strip(): (v.strip() if isinstance(v, str) else v)
-                for k, v in row.items()
-            }
+    print(f"[manual] CSV delimitador detectado: {repr(delimiter)}")
 
-            title = row.get("title") or ""
-            price = parse_price(row.get("price"))
-            image_url = row.get("image_url") or ""
-            affiliate_url = row.get("affiliate_url") or ""
+    reader = csv.DictReader(io.StringIO(csv_text), delimiter=delimiter)
 
-            if not title and not affiliate_url:
-                continue
+    required_columns = {"title", "price", "image_url", "affiliate_url"}
+    current_columns = set(reader.fieldnames or [])
 
-            errors = []
+    missing = required_columns - current_columns
+    if missing:
+        raise RuntimeError(f"CSV sem colunas obrigatórias: {', '.join(sorted(missing))}")
 
-            if not title:
-                errors.append("title vazio")
-            if price is None:
-                errors.append("price inválido")
-            if not image_url:
-                errors.append("image_url vazio")
-            if not affiliate_url:
-                errors.append("affiliate_url vazio")
+    for line_number, row in enumerate(reader, start=2):
+        row = {
+            str(k).strip(): (v.strip() if isinstance(v, str) else v)
+            for k, v in row.items()
+            if k is not None
+        }
 
-            if errors:
-                print(f"[manual] linha {line_number} ignorada: {', '.join(errors)}")
-                continue
+        title = row.get("title") or ""
+        price = parse_price(row.get("price"))
+        image_url = row.get("image_url") or ""
+        affiliate_url = row.get("affiliate_url") or ""
 
-            row["price_number"] = price
-            row["price_text"] = format_brl(price)
-            row["category"] = auto_category(title)
-            row["offer_id"] = make_offer_id(row)
+        if not title and not affiliate_url:
+            continue
 
-            rows.append(row)
+        errors = []
+
+        if not title:
+            errors.append("title vazio")
+        if price is None:
+            errors.append("price inválido")
+        if not image_url:
+            errors.append("image_url vazio")
+        if not affiliate_url:
+            errors.append("affiliate_url vazio")
+
+        if errors:
+            print(f"[manual] linha {line_number} ignorada: {', '.join(errors)}")
+            continue
+
+        row["price_number"] = price
+        row["price_text"] = format_brl(price)
+        row["category"] = auto_category(title)
+        row["offer_id"] = make_offer_id(row)
+
+        rows.append(row)
 
     return rows
+
 
 
 def telegram_api(method, payload):
