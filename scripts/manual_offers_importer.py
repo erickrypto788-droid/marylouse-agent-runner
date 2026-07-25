@@ -391,19 +391,38 @@ def build_caption(row):
     price_text = row["price_text"]
     old_price_text = row.get("old_price_text") or ""
     affiliate_url = row["affiliate_url"]
+    discount_percent = row.get("discount_percent")
 
-    lines = [
-        f"🔥 {title}",
-        "",
-    ]
+    lines = []
 
-    if old_price_text:
+    if old_price_text and discount_percent:
         lines.extend([
+            f"🔥 {discount_percent}% OFF — Oferta Amazon!",
+            "",
+            f"📌 {title}",
+            "",
             f"💸 De: {old_price_text}",
-            f"💰 Por: {price_text}",
+            "",
+            f"🔥 Por: {price_text}",
+        ])
+    elif old_price_text:
+        lines.extend([
+            "🔥 Oferta Amazon!",
+            "",
+            f"📌 {title}",
+            "",
+            f"💸 De: {old_price_text}",
+            "",
+            f"🔥 Por: {price_text}",
         ])
     else:
-        lines.append(f"💰 Por: {price_text}")
+        lines.extend([
+            "🔥 Oferta Amazon!",
+            "",
+            f"📌 {title}",
+            "",
+            f"🔥 Por: {price_text}",
+        ])
 
     lines.extend([
         "",
@@ -411,9 +430,7 @@ def build_caption(row):
         "",
         f"⏰ Oferta válida no site por até {VALID_HOURS}h.",
         "",
-        "🛒 Comprar agora:",
-        "",
-        affiliate_url,
+        f"🛒 Comprar agora: {affiliate_url}",
         "",
         AFFILIATE_DISCLOSURE,
     ])
@@ -424,21 +441,25 @@ def build_caption(row):
 
     if len(caption) > max_len:
         if old_price_text:
-            price_part = f"💸 De: {old_price_text}\n💰 Por: {price_text}"
+            price_part = f"💸 De: {old_price_text}\n\n🔥 Por: {price_text}"
         else:
-            price_part = f"💰 Por: {price_text}"
+            price_part = f"🔥 Por: {price_text}"
+
+        if old_price_text and discount_percent:
+            header = f"🔥 {discount_percent}% OFF — Oferta Amazon!"
+        else:
+            header = "🔥 Oferta Amazon!"
 
         suffix = (
             f"\n\n{price_part}"
             f"\n\n🛒 Loja: Amazon"
             f"\n\n⏰ Oferta válida no site por até {VALID_HOURS}h."
-            f"\n\n🛒 Comprar agora:"
-            f"\n\n{affiliate_url}"
+            f"\n\n🛒 Comprar agora: {affiliate_url}"
             f"\n\n{AFFILIATE_DISCLOSURE}"
         )
 
-        title_prefix = "🔥 "
-        allowed_title_len = max_len - len(suffix) - len(title_prefix) - 3
+        title_prefix = f"{header}\n\n📌 "
+        allowed_title_len = max_len - len(title_prefix) - len(suffix) - 3
 
         if allowed_title_len < 40:
             allowed_title_len = 40

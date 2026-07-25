@@ -11,12 +11,58 @@ from .models import Product, OfferCopy
 
 
 
+def _inline_buy_link(text):
+    """
+    Normaliza o padrão do link de compra no Telegram.
+
+    Antes:
+    🛒 Comprar agora:
+
+    https://...
+
+    Depois:
+    🛒 Comprar agora: https://...
+    """
+    if text is None:
+        return text
+
+    text = str(text)
+
+    patterns = [
+        r"(🛒\s*Comprar agora:)\s*\n+\s*(https?://\S+)",
+        r"(Comprar agora:)\s*\n+\s*(https?://\S+)",
+    ]
+
+    for pattern in patterns:
+        text = re.sub(pattern, r"\1 \2", text, flags=re.IGNORECASE)
+
+    # Remove excesso de espaços depois dos dois pontos.
+    text = re.sub(r"(🛒\s*Comprar agora:)\s+", r"\1 ", text, flags=re.IGNORECASE)
+    text = re.sub(r"(Comprar agora:)\s+", r"\1 ", text, flags=re.IGNORECASE)
+
+    return text
+
+
+def _normalize_buy_link_payload(payload):
+    if isinstance(payload, dict):
+        payload = dict(payload)
+
+        if "caption" in payload and payload.get("caption"):
+            payload["caption"] = _inline_buy_link(payload.get("caption"))
+
+        if "text" in payload and payload.get("text"):
+            payload["text"] = _inline_buy_link(payload.get("text"))
+
+    return payload
+
+
 def _post_with_retry(url: str, payload: dict, attempts: int = 3, timeout: int = 60):
+    payload = _normalize_buy_link_payload(payload)
     last_exc = None
 
     for attempt in range(1, attempts + 1):
         try:
-            resp = requests.post(url, json=payload, timeout=timeout)
+            resp = requests.post(url, json=_normalize_buy_link_payload(payload), timeout=timeout)
             return resp
         except requests.exceptions.Timeout as exc:
             last_exc = exc
