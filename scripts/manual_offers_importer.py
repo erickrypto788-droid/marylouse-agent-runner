@@ -248,24 +248,59 @@ def read_csv_rows():
 
     reader = csv.DictReader(io.StringIO(csv_text), delimiter=delimiter)
 
-    required_columns = {"title", "price", "image_url", "affiliate_url"}
-    current_columns = set(reader.fieldnames or [])
+    def normalize_key(key):
+        key = str(key or "")
+        key = key.replace("\ufeff", "")
+        key = key.strip().lower()
+        key = key.replace(" ", "_")
+        return key
 
-    missing = required_columns - current_columns
+    raw_columns = list(reader.fieldnames or [])
+    normalized_columns = {normalize_key(c) for c in raw_columns}
+
+    required_columns = {"title", "price", "image_url", "affiliate_url"}
+    missing = required_columns - normalized_columns
+
     if missing:
+        print("[manual] Colunas encontradas:", raw_columns)
+        print("[manual] Colunas normalizadas:", sorted(normalized_columns))
         raise RuntimeError(f"CSV sem colunas obrigatórias: {', '.join(sorted(missing))}")
 
-    for line_number, row in enumerate(reader, start=2):
-        row = {
-            str(k).strip(): (v.strip() if isinstance(v, str) else v)
+    def get_any(row, *keys):
+        normalized = {
+            normalize_key(k): (v.strip() if isinstance(v, str) else v)
             for k, v in row.items()
             if k is not None
         }
 
-        title = row.get("title") or ""
-        price = parse_price(row.get("price"))
-        image_url = row.get("image_url") or ""
-        affiliate_url = row.get("affiliate_url") or ""
+        for key in keys:
+            value = normalized.get(normalize_key(key))
+            if value is None:
+                continue
+
+            if isinstance(value, str):
+                value = value.strip()
+
+            if value not in ("", None):
+                return value
+
+        return ""
+
+    for line_number, raw_row in enumerate(reader, start=2):
+        title = get_any(raw_row, "title", "titulo", "título", "nome")
+        price = parse_price(get_any(raw_row, "price", "por", "preco", "preço", "preco_por", "preço_por"))
+        old_price = parse_price(get_any(
+            raw_row,
+            "de",
+            "de:",
+            "old_price",
+            "preco_de",
+            "preço_de",
+            "original_price",
+            "from_price"
+        ))
+        image_url = get_any(raw_row, "image_url", "imagem", "imagem_url", "url_imagem")
+        affiliate_url = get_any(raw_row, "affiliate_url", "link", "url", "link_afiliado", "affiliate")
 
         if not title and not affiliate_url:
             continue
@@ -285,16 +320,36 @@ def read_csv_rows():
             print(f"[manual] linha {line_number} ignorada: {', '.join(errors)}")
             continue
 
-        row["price_number"] = price
-        row["price_text"] = format_brl(price)
+        row = {
+            "title": title,
+            "price_number": price,
+            "price_text": format_brl(price),
+            "image_url": image_url,
+            "affiliate_url": affiliate_url,
+        }
+
+        if old_price is not None and old_price > price:
+            row["old_price_number"] = old_price
+            row["old_price_text"] = format_brl(old_price)
+            row["discount_percent"] = round(((old_price - price) / old_price) * 100)
+        else:
+            row["old_price_number"] = None
+            row["old_price_text"] = ""
+            row["discount_percent"] = None
+
         row["category"] = auto_category(title)
         row["offer_id"] = make_offer_id(row)
 
         rows.append(row)
 
+        if row["old_price_text"]:
+            print(
+                f"[manual] linha {line_number}: DE/POR detectado | "
+                f"{row['old_price_text']} -> {row['price_text']} | "
+                f"{row['discount_percent']}% OFF"
+            )
+
     return rows
-
-
 
 def telegram_api(method, payload):
     if not TELEGRAM_BOT_TOKEN:
@@ -334,12 +389,23 @@ def telegram_api(method, payload):
 def build_caption(row):
     title = row["title"]
     price_text = row["price_text"]
+    old_price_text = row.get("old_price_text") or ""
     affiliate_url = row["affiliate_url"]
 
     lines = [
         f"🔥 {title}",
         "",
-        f"💰 Por: {price_text}",
+    ]
+
+    if old_price_text:
+        lines.extend([
+            f"💸 De: {old_price_text}",
+            f"💰 Por: {price_text}",
+        ])
+    else:
+        lines.append(f"💰 Por: {price_text}")
+
+    lines.extend([
         "",
         "🛒 Loja: Amazon",
         "",
@@ -350,16 +416,27 @@ def build_caption(row):
         affiliate_url,
         "",
         AFFILIATE_DISCLOSURE,
-    ]
+    ])
 
     caption = "\n".join(lines).strip()
 
-    # O Telegram aceita até 1024 caracteres em legenda de foto.
-    # Se passar do limite, encurta o título/texto, mas preserva preço, link e aviso.
     max_len = 1024
 
     if len(caption) > max_len:
-        suffix = f"\n\n💰 Por: {price_text}\n\n🛒 Loja: Amazon\n\n⏰ Oferta válida no site por até {VALID_HOURS}h.\n\n🛒 Comprar agora:\n\n{affiliate_url}\n\n{AFFILIATE_DISCLOSURE}"
+        if old_price_text:
+            price_part = f"💸 De: {old_price_text}\n💰 Por: {price_text}"
+        else:
+            price_part = f"💰 Por: {price_text}"
+
+        suffix = (
+            f"\n\n{price_part}"
+            f"\n\n🛒 Loja: Amazon"
+            f"\n\n⏰ Oferta válida no site por até {VALID_HOURS}h."
+            f"\n\n🛒 Comprar agora:"
+            f"\n\n{affiliate_url}"
+            f"\n\n{AFFILIATE_DISCLOSURE}"
+        )
+
         title_prefix = "🔥 "
         allowed_title_len = max_len - len(suffix) - len(title_prefix) - 3
 
@@ -373,7 +450,6 @@ def build_caption(row):
             caption = caption[:max_len - 3].rstrip() + "..."
 
     return caption
-
 
 def post_to_telegram(row):
     offer_id = row["offer_id"]
@@ -510,9 +586,16 @@ def build_site_offer(row):
     published_at = utc_now()
     expires_at = published_at + timedelta(hours=VALID_HOURS)
 
-    image_url = row["image_url"]
+    default_image = globals().get(
+        "DEFAULT_IMAGE_URL",
+        "https://marylouse-ofertas.vercel.app/assets/logo.png"
+    )
+
+    image_url = row.get("image_url") or default_image
     affiliate_url = row["affiliate_url"]
     price = row["price_number"]
+    old_price = row.get("old_price_number")
+    discount_percent = row.get("discount_percent")
 
     offer = {
         "id": row["offer_id"],
@@ -524,7 +607,7 @@ def build_site_offer(row):
         "store": MARKETPLACE,
 
         "title": row["title"],
-        "description": f"Oferta Amazon selecionada manualmente. Preço conferido no momento da publicação.",
+        "description": "Oferta Amazon selecionada manualmente.",
         "category": row["category"],
 
         "price": price,
@@ -545,17 +628,24 @@ def build_site_offer(row):
         "currency": "BRL",
 
         "created_at": published_at.isoformat(),
+        "created_at_iso": published_at.isoformat(),
+        "created_ts": int(published_at.timestamp()),
         "published_at": published_at.isoformat(),
         "posted_at": published_at.isoformat(),
         "collected_at": published_at.isoformat(),
         "expires_at": expires_at.isoformat(),
 
         "valid_hours": VALID_HOURS,
-        "disclaimer": "Preço conferido no momento da publicação e pode mudar a qualquer momento.",
+        "disclaimer": "Preço e disponibilidade podem mudar a qualquer momento.",
     }
 
-    return offer
+    if old_price is not None and old_price > price:
+        offer["old_price"] = old_price
+        offer["original_price"] = old_price
+        offer["old_price_text"] = row.get("old_price_text") or format_brl(old_price)
+        offer["discount_percent"] = discount_percent
 
+    return offer
 
 def merge_site_offers(existing_offers, new_rows):
     new_offers = [build_site_offer(row) for row in new_rows]
