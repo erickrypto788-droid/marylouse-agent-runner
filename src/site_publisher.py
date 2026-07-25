@@ -728,6 +728,100 @@ def _normalize_site_category(category: Any, title: Any = "", description: Any = 
     return raw_category if raw_category and len(raw_category) <= 28 else "Outros"
 
 
+
+def _force_site_category_overrides(category: Any, title: Any = "", description: Any = "") -> str:
+    text = f"{category or ''} {title or ''} {description or ''}".strip().lower()
+
+    try:
+        import unicodedata
+        text = unicodedata.normalize("NFD", text)
+        text = "".join(ch for ch in text if unicodedata.category(ch) != "Mn")
+    except Exception:
+        pass
+
+    text = re.sub(r"[^a-z0-9À-ÿ]+", " ", text, flags=re.I)
+    text = re.sub(r"\s+", " ", text).strip()
+
+    shoe_terms = [
+        "sapatos",
+        "sapatos masculinos",
+        "sapatos femininos",
+        "tenis",
+        "tênis",
+        "sapato",
+        "sandalia",
+        "sandália",
+        "bota",
+        "chinelo",
+        "sneaker",
+        "sneakers",
+        "clogs",
+        "babuche",
+        "rasteirinha",
+        "sapatilha",
+        "coturno",
+        "mocassim",
+        "calçado",
+        "calcado",
+        "tenis infantil",
+        "tênis infantil",
+        "sandalia infantil",
+        "sandália infantil"
+    ]
+
+    if any(term in text for term in shoe_terms):
+        return "Sapatos"
+
+    return str(category or "Outros").strip() or "Outros"
+
+
+
+def _force_category_final(category: str, title: str = "", description: str = "") -> str:
+    text = f"{category or ''} {title or ''} {description or ''}".strip().lower()
+
+    try:
+        import unicodedata
+        text = unicodedata.normalize("NFD", text)
+        text = "".join(ch for ch in text if unicodedata.category(ch) != "Mn")
+    except Exception:
+        pass
+
+    text = re.sub(r"[^a-z0-9À-ÿ]+", " ", text, flags=re.I)
+    text = re.sub(r"\s+", " ", text).strip()
+
+    shoe_terms = [
+        "sapatos",
+        "sapatos femininos",
+        "sapatos masculinos",
+        "calcados",
+        "calçados",
+        "tenis",
+        "tênis",
+        "sapato",
+        "sandalia",
+        "sandália",
+        "bota",
+        "chinelo",
+        "sneaker",
+        "sneakers",
+        "clogs",
+        "babuche",
+        "rasteirinha",
+        "sapatilha",
+        "coturno",
+        "mocassim",
+        "tenis infantil",
+        "tênis infantil",
+        "sandalia infantil",
+        "sandália infantil"
+    ]
+
+    if any(term in text for term in shoe_terms):
+        return "Sapatos"
+
+    return category or "Outros"
+
+
 def product_to_site_offer(product: Any, offer_copy: Any = None) -> Dict[str, Any]:
     raw_title = _clean_card_text(_get(product, "title", "Oferta encontrada"), 160)
 
@@ -804,6 +898,8 @@ def product_to_site_offer(product: Any, offer_copy: Any = None) -> Dict[str, Any
     )
 
     description = _site_description(product, offer_copy, title)
+
+    category = _force_site_category_overrides(category, title, description)
 
     offer_id = _make_offer_id(product, affiliate_url, raw_title, marketplace)
 
