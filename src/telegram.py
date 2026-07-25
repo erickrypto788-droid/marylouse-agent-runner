@@ -3,9 +3,38 @@ from __future__ import annotations
 import os
 from typing import Any, Dict, Optional
 
+import time
+
 import requests
 
 from .models import Product, OfferCopy
+
+
+
+def _post_with_retry(url: str, payload: dict, attempts: int = 3, timeout: int = 60):
+    last_exc = None
+
+    for attempt in range(1, attempts + 1):
+        try:
+            resp = requests.post(url, json=payload, timeout=timeout)
+            return resp
+        except requests.exceptions.Timeout as exc:
+            last_exc = exc
+            print(f"[telegram] Timeout ao postar. Tentativa {attempt}/{attempts}")
+
+            if attempt < attempts:
+                time.sleep(2 * attempt)
+                continue
+
+        except requests.exceptions.RequestException as exc:
+            last_exc = exc
+            print(f"[telegram] Falha de rede ao postar. Tentativa {attempt}/{attempts}: {exc}")
+
+            if attempt < attempts:
+                time.sleep(2 * attempt)
+                continue
+
+    raise last_exc
 
 
 class TelegramClient:
@@ -37,7 +66,7 @@ class TelegramClient:
             }
             if parse_mode:
                 payload["parse_mode"] = parse_mode
-            resp = requests.post(self._url("sendPhoto"), json=payload, timeout=45)
+            resp = _post_with_retry(self._url("sendPhoto"), payload, attempts=3, timeout=60)
         else:
             payload = {
                 "chat_id": self.chat_id,
@@ -46,7 +75,7 @@ class TelegramClient:
             }
             if parse_mode:
                 payload["parse_mode"] = parse_mode
-            resp = requests.post(self._url("sendMessage"), json=payload, timeout=45)
+            resp = _post_with_retry(self._url("sendMessage"), payload, attempts=3, timeout=60)
 
         resp.raise_for_status()
         data = resp.json()
