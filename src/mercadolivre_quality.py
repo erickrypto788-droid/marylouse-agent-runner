@@ -58,6 +58,17 @@ BUYER_INTENT_GROUPS = {
         "inalador", "nebulizador", "medidor de glicose", "bioimpedância",
         "bioimpedancia"
     ],
+    "esportes_fitness": [
+        "halter", "halteres", "academia", "fitness", "bike spinning",
+        "bicicleta ergometrica", "bicicleta ergométrica", "esteira",
+        "bola futebol", "bola de futebol", "bola volei", "bola vôlei",
+        "yoga", "colchonete", "tapete yoga", "luva academia",
+        "caneleira", "anilha", "barra macica", "barra maciça",
+        "whey", "creatina", "coqueteleira", "elastico treino",
+        "elástico treino", "faixa elastica", "faixa elástica",
+        "tenis corrida", "tênis corrida", "short academia",
+        "camiseta termica", "camiseta térmica"
+    ],
     "ferramentas": [
         "furadeira", "parafusadeira", "chave de fenda", "martelo", "trena",
         "alicate", "serra", "kit ferramentas"
@@ -75,7 +86,8 @@ BRANDS = [
     "consul", "samsung", "xiaomi", "motorola", "apple", "iphone", "lenovo",
     "asus", "acer", "dell", "hp", "lg", "philips", "taiff", "gama", "nivea",
     "eudora", "boticario", "o boticário", "pedigree", "whiskas", "golden",
-    "premier", "stanley", "bosch", "dewalt", "makita"
+    "premier", "stanley", "bosch", "dewalt", "makita",
+    "kikos", "acte", "vollo", "gonew", "olympikus", "penalty", "wilson", "speedo", "mormaii", "adidas", "nike"
 ]
 
 
@@ -305,6 +317,7 @@ def classify_category(title: str) -> str:
         "beleza": "Beleza",
         "pet": "Pet",
         "saude": "Saúde",
+        "esportes_fitness": "Esportes",
         "ferramentas": "Ferramentas",
         "casa_moveis": "Casa e Cozinha",
     }
@@ -356,7 +369,7 @@ def commercial_score(product: Product, cfg: Dict[str, Any]) -> Tuple[bool, float
     elif group in {"tech", "casa_moveis"}:
         if 150 <= price <= 8000:
             score += 15
-    elif group in {"casa_cozinha", "beleza", "pet", "saude", "ferramentas"}:
+    elif group in {"casa_cozinha", "beleza", "pet", "saude", "ferramentas", "esportes_fitness"}:
         if 35 <= price <= 2500:
             score += 15
     else:
@@ -413,13 +426,13 @@ def select_quality_mercadolivre_products(
         duplicated, reason = is_recent_duplicate(product, cfg, state)
 
         if duplicated:
-            print(f"[ml-quality] Reprovado 48h: {product.key} - {reason}")
+            print(f"[ml-quality] Reprovado 48h: {product.key} - {reason} | {str(product.title or '')[:90]}")
             continue
 
         ok, qscore, reason, category, group = commercial_score(product, cfg)
 
         if not ok:
-            print(f"[ml-quality] Reprovado: {product.key} - {reason}")
+            print(f"[ml-quality] Reprovado: {product.key} - {reason} | {str(product.title or '')[:90]}")
             continue
 
         # Ajusta categoria para melhorar site/Telegram.
