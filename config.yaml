@@ -173,6 +173,11 @@ marketplaces:
     posts_per_run: 5
     niche_mode: sequential
     niche_state_file: data/mercadolivre_niche_state.json
+    quality_state_file: data/mercadolivre_quality_state.json
+    quality_cooldown_hours: 48
+    quality_min_score: 55
+    quality_max_per_category: 2
+    quality_max_per_group: 1
     keyword_groups:
       casa_moveis_decoracao:
         enabled: true

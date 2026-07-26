@@ -179,6 +179,7 @@ jobs:
 
           if [ -n "$(git status --porcelain)" ]; then
             git add data/offers.json
+            git add data/mercadolivre_quality_state.json || true
             git commit -m "Atualiza ofertas Mercado Livre"
             git push
           else

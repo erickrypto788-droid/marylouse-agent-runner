@@ -1,11 +1,11 @@
 {
-  "next_index": 3,
+  "next_index": 2,
   "last_keys": [
-    "esportes_fitness"
+    "calcados_roupas_bolsas"
   ],
   "last_names": [
-    "Esportes e Fitness"
+    "CalÃ§ados, Roupas e Bolsas"
   ],
   "note": "Forçado para testar Supermercados no Mercado Livre.",
-  "updated_at": 1785088825
+  "updated_at": 1785088455
 }

@@ -17,6 +17,7 @@ from .scoring import passes_filters, score_product
 from .storage import Storage
 from .telegram import TelegramClient
 from .site_publisher import publish_offer_to_site
+from .mercadolivre_quality import select_quality_mercadolivre_products, mark_mercadolivre_posted
 
 
 def _resolve_db_path(cfg: Dict[str, Any]) -> str:
@@ -367,6 +368,46 @@ def select_products_to_post(candidates: List[Product], cfg: Dict[str, Any]) -> L
 
         picked = 0
 
+        # Seleção especial do Mercado Livre:
+        # - cooldown obrigatório de 48h
+        # - score comercial
+        # - diversidade
+        # - menos produtos genéricos/repetidos
+        if marketplace_name == "mercadolivre":
+            ml_pool: List[Product] = []
+
+            for product in candidates:
+                if product.marketplace != marketplace_name:
+                    continue
+
+                title_key = f"{product.marketplace}|{_normalize_title_for_duplicate(product.title)}"
+
+                if product.key in selected_keys:
+                    continue
+
+                if title_key in selected_title_keys:
+                    continue
+
+                ml_pool.append(product)
+
+            ml_selected = select_quality_mercadolivre_products(ml_pool, cfg, limit)
+
+            for product in ml_selected:
+                title_key = f"{product.marketplace}|{_normalize_title_for_duplicate(product.title)}"
+
+                selected.append(product)
+                selected_keys.add(product.key)
+                selected_title_keys.add(title_key)
+                selected_titles_by_marketplace.setdefault(product.marketplace, []).append(product.title)
+
+            picked = len(ml_selected)
+
+            if picked == 0:
+                print(f"[seleção] Nenhum candidato aprovado para marketplace ativo: {marketplace_name}")
+
+            continue
+
+        # Seleção genérica para demais marketplaces.
         for product in candidates:
             if product.marketplace != marketplace_name:
                 continue
@@ -453,6 +494,9 @@ def run_once(cfg: Dict[str, Any]) -> Dict[str, Any]:
                     time.sleep(min_seconds_between_posts)
 
             storage.mark_posted(product, offer_copy, telegram_message_id=message_id, dry_run=dry_run)
+
+            if not dry_run and product.marketplace == "mercadolivre":
+                mark_mercadolivre_posted(product, cfg)
             posted.append({"product": product.to_dict(), "copy": offer_copy.to_dict(), "message_id": message_id})
 
         return {"dry_run": dry_run, "active_niche": cfg.get("active_niche"), "total_products": len(products), "candidates": len(candidates), "posted": posted}
