@@ -1,11 +1,11 @@
 {
-  "next_index": 11,
+  "next_index": 12,
   "last_keys": [
-    "saude"
+    "pet_shop"
   ],
   "last_names": [
-    "SaÃºde"
+    "Pet Shop"
   ],
   "note": "Forçado para testar Supermercados no Mercado Livre.",
-  "updated_at": 1785114028
+  "updated_at": 1785117624
 }
