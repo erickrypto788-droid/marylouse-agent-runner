@@ -44,6 +44,16 @@ BUYER_INTENT_GROUPS = {
         "motorola", "notebook", "ssd", "monitor", "impressora", "roteador",
         "tablet", "memória ram", "memoria ram", "processador", "ryzen"
     ],
+    "moda_feminina": [
+        "vestido feminino", "blusa feminina", "camisa feminina",
+        "camiseta feminina", "calca feminina", "calça feminina",
+        "legging feminina", "calca legging", "calça legging",
+        "short feminino", "shorts feminino", "shorts femininos",
+        "top feminino", "cropped feminino", "conjunto feminino",
+        "regata feminina", "moda feminina", "roupas femininas",
+        "body feminino", "saia feminina", "lupo feminina",
+        "fitness feminino", "dry fit feminino", "mulher"
+    ],
     "beleza": [
         "perfume", "barbeador", "aparador", "secador", "chapinha", "escova secadora",
         "protetor solar", "shampoo", "condicionador", "hidratante"
@@ -314,6 +324,7 @@ def classify_category(title: str) -> str:
         "supermercado_recorrente": "Supermercados",
         "casa_cozinha": "Casa e Cozinha",
         "tech": "Informática",
+        "moda_feminina": "Moda Feminina",
         "beleza": "Beleza",
         "pet": "Pet",
         "saude": "Saúde",
@@ -369,7 +380,7 @@ def commercial_score(product: Product, cfg: Dict[str, Any]) -> Tuple[bool, float
     elif group in {"tech", "casa_moveis"}:
         if 150 <= price <= 8000:
             score += 15
-    elif group in {"casa_cozinha", "beleza", "pet", "saude", "ferramentas", "esportes_fitness"}:
+    elif group in {"casa_cozinha", "beleza", "pet", "saude", "ferramentas", "esportes_fitness", "moda_feminina"}:
         if 35 <= price <= 2500:
             score += 15
     else:

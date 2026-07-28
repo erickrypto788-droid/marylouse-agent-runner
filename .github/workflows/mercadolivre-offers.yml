@@ -132,7 +132,27 @@ jobs:
           )
 
           print(f"[workflow-mercadolivre] post_count={post_count}")
-          print("[workflow-mercadolivre] Mercado Livre independente configurado.")
+          
+force_group = os.getenv("FORCE_ML_GROUP", "").strip()
+
+if force_group:
+    groups = ml.get("keyword_groups") or {}
+
+    if force_group not in groups:
+        raise SystemExit(f"FORCE_ML_GROUP não encontrado em keyword_groups: {force_group}")
+
+    forced = groups.get(force_group) or {}
+
+    for key, group in groups.items():
+        if isinstance(group, dict):
+            group["enabled"] = (key == force_group)
+
+    ml["niche_groups_per_run"] = 1
+    ml["niche_mode"] = "sequential"
+
+    print(f"[workflow-mercadolivre] Grupo ML forçado: {forced.get('name') or force_group} ({force_group})")
+
+print("[workflow-mercadolivre] Mercado Livre independente configurado.")
           PY
 
       - name: Testar sintaxe Python

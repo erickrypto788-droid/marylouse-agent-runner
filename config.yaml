@@ -507,6 +507,33 @@ marketplaces:
         - cloro
         blocked_domain_ids: []
         allowed_domain_ids: []
+      moda_feminina:
+        enabled: true
+        name: Moda Feminina
+        category_label: Moda Feminina
+        keywords:
+        - vestido feminino
+        - blusa feminina
+        - camisa feminina
+        - camiseta feminina
+        - calça feminina
+        - calca feminina
+        - legging feminina
+        - calça legging feminina
+        - calca legging feminina
+        - short feminino
+        - shorts feminino
+        - shorts femininos
+        - top feminino
+        - cropped feminino
+        - conjunto feminino
+        - regata feminina
+        - body feminino
+        - saia feminina
+        - roupa academia feminina
+        - moda fitness feminina
+        - dry fit feminino
+        - lupo feminina
     niche_groups_per_run: 1
   amazon:
     enabled: false
