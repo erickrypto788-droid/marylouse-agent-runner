@@ -1,6 +1,51 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB4057360873",
+      "product_id": "MLB4057360873",
+      "catalog_product_id": "MLB35049339",
+      "item_id": "MLB4057360873",
+      "url": "https://www.mercadolivre.com.br/p/MLB35049339?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB35049339?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "chapinha cabelo prancha profissional cor azul",
+      "title": "Chapinha Cabelo Prancha Profissional Cor Azul",
+      "category": "Beleza",
+      "price": 249.99,
+      "score": 71.0,
+      "posted_ts": 1785279900,
+      "posted_at": "2026-07-28T23:05:00.883927+00:00"
+    },
+    {
+      "key": "mercadolivre:MLB4959331387",
+      "product_id": "MLB4959331387",
+      "catalog_product_id": "MLB66302381",
+      "item_id": "MLB4959331387",
+      "url": "https://www.mercadolivre.com.br/p/MLB66302381?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB66302381?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "perfume masculino corinthians perfume do timao",
+      "title": "Perfume Masculino Corinthians Perfume Do Timão",
+      "category": "Beleza",
+      "price": 199.9,
+      "score": 97.67,
+      "posted_ts": 1785279836,
+      "posted_at": "2026-07-28T23:03:56.939951+00:00"
+    },
+    {
+      "key": "mercadolivre:MLB5982825286",
+      "product_id": "MLB5982825286",
+      "catalog_product_id": "MLB37914167",
+      "item_id": "MLB5982825286",
+      "url": "https://www.mercadolivre.com.br/p/MLB37914167?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB37914167?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "escova secadora profissional",
+      "title": "Escova Secadora Profissional",
+      "category": "Beleza",
+      "price": 43.99,
+      "score": 107.79,
+      "posted_ts": 1785279765,
+      "posted_at": "2026-07-28T23:02:45.876702+00:00"
+    },
+    {
       "key": "mercadolivre:MLB6827581422",
       "product_id": "MLB6827581422",
       "catalog_product_id": "MLB70114350",
@@ -301,5 +346,5 @@
       "posted_at": "2026-07-28T19:12:36.057390+00:00"
     }
   ],
-  "updated_at": "2026-07-28T22:05:11.211650+00:00"
+  "updated_at": "2026-07-28T23:05:00.883937+00:00"
 }
