@@ -1,6 +1,81 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB3957584779",
+      "product_id": "MLB3957584779",
+      "catalog_product_id": "MLB45621460",
+      "item_id": "MLB3957584779",
+      "url": "https://www.mercadolivre.com.br/p/MLB45621460?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB45621460?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "tecido suplex liso amarelo de 5 metros para moda fitness",
+      "title": "Tecido Suplex Liso Amarelo de 5 Metros para Moda Fitness",
+      "category": "Esportes",
+      "price": 157.79,
+      "score": 71.0,
+      "posted_ts": 1785267897,
+      "posted_at": "2026-07-28T19:44:57.060521+00:00"
+    },
+    {
+      "key": "mercadolivre:MLB7059189312",
+      "product_id": "MLB7059189312",
+      "catalog_product_id": "MLB38422370",
+      "item_id": "MLB7059189312",
+      "url": "https://www.mercadolivre.com.br/p/MLB38422370?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB38422370?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "boneca sophia deluxe com roupa academia unicornio 24cm sunny",
+      "title": "Boneca Sophia Deluxe com Roupa Academia Unicórnio 24cm Sunny",
+      "category": "Esportes",
+      "price": 159.99,
+      "score": 71.0,
+      "posted_ts": 1785267832,
+      "posted_at": "2026-07-28T19:43:52.413882+00:00"
+    },
+    {
+      "key": "mercadolivre:MLB4870845647",
+      "product_id": "MLB4870845647",
+      "catalog_product_id": "MLB75084494",
+      "item_id": "MLB4870845647",
+      "url": "https://www.mercadolivre.com.br/p/MLB75084494?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB75084494?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "conjunto infantil blusao inverno moletom calca legging 91802 rosa 2",
+      "title": "Conjunto Infantil Blusão Inverno Moletom Calça Legging 91802 Rosa 2",
+      "category": "Moda Feminina",
+      "price": 171.2,
+      "score": 87.53,
+      "posted_ts": 1785267768,
+      "posted_at": "2026-07-28T19:42:48.231683+00:00"
+    },
+    {
+      "key": "mercadolivre:MLB4812793017",
+      "product_id": "MLB4812793017",
+      "catalog_product_id": "MLB74520688",
+      "item_id": "MLB4812793017",
+      "url": "https://www.mercadolivre.com.br/p/MLB74520688?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB74520688?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "conjunto feminino shorts saia e blusa elegante festa balada cor conjunto feminino shorts saia preto",
+      "title": "Conjunto Feminino Shorts Saia E Blusa Elegante Festa Balada Cor Conjunto Feminino Shorts Saia Preto",
+      "category": "Moda Feminina",
+      "price": 191.92,
+      "score": 97.67,
+      "posted_ts": 1785267703,
+      "posted_at": "2026-07-28T19:41:43.260029+00:00"
+    },
+    {
+      "key": "mercadolivre:MLB7079122650",
+      "product_id": "MLB7079122650",
+      "catalog_product_id": "MLB74851412",
+      "item_id": "MLB7079122650",
+      "url": "https://www.mercadolivre.com.br/p/MLB74851412?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB74851412?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "conjunto feminino alfaiataria bermuda blusa elegante peplum conjunto feminino shorts e blusa peplum",
+      "title": "Conjunto Feminino Alfaiataria Bermuda Blusa Elegante Peplum Conjunto Feminino Shorts E Blusa Peplum",
+      "category": "Moda Feminina",
+      "price": 153.58,
+      "score": 100.55,
+      "posted_ts": 1785267638,
+      "posted_at": "2026-07-28T19:40:38.975512+00:00"
+    },
+    {
       "key": "mercadolivre:MLB6952730542",
       "product_id": "MLB6952730542",
       "catalog_product_id": "MLB73193896",
@@ -91,5 +166,5 @@
       "posted_at": "2026-07-28T19:12:36.057390+00:00"
     }
   ],
-  "updated_at": "2026-07-28T19:36:01.620555+00:00"
+  "updated_at": "2026-07-28T19:44:57.060532+00:00"
 }
