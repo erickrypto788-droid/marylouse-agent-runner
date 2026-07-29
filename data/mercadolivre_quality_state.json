@@ -1,6 +1,36 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB6194259162",
+      "product_id": "MLB6194259162",
+      "catalog_product_id": "MLB26008929",
+      "item_id": "MLB6194259162",
+      "url": "https://www.mercadolivre.com.br/p/MLB26008929?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB26008929?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "cadeira gamer profissional ergonomica giratoria vermelha para escritorio",
+      "title": "Cadeira Gamer Profissional Ergonômica Giratória Vermelha para Escritório",
+      "category": "Casa e Cozinha",
+      "price": 900.0,
+      "score": 71.0,
+      "posted_ts": 1785319419,
+      "posted_at": "2026-07-29T10:03:39.741482+00:00"
+    },
+    {
+      "key": "mercadolivre:MLB7085245436",
+      "product_id": "MLB7085245436",
+      "catalog_product_id": "MLB67579677",
+      "item_id": "MLB7085245436",
+      "url": "https://www.mercadolivre.com.br/p/MLB67579677?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB67579677?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "pilhas aa philips 2500mah recarregaveis controle xbox",
+      "title": "Pilhas Aa Philips 2500mah Recarregáveis Controle Xbox",
+      "category": "Cell Batteries",
+      "price": 95.93,
+      "score": 104.13,
+      "posted_ts": 1785319355,
+      "posted_at": "2026-07-29T10:02:35.845506+00:00"
+    },
+    {
       "key": "mercadolivre:MLB6978080348",
       "product_id": "MLB6978080348",
       "catalog_product_id": "MLB46173110",
@@ -826,5 +856,5 @@
       "posted_at": "2026-07-28T19:12:36.057390+00:00"
     }
   ],
-  "updated_at": "2026-07-29T09:05:19.201964+00:00"
+  "updated_at": "2026-07-29T10:03:39.741492+00:00"
 }
