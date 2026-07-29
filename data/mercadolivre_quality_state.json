@@ -1,6 +1,51 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB6711565494",
+      "product_id": "MLB6711565494",
+      "catalog_product_id": "MLB37180897",
+      "item_id": "MLB6711565494",
+      "url": "https://www.mercadolivre.com.br/p/MLB37180897?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB37180897?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "kit furadeira e parafusadeira com parafusadeira dewalt modelo dck200me2gt 2 baterias 20v",
+      "title": "Kit Furadeira e Parafusadeira com Parafusadeira Dewalt Modelo DCK200ME2GT 2 Baterias 20V",
+      "category": "Ferramentas",
+      "price": 3120.0,
+      "score": 72.0,
+      "posted_ts": 1785287158,
+      "posted_at": "2026-07-29T01:05:58.554533+00:00"
+    },
+    {
+      "key": "mercadolivre:MLB4136027005",
+      "product_id": "MLB4136027005",
+      "catalog_product_id": "MLB19765397",
+      "item_id": "MLB4136027005",
+      "url": "https://www.mercadolivre.com.br/p/MLB19765397?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB19765397?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "combo furadeira parafusadeira df333d parafusadeira de impacto td110d 12v clx224sax",
+      "title": "Combo Furadeira Parafusadeira DF333D + Parafusadeira de Impacto TD110D 12V - CLX224SAX",
+      "category": "Ferramentas",
+      "price": 1189.0,
+      "score": 81.07,
+      "posted_ts": 1785287094,
+      "posted_at": "2026-07-29T01:04:54.438716+00:00"
+    },
+    {
+      "key": "mercadolivre:MLB7150184678",
+      "product_id": "MLB7150184678",
+      "catalog_product_id": "MLB21865416",
+      "item_id": "MLB7150184678",
+      "url": "https://www.mercadolivre.com.br/p/MLB21865416?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB21865416?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "combo parafusadeira furadeira de impacto 13mm parafusadeira de impacto 6 3mm dewalt dck276d2",
+      "title": "Combo Parafusadeira Furadeira de Impacto 13mm + Parafusadeira de Impacto 6,3mm DEWALT DCK276D2",
+      "category": "Ferramentas",
+      "price": 1582.0,
+      "score": 87.0,
+      "posted_ts": 1785287030,
+      "posted_at": "2026-07-29T01:03:50.377345+00:00"
+    },
+    {
       "key": "mercadolivre:MLB7158074090",
       "product_id": "MLB7158074090",
       "catalog_product_id": "MLB38338044",
@@ -376,5 +421,5 @@
       "posted_at": "2026-07-28T19:12:36.057390+00:00"
     }
   ],
-  "updated_at": "2026-07-29T00:03:51.051322+00:00"
+  "updated_at": "2026-07-29T01:05:58.554543+00:00"
 }
