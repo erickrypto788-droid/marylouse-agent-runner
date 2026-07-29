@@ -1,6 +1,51 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB4313106591",
+      "product_id": "MLB4313106591",
+      "catalog_product_id": "MLB56425611",
+      "item_id": "MLB4313106591",
+      "url": "https://www.mercadolivre.com.br/p/MLB56425611?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB56425611?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "smartphone xiaomi poco c85 6gb ram 128gb preto",
+      "title": "Smartphone xiaomi Poco C85 6gb ram + 128gb, Preto",
+      "category": "Informática",
+      "price": 716.5,
+      "score": 87.0,
+      "posted_ts": 1785297921,
+      "posted_at": "2026-07-29T04:05:21.291721+00:00"
+    },
+    {
+      "key": "mercadolivre:MLB5765586272",
+      "product_id": "MLB5765586272",
+      "catalog_product_id": "MLB47326105",
+      "item_id": "MLB5765586272",
+      "url": "https://www.mercadolivre.com.br/p/MLB47326105?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB47326105?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "smartphone xiaomi redmi 9c 32gb azul",
+      "title": "Smartphone Xiaomi Redmi 9c 32gb Azul",
+      "category": "Informática",
+      "price": 999.99,
+      "score": 87.0,
+      "posted_ts": 1785297853,
+      "posted_at": "2026-07-29T04:04:13.930178+00:00"
+    },
+    {
+      "key": "mercadolivre:MLB7238539878",
+      "product_id": "MLB7238539878",
+      "catalog_product_id": "MLB39444837",
+      "item_id": "MLB7238539878",
+      "url": "https://www.mercadolivre.com.br/p/MLB39444837?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB39444837?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "smartphone samsung galaxy s23 ultra 512gb creme",
+      "title": "Smartphone Samsung Galaxy S23 Ultra 512gb Creme",
+      "category": "Informática",
+      "price": 5999.0,
+      "score": 87.0,
+      "posted_ts": 1785297781,
+      "posted_at": "2026-07-29T04:03:01.696371+00:00"
+    },
+    {
       "key": "mercadolivre:MLB7150469040",
       "product_id": "MLB7150469040",
       "catalog_product_id": "MLB59821316",
@@ -541,5 +586,5 @@
       "posted_at": "2026-07-28T19:12:36.057390+00:00"
     }
   ],
-  "updated_at": "2026-07-29T03:07:02.636842+00:00"
+  "updated_at": "2026-07-29T04:05:21.291731+00:00"
 }
