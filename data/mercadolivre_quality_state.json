@@ -1,6 +1,51 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB6218013518",
+      "product_id": "MLB6218013518",
+      "catalog_product_id": "MLB39387638",
+      "item_id": "MLB6218013518",
+      "url": "https://www.mercadolivre.com.br/p/MLB39387638?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB39387638?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "jogo panelas tramontina coimbra 5pcs preto antiaderente",
+      "title": "Jogo Panelas Tramontina Coimbra 5pçs Preto Antiaderente",
+      "category": "Casa e Cozinha",
+      "price": 213.89,
+      "score": 87.0,
+      "posted_ts": 1785330390,
+      "posted_at": "2026-07-29T13:06:30.848090+00:00"
+    },
+    {
+      "key": "mercadolivre:MLB4265750877",
+      "product_id": "MLB4265750877",
+      "catalog_product_id": "MLB32583536",
+      "item_id": "MLB4265750877",
+      "url": "https://www.mercadolivre.com.br/p/MLB32583536?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB32583536?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "jogo panelas vermelho aluminio fundido usinado javaliam16a24",
+      "title": "Jogo Panelas Vermelho Alumínio Fundido Usinado Javaliam16a24",
+      "category": "Casa e Cozinha",
+      "price": 668.98,
+      "score": 92.5,
+      "posted_ts": 1785330326,
+      "posted_at": "2026-07-29T13:05:26.631240+00:00"
+    },
+    {
+      "key": "mercadolivre:MLB4095236823",
+      "product_id": "MLB4095236823",
+      "catalog_product_id": "MLB32947723",
+      "item_id": "MLB4095236823",
+      "url": "https://www.mercadolivre.com.br/p/MLB32947723?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB32947723?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "conjunto panelas antiaderente tramontina 5pecas vermelho",
+      "title": "Conjunto Panelas Antiaderente Tramontina 5peças Vermelho",
+      "category": "Casa e Cozinha",
+      "price": 301.79,
+      "score": 93.24,
+      "posted_ts": 1785330262,
+      "posted_at": "2026-07-29T13:04:22.445310+00:00"
+    },
+    {
       "key": "mercadolivre:MLB5413131980",
       "product_id": "MLB5413131980",
       "catalog_product_id": "MLB50816490",
@@ -991,5 +1036,5 @@
       "posted_at": "2026-07-28T19:12:36.057390+00:00"
     }
   ],
-  "updated_at": "2026-07-29T12:07:42.057767+00:00"
+  "updated_at": "2026-07-29T13:06:30.848100+00:00"
 }
