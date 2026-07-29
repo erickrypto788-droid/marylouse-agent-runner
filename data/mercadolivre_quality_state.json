@@ -1,6 +1,81 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB7190286922",
+      "product_id": "MLB7190286922",
+      "catalog_product_id": "MLB75541518",
+      "item_id": "MLB7190286922",
+      "url": "https://www.mercadolivre.com.br/p/MLB75541518?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB75541518?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "luminaria foguete lava bolha todas as cores decoracao retro",
+      "title": "Luminária Foguete Lava Bolha Todas As Cores Decoração Retrô",
+      "category": "Pet",
+      "price": 138.93,
+      "score": 94.82,
+      "posted_ts": 1785323624,
+      "posted_at": "2026-07-29T11:13:44.696818+00:00"
+    },
+    {
+      "key": "mercadolivre:MLB7272112414",
+      "product_id": "MLB7272112414",
+      "catalog_product_id": "MLB43609445",
+      "item_id": "MLB7272112414",
+      "url": "https://www.mercadolivre.com.br/p/MLB43609445?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB43609445?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "papel higienico indaial caicai papel higienico folha dupla 22 5 m de 1 un",
+      "title": "Papel higiênico INDAIAL CAICAI PAPEL HIGIENICO folha dupla 22.5 m de 1 un",
+      "category": "Supermercados",
+      "price": 108.71,
+      "score": 106.93,
+      "posted_ts": 1785323560,
+      "posted_at": "2026-07-29T11:12:40.587310+00:00"
+    },
+    {
+      "key": "mercadolivre:MLB4797281563",
+      "product_id": "MLB4797281563",
+      "catalog_product_id": "MLB20648720",
+      "item_id": "MLB4797281563",
+      "url": "https://www.mercadolivre.com.br/p/MLB20648720?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB20648720?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "sabonete barra madressenza karite 180 g",
+      "title": "Sabonete Barra Madressenza Karité 180 G",
+      "category": "Supermercados",
+      "price": 27.9,
+      "score": 108.56,
+      "posted_ts": 1785323496,
+      "posted_at": "2026-07-29T11:11:36.403100+00:00"
+    },
+    {
+      "key": "mercadolivre:MLB7265300410",
+      "product_id": "MLB7265300410",
+      "catalog_product_id": "MLB18715385",
+      "item_id": "MLB7265300410",
+      "url": "https://www.mercadolivre.com.br/p/MLB18715385?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB18715385?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "fralda pampers pants ajuste total xxg 60 unidades",
+      "title": "Fralda Pampers Pants Ajuste Total XXG 60 Unidades",
+      "category": "Mãe e Bebê",
+      "price": 119.99,
+      "score": 114.67,
+      "posted_ts": 1785323432,
+      "posted_at": "2026-07-29T11:10:32.086643+00:00"
+    },
+    {
+      "key": "mercadolivre:MLB4054890651",
+      "product_id": "MLB4054890651",
+      "catalog_product_id": "MLB19763877",
+      "item_id": "MLB4054890651",
+      "url": "https://www.mercadolivre.com.br/p/MLB19763877?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB19763877?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "arroz arborio scotti 1kg",
+      "title": "Arroz Arbório Scotti - 1kg",
+      "category": "Supermercados",
+      "price": 27.66,
+      "score": 120.11,
+      "posted_ts": 1785323367,
+      "posted_at": "2026-07-29T11:09:27.889988+00:00"
+    },
+    {
       "key": "mercadolivre:MLB6194259162",
       "product_id": "MLB6194259162",
       "catalog_product_id": "MLB26008929",
@@ -856,5 +931,5 @@
       "posted_at": "2026-07-28T19:12:36.057390+00:00"
     }
   ],
-  "updated_at": "2026-07-29T10:03:39.741492+00:00"
+  "updated_at": "2026-07-29T11:13:44.696830+00:00"
 }
