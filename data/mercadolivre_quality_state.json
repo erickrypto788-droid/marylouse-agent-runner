@@ -1,6 +1,51 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB4533929875",
+      "product_id": "MLB4533929875",
+      "catalog_product_id": "MLB65973005",
+      "item_id": "MLB4533929875",
+      "url": "https://www.mercadolivre.com.br/p/MLB65973005?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB65973005?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "celular samsung galaxy a06 5g preto",
+      "title": "Celular Samsung Galaxy A06 5g Preto",
+      "category": "Informática",
+      "price": 850.0,
+      "score": 87.0,
+      "posted_ts": 1785359101,
+      "posted_at": "2026-07-29T21:05:01.696440+00:00"
+    },
+    {
+      "key": "mercadolivre:MLB4964702477",
+      "product_id": "MLB4964702477",
+      "catalog_product_id": "MLB59103184",
+      "item_id": "MLB4964702477",
+      "url": "https://www.mercadolivre.com.br/p/MLB59103184?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB59103184?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "smartphone xiaomi 15t 5g 12 12gb ram 512gb dourado",
+      "title": "Smartphone Xiaomi 15t 5g 12+12gb Ram + 512gb, Dourado",
+      "category": "Informática",
+      "price": 5399.0,
+      "score": 87.0,
+      "posted_ts": 1785359037,
+      "posted_at": "2026-07-29T21:03:57.704292+00:00"
+    },
+    {
+      "key": "mercadolivre:MLB4867137953",
+      "product_id": "MLB4867137953",
+      "catalog_product_id": "MLB75208845",
+      "item_id": "MLB4867137953",
+      "url": "https://www.mercadolivre.com.br/p/MLB75208845?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB75208845?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "celular 5g smartphone 16gb 512gb rom dimensity 7200 impressao digital android 15",
+      "title": "Celular 5g Smartphone 16gb/512gb Rom Dimensity 7200 Impressão Digital Android 15",
+      "category": "Informática",
+      "price": 1680.0,
+      "score": 136.93,
+      "posted_ts": 1785358973,
+      "posted_at": "2026-07-29T21:02:53.762426+00:00"
+    },
+    {
       "key": "mercadolivre:MLB4036053887",
       "product_id": "MLB4036053887",
       "catalog_product_id": "MLB24522367",
@@ -1186,5 +1231,5 @@
       "posted_at": "2026-07-28T19:12:36.057390+00:00"
     }
   ],
-  "updated_at": "2026-07-29T19:05:10.651521+00:00"
+  "updated_at": "2026-07-29T21:05:01.696453+00:00"
 }
