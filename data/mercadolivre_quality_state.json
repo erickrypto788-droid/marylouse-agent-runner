@@ -1,6 +1,66 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB7025030702",
+      "product_id": "MLB7025030702",
+      "catalog_product_id": "MLB21775692",
+      "item_id": "MLB7025030702",
+      "url": "https://www.mercadolivre.com.br/p/MLB21775692?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB21775692?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "oximetro oximetro de pulso oxigenio coracao pediatrico para adultos",
+      "title": "Oxímetro, oxímetro de pulso, oxigênio, coração pediátrico para adultos",
+      "category": "Pet",
+      "price": 49.9,
+      "score": 71.0,
+      "posted_ts": 1785305166,
+      "posted_at": "2026-07-29T06:06:06.857428+00:00"
+    },
+    {
+      "key": "mercadolivre:MLB3523329267",
+      "product_id": "MLB3523329267",
+      "catalog_product_id": "MLB22958206",
+      "item_id": "MLB3523329267",
+      "url": "https://www.mercadolivre.com.br/p/MLB22958206?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB22958206?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "aparelho monitor pressao arterial portatil pulso omron",
+      "title": "Aparelho Monitor Pressão Arterial Portátil Pulso Omron",
+      "category": "Informática",
+      "price": 189.88,
+      "score": 71.0,
+      "posted_ts": 1785305102,
+      "posted_at": "2026-07-29T06:05:02.667168+00:00"
+    },
+    {
+      "key": "mercadolivre:MLB3222635196",
+      "product_id": "MLB3222635196",
+      "catalog_product_id": "MLB21719639",
+      "item_id": "MLB3222635196",
+      "url": "https://www.mercadolivre.com.br/p/MLB21719639?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB21719639?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "bracadeira para aparelho monitor pressao digital infantil omron",
+      "title": "Braçadeira para Aparelho Monitor Pressão Digital Infantil Omron",
+      "category": "Informática",
+      "price": 124.08,
+      "score": 85.15,
+      "posted_ts": 1785305032,
+      "posted_at": "2026-07-29T06:03:52.594318+00:00"
+    },
+    {
+      "key": "mercadolivre:MLB6632370280",
+      "product_id": "MLB6632370280",
+      "catalog_product_id": "MLB62574644",
+      "item_id": "MLB6632370280",
+      "url": "https://www.mercadolivre.com.br/p/MLB62574644?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB62574644?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "monitor de pressao arterial de braco monitor pressao arterial hc10013 muinaifte cor blanco",
+      "title": "Monitor De Pressão Arterial De Braço Monitor pressao arterial HC10013 MUINAIFTE Cor Blanco",
+      "category": "Informática",
+      "price": 97.49,
+      "score": 98.17,
+      "posted_ts": 1785304963,
+      "posted_at": "2026-07-29T06:02:43.146061+00:00"
+    },
+    {
       "key": "mercadolivre:MLB4313106591",
       "product_id": "MLB4313106591",
       "catalog_product_id": "MLB56425611",
@@ -586,5 +646,5 @@
       "posted_at": "2026-07-28T19:12:36.057390+00:00"
     }
   ],
-  "updated_at": "2026-07-29T04:05:21.291731+00:00"
+  "updated_at": "2026-07-29T06:06:06.857442+00:00"
 }
