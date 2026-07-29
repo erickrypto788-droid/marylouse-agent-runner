@@ -1,6 +1,51 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB4788495479",
+      "product_id": "MLB4788495479",
+      "catalog_product_id": "MLB68576890",
+      "item_id": "MLB4788495479",
+      "url": "https://www.mercadolivre.com.br/p/MLB68576890?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB68576890?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "kit parafusadeira furadeira parafusadeira impacto 20v ancora tools acompanha bateria",
+      "title": "Kit Parafusadeira Furadeira + Parafusadeira Impacto 20v Ancora Tools Acompanha Bateria",
+      "category": "Ferramentas",
+      "price": 2387.92,
+      "score": 71.0,
+      "posted_ts": 1785348307,
+      "posted_at": "2026-07-29T18:05:07.844104+00:00"
+    },
+    {
+      "key": "mercadolivre:MLB4139317597",
+      "product_id": "MLB4139317597",
+      "catalog_product_id": "MLB23649057",
+      "item_id": "MLB4139317597",
+      "url": "https://www.mercadolivre.com.br/p/MLB23649057?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB23649057?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "furadeira parafusadeira imp c parafusadeira imp dlx2336syx",
+      "title": "Furadeira Parafusadeira Imp C/ Parafusadeira Imp Dlx2336syx",
+      "category": "Ferramentas",
+      "price": 1659.5,
+      "score": 71.0,
+      "posted_ts": 1785348243,
+      "posted_at": "2026-07-29T18:04:03.837742+00:00"
+    },
+    {
+      "key": "mercadolivre:MLB6043959478",
+      "product_id": "MLB6043959478",
+      "catalog_product_id": "MLB63064118",
+      "item_id": "MLB6043959478",
+      "url": "https://www.mercadolivre.com.br/p/MLB63064118?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB63064118?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "furadeira profissional 350w furadeira eletrica furadeira velocidade variavel furadeira para uso domestico obras construcao marcenaria diy faca voce mesmo furadeira 110v cor laranja",
+      "title": "Furadeira Profissional 350w Furadeira Elétrica Furadeira Velocidade Variável Furadeira Para Uso Doméstico / Obras/construção / Marcenaria / Diy (faça Você Mesmo) Furadeira 110v Cor Laranja",
+      "category": "Ferramentas",
+      "price": 96.99,
+      "score": 115.18,
+      "posted_ts": 1785348179,
+      "posted_at": "2026-07-29T18:02:59.336096+00:00"
+    },
+    {
       "key": "mercadolivre:MLB4828628335",
       "product_id": "MLB4828628335",
       "catalog_product_id": "MLB44823770",
@@ -1096,5 +1141,5 @@
       "posted_at": "2026-07-28T19:12:36.057390+00:00"
     }
   ],
-  "updated_at": "2026-07-29T16:02:49.842329+00:00"
+  "updated_at": "2026-07-29T18:05:07.844119+00:00"
 }
