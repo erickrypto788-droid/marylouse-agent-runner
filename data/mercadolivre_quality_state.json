@@ -1,6 +1,81 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB4864941673",
+      "product_id": "MLB4864941673",
+      "catalog_product_id": "MLB51893724",
+      "item_id": "MLB4864941673",
+      "url": "https://www.mercadolivre.com.br/p/MLB51893724?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB51893724?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "baba eletronica hellobaby hb66pro monitor bebe 3 2 white",
+      "title": "Babá Eletrônica Hellobaby Hb66pro Monitor Bebê 3.2 White",
+      "category": "Informática",
+      "price": 386.56,
+      "score": 71.0,
+      "posted_ts": 1785312452,
+      "posted_at": "2026-07-29T08:07:32.043776+00:00"
+    },
+    {
+      "key": "mercadolivre:MLB4928876001",
+      "product_id": "MLB4928876001",
+      "catalog_product_id": "MLB75630743",
+      "item_id": "MLB4928876001",
+      "url": "https://www.mercadolivre.com.br/p/MLB75630743?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB75630743?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "fralda geriatrica prevent care tamanho fralda geriatrica prevent care g c 50",
+      "title": "Fralda Geriatrica Prevent Care Tamanho FRALDA GERIATRICA PREVENT CARE G C/50",
+      "category": "Mãe e Bebê",
+      "price": 114.61,
+      "score": 72.0,
+      "posted_ts": 1785312382,
+      "posted_at": "2026-07-29T08:06:22.157719+00:00"
+    },
+    {
+      "key": "mercadolivre:MLB4778272375",
+      "product_id": "MLB4778272375",
+      "catalog_product_id": "MLB73518090",
+      "item_id": "MLB4778272375",
+      "url": "https://www.mercadolivre.com.br/p/MLB73518090?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB73518090?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "livro tchauzinho fralda",
+      "title": "Livro Tchauzinho, Fralda",
+      "category": "Mãe e Bebê",
+      "price": 196.88,
+      "score": 72.0,
+      "posted_ts": 1785312312,
+      "posted_at": "2026-07-29T08:05:12.000243+00:00"
+    },
+    {
+      "key": "mercadolivre:MLB5950245082",
+      "product_id": "MLB5950245082",
+      "catalog_product_id": "MLB53327330",
+      "item_id": "MLB5950245082",
+      "url": "https://www.mercadolivre.com.br/p/MLB53327330?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB53327330?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "colchao para chiqueirinho berco portatil cercadinho 70x100cm amarelo",
+      "title": "Colchão Para Chiqueirinho Berço Portátil Cercadinho 70x100cm Amarelo",
+      "category": "Casa e Cozinha",
+      "price": 205.96,
+      "score": 84.33,
+      "posted_ts": 1785312244,
+      "posted_at": "2026-07-29T08:04:04.059961+00:00"
+    },
+    {
+      "key": "mercadolivre:MLB6589686808",
+      "product_id": "MLB6589686808",
+      "catalog_product_id": "MLB40540370",
+      "item_id": "MLB6589686808",
+      "url": "https://www.mercadolivre.com.br/p/MLB40540370?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB40540370?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "tchauzinho fralda melhoramentos",
+      "title": "Tchauzinho, Fralda! - Melhoramentos",
+      "category": "Mãe e Bebê",
+      "price": 49.5,
+      "score": 85.33,
+      "posted_ts": 1785312176,
+      "posted_at": "2026-07-29T08:02:56.833998+00:00"
+    },
+    {
       "key": "mercadolivre:MLB4902213825",
       "product_id": "MLB4902213825",
       "catalog_product_id": "MLB27521666",
@@ -706,5 +781,5 @@
       "posted_at": "2026-07-28T19:12:36.057390+00:00"
     }
   ],
-  "updated_at": "2026-07-29T07:06:20.012985+00:00"
+  "updated_at": "2026-07-29T08:07:32.043787+00:00"
 }
