@@ -1,6 +1,21 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB4828628335",
+      "product_id": "MLB4828628335",
+      "catalog_product_id": "MLB44823770",
+      "item_id": "MLB4828628335",
+      "url": "https://www.mercadolivre.com.br/p/MLB44823770?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB44823770?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "perfume masculino amodil fonte verde perfume masculino 100ml",
+      "title": "Perfume masculino Amodil Fonte Verde Perfume masculino 100ml",
+      "category": "Beleza",
+      "price": 400.0,
+      "score": 71.0,
+      "posted_ts": 1785340969,
+      "posted_at": "2026-07-29T16:02:49.842313+00:00"
+    },
+    {
       "key": "mercadolivre:MLB7006676394",
       "product_id": "MLB7006676394",
       "catalog_product_id": "MLB74237588",
@@ -1081,5 +1096,5 @@
       "posted_at": "2026-07-28T19:12:36.057390+00:00"
     }
   ],
-  "updated_at": "2026-07-29T15:05:12.324301+00:00"
+  "updated_at": "2026-07-29T16:02:49.842329+00:00"
 }
