@@ -1,6 +1,51 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB7006676394",
+      "product_id": "MLB7006676394",
+      "catalog_product_id": "MLB74237588",
+      "item_id": "MLB7006676394",
+      "url": "https://www.mercadolivre.com.br/p/MLB74237588?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB74237588?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "par halteres 6kg par halteres 7kg emborrachado preto",
+      "title": "Par Halteres 6kg + Par Halteres 7kg Emborrachado Preto",
+      "category": "Esportes",
+      "price": 778.8,
+      "score": 93.33,
+      "posted_ts": 1785337512,
+      "posted_at": "2026-07-29T15:05:12.324289+00:00"
+    },
+    {
+      "key": "mercadolivre:MLB5887189910",
+      "product_id": "MLB5887189910",
+      "catalog_product_id": "MLB24737159",
+      "item_id": "MLB5887189910",
+      "url": "https://www.mercadolivre.com.br/p/MLB24737159?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB24737159?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "bola futebol campo vinil vermelho costurada",
+      "title": "Bola Futebol Campo Vinil Vermelho Costurada",
+      "category": "Esportes",
+      "price": 20.99,
+      "score": 102.13,
+      "posted_ts": 1785337447,
+      "posted_at": "2026-07-29T15:04:07.362787+00:00"
+    },
+    {
+      "key": "mercadolivre:MLB5335542998",
+      "product_id": "MLB5335542998",
+      "catalog_product_id": "MLB18603556",
+      "item_id": "MLB5335542998",
+      "url": "https://www.mercadolivre.com.br/p/MLB18603556?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB18603556?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "bike spinning kikos max ks5 preto",
+      "title": "Bike Spinning Kikos Max-ks5 Preto",
+      "category": "Esportes",
+      "price": 2947.83,
+      "score": 104.99,
+      "posted_ts": 1785337383,
+      "posted_at": "2026-07-29T15:03:03.174073+00:00"
+    },
+    {
       "key": "mercadolivre:MLB6218013518",
       "product_id": "MLB6218013518",
       "catalog_product_id": "MLB39387638",
@@ -1036,5 +1081,5 @@
       "posted_at": "2026-07-28T19:12:36.057390+00:00"
     }
   ],
-  "updated_at": "2026-07-29T13:06:30.848100+00:00"
+  "updated_at": "2026-07-29T15:05:12.324301+00:00"
 }
