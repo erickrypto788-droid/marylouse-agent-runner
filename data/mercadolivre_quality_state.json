@@ -1,6 +1,66 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB5413131980",
+      "product_id": "MLB5413131980",
+      "catalog_product_id": "MLB50816490",
+      "item_id": "MLB5413131980",
+      "url": "https://www.mercadolivre.com.br/p/MLB50816490?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB50816490?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "tecido malha suplex poliester liso azul bebe 1x1 65m moda fitness praia",
+      "title": "Tecido Malha Suplex Poliéster Liso Azul Bebê 1x1,65m Moda Fitness Praia",
+      "category": "Esportes",
+      "price": 500.0,
+      "score": 71.0,
+      "posted_ts": 1785326862,
+      "posted_at": "2026-07-29T12:07:42.057756+00:00"
+    },
+    {
+      "key": "mercadolivre:MLB7277437264",
+      "product_id": "MLB7277437264",
+      "catalog_product_id": "MLB75880795",
+      "item_id": "MLB7277437264",
+      "url": "https://www.mercadolivre.com.br/p/MLB75880795?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB75880795?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "10 pcs perola strass broche pinos para camisa feminina botoe",
+      "title": "10 Pçs Pérola Strass Broche Pinos Para Camisa Feminina Botõe",
+      "category": "Moda Feminina",
+      "price": 27.0,
+      "score": 72.62,
+      "posted_ts": 1785326797,
+      "posted_at": "2026-07-29T12:06:37.392991+00:00"
+    },
+    {
+      "key": "mercadolivre:MLB4745115437",
+      "product_id": "MLB4745115437",
+      "catalog_product_id": "MLB72744509",
+      "item_id": "MLB4745115437",
+      "url": "https://www.mercadolivre.com.br/p/MLB72744509?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB72744509?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "colete academia dry fit feminino leve cor preto tamanho p",
+      "title": "Colete Academia Dry Fit Feminino Leve Cor Preto Tamanho P",
+      "category": "Moda Feminina",
+      "price": 37.1,
+      "score": 79.95,
+      "posted_ts": 1785326732,
+      "posted_at": "2026-07-29T12:05:32.602383+00:00"
+    },
+    {
+      "key": "mercadolivre:MLB4832226667",
+      "product_id": "MLB4832226667",
+      "catalog_product_id": "MLB74626445",
+      "item_id": "MLB4832226667",
+      "url": "https://www.mercadolivre.com.br/p/MLB74626445?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB74626445?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "saida praia saia feminina texturizada moda verao tendencias amarelo p",
+      "title": "Saída Praia Saia Feminina Texturizada Moda Verão Tendências Amarelo P",
+      "category": "Moda Feminina",
+      "price": 48.19,
+      "score": 82.2,
+      "posted_ts": 1785326667,
+      "posted_at": "2026-07-29T12:04:27.209528+00:00"
+    },
+    {
       "key": "mercadolivre:MLB7190286922",
       "product_id": "MLB7190286922",
       "catalog_product_id": "MLB75541518",
@@ -931,5 +991,5 @@
       "posted_at": "2026-07-28T19:12:36.057390+00:00"
     }
   ],
-  "updated_at": "2026-07-29T11:13:44.696830+00:00"
+  "updated_at": "2026-07-29T12:07:42.057767+00:00"
 }
