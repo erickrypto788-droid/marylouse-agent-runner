@@ -1,6 +1,51 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB6978080348",
+      "product_id": "MLB6978080348",
+      "catalog_product_id": "MLB46173110",
+      "item_id": "MLB6978080348",
+      "url": "https://www.mercadolivre.com.br/p/MLB46173110?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB46173110?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "impressora etiquetas monocromatica toledo prix it400m usb",
+      "title": "Impressora Etiquetas Monocromática Toledo Prix IT400M USB",
+      "category": "Informática",
+      "price": 1345.0,
+      "score": 71.0,
+      "posted_ts": 1785315919,
+      "posted_at": "2026-07-29T09:05:19.201952+00:00"
+    },
+    {
+      "key": "mercadolivre:MLB5201599262",
+      "product_id": "MLB5201599262",
+      "catalog_product_id": "MLB44215301",
+      "item_id": "MLB5201599262",
+      "url": "https://www.mercadolivre.com.br/p/MLB44215301?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB44215301?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "ribbon resina mastercorp 110x300 para impressora etiquetas bopp vinil",
+      "title": "Ribbon Resina Mastercorp 110x300 Para Impressora Etiquetas BOPP Vinil",
+      "category": "Informática",
+      "price": 606.48,
+      "score": 80.67,
+      "posted_ts": 1785315847,
+      "posted_at": "2026-07-29T09:04:07.982984+00:00"
+    },
+    {
+      "key": "mercadolivre:MLB3954286799",
+      "product_id": "MLB3954286799",
+      "catalog_product_id": "MLB39019401",
+      "item_id": "MLB3954286799",
+      "url": "https://www.mercadolivre.com.br/p/MLB39019401?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB39019401?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "impressora etiquetas logistica codigo de barras usb",
+      "title": "Impressora Etiquetas Logistica Código De Barras Usb",
+      "category": "Informática",
+      "price": 549.99,
+      "score": 97.73,
+      "posted_ts": 1785315777,
+      "posted_at": "2026-07-29T09:02:57.439181+00:00"
+    },
+    {
       "key": "mercadolivre:MLB4864941673",
       "product_id": "MLB4864941673",
       "catalog_product_id": "MLB51893724",
@@ -781,5 +826,5 @@
       "posted_at": "2026-07-28T19:12:36.057390+00:00"
     }
   ],
-  "updated_at": "2026-07-29T08:07:32.043787+00:00"
+  "updated_at": "2026-07-29T09:05:19.201964+00:00"
 }
