@@ -1,6 +1,81 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB7150469040",
+      "product_id": "MLB7150469040",
+      "catalog_product_id": "MLB59821316",
+      "item_id": "MLB7150469040",
+      "url": "https://www.mercadolivre.com.br/p/MLB59821316?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB59821316?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "tv box rbi smart tv box 4k prosb 2000 preto 5 geracao wi fi hdmi",
+      "title": "TV Box RBI Smart TV Box 4K PROSB-2000 Preto 5ª Geração Wi-Fi HDMI",
+      "category": "Pet",
+      "price": 176.9,
+      "score": 71.0,
+      "posted_ts": 1785294422,
+      "posted_at": "2026-07-29T03:07:02.636831+00:00"
+    },
+    {
+      "key": "mercadolivre:MLB4455480129",
+      "product_id": "MLB4455480129",
+      "catalog_product_id": "MLB65128982",
+      "item_id": "MLB4455480129",
+      "url": "https://www.mercadolivre.com.br/p/MLB65128982?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB65128982?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "soundbar samsung hw b400f soundbar hw b400f preto",
+      "title": "Soundbar Samsung Hw-b400f + Soundbar Hw-b400f Preto",
+      "category": "Informática",
+      "price": 1598.95,
+      "score": 72.0,
+      "posted_ts": 1785294358,
+      "posted_at": "2026-07-29T03:05:58.776686+00:00"
+    },
+    {
+      "key": "mercadolivre:MLB6252264240",
+      "product_id": "MLB6252264240",
+      "catalog_product_id": "MLB65564566",
+      "item_id": "MLB6252264240",
+      "url": "https://www.mercadolivre.com.br/p/MLB65564566?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB65564566?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "soundbar samsung hw q990f soundbar hw b400f",
+      "title": "Soundbar Samsung Hw-q990f + Soundbar Hw-b400f",
+      "category": "Informática",
+      "price": 7735.79,
+      "score": 72.0,
+      "posted_ts": 1785294294,
+      "posted_at": "2026-07-29T03:04:54.933711+00:00"
+    },
+    {
+      "key": "mercadolivre:MLB4455473269",
+      "product_id": "MLB4455473269",
+      "catalog_product_id": "MLB65128496",
+      "item_id": "MLB4455473269",
+      "url": "https://www.mercadolivre.com.br/p/MLB65128496?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB65128496?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "soundbar samsung hw b450f soundbar hw b400f",
+      "title": "Soundbar Samsung Hw-b450f + Soundbar Hw-b400f",
+      "category": "Informática",
+      "price": 1904.21,
+      "score": 72.0,
+      "posted_ts": 1785294231,
+      "posted_at": "2026-07-29T03:03:51.013958+00:00"
+    },
+    {
+      "key": "mercadolivre:MLB4929845785",
+      "product_id": "MLB4929845785",
+      "catalog_product_id": "MLB66915787",
+      "item_id": "MLB4929845785",
+      "url": "https://www.mercadolivre.com.br/p/MLB66915787?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB66915787?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "fone bluetooth esportivo 320mah fone sem fio fone academia lilas",
+      "title": "Fone Bluetooth Esportivo 320mah Fone Sem Fio Fone Academia Lilás",
+      "category": "Esportes",
+      "price": 48.0,
+      "score": 102.53,
+      "posted_ts": 1785294167,
+      "posted_at": "2026-07-29T03:02:47.075649+00:00"
+    },
+    {
       "key": "mercadolivre:MLB6665533644",
       "product_id": "MLB6665533644",
       "catalog_product_id": "MLB50957106",
@@ -466,5 +541,5 @@
       "posted_at": "2026-07-28T19:12:36.057390+00:00"
     }
   ],
-  "updated_at": "2026-07-29T02:05:07.757911+00:00"
+  "updated_at": "2026-07-29T03:07:02.636842+00:00"
 }
