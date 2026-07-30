@@ -1,6 +1,51 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB6759649010",
+      "product_id": "MLB6759649010",
+      "catalog_product_id": "MLB27552704",
+      "item_id": "MLB6759649010",
+      "url": "https://www.mercadolivre.com.br/p/MLB27552704?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB27552704?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "bicicleta ergometrica gimp bike spinning 100kg",
+      "title": "Bicicleta ergométrica Gimp Bike Spinning 100Kg",
+      "category": "Esportes",
+      "price": 785.99,
+      "score": 71.0,
+      "posted_ts": 1785398729,
+      "posted_at": "2026-07-30T08:05:29.253831+00:00"
+    },
+    {
+      "key": "mercadolivre:MLB6815537068",
+      "product_id": "MLB6815537068",
+      "catalog_product_id": "MLB36405300",
+      "item_id": "MLB6815537068",
+      "url": "https://www.mercadolivre.com.br/p/MLB36405300?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB36405300?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "bike spinning ergometrica cor preto",
+      "title": "Bike Spinning Ergométrica Cor Preto",
+      "category": "Esportes",
+      "price": 1789.0,
+      "score": 71.0,
+      "posted_ts": 1785398659,
+      "posted_at": "2026-07-30T08:04:19.015273+00:00"
+    },
+    {
+      "key": "mercadolivre:MLB3979242465",
+      "product_id": "MLB3979242465",
+      "catalog_product_id": "MLB42620940",
+      "item_id": "MLB3979242465",
+      "url": "https://www.mercadolivre.com.br/p/MLB42620940?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB42620940?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "prancha esteira ergometrica dream dr2110 cor preto",
+      "title": "Prancha Esteira Ergometrica Dream Dr2110 Cor Preto",
+      "category": "Esportes",
+      "price": 185.24,
+      "score": 71.0,
+      "posted_ts": 1785398590,
+      "posted_at": "2026-07-30T08:03:10.005461+00:00"
+    },
+    {
       "key": "mercadolivre:MLB4749889295",
       "product_id": "MLB4749889295",
       "catalog_product_id": "MLB65826128",
@@ -1471,5 +1516,5 @@
       "posted_at": "2026-07-28T19:12:36.057390+00:00"
     }
   ],
-  "updated_at": "2026-07-30T06:05:56.903658+00:00"
+  "updated_at": "2026-07-30T08:05:29.253841+00:00"
 }
