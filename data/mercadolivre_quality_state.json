@@ -1,6 +1,51 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB5387742880",
+      "product_id": "MLB5387742880",
+      "catalog_product_id": "MLB40063953",
+      "item_id": "MLB5387742880",
+      "url": "https://www.mercadolivre.com.br/p/MLB40063953?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB40063953?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "racao cachorro vittamax gold alimento premium especial 10 1k",
+      "title": "Ração Cachorro Vittamax Gold Alimento Premium Especial 10,1k",
+      "category": "Pet",
+      "price": 141.52,
+      "score": 79.2,
+      "posted_ts": 1785369905,
+      "posted_at": "2026-07-30T00:05:05.218155+00:00"
+    },
+    {
+      "key": "mercadolivre:MLB4948896131",
+      "product_id": "MLB4948896131",
+      "catalog_product_id": "MLB26246485",
+      "item_id": "MLB4948896131",
+      "url": "https://www.mercadolivre.com.br/p/MLB26246485?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB26246485?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "alimento golden adultos light 15kg racao cachorro saudavel",
+      "title": "Alimento Golden Adultos Light 15kg Ração Cachorro Saudável",
+      "category": "Pet",
+      "price": 176.9,
+      "score": 87.0,
+      "posted_ts": 1785369840,
+      "posted_at": "2026-07-30T00:04:00.083638+00:00"
+    },
+    {
+      "key": "mercadolivre:MLB4883930526",
+      "product_id": "MLB4883930526",
+      "catalog_product_id": "MLB36472861",
+      "item_id": "MLB4883930526",
+      "url": "https://www.mercadolivre.com.br/p/MLB36472861?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB36472861?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "racao cachorro filhotes quatree select 15kg premium especial",
+      "title": "Ração Cachorro Filhotes Quatree Select 15kg Premium Especial",
+      "category": "Pet",
+      "price": 169.9,
+      "score": 126.94,
+      "posted_ts": 1785369770,
+      "posted_at": "2026-07-30T00:02:50.878167+00:00"
+    },
+    {
       "key": "mercadolivre:MLB4533929875",
       "product_id": "MLB4533929875",
       "catalog_product_id": "MLB65973005",
@@ -1231,5 +1276,5 @@
       "posted_at": "2026-07-28T19:12:36.057390+00:00"
     }
   ],
-  "updated_at": "2026-07-29T21:05:01.696453+00:00"
+  "updated_at": "2026-07-30T00:05:05.218165+00:00"
 }
