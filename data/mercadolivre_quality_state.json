@@ -1,6 +1,51 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB6943746406",
+      "product_id": "MLB6943746406",
+      "catalog_product_id": "MLB70110890",
+      "item_id": "MLB6943746406",
+      "url": "https://www.mercadolivre.com.br/p/MLB70110890?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB70110890?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "kit ferramentas furadeira esmerilhadeira parafusadeira",
+      "title": "Kit Ferramentas Furadeira Esmerilhadeira Parafusadeira",
+      "category": "Ferramentas",
+      "price": 1449.0,
+      "score": 71.0,
+      "posted_ts": 1785409494,
+      "posted_at": "2026-07-30T11:04:54.969198+00:00"
+    },
+    {
+      "key": "mercadolivre:MLB4754831959",
+      "product_id": "MLB4754831959",
+      "catalog_product_id": "MLB43810473",
+      "item_id": "MLB4754831959",
+      "url": "https://www.mercadolivre.com.br/p/MLB43810473?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB43810473?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "kit ferramentas informatica cor preto",
+      "title": "Kit Ferramentas Informatica Cor Preto",
+      "category": "Ferramentas",
+      "price": 142.0,
+      "score": 71.0,
+      "posted_ts": 1785409431,
+      "posted_at": "2026-07-30T11:03:51.061379+00:00"
+    },
+    {
+      "key": "mercadolivre:MLB6574930760",
+      "product_id": "MLB6574930760",
+      "catalog_product_id": "MLB67606890",
+      "item_id": "MLB6574930760",
+      "url": "https://www.mercadolivre.com.br/p/MLB67606890?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB67606890?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "parafusadeira stanley parafusadeira ganhe bateria 20v",
+      "title": "Parafusadeira STANLEY + Parafusadeira + Ganhe Bateria 20V",
+      "category": "Ferramentas",
+      "price": 1528.0,
+      "score": 87.0,
+      "posted_ts": 1785409367,
+      "posted_at": "2026-07-30T11:02:47.092407+00:00"
+    },
+    {
       "key": "mercadolivre:MLB6759649010",
       "product_id": "MLB6759649010",
       "catalog_product_id": "MLB27552704",
@@ -1516,5 +1561,5 @@
       "posted_at": "2026-07-28T19:12:36.057390+00:00"
     }
   ],
-  "updated_at": "2026-07-30T08:05:29.253841+00:00"
+  "updated_at": "2026-07-30T11:04:54.969209+00:00"
 }
