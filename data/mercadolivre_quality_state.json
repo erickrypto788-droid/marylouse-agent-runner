@@ -1,6 +1,51 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB3452275215",
+      "product_id": "MLB3452275215",
+      "catalog_product_id": "MLB19635472",
+      "item_id": "MLB3452275215",
+      "url": "https://www.mercadolivre.com.br/p/MLB19635472?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB19635472?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "air fryer gaabor air fryer ga e45a0 de 4 l cinza",
+      "title": "Air fryer Gaabor Air Fryer GA-E45A0 de 4 L cinza",
+      "category": "Casa e Cozinha",
+      "price": 249.9,
+      "score": 109.06,
+      "posted_ts": 1785452754,
+      "posted_at": "2026-07-30T23:05:54.194751+00:00"
+    },
+    {
+      "key": "mercadolivre:MLB5428097608",
+      "product_id": "MLB5428097608",
+      "catalog_product_id": "MLB39369998",
+      "item_id": "MLB5428097608",
+      "url": "https://www.mercadolivre.com.br/p/MLB39369998?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB39369998?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "rack para sala de estar rack para tv c prateleira flex cor off white",
+      "title": "Rack Para Sala De Estar Rack Para Tv C/ Prateleira Flex Cor Off-white",
+      "category": "Casa e Cozinha",
+      "price": 385.0,
+      "score": 116.15,
+      "posted_ts": 1785452690,
+      "posted_at": "2026-07-30T23:04:50.296272+00:00"
+    },
+    {
+      "key": "mercadolivre:MLB6738465128",
+      "product_id": "MLB6738465128",
+      "catalog_product_id": "MLB59413555",
+      "item_id": "MLB6738465128",
+      "url": "https://www.mercadolivre.com.br/p/MLB59413555?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB59413555?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "cadeira massagem escritorio cadeira escritorio presidente cor ambar",
+      "title": "Cadeira Massagem Escritorio Cadeira Escritorio Presidente Cor Âmbar",
+      "category": "Casa e Cozinha",
+      "price": 926.93,
+      "score": 129.06,
+      "posted_ts": 1785452626,
+      "posted_at": "2026-07-30T23:03:46.363641+00:00"
+    },
+    {
       "key": "mercadolivre:MLB7059189312",
       "product_id": "MLB7059189312",
       "catalog_product_id": "MLB38422370",
@@ -1469,52 +1514,7 @@
       "score": 71.0,
       "posted_ts": 1785283367,
       "posted_at": "2026-07-29T00:02:47.092754+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB4057360873",
-      "product_id": "MLB4057360873",
-      "catalog_product_id": "MLB35049339",
-      "item_id": "MLB4057360873",
-      "url": "https://www.mercadolivre.com.br/p/MLB35049339?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB35049339?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "chapinha cabelo prancha profissional cor azul",
-      "title": "Chapinha Cabelo Prancha Profissional Cor Azul",
-      "category": "Beleza",
-      "price": 249.99,
-      "score": 71.0,
-      "posted_ts": 1785279900,
-      "posted_at": "2026-07-28T23:05:00.883927+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB4959331387",
-      "product_id": "MLB4959331387",
-      "catalog_product_id": "MLB66302381",
-      "item_id": "MLB4959331387",
-      "url": "https://www.mercadolivre.com.br/p/MLB66302381?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB66302381?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "perfume masculino corinthians perfume do timao",
-      "title": "Perfume Masculino Corinthians Perfume Do Timão",
-      "category": "Beleza",
-      "price": 199.9,
-      "score": 97.67,
-      "posted_ts": 1785279836,
-      "posted_at": "2026-07-28T23:03:56.939951+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB5982825286",
-      "product_id": "MLB5982825286",
-      "catalog_product_id": "MLB37914167",
-      "item_id": "MLB5982825286",
-      "url": "https://www.mercadolivre.com.br/p/MLB37914167?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB37914167?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "escova secadora profissional",
-      "title": "Escova Secadora Profissional",
-      "category": "Beleza",
-      "price": 43.99,
-      "score": 107.79,
-      "posted_ts": 1785279765,
-      "posted_at": "2026-07-28T23:02:45.876702+00:00"
     }
   ],
-  "updated_at": "2026-07-30T22:14:03.675902+00:00"
+  "updated_at": "2026-07-30T23:05:54.194763+00:00"
 }
