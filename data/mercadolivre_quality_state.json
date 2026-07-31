@@ -1,6 +1,36 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB7158074090",
+      "product_id": "MLB7158074090",
+      "catalog_product_id": "MLB38338044",
+      "item_id": "MLB7158074090",
+      "url": "https://www.mercadolivre.com.br/p/MLB38338044?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB38338044?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "liquidificador portatil mini liquidificador recarregavel usb liquidificador",
+      "title": "Liquidificador portátil, Mini liquidificador recarregável USB, Liquidificador",
+      "category": "Casa e Cozinha",
+      "price": 98.0,
+      "score": 71.0,
+      "posted_ts": 1785467033,
+      "posted_at": "2026-07-31T03:03:53.481001+00:00"
+    },
+    {
+      "key": "mercadolivre:MLB6833428488",
+      "product_id": "MLB6833428488",
+      "catalog_product_id": "MLB62888998",
+      "item_id": "MLB6833428488",
+      "url": "https://www.mercadolivre.com.br/p/MLB62888998?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB62888998?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "air fryer britania fritadeira air fryer preto",
+      "title": "Air fryer Britânia Fritadeira Air Fryer preto",
+      "category": "Casa e Cozinha",
+      "price": 329.99,
+      "score": 71.0,
+      "posted_ts": 1785466969,
+      "posted_at": "2026-07-31T03:02:49.550023+00:00"
+    },
+    {
       "key": "mercadolivre:MLB5982825286",
       "product_id": "MLB5982825286",
       "catalog_product_id": "MLB37914167",
@@ -1499,52 +1529,7 @@
       "score": 72.0,
       "posted_ts": 1785294294,
       "posted_at": "2026-07-29T03:04:54.933711+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB4455473269",
-      "product_id": "MLB4455473269",
-      "catalog_product_id": "MLB65128496",
-      "item_id": "MLB4455473269",
-      "url": "https://www.mercadolivre.com.br/p/MLB65128496?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB65128496?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "soundbar samsung hw b450f soundbar hw b400f",
-      "title": "Soundbar Samsung Hw-b450f + Soundbar Hw-b400f",
-      "category": "Informática",
-      "price": 1904.21,
-      "score": 72.0,
-      "posted_ts": 1785294231,
-      "posted_at": "2026-07-29T03:03:51.013958+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB4929845785",
-      "product_id": "MLB4929845785",
-      "catalog_product_id": "MLB66915787",
-      "item_id": "MLB4929845785",
-      "url": "https://www.mercadolivre.com.br/p/MLB66915787?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB66915787?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "fone bluetooth esportivo 320mah fone sem fio fone academia lilas",
-      "title": "Fone Bluetooth Esportivo 320mah Fone Sem Fio Fone Academia Lilás",
-      "category": "Esportes",
-      "price": 48.0,
-      "score": 102.53,
-      "posted_ts": 1785294167,
-      "posted_at": "2026-07-29T03:02:47.075649+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB6665533644",
-      "product_id": "MLB6665533644",
-      "catalog_product_id": "MLB50957106",
-      "item_id": "MLB6665533644",
-      "url": "https://www.mercadolivre.com.br/p/MLB50957106?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB50957106?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "ssd nvme kingston 1tb nv3 m 2 2280 pcie 4 0 nf e cor ssd nvme m 2 2280 kingston 1tb",
-      "title": "Ssd Nvme Kingston 1tb Nv3 M.2 2280 Pcie 4.0 Nf-e Cor Ssd Nvme M.2 2280 Kingston 1tb",
-      "category": "Informática",
-      "price": 1048.43,
-      "score": 79.79,
-      "posted_ts": 1785290707,
-      "posted_at": "2026-07-29T02:05:07.757902+00:00"
     }
   ],
-  "updated_at": "2026-07-31T02:05:00.207017+00:00"
+  "updated_at": "2026-07-31T03:03:53.481013+00:00"
 }
