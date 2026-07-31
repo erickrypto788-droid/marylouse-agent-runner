@@ -1,6 +1,51 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB6908437380",
+      "product_id": "MLB6908437380",
+      "catalog_product_id": "MLB72674383",
+      "item_id": "MLB6908437380",
+      "url": "https://www.mercadolivre.com.br/p/MLB72674383?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB72674383?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "kit 7 shorts feminino modelador selene levanta bumbum cor bege tamanho m",
+      "title": "Kit 7 Shorts Feminino Modelador Selene Levanta Bumbum Cor Bege Tamanho M",
+      "category": "Moda Feminina",
+      "price": 150.09,
+      "score": 80.67,
+      "posted_ts": 1785456378,
+      "posted_at": "2026-07-31T00:06:18.125693+00:00"
+    },
+    {
+      "key": "mercadolivre:MLB5941366026",
+      "product_id": "MLB5941366026",
+      "catalog_product_id": "MLB62222654",
+      "item_id": "MLB5941366026",
+      "url": "https://www.mercadolivre.com.br/p/MLB62222654?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB62222654?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "shorts feminino sem costura loba plus size redutor tamanho xxg sortido",
+      "title": "Shorts Feminino Sem Costura Loba Plus Size Redutor Tamanho XXG Sortido",
+      "category": "Moda Feminina",
+      "price": 145.49,
+      "score": 83.54,
+      "posted_ts": 1785456314,
+      "posted_at": "2026-07-31T00:05:14.152161+00:00"
+    },
+    {
+      "key": "mercadolivre:MLB4812793017",
+      "product_id": "MLB4812793017",
+      "catalog_product_id": "MLB74520688",
+      "item_id": "MLB4812793017",
+      "url": "https://www.mercadolivre.com.br/p/MLB74520688?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB74520688?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "conjunto feminino shorts saia e blusa elegante festa balada cor conjunto feminino shorts saia preto",
+      "title": "Conjunto Feminino Shorts Saia E Blusa Elegante Festa Balada Cor Conjunto Feminino Shorts Saia Preto",
+      "category": "Moda Feminina",
+      "price": 191.92,
+      "score": 97.67,
+      "posted_ts": 1785456250,
+      "posted_at": "2026-07-31T00:04:10.226779+00:00"
+    },
+    {
       "key": "mercadolivre:MLB3452275215",
       "product_id": "MLB3452275215",
       "catalog_product_id": "MLB19635472",
@@ -1484,37 +1529,7 @@
       "score": 87.0,
       "posted_ts": 1785287030,
       "posted_at": "2026-07-29T01:03:50.377345+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB7158074090",
-      "product_id": "MLB7158074090",
-      "catalog_product_id": "MLB38338044",
-      "item_id": "MLB7158074090",
-      "url": "https://www.mercadolivre.com.br/p/MLB38338044?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB38338044?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "liquidificador portatil mini liquidificador recarregavel usb liquidificador",
-      "title": "Liquidificador portátil, Mini liquidificador recarregável USB, Liquidificador",
-      "category": "Casa e Cozinha",
-      "price": 98.0,
-      "score": 71.0,
-      "posted_ts": 1785283431,
-      "posted_at": "2026-07-29T00:03:51.051312+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB6833428488",
-      "product_id": "MLB6833428488",
-      "catalog_product_id": "MLB62888998",
-      "item_id": "MLB6833428488",
-      "url": "https://www.mercadolivre.com.br/p/MLB62888998?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB62888998?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "air fryer britania fritadeira air fryer preto",
-      "title": "Air fryer Britânia Fritadeira Air Fryer preto",
-      "category": "Casa e Cozinha",
-      "price": 329.99,
-      "score": 71.0,
-      "posted_ts": 1785283367,
-      "posted_at": "2026-07-29T00:02:47.092754+00:00"
     }
   ],
-  "updated_at": "2026-07-30T23:05:54.194763+00:00"
+  "updated_at": "2026-07-31T00:06:18.125713+00:00"
 }
