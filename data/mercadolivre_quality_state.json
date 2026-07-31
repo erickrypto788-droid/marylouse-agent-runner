@@ -1,6 +1,51 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB6827581422",
+      "product_id": "MLB6827581422",
+      "catalog_product_id": "MLB70114350",
+      "item_id": "MLB6827581422",
+      "url": "https://www.mercadolivre.com.br/p/MLB70114350?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB70114350?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "prancha esteira ergometrica kikos e600ix preto",
+      "title": "Prancha Esteira Ergometrica Kikos E600ix Preto",
+      "category": "Esportes",
+      "price": 189.06,
+      "score": 108.5,
+      "posted_ts": 1785459910,
+      "posted_at": "2026-07-31T01:05:10.256712+00:00"
+    },
+    {
+      "key": "mercadolivre:MLB7119236764",
+      "product_id": "MLB7119236764",
+      "catalog_product_id": "MLB75107533",
+      "item_id": "MLB7119236764",
+      "url": "https://www.mercadolivre.com.br/p/MLB75107533?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB75107533?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "bike spinning bicicleta 6kg wct fitness preta",
+      "title": "Bike Spinning Bicicleta 6kg Wct Fitness Preta",
+      "category": "Esportes",
+      "price": 649.0,
+      "score": 121.13,
+      "posted_ts": 1785459846,
+      "posted_at": "2026-07-31T01:04:06.396760+00:00"
+    },
+    {
+      "key": "mercadolivre:MLB4780821021",
+      "product_id": "MLB4780821021",
+      "catalog_product_id": "MLB73080389",
+      "item_id": "MLB4780821021",
+      "url": "https://www.mercadolivre.com.br/p/MLB73080389?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB73080389?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "esteira ergometrica eletrica dobravel com bluetooth tela led 14km h jmjn 220v esteira ergometrica 120kg",
+      "title": "Esteira Ergométrica Elétrica Dobrável Com Bluetooth Tela Led 14km/h Jmjn 220v Esteira Ergometrica 120kg",
+      "category": "Esportes",
+      "price": 1454.81,
+      "score": 136.11,
+      "posted_ts": 1785459782,
+      "posted_at": "2026-07-31T01:03:02.458619+00:00"
+    },
+    {
       "key": "mercadolivre:MLB6908437380",
       "product_id": "MLB6908437380",
       "catalog_product_id": "MLB72674383",
@@ -1499,37 +1544,7 @@
       "score": 72.0,
       "posted_ts": 1785287158,
       "posted_at": "2026-07-29T01:05:58.554533+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB4136027005",
-      "product_id": "MLB4136027005",
-      "catalog_product_id": "MLB19765397",
-      "item_id": "MLB4136027005",
-      "url": "https://www.mercadolivre.com.br/p/MLB19765397?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB19765397?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "combo furadeira parafusadeira df333d parafusadeira de impacto td110d 12v clx224sax",
-      "title": "Combo Furadeira Parafusadeira DF333D + Parafusadeira de Impacto TD110D 12V - CLX224SAX",
-      "category": "Ferramentas",
-      "price": 1189.0,
-      "score": 81.07,
-      "posted_ts": 1785287094,
-      "posted_at": "2026-07-29T01:04:54.438716+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB7150184678",
-      "product_id": "MLB7150184678",
-      "catalog_product_id": "MLB21865416",
-      "item_id": "MLB7150184678",
-      "url": "https://www.mercadolivre.com.br/p/MLB21865416?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB21865416?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "combo parafusadeira furadeira de impacto 13mm parafusadeira de impacto 6 3mm dewalt dck276d2",
-      "title": "Combo Parafusadeira Furadeira de Impacto 13mm + Parafusadeira de Impacto 6,3mm DEWALT DCK276D2",
-      "category": "Ferramentas",
-      "price": 1582.0,
-      "score": 87.0,
-      "posted_ts": 1785287030,
-      "posted_at": "2026-07-29T01:03:50.377345+00:00"
     }
   ],
-  "updated_at": "2026-07-31T00:06:18.125713+00:00"
+  "updated_at": "2026-07-31T01:05:10.256724+00:00"
 }
