@@ -1,6 +1,51 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB4313106591",
+      "product_id": "MLB4313106591",
+      "catalog_product_id": "MLB56425611",
+      "item_id": "MLB4313106591",
+      "url": "https://www.mercadolivre.com.br/p/MLB56425611?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB56425611?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "smartphone xiaomi poco c85 6gb ram 128gb preto",
+      "title": "Smartphone xiaomi Poco C85 6gb ram + 128gb, Preto",
+      "category": "Informática",
+      "price": 716.5,
+      "score": 87.0,
+      "posted_ts": 1785481508,
+      "posted_at": "2026-07-31T07:05:08.466374+00:00"
+    },
+    {
+      "key": "mercadolivre:MLB5765586272",
+      "product_id": "MLB5765586272",
+      "catalog_product_id": "MLB47326105",
+      "item_id": "MLB5765586272",
+      "url": "https://www.mercadolivre.com.br/p/MLB47326105?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB47326105?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "smartphone xiaomi redmi 9c 32gb azul",
+      "title": "Smartphone Xiaomi Redmi 9c 32gb Azul",
+      "category": "Informática",
+      "price": 999.99,
+      "score": 87.0,
+      "posted_ts": 1785481438,
+      "posted_at": "2026-07-31T07:03:58.823320+00:00"
+    },
+    {
+      "key": "mercadolivre:MLB7238539878",
+      "product_id": "MLB7238539878",
+      "catalog_product_id": "MLB39444837",
+      "item_id": "MLB7238539878",
+      "url": "https://www.mercadolivre.com.br/p/MLB39444837?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB39444837?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "smartphone samsung galaxy s23 ultra 512gb creme",
+      "title": "Smartphone Samsung Galaxy S23 Ultra 512gb Creme",
+      "category": "Informática",
+      "price": 5999.0,
+      "score": 87.0,
+      "posted_ts": 1785481370,
+      "posted_at": "2026-07-31T07:02:50.651713+00:00"
+    },
+    {
       "key": "mercadolivre:MLB4455480129",
       "product_id": "MLB4455480129",
       "catalog_product_id": "MLB65128982",
@@ -1499,52 +1544,7 @@
       "score": 87.0,
       "posted_ts": 1785308710,
       "posted_at": "2026-07-29T07:05:10.829645+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB4109571517",
-      "product_id": "MLB4109571517",
-      "catalog_product_id": "MLB28523781",
-      "item_id": "MLB4109571517",
-      "url": "https://www.mercadolivre.com.br/p/MLB28523781?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB28523781?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "alimento royal canin hair skin 3kg racao gato",
-      "title": "Alimento Royal Canin Hair & Skin 3kg Ração Gato",
-      "category": "Pet",
-      "price": 264.71,
-      "score": 93.93,
-      "posted_ts": 1785308642,
-      "posted_at": "2026-07-29T07:04:02.610096+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB4719617285",
-      "product_id": "MLB4719617285",
-      "catalog_product_id": "MLB66541712",
-      "item_id": "MLB4719617285",
-      "url": "https://www.mercadolivre.com.br/p/MLB66541712?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB66541712?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "racao gato estimacat premium adulto sabor carne 15kg",
-      "title": "Ração Gato Estimacat Premium Adulto Sabor Carne 15kg",
-      "category": "Pet",
-      "price": 267.24,
-      "score": 102.83,
-      "posted_ts": 1785308573,
-      "posted_at": "2026-07-29T07:02:53.391247+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB7025030702",
-      "product_id": "MLB7025030702",
-      "catalog_product_id": "MLB21775692",
-      "item_id": "MLB7025030702",
-      "url": "https://www.mercadolivre.com.br/p/MLB21775692?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB21775692?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "oximetro oximetro de pulso oxigenio coracao pediatrico para adultos",
-      "title": "Oxímetro, oxímetro de pulso, oxigênio, coração pediátrico para adultos",
-      "category": "Pet",
-      "price": 49.9,
-      "score": 71.0,
-      "posted_ts": 1785305166,
-      "posted_at": "2026-07-29T06:06:06.857428+00:00"
     }
   ],
-  "updated_at": "2026-07-31T06:05:46.824695+00:00"
+  "updated_at": "2026-07-31T07:05:08.466385+00:00"
 }
