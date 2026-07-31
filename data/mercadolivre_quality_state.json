@@ -1,6 +1,51 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB5982825286",
+      "product_id": "MLB5982825286",
+      "catalog_product_id": "MLB37914167",
+      "item_id": "MLB5982825286",
+      "url": "https://www.mercadolivre.com.br/p/MLB37914167?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB37914167?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "escova secadora profissional",
+      "title": "Escova Secadora Profissional",
+      "category": "Beleza",
+      "price": 43.99,
+      "score": 107.79,
+      "posted_ts": 1785463500,
+      "posted_at": "2026-07-31T02:05:00.207007+00:00"
+    },
+    {
+      "key": "mercadolivre:MLB5495982148",
+      "product_id": "MLB5495982148",
+      "catalog_product_id": "MLB51434487",
+      "item_id": "MLB5495982148",
+      "url": "https://www.mercadolivre.com.br/p/MLB51434487?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB51434487?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "barbeador costas masculino traseiro dobravel aparador pelos",
+      "title": "Barbeador Costas Masculino Traseiro Dobrável Aparador Pelos",
+      "category": "Beleza",
+      "price": 249.0,
+      "score": 110.62,
+      "posted_ts": 1785463436,
+      "posted_at": "2026-07-31T02:03:56.173730+00:00"
+    },
+    {
+      "key": "mercadolivre:MLB7116149854",
+      "product_id": "MLB7116149854",
+      "catalog_product_id": "MLB74602351",
+      "item_id": "MLB7116149854",
+      "url": "https://www.mercadolivre.com.br/p/MLB74602351?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB74602351?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "chapinha cabelo profissional prancha alisadora de cabelo chapinha para cabelo bivolt chapinha",
+      "title": "Chapinha Cabelo Profissional Prancha Alisadora De Cabelo chapinha Para Cabelo Bivolt Chapinha",
+      "category": "Beleza",
+      "price": 58.0,
+      "score": 113.67,
+      "posted_ts": 1785463372,
+      "posted_at": "2026-07-31T02:02:52.166199+00:00"
+    },
+    {
       "key": "mercadolivre:MLB6827581422",
       "product_id": "MLB6827581422",
       "catalog_product_id": "MLB70114350",
@@ -1499,52 +1544,7 @@
       "score": 79.79,
       "posted_ts": 1785290707,
       "posted_at": "2026-07-29T02:05:07.757902+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB4654205549",
-      "product_id": "MLB4654205549",
-      "catalog_product_id": "MLB47353377",
-      "item_id": "MLB4654205549",
-      "url": "https://www.mercadolivre.com.br/p/MLB47353377?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB47353377?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "roteador wifi ac 1200 2 flex",
-      "title": "Roteador Wifi Ac 1200 2 Flex",
-      "category": "Informática",
-      "price": 169.14,
-      "score": 87.74,
-      "posted_ts": 1785290643,
-      "posted_at": "2026-07-29T02:04:03.688637+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB4637318079",
-      "product_id": "MLB4637318079",
-      "catalog_product_id": "MLB42182462",
-      "item_id": "MLB4637318079",
-      "url": "https://www.mercadolivre.com.br/p/MLB42182462?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB42182462?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "hd externo portatil ssd 1tb sandisk preto",
-      "title": "Hd Externo Portátil - Ssd - 1tb - Sandisk - Preto",
-      "category": "Informática",
-      "price": 949.63,
-      "score": 95.0,
-      "posted_ts": 1785290579,
-      "posted_at": "2026-07-29T02:02:59.020644+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB6711565494",
-      "product_id": "MLB6711565494",
-      "catalog_product_id": "MLB37180897",
-      "item_id": "MLB6711565494",
-      "url": "https://www.mercadolivre.com.br/p/MLB37180897?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB37180897?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "kit furadeira e parafusadeira com parafusadeira dewalt modelo dck200me2gt 2 baterias 20v",
-      "title": "Kit Furadeira e Parafusadeira com Parafusadeira Dewalt Modelo DCK200ME2GT 2 Baterias 20V",
-      "category": "Ferramentas",
-      "price": 3120.0,
-      "score": 72.0,
-      "posted_ts": 1785287158,
-      "posted_at": "2026-07-29T01:05:58.554533+00:00"
     }
   ],
-  "updated_at": "2026-07-31T01:05:10.256724+00:00"
+  "updated_at": "2026-07-31T02:05:00.207017+00:00"
 }
