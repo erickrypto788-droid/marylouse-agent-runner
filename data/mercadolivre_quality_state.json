@@ -1,6 +1,21 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB7025030702",
+      "product_id": "MLB7025030702",
+      "catalog_product_id": "MLB21775692",
+      "item_id": "MLB7025030702",
+      "url": "https://www.mercadolivre.com.br/p/MLB21775692?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB21775692?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "oximetro oximetro de pulso oxigenio coracao pediatrico para adultos",
+      "title": "Oxímetro, oxímetro de pulso, oxigênio, coração pediátrico para adultos",
+      "category": "Pet",
+      "price": 49.9,
+      "score": 71.0,
+      "posted_ts": 1785614566,
+      "posted_at": "2026-08-01T20:02:46.405619+00:00"
+    },
+    {
       "key": "mercadolivre:MLB7231004162",
       "product_id": "MLB7231004162",
       "catalog_product_id": "MLB67646385",
@@ -1636,5 +1651,5 @@
       "posted_at": "2026-07-30T21:07:58.958460+00:00"
     }
   ],
-  "updated_at": "2026-08-01T18:05:18.950728+00:00"
+  "updated_at": "2026-08-01T20:02:46.405630+00:00"
 }
