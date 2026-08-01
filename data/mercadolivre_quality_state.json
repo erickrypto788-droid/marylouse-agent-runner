@@ -1,6 +1,51 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB4948896131",
+      "product_id": "MLB4948896131",
+      "catalog_product_id": "MLB26246485",
+      "item_id": "MLB4948896131",
+      "url": "https://www.mercadolivre.com.br/p/MLB26246485?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB26246485?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "alimento golden adultos light 15kg racao cachorro saudavel",
+      "title": "Alimento Golden Adultos Light 15kg Ração Cachorro Saudável",
+      "category": "Pet",
+      "price": 176.9,
+      "score": 87.0,
+      "posted_ts": 1785557114,
+      "posted_at": "2026-08-01T04:05:14.561160+00:00"
+    },
+    {
+      "key": "mercadolivre:MLB6194818232",
+      "product_id": "MLB6194818232",
+      "catalog_product_id": "MLB32106098",
+      "item_id": "MLB6194818232",
+      "url": "https://www.mercadolivre.com.br/p/MLB32106098?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB32106098?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "racao premier pet vitta natural racao cachorro adulto 15k",
+      "title": "Ração Premier Pet Vitta Natural Ração Cachorro Adulto 15k",
+      "category": "Pet",
+      "price": 131.99,
+      "score": 87.0,
+      "posted_ts": 1785557050,
+      "posted_at": "2026-08-01T04:04:10.356102+00:00"
+    },
+    {
+      "key": "mercadolivre:MLB4972469157",
+      "product_id": "MLB4972469157",
+      "catalog_product_id": "MLB76042421",
+      "item_id": "MLB4972469157",
+      "url": "https://www.mercadolivre.com.br/p/MLB76042421?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB76042421?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "comedouro dispenser de racao automatico 8l para caes gatos cor comedouro automatico azul",
+      "title": "Comedouro Dispenser De Ração Automático 8l Para Cães Gatos Cor Comedouro Automatico Azul",
+      "category": "Pet",
+      "price": 42.88,
+      "score": 91.47,
+      "posted_ts": 1785556986,
+      "posted_at": "2026-08-01T04:03:06.137354+00:00"
+    },
+    {
       "key": "mercadolivre:MLB6405166350",
       "product_id": "MLB6405166350",
       "catalog_product_id": "MLB48332910",
@@ -1589,22 +1634,7 @@
       "score": 105.18,
       "posted_ts": 1785384535,
       "posted_at": "2026-07-30T04:08:55.849855+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB4856179667",
-      "product_id": "MLB4856179667",
-      "catalog_product_id": "MLB57578486",
-      "item_id": "MLB4856179667",
-      "url": "https://www.mercadolivre.com.br/p/MLB57578486?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB57578486?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "mini impressora niimbot b1 etiqueta bluetooth cor prateado impressora etiquetas adesivas",
-      "title": "Mini Impressora Niimbot B1 etiqueta Bluetooth Cor Prateado impressora etiquetas adesivas",
-      "category": "Informática",
-      "price": 399.99,
-      "score": 71.0,
-      "posted_ts": 1785376990,
-      "posted_at": "2026-07-30T02:03:10.093879+00:00"
     }
   ],
-  "updated_at": "2026-08-01T01:04:45.177131+00:00"
+  "updated_at": "2026-08-01T04:05:14.561174+00:00"
 }
