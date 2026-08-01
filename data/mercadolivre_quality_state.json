@@ -1,6 +1,51 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB6405166350",
+      "product_id": "MLB6405166350",
+      "catalog_product_id": "MLB48332910",
+      "item_id": "MLB6405166350",
+      "url": "https://www.mercadolivre.com.br/p/MLB48332910?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB48332910?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "redmi note 14s cor preto",
+      "title": "Redmi Note 14s Cor Preto",
+      "category": "Informática",
+      "price": 1639.0,
+      "score": 71.0,
+      "posted_ts": 1785546285,
+      "posted_at": "2026-08-01T01:04:45.177120+00:00"
+    },
+    {
+      "key": "mercadolivre:MLB4944781223",
+      "product_id": "MLB4944781223",
+      "catalog_product_id": "MLB65973005",
+      "item_id": "MLB4944781223",
+      "url": "https://www.mercadolivre.com.br/p/MLB65973005?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB65973005?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "celular samsung galaxy a06 5g preto",
+      "title": "Celular Samsung Galaxy A06 5g Preto",
+      "category": "Informática",
+      "price": 1099.0,
+      "score": 87.0,
+      "posted_ts": 1785546221,
+      "posted_at": "2026-08-01T01:03:41.298224+00:00"
+    },
+    {
+      "key": "mercadolivre:MLB4964702477",
+      "product_id": "MLB4964702477",
+      "catalog_product_id": "MLB59103184",
+      "item_id": "MLB4964702477",
+      "url": "https://www.mercadolivre.com.br/p/MLB59103184?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB59103184?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "smartphone xiaomi 15t 5g 12 12gb ram 512gb dourado",
+      "title": "Smartphone Xiaomi 15t 5g 12+12gb Ram + 512gb, Dourado",
+      "category": "Informática",
+      "price": 5399.0,
+      "score": 87.0,
+      "posted_ts": 1785546157,
+      "posted_at": "2026-08-01T01:02:37.369371+00:00"
+    },
+    {
       "key": "mercadolivre:MLB7150469040",
       "product_id": "MLB7150469040",
       "catalog_product_id": "MLB59821316",
@@ -1559,52 +1604,7 @@
       "score": 71.0,
       "posted_ts": 1785376990,
       "posted_at": "2026-07-30T02:03:10.093879+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB4552727020",
-      "product_id": "MLB4552727020",
-      "catalog_product_id": "MLB23076913",
-      "item_id": "MLB4552727020",
-      "url": "https://www.mercadolivre.com.br/p/MLB23076913?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB23076913?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "monitor bebe wifi infravermelho vision noctura intercom inteligente",
-      "title": "Monitor Bebe Wifi Infravermelho Vision Noctura Intercom Inteligente",
-      "category": "Informática",
-      "price": 1394.0,
-      "score": 71.0,
-      "posted_ts": 1785373373,
-      "posted_at": "2026-07-30T01:02:53.993255+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB5387742880",
-      "product_id": "MLB5387742880",
-      "catalog_product_id": "MLB40063953",
-      "item_id": "MLB5387742880",
-      "url": "https://www.mercadolivre.com.br/p/MLB40063953?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB40063953?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "racao cachorro vittamax gold alimento premium especial 10 1k",
-      "title": "Ração Cachorro Vittamax Gold Alimento Premium Especial 10,1k",
-      "category": "Pet",
-      "price": 141.52,
-      "score": 79.2,
-      "posted_ts": 1785369905,
-      "posted_at": "2026-07-30T00:05:05.218155+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB4948896131",
-      "product_id": "MLB4948896131",
-      "catalog_product_id": "MLB26246485",
-      "item_id": "MLB4948896131",
-      "url": "https://www.mercadolivre.com.br/p/MLB26246485?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB26246485?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "alimento golden adultos light 15kg racao cachorro saudavel",
-      "title": "Alimento Golden Adultos Light 15kg Ração Cachorro Saudável",
-      "category": "Pet",
-      "price": 176.9,
-      "score": 87.0,
-      "posted_ts": 1785369840,
-      "posted_at": "2026-07-30T00:04:00.083638+00:00"
     }
   ],
-  "updated_at": "2026-08-01T00:03:00.695217+00:00"
+  "updated_at": "2026-08-01T01:04:45.177131+00:00"
 }
