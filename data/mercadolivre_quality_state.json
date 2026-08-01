@@ -1,6 +1,51 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB4302548173",
+      "product_id": "MLB4302548173",
+      "catalog_product_id": "MLB44164135",
+      "item_id": "MLB4302548173",
+      "url": "https://www.mercadolivre.com.br/p/MLB44164135?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB44164135?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "comedouro automatico racao aquario terrario peixe tartaruga",
+      "title": "Comedouro Automático Ração Aquário Terrario Peixe Tartaruga",
+      "category": "Pet",
+      "price": 142.86,
+      "score": 71.0,
+      "posted_ts": 1785618327,
+      "posted_at": "2026-08-01T21:05:27.550139+00:00"
+    },
+    {
+      "key": "mercadolivre:MLB4871337061",
+      "product_id": "MLB4871337061",
+      "catalog_product_id": "MLB36069603",
+      "item_id": "MLB4871337061",
+      "url": "https://www.mercadolivre.com.br/p/MLB36069603?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB36069603?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "quatree gourmet racao cachorro filhotes premium 20kg",
+      "title": "Quatree gourmet ração cachorro filhotes Premium 20kg",
+      "category": "Pet",
+      "price": 243.0,
+      "score": 71.0,
+      "posted_ts": 1785618259,
+      "posted_at": "2026-08-01T21:04:19.001695+00:00"
+    },
+    {
+      "key": "mercadolivre:MLB4623002845",
+      "product_id": "MLB4623002845",
+      "catalog_product_id": "MLB24839034",
+      "item_id": "MLB4623002845",
+      "url": "https://www.mercadolivre.com.br/p/MLB24839034?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB24839034?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "racao gato alimento vittamax premium especial 10 1kg peixe",
+      "title": "Ração Gato Alimento Vittamax Premium Especial 10,1kg - Peixe",
+      "category": "Pet",
+      "price": 128.0,
+      "score": 83.24,
+      "posted_ts": 1785618190,
+      "posted_at": "2026-08-01T21:03:10.418336+00:00"
+    },
+    {
       "key": "mercadolivre:MLB7025030702",
       "product_id": "MLB7025030702",
       "catalog_product_id": "MLB21775692",
@@ -1651,5 +1696,5 @@
       "posted_at": "2026-07-30T21:07:58.958460+00:00"
     }
   ],
-  "updated_at": "2026-08-01T20:02:46.405630+00:00"
+  "updated_at": "2026-08-01T21:05:27.550149+00:00"
 }
