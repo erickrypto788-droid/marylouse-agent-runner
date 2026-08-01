@@ -1,6 +1,21 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB4552727020",
+      "product_id": "MLB4552727020",
+      "catalog_product_id": "MLB23076913",
+      "item_id": "MLB4552727020",
+      "url": "https://www.mercadolivre.com.br/p/MLB23076913?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB23076913?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "monitor bebe wifi infravermelho vision noctura intercom inteligente",
+      "title": "Monitor Bebe Wifi Infravermelho Vision Noctura Intercom Inteligente",
+      "category": "Informática",
+      "price": 1394.0,
+      "score": 71.0,
+      "posted_ts": 1785560556,
+      "posted_at": "2026-08-01T05:02:36.598888+00:00"
+    },
+    {
       "key": "mercadolivre:MLB4948896131",
       "product_id": "MLB4948896131",
       "catalog_product_id": "MLB26246485",
@@ -1559,82 +1574,7 @@
       "score": 71.0,
       "posted_ts": 1785387859,
       "posted_at": "2026-07-30T05:04:19.235594+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB5827152542",
-      "product_id": "MLB5827152542",
-      "catalog_product_id": "MLB60416491",
-      "item_id": "MLB5827152542",
-      "url": "https://www.mercadolivre.com.br/p/MLB60416491?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB60416491?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "amaciante roupas macias sensiv titila 5l",
-      "title": "Amaciante Roupas Macias Sensiv Titila 5l",
-      "category": "Supermercados",
-      "price": 37.9,
-      "score": 87.85,
-      "posted_ts": 1785384798,
-      "posted_at": "2026-07-30T04:13:18.130726+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB4500142613",
-      "product_id": "MLB4500142613",
-      "catalog_product_id": "MLB23414307",
-      "item_id": "MLB4500142613",
-      "url": "https://www.mercadolivre.com.br/p/MLB23414307?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB23414307?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "fralda pampers premium care tamanho m 80 unidades",
-      "title": "Fralda Pampers Premium Care Tamanho M 80 Unidades",
-      "category": "Mãe e Bebê",
-      "price": 122.59,
-      "score": 88.0,
-      "posted_ts": 1785384733,
-      "posted_at": "2026-07-30T04:12:13.280435+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB6425142428",
-      "product_id": "MLB6425142428",
-      "catalog_product_id": "MLB33581064",
-      "item_id": "MLB6425142428",
-      "url": "https://www.mercadolivre.com.br/p/MLB33581064?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB33581064?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "fralda pampers confort sec g 38 unidades",
-      "title": "Fralda Pampers Confort Sec G 38 Unidades",
-      "category": "Mãe e Bebê",
-      "price": 120.0,
-      "score": 88.0,
-      "posted_ts": 1785384668,
-      "posted_at": "2026-07-30T04:11:08.942503+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB6428938830",
-      "product_id": "MLB6428938830",
-      "catalog_product_id": "MLB36175310",
-      "item_id": "MLB6428938830",
-      "url": "https://www.mercadolivre.com.br/p/MLB36175310?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB36175310?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "fralda pampers supersec m 30 unidades",
-      "title": "Fralda Pampers Supersec M 30 Unidades",
-      "category": "Mãe e Bebê",
-      "price": 39.99,
-      "score": 88.0,
-      "posted_ts": 1785384604,
-      "posted_at": "2026-07-30T04:10:04.110651+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB4189107767",
-      "product_id": "MLB4189107767",
-      "catalog_product_id": "MLB54332454",
-      "item_id": "MLB4189107767",
-      "url": "https://www.mercadolivre.com.br/p/MLB54332454?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB54332454?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "azeite oliva extra virgem italiano 500ml mercatto",
-      "title": "Azeite Oliva Extra Virgem Italiano 500ml Mercatto",
-      "category": "Supermercados",
-      "price": 46.68,
-      "score": 105.18,
-      "posted_ts": 1785384535,
-      "posted_at": "2026-07-30T04:08:55.849855+00:00"
     }
   ],
-  "updated_at": "2026-08-01T04:05:14.561174+00:00"
+  "updated_at": "2026-08-01T05:02:36.598898+00:00"
 }
