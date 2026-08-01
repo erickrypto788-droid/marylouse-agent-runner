@@ -1,6 +1,51 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB4749889295",
+      "product_id": "MLB4749889295",
+      "catalog_product_id": "MLB65826128",
+      "item_id": "MLB4749889295",
+      "url": "https://www.mercadolivre.com.br/p/MLB65826128?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB65826128?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "conjunto panelas antiaderente 5 pecas antiaderente cor azul hauskraft",
+      "title": "Conjunto Panelas Antiaderente 5 Peças Antiaderente Cor Azul Hauskraft",
+      "category": "Casa e Cozinha",
+      "price": 310.44,
+      "score": 81.73,
+      "posted_ts": 1785578799,
+      "posted_at": "2026-08-01T10:06:39.283918+00:00"
+    },
+    {
+      "key": "mercadolivre:MLB7270317740",
+      "product_id": "MLB7270317740",
+      "catalog_product_id": "MLB75817439",
+      "item_id": "MLB7270317740",
+      "url": "https://www.mercadolivre.com.br/p/MLB75817439?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB75817439?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "jogo panelas ipanema 5 pecas preto nacional",
+      "title": "Jogo Panelas Ipanema 5 Peças Preto Nacional",
+      "category": "Casa e Cozinha",
+      "price": 305.9,
+      "score": 84.22,
+      "posted_ts": 1785578731,
+      "posted_at": "2026-08-01T10:05:31.633007+00:00"
+    },
+    {
+      "key": "mercadolivre:MLB5944892036",
+      "product_id": "MLB5944892036",
+      "catalog_product_id": "MLB47630541",
+      "item_id": "MLB5944892036",
+      "url": "https://www.mercadolivre.com.br/p/MLB47630541?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB47630541?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "jogo panelas tramontina antiaderente aluminio monaco inducao",
+      "title": "Jogo Panelas Tramontina Antiaderente Alumínio Monaco Indução",
+      "category": "Casa e Cozinha",
+      "price": 737.0,
+      "score": 87.0,
+      "posted_ts": 1785578663,
+      "posted_at": "2026-08-01T10:04:23.989277+00:00"
+    },
+    {
       "key": "mercadolivre:MLB4712632217",
       "product_id": "MLB4712632217",
       "catalog_product_id": "MLB66992733",
@@ -1561,5 +1606,5 @@
       "posted_at": "2026-07-30T11:02:47.092407+00:00"
     }
   ],
-  "updated_at": "2026-08-01T09:05:59.912148+00:00"
+  "updated_at": "2026-08-01T10:06:39.283932+00:00"
 }
