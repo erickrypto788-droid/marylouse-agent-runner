@@ -1,6 +1,51 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB6759649010",
+      "product_id": "MLB6759649010",
+      "catalog_product_id": "MLB27552704",
+      "item_id": "MLB6759649010",
+      "url": "https://www.mercadolivre.com.br/p/MLB27552704?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB27552704?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "bicicleta ergometrica gimp bike spinning 100kg",
+      "title": "Bicicleta ergométrica Gimp Bike Spinning 100Kg",
+      "category": "Esportes",
+      "price": 785.99,
+      "score": 71.0,
+      "posted_ts": 1785585927,
+      "posted_at": "2026-08-01T12:05:27.426667+00:00"
+    },
+    {
+      "key": "mercadolivre:MLB3979242465",
+      "product_id": "MLB3979242465",
+      "catalog_product_id": "MLB42620940",
+      "item_id": "MLB3979242465",
+      "url": "https://www.mercadolivre.com.br/p/MLB42620940?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB42620940?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "prancha esteira ergometrica dream dr2110 cor preto",
+      "title": "Prancha Esteira Ergometrica Dream Dr2110 Cor Preto",
+      "category": "Esportes",
+      "price": 185.24,
+      "score": 71.0,
+      "posted_ts": 1785585856,
+      "posted_at": "2026-08-01T12:04:16.185644+00:00"
+    },
+    {
+      "key": "mercadolivre:MLB6815537068",
+      "product_id": "MLB6815537068",
+      "catalog_product_id": "MLB36405300",
+      "item_id": "MLB6815537068",
+      "url": "https://www.mercadolivre.com.br/p/MLB36405300?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB36405300?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "bike spinning ergometrica cor preto",
+      "title": "Bike Spinning Ergométrica Cor Preto",
+      "category": "Esportes",
+      "price": 1610.1,
+      "score": 84.33,
+      "posted_ts": 1785585787,
+      "posted_at": "2026-08-01T12:03:07.297734+00:00"
+    },
+    {
       "key": "mercadolivre:MLB6512536586",
       "product_id": "MLB6512536586",
       "catalog_product_id": "MLB25981434",
@@ -1559,37 +1604,7 @@
       "score": 87.0,
       "posted_ts": 1785420177,
       "posted_at": "2026-07-30T14:02:57.310082+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB4745902149",
-      "product_id": "MLB4745902149",
-      "catalog_product_id": "MLB42833702",
-      "item_id": "MLB4745902149",
-      "url": "https://www.mercadolivre.com.br/p/MLB42833702?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB42833702?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "roteador wifi 6 dual band flt x3000",
-      "title": "Roteador Wifi 6 Dual Band Flt - X3000",
-      "category": "Informática",
-      "price": 349.0,
-      "score": 71.0,
-      "posted_ts": 1785412982,
-      "posted_at": "2026-07-30T12:03:02.877343+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB6943746406",
-      "product_id": "MLB6943746406",
-      "catalog_product_id": "MLB70110890",
-      "item_id": "MLB6943746406",
-      "url": "https://www.mercadolivre.com.br/p/MLB70110890?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB70110890?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "kit ferramentas furadeira esmerilhadeira parafusadeira",
-      "title": "Kit Ferramentas Furadeira Esmerilhadeira Parafusadeira",
-      "category": "Ferramentas",
-      "price": 1449.0,
-      "score": 71.0,
-      "posted_ts": 1785409494,
-      "posted_at": "2026-07-30T11:04:54.969198+00:00"
     }
   ],
-  "updated_at": "2026-08-01T11:04:16.411738+00:00"
+  "updated_at": "2026-08-01T12:05:27.426679+00:00"
 }
