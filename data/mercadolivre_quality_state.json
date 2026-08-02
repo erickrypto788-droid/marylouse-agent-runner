@@ -1,6 +1,51 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB6827581422",
+      "product_id": "MLB6827581422",
+      "catalog_product_id": "MLB70114350",
+      "item_id": "MLB6827581422",
+      "url": "https://www.mercadolivre.com.br/p/MLB70114350?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB70114350?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "prancha esteira ergometrica kikos e600ix preto",
+      "title": "Prancha Esteira Ergometrica Kikos E600ix Preto",
+      "category": "Esportes",
+      "price": 191.28,
+      "score": 103.27,
+      "posted_ts": 1785650739,
+      "posted_at": "2026-08-02T06:05:39.066794+00:00"
+    },
+    {
+      "key": "mercadolivre:MLB7119236764",
+      "product_id": "MLB7119236764",
+      "catalog_product_id": "MLB75107533",
+      "item_id": "MLB7119236764",
+      "url": "https://www.mercadolivre.com.br/p/MLB75107533?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB75107533?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "bike spinning bicicleta 6kg wct fitness preta",
+      "title": "Bike Spinning Bicicleta 6kg Wct Fitness Preta",
+      "category": "Esportes",
+      "price": 649.0,
+      "score": 121.13,
+      "posted_ts": 1785650662,
+      "posted_at": "2026-08-02T06:04:22.237041+00:00"
+    },
+    {
+      "key": "mercadolivre:MLB6968844088",
+      "product_id": "MLB6968844088",
+      "catalog_product_id": "MLB73080390",
+      "item_id": "MLB6968844088",
+      "url": "https://www.mercadolivre.com.br/p/MLB73080390?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB73080390?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "esteira ergometrica eletrica dobravel com bluetooth tela led 14km h jmjn 127v 220v esteira ergometrica 120kg",
+      "title": "Esteira Ergométrica Elétrica Dobrável Com Bluetooth Tela Led 14km/h Jmjn 127v/220v Esteira Ergometrica 120kg",
+      "category": "Esportes",
+      "price": 1454.81,
+      "score": 136.11,
+      "posted_ts": 1785650597,
+      "posted_at": "2026-08-02T06:03:17.015518+00:00"
+    },
+    {
       "key": "mercadolivre:MLB6908437380",
       "product_id": "MLB6908437380",
       "catalog_product_id": "MLB72674383",
@@ -1409,67 +1454,7 @@
       "score": 72.0,
       "posted_ts": 1785477946,
       "posted_at": "2026-07-31T06:05:46.824684+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB6252264240",
-      "product_id": "MLB6252264240",
-      "catalog_product_id": "MLB65564566",
-      "item_id": "MLB6252264240",
-      "url": "https://www.mercadolivre.com.br/p/MLB65564566?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB65564566?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "soundbar samsung hw q990f soundbar hw b400f",
-      "title": "Soundbar Samsung Hw-q990f + Soundbar Hw-b400f",
-      "category": "Informática",
-      "price": 7735.79,
-      "score": 72.0,
-      "posted_ts": 1785477878,
-      "posted_at": "2026-07-31T06:04:38.472929+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB4455473269",
-      "product_id": "MLB4455473269",
-      "catalog_product_id": "MLB65128496",
-      "item_id": "MLB4455473269",
-      "url": "https://www.mercadolivre.com.br/p/MLB65128496?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB65128496?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "soundbar samsung hw b450f soundbar hw b400f",
-      "title": "Soundbar Samsung Hw-b450f + Soundbar Hw-b400f",
-      "category": "Informática",
-      "price": 1904.21,
-      "score": 72.0,
-      "posted_ts": 1785477814,
-      "posted_at": "2026-07-31T06:03:34.500954+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB4929845785",
-      "product_id": "MLB4929845785",
-      "catalog_product_id": "MLB66915787",
-      "item_id": "MLB4929845785",
-      "url": "https://www.mercadolivre.com.br/p/MLB66915787?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB66915787?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "fone bluetooth esportivo 320mah fone sem fio fone academia lilas",
-      "title": "Fone Bluetooth Esportivo 320mah Fone Sem Fio Fone Academia Lilás",
-      "category": "Esportes",
-      "price": 48.0,
-      "score": 102.53,
-      "posted_ts": 1785477750,
-      "posted_at": "2026-07-31T06:02:30.002955+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB6665533644",
-      "product_id": "MLB6665533644",
-      "catalog_product_id": "MLB50957106",
-      "item_id": "MLB6665533644",
-      "url": "https://www.mercadolivre.com.br/p/MLB50957106?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB50957106?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "ssd nvme kingston 1tb nv3 m 2 2280 pcie 4 0 nf e cor ssd nvme m 2 2280 kingston 1tb",
-      "title": "Ssd Nvme Kingston 1tb Nv3 M.2 2280 Pcie 4.0 Nf-e Cor Ssd Nvme M.2 2280 Kingston 1tb",
-      "category": "Informática",
-      "price": 1046.83,
-      "score": 79.9,
-      "posted_ts": 1785474314,
-      "posted_at": "2026-07-31T05:05:14.775078+00:00"
     }
   ],
-  "updated_at": "2026-08-02T05:05:07.110759+00:00"
+  "updated_at": "2026-08-02T06:05:39.066806+00:00"
 }
