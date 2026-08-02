@@ -1,11 +1,11 @@
 {
-  "next_index": 15,
+  "next_index": 16,
   "last_keys": [
-    "games"
+    "supermercados"
   ],
   "last_names": [
-    "Games"
+    "Supermercados"
   ],
   "note": "Forçado para testar Supermercados no Mercado Livre.",
-  "updated_at": 1785697233
+  "updated_at": 1785700842
 }
