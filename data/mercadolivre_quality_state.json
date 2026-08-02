@@ -1,6 +1,36 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB7158074090",
+      "product_id": "MLB7158074090",
+      "catalog_product_id": "MLB38338044",
+      "item_id": "MLB7158074090",
+      "url": "https://www.mercadolivre.com.br/p/MLB38338044?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB38338044?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "liquidificador portatil mini liquidificador recarregavel usb liquidificador",
+      "title": "Liquidificador portátil, Mini liquidificador recarregável USB, Liquidificador",
+      "category": "Casa e Cozinha",
+      "price": 98.0,
+      "score": 71.0,
+      "posted_ts": 1785657858,
+      "posted_at": "2026-08-02T08:04:18.414627+00:00"
+    },
+    {
+      "key": "mercadolivre:MLB6833428488",
+      "product_id": "MLB6833428488",
+      "catalog_product_id": "MLB62888998",
+      "item_id": "MLB6833428488",
+      "url": "https://www.mercadolivre.com.br/p/MLB62888998?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB62888998?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "air fryer britania fritadeira air fryer preto",
+      "title": "Air fryer Britânia Fritadeira Air Fryer preto",
+      "category": "Casa e Cozinha",
+      "price": 329.99,
+      "score": 71.0,
+      "posted_ts": 1785657788,
+      "posted_at": "2026-08-02T08:03:08.844882+00:00"
+    },
+    {
       "key": "mercadolivre:MLB7275710400",
       "product_id": "MLB7275710400",
       "catalog_product_id": "MLB37914551",
@@ -1441,5 +1471,5 @@
       "posted_at": "2026-07-31T09:02:33.544134+00:00"
     }
   ],
-  "updated_at": "2026-08-02T07:05:21.253566+00:00"
+  "updated_at": "2026-08-02T08:04:18.414637+00:00"
 }
