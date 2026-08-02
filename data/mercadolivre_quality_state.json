@@ -1,6 +1,36 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB6908437380",
+      "product_id": "MLB6908437380",
+      "catalog_product_id": "MLB72674383",
+      "item_id": "MLB6908437380",
+      "url": "https://www.mercadolivre.com.br/p/MLB72674383?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB72674383?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "kit 7 shorts feminino modelador selene levanta bumbum cor bege tamanho m",
+      "title": "Kit 7 Shorts Feminino Modelador Selene Levanta Bumbum Cor Bege Tamanho M",
+      "category": "Moda Feminina",
+      "price": 150.09,
+      "score": 80.67,
+      "posted_ts": 1785647107,
+      "posted_at": "2026-08-02T05:05:07.110749+00:00"
+    },
+    {
+      "key": "mercadolivre:MLB5941366026",
+      "product_id": "MLB5941366026",
+      "catalog_product_id": "MLB62222654",
+      "item_id": "MLB5941366026",
+      "url": "https://www.mercadolivre.com.br/p/MLB62222654?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB62222654?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "shorts feminino sem costura loba plus size redutor tamanho xxg sortido",
+      "title": "Shorts Feminino Sem Costura Loba Plus Size Redutor Tamanho XXG Sortido",
+      "category": "Moda Feminina",
+      "price": 145.49,
+      "score": 83.54,
+      "posted_ts": 1785647036,
+      "posted_at": "2026-08-02T05:03:56.418760+00:00"
+    },
+    {
       "key": "mercadolivre:MLB3452275215",
       "product_id": "MLB3452275215",
       "catalog_product_id": "MLB19635472",
@@ -1439,37 +1469,7 @@
       "score": 79.9,
       "posted_ts": 1785474314,
       "posted_at": "2026-07-31T05:05:14.775078+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB4654205549",
-      "product_id": "MLB4654205549",
-      "catalog_product_id": "MLB47353377",
-      "item_id": "MLB4654205549",
-      "url": "https://www.mercadolivre.com.br/p/MLB47353377?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB47353377?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "roteador wifi ac 1200 2 flex",
-      "title": "Roteador Wifi Ac 1200 2 Flex",
-      "category": "Informática",
-      "price": 169.14,
-      "score": 87.74,
-      "posted_ts": 1785474250,
-      "posted_at": "2026-07-31T05:04:10.584386+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB4637318079",
-      "product_id": "MLB4637318079",
-      "catalog_product_id": "MLB42182462",
-      "item_id": "MLB4637318079",
-      "url": "https://www.mercadolivre.com.br/p/MLB42182462?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB42182462?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "hd externo portatil ssd 1tb sandisk preto",
-      "title": "Hd Externo Portátil - Ssd - 1tb - Sandisk - Preto",
-      "category": "Informática",
-      "price": 949.63,
-      "score": 95.0,
-      "posted_ts": 1785474186,
-      "posted_at": "2026-07-31T05:03:06.455278+00:00"
     }
   ],
-  "updated_at": "2026-08-02T04:06:05.426922+00:00"
+  "updated_at": "2026-08-02T05:05:07.110759+00:00"
 }
