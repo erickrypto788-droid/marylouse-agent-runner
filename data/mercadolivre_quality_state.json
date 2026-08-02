@@ -1,6 +1,51 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB4455480129",
+      "product_id": "MLB4455480129",
+      "catalog_product_id": "MLB65128982",
+      "item_id": "MLB4455480129",
+      "url": "https://www.mercadolivre.com.br/p/MLB65128982?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB65128982?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "soundbar samsung hw b400f soundbar hw b400f preto",
+      "title": "Soundbar Samsung Hw-b400f + Soundbar Hw-b400f Preto",
+      "category": "Informática",
+      "price": 2399.0,
+      "score": 72.0,
+      "posted_ts": 1785668713,
+      "posted_at": "2026-08-02T11:05:13.046886+00:00"
+    },
+    {
+      "key": "mercadolivre:MLB4455473269",
+      "product_id": "MLB4455473269",
+      "catalog_product_id": "MLB65128496",
+      "item_id": "MLB4455473269",
+      "url": "https://www.mercadolivre.com.br/p/MLB65128496?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB65128496?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "soundbar samsung hw b450f soundbar hw b400f",
+      "title": "Soundbar Samsung Hw-b450f + Soundbar Hw-b400f",
+      "category": "Informática",
+      "price": 3349.0,
+      "score": 72.0,
+      "posted_ts": 1785668648,
+      "posted_at": "2026-08-02T11:04:08.818015+00:00"
+    },
+    {
+      "key": "mercadolivre:MLB4929845785",
+      "product_id": "MLB4929845785",
+      "catalog_product_id": "MLB66915787",
+      "item_id": "MLB4929845785",
+      "url": "https://www.mercadolivre.com.br/p/MLB66915787?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB66915787?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "fone bluetooth esportivo 320mah fone sem fio fone academia lilas",
+      "title": "Fone Bluetooth Esportivo 320mah Fone Sem Fio Fone Academia Lilás",
+      "category": "Esportes",
+      "price": 48.0,
+      "score": 102.53,
+      "posted_ts": 1785668580,
+      "posted_at": "2026-08-02T11:03:00.780581+00:00"
+    },
+    {
       "key": "mercadolivre:MLB6665533644",
       "product_id": "MLB6665533644",
       "catalog_product_id": "MLB50957106",
@@ -1454,37 +1499,7 @@
       "score": 84.33,
       "posted_ts": 1785499371,
       "posted_at": "2026-07-31T12:02:51.766244+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB4902213825",
-      "product_id": "MLB4902213825",
-      "catalog_product_id": "MLB27521666",
-      "item_id": "MLB4902213825",
-      "url": "https://www.mercadolivre.com.br/p/MLB27521666?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB27521666?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "racao gato adulto matisse frango e arroz 800g",
-      "title": "Ração Gato Adulto Matisse Frango E Arroz 800g",
-      "category": "Supermercados",
-      "price": 31.5,
-      "score": 81.79,
-      "posted_ts": 1785492375,
-      "posted_at": "2026-07-31T10:06:15.355911+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB4109571517",
-      "product_id": "MLB4109571517",
-      "catalog_product_id": "MLB28523781",
-      "item_id": "MLB4109571517",
-      "url": "https://www.mercadolivre.com.br/p/MLB28523781?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB28523781?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "alimento royal canin hair skin 3kg racao gato",
-      "title": "Alimento Royal Canin Hair & Skin 3kg Ração Gato",
-      "category": "Pet",
-      "price": 264.71,
-      "score": 93.93,
-      "posted_ts": 1785492311,
-      "posted_at": "2026-07-31T10:05:11.213961+00:00"
     }
   ],
-  "updated_at": "2026-08-02T10:04:49.308442+00:00"
+  "updated_at": "2026-08-02T11:05:13.046898+00:00"
 }
