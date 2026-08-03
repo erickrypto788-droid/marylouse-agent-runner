@@ -1,6 +1,51 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB6759649010",
+      "product_id": "MLB6759649010",
+      "catalog_product_id": "MLB27552704",
+      "item_id": "MLB6759649010",
+      "url": "https://www.mercadolivre.com.br/p/MLB27552704?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB27552704?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "bicicleta ergometrica gimp bike spinning 100kg",
+      "title": "Bicicleta ergométrica Gimp Bike Spinning 100Kg",
+      "category": "Esportes",
+      "price": 785.99,
+      "score": 71.0,
+      "posted_ts": 1785783903,
+      "posted_at": "2026-08-03T19:05:03.509826+00:00"
+    },
+    {
+      "key": "mercadolivre:MLB3979242465",
+      "product_id": "MLB3979242465",
+      "catalog_product_id": "MLB42620940",
+      "item_id": "MLB3979242465",
+      "url": "https://www.mercadolivre.com.br/p/MLB42620940?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB42620940?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "prancha esteira ergometrica dream dr2110 cor preto",
+      "title": "Prancha Esteira Ergometrica Dream Dr2110 Cor Preto",
+      "category": "Esportes",
+      "price": 185.24,
+      "score": 71.0,
+      "posted_ts": 1785783839,
+      "posted_at": "2026-08-03T19:03:59.494674+00:00"
+    },
+    {
+      "key": "mercadolivre:MLB6815537068",
+      "product_id": "MLB6815537068",
+      "catalog_product_id": "MLB36405300",
+      "item_id": "MLB6815537068",
+      "url": "https://www.mercadolivre.com.br/p/MLB36405300?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB36405300?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "bike spinning ergometrica cor preto",
+      "title": "Bike Spinning Ergométrica Cor Preto",
+      "category": "Esportes",
+      "price": 1610.1,
+      "score": 84.33,
+      "posted_ts": 1785783775,
+      "posted_at": "2026-08-03T19:02:55.365462+00:00"
+    },
+    {
       "key": "mercadolivre:MLB5454690706",
       "product_id": "MLB5454690706",
       "catalog_product_id": "MLB22813112",
@@ -1454,52 +1499,7 @@
       "score": 71.0,
       "posted_ts": 1785614566,
       "posted_at": "2026-08-01T20:02:46.405619+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB7231004162",
-      "product_id": "MLB7231004162",
-      "catalog_product_id": "MLB67646385",
-      "item_id": "MLB7231004162",
-      "url": "https://www.mercadolivre.com.br/p/MLB67646385?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB67646385?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "celular preto realme 16 5g 8gb 256gb",
-      "title": "Celular preto Realme 16 5g 8gb 256gb",
-      "category": "Informática",
-      "price": 1900.0,
-      "score": 71.0,
-      "posted_ts": 1785607518,
-      "posted_at": "2026-08-01T18:05:18.950711+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB7296375422",
-      "product_id": "MLB7296375422",
-      "catalog_product_id": "MLB34729625",
-      "item_id": "MLB7296375422",
-      "url": "https://www.mercadolivre.com.br/p/MLB34729625?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB34729625?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "celular samsung galaxy a55 5g cor azul celeste",
-      "title": "Celular Samsung Galaxy A55 5g Cor Azul-celeste",
-      "category": "Informática",
-      "price": 2699.98,
-      "score": 87.0,
-      "posted_ts": 1785607454,
-      "posted_at": "2026-08-01T18:04:14.939117+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB4450293643",
-      "product_id": "MLB4450293643",
-      "catalog_product_id": "MLB29728116",
-      "item_id": "MLB4450293643",
-      "url": "https://www.mercadolivre.com.br/p/MLB29728116?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB29728116?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "xiaomi poco poco x6 5g dual sim 256gb 12gb branco",
-      "title": "Xiaomi POCO Poco X6 5G Dual SIM 256GB/12GB Branco",
-      "category": "Informática",
-      "price": 3500.0,
-      "score": 87.0,
-      "posted_ts": 1785607390,
-      "posted_at": "2026-08-01T18:03:10.845738+00:00"
     }
   ],
-  "updated_at": "2026-08-03T16:07:13.853487+00:00"
+  "updated_at": "2026-08-03T19:05:03.509838+00:00"
 }
