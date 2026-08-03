@@ -1,6 +1,36 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB4828628335",
+      "product_id": "MLB4828628335",
+      "catalog_product_id": "MLB44823770",
+      "item_id": "MLB4828628335",
+      "url": "https://www.mercadolivre.com.br/p/MLB44823770?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB44823770?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "perfume masculino amodil fonte verde perfume masculino 100ml",
+      "title": "Perfume masculino Amodil Fonte Verde Perfume masculino 100ml",
+      "category": "Beleza",
+      "price": 400.0,
+      "score": 71.0,
+      "posted_ts": 1785791041,
+      "posted_at": "2026-08-03T21:04:01.370753+00:00"
+    },
+    {
+      "key": "mercadolivre:MLB6223026490",
+      "product_id": "MLB6223026490",
+      "catalog_product_id": "MLB29263256",
+      "item_id": "MLB6223026490",
+      "url": "https://www.mercadolivre.com.br/p/MLB29263256?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB29263256?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "lizz aparelho aparador pelos eletrico navalhete profissional",
+      "title": "Lizz Aparelho Aparador Pelos Elétrico Navalhete Profissional",
+      "category": "Beleza",
+      "price": 89.9,
+      "score": 71.0,
+      "posted_ts": 1785790977,
+      "posted_at": "2026-08-03T21:02:57.207504+00:00"
+    },
+    {
       "key": "mercadolivre:MLB6759649010",
       "product_id": "MLB6759649010",
       "catalog_product_id": "MLB27552704",
@@ -1469,37 +1499,7 @@
       "score": 71.0,
       "posted_ts": 1785618259,
       "posted_at": "2026-08-01T21:04:19.001695+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB4623002845",
-      "product_id": "MLB4623002845",
-      "catalog_product_id": "MLB24839034",
-      "item_id": "MLB4623002845",
-      "url": "https://www.mercadolivre.com.br/p/MLB24839034?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB24839034?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "racao gato alimento vittamax premium especial 10 1kg peixe",
-      "title": "Ração Gato Alimento Vittamax Premium Especial 10,1kg - Peixe",
-      "category": "Pet",
-      "price": 128.0,
-      "score": 83.24,
-      "posted_ts": 1785618190,
-      "posted_at": "2026-08-01T21:03:10.418336+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB7025030702",
-      "product_id": "MLB7025030702",
-      "catalog_product_id": "MLB21775692",
-      "item_id": "MLB7025030702",
-      "url": "https://www.mercadolivre.com.br/p/MLB21775692?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB21775692?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "oximetro oximetro de pulso oxigenio coracao pediatrico para adultos",
-      "title": "Oxímetro, oxímetro de pulso, oxigênio, coração pediátrico para adultos",
-      "category": "Pet",
-      "price": 49.9,
-      "score": 71.0,
-      "posted_ts": 1785614566,
-      "posted_at": "2026-08-01T20:02:46.405619+00:00"
     }
   ],
-  "updated_at": "2026-08-03T19:05:03.509838+00:00"
+  "updated_at": "2026-08-03T21:04:01.370768+00:00"
 }
