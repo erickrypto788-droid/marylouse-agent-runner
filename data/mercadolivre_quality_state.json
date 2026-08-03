@@ -1,6 +1,21 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB4856179667",
+      "product_id": "MLB4856179667",
+      "catalog_product_id": "MLB57578486",
+      "item_id": "MLB4856179667",
+      "url": "https://www.mercadolivre.com.br/p/MLB57578486?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB57578486?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "mini impressora niimbot b1 etiqueta bluetooth cor prateado impressora etiquetas adesivas",
+      "title": "Mini Impressora Niimbot B1 etiqueta Bluetooth Cor Prateado impressora etiquetas adesivas",
+      "category": "Informática",
+      "price": 223.99,
+      "score": 122.47,
+      "posted_ts": 1785758599,
+      "posted_at": "2026-08-03T12:03:19.398067+00:00"
+    },
+    {
       "key": "mercadolivre:MLB4552727020",
       "product_id": "MLB4552727020",
       "catalog_product_id": "MLB23076913",
@@ -1424,37 +1439,7 @@
       "score": 71.0,
       "posted_ts": 1785585856,
       "posted_at": "2026-08-01T12:04:16.185644+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB6815537068",
-      "product_id": "MLB6815537068",
-      "catalog_product_id": "MLB36405300",
-      "item_id": "MLB6815537068",
-      "url": "https://www.mercadolivre.com.br/p/MLB36405300?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB36405300?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "bike spinning ergometrica cor preto",
-      "title": "Bike Spinning Ergométrica Cor Preto",
-      "category": "Esportes",
-      "price": 1610.1,
-      "score": 84.33,
-      "posted_ts": 1785585787,
-      "posted_at": "2026-08-01T12:03:07.297734+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB6512536586",
-      "product_id": "MLB6512536586",
-      "catalog_product_id": "MLB25981434",
-      "item_id": "MLB6512536586",
-      "url": "https://www.mercadolivre.com.br/p/MLB25981434?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB25981434?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "vestido feminino casual feminino guess relogio esportivo pulseira cor dourada",
-      "title": "Vestido feminino casual feminino Guess, relógio esportivo, pulseira, cor dourada",
-      "category": "Moda Feminina",
-      "price": 654.33,
-      "score": 71.0,
-      "posted_ts": 1785582256,
-      "posted_at": "2026-08-01T11:04:16.411725+00:00"
     }
   ],
-  "updated_at": "2026-08-03T11:02:44.265551+00:00"
+  "updated_at": "2026-08-03T12:03:19.398086+00:00"
 }
