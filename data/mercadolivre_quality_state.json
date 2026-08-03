@@ -1,6 +1,21 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB4552727020",
+      "product_id": "MLB4552727020",
+      "catalog_product_id": "MLB23076913",
+      "item_id": "MLB4552727020",
+      "url": "https://www.mercadolivre.com.br/p/MLB23076913?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB23076913?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "monitor bebe wifi infravermelho vision noctura intercom inteligente",
+      "title": "Monitor Bebe Wifi Infravermelho Vision Noctura Intercom Inteligente",
+      "category": "Informática",
+      "price": 1394.0,
+      "score": 71.0,
+      "posted_ts": 1785754964,
+      "posted_at": "2026-08-03T11:02:44.265537+00:00"
+    },
+    {
       "key": "mercadolivre:MLB4548036323",
       "product_id": "MLB4548036323",
       "catalog_product_id": "MLB66939007",
@@ -1439,37 +1454,7 @@
       "score": 71.0,
       "posted_ts": 1785582256,
       "posted_at": "2026-08-01T11:04:16.411725+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB4749889295",
-      "product_id": "MLB4749889295",
-      "catalog_product_id": "MLB65826128",
-      "item_id": "MLB4749889295",
-      "url": "https://www.mercadolivre.com.br/p/MLB65826128?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB65826128?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "conjunto panelas antiaderente 5 pecas antiaderente cor azul hauskraft",
-      "title": "Conjunto Panelas Antiaderente 5 Peças Antiaderente Cor Azul Hauskraft",
-      "category": "Casa e Cozinha",
-      "price": 310.44,
-      "score": 81.73,
-      "posted_ts": 1785578799,
-      "posted_at": "2026-08-01T10:06:39.283918+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB7270317740",
-      "product_id": "MLB7270317740",
-      "catalog_product_id": "MLB75817439",
-      "item_id": "MLB7270317740",
-      "url": "https://www.mercadolivre.com.br/p/MLB75817439?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB75817439?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "jogo panelas ipanema 5 pecas preto nacional",
-      "title": "Jogo Panelas Ipanema 5 Peças Preto Nacional",
-      "category": "Casa e Cozinha",
-      "price": 305.9,
-      "score": 84.22,
-      "posted_ts": 1785578731,
-      "posted_at": "2026-08-01T10:05:31.633007+00:00"
     }
   ],
-  "updated_at": "2026-08-03T10:05:00.701048+00:00"
+  "updated_at": "2026-08-03T11:02:44.265551+00:00"
 }
