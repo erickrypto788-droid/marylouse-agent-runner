@@ -1,6 +1,51 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB5653921846",
+      "product_id": "MLB5653921846",
+      "catalog_product_id": "MLB45798788",
+      "item_id": "MLB5653921846",
+      "url": "https://www.mercadolivre.com.br/p/MLB45798788?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB45798788?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "monitor 24 polegadas 1920x1200px vga hdmi 5ms rapido",
+      "title": "Monitor 24 Polegadas 1920x1200px Vga Hdmi 5ms Rápido",
+      "category": "Informática",
+      "price": 565.0,
+      "score": 71.0,
+      "posted_ts": 1785733515,
+      "posted_at": "2026-08-03T05:05:15.046553+00:00"
+    },
+    {
+      "key": "mercadolivre:MLB4353924282",
+      "product_id": "MLB4353924282",
+      "catalog_product_id": "MLB29479675",
+      "item_id": "MLB4353924282",
+      "url": "https://www.mercadolivre.com.br/p/MLB29479675?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB29479675?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "mesa computador escrivaninha notebook gamer cor branco ajl",
+      "title": "Mesa Computador Escrivaninha Notebook Gamer cor branco AJL",
+      "category": "Informática",
+      "price": 267.2,
+      "score": 71.0,
+      "posted_ts": 1785733450,
+      "posted_at": "2026-08-03T05:04:10.841190+00:00"
+    },
+    {
+      "key": "mercadolivre:MLB4967559239",
+      "product_id": "MLB4967559239",
+      "catalog_product_id": "MLB34291524",
+      "item_id": "MLB4967559239",
+      "url": "https://www.mercadolivre.com.br/p/MLB34291524?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB34291524?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "ssd nvme cuso 500gb 2300mb s cor preto",
+      "title": "Ssd Nvme Cuso 500gb 2300mb/s Cor Preto",
+      "category": "Informática",
+      "price": 550.05,
+      "score": 80.67,
+      "posted_ts": 1785733382,
+      "posted_at": "2026-08-03T05:03:02.645512+00:00"
+    },
+    {
       "key": "mercadolivre:MLB4788495479",
       "product_id": "MLB4788495479",
       "catalog_product_id": "MLB68576890",
@@ -1469,37 +1514,7 @@
       "score": 71.0,
       "posted_ts": 1785564182,
       "posted_at": "2026-08-01T06:03:02.968549+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB4552727020",
-      "product_id": "MLB4552727020",
-      "catalog_product_id": "MLB23076913",
-      "item_id": "MLB4552727020",
-      "url": "https://www.mercadolivre.com.br/p/MLB23076913?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB23076913?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "monitor bebe wifi infravermelho vision noctura intercom inteligente",
-      "title": "Monitor Bebe Wifi Infravermelho Vision Noctura Intercom Inteligente",
-      "category": "Informática",
-      "price": 1394.0,
-      "score": 71.0,
-      "posted_ts": 1785560556,
-      "posted_at": "2026-08-01T05:02:36.598888+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB4948896131",
-      "product_id": "MLB4948896131",
-      "catalog_product_id": "MLB26246485",
-      "item_id": "MLB4948896131",
-      "url": "https://www.mercadolivre.com.br/p/MLB26246485?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB26246485?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "alimento golden adultos light 15kg racao cachorro saudavel",
-      "title": "Alimento Golden Adultos Light 15kg Ração Cachorro Saudável",
-      "category": "Pet",
-      "price": 176.9,
-      "score": 87.0,
-      "posted_ts": 1785557114,
-      "posted_at": "2026-08-01T04:05:14.561160+00:00"
     }
   ],
-  "updated_at": "2026-08-03T04:05:04.004408+00:00"
+  "updated_at": "2026-08-03T05:05:15.046563+00:00"
 }
