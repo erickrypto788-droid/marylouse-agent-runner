@@ -1,6 +1,51 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB4964672159",
+      "product_id": "MLB4964672159",
+      "catalog_product_id": "MLB21909642",
+      "item_id": "MLB4964672159",
+      "url": "https://www.mercadolivre.com.br/p/MLB21909642?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB21909642?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "perfume feminino hinode eterna",
+      "title": "Perfume Feminino Hinode Eterna",
+      "category": "Beleza",
+      "price": 179.0,
+      "score": 71.0,
+      "posted_ts": 1785722702,
+      "posted_at": "2026-08-03T02:05:02.559992+00:00"
+    },
+    {
+      "key": "mercadolivre:MLB4057360873",
+      "product_id": "MLB4057360873",
+      "catalog_product_id": "MLB35049339",
+      "item_id": "MLB4057360873",
+      "url": "https://www.mercadolivre.com.br/p/MLB35049339?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB35049339?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "chapinha cabelo prancha profissional cor azul",
+      "title": "Chapinha Cabelo Prancha Profissional Cor Azul",
+      "category": "Beleza",
+      "price": 249.99,
+      "score": 71.0,
+      "posted_ts": 1785722638,
+      "posted_at": "2026-08-03T02:03:58.354452+00:00"
+    },
+    {
+      "key": "mercadolivre:MLB4362764912",
+      "product_id": "MLB4362764912",
+      "catalog_product_id": "MLB24908965",
+      "item_id": "MLB4362764912",
+      "url": "https://www.mercadolivre.com.br/p/MLB24908965?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB24908965?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "lamina aparador pelos philips bodygroom qg3379 qg3280 qg3380",
+      "title": "Lamina Aparador Pelos Philips Bodygroom Qg3379 Qg3280 Qg3380",
+      "category": "Beleza",
+      "price": 130.41,
+      "score": 102.53,
+      "posted_ts": 1785722574,
+      "posted_at": "2026-08-03T02:02:54.195049+00:00"
+    },
+    {
       "key": "mercadolivre:MLB6878473948",
       "product_id": "MLB6878473948",
       "catalog_product_id": "MLB70606708",
@@ -1439,52 +1484,7 @@
       "score": 91.47,
       "posted_ts": 1785556986,
       "posted_at": "2026-08-01T04:03:06.137354+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB6405166350",
-      "product_id": "MLB6405166350",
-      "catalog_product_id": "MLB48332910",
-      "item_id": "MLB6405166350",
-      "url": "https://www.mercadolivre.com.br/p/MLB48332910?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB48332910?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "redmi note 14s cor preto",
-      "title": "Redmi Note 14s Cor Preto",
-      "category": "Informática",
-      "price": 1639.0,
-      "score": 71.0,
-      "posted_ts": 1785546285,
-      "posted_at": "2026-08-01T01:04:45.177120+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB4944781223",
-      "product_id": "MLB4944781223",
-      "catalog_product_id": "MLB65973005",
-      "item_id": "MLB4944781223",
-      "url": "https://www.mercadolivre.com.br/p/MLB65973005?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB65973005?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "celular samsung galaxy a06 5g preto",
-      "title": "Celular Samsung Galaxy A06 5g Preto",
-      "category": "Informática",
-      "price": 1099.0,
-      "score": 87.0,
-      "posted_ts": 1785546221,
-      "posted_at": "2026-08-01T01:03:41.298224+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB4964702477",
-      "product_id": "MLB4964702477",
-      "catalog_product_id": "MLB59103184",
-      "item_id": "MLB4964702477",
-      "url": "https://www.mercadolivre.com.br/p/MLB59103184?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB59103184?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "smartphone xiaomi 15t 5g 12 12gb ram 512gb dourado",
-      "title": "Smartphone Xiaomi 15t 5g 12+12gb Ram + 512gb, Dourado",
-      "category": "Informática",
-      "price": 5399.0,
-      "score": 87.0,
-      "posted_ts": 1785546157,
-      "posted_at": "2026-08-01T01:02:37.369371+00:00"
     }
   ],
-  "updated_at": "2026-08-03T00:04:42.982699+00:00"
+  "updated_at": "2026-08-03T02:05:02.560002+00:00"
 }
