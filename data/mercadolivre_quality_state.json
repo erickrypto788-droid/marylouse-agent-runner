@@ -1,6 +1,51 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB3452275215",
+      "product_id": "MLB3452275215",
+      "catalog_product_id": "MLB19635472",
+      "item_id": "MLB3452275215",
+      "url": "https://www.mercadolivre.com.br/p/MLB19635472?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB19635472?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "air fryer gaabor air fryer ga e45a0 de 4 l cinza",
+      "title": "Air fryer Gaabor Air Fryer GA-E45A0 de 4 L cinza",
+      "category": "Casa e Cozinha",
+      "price": 239.9,
+      "score": 111.92,
+      "posted_ts": 1785845160,
+      "posted_at": "2026-08-04T12:06:00.042428+00:00"
+    },
+    {
+      "key": "mercadolivre:MLB5428097608",
+      "product_id": "MLB5428097608",
+      "catalog_product_id": "MLB39369998",
+      "item_id": "MLB5428097608",
+      "url": "https://www.mercadolivre.com.br/p/MLB39369998?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB39369998?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "rack para sala de estar rack para tv c prateleira flex cor off white",
+      "title": "Rack Para Sala De Estar Rack Para Tv C/ Prateleira Flex Cor Off-white",
+      "category": "Casa e Cozinha",
+      "price": 385.0,
+      "score": 116.15,
+      "posted_ts": 1785845096,
+      "posted_at": "2026-08-04T12:04:56.127635+00:00"
+    },
+    {
+      "key": "mercadolivre:MLB6738465128",
+      "product_id": "MLB6738465128",
+      "catalog_product_id": "MLB59413555",
+      "item_id": "MLB6738465128",
+      "url": "https://www.mercadolivre.com.br/p/MLB59413555?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB59413555?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "cadeira massagem escritorio cadeira escritorio presidente cor ambar",
+      "title": "Cadeira Massagem Escritorio Cadeira Escritorio Presidente Cor Âmbar",
+      "category": "Casa e Cozinha",
+      "price": 926.93,
+      "score": 129.06,
+      "posted_ts": 1785845032,
+      "posted_at": "2026-08-04T12:03:52.055074+00:00"
+    },
+    {
       "key": "mercadolivre:MLB7059189312",
       "product_id": "MLB7059189312",
       "catalog_product_id": "MLB38422370",
@@ -1289,52 +1334,7 @@
       "score": 93.0,
       "posted_ts": 1785682967,
       "posted_at": "2026-08-02T15:02:47.460392+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB4313106591",
-      "product_id": "MLB4313106591",
-      "catalog_product_id": "MLB56425611",
-      "item_id": "MLB4313106591",
-      "url": "https://www.mercadolivre.com.br/p/MLB56425611?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB56425611?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "smartphone xiaomi poco c85 6gb ram 128gb preto",
-      "title": "Smartphone xiaomi Poco C85 6gb ram + 128gb, Preto",
-      "category": "Informática",
-      "price": 716.5,
-      "score": 87.0,
-      "posted_ts": 1785672302,
-      "posted_at": "2026-08-02T12:05:02.698585+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB5765586272",
-      "product_id": "MLB5765586272",
-      "catalog_product_id": "MLB47326105",
-      "item_id": "MLB5765586272",
-      "url": "https://www.mercadolivre.com.br/p/MLB47326105?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB47326105?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "smartphone xiaomi redmi 9c 32gb azul",
-      "title": "Smartphone Xiaomi Redmi 9c 32gb Azul",
-      "category": "Informática",
-      "price": 999.99,
-      "score": 87.0,
-      "posted_ts": 1785672238,
-      "posted_at": "2026-08-02T12:03:58.778389+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB7238539878",
-      "product_id": "MLB7238539878",
-      "catalog_product_id": "MLB39444837",
-      "item_id": "MLB7238539878",
-      "url": "https://www.mercadolivre.com.br/p/MLB39444837?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB39444837?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "smartphone samsung galaxy s23 ultra 512gb creme",
-      "title": "Smartphone Samsung Galaxy S23 Ultra 512gb Creme",
-      "category": "Informática",
-      "price": 5999.0,
-      "score": 87.0,
-      "posted_ts": 1785672168,
-      "posted_at": "2026-08-02T12:02:48.799667+00:00"
     }
   ],
-  "updated_at": "2026-08-04T11:08:29.008649+00:00"
+  "updated_at": "2026-08-04T12:06:00.042438+00:00"
 }
