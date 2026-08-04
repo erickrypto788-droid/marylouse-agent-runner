@@ -1,6 +1,36 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB4745902149",
+      "product_id": "MLB4745902149",
+      "catalog_product_id": "MLB42833702",
+      "item_id": "MLB4745902149",
+      "url": "https://www.mercadolivre.com.br/p/MLB42833702?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB42833702?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "roteador wifi 6 dual band flt x3000",
+      "title": "Roteador Wifi 6 Dual Band Flt - X3000",
+      "category": "Informática",
+      "price": 349.0,
+      "score": 71.0,
+      "posted_ts": 1785801831,
+      "posted_at": "2026-08-04T00:03:51.677764+00:00"
+    },
+    {
+      "key": "mercadolivre:MLB7304668068",
+      "product_id": "MLB7304668068",
+      "catalog_product_id": "MLB25200799",
+      "item_id": "MLB7304668068",
+      "url": "https://www.mercadolivre.com.br/p/MLB25200799?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB25200799?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "ssd nvme 250gb pcie 4 0 nv2 kingston",
+      "title": "Ssd NVME 250gb, PCIe 4.0, NV2 Kingston",
+      "category": "Informática",
+      "price": 699.0,
+      "score": 71.0,
+      "posted_ts": 1785801767,
+      "posted_at": "2026-08-04T00:02:47.688668+00:00"
+    },
+    {
       "key": "mercadolivre:MLB6943746406",
       "product_id": "MLB6943746406",
       "catalog_product_id": "MLB70110890",
@@ -1516,5 +1546,5 @@
       "posted_at": "2026-08-02T02:07:31.803576+00:00"
     }
   ],
-  "updated_at": "2026-08-03T23:04:52.430123+00:00"
+  "updated_at": "2026-08-04T00:03:51.677778+00:00"
 }
