@@ -1,6 +1,36 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB6908437380",
+      "product_id": "MLB6908437380",
+      "catalog_product_id": "MLB72674383",
+      "item_id": "MLB6908437380",
+      "url": "https://www.mercadolivre.com.br/p/MLB72674383?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB72674383?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "kit 7 shorts feminino modelador selene levanta bumbum cor bege tamanho m",
+      "title": "Kit 7 Shorts Feminino Modelador Selene Levanta Bumbum Cor Bege Tamanho M",
+      "category": "Moda Feminina",
+      "price": 150.09,
+      "score": 80.67,
+      "posted_ts": 1785848745,
+      "posted_at": "2026-08-04T13:05:45.822158+00:00"
+    },
+    {
+      "key": "mercadolivre:MLB5941366026",
+      "product_id": "MLB5941366026",
+      "catalog_product_id": "MLB62222654",
+      "item_id": "MLB5941366026",
+      "url": "https://www.mercadolivre.com.br/p/MLB62222654?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB62222654?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "shorts feminino sem costura loba plus size redutor tamanho xxg sortido",
+      "title": "Shorts Feminino Sem Costura Loba Plus Size Redutor Tamanho XXG Sortido",
+      "category": "Moda Feminina",
+      "price": 145.49,
+      "score": 83.54,
+      "posted_ts": 1785848672,
+      "posted_at": "2026-08-04T13:04:32.708610+00:00"
+    },
+    {
       "key": "mercadolivre:MLB3452275215",
       "product_id": "MLB3452275215",
       "catalog_product_id": "MLB19635472",
@@ -1336,5 +1366,5 @@
       "posted_at": "2026-08-02T15:02:47.460392+00:00"
     }
   ],
-  "updated_at": "2026-08-04T12:06:00.042438+00:00"
+  "updated_at": "2026-08-04T13:05:45.822168+00:00"
 }
