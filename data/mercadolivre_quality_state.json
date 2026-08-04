@@ -1,6 +1,36 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB7158074090",
+      "product_id": "MLB7158074090",
+      "catalog_product_id": "MLB38338044",
+      "item_id": "MLB7158074090",
+      "url": "https://www.mercadolivre.com.br/p/MLB38338044?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB38338044?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "liquidificador portatil mini liquidificador recarregavel usb liquidificador",
+      "title": "Liquidificador portátil, Mini liquidificador recarregável USB, Liquidificador",
+      "category": "Casa e Cozinha",
+      "price": 98.0,
+      "score": 71.0,
+      "posted_ts": 1785859456,
+      "posted_at": "2026-08-04T16:04:16.686596+00:00"
+    },
+    {
+      "key": "mercadolivre:MLB6833428488",
+      "product_id": "MLB6833428488",
+      "catalog_product_id": "MLB62888998",
+      "item_id": "MLB6833428488",
+      "url": "https://www.mercadolivre.com.br/p/MLB62888998?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB62888998?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "air fryer britania fritadeira air fryer preto",
+      "title": "Air fryer Britânia Fritadeira Air Fryer preto",
+      "category": "Casa e Cozinha",
+      "price": 329.99,
+      "score": 71.0,
+      "posted_ts": 1785859392,
+      "posted_at": "2026-08-04T16:03:12.615489+00:00"
+    },
+    {
       "key": "mercadolivre:MLB7275710400",
       "product_id": "MLB7275710400",
       "catalog_product_id": "MLB37914551",
@@ -1379,37 +1409,7 @@
       "score": 92.64,
       "posted_ts": 1785686718,
       "posted_at": "2026-08-02T16:05:18.050517+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB4694661245",
-      "product_id": "MLB4694661245",
-      "catalog_product_id": "MLB67529462",
-      "item_id": "MLB4694661245",
-      "url": "https://www.mercadolivre.com.br/p/MLB67529462?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB67529462?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "comedouro elevado duplo racao gato porcelana acrilico 190ml porta racao gato comedouro rosa",
-      "title": "Comedouro Elevado Duplo Ração Gato Porcelana Acrilico 190ml Porta Racao Gato Comedouro Rosa",
-      "category": "Pet",
-      "price": 49.9,
-      "score": 99.91,
-      "posted_ts": 1785686647,
-      "posted_at": "2026-08-02T16:04:07.347809+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB4719617285",
-      "product_id": "MLB4719617285",
-      "catalog_product_id": "MLB66541712",
-      "item_id": "MLB4719617285",
-      "url": "https://www.mercadolivre.com.br/p/MLB66541712?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB66541712?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "racao gato estimacat premium adulto sabor carne 15kg",
-      "title": "Ração Gato Estimacat Premium Adulto Sabor Carne 15kg",
-      "category": "Pet",
-      "price": 267.24,
-      "score": 102.83,
-      "posted_ts": 1785686577,
-      "posted_at": "2026-08-02T16:02:57.943079+00:00"
     }
   ],
-  "updated_at": "2026-08-04T15:05:16.045925+00:00"
+  "updated_at": "2026-08-04T16:04:16.686607+00:00"
 }
