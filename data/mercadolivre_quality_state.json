@@ -1,6 +1,51 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB6827581422",
+      "product_id": "MLB6827581422",
+      "catalog_product_id": "MLB70114350",
+      "item_id": "MLB6827581422",
+      "url": "https://www.mercadolivre.com.br/p/MLB70114350?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB70114350?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "prancha esteira ergometrica kikos e600ix preto",
+      "title": "Prancha Esteira Ergometrica Kikos E600ix Preto",
+      "category": "Esportes",
+      "price": 191.28,
+      "score": 103.27,
+      "posted_ts": 1785852329,
+      "posted_at": "2026-08-04T14:05:29.522855+00:00"
+    },
+    {
+      "key": "mercadolivre:MLB7119236764",
+      "product_id": "MLB7119236764",
+      "catalog_product_id": "MLB75107533",
+      "item_id": "MLB7119236764",
+      "url": "https://www.mercadolivre.com.br/p/MLB75107533?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB75107533?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "bike spinning bicicleta 6kg wct fitness preta",
+      "title": "Bike Spinning Bicicleta 6kg Wct Fitness Preta",
+      "category": "Esportes",
+      "price": 649.0,
+      "score": 121.13,
+      "posted_ts": 1785852265,
+      "posted_at": "2026-08-04T14:04:25.388571+00:00"
+    },
+    {
+      "key": "mercadolivre:MLB6968844088",
+      "product_id": "MLB6968844088",
+      "catalog_product_id": "MLB73080390",
+      "item_id": "MLB6968844088",
+      "url": "https://www.mercadolivre.com.br/p/MLB73080390?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB73080390?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "esteira ergometrica eletrica dobravel com bluetooth tela led 14km h jmjn 127v 220v esteira ergometrica 120kg",
+      "title": "Esteira Ergométrica Elétrica Dobrável Com Bluetooth Tela Led 14km/h Jmjn 127v/220v Esteira Ergometrica 120kg",
+      "category": "Esportes",
+      "price": 1454.81,
+      "score": 136.11,
+      "posted_ts": 1785852191,
+      "posted_at": "2026-08-04T14:03:11.847345+00:00"
+    },
+    {
       "key": "mercadolivre:MLB6908437380",
       "product_id": "MLB6908437380",
       "catalog_product_id": "MLB72674383",
@@ -1366,5 +1411,5 @@
       "posted_at": "2026-08-02T15:02:47.460392+00:00"
     }
   ],
-  "updated_at": "2026-08-04T13:05:45.822168+00:00"
+  "updated_at": "2026-08-04T14:05:29.522865+00:00"
 }
