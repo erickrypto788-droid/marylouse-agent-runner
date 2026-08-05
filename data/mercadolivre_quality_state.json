@@ -1,6 +1,51 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB6878473948",
+      "product_id": "MLB6878473948",
+      "catalog_product_id": "MLB70606708",
+      "item_id": "MLB6878473948",
+      "url": "https://www.mercadolivre.com.br/p/MLB70606708?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB70606708?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "capa esteira ergometrica esteira athletic racer",
+      "title": "Capa Esteira Ergométrica Esteira Athletic Racer",
+      "category": "Esportes",
+      "price": 128.0,
+      "score": 69.0,
+      "posted_ts": 1785917124,
+      "posted_at": "2026-08-05T08:05:24.540189+00:00"
+    },
+    {
+      "key": "mercadolivre:MLB4552665179",
+      "product_id": "MLB4552665179",
+      "catalog_product_id": "MLB20818317",
+      "item_id": "MLB4552665179",
+      "url": "https://www.mercadolivre.com.br/p/MLB20818317?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB20818317?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "whey protein concentrado whey protein isolado cafeina",
+      "title": "Whey Protein Concentrado + Whey Protein Isolado + Cafeína",
+      "category": "Esportes",
+      "price": 658.0,
+      "score": 71.0,
+      "posted_ts": 1785917054,
+      "posted_at": "2026-08-05T08:04:14.660866+00:00"
+    },
+    {
+      "key": "mercadolivre:MLB5335542998",
+      "product_id": "MLB5335542998",
+      "catalog_product_id": "MLB18603556",
+      "item_id": "MLB5335542998",
+      "url": "https://www.mercadolivre.com.br/p/MLB18603556?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB18603556?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "bike spinning kikos max ks5 preto",
+      "title": "Bike Spinning Kikos Max-ks5 Preto",
+      "category": "Esportes",
+      "price": 2799.0,
+      "score": 108.84,
+      "posted_ts": 1785916985,
+      "posted_at": "2026-08-05T08:03:05.424290+00:00"
+    },
+    {
       "key": "mercadolivre:MLB7003862824",
       "product_id": "MLB7003862824",
       "catalog_product_id": "MLB74184723",
@@ -1439,37 +1484,7 @@
       "score": 91.47,
       "posted_ts": 1785751368,
       "posted_at": "2026-08-03T10:02:48.976171+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB4944781223",
-      "product_id": "MLB4944781223",
-      "catalog_product_id": "MLB65973005",
-      "item_id": "MLB4944781223",
-      "url": "https://www.mercadolivre.com.br/p/MLB65973005?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB65973005?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "celular samsung galaxy a06 5g preto",
-      "title": "Celular Samsung Galaxy A06 5g Preto",
-      "category": "Informática",
-      "price": 1099.0,
-      "score": 87.0,
-      "posted_ts": 1785740659,
-      "posted_at": "2026-08-03T07:04:19.414352+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB4500156207",
-      "product_id": "MLB4500156207",
-      "catalog_product_id": "MLB59103184",
-      "item_id": "MLB4500156207",
-      "url": "https://www.mercadolivre.com.br/p/MLB59103184?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB59103184?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "smartphone xiaomi 15t 5g 12 12gb ram 512gb dourado",
-      "title": "Smartphone Xiaomi 15t 5g 12+12gb Ram + 512gb, Dourado",
-      "category": "Informática",
-      "price": 4999.0,
-      "score": 87.0,
-      "posted_ts": 1785740590,
-      "posted_at": "2026-08-03T07:03:10.294358+00:00"
     }
   ],
-  "updated_at": "2026-08-05T06:06:27.581494+00:00"
+  "updated_at": "2026-08-05T08:05:24.540199+00:00"
 }
