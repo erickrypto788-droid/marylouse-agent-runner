@@ -1,6 +1,36 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB4552727020",
+      "product_id": "MLB4552727020",
+      "catalog_product_id": "MLB23076913",
+      "item_id": "MLB4552727020",
+      "url": "https://www.mercadolivre.com.br/p/MLB23076913?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB23076913?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "monitor bebe wifi infravermelho vision noctura intercom inteligente",
+      "title": "Monitor Bebe Wifi Infravermelho Vision Noctura Intercom Inteligente",
+      "category": "Informática",
+      "price": 1394.0,
+      "score": 71.0,
+      "posted_ts": 1785953069,
+      "posted_at": "2026-08-05T18:04:29.595856+00:00"
+    },
+    {
+      "key": "mercadolivre:MLB4928876001",
+      "product_id": "MLB4928876001",
+      "catalog_product_id": "MLB75630743",
+      "item_id": "MLB4928876001",
+      "url": "https://www.mercadolivre.com.br/p/MLB75630743?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB75630743?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "fralda geriatrica prevent care tamanho fralda geriatrica prevent care g c 50",
+      "title": "Fralda Geriatrica Prevent Care Tamanho FRALDA GERIATRICA PREVENT CARE G C/50",
+      "category": "Mãe e Bebê",
+      "price": 109.22,
+      "score": 72.0,
+      "posted_ts": 1785952998,
+      "posted_at": "2026-08-05T18:03:18.333794+00:00"
+    },
+    {
       "key": "mercadolivre:MLB6194818232",
       "product_id": "MLB6194818232",
       "catalog_product_id": "MLB32106098",
@@ -1471,5 +1501,5 @@
       "posted_at": "2026-08-03T19:02:55.365462+00:00"
     }
   ],
-  "updated_at": "2026-08-05T17:05:40.857505+00:00"
+  "updated_at": "2026-08-05T18:04:29.595867+00:00"
 }
