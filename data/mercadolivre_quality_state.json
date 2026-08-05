@@ -1,6 +1,21 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB4856179667",
+      "product_id": "MLB4856179667",
+      "catalog_product_id": "MLB57578486",
+      "item_id": "MLB4856179667",
+      "url": "https://www.mercadolivre.com.br/p/MLB57578486?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB57578486?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "mini impressora niimbot b1 etiqueta bluetooth cor prateado impressora etiquetas adesivas",
+      "title": "Mini Impressora Niimbot B1 etiqueta Bluetooth Cor Prateado impressora etiquetas adesivas",
+      "category": "Informática",
+      "price": 223.99,
+      "score": 122.47,
+      "posted_ts": 1785956622,
+      "posted_at": "2026-08-05T19:03:42.343741+00:00"
+    },
+    {
       "key": "mercadolivre:MLB4552727020",
       "product_id": "MLB4552727020",
       "catalog_product_id": "MLB23076913",
@@ -1484,22 +1499,7 @@
       "score": 71.0,
       "posted_ts": 1785783839,
       "posted_at": "2026-08-03T19:03:59.494674+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB6815537068",
-      "product_id": "MLB6815537068",
-      "catalog_product_id": "MLB36405300",
-      "item_id": "MLB6815537068",
-      "url": "https://www.mercadolivre.com.br/p/MLB36405300?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB36405300?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "bike spinning ergometrica cor preto",
-      "title": "Bike Spinning Ergométrica Cor Preto",
-      "category": "Esportes",
-      "price": 1610.1,
-      "score": 84.33,
-      "posted_ts": 1785783775,
-      "posted_at": "2026-08-03T19:02:55.365462+00:00"
     }
   ],
-  "updated_at": "2026-08-05T18:04:29.595867+00:00"
+  "updated_at": "2026-08-05T19:03:42.343755+00:00"
 }
