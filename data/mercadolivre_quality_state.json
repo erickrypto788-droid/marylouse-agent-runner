@@ -1,6 +1,51 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB4036053887",
+      "product_id": "MLB4036053887",
+      "catalog_product_id": "MLB24522367",
+      "item_id": "MLB4036053887",
+      "url": "https://www.mercadolivre.com.br/p/MLB24522367?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB24522367?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "ssd nvme asgard an4 1tb gen4",
+      "title": "SSD Nvme Asgard AN4 1tb Gen4",
+      "category": "Informática",
+      "price": 1449.9,
+      "score": 71.0,
+      "posted_ts": 1785931530,
+      "posted_at": "2026-08-05T12:05:30.831476+00:00"
+    },
+    {
+      "key": "mercadolivre:MLB5653921846",
+      "product_id": "MLB5653921846",
+      "catalog_product_id": "MLB45798788",
+      "item_id": "MLB5653921846",
+      "url": "https://www.mercadolivre.com.br/p/MLB45798788?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB45798788?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "monitor 24 polegadas 1920x1200px vga hdmi 5ms rapido",
+      "title": "Monitor 24 Polegadas 1920x1200px Vga Hdmi 5ms Rápido",
+      "category": "Informática",
+      "price": 565.0,
+      "score": 71.0,
+      "posted_ts": 1785931466,
+      "posted_at": "2026-08-05T12:04:26.813240+00:00"
+    },
+    {
+      "key": "mercadolivre:MLB4353924282",
+      "product_id": "MLB4353924282",
+      "catalog_product_id": "MLB29479675",
+      "item_id": "MLB4353924282",
+      "url": "https://www.mercadolivre.com.br/p/MLB29479675?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB29479675?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "mesa computador escrivaninha notebook gamer cor branco ajl",
+      "title": "Mesa Computador Escrivaninha Notebook Gamer cor branco AJL",
+      "category": "Informática",
+      "price": 267.2,
+      "score": 71.0,
+      "posted_ts": 1785931395,
+      "posted_at": "2026-08-05T12:03:15.016710+00:00"
+    },
+    {
       "key": "mercadolivre:MLB3699490828",
       "product_id": "MLB3699490828",
       "catalog_product_id": "MLB23649057",
@@ -1469,22 +1514,7 @@
       "score": 105.18,
       "posted_ts": 1785766080,
       "posted_at": "2026-08-03T14:08:00.936135+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB4856179667",
-      "product_id": "MLB4856179667",
-      "catalog_product_id": "MLB57578486",
-      "item_id": "MLB4856179667",
-      "url": "https://www.mercadolivre.com.br/p/MLB57578486?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB57578486?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "mini impressora niimbot b1 etiqueta bluetooth cor prateado impressora etiquetas adesivas",
-      "title": "Mini Impressora Niimbot B1 etiqueta Bluetooth Cor Prateado impressora etiquetas adesivas",
-      "category": "Informática",
-      "price": 223.99,
-      "score": 122.47,
-      "posted_ts": 1785758599,
-      "posted_at": "2026-08-03T12:03:19.398067+00:00"
     }
   ],
-  "updated_at": "2026-08-05T11:03:32.705077+00:00"
+  "updated_at": "2026-08-05T12:05:30.831489+00:00"
 }
