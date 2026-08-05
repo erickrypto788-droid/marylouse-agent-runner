@@ -1,6 +1,51 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB5454690706",
+      "product_id": "MLB5454690706",
+      "catalog_product_id": "MLB22813112",
+      "item_id": "MLB5454690706",
+      "url": "https://www.mercadolivre.com.br/p/MLB22813112?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB22813112?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "cadeira escritorio secretaria rcp preto",
+      "title": "Cadeira Escritório Secretaria Rcp Preto",
+      "category": "Casa e Cozinha",
+      "price": 247.17,
+      "score": 81.12,
+      "posted_ts": 1785971197,
+      "posted_at": "2026-08-05T23:06:37.527175+00:00"
+    },
+    {
+      "key": "mercadolivre:MLB7270317740",
+      "product_id": "MLB7270317740",
+      "catalog_product_id": "MLB75817439",
+      "item_id": "MLB7270317740",
+      "url": "https://www.mercadolivre.com.br/p/MLB75817439?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB75817439?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "jogo panelas ipanema 5 pecas preto nacional",
+      "title": "Jogo Panelas Ipanema 5 Peças Preto Nacional",
+      "category": "Casa e Cozinha",
+      "price": 305.9,
+      "score": 84.22,
+      "posted_ts": 1785971133,
+      "posted_at": "2026-08-05T23:05:33.306376+00:00"
+    },
+    {
+      "key": "mercadolivre:MLB5944892036",
+      "product_id": "MLB5944892036",
+      "catalog_product_id": "MLB47630541",
+      "item_id": "MLB5944892036",
+      "url": "https://www.mercadolivre.com.br/p/MLB47630541?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB47630541?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "jogo panelas tramontina antiaderente aluminio monaco inducao",
+      "title": "Jogo Panelas Tramontina Antiaderente Alumínio Monaco Indução",
+      "category": "Casa e Cozinha",
+      "price": 737.0,
+      "score": 87.0,
+      "posted_ts": 1785971061,
+      "posted_at": "2026-08-05T23:04:21.594531+00:00"
+    },
+    {
       "key": "mercadolivre:MLB5908953072",
       "product_id": "MLB5908953072",
       "catalog_product_id": "MLB61771425",
@@ -1514,52 +1559,7 @@
       "score": 71.0,
       "posted_ts": 1785801767,
       "posted_at": "2026-08-04T00:02:47.688668+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB6943746406",
-      "product_id": "MLB6943746406",
-      "catalog_product_id": "MLB70110890",
-      "item_id": "MLB6943746406",
-      "url": "https://www.mercadolivre.com.br/p/MLB70110890?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB70110890?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "kit ferramentas furadeira esmerilhadeira parafusadeira",
-      "title": "Kit Ferramentas Furadeira Esmerilhadeira Parafusadeira",
-      "category": "Ferramentas",
-      "price": 1449.0,
-      "score": 71.0,
-      "posted_ts": 1785798292,
-      "posted_at": "2026-08-03T23:04:52.430113+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB4754831959",
-      "product_id": "MLB4754831959",
-      "catalog_product_id": "MLB43810473",
-      "item_id": "MLB4754831959",
-      "url": "https://www.mercadolivre.com.br/p/MLB43810473?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB43810473?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "kit ferramentas informatica cor preto",
-      "title": "Kit Ferramentas Informatica Cor Preto",
-      "category": "Ferramentas",
-      "price": 142.0,
-      "score": 71.0,
-      "posted_ts": 1785798228,
-      "posted_at": "2026-08-03T23:03:48.247657+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB6574930760",
-      "product_id": "MLB6574930760",
-      "catalog_product_id": "MLB67606890",
-      "item_id": "MLB6574930760",
-      "url": "https://www.mercadolivre.com.br/p/MLB67606890?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB67606890?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "parafusadeira stanley parafusadeira ganhe bateria 20v",
-      "title": "Parafusadeira STANLEY + Parafusadeira + Ganhe Bateria 20V",
-      "category": "Ferramentas",
-      "price": 1528.0,
-      "score": 87.0,
-      "posted_ts": 1785798159,
-      "posted_at": "2026-08-03T23:02:39.131349+00:00"
     }
   ],
-  "updated_at": "2026-08-05T22:06:46.174338+00:00"
+  "updated_at": "2026-08-05T23:06:37.527185+00:00"
 }
