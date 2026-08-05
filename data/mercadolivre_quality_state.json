@@ -1,6 +1,51 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB6978080348",
+      "product_id": "MLB6978080348",
+      "catalog_product_id": "MLB46173110",
+      "item_id": "MLB6978080348",
+      "url": "https://www.mercadolivre.com.br/p/MLB46173110?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB46173110?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "impressora etiquetas monocromatica toledo prix it400m usb",
+      "title": "Impressora Etiquetas Monocromática Toledo Prix IT400M USB",
+      "category": "Informática",
+      "price": 1252.0,
+      "score": 71.0,
+      "posted_ts": 1785895515,
+      "posted_at": "2026-08-05T02:05:15.258102+00:00"
+    },
+    {
+      "key": "mercadolivre:MLB5201599262",
+      "product_id": "MLB5201599262",
+      "catalog_product_id": "MLB44215301",
+      "item_id": "MLB5201599262",
+      "url": "https://www.mercadolivre.com.br/p/MLB44215301?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB44215301?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "ribbon resina mastercorp 110x300 para impressora etiquetas bopp vinil",
+      "title": "Ribbon Resina Mastercorp 110x300 Para Impressora Etiquetas BOPP Vinil",
+      "category": "Informática",
+      "price": 638.4,
+      "score": 71.0,
+      "posted_ts": 1785895451,
+      "posted_at": "2026-08-05T02:04:11.103227+00:00"
+    },
+    {
+      "key": "mercadolivre:MLB3954286799",
+      "product_id": "MLB3954286799",
+      "catalog_product_id": "MLB39019401",
+      "item_id": "MLB3954286799",
+      "url": "https://www.mercadolivre.com.br/p/MLB39019401?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB39019401?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "impressora etiquetas logistica codigo de barras usb",
+      "title": "Impressora Etiquetas Logistica Código De Barras Usb",
+      "category": "Informática",
+      "price": 549.99,
+      "score": 97.73,
+      "posted_ts": 1785895386,
+      "posted_at": "2026-08-05T02:03:06.856223+00:00"
+    },
+    {
       "key": "mercadolivre:MLB5950245082",
       "product_id": "MLB5950245082",
       "catalog_product_id": "MLB53327330",
@@ -1319,52 +1364,7 @@
       "score": 115.18,
       "posted_ts": 1785729770,
       "posted_at": "2026-08-03T04:02:50.804351+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB4964672159",
-      "product_id": "MLB4964672159",
-      "catalog_product_id": "MLB21909642",
-      "item_id": "MLB4964672159",
-      "url": "https://www.mercadolivre.com.br/p/MLB21909642?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB21909642?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "perfume feminino hinode eterna",
-      "title": "Perfume Feminino Hinode Eterna",
-      "category": "Beleza",
-      "price": 179.0,
-      "score": 71.0,
-      "posted_ts": 1785722702,
-      "posted_at": "2026-08-03T02:05:02.559992+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB4057360873",
-      "product_id": "MLB4057360873",
-      "catalog_product_id": "MLB35049339",
-      "item_id": "MLB4057360873",
-      "url": "https://www.mercadolivre.com.br/p/MLB35049339?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB35049339?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "chapinha cabelo prancha profissional cor azul",
-      "title": "Chapinha Cabelo Prancha Profissional Cor Azul",
-      "category": "Beleza",
-      "price": 249.99,
-      "score": 71.0,
-      "posted_ts": 1785722638,
-      "posted_at": "2026-08-03T02:03:58.354452+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB4362764912",
-      "product_id": "MLB4362764912",
-      "catalog_product_id": "MLB24908965",
-      "item_id": "MLB4362764912",
-      "url": "https://www.mercadolivre.com.br/p/MLB24908965?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB24908965?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "lamina aparador pelos philips bodygroom qg3379 qg3280 qg3380",
-      "title": "Lamina Aparador Pelos Philips Bodygroom Qg3379 Qg3280 Qg3380",
-      "category": "Beleza",
-      "price": 130.41,
-      "score": 102.53,
-      "posted_ts": 1785722574,
-      "posted_at": "2026-08-03T02:02:54.195049+00:00"
     }
   ],
-  "updated_at": "2026-08-05T01:06:59.758259+00:00"
+  "updated_at": "2026-08-05T02:05:15.258113+00:00"
 }
