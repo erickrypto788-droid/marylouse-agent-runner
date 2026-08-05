@@ -1,6 +1,21 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB7150469040",
+      "product_id": "MLB7150469040",
+      "catalog_product_id": "MLB59821316",
+      "item_id": "MLB7150469040",
+      "url": "https://www.mercadolivre.com.br/p/MLB59821316?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB59821316?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "tv box rbi smart tv box 4k prosb 2000 preto 5 geracao wi fi hdmi",
+      "title": "TV Box RBI Smart TV Box 4K PROSB-2000 Preto 5ª Geração Wi-Fi HDMI",
+      "category": "Pet",
+      "price": 176.9,
+      "score": 71.0,
+      "posted_ts": 1785934958,
+      "posted_at": "2026-08-05T13:02:38.839514+00:00"
+    },
+    {
       "key": "mercadolivre:MLB4036053887",
       "product_id": "MLB4036053887",
       "catalog_product_id": "MLB24522367",
@@ -1516,5 +1531,5 @@
       "posted_at": "2026-08-03T14:08:00.936135+00:00"
     }
   ],
-  "updated_at": "2026-08-05T12:05:30.831489+00:00"
+  "updated_at": "2026-08-05T13:02:38.839524+00:00"
 }
