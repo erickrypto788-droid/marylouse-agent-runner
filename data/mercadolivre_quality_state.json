@@ -1,6 +1,51 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB6512767686",
+      "product_id": "MLB6512767686",
+      "catalog_product_id": "MLB65973005",
+      "item_id": "MLB6512767686",
+      "url": "https://www.mercadolivre.com.br/p/MLB65973005?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB65973005?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "celular samsung galaxy a06 5g preto",
+      "title": "Celular Samsung Galaxy A06 5g Preto",
+      "category": "Informática",
+      "price": 899.0,
+      "score": 87.0,
+      "posted_ts": 1785938727,
+      "posted_at": "2026-08-05T14:05:27.110943+00:00"
+    },
+    {
+      "key": "mercadolivre:MLB4500156207",
+      "product_id": "MLB4500156207",
+      "catalog_product_id": "MLB59103184",
+      "item_id": "MLB4500156207",
+      "url": "https://www.mercadolivre.com.br/p/MLB59103184?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB59103184?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "smartphone xiaomi 15t 5g 12 12gb ram 512gb dourado",
+      "title": "Smartphone Xiaomi 15t 5g 12+12gb Ram + 512gb, Dourado",
+      "category": "Informática",
+      "price": 4999.0,
+      "score": 87.0,
+      "posted_ts": 1785938662,
+      "posted_at": "2026-08-05T14:04:22.955202+00:00"
+    },
+    {
+      "key": "mercadolivre:MLB4313106591",
+      "product_id": "MLB4313106591",
+      "catalog_product_id": "MLB56425611",
+      "item_id": "MLB4313106591",
+      "url": "https://www.mercadolivre.com.br/p/MLB56425611?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB56425611?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "smartphone xiaomi poco c85 6gb ram 128gb preto",
+      "title": "Smartphone xiaomi Poco C85 6gb ram + 128gb, Preto",
+      "category": "Informática",
+      "price": 716.5,
+      "score": 87.0,
+      "posted_ts": 1785938592,
+      "posted_at": "2026-08-05T14:03:12.798235+00:00"
+    },
+    {
       "key": "mercadolivre:MLB7150469040",
       "product_id": "MLB7150469040",
       "catalog_product_id": "MLB59821316",
@@ -1531,5 +1576,5 @@
       "posted_at": "2026-08-03T14:08:00.936135+00:00"
     }
   ],
-  "updated_at": "2026-08-05T13:02:38.839524+00:00"
+  "updated_at": "2026-08-05T14:05:27.110959+00:00"
 }
