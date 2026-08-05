@@ -1,6 +1,36 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB4057360873",
+      "product_id": "MLB4057360873",
+      "catalog_product_id": "MLB35049339",
+      "item_id": "MLB4057360873",
+      "url": "https://www.mercadolivre.com.br/p/MLB35049339?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB35049339?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "chapinha cabelo prancha profissional cor azul",
+      "title": "Chapinha Cabelo Prancha Profissional Cor Azul",
+      "category": "Beleza",
+      "price": 249.99,
+      "score": 71.0,
+      "posted_ts": 1785920660,
+      "posted_at": "2026-08-05T09:04:20.153807+00:00"
+    },
+    {
+      "key": "mercadolivre:MLB4362764912",
+      "product_id": "MLB4362764912",
+      "catalog_product_id": "MLB24908965",
+      "item_id": "MLB4362764912",
+      "url": "https://www.mercadolivre.com.br/p/MLB24908965?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB24908965?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "lamina aparador pelos philips bodygroom qg3379 qg3280 qg3380",
+      "title": "Lamina Aparador Pelos Philips Bodygroom Qg3379 Qg3280 Qg3380",
+      "category": "Beleza",
+      "price": 130.41,
+      "score": 102.53,
+      "posted_ts": 1785920592,
+      "posted_at": "2026-08-05T09:03:12.031856+00:00"
+    },
+    {
       "key": "mercadolivre:MLB6878473948",
       "product_id": "MLB6878473948",
       "catalog_product_id": "MLB70606708",
@@ -1486,5 +1516,5 @@
       "posted_at": "2026-08-03T10:02:48.976171+00:00"
     }
   ],
-  "updated_at": "2026-08-05T08:05:24.540199+00:00"
+  "updated_at": "2026-08-05T09:04:20.153818+00:00"
 }
