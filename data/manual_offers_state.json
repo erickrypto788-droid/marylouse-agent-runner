@@ -35,7 +35,9 @@
     "manual-amazon-9045a7c82e62fe23",
     "manual-amazon-97ae5f0af6aae36e",
     "manual-amazon-9bd53d7a39479a9f",
+    "manual-amazon-9d340c8d429b6257",
     "manual-amazon-a0e21b9ae651f07d",
+    "manual-amazon-a512cb11be24131e",
     "manual-amazon-aad9469ce45035f1",
     "manual-amazon-b073f0ad2bdf56d6",
     "manual-amazon-b4997872e338bf7a",
@@ -45,6 +47,7 @@
     "manual-amazon-ca6aea4edbec81d2",
     "manual-amazon-cc6a5926912f12fa",
     "manual-amazon-ce8d67c3ae966ef7",
+    "manual-amazon-d02e2199d0dbb84c",
     "manual-amazon-d08869268dc0e34a",
     "manual-amazon-db26a5f8b155b39b",
     "manual-amazon-ecd5d2f9043f20b0",
@@ -91,7 +94,9 @@
     "manual-amazon-9045a7c82e62fe23",
     "manual-amazon-97ae5f0af6aae36e",
     "manual-amazon-9bd53d7a39479a9f",
+    "manual-amazon-9d340c8d429b6257",
     "manual-amazon-a0e21b9ae651f07d",
+    "manual-amazon-a512cb11be24131e",
     "manual-amazon-aad9469ce45035f1",
     "manual-amazon-b073f0ad2bdf56d6",
     "manual-amazon-b4997872e338bf7a",
@@ -101,6 +106,7 @@
     "manual-amazon-ca6aea4edbec81d2",
     "manual-amazon-cc6a5926912f12fa",
     "manual-amazon-ce8d67c3ae966ef7",
+    "manual-amazon-d02e2199d0dbb84c",
     "manual-amazon-d08869268dc0e34a",
     "manual-amazon-db26a5f8b155b39b",
     "manual-amazon-ecd5d2f9043f20b0",
@@ -111,5 +117,5 @@
     "manual-amazon-fc3cb82a8ff8efe6",
     "manual-amazon-fcc867aafad5b7eb"
   ],
-  "updated_at": "2026-08-03T18:04:44.686410+00:00"
+  "updated_at": "2026-08-06T13:53:18.153626+00:00"
 }
