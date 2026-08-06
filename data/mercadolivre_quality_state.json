@@ -1,6 +1,36 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB6908437380",
+      "product_id": "MLB6908437380",
+      "catalog_product_id": "MLB72674383",
+      "item_id": "MLB6908437380",
+      "url": "https://www.mercadolivre.com.br/p/MLB72674383?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB72674383?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "kit 7 shorts feminino modelador selene levanta bumbum cor bege tamanho m",
+      "title": "Kit 7 Shorts Feminino Modelador Selene Levanta Bumbum Cor Bege Tamanho M",
+      "category": "Moda Feminina",
+      "price": 150.09,
+      "score": 80.67,
+      "posted_ts": 1786057502,
+      "posted_at": "2026-08-06T23:05:02.868932+00:00"
+    },
+    {
+      "key": "mercadolivre:MLB5941366026",
+      "product_id": "MLB5941366026",
+      "catalog_product_id": "MLB62222654",
+      "item_id": "MLB5941366026",
+      "url": "https://www.mercadolivre.com.br/p/MLB62222654?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB62222654?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "shorts feminino sem costura loba plus size redutor tamanho xxg sortido",
+      "title": "Shorts Feminino Sem Costura Loba Plus Size Redutor Tamanho XXG Sortido",
+      "category": "Moda Feminina",
+      "price": 145.49,
+      "score": 83.54,
+      "posted_ts": 1786057438,
+      "posted_at": "2026-08-06T23:03:58.894428+00:00"
+    },
+    {
       "key": "mercadolivre:MLB3452275215",
       "product_id": "MLB3452275215",
       "catalog_product_id": "MLB19635472",
@@ -1289,37 +1319,7 @@
       "score": 77.5,
       "posted_ts": 1785884706,
       "posted_at": "2026-08-04T23:05:06.492134+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB3222635196",
-      "product_id": "MLB3222635196",
-      "catalog_product_id": "MLB21719639",
-      "item_id": "MLB3222635196",
-      "url": "https://www.mercadolivre.com.br/p/MLB21719639?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB21719639?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "bracadeira para aparelho monitor pressao digital infantil omron",
-      "title": "Braçadeira para Aparelho Monitor Pressão Digital Infantil Omron",
-      "category": "Informática",
-      "price": 124.08,
-      "score": 85.15,
-      "posted_ts": 1785884641,
-      "posted_at": "2026-08-04T23:04:01.818433+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB6632370280",
-      "product_id": "MLB6632370280",
-      "catalog_product_id": "MLB62574644",
-      "item_id": "MLB6632370280",
-      "url": "https://www.mercadolivre.com.br/p/MLB62574644?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB62574644?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "monitor de pressao arterial de braco monitor pressao arterial hc10013 muinaifte cor blanco",
-      "title": "Monitor De Pressão Arterial De Braço Monitor pressao arterial HC10013 MUINAIFTE Cor Blanco",
-      "category": "Informática",
-      "price": 94.0,
-      "score": 100.56,
-      "posted_ts": 1785884569,
-      "posted_at": "2026-08-04T23:02:49.569593+00:00"
     }
   ],
-  "updated_at": "2026-08-06T22:06:56.963669+00:00"
+  "updated_at": "2026-08-06T23:05:02.868943+00:00"
 }
