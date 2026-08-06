@@ -1,6 +1,21 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB4745902149",
+      "product_id": "MLB4745902149",
+      "catalog_product_id": "MLB42833702",
+      "item_id": "MLB4745902149",
+      "url": "https://www.mercadolivre.com.br/p/MLB42833702?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB42833702?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "roteador wifi 6 dual band flt x3000",
+      "title": "Roteador Wifi 6 Dual Band Flt - X3000",
+      "category": "Informática",
+      "price": 349.0,
+      "score": 71.0,
+      "posted_ts": 1785992562,
+      "posted_at": "2026-08-06T05:02:42.496130+00:00"
+    },
+    {
       "key": "mercadolivre:MLB4754831959",
       "product_id": "MLB4754831959",
       "catalog_product_id": "MLB43810473",
@@ -1561,5 +1576,5 @@
       "posted_at": "2026-08-04T05:02:58.912189+00:00"
     }
   ],
-  "updated_at": "2026-08-06T04:04:05.580856+00:00"
+  "updated_at": "2026-08-06T05:02:42.496142+00:00"
 }
