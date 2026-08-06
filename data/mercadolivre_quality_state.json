@@ -1,6 +1,36 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB4828628335",
+      "product_id": "MLB4828628335",
+      "catalog_product_id": "MLB44823770",
+      "item_id": "MLB4828628335",
+      "url": "https://www.mercadolivre.com.br/p/MLB44823770?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB44823770?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "perfume masculino amodil fonte verde perfume masculino 100ml",
+      "title": "Perfume masculino Amodil Fonte Verde Perfume masculino 100ml",
+      "category": "Beleza",
+      "price": 400.0,
+      "score": 71.0,
+      "posted_ts": 1785981854,
+      "posted_at": "2026-08-06T02:04:14.610710+00:00"
+    },
+    {
+      "key": "mercadolivre:MLB6223026490",
+      "product_id": "MLB6223026490",
+      "catalog_product_id": "MLB29263256",
+      "item_id": "MLB6223026490",
+      "url": "https://www.mercadolivre.com.br/p/MLB29263256?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB29263256?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "lizz aparelho aparador pelos eletrico navalhete profissional",
+      "title": "Lizz Aparelho Aparador Pelos Elétrico Navalhete Profissional",
+      "category": "Beleza",
+      "price": 89.9,
+      "score": 71.0,
+      "posted_ts": 1785981786,
+      "posted_at": "2026-08-06T02:03:06.357663+00:00"
+    },
+    {
       "key": "mercadolivre:MLB6759649010",
       "product_id": "MLB6759649010",
       "catalog_product_id": "MLB27552704",
@@ -1529,37 +1559,7 @@
       "score": 71.0,
       "posted_ts": 1785809115,
       "posted_at": "2026-08-04T02:05:15.330360+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB3885192245",
-      "product_id": "MLB3885192245",
-      "catalog_product_id": "MLB34729625",
-      "item_id": "MLB3885192245",
-      "url": "https://www.mercadolivre.com.br/p/MLB34729625?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB34729625?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "celular samsung galaxy a55 5g cor azul celeste",
-      "title": "Celular Samsung Galaxy A55 5g Cor Azul-celeste",
-      "category": "Informática",
-      "price": 3099.0,
-      "score": 87.0,
-      "posted_ts": 1785809051,
-      "posted_at": "2026-08-04T02:04:11.201435+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB4450293643",
-      "product_id": "MLB4450293643",
-      "catalog_product_id": "MLB29728116",
-      "item_id": "MLB4450293643",
-      "url": "https://www.mercadolivre.com.br/p/MLB29728116?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB29728116?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "xiaomi poco poco x6 5g dual sim 256gb 12gb branco",
-      "title": "Xiaomi POCO Poco X6 5G Dual SIM 256GB/12GB Branco",
-      "category": "Informática",
-      "price": 3500.0,
-      "score": 87.0,
-      "posted_ts": 1785808986,
-      "posted_at": "2026-08-04T02:03:06.945247+00:00"
     }
   ],
-  "updated_at": "2026-08-06T01:05:06.925412+00:00"
+  "updated_at": "2026-08-06T02:04:14.610722+00:00"
 }
