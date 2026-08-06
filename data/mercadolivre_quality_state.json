@@ -1,6 +1,36 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB4754831959",
+      "product_id": "MLB4754831959",
+      "catalog_product_id": "MLB43810473",
+      "item_id": "MLB4754831959",
+      "url": "https://www.mercadolivre.com.br/p/MLB43810473?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB43810473?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "kit ferramentas informatica cor preto",
+      "title": "Kit Ferramentas Informatica Cor Preto",
+      "category": "Ferramentas",
+      "price": 142.0,
+      "score": 71.0,
+      "posted_ts": 1785989045,
+      "posted_at": "2026-08-06T04:04:05.580846+00:00"
+    },
+    {
+      "key": "mercadolivre:MLB6574930760",
+      "product_id": "MLB6574930760",
+      "catalog_product_id": "MLB67606890",
+      "item_id": "MLB6574930760",
+      "url": "https://www.mercadolivre.com.br/p/MLB67606890?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB67606890?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "parafusadeira stanley parafusadeira ganhe bateria 20v",
+      "title": "Parafusadeira STANLEY + Parafusadeira + Ganhe Bateria 20V",
+      "category": "Ferramentas",
+      "price": 1528.0,
+      "score": 87.0,
+      "posted_ts": 1785988981,
+      "posted_at": "2026-08-06T04:03:01.391639+00:00"
+    },
+    {
       "key": "mercadolivre:MLB4828628335",
       "product_id": "MLB4828628335",
       "catalog_product_id": "MLB44823770",
@@ -1529,37 +1559,7 @@
       "score": 116.67,
       "posted_ts": 1785819778,
       "posted_at": "2026-08-04T05:02:58.912189+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB7025030702",
-      "product_id": "MLB7025030702",
-      "catalog_product_id": "MLB21775692",
-      "item_id": "MLB7025030702",
-      "url": "https://www.mercadolivre.com.br/p/MLB21775692?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB21775692?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "oximetro oximetro de pulso oxigenio coracao pediatrico para adultos",
-      "title": "Oxímetro, oxímetro de pulso, oxigênio, coração pediátrico para adultos",
-      "category": "Pet",
-      "price": 49.9,
-      "score": 71.0,
-      "posted_ts": 1785816193,
-      "posted_at": "2026-08-04T04:03:13.141303+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB7231004162",
-      "product_id": "MLB7231004162",
-      "catalog_product_id": "MLB67646385",
-      "item_id": "MLB7231004162",
-      "url": "https://www.mercadolivre.com.br/p/MLB67646385?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB67646385?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "celular preto realme 16 5g 8gb 256gb",
-      "title": "Celular preto Realme 16 5g 8gb 256gb",
-      "category": "Informática",
-      "price": 1900.0,
-      "score": 71.0,
-      "posted_ts": 1785809115,
-      "posted_at": "2026-08-04T02:05:15.330360+00:00"
     }
   ],
-  "updated_at": "2026-08-06T02:04:14.610722+00:00"
+  "updated_at": "2026-08-06T04:04:05.580856+00:00"
 }
