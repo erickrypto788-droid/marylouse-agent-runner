@@ -1,6 +1,51 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB4864941673",
+      "product_id": "MLB4864941673",
+      "catalog_product_id": "MLB51893724",
+      "item_id": "MLB4864941673",
+      "url": "https://www.mercadolivre.com.br/p/MLB51893724?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB51893724?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "baba eletronica hellobaby hb66pro monitor bebe 3 2 white",
+      "title": "Babá Eletrônica Hellobaby Hb66pro Monitor Bebê 3.2 White",
+      "category": "Informática",
+      "price": 386.56,
+      "score": 71.0,
+      "posted_ts": 1786097085,
+      "posted_at": "2026-08-07T10:04:45.983024+00:00"
+    },
+    {
+      "key": "mercadolivre:MLB4778272375",
+      "product_id": "MLB4778272375",
+      "catalog_product_id": "MLB73518090",
+      "item_id": "MLB4778272375",
+      "url": "https://www.mercadolivre.com.br/p/MLB73518090?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB73518090?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "livro tchauzinho fralda",
+      "title": "Livro Tchauzinho, Fralda",
+      "category": "Mãe e Bebê",
+      "price": 196.88,
+      "score": 72.0,
+      "posted_ts": 1786097021,
+      "posted_at": "2026-08-07T10:03:41.879659+00:00"
+    },
+    {
+      "key": "mercadolivre:MLB7284866408",
+      "product_id": "MLB7284866408",
+      "catalog_product_id": "MLB40540370",
+      "item_id": "MLB7284866408",
+      "url": "https://www.mercadolivre.com.br/p/MLB40540370?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB40540370?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "tchauzinho fralda melhoramentos",
+      "title": "Tchauzinho, Fralda! - Melhoramentos",
+      "category": "Mãe e Bebê",
+      "price": 49.09,
+      "score": 72.0,
+      "posted_ts": 1786096957,
+      "posted_at": "2026-08-07T10:02:37.755211+00:00"
+    },
+    {
       "key": "mercadolivre:MLB6491740344",
       "product_id": "MLB6491740344",
       "catalog_product_id": "MLB66943436",
@@ -1231,5 +1276,5 @@
       "posted_at": "2026-08-05T11:02:28.619471+00:00"
     }
   ],
-  "updated_at": "2026-08-07T09:04:56.375822+00:00"
+  "updated_at": "2026-08-07T10:04:45.983034+00:00"
 }
