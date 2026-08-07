@@ -1,6 +1,51 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB6978080348",
+      "product_id": "MLB6978080348",
+      "catalog_product_id": "MLB46173110",
+      "item_id": "MLB6978080348",
+      "url": "https://www.mercadolivre.com.br/p/MLB46173110?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB46173110?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "impressora etiquetas monocromatica toledo prix it400m usb",
+      "title": "Impressora Etiquetas Monocromática Toledo Prix IT400M USB",
+      "category": "Informática",
+      "price": 1177.0,
+      "score": 71.0,
+      "posted_ts": 1786100703,
+      "posted_at": "2026-08-07T11:05:03.441987+00:00"
+    },
+    {
+      "key": "mercadolivre:MLB5201599262",
+      "product_id": "MLB5201599262",
+      "catalog_product_id": "MLB44215301",
+      "item_id": "MLB5201599262",
+      "url": "https://www.mercadolivre.com.br/p/MLB44215301?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB44215301?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "ribbon resina mastercorp 110x300 para impressora etiquetas bopp vinil",
+      "title": "Ribbon Resina Mastercorp 110x300 Para Impressora Etiquetas BOPP Vinil",
+      "category": "Informática",
+      "price": 638.4,
+      "score": 71.0,
+      "posted_ts": 1786100632,
+      "posted_at": "2026-08-07T11:03:52.580905+00:00"
+    },
+    {
+      "key": "mercadolivre:MLB3954286799",
+      "product_id": "MLB3954286799",
+      "catalog_product_id": "MLB39019401",
+      "item_id": "MLB3954286799",
+      "url": "https://www.mercadolivre.com.br/p/MLB39019401?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB39019401?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "impressora etiquetas logistica codigo de barras usb",
+      "title": "Impressora Etiquetas Logistica Código De Barras Usb",
+      "category": "Informática",
+      "price": 549.99,
+      "score": 97.73,
+      "posted_ts": 1786100558,
+      "posted_at": "2026-08-07T11:02:38.658106+00:00"
+    },
+    {
       "key": "mercadolivre:MLB4864941673",
       "product_id": "MLB4864941673",
       "catalog_product_id": "MLB51893724",
@@ -1244,37 +1289,7 @@
       "score": 71.0,
       "posted_ts": 1785931395,
       "posted_at": "2026-08-05T12:03:15.016710+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB3699490828",
-      "product_id": "MLB3699490828",
-      "catalog_product_id": "MLB23649057",
-      "item_id": "MLB3699490828",
-      "url": "https://www.mercadolivre.com.br/p/MLB23649057?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB23649057?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "furadeira parafusadeira imp c parafusadeira imp dlx2336syx",
-      "title": "Furadeira Parafusadeira Imp C/ Parafusadeira Imp Dlx2336syx",
-      "category": "Ferramentas",
-      "price": 1641.71,
-      "score": 100.45,
-      "posted_ts": 1785927812,
-      "posted_at": "2026-08-05T11:03:32.705065+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB6043959478",
-      "product_id": "MLB6043959478",
-      "catalog_product_id": "MLB63064118",
-      "item_id": "MLB6043959478",
-      "url": "https://www.mercadolivre.com.br/p/MLB63064118?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB63064118?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "furadeira profissional 350w furadeira eletrica furadeira velocidade variavel furadeira para uso domestico obras construcao marcenaria diy faca voce mesmo furadeira 110v cor laranja",
-      "title": "Furadeira Profissional 350w Furadeira Elétrica Furadeira Velocidade Variável Furadeira Para Uso Doméstico / Obras/construção / Marcenaria / Diy (faça Você Mesmo) Furadeira 110v Cor Laranja",
-      "category": "Ferramentas",
-      "price": 96.99,
-      "score": 115.18,
-      "posted_ts": 1785927748,
-      "posted_at": "2026-08-05T11:02:28.619471+00:00"
     }
   ],
-  "updated_at": "2026-08-07T10:04:45.983034+00:00"
+  "updated_at": "2026-08-07T11:05:03.442001+00:00"
 }
