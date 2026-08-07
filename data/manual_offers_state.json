@@ -157,7 +157,7 @@
     "manual-amazon-fc547070a0a4e507",
     "manual-amazon-fcc867aafad5b7eb"
   ],
-  "updated_at": "2026-08-07T15:25:07.720361+00:00",
+  "updated_at": "2026-08-07T15:27:02.193601+00:00",
   "posted_ids_records": {
     "manual-amazon-9d340c8d429b6257": "2026-08-07T15:22:52.846733+00:00",
     "manual-amazon-a512cb11be24131e": "2026-08-07T15:22:53.541238+00:00",
@@ -178,7 +178,10 @@
     "manual-amazon-acd3ae9905e36d7e": "2026-08-07T15:25:05.266478+00:00",
     "manual-amazon-37198acded6b0ebc": "2026-08-07T15:25:05.804831+00:00",
     "manual-amazon-561afcd0cb8205dd": "2026-08-07T15:25:06.297598+00:00",
-    "manual-amazon-2f9d0b84e2e60a22": "2026-08-07T15:25:06.776481+00:00"
+    "manual-amazon-2f9d0b84e2e60a22": "2026-08-07T15:25:06.776481+00:00",
+    "manual-amazon-d36797adf0d5f6d8": "2026-08-07T15:26:59.363266+00:00",
+    "manual-amazon-44faa529692cc02e": "2026-08-07T15:26:59.982191+00:00",
+    "manual-amazon-217387b91a89ed12": "2026-08-07T15:27:00.605171+00:00"
   },
   "site_ids_records": {
     "manual-amazon-9d340c8d429b6257": "2026-08-07T15:23:03.737714+00:00",
@@ -200,7 +203,10 @@
     "manual-amazon-acd3ae9905e36d7e": "2026-08-07T15:25:07.720337+00:00",
     "manual-amazon-37198acded6b0ebc": "2026-08-07T15:25:07.720344+00:00",
     "manual-amazon-561afcd0cb8205dd": "2026-08-07T15:25:07.720351+00:00",
-    "manual-amazon-2f9d0b84e2e60a22": "2026-08-07T15:25:07.720358+00:00"
+    "manual-amazon-2f9d0b84e2e60a22": "2026-08-07T15:25:07.720358+00:00",
+    "manual-amazon-d36797adf0d5f6d8": "2026-08-07T15:27:02.193559+00:00",
+    "manual-amazon-44faa529692cc02e": "2026-08-07T15:27:02.193588+00:00",
+    "manual-amazon-217387b91a89ed12": "2026-08-07T15:27:02.193598+00:00"
   },
   "repost_hours": 24,
   "site_repost_hours": 24
