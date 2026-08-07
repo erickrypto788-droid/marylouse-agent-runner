@@ -395,6 +395,33 @@ def telegram_api(method, payload):
     raise last_error
 
 
+def telegram_image_candidates(image_url):
+    url = str(image_url or "").strip()
+
+    if not url:
+        return []
+
+    candidates = []
+
+    # Telegram costuma aceitar melhor JPG/PNG do que WEBP.
+    if url.lower().endswith(".webp"):
+        candidates.append(url[:-5] + ".jpg")
+        candidates.append(url[:-5] + ".png")
+
+    candidates.append(url)
+
+    # Remove duplicados mantendo ordem.
+    clean = []
+    seen = set()
+
+    for item in candidates:
+        if item and item not in seen:
+            clean.append(item)
+            seen.add(item)
+
+    return clean
+
+
 def build_caption(row):
     marketplace = row["marketplace"]
     title = row["title"]
@@ -462,18 +489,19 @@ def post_to_telegram(row):
     image_url = row.get("image_url") or ""
 
     if image_url:
-        payload = {
-            "chat_id": TELEGRAM_CHAT_ID,
-            "photo": image_url,
-            "caption": caption,
-        }
+        for candidate in telegram_image_candidates(image_url):
+            payload = {
+                "chat_id": TELEGRAM_CHAT_ID,
+                "photo": candidate,
+                "caption": caption,
+            }
 
-        try:
-            telegram_api("sendPhoto", payload)
-            print(f"[telegram-marketplace] publicado com imagem: {row['offer_id']} | {row['title']}")
-            return
-        except Exception as exc:
-            print(f"[telegram-marketplace] falha ao enviar imagem, tentando texto: {exc}")
+            try:
+                telegram_api("sendPhoto", payload)
+                print(f"[telegram-marketplace] publicado com imagem: {row['offer_id']} | {row['title']} | {candidate}")
+                return
+            except Exception as exc:
+                print(f"[telegram-marketplace] falha imagem {candidate}, tentando próxima/texto: {exc}")
 
     payload = {
         "chat_id": TELEGRAM_CHAT_ID,
