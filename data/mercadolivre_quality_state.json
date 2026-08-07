@@ -1,6 +1,36 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB7158074090",
+      "product_id": "MLB7158074090",
+      "catalog_product_id": "MLB38338044",
+      "item_id": "MLB7158074090",
+      "url": "https://www.mercadolivre.com.br/p/MLB38338044?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB38338044?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "liquidificador portatil mini liquidificador recarregavel usb liquidificador",
+      "title": "Liquidificador portátil, Mini liquidificador recarregável USB, Liquidificador",
+      "category": "Casa e Cozinha",
+      "price": 98.0,
+      "score": 71.0,
+      "posted_ts": 1786068245,
+      "posted_at": "2026-08-07T02:04:05.527311+00:00"
+    },
+    {
+      "key": "mercadolivre:MLB6833428488",
+      "product_id": "MLB6833428488",
+      "catalog_product_id": "MLB62888998",
+      "item_id": "MLB6833428488",
+      "url": "https://www.mercadolivre.com.br/p/MLB62888998?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB62888998?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "air fryer britania fritadeira air fryer preto",
+      "title": "Air fryer Britânia Fritadeira Air Fryer preto",
+      "category": "Casa e Cozinha",
+      "price": 313.49,
+      "score": 80.67,
+      "posted_ts": 1786068181,
+      "posted_at": "2026-08-07T02:03:01.163321+00:00"
+    },
+    {
       "key": "mercadolivre:MLB7275710400",
       "product_id": "MLB7275710400",
       "catalog_product_id": "MLB37914551",
@@ -1259,67 +1289,7 @@
       "score": 71.0,
       "posted_ts": 1785895451,
       "posted_at": "2026-08-05T02:04:11.103227+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB3954286799",
-      "product_id": "MLB3954286799",
-      "catalog_product_id": "MLB39019401",
-      "item_id": "MLB3954286799",
-      "url": "https://www.mercadolivre.com.br/p/MLB39019401?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB39019401?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "impressora etiquetas logistica codigo de barras usb",
-      "title": "Impressora Etiquetas Logistica Código De Barras Usb",
-      "category": "Informática",
-      "price": 549.99,
-      "score": 97.73,
-      "posted_ts": 1785895386,
-      "posted_at": "2026-08-05T02:03:06.856223+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB5950245082",
-      "product_id": "MLB5950245082",
-      "catalog_product_id": "MLB53327330",
-      "item_id": "MLB5950245082",
-      "url": "https://www.mercadolivre.com.br/p/MLB53327330?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB53327330?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "colchao para chiqueirinho berco portatil cercadinho 70x100cm amarelo",
-      "title": "Colchão Para Chiqueirinho Berço Portátil Cercadinho 70x100cm Amarelo",
-      "category": "Casa e Cozinha",
-      "price": 228.84,
-      "score": 71.0,
-      "posted_ts": 1785892019,
-      "posted_at": "2026-08-05T01:06:59.758245+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB4864941673",
-      "product_id": "MLB4864941673",
-      "catalog_product_id": "MLB51893724",
-      "item_id": "MLB4864941673",
-      "url": "https://www.mercadolivre.com.br/p/MLB51893724?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB51893724?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "baba eletronica hellobaby hb66pro monitor bebe 3 2 white",
-      "title": "Babá Eletrônica Hellobaby Hb66pro Monitor Bebê 3.2 White",
-      "category": "Informática",
-      "price": 386.56,
-      "score": 71.0,
-      "posted_ts": 1785891955,
-      "posted_at": "2026-08-05T01:05:55.699913+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB4778272375",
-      "product_id": "MLB4778272375",
-      "catalog_product_id": "MLB73518090",
-      "item_id": "MLB4778272375",
-      "url": "https://www.mercadolivre.com.br/p/MLB73518090?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB73518090?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "livro tchauzinho fralda",
-      "title": "Livro Tchauzinho, Fralda",
-      "category": "Mãe e Bebê",
-      "price": 196.88,
-      "score": 72.0,
-      "posted_ts": 1785891891,
-      "posted_at": "2026-08-05T01:04:51.721807+00:00"
     }
   ],
-  "updated_at": "2026-08-07T01:04:45.968860+00:00"
+  "updated_at": "2026-08-07T02:04:05.527321+00:00"
 }
