@@ -1,6 +1,51 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB4057360873",
+      "product_id": "MLB4057360873",
+      "catalog_product_id": "MLB35049339",
+      "item_id": "MLB4057360873",
+      "url": "https://www.mercadolivre.com.br/p/MLB35049339?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB35049339?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "chapinha cabelo prancha profissional cor azul",
+      "title": "Chapinha Cabelo Prancha Profissional Cor Azul",
+      "category": "Beleza",
+      "price": 249.99,
+      "score": 71.0,
+      "posted_ts": 1786133092,
+      "posted_at": "2026-08-07T20:04:52.775067+00:00"
+    },
+    {
+      "key": "mercadolivre:MLB4960906681",
+      "product_id": "MLB4960906681",
+      "catalog_product_id": "MLB75851983",
+      "item_id": "MLB4960906681",
+      "url": "https://www.mercadolivre.com.br/p/MLB75851983?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB75851983?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "perfume feminino ragazza 100ml",
+      "title": "Perfume Feminino Ragazza 100ml",
+      "category": "Beleza",
+      "price": 136.7,
+      "score": 80.67,
+      "posted_ts": 1786133028,
+      "posted_at": "2026-08-07T20:03:48.646673+00:00"
+    },
+    {
+      "key": "mercadolivre:MLB4362764912",
+      "product_id": "MLB4362764912",
+      "catalog_product_id": "MLB24908965",
+      "item_id": "MLB4362764912",
+      "url": "https://www.mercadolivre.com.br/p/MLB24908965?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB24908965?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "lamina aparador pelos philips bodygroom qg3379 qg3280 qg3380",
+      "title": "Lamina Aparador Pelos Philips Bodygroom Qg3379 Qg3280 Qg3380",
+      "category": "Beleza",
+      "price": 130.41,
+      "score": 102.53,
+      "posted_ts": 1786132963,
+      "posted_at": "2026-08-07T20:02:43.928652+00:00"
+    },
+    {
       "key": "mercadolivre:MLB3750406450",
       "product_id": "MLB3750406450",
       "catalog_product_id": "MLB23309729",
@@ -1336,5 +1381,5 @@
       "posted_at": "2026-08-05T21:09:47.696593+00:00"
     }
   ],
-  "updated_at": "2026-08-07T19:04:45.860070+00:00"
+  "updated_at": "2026-08-07T20:04:52.775081+00:00"
 }
