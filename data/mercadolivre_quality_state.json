@@ -1,6 +1,51 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB7275710400",
+      "product_id": "MLB7275710400",
+      "catalog_product_id": "MLB37914551",
+      "item_id": "MLB7275710400",
+      "url": "https://www.mercadolivre.com.br/p/MLB37914551?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB37914551?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "escova secadora profissional",
+      "title": "Escova Secadora Profissional",
+      "category": "Beleza",
+      "price": 89.9,
+      "score": 71.0,
+      "posted_ts": 1786064685,
+      "posted_at": "2026-08-07T01:04:45.968849+00:00"
+    },
+    {
+      "key": "mercadolivre:MLB5495982148",
+      "product_id": "MLB5495982148",
+      "catalog_product_id": "MLB51434487",
+      "item_id": "MLB5495982148",
+      "url": "https://www.mercadolivre.com.br/p/MLB51434487?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB51434487?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "barbeador costas masculino traseiro dobravel aparador pelos",
+      "title": "Barbeador Costas Masculino Traseiro Dobrável Aparador Pelos",
+      "category": "Beleza",
+      "price": 249.0,
+      "score": 110.62,
+      "posted_ts": 1786064622,
+      "posted_at": "2026-08-07T01:03:42.042026+00:00"
+    },
+    {
+      "key": "mercadolivre:MLB7116149854",
+      "product_id": "MLB7116149854",
+      "catalog_product_id": "MLB74602351",
+      "item_id": "MLB7116149854",
+      "url": "https://www.mercadolivre.com.br/p/MLB74602351?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB74602351?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "chapinha cabelo profissional prancha alisadora de cabelo chapinha para cabelo bivolt chapinha",
+      "title": "Chapinha Cabelo Profissional Prancha Alisadora De Cabelo chapinha Para Cabelo Bivolt Chapinha",
+      "category": "Beleza",
+      "price": 58.0,
+      "score": 113.67,
+      "posted_ts": 1786064558,
+      "posted_at": "2026-08-07T01:02:38.039519+00:00"
+    },
+    {
       "key": "mercadolivre:MLB6827581422",
       "product_id": "MLB6827581422",
       "catalog_product_id": "MLB70114350",
@@ -1274,37 +1319,7 @@
       "score": 72.0,
       "posted_ts": 1785891891,
       "posted_at": "2026-08-05T01:04:51.721807+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB7284866408",
-      "product_id": "MLB7284866408",
-      "catalog_product_id": "MLB40540370",
-      "item_id": "MLB7284866408",
-      "url": "https://www.mercadolivre.com.br/p/MLB40540370?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB40540370?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "tchauzinho fralda melhoramentos",
-      "title": "Tchauzinho, Fralda! - Melhoramentos",
-      "category": "Mãe e Bebê",
-      "price": 49.09,
-      "score": 72.0,
-      "posted_ts": 1785891827,
-      "posted_at": "2026-08-05T01:03:47.778013+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB4717234491",
-      "product_id": "MLB4717234491",
-      "catalog_product_id": "MLB70378425",
-      "item_id": "MLB4717234491",
-      "url": "https://www.mercadolivre.com.br/p/MLB70378425?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB70378425?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "fralda geriatrica roupa intima higifral pants 42 fralda g xg g xg",
-      "title": "Fralda Geriátrica Roupa Intima Higifral Pants 42 Fralda G/xg G/xg",
-      "category": "Mãe e Bebê",
-      "price": 158.27,
-      "score": 99.56,
-      "posted_ts": 1785891763,
-      "posted_at": "2026-08-05T01:02:43.790797+00:00"
     }
   ],
-  "updated_at": "2026-08-07T00:05:41.800625+00:00"
+  "updated_at": "2026-08-07T01:04:45.968860+00:00"
 }
