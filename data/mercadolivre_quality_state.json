@@ -1,6 +1,51 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB7003862824",
+      "product_id": "MLB7003862824",
+      "catalog_product_id": "MLB74184723",
+      "item_id": "MLB7003862824",
+      "url": "https://www.mercadolivre.com.br/p/MLB74184723?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB74184723?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "painel d rossi painel para tv para tv ate 60 cumaru de mdf mdp",
+      "title": "Painel D'Rossi Painel Para TV para TV até 60\" cumaru de mdf/mdp",
+      "category": "Casa e Cozinha",
+      "price": 671.08,
+      "score": 78.53,
+      "posted_ts": 1786122338,
+      "posted_at": "2026-08-07T17:05:38.719846+00:00"
+    },
+    {
+      "key": "mercadolivre:MLB6289671970",
+      "product_id": "MLB6289671970",
+      "catalog_product_id": "MLB65826128",
+      "item_id": "MLB6289671970",
+      "url": "https://www.mercadolivre.com.br/p/MLB65826128?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB65826128?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "conjunto panelas antiaderente 5 pecas antiaderente cor azul hauskraft",
+      "title": "Conjunto Panelas Antiaderente 5 Peças Antiaderente Cor Azul Hauskraft",
+      "category": "Casa e Cozinha",
+      "price": 387.99,
+      "score": 87.18,
+      "posted_ts": 1786122274,
+      "posted_at": "2026-08-07T17:04:34.557304+00:00"
+    },
+    {
+      "key": "mercadolivre:MLB4095236823",
+      "product_id": "MLB4095236823",
+      "catalog_product_id": "MLB32947723",
+      "item_id": "MLB4095236823",
+      "url": "https://www.mercadolivre.com.br/p/MLB32947723?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB32947723?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "conjunto panelas antiaderente tramontina 5pecas vermelho",
+      "title": "Conjunto Panelas Antiaderente Tramontina 5peças Vermelho",
+      "category": "Casa e Cozinha",
+      "price": 301.79,
+      "score": 93.24,
+      "posted_ts": 1786122210,
+      "posted_at": "2026-08-07T17:03:30.409074+00:00"
+    },
+    {
       "key": "mercadolivre:MLB6964556800",
       "product_id": "MLB6964556800",
       "catalog_product_id": "MLB73549899",
@@ -1304,37 +1349,7 @@
       "score": 87.0,
       "posted_ts": 1785949540,
       "posted_at": "2026-08-05T17:05:40.857495+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB4972469157",
-      "product_id": "MLB4972469157",
-      "catalog_product_id": "MLB76042421",
-      "item_id": "MLB4972469157",
-      "url": "https://www.mercadolivre.com.br/p/MLB76042421?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB76042421?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "comedouro dispenser de racao automatico 8l para caes gatos cor comedouro automatico azul",
-      "title": "Comedouro Dispenser De Ração Automático 8l Para Cães Gatos Cor Comedouro Automatico Azul",
-      "category": "Pet",
-      "price": 42.88,
-      "score": 91.47,
-      "posted_ts": 1785949476,
-      "posted_at": "2026-08-05T17:04:36.557557+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB4974714813",
-      "product_id": "MLB4974714813",
-      "catalog_product_id": "MLB66844874",
-      "item_id": "MLB4974714813",
-      "url": "https://www.mercadolivre.com.br/p/MLB66844874?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB66844874?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "racao gato estimacat premium filhote sabor frango 10kg",
-      "title": "Ração Gato Estimacat Premium Filhote Sabor Frango 10kg",
-      "category": "Pet",
-      "price": 253.07,
-      "score": 102.83,
-      "posted_ts": 1785949401,
-      "posted_at": "2026-08-05T17:03:21.836830+00:00"
     }
   ],
-  "updated_at": "2026-08-07T16:08:03.343319+00:00"
+  "updated_at": "2026-08-07T17:05:38.719856+00:00"
 }
