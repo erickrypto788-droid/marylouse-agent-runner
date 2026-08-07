@@ -21,6 +21,11 @@ DRY_RUN = os.getenv("DRY_RUN", "false").lower() == "true"
 
 VALID_HOURS = int(os.getenv("MANUAL_VALID_HOURS", "24"))
 
+# Permite repostar o mesmo produto depois de X horas.
+# Padrão: 24h, acompanhando a validade das ofertas Amazon.
+REPOST_HOURS = int(os.getenv("MANUAL_REPOST_HOURS", str(VALID_HOURS)))
+SITE_REPOST_HOURS = int(os.getenv("MANUAL_SITE_REPOST_HOURS", str(REPOST_HOURS)))
+
 TELEGRAM_BOT_TOKEN = os.getenv("TELEGRAM_BOT_TOKEN", "")
 TELEGRAM_CHAT_ID = os.getenv("TELEGRAM_CHAT_ID", "")
 
@@ -761,15 +766,97 @@ def publish_to_site(rows):
             time.sleep(5 * attempt)
 
 
+def _state_records_map(state, key):
+    """
+    Compatível com estado antigo e novo.
+
+    Estado antigo:
+      "posted_ids": ["id1", "id2"]
+
+    Estado novo:
+      "posted_ids": ["id1", "id2"],
+      "posted_ids_records": {
+        "id1": "2026-08-06T12:00:00+00:00"
+      }
+
+    IDs antigos sem timestamp são considerados liberados para repost,
+    porque não sabemos quando foram publicados.
+    """
+    records_key = f"{key}_records"
+    records = state.get(records_key) or {}
+
+    if isinstance(records, dict):
+        return records
+
+    # Se algum dia virar lista de objetos, também aceita.
+    if isinstance(records, list):
+        mapped = {}
+
+        for item in records:
+            if not isinstance(item, dict):
+                continue
+
+            oid = str(item.get("id") or item.get("offer_id") or "").strip()
+            when = (
+                item.get("posted_at")
+                or item.get("site_at")
+                or item.get("updated_at")
+                or item.get("created_at")
+            )
+
+            if oid and when:
+                mapped[oid] = when
+
+        return mapped
+
+    return {}
+
+
+def _last_state_dt(state, key, offer_id):
+    records = _state_records_map(state, key)
+    value = records.get(offer_id)
+
+    if not value:
+        return None
+
+    return parse_iso(value)
+
+
+def _is_due_for_repost(state, key, offer_id, hours):
+    last_dt = _last_state_dt(state, key, offer_id)
+
+    # Estado antigo não tem timestamp.
+    # Para não bloquear para sempre, libera repost.
+    if not last_dt:
+        return True
+
+    return utc_now() >= last_dt + timedelta(hours=int(hours))
+
+
+def _mark_state_posted(state, key, offer_id):
+    ids = set(state.get(key) or [])
+    ids.add(offer_id)
+    state[key] = sorted(ids)
+
+    records_key = f"{key}_records"
+    records = state.get(records_key)
+
+    if not isinstance(records, dict):
+        records = {}
+
+    records[offer_id] = iso_now()
+    state[records_key] = records
+
+
+
 def main():
     state = load_json(STATE_PATH, {"posted_ids": [], "site_ids": []})
-
-    posted_ids = set(state.get("posted_ids") or [])
-    site_ids = set(state.get("site_ids") or [])
 
     rows = read_csv_rows()
 
     print(f"[manual] ofertas válidas no CSV: {len(rows)}")
+    print(f"[manual] regra de repost Telegram: {REPOST_HOURS}h")
+    print(f"[manual] regra de repost Site: {SITE_REPOST_HOURS}h")
 
     if not rows:
         print("[manual] nenhuma oferta válida encontrada.")
@@ -783,12 +870,12 @@ def main():
 
     selected_for_telegram = [
         row for row in rows
-        if row["offer_id"] not in posted_ids
+        if _is_due_for_repost(state, "posted_ids", row["offer_id"], REPOST_HOURS)
     ][:POST_COUNT]
 
     selected_for_site = [
         row for row in rows
-        if row["offer_id"] not in site_ids
+        if _is_due_for_repost(state, "site_ids", row["offer_id"], SITE_REPOST_HOURS)
     ][:POST_COUNT]
 
     print(f"[manual] pendentes Telegram: {len(selected_for_telegram)}")
@@ -797,23 +884,25 @@ def main():
     if POST_TELEGRAM:
         for row in selected_for_telegram:
             post_to_telegram(row)
+
             if not DRY_RUN:
-                posted_ids.add(row["offer_id"])
+                _mark_state_posted(state, "posted_ids", row["offer_id"])
     else:
         print("[manual] POST_TELEGRAM=false, não vai postar no Telegram.")
 
     if PUBLISH_SITE:
         publish_to_site(selected_for_site)
+
         if not DRY_RUN:
             for row in selected_for_site:
-                site_ids.add(row["offer_id"])
+                _mark_state_posted(state, "site_ids", row["offer_id"])
     else:
         print("[manual] PUBLISH_SITE=false, não vai publicar no site.")
 
     if not DRY_RUN:
-        state["posted_ids"] = sorted(posted_ids)
-        state["site_ids"] = sorted(site_ids)
         state["updated_at"] = iso_now()
+        state["repost_hours"] = REPOST_HOURS
+        state["site_repost_hours"] = SITE_REPOST_HOURS
         save_json(STATE_PATH, state)
         print(f"[manual] estado salvo em {STATE_PATH}")
     else:
