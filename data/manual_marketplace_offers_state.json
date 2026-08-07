@@ -1,16 +1,20 @@
 {
   "posted_ids": [
+    "manual-mercado-livre-2f73703398355b28",
     "manual-shopee-911955dd0b1aaff5"
   ],
   "site_ids": [
+    "manual-mercado-livre-2f73703398355b28",
     "manual-shopee-911955dd0b1aaff5"
   ],
   "posted_ids_records": {
-    "manual-shopee-911955dd0b1aaff5": "2026-08-07T17:39:52.560817+00:00"
+    "manual-shopee-911955dd0b1aaff5": "2026-08-07T17:39:52.560817+00:00",
+    "manual-mercado-livre-2f73703398355b28": "2026-08-07T17:47:02.443150+00:00"
   },
   "site_ids_records": {
-    "manual-shopee-911955dd0b1aaff5": "2026-08-07T17:39:53.855292+00:00"
+    "manual-shopee-911955dd0b1aaff5": "2026-08-07T17:39:53.855292+00:00",
+    "manual-mercado-livre-2f73703398355b28": "2026-08-07T17:47:03.968924+00:00"
   },
-  "updated_at": "2026-08-07T17:39:53.855309+00:00",
+  "updated_at": "2026-08-07T17:47:03.968944+00:00",
   "repost_hours": 24
 }
