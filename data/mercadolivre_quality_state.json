@@ -1,6 +1,51 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB4944781223",
+      "product_id": "MLB4944781223",
+      "catalog_product_id": "MLB65973005",
+      "item_id": "MLB4944781223",
+      "url": "https://www.mercadolivre.com.br/p/MLB65973005?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB65973005?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "celular samsung galaxy a06 5g preto",
+      "title": "Celular Samsung Galaxy A06 5g Preto",
+      "category": "Informática",
+      "price": 1099.0,
+      "score": 87.0,
+      "posted_ts": 1786151084,
+      "posted_at": "2026-08-08T01:04:44.502422+00:00"
+    },
+    {
+      "key": "mercadolivre:MLB4866666683",
+      "product_id": "MLB4866666683",
+      "catalog_product_id": "MLB59103594",
+      "item_id": "MLB4866666683",
+      "url": "https://www.mercadolivre.com.br/p/MLB59103594?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB59103594?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "smartphone xiaomi 15t 5g 12 12gb ram 512gb cinza",
+      "title": "Smartphone Xiaomi 15t 5g 12+12gb Ram + 512gb, Cinza",
+      "category": "Informática",
+      "price": 4579.0,
+      "score": 87.0,
+      "posted_ts": 1786151020,
+      "posted_at": "2026-08-08T01:03:40.489764+00:00"
+    },
+    {
+      "key": "mercadolivre:MLB4313106591",
+      "product_id": "MLB4313106591",
+      "catalog_product_id": "MLB56425611",
+      "item_id": "MLB4313106591",
+      "url": "https://www.mercadolivre.com.br/p/MLB56425611?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB56425611?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "smartphone xiaomi poco c85 6gb ram 128gb preto",
+      "title": "Smartphone xiaomi Poco C85 6gb ram + 128gb, Preto",
+      "category": "Informática",
+      "price": 716.5,
+      "score": 87.0,
+      "posted_ts": 1786150948,
+      "posted_at": "2026-08-08T01:02:28.630395+00:00"
+    },
+    {
       "key": "mercadolivre:MLB7150469040",
       "product_id": "MLB7150469040",
       "catalog_product_id": "MLB59821316",
@@ -1304,37 +1349,7 @@
       "score": 71.0,
       "posted_ts": 1785978306,
       "posted_at": "2026-08-06T01:05:06.925401+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB3979242465",
-      "product_id": "MLB3979242465",
-      "catalog_product_id": "MLB42620940",
-      "item_id": "MLB3979242465",
-      "url": "https://www.mercadolivre.com.br/p/MLB42620940?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB42620940?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "prancha esteira ergometrica dream dr2110 cor preto",
-      "title": "Prancha Esteira Ergometrica Dream Dr2110 Cor Preto",
-      "category": "Esportes",
-      "price": 185.24,
-      "score": 71.0,
-      "posted_ts": 1785978242,
-      "posted_at": "2026-08-06T01:04:02.698485+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB6815537068",
-      "product_id": "MLB6815537068",
-      "catalog_product_id": "MLB36405300",
-      "item_id": "MLB6815537068",
-      "url": "https://www.mercadolivre.com.br/p/MLB36405300?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB36405300?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "bike spinning ergometrica cor preto",
-      "title": "Bike Spinning Ergométrica Cor Preto",
-      "category": "Esportes",
-      "price": 1610.1,
-      "score": 84.33,
-      "posted_ts": 1785978178,
-      "posted_at": "2026-08-06T01:02:58.535824+00:00"
     }
   ],
-  "updated_at": "2026-08-08T00:02:44.153528+00:00"
+  "updated_at": "2026-08-08T01:04:44.502433+00:00"
 }
