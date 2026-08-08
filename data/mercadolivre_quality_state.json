@@ -1,6 +1,21 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB4552727020",
+      "product_id": "MLB4552727020",
+      "catalog_product_id": "MLB23076913",
+      "item_id": "MLB4552727020",
+      "url": "https://www.mercadolivre.com.br/p/MLB23076913?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB23076913?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "monitor bebe wifi infravermelho vision noctura intercom inteligente",
+      "title": "Monitor Bebe Wifi Infravermelho Vision Noctura Intercom Inteligente",
+      "category": "Informática",
+      "price": 1394.0,
+      "score": 71.0,
+      "posted_ts": 1786165350,
+      "posted_at": "2026-08-08T05:02:30.973467+00:00"
+    },
+    {
       "key": "mercadolivre:MLB6555948878",
       "product_id": "MLB6555948878",
       "catalog_product_id": "MLB22588098",
@@ -1351,5 +1366,5 @@
       "posted_at": "2026-08-06T05:02:42.496130+00:00"
     }
   ],
-  "updated_at": "2026-08-08T04:04:30.422706+00:00"
+  "updated_at": "2026-08-08T05:02:30.973477+00:00"
 }
