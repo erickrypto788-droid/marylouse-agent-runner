@@ -1,6 +1,51 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB5355035490",
+      "product_id": "MLB5355035490",
+      "catalog_product_id": "MLB48409016",
+      "item_id": "MLB5355035490",
+      "url": "https://www.mercadolivre.com.br/p/MLB48409016?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB48409016?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "cama box solteiro colchao molas ensacadas orthoflex memor",
+      "title": "Cama Box Solteiro: Colchão Molas Ensacadas Orthoflex Memor",
+      "category": "Casa e Cozinha",
+      "price": 1262.53,
+      "score": 65.67,
+      "posted_ts": 1786183499,
+      "posted_at": "2026-08-08T10:04:59.512559+00:00"
+    },
+    {
+      "key": "mercadolivre:MLB6884302164",
+      "product_id": "MLB6884302164",
+      "catalog_product_id": "MLB70627275",
+      "item_id": "MLB6884302164",
+      "url": "https://www.mercadolivre.com.br/p/MLB70627275?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB70627275?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "rack yescasa rack para tv ate 70 jatoba terroso de mdp",
+      "title": "Rack Yescasa Rack para TV até 70\" jatoba terroso de mdp",
+      "category": "Casa e Cozinha",
+      "price": 855.87,
+      "score": 66.94,
+      "posted_ts": 1786183434,
+      "posted_at": "2026-08-08T10:03:54.923244+00:00"
+    },
+    {
+      "key": "mercadolivre:MLB6582939094",
+      "product_id": "MLB6582939094",
+      "catalog_product_id": "MLB67685128",
+      "item_id": "MLB6582939094",
+      "url": "https://www.mercadolivre.com.br/p/MLB67685128?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB67685128?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "jogo panelas grandes conjunto cacarolas 40cm 2 un aluminio",
+      "title": "Jogo Panelas Grandes Conjunto Caçarolas 40cm - 2 Un Alumínio",
+      "category": "Casa e Cozinha",
+      "price": 397.61,
+      "score": 71.0,
+      "posted_ts": 1786183364,
+      "posted_at": "2026-08-08T10:02:44.466504+00:00"
+    },
+    {
       "key": "mercadolivre:MLB7277437264",
       "product_id": "MLB7277437264",
       "catalog_product_id": "MLB75880795",
@@ -1411,5 +1456,5 @@
       "posted_at": "2026-08-06T10:25:26.836588+00:00"
     }
   ],
-  "updated_at": "2026-08-08T09:03:59.449792+00:00"
+  "updated_at": "2026-08-08T10:04:59.512570+00:00"
 }
