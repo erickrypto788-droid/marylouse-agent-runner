@@ -1,6 +1,51 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB4828628335",
+      "product_id": "MLB4828628335",
+      "catalog_product_id": "MLB44823770",
+      "item_id": "MLB4828628335",
+      "url": "https://www.mercadolivre.com.br/p/MLB44823770?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB44823770?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "perfume masculino amodil fonte verde perfume masculino 100ml",
+      "title": "Perfume masculino Amodil Fonte Verde Perfume masculino 100ml",
+      "category": "Beleza",
+      "price": 400.0,
+      "score": 71.0,
+      "posted_ts": 1786194285,
+      "posted_at": "2026-08-08T13:04:45.477234+00:00"
+    },
+    {
+      "key": "mercadolivre:MLB4473728059",
+      "product_id": "MLB4473728059",
+      "catalog_product_id": "MLB23181287",
+      "item_id": "MLB4473728059",
+      "url": "https://www.mercadolivre.com.br/p/MLB23181287?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB23181287?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "perfume feminino grace gourmand",
+      "title": "Perfume Feminino Grace Gourmand",
+      "category": "Beleza",
+      "price": 139.9,
+      "score": 71.0,
+      "posted_ts": 1786194221,
+      "posted_at": "2026-08-08T13:03:41.354684+00:00"
+    },
+    {
+      "key": "mercadolivre:MLB6223026490",
+      "product_id": "MLB6223026490",
+      "catalog_product_id": "MLB29263256",
+      "item_id": "MLB6223026490",
+      "url": "https://www.mercadolivre.com.br/p/MLB29263256?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB29263256?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "lizz aparelho aparador pelos eletrico navalhete profissional",
+      "title": "Lizz Aparelho Aparador Pelos Elétrico Navalhete Profissional",
+      "category": "Beleza",
+      "price": 89.9,
+      "score": 71.0,
+      "posted_ts": 1786194156,
+      "posted_at": "2026-08-08T13:02:36.967987+00:00"
+    },
+    {
       "key": "mercadolivre:MLB6878473948",
       "product_id": "MLB6878473948",
       "catalog_product_id": "MLB70606708",
@@ -1456,5 +1501,5 @@
       "posted_at": "2026-08-06T14:09:44.182993+00:00"
     }
   ],
-  "updated_at": "2026-08-08T12:04:36.777222+00:00"
+  "updated_at": "2026-08-08T13:04:45.477243+00:00"
 }
