@@ -1,6 +1,51 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB6555948878",
+      "product_id": "MLB6555948878",
+      "catalog_product_id": "MLB22588098",
+      "item_id": "MLB6555948878",
+      "url": "https://www.mercadolivre.com.br/p/MLB22588098?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB22588098?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "racao gato castrado frango 12 anos 500g premier",
+      "title": "Ração Gato Castrado Frango +12 Anos 500g Premier",
+      "category": "Pet",
+      "price": 41.36,
+      "score": 87.0,
+      "posted_ts": 1786161870,
+      "posted_at": "2026-08-08T04:04:30.422695+00:00"
+    },
+    {
+      "key": "mercadolivre:MLB6194818232",
+      "product_id": "MLB6194818232",
+      "catalog_product_id": "MLB32106098",
+      "item_id": "MLB6194818232",
+      "url": "https://www.mercadolivre.com.br/p/MLB32106098?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB32106098?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "racao premier pet vitta natural racao cachorro adulto 15k",
+      "title": "Ração Premier Pet Vitta Natural Ração Cachorro Adulto 15k",
+      "category": "Pet",
+      "price": 131.99,
+      "score": 87.0,
+      "posted_ts": 1786161805,
+      "posted_at": "2026-08-08T04:03:25.766428+00:00"
+    },
+    {
+      "key": "mercadolivre:MLB7304556746",
+      "product_id": "MLB7304556746",
+      "catalog_product_id": "MLB76168566",
+      "item_id": "MLB7304556746",
+      "url": "https://www.mercadolivre.com.br/p/MLB76168566?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB76168566?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "comedouro dispenser de racao automatico 8l para caes gatos cor comedouro automatico vermelho",
+      "title": "Comedouro Dispenser De Ração Automático 8l Para Cães Gatos Cor Comedouro Automatico Vermelho",
+      "category": "Pet",
+      "price": 42.88,
+      "score": 91.47,
+      "posted_ts": 1786161741,
+      "posted_at": "2026-08-08T04:02:21.743008+00:00"
+    },
+    {
       "key": "mercadolivre:MLB7025030702",
       "product_id": "MLB7025030702",
       "catalog_product_id": "MLB21775692",
@@ -1304,37 +1349,7 @@
       "score": 71.0,
       "posted_ts": 1785992562,
       "posted_at": "2026-08-06T05:02:42.496130+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB4754831959",
-      "product_id": "MLB4754831959",
-      "catalog_product_id": "MLB43810473",
-      "item_id": "MLB4754831959",
-      "url": "https://www.mercadolivre.com.br/p/MLB43810473?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB43810473?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "kit ferramentas informatica cor preto",
-      "title": "Kit Ferramentas Informatica Cor Preto",
-      "category": "Ferramentas",
-      "price": 142.0,
-      "score": 71.0,
-      "posted_ts": 1785989045,
-      "posted_at": "2026-08-06T04:04:05.580846+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB6574930760",
-      "product_id": "MLB6574930760",
-      "catalog_product_id": "MLB67606890",
-      "item_id": "MLB6574930760",
-      "url": "https://www.mercadolivre.com.br/p/MLB67606890?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB67606890?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "parafusadeira stanley parafusadeira ganhe bateria 20v",
-      "title": "Parafusadeira STANLEY + Parafusadeira + Ganhe Bateria 20V",
-      "category": "Ferramentas",
-      "price": 1528.0,
-      "score": 87.0,
-      "posted_ts": 1785988981,
-      "posted_at": "2026-08-06T04:03:01.391639+00:00"
     }
   ],
-  "updated_at": "2026-08-08T03:03:33.419365+00:00"
+  "updated_at": "2026-08-08T04:04:30.422706+00:00"
 }
