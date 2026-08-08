@@ -1,6 +1,36 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB7025030702",
+      "product_id": "MLB7025030702",
+      "catalog_product_id": "MLB21775692",
+      "item_id": "MLB7025030702",
+      "url": "https://www.mercadolivre.com.br/p/MLB21775692?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB21775692?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "oximetro oximetro de pulso oxigenio coracao pediatrico para adultos",
+      "title": "Oxímetro, oxímetro de pulso, oxigênio, coração pediátrico para adultos",
+      "category": "Pet",
+      "price": 49.9,
+      "score": 71.0,
+      "posted_ts": 1786158213,
+      "posted_at": "2026-08-08T03:03:33.419353+00:00"
+    },
+    {
+      "key": "mercadolivre:MLB3001466030",
+      "product_id": "MLB3001466030",
+      "catalog_product_id": "MLB22958206",
+      "item_id": "MLB3001466030",
+      "url": "https://www.mercadolivre.com.br/p/MLB22958206?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB22958206?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "aparelho monitor pressao arterial portatil pulso omron",
+      "title": "Aparelho Monitor Pressão Arterial Portátil Pulso Omron",
+      "category": "Informática",
+      "price": 180.0,
+      "score": 71.0,
+      "posted_ts": 1786158146,
+      "posted_at": "2026-08-08T03:02:26.076121+00:00"
+    },
+    {
       "key": "mercadolivre:MLB4944781223",
       "product_id": "MLB4944781223",
       "catalog_product_id": "MLB65973005",
@@ -1304,52 +1334,7 @@
       "score": 87.0,
       "posted_ts": 1785988981,
       "posted_at": "2026-08-06T04:03:01.391639+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB4828628335",
-      "product_id": "MLB4828628335",
-      "catalog_product_id": "MLB44823770",
-      "item_id": "MLB4828628335",
-      "url": "https://www.mercadolivre.com.br/p/MLB44823770?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB44823770?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "perfume masculino amodil fonte verde perfume masculino 100ml",
-      "title": "Perfume masculino Amodil Fonte Verde Perfume masculino 100ml",
-      "category": "Beleza",
-      "price": 400.0,
-      "score": 71.0,
-      "posted_ts": 1785981854,
-      "posted_at": "2026-08-06T02:04:14.610710+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB6223026490",
-      "product_id": "MLB6223026490",
-      "catalog_product_id": "MLB29263256",
-      "item_id": "MLB6223026490",
-      "url": "https://www.mercadolivre.com.br/p/MLB29263256?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB29263256?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "lizz aparelho aparador pelos eletrico navalhete profissional",
-      "title": "Lizz Aparelho Aparador Pelos Elétrico Navalhete Profissional",
-      "category": "Beleza",
-      "price": 89.9,
-      "score": 71.0,
-      "posted_ts": 1785981786,
-      "posted_at": "2026-08-06T02:03:06.357663+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB6759649010",
-      "product_id": "MLB6759649010",
-      "catalog_product_id": "MLB27552704",
-      "item_id": "MLB6759649010",
-      "url": "https://www.mercadolivre.com.br/p/MLB27552704?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB27552704?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "bicicleta ergometrica gimp bike spinning 100kg",
-      "title": "Bicicleta ergométrica Gimp Bike Spinning 100Kg",
-      "category": "Esportes",
-      "price": 785.99,
-      "score": 71.0,
-      "posted_ts": 1785978306,
-      "posted_at": "2026-08-06T01:05:06.925401+00:00"
     }
   ],
-  "updated_at": "2026-08-08T01:04:44.502433+00:00"
+  "updated_at": "2026-08-08T03:03:33.419365+00:00"
 }
