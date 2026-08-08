@@ -1,6 +1,36 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB7277437264",
+      "product_id": "MLB7277437264",
+      "catalog_product_id": "MLB75880795",
+      "item_id": "MLB7277437264",
+      "url": "https://www.mercadolivre.com.br/p/MLB75880795?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB75880795?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "10 pcs perola strass broche pinos para camisa feminina botoe",
+      "title": "10 Pçs Pérola Strass Broche Pinos Para Camisa Feminina Botõe",
+      "category": "Moda Feminina",
+      "price": 27.0,
+      "score": 72.62,
+      "posted_ts": 1786179839,
+      "posted_at": "2026-08-08T09:03:59.449782+00:00"
+    },
+    {
+      "key": "mercadolivre:MLB5954684564",
+      "product_id": "MLB5954684564",
+      "catalog_product_id": "MLB62376769",
+      "item_id": "MLB5954684564",
+      "url": "https://www.mercadolivre.com.br/p/MLB62376769?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB62376769?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "dna09 perfume 2 1 2 top feminino refil 100ml",
+      "title": "Dna09- Perfume 2.1.2 Top Feminino - Refil 100ml",
+      "category": "Moda Feminina",
+      "price": 38.35,
+      "score": 80.17,
+      "posted_ts": 1786179771,
+      "posted_at": "2026-08-08T09:02:51.243989+00:00"
+    },
+    {
       "key": "mercadolivre:MLB5827152542",
       "product_id": "MLB5827152542",
       "catalog_product_id": "MLB60416491",
@@ -1381,5 +1411,5 @@
       "posted_at": "2026-08-06T10:25:26.836588+00:00"
     }
   ],
-  "updated_at": "2026-08-08T08:10:48.691932+00:00"
+  "updated_at": "2026-08-08T09:03:59.449792+00:00"
 }
