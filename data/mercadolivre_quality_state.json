@@ -1,6 +1,51 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB6878473948",
+      "product_id": "MLB6878473948",
+      "catalog_product_id": "MLB70606708",
+      "item_id": "MLB6878473948",
+      "url": "https://www.mercadolivre.com.br/p/MLB70606708?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB70606708?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "capa esteira ergometrica esteira athletic racer",
+      "title": "Capa Esteira Ergométrica Esteira Athletic Racer",
+      "category": "Esportes",
+      "price": 128.0,
+      "score": 69.0,
+      "posted_ts": 1786190676,
+      "posted_at": "2026-08-08T12:04:36.777208+00:00"
+    },
+    {
+      "key": "mercadolivre:MLB6759649010",
+      "product_id": "MLB6759649010",
+      "catalog_product_id": "MLB27552704",
+      "item_id": "MLB6759649010",
+      "url": "https://www.mercadolivre.com.br/p/MLB27552704?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB27552704?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "bicicleta ergometrica gimp bike spinning 100kg",
+      "title": "Bicicleta ergométrica Gimp Bike Spinning 100Kg",
+      "category": "Esportes",
+      "price": 785.99,
+      "score": 71.0,
+      "posted_ts": 1786190612,
+      "posted_at": "2026-08-08T12:03:32.815172+00:00"
+    },
+    {
+      "key": "mercadolivre:MLB6815537068",
+      "product_id": "MLB6815537068",
+      "catalog_product_id": "MLB36405300",
+      "item_id": "MLB6815537068",
+      "url": "https://www.mercadolivre.com.br/p/MLB36405300?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB36405300?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "bike spinning ergometrica cor preto",
+      "title": "Bike Spinning Ergométrica Cor Preto",
+      "category": "Esportes",
+      "price": 1610.1,
+      "score": 84.33,
+      "posted_ts": 1786190548,
+      "posted_at": "2026-08-08T12:02:28.787768+00:00"
+    },
+    {
       "key": "mercadolivre:MLB5355035490",
       "product_id": "MLB5355035490",
       "catalog_product_id": "MLB48409016",
@@ -1409,52 +1454,7 @@
       "score": 84.87,
       "posted_ts": 1786025384,
       "posted_at": "2026-08-06T14:09:44.182993+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB7227246962",
-      "product_id": "MLB7227246962",
-      "catalog_product_id": "MLB22674743",
-      "item_id": "MLB7227246962",
-      "url": "https://www.mercadolivre.com.br/p/MLB22674743?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB22674743?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "racao cachorro adulto quatree gourmet sem corante 15kg",
-      "title": "Ração Cachorro Adulto Quatree Gourmet Sem Corante 15kg",
-      "category": "Pet",
-      "price": 138.0,
-      "score": 71.0,
-      "posted_ts": 1786012054,
-      "posted_at": "2026-08-06T10:27:34.820726+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB7292809720",
-      "product_id": "MLB7292809720",
-      "catalog_product_id": "MLB40063953",
-      "item_id": "MLB7292809720",
-      "url": "https://www.mercadolivre.com.br/p/MLB40063953?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB40063953?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "racao cachorro vittamax gold alimento premium especial 10 1k",
-      "title": "Ração Cachorro Vittamax Gold Alimento Premium Especial 10,1k",
-      "category": "Pet",
-      "price": 129.0,
-      "score": 71.0,
-      "posted_ts": 1786011990,
-      "posted_at": "2026-08-06T10:26:30.843969+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB4871337061",
-      "product_id": "MLB4871337061",
-      "catalog_product_id": "MLB36069603",
-      "item_id": "MLB4871337061",
-      "url": "https://www.mercadolivre.com.br/p/MLB36069603?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB36069603?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "quatree gourmet racao cachorro filhotes premium 20kg",
-      "title": "Quatree gourmet ração cachorro filhotes Premium 20kg",
-      "category": "Pet",
-      "price": 243.0,
-      "score": 71.0,
-      "posted_ts": 1786011926,
-      "posted_at": "2026-08-06T10:25:26.836588+00:00"
     }
   ],
-  "updated_at": "2026-08-08T10:04:59.512570+00:00"
+  "updated_at": "2026-08-08T12:04:36.777222+00:00"
 }
