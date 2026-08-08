@@ -1,6 +1,21 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB4856179667",
+      "product_id": "MLB4856179667",
+      "catalog_product_id": "MLB57578486",
+      "item_id": "MLB4856179667",
+      "url": "https://www.mercadolivre.com.br/p/MLB57578486?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB57578486?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "mini impressora niimbot b1 etiqueta bluetooth cor prateado impressora etiquetas adesivas",
+      "title": "Mini Impressora Niimbot B1 etiqueta Bluetooth Cor Prateado impressora etiquetas adesivas",
+      "category": "Informática",
+      "price": 223.99,
+      "score": 122.47,
+      "posted_ts": 1786168956,
+      "posted_at": "2026-08-08T06:02:36.785830+00:00"
+    },
+    {
       "key": "mercadolivre:MLB4552727020",
       "product_id": "MLB4552727020",
       "catalog_product_id": "MLB23076913",
@@ -1349,22 +1364,7 @@
       "score": 72.0,
       "posted_ts": 1785996178,
       "posted_at": "2026-08-06T06:02:58.911799+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB4745902149",
-      "product_id": "MLB4745902149",
-      "catalog_product_id": "MLB42833702",
-      "item_id": "MLB4745902149",
-      "url": "https://www.mercadolivre.com.br/p/MLB42833702?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB42833702?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "roteador wifi 6 dual band flt x3000",
-      "title": "Roteador Wifi 6 Dual Band Flt - X3000",
-      "category": "Informática",
-      "price": 349.0,
-      "score": 71.0,
-      "posted_ts": 1785992562,
-      "posted_at": "2026-08-06T05:02:42.496130+00:00"
     }
   ],
-  "updated_at": "2026-08-08T05:02:30.973477+00:00"
+  "updated_at": "2026-08-08T06:02:36.785842+00:00"
 }
