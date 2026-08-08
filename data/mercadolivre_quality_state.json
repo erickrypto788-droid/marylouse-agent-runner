@@ -1,6 +1,51 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB6405166350",
+      "product_id": "MLB6405166350",
+      "catalog_product_id": "MLB48332910",
+      "item_id": "MLB6405166350",
+      "url": "https://www.mercadolivre.com.br/p/MLB48332910?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB48332910?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "redmi note 14s cor preto",
+      "title": "Redmi Note 14s Cor Preto",
+      "category": "Informática",
+      "price": 1639.0,
+      "score": 71.0,
+      "posted_ts": 1786212282,
+      "posted_at": "2026-08-08T18:04:42.171956+00:00"
+    },
+    {
+      "key": "mercadolivre:MLB3885192245",
+      "product_id": "MLB3885192245",
+      "catalog_product_id": "MLB34729625",
+      "item_id": "MLB3885192245",
+      "url": "https://www.mercadolivre.com.br/p/MLB34729625?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB34729625?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "celular samsung galaxy a55 5g cor azul celeste",
+      "title": "Celular Samsung Galaxy A55 5g Cor Azul-celeste",
+      "category": "Informática",
+      "price": 3099.0,
+      "score": 87.0,
+      "posted_ts": 1786212213,
+      "posted_at": "2026-08-08T18:03:33.003963+00:00"
+    },
+    {
+      "key": "mercadolivre:MLB4450293643",
+      "product_id": "MLB4450293643",
+      "catalog_product_id": "MLB29728116",
+      "item_id": "MLB4450293643",
+      "url": "https://www.mercadolivre.com.br/p/MLB29728116?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB29728116?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "xiaomi poco poco x6 5g dual sim 256gb 12gb branco",
+      "title": "Xiaomi POCO Poco X6 5G Dual SIM 256GB/12GB Branco",
+      "category": "Informática",
+      "price": 3500.0,
+      "score": 87.0,
+      "posted_ts": 1786212137,
+      "posted_at": "2026-08-08T18:02:17.441753+00:00"
+    },
+    {
       "key": "mercadolivre:MLB6252264240",
       "product_id": "MLB6252264240",
       "catalog_product_id": "MLB65564566",
@@ -1411,5 +1456,5 @@
       "posted_at": "2026-08-06T22:04:39.390364+00:00"
     }
   ],
-  "updated_at": "2026-08-08T17:02:16.279388+00:00"
+  "updated_at": "2026-08-08T18:04:42.171966+00:00"
 }
