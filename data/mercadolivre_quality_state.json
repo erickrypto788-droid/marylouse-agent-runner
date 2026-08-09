@@ -1,6 +1,51 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB6827581422",
+      "product_id": "MLB6827581422",
+      "catalog_product_id": "MLB70114350",
+      "item_id": "MLB6827581422",
+      "url": "https://www.mercadolivre.com.br/p/MLB70114350?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB70114350?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "prancha esteira ergometrica kikos e600ix preto",
+      "title": "Prancha Esteira Ergometrica Kikos E600ix Preto",
+      "category": "Esportes",
+      "price": 191.28,
+      "score": 103.27,
+      "posted_ts": 1786251889,
+      "posted_at": "2026-08-09T05:04:49.996931+00:00"
+    },
+    {
+      "key": "mercadolivre:MLB7119236764",
+      "product_id": "MLB7119236764",
+      "catalog_product_id": "MLB75107533",
+      "item_id": "MLB7119236764",
+      "url": "https://www.mercadolivre.com.br/p/MLB75107533?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB75107533?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "bike spinning bicicleta 6kg wct fitness preta",
+      "title": "Bike Spinning Bicicleta 6kg Wct Fitness Preta",
+      "category": "Esportes",
+      "price": 649.0,
+      "score": 121.13,
+      "posted_ts": 1786251825,
+      "posted_at": "2026-08-09T05:03:45.884919+00:00"
+    },
+    {
+      "key": "mercadolivre:MLB4780821021",
+      "product_id": "MLB4780821021",
+      "catalog_product_id": "MLB73080389",
+      "item_id": "MLB4780821021",
+      "url": "https://www.mercadolivre.com.br/p/MLB73080389?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB73080389?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "esteira ergometrica eletrica dobravel com bluetooth tela led 14km h jmjn 220v esteira ergometrica 120kg",
+      "title": "Esteira Ergométrica Elétrica Dobrável Com Bluetooth Tela Led 14km/h Jmjn 220v Esteira Ergometrica 120kg",
+      "category": "Esportes",
+      "price": 1454.81,
+      "score": 136.11,
+      "posted_ts": 1786251756,
+      "posted_at": "2026-08-09T05:02:36.504070+00:00"
+    },
+    {
       "key": "mercadolivre:MLB6512536586",
       "product_id": "MLB6512536586",
       "catalog_product_id": "MLB25981434",
@@ -1424,37 +1469,7 @@
       "score": 72.0,
       "posted_ts": 1786079090,
       "posted_at": "2026-08-07T05:04:50.860200+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB4455473269",
-      "product_id": "MLB4455473269",
-      "catalog_product_id": "MLB65128496",
-      "item_id": "MLB4455473269",
-      "url": "https://www.mercadolivre.com.br/p/MLB65128496?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB65128496?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "soundbar samsung hw b450f soundbar hw b400f",
-      "title": "Soundbar Samsung Hw-b450f + Soundbar Hw-b400f",
-      "category": "Informática",
-      "price": 1719.0,
-      "score": 72.0,
-      "posted_ts": 1786079026,
-      "posted_at": "2026-08-07T05:03:46.929640+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB4929845785",
-      "product_id": "MLB4929845785",
-      "catalog_product_id": "MLB66915787",
-      "item_id": "MLB4929845785",
-      "url": "https://www.mercadolivre.com.br/p/MLB66915787?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB66915787?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "fone bluetooth esportivo 320mah fone sem fio fone academia lilas",
-      "title": "Fone Bluetooth Esportivo 320mah Fone Sem Fio Fone Academia Lilás",
-      "category": "Esportes",
-      "price": 48.0,
-      "score": 102.53,
-      "posted_ts": 1786078952,
-      "posted_at": "2026-08-07T05:02:32.216051+00:00"
     }
   ],
-  "updated_at": "2026-08-09T04:04:54.196579+00:00"
+  "updated_at": "2026-08-09T05:04:49.996946+00:00"
 }
