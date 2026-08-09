@@ -1,6 +1,36 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB7003862824",
+      "product_id": "MLB7003862824",
+      "catalog_product_id": "MLB74184723",
+      "item_id": "MLB7003862824",
+      "url": "https://www.mercadolivre.com.br/p/MLB74184723?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB74184723?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "painel d rossi painel para tv para tv ate 60 cumaru de mdf mdp",
+      "title": "Painel D'Rossi Painel Para TV para TV até 60\" cumaru de mdf/mdp",
+      "category": "Casa e Cozinha",
+      "price": 671.08,
+      "score": 78.53,
+      "posted_ts": 1786313034,
+      "posted_at": "2026-08-09T22:03:54.649849+00:00"
+    },
+    {
+      "key": "mercadolivre:MLB4095236823",
+      "product_id": "MLB4095236823",
+      "catalog_product_id": "MLB32947723",
+      "item_id": "MLB4095236823",
+      "url": "https://www.mercadolivre.com.br/p/MLB32947723?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB32947723?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "conjunto panelas antiaderente tramontina 5pecas vermelho",
+      "title": "Conjunto Panelas Antiaderente Tramontina 5peças Vermelho",
+      "category": "Casa e Cozinha",
+      "price": 301.79,
+      "score": 93.24,
+      "posted_ts": 1786312970,
+      "posted_at": "2026-08-09T22:02:50.706073+00:00"
+    },
+    {
       "key": "mercadolivre:MLB6964556800",
       "product_id": "MLB6964556800",
       "catalog_product_id": "MLB73549899",
@@ -1439,37 +1469,7 @@
       "score": 83.6,
       "posted_ts": 1786140281,
       "posted_at": "2026-08-07T22:04:41.218083+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB3699490828",
-      "product_id": "MLB3699490828",
-      "catalog_product_id": "MLB23649057",
-      "item_id": "MLB3699490828",
-      "url": "https://www.mercadolivre.com.br/p/MLB23649057?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB23649057?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "furadeira parafusadeira imp c parafusadeira imp dlx2336syx",
-      "title": "Furadeira Parafusadeira Imp C/ Parafusadeira Imp Dlx2336syx",
-      "category": "Ferramentas",
-      "price": 1641.71,
-      "score": 100.45,
-      "posted_ts": 1786140216,
-      "posted_at": "2026-08-07T22:03:36.328662+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB6043959478",
-      "product_id": "MLB6043959478",
-      "catalog_product_id": "MLB63064118",
-      "item_id": "MLB6043959478",
-      "url": "https://www.mercadolivre.com.br/p/MLB63064118?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB63064118?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "furadeira profissional 350w furadeira eletrica furadeira velocidade variavel furadeira para uso domestico obras construcao marcenaria diy faca voce mesmo furadeira 110v cor laranja",
-      "title": "Furadeira Profissional 350w Furadeira Elétrica Furadeira Velocidade Variável Furadeira Para Uso Doméstico / Obras/construção / Marcenaria / Diy (faça Você Mesmo) Furadeira 110v Cor Laranja",
-      "category": "Ferramentas",
-      "price": 96.99,
-      "score": 115.18,
-      "posted_ts": 1786140152,
-      "posted_at": "2026-08-07T22:02:32.112785+00:00"
     }
   ],
-  "updated_at": "2026-08-09T21:07:16.573763+00:00"
+  "updated_at": "2026-08-09T22:03:54.649860+00:00"
 }
