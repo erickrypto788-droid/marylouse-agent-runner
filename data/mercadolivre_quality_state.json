@@ -1,6 +1,51 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB4777552385",
+      "product_id": "MLB4777552385",
+      "catalog_product_id": "MLB47815788",
+      "item_id": "MLB4777552385",
+      "url": "https://www.mercadolivre.com.br/p/MLB47815788?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB47815788?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "smartphone xiaomi redmi 14c 4g 256gb ram 4gb preto",
+      "title": "Smartphone Xiaomi Redmi 14c 4g 256gb Ram 4gb Preto",
+      "category": "Informática",
+      "price": 840.0,
+      "score": 87.0,
+      "posted_ts": 1786277088,
+      "posted_at": "2026-08-09T12:04:48.775900+00:00"
+    },
+    {
+      "key": "mercadolivre:MLB5765586272",
+      "product_id": "MLB5765586272",
+      "catalog_product_id": "MLB47326105",
+      "item_id": "MLB5765586272",
+      "url": "https://www.mercadolivre.com.br/p/MLB47326105?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB47326105?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "smartphone xiaomi redmi 9c 32gb azul",
+      "title": "Smartphone Xiaomi Redmi 9c 32gb Azul",
+      "category": "Informática",
+      "price": 999.99,
+      "score": 87.0,
+      "posted_ts": 1786277024,
+      "posted_at": "2026-08-09T12:03:44.602210+00:00"
+    },
+    {
+      "key": "mercadolivre:MLB7238539878",
+      "product_id": "MLB7238539878",
+      "catalog_product_id": "MLB39444837",
+      "item_id": "MLB7238539878",
+      "url": "https://www.mercadolivre.com.br/p/MLB39444837?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB39444837?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "smartphone samsung galaxy s23 ultra 512gb creme",
+      "title": "Smartphone Samsung Galaxy S23 Ultra 512gb Creme",
+      "category": "Informática",
+      "price": 5999.0,
+      "score": 87.0,
+      "posted_ts": 1786276960,
+      "posted_at": "2026-08-09T12:02:40.438942+00:00"
+    },
+    {
       "key": "mercadolivre:MLB4455480129",
       "product_id": "MLB4455480129",
       "catalog_product_id": "MLB65128982",
@@ -1394,22 +1439,7 @@
       "score": 71.0,
       "posted_ts": 1786107731,
       "posted_at": "2026-08-07T13:02:11.942682+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB6978080348",
-      "product_id": "MLB6978080348",
-      "catalog_product_id": "MLB46173110",
-      "item_id": "MLB6978080348",
-      "url": "https://www.mercadolivre.com.br/p/MLB46173110?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB46173110?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "impressora etiquetas monocromatica toledo prix it400m usb",
-      "title": "Impressora Etiquetas Monocromática Toledo Prix IT400M USB",
-      "category": "Informática",
-      "price": 1177.0,
-      "score": 71.0,
-      "posted_ts": 1786100703,
-      "posted_at": "2026-08-07T11:05:03.441987+00:00"
     }
   ],
-  "updated_at": "2026-08-09T11:04:40.746013+00:00"
+  "updated_at": "2026-08-09T12:04:48.775911+00:00"
 }
