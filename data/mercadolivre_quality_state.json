@@ -1,6 +1,21 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB7158074090",
+      "product_id": "MLB7158074090",
+      "catalog_product_id": "MLB38338044",
+      "item_id": "MLB7158074090",
+      "url": "https://www.mercadolivre.com.br/p/MLB38338044?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB38338044?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "liquidificador portatil mini liquidificador recarregavel usb liquidificador",
+      "title": "Liquidificador portátil, Mini liquidificador recarregável USB, Liquidificador",
+      "category": "Casa e Cozinha",
+      "price": 98.0,
+      "score": 71.0,
+      "posted_ts": 1786262563,
+      "posted_at": "2026-08-09T08:02:43.933503+00:00"
+    },
+    {
       "key": "mercadolivre:MLB5495982148",
       "product_id": "MLB5495982148",
       "catalog_product_id": "MLB51434487",
@@ -1424,22 +1439,7 @@
       "score": 77.5,
       "posted_ts": 1786089826,
       "posted_at": "2026-08-07T08:03:46.240515+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB6632370280",
-      "product_id": "MLB6632370280",
-      "catalog_product_id": "MLB62574644",
-      "item_id": "MLB6632370280",
-      "url": "https://www.mercadolivre.com.br/p/MLB62574644?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB62574644?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "monitor de pressao arterial de braco monitor pressao arterial hc10013 muinaifte cor blanco",
-      "title": "Monitor De Pressão Arterial De Braço Monitor pressao arterial HC10013 MUINAIFTE Cor Blanco",
-      "category": "Informática",
-      "price": 94.0,
-      "score": 100.56,
-      "posted_ts": 1786089756,
-      "posted_at": "2026-08-07T08:02:36.822624+00:00"
     }
   ],
-  "updated_at": "2026-08-09T07:03:25.724131+00:00"
+  "updated_at": "2026-08-09T08:02:43.933513+00:00"
 }
