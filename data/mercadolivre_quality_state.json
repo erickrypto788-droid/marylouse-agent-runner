@@ -1,6 +1,21 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB7150469040",
+      "product_id": "MLB7150469040",
+      "catalog_product_id": "MLB59821316",
+      "item_id": "MLB7150469040",
+      "url": "https://www.mercadolivre.com.br/p/MLB59821316?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB59821316?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "tv box rbi smart tv box 4k prosb 2000 preto 5 geracao wi fi hdmi",
+      "title": "TV Box RBI Smart TV Box 4K PROSB-2000 Preto 5ª Geração Wi-Fi HDMI",
+      "category": "Pet",
+      "price": 176.9,
+      "score": 71.0,
+      "posted_ts": 1786338127,
+      "posted_at": "2026-08-10T05:02:07.716008+00:00"
+    },
+    {
       "key": "mercadolivre:MLB4036053887",
       "product_id": "MLB4036053887",
       "catalog_product_id": "MLB24522367",
@@ -1469,22 +1484,7 @@
       "score": 71.0,
       "posted_ts": 1786165350,
       "posted_at": "2026-08-08T05:02:30.973467+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB6555948878",
-      "product_id": "MLB6555948878",
-      "catalog_product_id": "MLB22588098",
-      "item_id": "MLB6555948878",
-      "url": "https://www.mercadolivre.com.br/p/MLB22588098?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB22588098?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "racao gato castrado frango 12 anos 500g premier",
-      "title": "Ração Gato Castrado Frango +12 Anos 500g Premier",
-      "category": "Pet",
-      "price": 41.36,
-      "score": 87.0,
-      "posted_ts": 1786161870,
-      "posted_at": "2026-08-08T04:04:30.422695+00:00"
     }
   ],
-  "updated_at": "2026-08-10T04:04:21.978606+00:00"
+  "updated_at": "2026-08-10T05:02:07.716019+00:00"
 }
