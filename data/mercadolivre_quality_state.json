@@ -1,6 +1,51 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB6878473948",
+      "product_id": "MLB6878473948",
+      "catalog_product_id": "MLB70606708",
+      "item_id": "MLB6878473948",
+      "url": "https://www.mercadolivre.com.br/p/MLB70606708?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB70606708?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "capa esteira ergometrica esteira athletic racer",
+      "title": "Capa Esteira Ergométrica Esteira Athletic Racer",
+      "category": "Esportes",
+      "price": 128.0,
+      "score": 69.0,
+      "posted_ts": 1786381488,
+      "posted_at": "2026-08-10T17:04:48.605951+00:00"
+    },
+    {
+      "key": "mercadolivre:MLB6815537068",
+      "product_id": "MLB6815537068",
+      "catalog_product_id": "MLB36405300",
+      "item_id": "MLB6815537068",
+      "url": "https://www.mercadolivre.com.br/p/MLB36405300?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB36405300?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "bike spinning ergometrica cor preto",
+      "title": "Bike Spinning Ergométrica Cor Preto",
+      "category": "Esportes",
+      "price": 1789.0,
+      "score": 71.0,
+      "posted_ts": 1786381424,
+      "posted_at": "2026-08-10T17:03:44.360980+00:00"
+    },
+    {
+      "key": "mercadolivre:MLB7372178374",
+      "product_id": "MLB7372178374",
+      "catalog_product_id": "MLB75079189",
+      "item_id": "MLB7372178374",
+      "url": "https://www.mercadolivre.com.br/p/MLB75079189?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB75079189?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "preto corda de aco corda cross corda pular 3m corda ajustavel corda pular fitness corda crossfit corda pular profissional treino exercicio emagrecimento academia casa ginastica velocidade agilidade",
+      "title": "Preto corda de aço corda cross corda pular 3m corda ajustavel corda pular fitness corda crossfit corda pular profissional treino exercicio emagrecimento academia casa ginastica velocidade agilidade",
+      "category": "Esportes",
+      "price": 29.64,
+      "score": 109.9,
+      "posted_ts": 1786381360,
+      "posted_at": "2026-08-10T17:02:40.098768+00:00"
+    },
+    {
       "key": "mercadolivre:MLB6884302164",
       "product_id": "MLB6884302164",
       "catalog_product_id": "MLB70627275",
@@ -1469,37 +1514,7 @@
       "score": 87.0,
       "posted_ts": 1786212137,
       "posted_at": "2026-08-08T18:02:17.441753+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB6252264240",
-      "product_id": "MLB6252264240",
-      "catalog_product_id": "MLB65564566",
-      "item_id": "MLB6252264240",
-      "url": "https://www.mercadolivre.com.br/p/MLB65564566?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB65564566?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "soundbar samsung hw q990f soundbar hw b400f",
-      "title": "Soundbar Samsung Hw-q990f + Soundbar Hw-b400f",
-      "category": "Informática",
-      "price": 7349.0,
-      "score": 72.0,
-      "posted_ts": 1786208536,
-      "posted_at": "2026-08-08T17:02:16.279378+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB4745902149",
-      "product_id": "MLB4745902149",
-      "catalog_product_id": "MLB42833702",
-      "item_id": "MLB4745902149",
-      "url": "https://www.mercadolivre.com.br/p/MLB42833702?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB42833702?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "roteador wifi 6 dual band flt x3000",
-      "title": "Roteador Wifi 6 Dual Band Flt - X3000",
-      "category": "Informática",
-      "price": 349.0,
-      "score": 71.0,
-      "posted_ts": 1786204949,
-      "posted_at": "2026-08-08T16:02:29.344968+00:00"
     }
   ],
-  "updated_at": "2026-08-10T15:05:36.211421+00:00"
+  "updated_at": "2026-08-10T17:04:48.605961+00:00"
 }
