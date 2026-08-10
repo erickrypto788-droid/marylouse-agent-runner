@@ -1,6 +1,51 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB4712632217",
+      "product_id": "MLB4712632217",
+      "catalog_product_id": "MLB66992733",
+      "item_id": "MLB4712632217",
+      "url": "https://www.mercadolivre.com.br/p/MLB66992733?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB66992733?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "meia calca feminina termica plus size",
+      "title": "Meia Calça Feminina Térmica Plus Size",
+      "category": "Moda Feminina",
+      "price": 79.9,
+      "score": 71.0,
+      "posted_ts": 1786370744,
+      "posted_at": "2026-08-10T14:05:44.928719+00:00"
+    },
+    {
+      "key": "mercadolivre:MLB5908953072",
+      "product_id": "MLB5908953072",
+      "catalog_product_id": "MLB61771425",
+      "item_id": "MLB5908953072",
+      "url": "https://www.mercadolivre.com.br/p/MLB61771425?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB61771425?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "blusa camisa feminina protecao solar bike jetski pesca praia cor rosa tamanho p",
+      "title": "Blusa Camisa Feminina Proteção Solar Bike Jetski Pesca Praia Cor Rosa Tamanho P",
+      "category": "Moda Feminina",
+      "price": 90.92,
+      "score": 71.0,
+      "posted_ts": 1786370680,
+      "posted_at": "2026-08-10T14:04:40.939863+00:00"
+    },
+    {
+      "key": "mercadolivre:MLB7277437264",
+      "product_id": "MLB7277437264",
+      "catalog_product_id": "MLB75880795",
+      "item_id": "MLB7277437264",
+      "url": "https://www.mercadolivre.com.br/p/MLB75880795?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB75880795?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "10 pcs perola strass broche pinos para camisa feminina botoe",
+      "title": "10 Pçs Pérola Strass Broche Pinos Para Camisa Feminina Botõe",
+      "category": "Moda Feminina",
+      "price": 27.0,
+      "score": 72.62,
+      "posted_ts": 1786370616,
+      "posted_at": "2026-08-10T14:03:36.904609+00:00"
+    },
+    {
       "key": "mercadolivre:MLB5827152542",
       "product_id": "MLB5827152542",
       "catalog_product_id": "MLB60416491",
@@ -1441,5 +1486,5 @@
       "posted_at": "2026-08-08T15:02:22.353066+00:00"
     }
   ],
-  "updated_at": "2026-08-10T13:11:19.680918+00:00"
+  "updated_at": "2026-08-10T14:05:44.928730+00:00"
 }
