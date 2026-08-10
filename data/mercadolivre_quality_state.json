@@ -1,6 +1,51 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB6884302164",
+      "product_id": "MLB6884302164",
+      "catalog_product_id": "MLB70627275",
+      "item_id": "MLB6884302164",
+      "url": "https://www.mercadolivre.com.br/p/MLB70627275?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB70627275?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "rack yescasa rack para tv ate 70 jatoba terroso de mdp",
+      "title": "Rack Yescasa Rack para TV até 70\" jatoba terroso de mdp",
+      "category": "Casa e Cozinha",
+      "price": 855.87,
+      "score": 66.94,
+      "posted_ts": 1786374336,
+      "posted_at": "2026-08-10T15:05:36.211410+00:00"
+    },
+    {
+      "key": "mercadolivre:MLB4265750877",
+      "product_id": "MLB4265750877",
+      "catalog_product_id": "MLB32583536",
+      "item_id": "MLB4265750877",
+      "url": "https://www.mercadolivre.com.br/p/MLB32583536?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB32583536?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "jogo panelas vermelho aluminio fundido usinado javaliam16a24",
+      "title": "Jogo Panelas Vermelho Alumínio Fundido Usinado Javaliam16a24",
+      "category": "Casa e Cozinha",
+      "price": 787.04,
+      "score": 71.0,
+      "posted_ts": 1786374272,
+      "posted_at": "2026-08-10T15:04:32.051569+00:00"
+    },
+    {
+      "key": "mercadolivre:MLB6582939094",
+      "product_id": "MLB6582939094",
+      "catalog_product_id": "MLB67685128",
+      "item_id": "MLB6582939094",
+      "url": "https://www.mercadolivre.com.br/p/MLB67685128?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB67685128?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "jogo panelas grandes conjunto cacarolas 40cm 2 un aluminio",
+      "title": "Jogo Panelas Grandes Conjunto Caçarolas 40cm - 2 Un Alumínio",
+      "category": "Casa e Cozinha",
+      "price": 397.61,
+      "score": 71.0,
+      "posted_ts": 1786374201,
+      "posted_at": "2026-08-10T15:03:21.382677+00:00"
+    },
+    {
       "key": "mercadolivre:MLB4712632217",
       "product_id": "MLB4712632217",
       "catalog_product_id": "MLB66992733",
@@ -1454,37 +1499,7 @@
       "score": 71.0,
       "posted_ts": 1786204949,
       "posted_at": "2026-08-08T16:02:29.344968+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB4754831959",
-      "product_id": "MLB4754831959",
-      "catalog_product_id": "MLB43810473",
-      "item_id": "MLB4754831959",
-      "url": "https://www.mercadolivre.com.br/p/MLB43810473?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB43810473?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "kit ferramentas informatica cor preto",
-      "title": "Kit Ferramentas Informatica Cor Preto",
-      "category": "Ferramentas",
-      "price": 142.0,
-      "score": 71.0,
-      "posted_ts": 1786201406,
-      "posted_at": "2026-08-08T15:03:26.241494+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB6574930760",
-      "product_id": "MLB6574930760",
-      "catalog_product_id": "MLB67606890",
-      "item_id": "MLB6574930760",
-      "url": "https://www.mercadolivre.com.br/p/MLB67606890?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB67606890?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "parafusadeira stanley parafusadeira ganhe bateria 20v",
-      "title": "Parafusadeira STANLEY + Parafusadeira + Ganhe Bateria 20V",
-      "category": "Ferramentas",
-      "price": 1528.0,
-      "score": 87.0,
-      "posted_ts": 1786201342,
-      "posted_at": "2026-08-08T15:02:22.353066+00:00"
     }
   ],
-  "updated_at": "2026-08-10T14:05:44.928730+00:00"
+  "updated_at": "2026-08-10T15:05:36.211421+00:00"
 }
