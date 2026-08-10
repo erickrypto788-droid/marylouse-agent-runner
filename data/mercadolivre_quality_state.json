@@ -1,6 +1,51 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB4944781223",
+      "product_id": "MLB4944781223",
+      "catalog_product_id": "MLB65973005",
+      "item_id": "MLB4944781223",
+      "url": "https://www.mercadolivre.com.br/p/MLB65973005?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB65973005?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "celular samsung galaxy a06 5g preto",
+      "title": "Celular Samsung Galaxy A06 5g Preto",
+      "category": "Informática",
+      "price": 1099.0,
+      "score": 87.0,
+      "posted_ts": 1786341860,
+      "posted_at": "2026-08-10T06:04:20.163758+00:00"
+    },
+    {
+      "key": "mercadolivre:MLB4866666683",
+      "product_id": "MLB4866666683",
+      "catalog_product_id": "MLB59103594",
+      "item_id": "MLB4866666683",
+      "url": "https://www.mercadolivre.com.br/p/MLB59103594?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB59103594?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "smartphone xiaomi 15t 5g 12 12gb ram 512gb cinza",
+      "title": "Smartphone Xiaomi 15t 5g 12+12gb Ram + 512gb, Cinza",
+      "category": "Informática",
+      "price": 4579.0,
+      "score": 87.0,
+      "posted_ts": 1786341796,
+      "posted_at": "2026-08-10T06:03:16.310236+00:00"
+    },
+    {
+      "key": "mercadolivre:MLB4313106591",
+      "product_id": "MLB4313106591",
+      "catalog_product_id": "MLB56425611",
+      "item_id": "MLB4313106591",
+      "url": "https://www.mercadolivre.com.br/p/MLB56425611?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB56425611?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "smartphone xiaomi poco c85 6gb ram 128gb preto",
+      "title": "Smartphone xiaomi Poco C85 6gb ram + 128gb, Preto",
+      "category": "Informática",
+      "price": 716.5,
+      "score": 87.0,
+      "posted_ts": 1786341732,
+      "posted_at": "2026-08-10T06:02:12.425230+00:00"
+    },
+    {
       "key": "mercadolivre:MLB7150469040",
       "product_id": "MLB7150469040",
       "catalog_product_id": "MLB59821316",
@@ -1454,37 +1499,7 @@
       "score": 105.18,
       "posted_ts": 1786176371,
       "posted_at": "2026-08-08T08:06:11.916380+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB4856179667",
-      "product_id": "MLB4856179667",
-      "catalog_product_id": "MLB57578486",
-      "item_id": "MLB4856179667",
-      "url": "https://www.mercadolivre.com.br/p/MLB57578486?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB57578486?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "mini impressora niimbot b1 etiqueta bluetooth cor prateado impressora etiquetas adesivas",
-      "title": "Mini Impressora Niimbot B1 etiqueta Bluetooth Cor Prateado impressora etiquetas adesivas",
-      "category": "Informática",
-      "price": 223.99,
-      "score": 122.47,
-      "posted_ts": 1786168956,
-      "posted_at": "2026-08-08T06:02:36.785830+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB4552727020",
-      "product_id": "MLB4552727020",
-      "catalog_product_id": "MLB23076913",
-      "item_id": "MLB4552727020",
-      "url": "https://www.mercadolivre.com.br/p/MLB23076913?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB23076913?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "monitor bebe wifi infravermelho vision noctura intercom inteligente",
-      "title": "Monitor Bebe Wifi Infravermelho Vision Noctura Intercom Inteligente",
-      "category": "Informática",
-      "price": 1394.0,
-      "score": 71.0,
-      "posted_ts": 1786165350,
-      "posted_at": "2026-08-08T05:02:30.973467+00:00"
     }
   ],
-  "updated_at": "2026-08-10T05:02:07.716019+00:00"
+  "updated_at": "2026-08-10T06:04:20.163770+00:00"
 }
