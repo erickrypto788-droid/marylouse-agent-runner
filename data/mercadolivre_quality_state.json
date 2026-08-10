@@ -1,6 +1,51 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB4828628335",
+      "product_id": "MLB4828628335",
+      "catalog_product_id": "MLB44823770",
+      "item_id": "MLB4828628335",
+      "url": "https://www.mercadolivre.com.br/p/MLB44823770?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB44823770?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "perfume masculino amodil fonte verde perfume masculino 100ml",
+      "title": "Perfume masculino Amodil Fonte Verde Perfume masculino 100ml",
+      "category": "Beleza",
+      "price": 400.0,
+      "score": 71.0,
+      "posted_ts": 1786385087,
+      "posted_at": "2026-08-10T18:04:47.293872+00:00"
+    },
+    {
+      "key": "mercadolivre:MLB4473728059",
+      "product_id": "MLB4473728059",
+      "catalog_product_id": "MLB23181287",
+      "item_id": "MLB4473728059",
+      "url": "https://www.mercadolivre.com.br/p/MLB23181287?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB23181287?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "perfume feminino grace gourmand",
+      "title": "Perfume Feminino Grace Gourmand",
+      "category": "Beleza",
+      "price": 139.9,
+      "score": 71.0,
+      "posted_ts": 1786385023,
+      "posted_at": "2026-08-10T18:03:43.071209+00:00"
+    },
+    {
+      "key": "mercadolivre:MLB6223026490",
+      "product_id": "MLB6223026490",
+      "catalog_product_id": "MLB29263256",
+      "item_id": "MLB6223026490",
+      "url": "https://www.mercadolivre.com.br/p/MLB29263256?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB29263256?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "lizz aparelho aparador pelos eletrico navalhete profissional",
+      "title": "Lizz Aparelho Aparador Pelos Elétrico Navalhete Profissional",
+      "category": "Beleza",
+      "price": 89.9,
+      "score": 71.0,
+      "posted_ts": 1786384951,
+      "posted_at": "2026-08-10T18:02:31.331143+00:00"
+    },
+    {
       "key": "mercadolivre:MLB6878473948",
       "product_id": "MLB6878473948",
       "catalog_product_id": "MLB70606708",
@@ -1469,52 +1514,7 @@
       "score": 71.0,
       "posted_ts": 1786222949,
       "posted_at": "2026-08-08T21:02:29.987733+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB6405166350",
-      "product_id": "MLB6405166350",
-      "catalog_product_id": "MLB48332910",
-      "item_id": "MLB6405166350",
-      "url": "https://www.mercadolivre.com.br/p/MLB48332910?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB48332910?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "redmi note 14s cor preto",
-      "title": "Redmi Note 14s Cor Preto",
-      "category": "Informática",
-      "price": 1639.0,
-      "score": 71.0,
-      "posted_ts": 1786212282,
-      "posted_at": "2026-08-08T18:04:42.171956+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB3885192245",
-      "product_id": "MLB3885192245",
-      "catalog_product_id": "MLB34729625",
-      "item_id": "MLB3885192245",
-      "url": "https://www.mercadolivre.com.br/p/MLB34729625?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB34729625?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "celular samsung galaxy a55 5g cor azul celeste",
-      "title": "Celular Samsung Galaxy A55 5g Cor Azul-celeste",
-      "category": "Informática",
-      "price": 3099.0,
-      "score": 87.0,
-      "posted_ts": 1786212213,
-      "posted_at": "2026-08-08T18:03:33.003963+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB4450293643",
-      "product_id": "MLB4450293643",
-      "catalog_product_id": "MLB29728116",
-      "item_id": "MLB4450293643",
-      "url": "https://www.mercadolivre.com.br/p/MLB29728116?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB29728116?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "xiaomi poco poco x6 5g dual sim 256gb 12gb branco",
-      "title": "Xiaomi POCO Poco X6 5G Dual SIM 256GB/12GB Branco",
-      "category": "Informática",
-      "price": 3500.0,
-      "score": 87.0,
-      "posted_ts": 1786212137,
-      "posted_at": "2026-08-08T18:02:17.441753+00:00"
     }
   ],
-  "updated_at": "2026-08-10T17:04:48.605961+00:00"
+  "updated_at": "2026-08-10T18:04:47.293894+00:00"
 }
