@@ -1,6 +1,36 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB4754831959",
+      "product_id": "MLB4754831959",
+      "catalog_product_id": "MLB43810473",
+      "item_id": "MLB4754831959",
+      "url": "https://www.mercadolivre.com.br/p/MLB43810473?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB43810473?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "kit ferramentas informatica cor preto",
+      "title": "Kit Ferramentas Informatica Cor Preto",
+      "category": "Ferramentas",
+      "price": 142.0,
+      "score": 71.0,
+      "posted_ts": 1786392220,
+      "posted_at": "2026-08-10T20:03:40.466390+00:00"
+    },
+    {
+      "key": "mercadolivre:MLB6574930760",
+      "product_id": "MLB6574930760",
+      "catalog_product_id": "MLB67606890",
+      "item_id": "MLB6574930760",
+      "url": "https://www.mercadolivre.com.br/p/MLB67606890?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB67606890?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "parafusadeira stanley parafusadeira ganhe bateria 20v",
+      "title": "Parafusadeira STANLEY + Parafusadeira + Ganhe Bateria 20V",
+      "category": "Ferramentas",
+      "price": 1528.0,
+      "score": 87.0,
+      "posted_ts": 1786392153,
+      "posted_at": "2026-08-10T20:02:33.538736+00:00"
+    },
+    {
       "key": "mercadolivre:MLB4828628335",
       "product_id": "MLB4828628335",
       "catalog_product_id": "MLB44823770",
@@ -1516,5 +1546,5 @@
       "posted_at": "2026-08-08T21:02:29.987733+00:00"
     }
   ],
-  "updated_at": "2026-08-10T18:04:47.293894+00:00"
+  "updated_at": "2026-08-10T20:03:40.466403+00:00"
 }
