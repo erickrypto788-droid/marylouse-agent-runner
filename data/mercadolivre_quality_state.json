@@ -1,6 +1,36 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB6252264240",
+      "product_id": "MLB6252264240",
+      "catalog_product_id": "MLB65564566",
+      "item_id": "MLB6252264240",
+      "url": "https://www.mercadolivre.com.br/p/MLB65564566?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB65564566?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "soundbar samsung hw q990f soundbar hw b400f",
+      "title": "Soundbar Samsung Hw-q990f + Soundbar Hw-b400f",
+      "category": "Informática",
+      "price": 7349.0,
+      "score": 72.0,
+      "posted_ts": 1786402999,
+      "posted_at": "2026-08-10T23:03:19.232837+00:00"
+    },
+    {
+      "key": "mercadolivre:MLB4918382621",
+      "product_id": "MLB4918382621",
+      "catalog_product_id": "MLB62010143",
+      "item_id": "MLB4918382621",
+      "url": "https://www.mercadolivre.com.br/p/MLB62010143?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB62010143?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "fone bluetooth redmi",
+      "title": "Fone Bluetooth Redmi",
+      "category": "Informática",
+      "price": 25.65,
+      "score": 87.83,
+      "posted_ts": 1786402935,
+      "posted_at": "2026-08-10T23:02:15.301470+00:00"
+    },
+    {
       "key": "mercadolivre:MLB4745902149",
       "product_id": "MLB4745902149",
       "catalog_product_id": "MLB42833702",
@@ -1529,37 +1559,7 @@
       "score": 81.67,
       "posted_ts": 1786237597,
       "posted_at": "2026-08-09T01:06:37.827022+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB4622967263",
-      "product_id": "MLB4622967263",
-      "catalog_product_id": "MLB28886564",
-      "item_id": "MLB4622967263",
-      "url": "https://www.mercadolivre.com.br/p/MLB28886564?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB28886564?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "racao gato alimento vittamax premium especial 10kg mix",
-      "title": "Ração Gato Alimento Vittamax Premium Especial 10kg Mix",
-      "category": "Pet",
-      "price": 139.9,
-      "score": 71.0,
-      "posted_ts": 1786223014,
-      "posted_at": "2026-08-08T21:03:34.189793+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB4342761455",
-      "product_id": "MLB4342761455",
-      "catalog_product_id": "MLB49735840",
-      "item_id": "MLB4342761455",
-      "url": "https://www.mercadolivre.com.br/p/MLB49735840?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB49735840?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "racao cachorro selection adultos pequenos 10 1kg harmony",
-      "title": "Ração Cachorro Selection Adultos Pequenos 10,1kg Harmony",
-      "category": "Pet",
-      "price": 149.9,
-      "score": 71.0,
-      "posted_ts": 1786222949,
-      "posted_at": "2026-08-08T21:02:29.987733+00:00"
     }
   ],
-  "updated_at": "2026-08-10T21:02:28.295713+00:00"
+  "updated_at": "2026-08-10T23:03:19.232847+00:00"
 }
