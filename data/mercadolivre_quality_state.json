@@ -1,6 +1,21 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB4856179667",
+      "product_id": "MLB4856179667",
+      "catalog_product_id": "MLB57578486",
+      "item_id": "MLB4856179667",
+      "url": "https://www.mercadolivre.com.br/p/MLB57578486?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB57578486?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "mini impressora niimbot b1 etiqueta bluetooth cor prateado impressora etiquetas adesivas",
+      "title": "Mini Impressora Niimbot B1 etiqueta Bluetooth Cor Prateado impressora etiquetas adesivas",
+      "category": "Informática",
+      "price": 223.99,
+      "score": 122.47,
+      "posted_ts": 1786359753,
+      "posted_at": "2026-08-10T11:02:33.105848+00:00"
+    },
+    {
       "key": "mercadolivre:MLB4552727020",
       "product_id": "MLB4552727020",
       "catalog_product_id": "MLB23076913",
@@ -1439,37 +1454,7 @@
       "score": 84.33,
       "posted_ts": 1786190548,
       "posted_at": "2026-08-08T12:02:28.787768+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB5355035490",
-      "product_id": "MLB5355035490",
-      "catalog_product_id": "MLB48409016",
-      "item_id": "MLB5355035490",
-      "url": "https://www.mercadolivre.com.br/p/MLB48409016?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB48409016?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "cama box solteiro colchao molas ensacadas orthoflex memor",
-      "title": "Cama Box Solteiro: Colchão Molas Ensacadas Orthoflex Memor",
-      "category": "Casa e Cozinha",
-      "price": 1262.53,
-      "score": 65.67,
-      "posted_ts": 1786183499,
-      "posted_at": "2026-08-08T10:04:59.512559+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB6884302164",
-      "product_id": "MLB6884302164",
-      "catalog_product_id": "MLB70627275",
-      "item_id": "MLB6884302164",
-      "url": "https://www.mercadolivre.com.br/p/MLB70627275?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB70627275?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "rack yescasa rack para tv ate 70 jatoba terroso de mdp",
-      "title": "Rack Yescasa Rack para TV até 70\" jatoba terroso de mdp",
-      "category": "Casa e Cozinha",
-      "price": 855.87,
-      "score": 66.94,
-      "posted_ts": 1786183434,
-      "posted_at": "2026-08-08T10:03:54.923244+00:00"
     }
   ],
-  "updated_at": "2026-08-10T10:03:36.714895+00:00"
+  "updated_at": "2026-08-10T11:02:33.105858+00:00"
 }
