@@ -1,6 +1,51 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB4036053887",
+      "product_id": "MLB4036053887",
+      "catalog_product_id": "MLB24522367",
+      "item_id": "MLB4036053887",
+      "url": "https://www.mercadolivre.com.br/p/MLB24522367?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB24522367?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "ssd nvme asgard an4 1tb gen4",
+      "title": "SSD Nvme Asgard AN4 1tb Gen4",
+      "category": "Informática",
+      "price": 1449.9,
+      "score": 71.0,
+      "posted_ts": 1786334661,
+      "posted_at": "2026-08-10T04:04:21.978595+00:00"
+    },
+    {
+      "key": "mercadolivre:MLB5653921846",
+      "product_id": "MLB5653921846",
+      "catalog_product_id": "MLB45798788",
+      "item_id": "MLB5653921846",
+      "url": "https://www.mercadolivre.com.br/p/MLB45798788?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB45798788?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "monitor 24 polegadas 1920x1200px vga hdmi 5ms rapido",
+      "title": "Monitor 24 Polegadas 1920x1200px Vga Hdmi 5ms Rápido",
+      "category": "Informática",
+      "price": 565.0,
+      "score": 71.0,
+      "posted_ts": 1786334598,
+      "posted_at": "2026-08-10T04:03:18.068169+00:00"
+    },
+    {
+      "key": "mercadolivre:MLB4353924282",
+      "product_id": "MLB4353924282",
+      "catalog_product_id": "MLB29479675",
+      "item_id": "MLB4353924282",
+      "url": "https://www.mercadolivre.com.br/p/MLB29479675?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB29479675?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "mesa computador escrivaninha notebook gamer cor branco ajl",
+      "title": "Mesa Computador Escrivaninha Notebook Gamer cor branco AJL",
+      "category": "Informática",
+      "price": 213.76,
+      "score": 97.67,
+      "posted_ts": 1786334534,
+      "posted_at": "2026-08-10T04:02:14.104095+00:00"
+    },
+    {
       "key": "mercadolivre:MLB4994226563",
       "product_id": "MLB4994226563",
       "catalog_product_id": "MLB73186640",
@@ -1439,37 +1484,7 @@
       "score": 87.0,
       "posted_ts": 1786161870,
       "posted_at": "2026-08-08T04:04:30.422695+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB6194818232",
-      "product_id": "MLB6194818232",
-      "catalog_product_id": "MLB32106098",
-      "item_id": "MLB6194818232",
-      "url": "https://www.mercadolivre.com.br/p/MLB32106098?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB32106098?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "racao premier pet vitta natural racao cachorro adulto 15k",
-      "title": "Ração Premier Pet Vitta Natural Ração Cachorro Adulto 15k",
-      "category": "Pet",
-      "price": 131.99,
-      "score": 87.0,
-      "posted_ts": 1786161805,
-      "posted_at": "2026-08-08T04:03:25.766428+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB7304556746",
-      "product_id": "MLB7304556746",
-      "catalog_product_id": "MLB76168566",
-      "item_id": "MLB7304556746",
-      "url": "https://www.mercadolivre.com.br/p/MLB76168566?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB76168566?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "comedouro dispenser de racao automatico 8l para caes gatos cor comedouro automatico vermelho",
-      "title": "Comedouro Dispenser De Ração Automático 8l Para Cães Gatos Cor Comedouro Automatico Vermelho",
-      "category": "Pet",
-      "price": 42.88,
-      "score": 91.47,
-      "posted_ts": 1786161741,
-      "posted_at": "2026-08-08T04:02:21.743008+00:00"
     }
   ],
-  "updated_at": "2026-08-10T03:04:53.714702+00:00"
+  "updated_at": "2026-08-10T04:04:21.978606+00:00"
 }
