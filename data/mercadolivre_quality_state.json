@@ -1,6 +1,21 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB4750057565",
+      "product_id": "MLB4750057565",
+      "catalog_product_id": "MLB54083722",
+      "item_id": "MLB4750057565",
+      "url": "https://www.mercadolivre.com.br/p/MLB54083722?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB54083722?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "fritadeira air fryer mondial oven digital 127v",
+      "title": "Fritadeira Air Fryer Mondial Oven Digital 127v",
+      "category": "Casa e Cozinha",
+      "price": 1800.0,
+      "score": 87.0,
+      "posted_ts": 1786327350,
+      "posted_at": "2026-08-10T02:02:30.055005+00:00"
+    },
+    {
       "key": "mercadolivre:MLB4057360873",
       "product_id": "MLB4057360873",
       "catalog_product_id": "MLB35049339",
@@ -1439,22 +1454,7 @@
       "score": 71.0,
       "posted_ts": 1786158146,
       "posted_at": "2026-08-08T03:02:26.076121+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB4944781223",
-      "product_id": "MLB4944781223",
-      "catalog_product_id": "MLB65973005",
-      "item_id": "MLB4944781223",
-      "url": "https://www.mercadolivre.com.br/p/MLB65973005?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB65973005?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "celular samsung galaxy a06 5g preto",
-      "title": "Celular Samsung Galaxy A06 5g Preto",
-      "category": "Informática",
-      "price": 1099.0,
-      "score": 87.0,
-      "posted_ts": 1786151084,
-      "posted_at": "2026-08-08T01:04:44.502422+00:00"
     }
   ],
-  "updated_at": "2026-08-10T01:04:14.235632+00:00"
+  "updated_at": "2026-08-10T02:02:30.055016+00:00"
 }
