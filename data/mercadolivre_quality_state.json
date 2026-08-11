@@ -1,6 +1,21 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB7025030702",
+      "product_id": "MLB7025030702",
+      "catalog_product_id": "MLB21775692",
+      "item_id": "MLB7025030702",
+      "url": "https://www.mercadolivre.com.br/p/MLB21775692?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB21775692?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "oximetro oximetro de pulso oxigenio coracao pediatrico para adultos",
+      "title": "Oxímetro, oxímetro de pulso, oxigênio, coração pediátrico para adultos",
+      "category": "Pet",
+      "price": 49.9,
+      "score": 71.0,
+      "posted_ts": 1786413734,
+      "posted_at": "2026-08-11T02:02:14.930782+00:00"
+    },
+    {
       "key": "mercadolivre:MLB5026800457",
       "product_id": "MLB5026800457",
       "catalog_product_id": "MLB20643765",
@@ -1529,82 +1544,7 @@
       "score": 133.67,
       "posted_ts": 1786241004,
       "posted_at": "2026-08-09T02:03:24.790806+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB3667109301",
-      "product_id": "MLB3667109301",
-      "catalog_product_id": "MLB29671809",
-      "item_id": "MLB3667109301",
-      "url": "https://www.mercadolivre.com.br/p/MLB29671809?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB29671809?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "shampoo infantil 400ml buba care",
-      "title": "Shampoo Infantil 400ml Buba Care",
-      "category": "Beleza",
-      "price": 42.0,
-      "score": 71.0,
-      "posted_ts": 1786237865,
-      "posted_at": "2026-08-09T01:11:05.026013+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB4789168663",
-      "product_id": "MLB4789168663",
-      "catalog_product_id": "MLB66540373",
-      "item_id": "MLB4789168663",
-      "url": "https://www.mercadolivre.com.br/p/MLB66540373?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB66540373?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "natura essencial sabonete barra masculino110g",
-      "title": "Natura Essencial Sabonete Barra Masculino110g",
-      "category": "Supermercados",
-      "price": 29.0,
-      "score": 72.0,
-      "posted_ts": 1786237800,
-      "posted_at": "2026-08-09T01:10:00.509468+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB4499086855",
-      "product_id": "MLB4499086855",
-      "catalog_product_id": "MLB19906998",
-      "item_id": "MLB4499086855",
-      "url": "https://www.mercadolivre.com.br/p/MLB19906998?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB19906998?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "darrow suavie sabonete barra 70g",
-      "title": "Darrow Suavié Sabonete Barra 70g",
-      "category": "Supermercados",
-      "price": 89.0,
-      "score": 72.0,
-      "posted_ts": 1786237731,
-      "posted_at": "2026-08-09T01:08:51.609530+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB6711242070",
-      "product_id": "MLB6711242070",
-      "catalog_product_id": "MLB68578906",
-      "item_id": "MLB6711242070",
-      "url": "https://www.mercadolivre.com.br/p/MLB68578906?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB68578906?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "bepantol baby pomada assadura bebe hipoalergenica 200g",
-      "title": "Bepantol Baby Pomada Assadura Bebe Hipoalergênica, 200g",
-      "category": "Mãe e Bebê",
-      "price": 109.9,
-      "score": 72.0,
-      "posted_ts": 1786237661,
-      "posted_at": "2026-08-09T01:07:41.924693+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB5531654242",
-      "product_id": "MLB5531654242",
-      "catalog_product_id": "MLB53206199",
-      "item_id": "MLB5531654242",
-      "url": "https://www.mercadolivre.com.br/p/MLB53206199?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB53206199?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "30 escova dental 30 porta escova dental 30 creme dental cor sortidas",
-      "title": "30 Escova Dental + 30 Porta Escova Dental + 30 Creme Dental Cor Sortidas",
-      "category": "Supermercados",
-      "price": 182.45,
-      "score": 81.67,
-      "posted_ts": 1786237597,
-      "posted_at": "2026-08-09T01:06:37.827022+00:00"
     }
   ],
-  "updated_at": "2026-08-11T00:05:04.695099+00:00"
+  "updated_at": "2026-08-11T02:02:14.930797+00:00"
 }
