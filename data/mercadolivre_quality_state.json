@@ -1,6 +1,36 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB6665533644",
+      "product_id": "MLB6665533644",
+      "catalog_product_id": "MLB50957106",
+      "item_id": "MLB6665533644",
+      "url": "https://www.mercadolivre.com.br/p/MLB50957106?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB50957106?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "ssd nvme kingston 1tb nv3 m 2 2280 pcie 4 0 nf e cor ssd nvme m 2 2280 kingston 1tb",
+      "title": "Ssd Nvme Kingston 1tb Nv3 M.2 2280 Pcie 4.0 Nf-e Cor Ssd Nvme M.2 2280 Kingston 1tb",
+      "category": "Informática",
+      "price": 1090.0,
+      "score": 71.0,
+      "posted_ts": 1786464206,
+      "posted_at": "2026-08-11T16:03:26.469923+00:00"
+    },
+    {
+      "key": "mercadolivre:MLB4654205549",
+      "product_id": "MLB4654205549",
+      "catalog_product_id": "MLB47353377",
+      "item_id": "MLB4654205549",
+      "url": "https://www.mercadolivre.com.br/p/MLB47353377?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB47353377?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "roteador wifi ac 1200 2 flex",
+      "title": "Roteador Wifi Ac 1200 2 Flex",
+      "category": "Informática",
+      "price": 169.14,
+      "score": 87.74,
+      "posted_ts": 1786464142,
+      "posted_at": "2026-08-11T16:02:22.530944+00:00"
+    },
+    {
       "key": "mercadolivre:MLB6149389980",
       "product_id": "MLB6149389980",
       "catalog_product_id": "MLB37180897",
@@ -1394,37 +1424,7 @@
       "score": 71.0,
       "posted_ts": 1786291457,
       "posted_at": "2026-08-09T16:04:17.189682+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB4778272375",
-      "product_id": "MLB4778272375",
-      "catalog_product_id": "MLB73518090",
-      "item_id": "MLB4778272375",
-      "url": "https://www.mercadolivre.com.br/p/MLB73518090?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB73518090?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "livro tchauzinho fralda",
-      "title": "Livro Tchauzinho, Fralda",
-      "category": "Mãe e Bebê",
-      "price": 196.88,
-      "score": 72.0,
-      "posted_ts": 1786291393,
-      "posted_at": "2026-08-09T16:03:13.326691+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB7284866408",
-      "product_id": "MLB7284866408",
-      "catalog_product_id": "MLB40540370",
-      "item_id": "MLB7284866408",
-      "url": "https://www.mercadolivre.com.br/p/MLB40540370?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB40540370?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "tchauzinho fralda melhoramentos",
-      "title": "Tchauzinho, Fralda! - Melhoramentos",
-      "category": "Mãe e Bebê",
-      "price": 49.09,
-      "score": 72.0,
-      "posted_ts": 1786291329,
-      "posted_at": "2026-08-09T16:02:09.393824+00:00"
     }
   ],
-  "updated_at": "2026-08-11T15:04:50.640692+00:00"
+  "updated_at": "2026-08-11T16:03:26.469934+00:00"
 }
