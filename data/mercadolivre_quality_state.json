@@ -1,6 +1,51 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB5020657947",
+      "product_id": "MLB5020657947",
+      "catalog_product_id": "MLB48332910",
+      "item_id": "MLB5020657947",
+      "url": "https://www.mercadolivre.com.br/p/MLB48332910?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB48332910?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "redmi note 14s cor preto",
+      "title": "Redmi Note 14s Cor Preto",
+      "category": "Informática",
+      "price": 1548.0,
+      "score": 71.0,
+      "posted_ts": 1786471524,
+      "posted_at": "2026-08-11T18:05:24.787767+00:00"
+    },
+    {
+      "key": "mercadolivre:MLB5765586272",
+      "product_id": "MLB5765586272",
+      "catalog_product_id": "MLB47326105",
+      "item_id": "MLB5765586272",
+      "url": "https://www.mercadolivre.com.br/p/MLB47326105?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB47326105?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "smartphone xiaomi redmi 9c 32gb azul",
+      "title": "Smartphone Xiaomi Redmi 9c 32gb Azul",
+      "category": "Informática",
+      "price": 999.99,
+      "score": 87.0,
+      "posted_ts": 1786471449,
+      "posted_at": "2026-08-11T18:04:09.984089+00:00"
+    },
+    {
+      "key": "mercadolivre:MLB7238539878",
+      "product_id": "MLB7238539878",
+      "catalog_product_id": "MLB39444837",
+      "item_id": "MLB7238539878",
+      "url": "https://www.mercadolivre.com.br/p/MLB39444837?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB39444837?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "smartphone samsung galaxy s23 ultra 512gb creme",
+      "title": "Smartphone Samsung Galaxy S23 Ultra 512gb Creme",
+      "category": "Informática",
+      "price": 5999.0,
+      "score": 87.0,
+      "posted_ts": 1786471359,
+      "posted_at": "2026-08-11T18:02:39.278421+00:00"
+    },
+    {
       "key": "mercadolivre:MLB4455480129",
       "product_id": "MLB4455480129",
       "catalog_product_id": "MLB65128982",
@@ -1379,37 +1424,7 @@
       "score": 111.07,
       "posted_ts": 1786305978,
       "posted_at": "2026-08-09T20:06:18.422696+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB6194259162",
-      "product_id": "MLB6194259162",
-      "catalog_product_id": "MLB26008929",
-      "item_id": "MLB6194259162",
-      "url": "https://www.mercadolivre.com.br/p/MLB26008929?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB26008929?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "cadeira gamer profissional ergonomica giratoria vermelha para escritorio",
-      "title": "Cadeira Gamer Profissional Ergonômica Giratória Vermelha para Escritório",
-      "category": "Casa e Cozinha",
-      "price": 900.0,
-      "score": 71.0,
-      "posted_ts": 1786298546,
-      "posted_at": "2026-08-09T18:02:26.291097+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB6978080348",
-      "product_id": "MLB6978080348",
-      "catalog_product_id": "MLB46173110",
-      "item_id": "MLB6978080348",
-      "url": "https://www.mercadolivre.com.br/p/MLB46173110?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB46173110?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "impressora etiquetas monocromatica toledo prix it400m usb",
-      "title": "Impressora Etiquetas Monocromática Toledo Prix IT400M USB",
-      "category": "Informática",
-      "price": 1177.0,
-      "score": 71.0,
-      "posted_ts": 1786295072,
-      "posted_at": "2026-08-09T17:04:32.713220+00:00"
     }
   ],
-  "updated_at": "2026-08-11T17:03:33.748222+00:00"
+  "updated_at": "2026-08-11T18:05:24.787781+00:00"
 }
