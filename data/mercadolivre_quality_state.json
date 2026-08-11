@@ -1,6 +1,36 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB7197070408",
+      "product_id": "MLB7197070408",
+      "catalog_product_id": "MLB75425217",
+      "item_id": "MLB7197070408",
+      "url": "https://www.mercadolivre.com.br/p/MLB75425217?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB75425217?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "monitor pressao omron 7122 saude no seu braco",
+      "title": "Monitor Pressão Omron 7122: Saúde No Seu Braço",
+      "category": "Informática",
+      "price": 285.0,
+      "score": 71.0,
+      "posted_ts": 1786478615,
+      "posted_at": "2026-08-11T20:03:35.308359+00:00"
+    },
+    {
+      "key": "mercadolivre:MLB6632460608",
+      "product_id": "MLB6632460608",
+      "catalog_product_id": "MLB62814199",
+      "item_id": "MLB6632460608",
+      "url": "https://www.mercadolivre.com.br/p/MLB62814199?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB62814199?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "monitor de pressao arterial de braco monitor pressao arterial hc10014 muinaifte cor blanco",
+      "title": "Monitor De Pressão Arterial De Braço Monitor pressao arterial HC10014 MUINAIFTE Cor Blanco",
+      "category": "Informática",
+      "price": 89.99,
+      "score": 103.33,
+      "posted_ts": 1786478551,
+      "posted_at": "2026-08-11T20:02:31.072816+00:00"
+    },
+    {
       "key": "mercadolivre:MLB5020657947",
       "product_id": "MLB5020657947",
       "catalog_product_id": "MLB48332910",
@@ -1426,5 +1456,5 @@
       "posted_at": "2026-08-09T20:06:18.422696+00:00"
     }
   ],
-  "updated_at": "2026-08-11T18:05:24.787781+00:00"
+  "updated_at": "2026-08-11T20:03:35.308369+00:00"
 }
