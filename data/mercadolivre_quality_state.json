@@ -1,6 +1,36 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB4455480129",
+      "product_id": "MLB4455480129",
+      "catalog_product_id": "MLB65128982",
+      "item_id": "MLB4455480129",
+      "url": "https://www.mercadolivre.com.br/p/MLB65128982?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB65128982?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "soundbar samsung hw b400f soundbar hw b400f preto",
+      "title": "Soundbar Samsung Hw-b400f + Soundbar Hw-b400f Preto",
+      "category": "Informática",
+      "price": 1519.0,
+      "score": 72.0,
+      "posted_ts": 1786467813,
+      "posted_at": "2026-08-11T17:03:33.748212+00:00"
+    },
+    {
+      "key": "mercadolivre:MLB4455473269",
+      "product_id": "MLB4455473269",
+      "catalog_product_id": "MLB65128496",
+      "item_id": "MLB4455473269",
+      "url": "https://www.mercadolivre.com.br/p/MLB65128496?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB65128496?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "soundbar samsung hw b450f soundbar hw b400f",
+      "title": "Soundbar Samsung Hw-b450f + Soundbar Hw-b400f",
+      "category": "Informática",
+      "price": 1809.0,
+      "score": 72.0,
+      "posted_ts": 1786467749,
+      "posted_at": "2026-08-11T17:02:29.681865+00:00"
+    },
+    {
       "key": "mercadolivre:MLB6665533644",
       "product_id": "MLB6665533644",
       "catalog_product_id": "MLB50957106",
@@ -1379,52 +1409,7 @@
       "score": 71.0,
       "posted_ts": 1786295072,
       "posted_at": "2026-08-09T17:04:32.713220+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB5201599262",
-      "product_id": "MLB5201599262",
-      "catalog_product_id": "MLB44215301",
-      "item_id": "MLB5201599262",
-      "url": "https://www.mercadolivre.com.br/p/MLB44215301?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB44215301?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "ribbon resina mastercorp 110x300 para impressora etiquetas bopp vinil",
-      "title": "Ribbon Resina Mastercorp 110x300 Para Impressora Etiquetas BOPP Vinil",
-      "category": "Informática",
-      "price": 638.4,
-      "score": 71.0,
-      "posted_ts": 1786295008,
-      "posted_at": "2026-08-09T17:03:28.693081+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB3954286799",
-      "product_id": "MLB3954286799",
-      "catalog_product_id": "MLB39019401",
-      "item_id": "MLB3954286799",
-      "url": "https://www.mercadolivre.com.br/p/MLB39019401?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB39019401?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "impressora etiquetas logistica codigo de barras usb",
-      "title": "Impressora Etiquetas Logistica Código De Barras Usb",
-      "category": "Informática",
-      "price": 549.99,
-      "score": 97.73,
-      "posted_ts": 1786294944,
-      "posted_at": "2026-08-09T17:02:24.660281+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB4864941673",
-      "product_id": "MLB4864941673",
-      "catalog_product_id": "MLB51893724",
-      "item_id": "MLB4864941673",
-      "url": "https://www.mercadolivre.com.br/p/MLB51893724?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB51893724?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "baba eletronica hellobaby hb66pro monitor bebe 3 2 white",
-      "title": "Babá Eletrônica Hellobaby Hb66pro Monitor Bebê 3.2 White",
-      "category": "Informática",
-      "price": 386.56,
-      "score": 71.0,
-      "posted_ts": 1786291457,
-      "posted_at": "2026-08-09T16:04:17.189682+00:00"
     }
   ],
-  "updated_at": "2026-08-11T16:03:26.469934+00:00"
+  "updated_at": "2026-08-11T17:03:33.748222+00:00"
 }
