@@ -1,6 +1,51 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB4994226563",
+      "product_id": "MLB4994226563",
+      "catalog_product_id": "MLB73186640",
+      "item_id": "MLB4994226563",
+      "url": "https://www.mercadolivre.com.br/p/MLB73186640?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB73186640?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "parafusadeira sem fio minutobaby parafusadeira sem fio azul",
+      "title": "Parafusadeira sem fio Minutobaby Parafusadeira Sem Fio azul",
+      "category": "Ferramentas",
+      "price": 143.73,
+      "score": 83.6,
+      "posted_ts": 1786521885,
+      "posted_at": "2026-08-12T08:04:45.298712+00:00"
+    },
+    {
+      "key": "mercadolivre:MLB3699490828",
+      "product_id": "MLB3699490828",
+      "catalog_product_id": "MLB23649057",
+      "item_id": "MLB3699490828",
+      "url": "https://www.mercadolivre.com.br/p/MLB23649057?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB23649057?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "furadeira parafusadeira imp c parafusadeira imp dlx2336syx",
+      "title": "Furadeira Parafusadeira Imp C/ Parafusadeira Imp Dlx2336syx",
+      "category": "Ferramentas",
+      "price": 1641.71,
+      "score": 100.45,
+      "posted_ts": 1786521809,
+      "posted_at": "2026-08-12T08:03:29.725873+00:00"
+    },
+    {
+      "key": "mercadolivre:MLB6043959478",
+      "product_id": "MLB6043959478",
+      "catalog_product_id": "MLB63064118",
+      "item_id": "MLB6043959478",
+      "url": "https://www.mercadolivre.com.br/p/MLB63064118?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB63064118?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "furadeira profissional 350w furadeira eletrica furadeira velocidade variavel furadeira para uso domestico obras construcao marcenaria diy faca voce mesmo furadeira 110v cor laranja",
+      "title": "Furadeira Profissional 350w Furadeira Elétrica Furadeira Velocidade Variável Furadeira Para Uso Doméstico / Obras/construção / Marcenaria / Diy (faça Você Mesmo) Furadeira 110v Cor Laranja",
+      "category": "Ferramentas",
+      "price": 96.99,
+      "score": 115.18,
+      "posted_ts": 1786521738,
+      "posted_at": "2026-08-12T08:02:18.673391+00:00"
+    },
+    {
       "key": "mercadolivre:MLB4750057565",
       "product_id": "MLB4750057565",
       "catalog_product_id": "MLB54083722",
@@ -1409,22 +1454,7 @@
       "score": 91.47,
       "posted_ts": 1786352565,
       "posted_at": "2026-08-10T09:02:45.259645+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB3001466030",
-      "product_id": "MLB3001466030",
-      "catalog_product_id": "MLB22958206",
-      "item_id": "MLB3001466030",
-      "url": "https://www.mercadolivre.com.br/p/MLB22958206?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB22958206?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "aparelho monitor pressao arterial portatil pulso omron",
-      "title": "Aparelho Monitor Pressão Arterial Portátil Pulso Omron",
-      "category": "Informática",
-      "price": 180.0,
-      "score": 71.0,
-      "posted_ts": 1786348952,
-      "posted_at": "2026-08-10T08:02:32.462287+00:00"
     }
   ],
-  "updated_at": "2026-08-12T07:02:41.873389+00:00"
+  "updated_at": "2026-08-12T08:04:45.298723+00:00"
 }
