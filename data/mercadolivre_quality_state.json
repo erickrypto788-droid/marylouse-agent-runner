@@ -1,6 +1,51 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB4712632217",
+      "product_id": "MLB4712632217",
+      "catalog_product_id": "MLB66992733",
+      "item_id": "MLB4712632217",
+      "url": "https://www.mercadolivre.com.br/p/MLB66992733?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB66992733?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "meia calca feminina termica plus size",
+      "title": "Meia Calça Feminina Térmica Plus Size",
+      "category": "Moda Feminina",
+      "price": 79.9,
+      "score": 71.0,
+      "posted_ts": 1786561573,
+      "posted_at": "2026-08-12T19:06:13.623519+00:00"
+    },
+    {
+      "key": "mercadolivre:MLB5917537512",
+      "product_id": "MLB5917537512",
+      "catalog_product_id": "MLB61928650",
+      "item_id": "MLB5917537512",
+      "url": "https://www.mercadolivre.com.br/p/MLB61928650?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB61928650?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "blusa camisa feminina protecao solar bike jetski pesca praia cor branco tamanho gg",
+      "title": "Blusa Camisa Feminina Proteção Solar Bike Jetski Pesca Praia Cor Branco Tamanho GG",
+      "category": "Moda Feminina",
+      "price": 90.92,
+      "score": 71.0,
+      "posted_ts": 1786561509,
+      "posted_at": "2026-08-12T19:05:09.595044+00:00"
+    },
+    {
+      "key": "mercadolivre:MLB4866968891",
+      "product_id": "MLB4866968891",
+      "catalog_product_id": "MLB75170377",
+      "item_id": "MLB4866968891",
+      "url": "https://www.mercadolivre.com.br/p/MLB75170377?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB75170377?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "molde de blusa feminina raglan impresso p m g gg xg",
+      "title": "Molde De Blusa Feminina Raglan Impresso P/m/g/gg/xg",
+      "category": "Moda Feminina",
+      "price": 129.9,
+      "score": 71.0,
+      "posted_ts": 1786561444,
+      "posted_at": "2026-08-12T19:04:04.508071+00:00"
+    },
+    {
       "key": "mercadolivre:MLB5827152542",
       "product_id": "MLB5827152542",
       "catalog_product_id": "MLB60416491",
@@ -1411,5 +1456,5 @@
       "posted_at": "2026-08-10T20:02:33.538736+00:00"
     }
   ],
-  "updated_at": "2026-08-12T18:12:01.684761+00:00"
+  "updated_at": "2026-08-12T19:06:13.623536+00:00"
 }
