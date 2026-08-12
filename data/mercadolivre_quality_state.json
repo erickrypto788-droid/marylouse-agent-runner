@@ -1,6 +1,36 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB4828628335",
+      "product_id": "MLB4828628335",
+      "catalog_product_id": "MLB44823770",
+      "item_id": "MLB4828628335",
+      "url": "https://www.mercadolivre.com.br/p/MLB44823770?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB44823770?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "perfume masculino amodil fonte verde perfume masculino 100ml",
+      "title": "Perfume masculino Amodil Fonte Verde Perfume masculino 100ml",
+      "category": "Beleza",
+      "price": 400.0,
+      "score": 71.0,
+      "posted_ts": 1786575794,
+      "posted_at": "2026-08-12T23:03:14.791631+00:00"
+    },
+    {
+      "key": "mercadolivre:MLB4473728059",
+      "product_id": "MLB4473728059",
+      "catalog_product_id": "MLB23181287",
+      "item_id": "MLB4473728059",
+      "url": "https://www.mercadolivre.com.br/p/MLB23181287?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB23181287?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "perfume feminino grace gourmand",
+      "title": "Perfume Feminino Grace Gourmand",
+      "category": "Beleza",
+      "price": 139.9,
+      "score": 71.0,
+      "posted_ts": 1786575730,
+      "posted_at": "2026-08-12T23:02:10.804725+00:00"
+    },
+    {
       "key": "mercadolivre:MLB6878473948",
       "product_id": "MLB6878473948",
       "catalog_product_id": "MLB70606708",
@@ -1484,22 +1514,7 @@
       "score": 72.0,
       "posted_ts": 1786402999,
       "posted_at": "2026-08-10T23:03:19.232837+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB4918382621",
-      "product_id": "MLB4918382621",
-      "catalog_product_id": "MLB62010143",
-      "item_id": "MLB4918382621",
-      "url": "https://www.mercadolivre.com.br/p/MLB62010143?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB62010143?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "fone bluetooth redmi",
-      "title": "Fone Bluetooth Redmi",
-      "category": "Informática",
-      "price": 25.65,
-      "score": 87.83,
-      "posted_ts": 1786402935,
-      "posted_at": "2026-08-10T23:02:15.301470+00:00"
     }
   ],
-  "updated_at": "2026-08-12T22:04:29.863336+00:00"
+  "updated_at": "2026-08-12T23:03:14.791642+00:00"
 }
