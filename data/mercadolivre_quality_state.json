@@ -1,6 +1,36 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB4057360873",
+      "product_id": "MLB4057360873",
+      "catalog_product_id": "MLB35049339",
+      "item_id": "MLB4057360873",
+      "url": "https://www.mercadolivre.com.br/p/MLB35049339?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB35049339?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "chapinha cabelo prancha profissional cor azul",
+      "title": "Chapinha Cabelo Prancha Profissional Cor Azul",
+      "category": "Beleza",
+      "price": 249.99,
+      "score": 71.0,
+      "posted_ts": 1786514632,
+      "posted_at": "2026-08-12T06:03:52.397869+00:00"
+    },
+    {
+      "key": "mercadolivre:MLB4362764912",
+      "product_id": "MLB4362764912",
+      "catalog_product_id": "MLB24908965",
+      "item_id": "MLB4362764912",
+      "url": "https://www.mercadolivre.com.br/p/MLB24908965?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB24908965?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "lamina aparador pelos philips bodygroom qg3379 qg3280 qg3380",
+      "title": "Lamina Aparador Pelos Philips Bodygroom Qg3379 Qg3280 Qg3380",
+      "category": "Beleza",
+      "price": 130.41,
+      "score": 102.53,
+      "posted_ts": 1786514568,
+      "posted_at": "2026-08-12T06:02:48.227902+00:00"
+    },
+    {
       "key": "mercadolivre:MLB4552665179",
       "product_id": "MLB4552665179",
       "catalog_product_id": "MLB20818317",
@@ -1394,37 +1424,7 @@
       "score": 87.0,
       "posted_ts": 1786341860,
       "posted_at": "2026-08-10T06:04:20.163758+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB4866666683",
-      "product_id": "MLB4866666683",
-      "catalog_product_id": "MLB59103594",
-      "item_id": "MLB4866666683",
-      "url": "https://www.mercadolivre.com.br/p/MLB59103594?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB59103594?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "smartphone xiaomi 15t 5g 12 12gb ram 512gb cinza",
-      "title": "Smartphone Xiaomi 15t 5g 12+12gb Ram + 512gb, Cinza",
-      "category": "Informática",
-      "price": 4579.0,
-      "score": 87.0,
-      "posted_ts": 1786341796,
-      "posted_at": "2026-08-10T06:03:16.310236+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB4313106591",
-      "product_id": "MLB4313106591",
-      "catalog_product_id": "MLB56425611",
-      "item_id": "MLB4313106591",
-      "url": "https://www.mercadolivre.com.br/p/MLB56425611?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB56425611?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "smartphone xiaomi poco c85 6gb ram 128gb preto",
-      "title": "Smartphone xiaomi Poco C85 6gb ram + 128gb, Preto",
-      "category": "Informática",
-      "price": 716.5,
-      "score": 87.0,
-      "posted_ts": 1786341732,
-      "posted_at": "2026-08-10T06:02:12.425230+00:00"
     }
   ],
-  "updated_at": "2026-08-12T05:04:11.565310+00:00"
+  "updated_at": "2026-08-12T06:03:52.397881+00:00"
 }
