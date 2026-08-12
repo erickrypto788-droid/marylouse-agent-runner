@@ -1,6 +1,66 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB4080638301",
+      "product_id": "MLB4080638301",
+      "catalog_product_id": "MLB50715477",
+      "item_id": "MLB4080638301",
+      "url": "https://www.mercadolivre.com.br/p/MLB50715477?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB50715477?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "tecido suplex poliester liso amarelo ouro 1x1 65m moda fitness",
+      "title": "Tecido Suplex Poliéster Liso Amarelo Ouro 1x1,65m Moda Fitness",
+      "category": "Esportes",
+      "price": 500.0,
+      "score": 71.0,
+      "posted_ts": 1786500411,
+      "posted_at": "2026-08-12T02:06:51.274122+00:00"
+    },
+    {
+      "key": "mercadolivre:MLB4745115437",
+      "product_id": "MLB4745115437",
+      "catalog_product_id": "MLB72744509",
+      "item_id": "MLB4745115437",
+      "url": "https://www.mercadolivre.com.br/p/MLB72744509?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB72744509?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "colete academia dry fit feminino leve cor preto tamanho p",
+      "title": "Colete Academia Dry Fit Feminino Leve Cor Preto Tamanho P",
+      "category": "Moda Feminina",
+      "price": 37.1,
+      "score": 79.95,
+      "posted_ts": 1786500347,
+      "posted_at": "2026-08-12T02:05:47.187767+00:00"
+    },
+    {
+      "key": "mercadolivre:MLB4832226667",
+      "product_id": "MLB4832226667",
+      "catalog_product_id": "MLB74626445",
+      "item_id": "MLB4832226667",
+      "url": "https://www.mercadolivre.com.br/p/MLB74626445?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB74626445?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "saida praia saia feminina texturizada moda verao tendencias amarelo p",
+      "title": "Saída Praia Saia Feminina Texturizada Moda Verão Tendências Amarelo P",
+      "category": "Moda Feminina",
+      "price": 46.74,
+      "score": 84.71,
+      "posted_ts": 1786500283,
+      "posted_at": "2026-08-12T02:04:43.147747+00:00"
+    },
+    {
+      "key": "mercadolivre:MLB4617422337",
+      "product_id": "MLB4617422337",
+      "catalog_product_id": "MLB68298172",
+      "item_id": "MLB4617422337",
+      "url": "https://www.mercadolivre.com.br/p/MLB68298172?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB68298172?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "cropped feminino manga comprida protecao solar malha fria uv cor preto tamanho p",
+      "title": "Cropped Feminino Manga Comprida Proteção Solar Malha Fria Uv Cor Preto Tamanho P",
+      "category": "Moda Feminina",
+      "price": 42.5,
+      "score": 85.35,
+      "posted_ts": 1786500218,
+      "posted_at": "2026-08-12T02:03:38.970704+00:00"
+    },
+    {
       "key": "mercadolivre:MLB7173723934",
       "product_id": "MLB7173723934",
       "catalog_product_id": "MLB21853434",
@@ -1394,22 +1454,7 @@
       "score": 115.18,
       "posted_ts": 1786330956,
       "posted_at": "2026-08-10T03:02:36.839543+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB4750057565",
-      "product_id": "MLB4750057565",
-      "catalog_product_id": "MLB54083722",
-      "item_id": "MLB4750057565",
-      "url": "https://www.mercadolivre.com.br/p/MLB54083722?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB54083722?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "fritadeira air fryer mondial oven digital 127v",
-      "title": "Fritadeira Air Fryer Mondial Oven Digital 127v",
-      "category": "Casa e Cozinha",
-      "price": 1800.0,
-      "score": 87.0,
-      "posted_ts": 1786327350,
-      "posted_at": "2026-08-10T02:02:30.055005+00:00"
     }
   ],
-  "updated_at": "2026-08-12T01:10:44.005781+00:00"
+  "updated_at": "2026-08-12T02:06:51.274133+00:00"
 }
