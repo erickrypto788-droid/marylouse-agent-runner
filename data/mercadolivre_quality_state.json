@@ -1,6 +1,36 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB4552727020",
+      "product_id": "MLB4552727020",
+      "catalog_product_id": "MLB23076913",
+      "item_id": "MLB4552727020",
+      "url": "https://www.mercadolivre.com.br/p/MLB23076913?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB23076913?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "monitor bebe wifi infravermelho vision noctura intercom inteligente",
+      "title": "Monitor Bebe Wifi Infravermelho Vision Noctura Intercom Inteligente",
+      "category": "Informática",
+      "price": 1394.0,
+      "score": 71.0,
+      "posted_ts": 1786547035,
+      "posted_at": "2026-08-12T15:03:55.026358+00:00"
+    },
+    {
+      "key": "mercadolivre:MLB7372384956",
+      "product_id": "MLB7372384956",
+      "catalog_product_id": "MLB75043057",
+      "item_id": "MLB7372384956",
+      "url": "https://www.mercadolivre.com.br/p/MLB75043057?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB75043057?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "amarelo escova limpeza mamadeira kit para limpeza de mamadeira kit limpeza mamadeira viagem kit limpeza bebe escova mamadeira portatil escova bico canudo secador higiene infantil acessorios bebe",
+      "title": "Amarelo escova limpeza mamadeira kit para limpeza de mamadeira kit limpeza mamadeira viagem kit limpeza bebe escova mamadeira portatil escova bico canudo secador higiene infantil acessorios bebe",
+      "category": "Mãe e Bebê",
+      "price": 89.3,
+      "score": 132.77,
+      "posted_ts": 1786546963,
+      "posted_at": "2026-08-12T15:02:43.106044+00:00"
+    },
+    {
       "key": "mercadolivre:MLB6555948878",
       "product_id": "MLB6555948878",
       "catalog_product_id": "MLB22588098",
@@ -1409,37 +1439,7 @@
       "score": 71.0,
       "posted_ts": 1786374272,
       "posted_at": "2026-08-10T15:04:32.051569+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB6582939094",
-      "product_id": "MLB6582939094",
-      "catalog_product_id": "MLB67685128",
-      "item_id": "MLB6582939094",
-      "url": "https://www.mercadolivre.com.br/p/MLB67685128?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB67685128?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "jogo panelas grandes conjunto cacarolas 40cm 2 un aluminio",
-      "title": "Jogo Panelas Grandes Conjunto Caçarolas 40cm - 2 Un Alumínio",
-      "category": "Casa e Cozinha",
-      "price": 397.61,
-      "score": 71.0,
-      "posted_ts": 1786374201,
-      "posted_at": "2026-08-10T15:03:21.382677+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB4712632217",
-      "product_id": "MLB4712632217",
-      "catalog_product_id": "MLB66992733",
-      "item_id": "MLB4712632217",
-      "url": "https://www.mercadolivre.com.br/p/MLB66992733?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB66992733?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "meia calca feminina termica plus size",
-      "title": "Meia Calça Feminina Térmica Plus Size",
-      "category": "Moda Feminina",
-      "price": 79.9,
-      "score": 71.0,
-      "posted_ts": 1786370744,
-      "posted_at": "2026-08-10T14:05:44.928719+00:00"
     }
   ],
-  "updated_at": "2026-08-12T14:04:45.118836+00:00"
+  "updated_at": "2026-08-12T15:03:55.026372+00:00"
 }
