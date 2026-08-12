@@ -1,6 +1,21 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB4856179667",
+      "product_id": "MLB4856179667",
+      "catalog_product_id": "MLB57578486",
+      "item_id": "MLB4856179667",
+      "url": "https://www.mercadolivre.com.br/p/MLB57578486?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB57578486?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "mini impressora niimbot b1 etiqueta bluetooth cor prateado impressora etiquetas adesivas",
+      "title": "Mini Impressora Niimbot B1 etiqueta Bluetooth Cor Prateado impressora etiquetas adesivas",
+      "category": "Informática",
+      "price": 223.99,
+      "score": 122.47,
+      "posted_ts": 1786550565,
+      "posted_at": "2026-08-12T16:02:45.722699+00:00"
+    },
+    {
       "key": "mercadolivre:MLB4552727020",
       "product_id": "MLB4552727020",
       "catalog_product_id": "MLB23076913",
@@ -1409,37 +1424,7 @@
       "score": 109.9,
       "posted_ts": 1786381360,
       "posted_at": "2026-08-10T17:02:40.098768+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB6884302164",
-      "product_id": "MLB6884302164",
-      "catalog_product_id": "MLB70627275",
-      "item_id": "MLB6884302164",
-      "url": "https://www.mercadolivre.com.br/p/MLB70627275?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB70627275?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "rack yescasa rack para tv ate 70 jatoba terroso de mdp",
-      "title": "Rack Yescasa Rack para TV até 70\" jatoba terroso de mdp",
-      "category": "Casa e Cozinha",
-      "price": 855.87,
-      "score": 66.94,
-      "posted_ts": 1786374336,
-      "posted_at": "2026-08-10T15:05:36.211410+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB4265750877",
-      "product_id": "MLB4265750877",
-      "catalog_product_id": "MLB32583536",
-      "item_id": "MLB4265750877",
-      "url": "https://www.mercadolivre.com.br/p/MLB32583536?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB32583536?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "jogo panelas vermelho aluminio fundido usinado javaliam16a24",
-      "title": "Jogo Panelas Vermelho Alumínio Fundido Usinado Javaliam16a24",
-      "category": "Casa e Cozinha",
-      "price": 787.04,
-      "score": 71.0,
-      "posted_ts": 1786374272,
-      "posted_at": "2026-08-10T15:04:32.051569+00:00"
     }
   ],
-  "updated_at": "2026-08-12T15:03:55.026372+00:00"
+  "updated_at": "2026-08-12T16:02:45.722709+00:00"
 }
