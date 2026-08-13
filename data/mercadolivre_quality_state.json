@@ -1,6 +1,36 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB7116149854",
+      "product_id": "MLB7116149854",
+      "catalog_product_id": "MLB74602351",
+      "item_id": "MLB7116149854",
+      "url": "https://www.mercadolivre.com.br/p/MLB74602351?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB74602351?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "chapinha cabelo profissional prancha alisadora de cabelo chapinha para cabelo bivolt chapinha",
+      "title": "Chapinha Cabelo Profissional Prancha Alisadora De Cabelo chapinha Para Cabelo Bivolt Chapinha",
+      "category": "Beleza",
+      "price": 92.8,
+      "score": 97.67,
+      "posted_ts": 1786644220,
+      "posted_at": "2026-08-13T18:03:40.538480+00:00"
+    },
+    {
+      "key": "mercadolivre:MLB5495982148",
+      "product_id": "MLB5495982148",
+      "catalog_product_id": "MLB51434487",
+      "item_id": "MLB5495982148",
+      "url": "https://www.mercadolivre.com.br/p/MLB51434487?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB51434487?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "barbeador costas masculino traseiro dobravel aparador pelos",
+      "title": "Barbeador Costas Masculino Traseiro Dobrável Aparador Pelos",
+      "category": "Beleza",
+      "price": 249.0,
+      "score": 110.62,
+      "posted_ts": 1786644156,
+      "posted_at": "2026-08-13T18:02:36.352087+00:00"
+    },
+    {
       "key": "mercadolivre:MLB6827581422",
       "product_id": "MLB6827581422",
       "catalog_product_id": "MLB70114350",
@@ -1424,22 +1454,7 @@
       "score": 87.0,
       "posted_ts": 1786471449,
       "posted_at": "2026-08-11T18:04:09.984089+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB7238539878",
-      "product_id": "MLB7238539878",
-      "catalog_product_id": "MLB39444837",
-      "item_id": "MLB7238539878",
-      "url": "https://www.mercadolivre.com.br/p/MLB39444837?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB39444837?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "smartphone samsung galaxy s23 ultra 512gb creme",
-      "title": "Smartphone Samsung Galaxy S23 Ultra 512gb Creme",
-      "category": "Informática",
-      "price": 5999.0,
-      "score": 87.0,
-      "posted_ts": 1786471359,
-      "posted_at": "2026-08-11T18:02:39.278421+00:00"
     }
   ],
-  "updated_at": "2026-08-13T17:03:41.164373+00:00"
+  "updated_at": "2026-08-13T18:03:40.538491+00:00"
 }
