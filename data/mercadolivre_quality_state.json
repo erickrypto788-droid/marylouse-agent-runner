@@ -1,6 +1,51 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB3885192245",
+      "product_id": "MLB3885192245",
+      "catalog_product_id": "MLB34729625",
+      "item_id": "MLB3885192245",
+      "url": "https://www.mercadolivre.com.br/p/MLB34729625?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB34729625?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "celular samsung galaxy a55 5g cor azul celeste",
+      "title": "Celular Samsung Galaxy A55 5g Cor Azul-celeste",
+      "category": "Informática",
+      "price": 3099.0,
+      "score": 87.0,
+      "posted_ts": 1786597487,
+      "posted_at": "2026-08-13T05:04:47.540465+00:00"
+    },
+    {
+      "key": "mercadolivre:MLB4450293643",
+      "product_id": "MLB4450293643",
+      "catalog_product_id": "MLB29728116",
+      "item_id": "MLB4450293643",
+      "url": "https://www.mercadolivre.com.br/p/MLB29728116?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB29728116?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "xiaomi poco poco x6 5g dual sim 256gb 12gb branco",
+      "title": "Xiaomi POCO Poco X6 5G Dual SIM 256GB/12GB Branco",
+      "category": "Informática",
+      "price": 3500.0,
+      "score": 87.0,
+      "posted_ts": 1786597423,
+      "posted_at": "2026-08-13T05:03:43.421870+00:00"
+    },
+    {
+      "key": "mercadolivre:MLB6597920920",
+      "product_id": "MLB6597920920",
+      "catalog_product_id": "MLB61698753",
+      "item_id": "MLB6597920920",
+      "url": "https://www.mercadolivre.com.br/p/MLB61698753?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB61698753?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "smartphone samsung galaxy a56 5g preto 256gb",
+      "title": "Smartphone Samsung Galaxy A56 5g Preto 256gb",
+      "category": "Informática",
+      "price": 2484.0,
+      "score": 87.0,
+      "posted_ts": 1786597359,
+      "posted_at": "2026-08-13T05:02:39.384117+00:00"
+    },
+    {
       "key": "mercadolivre:MLB7150469040",
       "product_id": "MLB7150469040",
       "catalog_product_id": "MLB59821316",
@@ -1501,5 +1546,5 @@
       "posted_at": "2026-08-11T07:06:27.575835+00:00"
     }
   ],
-  "updated_at": "2026-08-13T04:05:25.910034+00:00"
+  "updated_at": "2026-08-13T05:04:47.540480+00:00"
 }
