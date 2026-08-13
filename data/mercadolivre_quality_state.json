@@ -1,6 +1,36 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB6827581422",
+      "product_id": "MLB6827581422",
+      "catalog_product_id": "MLB70114350",
+      "item_id": "MLB6827581422",
+      "url": "https://www.mercadolivre.com.br/p/MLB70114350?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB70114350?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "prancha esteira ergometrica kikos e600ix preto",
+      "title": "Prancha Esteira Ergometrica Kikos E600ix Preto",
+      "category": "Esportes",
+      "price": 191.28,
+      "score": 103.27,
+      "posted_ts": 1786640621,
+      "posted_at": "2026-08-13T17:03:41.164362+00:00"
+    },
+    {
+      "key": "mercadolivre:MLB7119236764",
+      "product_id": "MLB7119236764",
+      "catalog_product_id": "MLB75107533",
+      "item_id": "MLB7119236764",
+      "url": "https://www.mercadolivre.com.br/p/MLB75107533?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB75107533?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "bike spinning bicicleta 6kg wct fitness preta",
+      "title": "Bike Spinning Bicicleta 6kg Wct Fitness Preta",
+      "category": "Esportes",
+      "price": 699.99,
+      "score": 116.48,
+      "posted_ts": 1786640556,
+      "posted_at": "2026-08-13T17:02:36.984189+00:00"
+    },
+    {
       "key": "mercadolivre:MLB6512536586",
       "product_id": "MLB6512536586",
       "catalog_product_id": "MLB25981434",
@@ -1409,37 +1439,7 @@
       "score": 87.0,
       "posted_ts": 1786471359,
       "posted_at": "2026-08-11T18:02:39.278421+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB4455480129",
-      "product_id": "MLB4455480129",
-      "catalog_product_id": "MLB65128982",
-      "item_id": "MLB4455480129",
-      "url": "https://www.mercadolivre.com.br/p/MLB65128982?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB65128982?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "soundbar samsung hw b400f soundbar hw b400f preto",
-      "title": "Soundbar Samsung Hw-b400f + Soundbar Hw-b400f Preto",
-      "category": "Informática",
-      "price": 1519.0,
-      "score": 72.0,
-      "posted_ts": 1786467813,
-      "posted_at": "2026-08-11T17:03:33.748212+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB4455473269",
-      "product_id": "MLB4455473269",
-      "catalog_product_id": "MLB65128496",
-      "item_id": "MLB4455473269",
-      "url": "https://www.mercadolivre.com.br/p/MLB65128496?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB65128496?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "soundbar samsung hw b450f soundbar hw b400f",
-      "title": "Soundbar Samsung Hw-b450f + Soundbar Hw-b400f",
-      "category": "Informática",
-      "price": 1809.0,
-      "score": 72.0,
-      "posted_ts": 1786467749,
-      "posted_at": "2026-08-11T17:02:29.681865+00:00"
     }
   ],
-  "updated_at": "2026-08-13T16:05:13.956824+00:00"
+  "updated_at": "2026-08-13T17:03:41.164373+00:00"
 }
