@@ -1,6 +1,51 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB7150469040",
+      "product_id": "MLB7150469040",
+      "catalog_product_id": "MLB59821316",
+      "item_id": "MLB7150469040",
+      "url": "https://www.mercadolivre.com.br/p/MLB59821316?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB59821316?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "tv box rbi smart tv box 4k prosb 2000 preto 5 geracao wi fi hdmi",
+      "title": "TV Box RBI Smart TV Box 4K PROSB-2000 Preto 5ª Geração Wi-Fi HDMI",
+      "category": "Pet",
+      "price": 176.9,
+      "score": 71.0,
+      "posted_ts": 1786593925,
+      "posted_at": "2026-08-13T04:05:25.910021+00:00"
+    },
+    {
+      "key": "mercadolivre:MLB6252264240",
+      "product_id": "MLB6252264240",
+      "catalog_product_id": "MLB65564566",
+      "item_id": "MLB6252264240",
+      "url": "https://www.mercadolivre.com.br/p/MLB65564566?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB65564566?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "soundbar samsung hw q990f soundbar hw b400f",
+      "title": "Soundbar Samsung Hw-q990f + Soundbar Hw-b400f",
+      "category": "Informática",
+      "price": 7349.0,
+      "score": 72.0,
+      "posted_ts": 1786593856,
+      "posted_at": "2026-08-13T04:04:16.273812+00:00"
+    },
+    {
+      "key": "mercadolivre:MLB4918382621",
+      "product_id": "MLB4918382621",
+      "catalog_product_id": "MLB62010143",
+      "item_id": "MLB4918382621",
+      "url": "https://www.mercadolivre.com.br/p/MLB62010143?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB62010143?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "fone bluetooth redmi",
+      "title": "Fone Bluetooth Redmi",
+      "category": "Informática",
+      "price": 25.65,
+      "score": 87.83,
+      "posted_ts": 1786593769,
+      "posted_at": "2026-08-13T04:02:49.630162+00:00"
+    },
+    {
       "key": "mercadolivre:MLB5297261932",
       "product_id": "MLB5297261932",
       "catalog_product_id": "MLB45785598",
@@ -1454,52 +1499,7 @@
       "score": 86.97,
       "posted_ts": 1786431987,
       "posted_at": "2026-08-11T07:06:27.575835+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB4622967263",
-      "product_id": "MLB4622967263",
-      "catalog_product_id": "MLB28886564",
-      "item_id": "MLB4622967263",
-      "url": "https://www.mercadolivre.com.br/p/MLB28886564?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB28886564?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "racao gato alimento vittamax premium especial 10kg mix",
-      "title": "Ração Gato Alimento Vittamax Premium Especial 10kg Mix",
-      "category": "Pet",
-      "price": 139.9,
-      "score": 71.0,
-      "posted_ts": 1786417419,
-      "posted_at": "2026-08-11T03:03:39.476970+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB4342761455",
-      "product_id": "MLB4342761455",
-      "catalog_product_id": "MLB49735840",
-      "item_id": "MLB4342761455",
-      "url": "https://www.mercadolivre.com.br/p/MLB49735840?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB49735840?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "racao cachorro selection adultos pequenos 10 1kg harmony",
-      "title": "Ração Cachorro Selection Adultos Pequenos 10,1kg Harmony",
-      "category": "Pet",
-      "price": 149.9,
-      "score": 71.0,
-      "posted_ts": 1786417355,
-      "posted_at": "2026-08-11T03:02:35.276521+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB7025030702",
-      "product_id": "MLB7025030702",
-      "catalog_product_id": "MLB21775692",
-      "item_id": "MLB7025030702",
-      "url": "https://www.mercadolivre.com.br/p/MLB21775692?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB21775692?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "oximetro oximetro de pulso oxigenio coracao pediatrico para adultos",
-      "title": "Oxímetro, oxímetro de pulso, oxigênio, coração pediátrico para adultos",
-      "category": "Pet",
-      "price": 49.9,
-      "score": 71.0,
-      "posted_ts": 1786413734,
-      "posted_at": "2026-08-11T02:02:14.930782+00:00"
     }
   ],
-  "updated_at": "2026-08-13T01:04:30.898459+00:00"
+  "updated_at": "2026-08-13T04:05:25.910034+00:00"
 }
