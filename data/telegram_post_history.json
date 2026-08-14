@@ -1,6 +1,76 @@
 {
   "posts": [
     {
+      "key": "shopee:50513998071",
+      "marketplace": "shopee",
+      "id": "50513998071",
+      "title": "Controle sem Fio DualSense PS5 Sony PlayStation Branco",
+      "title_norm": "controle sem fio dualsense ps5 sony playstation branco",
+      "url": "https://shopee.com.br/product/1343318906/50513998071",
+      "affiliate_url": "https://s.shopee.com.br/4fvOlATGaO",
+      "category": "NegociuN",
+      "bucket": "negociun",
+      "posted_ts": 1786731666,
+      "posted_at": "2026-08-14T18:21:06.986497+00:00",
+      "score": 78.07
+    },
+    {
+      "key": "shopee:23794223771",
+      "marketplace": "shopee",
+      "id": "23794223771",
+      "title": "Headset Gamer Pichau Vega, Drivers 50mm, Preto, PCH-VGA-BL01",
+      "title_norm": "headset gamer pichau vega drivers 50mm preto pch vga bl01",
+      "url": "https://shopee.com.br/product/627750190/23794223771",
+      "affiliate_url": "https://s.shopee.com.br/2LXVJIFeaf",
+      "category": "Pichau",
+      "bucket": "pichau",
+      "posted_ts": 1786731594,
+      "posted_at": "2026-08-14T18:19:54.312862+00:00",
+      "score": 87.42
+    },
+    {
+      "key": "shopee:27744068828",
+      "marketplace": "shopee",
+      "id": "27744068828",
+      "title": "Controlador Sem Fio Com Vibração Bluetooth One Game Ones XBOX Controller",
+      "title_norm": "controlador sem fio com vibracao bluetooth one game ones xbox controller",
+      "url": "https://shopee.com.br/product/321460164/27744068828",
+      "affiliate_url": "https://s.shopee.com.br/1Lewn2kYxC",
+      "category": "electronics.br",
+      "bucket": "pet",
+      "posted_ts": 1786731530,
+      "posted_at": "2026-08-14T18:18:50.242777+00:00",
+      "score": 94.47
+    },
+    {
+      "key": "shopee:50509774767",
+      "marketplace": "shopee",
+      "id": "50509774767",
+      "title": "Gamesir T4 Nova Lite Controlador De Jogo Sem Fio Multiplataforma Efeito Hall PC Laptop Steam Android IOS Nintendo Switch",
+      "title_norm": "gamesir t4 nova lite controlador de jogo sem fio multiplataforma efeito hall pc laptop steam android ios nintendo switch",
+      "url": "https://shopee.com.br/product/1789269226/50509774767",
+      "affiliate_url": "https://s.shopee.com.br/9pdUufIOfg",
+      "category": "CaMera Store",
+      "bucket": "camera_store",
+      "posted_ts": 1786731466,
+      "posted_at": "2026-08-14T18:17:46.214216+00:00",
+      "score": 101.45
+    },
+    {
+      "key": "shopee:22098162297",
+      "marketplace": "shopee",
+      "id": "22098162297",
+      "title": "Console Portátil R36S + de 15.000 Jogos Vídeo Game 64g Linux Tela IPS 3.5 Polegadas",
+      "title_norm": "console portatil r36s de 15 000 jogos video game 64g linux tela ips 3 5 polegadas",
+      "url": "https://shopee.com.br/product/1127030290/22098162297",
+      "affiliate_url": "https://s.shopee.com.br/1126OQudAk",
+      "category": "JIMMY.STORE",
+      "bucket": "jimmy_store",
+      "posted_ts": 1786731395,
+      "posted_at": "2026-08-14T18:16:35.077721+00:00",
+      "score": 117.98
+    },
+    {
       "key": "shopee:9511754133",
       "marketplace": "shopee",
       "id": "9511754133",
@@ -71,5 +141,5 @@
       "score": 130.19
     }
   ],
-  "updated_at": "2026-08-14T16:20:51.888533+00:00"
+  "updated_at": "2026-08-14T18:21:06.986506+00:00"
 }
