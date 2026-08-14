@@ -1,6 +1,36 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB7003862824",
+      "product_id": "MLB7003862824",
+      "catalog_product_id": "MLB74184723",
+      "item_id": "MLB7003862824",
+      "url": "https://www.mercadolivre.com.br/p/MLB74184723?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB74184723?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "painel d rossi painel para tv para tv ate 60 cumaru de mdf mdp",
+      "title": "Painel D'Rossi Painel Para TV para TV até 60\" cumaru de mdf/mdp",
+      "category": "Casa e Cozinha",
+      "price": 663.09,
+      "score": 79.57,
+      "posted_ts": 1786698237,
+      "posted_at": "2026-08-14T09:03:57.291005+00:00"
+    },
+    {
+      "key": "mercadolivre:MLB4095236823",
+      "product_id": "MLB4095236823",
+      "catalog_product_id": "MLB32947723",
+      "item_id": "MLB4095236823",
+      "url": "https://www.mercadolivre.com.br/p/MLB32947723?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB32947723?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "conjunto panelas antiaderente tramontina 5pecas vermelho",
+      "title": "Conjunto Panelas Antiaderente Tramontina 5peças Vermelho",
+      "category": "Casa e Cozinha",
+      "price": 301.79,
+      "score": 93.24,
+      "posted_ts": 1786698172,
+      "posted_at": "2026-08-14T09:02:52.973904+00:00"
+    },
+    {
       "key": "mercadolivre:MLB4080638301",
       "product_id": "MLB4080638301",
       "catalog_product_id": "MLB50715477",
@@ -1364,37 +1394,7 @@
       "score": 71.0,
       "posted_ts": 1786525504,
       "posted_at": "2026-08-12T09:05:04.473094+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB5653921846",
-      "product_id": "MLB5653921846",
-      "catalog_product_id": "MLB45798788",
-      "item_id": "MLB5653921846",
-      "url": "https://www.mercadolivre.com.br/p/MLB45798788?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB45798788?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "monitor 24 polegadas 1920x1200px vga hdmi 5ms rapido",
-      "title": "Monitor 24 Polegadas 1920x1200px Vga Hdmi 5ms Rápido",
-      "category": "Informática",
-      "price": 565.0,
-      "score": 71.0,
-      "posted_ts": 1786525433,
-      "posted_at": "2026-08-12T09:03:53.743548+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB4353924282",
-      "product_id": "MLB4353924282",
-      "catalog_product_id": "MLB29479675",
-      "item_id": "MLB4353924282",
-      "url": "https://www.mercadolivre.com.br/p/MLB29479675?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB29479675?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "mesa computador escrivaninha notebook gamer cor branco ajl",
-      "title": "Mesa Computador Escrivaninha Notebook Gamer cor branco AJL",
-      "category": "Informática",
-      "price": 267.2,
-      "score": 71.0,
-      "posted_ts": 1786525363,
-      "posted_at": "2026-08-12T09:02:43.932503+00:00"
     }
   ],
-  "updated_at": "2026-08-14T08:06:57.265906+00:00"
+  "updated_at": "2026-08-14T09:03:57.291015+00:00"
 }
