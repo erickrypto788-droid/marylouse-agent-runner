@@ -228,6 +228,7 @@ jobs:
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
           STATE_FILES=(
+            "data/telegram_post_history.json"
             "data/agent.sqlite3"
             "data/mercadolivre_niche_state.json"
             "data/mercadolivre_oauth_token.json"

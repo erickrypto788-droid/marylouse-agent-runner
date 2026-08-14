@@ -17,6 +17,7 @@ from .scoring import passes_filters, score_product
 from .storage import Storage
 from .telegram import TelegramClient
 from .site_publisher import publish_offer_to_site
+from .telegram_quality import filter_telegram_candidates, mark_telegram_posted
 from .mercadolivre_quality import select_quality_mercadolivre_products, mark_mercadolivre_posted
 
 
@@ -462,6 +463,9 @@ def run_once(cfg: Dict[str, Any]) -> Dict[str, Any]:
         candidates = prepare_candidates(products, cfg, storage)
         print(f"[agent] {len(candidates)} candidatos após filtros e score")
 
+        candidates = filter_telegram_candidates(candidates, cfg)
+        print(f"[agent] {len(candidates)} candidatos após curadoria Telegram")
+
         posted = []
         for product in select_products_to_post(candidates, cfg):
             offer_copy = create_copy(product, cfg)
@@ -494,6 +498,9 @@ def run_once(cfg: Dict[str, Any]) -> Dict[str, Any]:
                     time.sleep(min_seconds_between_posts)
 
             storage.mark_posted(product, offer_copy, telegram_message_id=message_id, dry_run=dry_run)
+
+            if not dry_run and message_id is not None:
+                mark_telegram_posted(product, cfg)
 
             if not dry_run and product.marketplace == "mercadolivre":
                 mark_mercadolivre_posted(product, cfg)

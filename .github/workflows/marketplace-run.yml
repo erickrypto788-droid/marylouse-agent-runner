@@ -229,6 +229,7 @@ jobs:
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
           STATE_FILES=(
+            "data/telegram_post_history.json"
             "data/agent.sqlite3"
             "data/niche_state.json"
             "data/niche_state_shopee.json"
