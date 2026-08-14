@@ -1,6 +1,76 @@
 {
   "posts": [
     {
+      "key": "shopee:58210768878",
+      "marketplace": "shopee",
+      "id": "58210768878",
+      "title": "Blusa Tule Ondas Feminina Manga Longa Transparente Elegante Promoção",
+      "title_norm": "blusa tule ondas feminina manga longa transparente elegante promocao",
+      "url": "https://shopee.com.br/product/1282997905/58210768878",
+      "affiliate_url": "https://s.shopee.com.br/3qMHplUMLM",
+      "category": "SM T-Shirt",
+      "bucket": "sm_t_shirt",
+      "posted_ts": 1786738879,
+      "posted_at": "2026-08-14T20:21:19.186223+00:00",
+      "score": 116.2
+    },
+    {
+      "key": "shopee:58255069695",
+      "marketplace": "shopee",
+      "id": "58255069695",
+      "title": "Calça Cintura média Versátil - Perfeita para Looks Casuais e Elegantes",
+      "title_norm": "calca cintura media versatil perfeita para looks casuais e elegantes",
+      "url": "https://shopee.com.br/product/1641027419/58255069695",
+      "affiliate_url": "https://s.shopee.com.br/1qbDS5Om6T",
+      "category": "Vmts Femenina",
+      "bucket": "vmts_femenina",
+      "posted_ts": 1786738806,
+      "posted_at": "2026-08-14T20:20:06.946196+00:00",
+      "score": 117.93
+    },
+    {
+      "key": "shopee:22598959647",
+      "marketplace": "shopee",
+      "id": "22598959647",
+      "title": "Kit 2 Regata Feminina Fitness Basica Tapa Bumbum Soltinha Academia Crossfit Corrida Malhar Treino",
+      "title_norm": "kit 2 regata feminina fitness basica tapa bumbum soltinha academia crossfit corrida malhar treino",
+      "url": "https://shopee.com.br/product/482077195/22598959647",
+      "affiliate_url": "https://s.shopee.com.br/8V87OLLWxU",
+      "category": "Movliv - Moda Fitness Oficial",
+      "bucket": "moda_feminina",
+      "posted_ts": 1786738736,
+      "posted_at": "2026-08-14T20:18:56.159292+00:00",
+      "score": 119.66
+    },
+    {
+      "key": "shopee:22797545994",
+      "marketplace": "shopee",
+      "id": "22797545994",
+      "title": "Calça Legging Flare Flanelada Leg Boca De Sino Bailarina Grossa Zero Transparência",
+      "title_norm": "calca legging flare flanelada leg boca de sino bailarina grossa zero transparencia",
+      "url": "https://shopee.com.br/product/869193731/22797545994",
+      "affiliate_url": "https://s.shopee.com.br/4Vbyczf9v6",
+      "category": "OxeanJeans",
+      "bucket": "moda_feminina",
+      "posted_ts": 1786738671,
+      "posted_at": "2026-08-14T20:17:51.986589+00:00",
+      "score": 130.28
+    },
+    {
+      "key": "shopee:23397741792",
+      "marketplace": "shopee",
+      "id": "23397741792",
+      "title": "Calça Jeans Feminina Cintura Alta Wide Leg Com Bolso",
+      "title_norm": "calca jeans feminina cintura alta wide leg com bolso",
+      "url": "https://shopee.com.br/product/952371980/23397741792",
+      "affiliate_url": "https://s.shopee.com.br/4fvOpIeWaF",
+      "category": "Joy Jeans",
+      "bucket": "joy_jeans",
+      "posted_ts": 1786738607,
+      "posted_at": "2026-08-14T20:16:47.737048+00:00",
+      "score": 130.52
+    },
+    {
       "key": "mercadolivre:MLB7395731398",
       "marketplace": "mercadolivre",
       "id": "MLB7395731398",
@@ -169,5 +239,5 @@
       "score": 130.19
     }
   ],
-  "updated_at": "2026-08-14T20:04:25.719855+00:00"
+  "updated_at": "2026-08-14T20:21:19.186234+00:00"
 }
