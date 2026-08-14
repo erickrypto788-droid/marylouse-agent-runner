@@ -1,6 +1,21 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB4856179667",
+      "product_id": "MLB4856179667",
+      "catalog_product_id": "MLB57578486",
+      "item_id": "MLB4856179667",
+      "url": "https://www.mercadolivre.com.br/p/MLB57578486?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB57578486?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "mini impressora niimbot b1 etiqueta bluetooth cor prateado impressora etiquetas adesivas",
+      "title": "Mini Impressora Niimbot B1 etiqueta Bluetooth Cor Prateado impressora etiquetas adesivas",
+      "category": "Informática",
+      "price": 223.99,
+      "score": 157.47,
+      "posted_ts": 1786748559,
+      "posted_at": "2026-08-14T23:02:39.363071+00:00"
+    },
+    {
       "key": "mercadolivre:MLB4552727020",
       "product_id": "MLB4552727020",
       "catalog_product_id": "MLB23076913",
@@ -1199,37 +1214,7 @@
       "score": 71.0,
       "posted_ts": 1786575794,
       "posted_at": "2026-08-12T23:03:14.791631+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB4473728059",
-      "product_id": "MLB4473728059",
-      "catalog_product_id": "MLB23181287",
-      "item_id": "MLB4473728059",
-      "url": "https://www.mercadolivre.com.br/p/MLB23181287?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB23181287?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "perfume feminino grace gourmand",
-      "title": "Perfume Feminino Grace Gourmand",
-      "category": "Beleza",
-      "price": 139.9,
-      "score": 71.0,
-      "posted_ts": 1786575730,
-      "posted_at": "2026-08-12T23:02:10.804725+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB6878473948",
-      "product_id": "MLB6878473948",
-      "catalog_product_id": "MLB70606708",
-      "item_id": "MLB6878473948",
-      "url": "https://www.mercadolivre.com.br/p/MLB70606708?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB70606708?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "capa esteira ergometrica esteira athletic racer",
-      "title": "Capa Esteira Ergométrica Esteira Athletic Racer",
-      "category": "Esportes",
-      "price": 128.0,
-      "score": 69.0,
-      "posted_ts": 1786572269,
-      "posted_at": "2026-08-12T22:04:29.863326+00:00"
     }
   ],
-  "updated_at": "2026-08-14T22:03:43.004174+00:00"
+  "updated_at": "2026-08-14T23:02:39.363080+00:00"
 }

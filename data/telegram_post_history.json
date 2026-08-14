@@ -1,6 +1,20 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB4856179667",
+      "marketplace": "mercadolivre",
+      "id": "MLB4856179667",
+      "title": "Mini Impressora Niimbot B1 etiqueta Bluetooth Cor Prateado impressora etiquetas adesivas",
+      "title_norm": "mini impressora niimbot b1 etiqueta bluetooth cor prateado impressora etiquetas adesivas",
+      "url": "https://www.mercadolivre.com.br/p/MLB57578486?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB57578486?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Informática",
+      "bucket": "informatica",
+      "posted_ts": 1786748559,
+      "posted_at": "2026-08-14T23:02:39.362028+00:00",
+      "score": 157.47
+    },
+    {
       "key": "shopee:54709724279",
       "marketplace": "shopee",
       "id": "54709724279",
@@ -407,5 +421,5 @@
       "score": 130.19
     }
   ],
-  "updated_at": "2026-08-14T22:21:15.139374+00:00"
+  "updated_at": "2026-08-14T23:02:39.362038+00:00"
 }
