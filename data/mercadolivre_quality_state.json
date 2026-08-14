@@ -1,6 +1,36 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB7197070408",
+      "product_id": "MLB7197070408",
+      "catalog_product_id": "MLB75425217",
+      "item_id": "MLB7197070408",
+      "url": "https://www.mercadolivre.com.br/p/MLB75425217?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB75425217?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "monitor pressao omron 7122 saude no seu braco",
+      "title": "Monitor Pressão Omron 7122: Saúde No Seu Braço",
+      "category": "Informática",
+      "price": 285.0,
+      "score": 71.0,
+      "posted_ts": 1786669424,
+      "posted_at": "2026-08-14T01:03:44.874111+00:00"
+    },
+    {
+      "key": "mercadolivre:MLB6632460608",
+      "product_id": "MLB6632460608",
+      "catalog_product_id": "MLB62814199",
+      "item_id": "MLB6632460608",
+      "url": "https://www.mercadolivre.com.br/p/MLB62814199?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB62814199?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "monitor de pressao arterial de braco monitor pressao arterial hc10014 muinaifte cor blanco",
+      "title": "Monitor De Pressão Arterial De Braço Monitor pressao arterial HC10014 MUINAIFTE Cor Blanco",
+      "category": "Informática",
+      "price": 89.99,
+      "score": 103.33,
+      "posted_ts": 1786669357,
+      "posted_at": "2026-08-14T01:02:37.248500+00:00"
+    },
+    {
       "key": "mercadolivre:MLB5026800457",
       "product_id": "MLB5026800457",
       "catalog_product_id": "MLB20643765",
@@ -1394,37 +1424,7 @@
       "score": 111.07,
       "posted_ts": 1786496783,
       "posted_at": "2026-08-12T01:06:23.447559+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB6194259162",
-      "product_id": "MLB6194259162",
-      "catalog_product_id": "MLB26008929",
-      "item_id": "MLB6194259162",
-      "url": "https://www.mercadolivre.com.br/p/MLB26008929?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB26008929?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "cadeira gamer profissional ergonomica giratoria vermelha para escritorio",
-      "title": "Cadeira Gamer Profissional Ergonômica Giratória Vermelha para Escritório",
-      "category": "Casa e Cozinha",
-      "price": 900.0,
-      "score": 71.0,
-      "posted_ts": 1786492935,
-      "posted_at": "2026-08-12T00:02:15.563503+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB6978080348",
-      "product_id": "MLB6978080348",
-      "catalog_product_id": "MLB46173110",
-      "item_id": "MLB6978080348",
-      "url": "https://www.mercadolivre.com.br/p/MLB46173110?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB46173110?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "impressora etiquetas monocromatica toledo prix it400m usb",
-      "title": "Impressora Etiquetas Monocromática Toledo Prix IT400M USB",
-      "category": "Informática",
-      "price": 1177.0,
-      "score": 71.0,
-      "posted_ts": 1786489479,
-      "posted_at": "2026-08-11T23:04:39.682026+00:00"
     }
   ],
-  "updated_at": "2026-08-13T23:04:32.365665+00:00"
+  "updated_at": "2026-08-14T01:03:44.874121+00:00"
 }
