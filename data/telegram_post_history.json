@@ -1,6 +1,34 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB7395731398",
+      "marketplace": "mercadolivre",
+      "id": "MLB7395731398",
+      "title": "Balança Digital De Precisão 10kg Balança Digital Cozinha Balança Digital Balança Digital Plastico Balança Dieta Fitness EcomVit",
+      "title_norm": "balanca digital de precisao 10kg balanca digital cozinha balanca digital balanca digital plastico balanca dieta fitness ecomvit",
+      "url": "https://www.mercadolivre.com.br/p/MLB76866122?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB76866122?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Esportes",
+      "bucket": "esportes",
+      "posted_ts": 1786737865,
+      "posted_at": "2026-08-14T20:04:25.719843+00:00",
+      "score": 83.86
+    },
+    {
+      "key": "mercadolivre:MLB7193068554",
+      "marketplace": "mercadolivre",
+      "id": "MLB7193068554",
+      "title": "Aparelho Monitor Pressão Arterial Automático Digital Braço",
+      "title_norm": "aparelho monitor pressao arterial automatico digital braco",
+      "url": "https://www.mercadolivre.com.br/p/MLB64282130?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB64282130?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Informática",
+      "bucket": "saude",
+      "posted_ts": 1786737760,
+      "posted_at": "2026-08-14T20:02:40.545991+00:00",
+      "score": 97.14
+    },
+    {
       "key": "shopee:50513998071",
       "marketplace": "shopee",
       "id": "50513998071",
@@ -141,5 +169,5 @@
       "score": 130.19
     }
   ],
-  "updated_at": "2026-08-14T18:21:06.986506+00:00"
+  "updated_at": "2026-08-14T20:04:25.719855+00:00"
 }
