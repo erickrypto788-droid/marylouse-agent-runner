@@ -1,6 +1,76 @@
 {
   "posts": [
     {
+      "key": "shopee:22998222118",
+      "marketplace": "shopee",
+      "id": "22998222118",
+      "title": "Kit 3 Camisas Dry Fit Masculino Academia Tecido Leve Musculação e Treino",
+      "title_norm": "kit 3 camisas dry fit masculino academia tecido leve musculacao e treino",
+      "url": "https://shopee.com.br/product/1478169760/22998222118",
+      "affiliate_url": "https://s.shopee.com.br/50YGgYYr7F",
+      "category": "Excios Fitness",
+      "bucket": "excios_fitness",
+      "posted_ts": 1786742469,
+      "posted_at": "2026-08-14T21:21:09.745636+00:00",
+      "score": 114.27
+    },
+    {
+      "key": "shopee:22593964805",
+      "marketplace": "shopee",
+      "id": "22593964805",
+      "title": "Camisa Social Tecnológica Slim Fit Anti-Transpirante Ante Odor E Não Amassa - Não é Poliéster",
+      "title_norm": "camisa social tecnologica slim fit anti transpirante ante odor e nao amassa nao e poliester",
+      "url": "https://shopee.com.br/product/413762733/22593964805",
+      "affiliate_url": "https://s.shopee.com.br/1LeyJomoYl",
+      "category": "ALAN.FONTE.888",
+      "bucket": "alan_fonte_888",
+      "posted_ts": 1786742405,
+      "posted_at": "2026-08-14T21:20:05.582362+00:00",
+      "score": 114.27
+    },
+    {
+      "key": "shopee:58258185784",
+      "marketplace": "shopee",
+      "id": "58258185784",
+      "title": "Kit Com 2 Bermudas Tactel Elastano Masculina Bolso Com Zíper Academia, Treino e Praia",
+      "title_norm": "kit com 2 bermudas tactel elastano masculina bolso com ziper academia treino e praia",
+      "url": "https://shopee.com.br/product/222735813/58258185784",
+      "affiliate_url": "https://s.shopee.com.br/4Az8IUeTcM",
+      "category": "Zerun Fitness",
+      "bucket": "zerun_fitness",
+      "posted_ts": 1786742341,
+      "posted_at": "2026-08-14T21:19:01.507973+00:00",
+      "score": 117.3
+    },
+    {
+      "key": "shopee:23698866824",
+      "marketplace": "shopee",
+      "id": "23698866824",
+      "title": "Kit Com 3 Bermudas Shorts Masculinos Básicos Bermuda Para Atividades Fisicas",
+      "title_norm": "kit com 3 bermudas shorts masculinos basicos bermuda para atividades fisicas",
+      "url": "https://shopee.com.br/product/1488516573/23698866824",
+      "affiliate_url": "https://s.shopee.com.br/7psQfEQWBE",
+      "category": "ORIGIN'S DRJS",
+      "bucket": "origin_s_drjs",
+      "posted_ts": 1786742277,
+      "posted_at": "2026-08-14T21:17:57.265848+00:00",
+      "score": 118.41
+    },
+    {
+      "key": "shopee:23498870645",
+      "marketplace": "shopee",
+      "id": "23498870645",
+      "title": "Kit 3 4 ou 6 Bermudas Masculinas Básicas - DryFit - Malha Leve e Confortável - Pronta Entrega Origins",
+      "title_norm": "kit 3 4 ou 6 bermudas masculinas basicas dryfit malha leve e confortavel pronta entrega origins",
+      "url": "https://shopee.com.br/product/1510721628/23498870645",
+      "affiliate_url": "https://s.shopee.com.br/2gAKVjkBex",
+      "category": "ORIGIN'S MTS",
+      "bucket": "origin_s_mts",
+      "posted_ts": 1786742213,
+      "posted_at": "2026-08-14T21:16:53.064670+00:00",
+      "score": 126.53
+    },
+    {
       "key": "shopee:58210768878",
       "marketplace": "shopee",
       "id": "58210768878",
@@ -239,5 +309,5 @@
       "score": 130.19
     }
   ],
-  "updated_at": "2026-08-14T20:21:19.186234+00:00"
+  "updated_at": "2026-08-14T21:21:09.745645+00:00"
 }
