@@ -1,6 +1,51 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB6978080348",
+      "product_id": "MLB6978080348",
+      "catalog_product_id": "MLB46173110",
+      "item_id": "MLB6978080348",
+      "url": "https://www.mercadolivre.com.br/p/MLB46173110?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB46173110?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "impressora etiquetas monocromatica toledo prix it400m usb",
+      "title": "Impressora Etiquetas Monocromática Toledo Prix IT400M USB",
+      "category": "Informática",
+      "price": 1177.0,
+      "score": 71.0,
+      "posted_ts": 1786683890,
+      "posted_at": "2026-08-14T05:04:50.192803+00:00"
+    },
+    {
+      "key": "mercadolivre:MLB5201599262",
+      "product_id": "MLB5201599262",
+      "catalog_product_id": "MLB44215301",
+      "item_id": "MLB5201599262",
+      "url": "https://www.mercadolivre.com.br/p/MLB44215301?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB44215301?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "ribbon resina mastercorp 110x300 para impressora etiquetas bopp vinil",
+      "title": "Ribbon Resina Mastercorp 110x300 Para Impressora Etiquetas BOPP Vinil",
+      "category": "Informática",
+      "price": 638.4,
+      "score": 71.0,
+      "posted_ts": 1786683826,
+      "posted_at": "2026-08-14T05:03:46.013096+00:00"
+    },
+    {
+      "key": "mercadolivre:MLB3954286799",
+      "product_id": "MLB3954286799",
+      "catalog_product_id": "MLB39019401",
+      "item_id": "MLB3954286799",
+      "url": "https://www.mercadolivre.com.br/p/MLB39019401?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB39019401?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "impressora etiquetas logistica codigo de barras usb",
+      "title": "Impressora Etiquetas Logistica Código De Barras Usb",
+      "category": "Informática",
+      "price": 549.99,
+      "score": 97.73,
+      "posted_ts": 1786683761,
+      "posted_at": "2026-08-14T05:02:41.756715+00:00"
+    },
+    {
       "key": "mercadolivre:MLB4864941673",
       "product_id": "MLB4864941673",
       "catalog_product_id": "MLB51893724",
@@ -1304,37 +1349,7 @@
       "score": 102.53,
       "posted_ts": 1786514568,
       "posted_at": "2026-08-12T06:02:48.227902+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB4552665179",
-      "product_id": "MLB4552665179",
-      "catalog_product_id": "MLB20818317",
-      "item_id": "MLB4552665179",
-      "url": "https://www.mercadolivre.com.br/p/MLB20818317?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB20818317?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "whey protein concentrado whey protein isolado cafeina",
-      "title": "Whey Protein Concentrado + Whey Protein Isolado + Cafeína",
-      "category": "Esportes",
-      "price": 658.0,
-      "score": 71.0,
-      "posted_ts": 1786511051,
-      "posted_at": "2026-08-12T05:04:11.565300+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB7359539976",
-      "product_id": "MLB7359539976",
-      "catalog_product_id": "MLB18603556",
-      "item_id": "MLB7359539976",
-      "url": "https://www.mercadolivre.com.br/p/MLB18603556?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB18603556?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "bike spinning kikos max ks5 preto",
-      "title": "Bike Spinning Kikos Max-ks5 Preto",
-      "category": "Esportes",
-      "price": 2770.0,
-      "score": 72.0,
-      "posted_ts": 1786510980,
-      "posted_at": "2026-08-12T05:03:00.719304+00:00"
     }
   ],
-  "updated_at": "2026-08-14T04:04:30.532691+00:00"
+  "updated_at": "2026-08-14T05:04:50.192818+00:00"
 }
