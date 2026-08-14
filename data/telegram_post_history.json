@@ -1,6 +1,48 @@
 {
   "posts": [
     {
+      "key": "shopee:18598039649",
+      "marketplace": "shopee",
+      "id": "18598039649",
+      "title": "Botina de segurança com biqueira pvc em couro legitimo CA",
+      "title_norm": "botina de seguranca com biqueira pvc em couro legitimo ca",
+      "url": "https://shopee.com.br/product/423975147/18598039649",
+      "affiliate_url": "https://s.shopee.com.br/50YGonLxQa",
+      "category": "FIZATTI OUTLET",
+      "bucket": "fizatti_outlet",
+      "posted_ts": 1786749535,
+      "posted_at": "2026-08-14T23:18:55.433355+00:00",
+      "score": 48.09
+    },
+    {
+      "key": "shopee:29257433692",
+      "marketplace": "shopee",
+      "id": "29257433692",
+      "title": "Conjunto De 12 Peças De Cadarços Elásticos De Silicone Preguiçosos Sem Amarração Para Tênis , De Corrida E Botas-Confort",
+      "title_norm": "conjunto de 12 pecas de cadarcos elasticos de silicone preguicosos sem amarracao para tenis de corrida e botas confort",
+      "url": "https://shopee.com.br/product/1006215031/29257433692",
+      "affiliate_url": "https://s.shopee.com.br/3g2rpo7YFl",
+      "category": "Choice Oficial",
+      "bucket": "pet",
+      "posted_ts": 1786749463,
+      "posted_at": "2026-08-14T23:17:43.389039+00:00",
+      "score": 59.03
+    },
+    {
+      "key": "shopee:23599241533",
+      "marketplace": "shopee",
+      "id": "23599241533",
+      "title": "Tênis Masculino Running Academia Esportivo Corrida Caminhada Anti Impacto Respirável Macio Ultra Leve",
+      "title_norm": "tenis masculino running academia esportivo corrida caminhada anti impacto respiravel macio ultra leve",
+      "url": "https://shopee.com.br/product/1638165366/23599241533",
+      "affiliate_url": "https://s.shopee.com.br/5fnxc16Dh9",
+      "category": "Evox Calçados e Acessórios LTDA",
+      "bucket": "calcados",
+      "posted_ts": 1786749399,
+      "posted_at": "2026-08-14T23:16:39.251664+00:00",
+      "score": 123.97
+    },
+    {
       "key": "mercadolivre:MLB4856179667",
       "marketplace": "mercadolivre",
       "id": "MLB4856179667",
@@ -421,5 +463,5 @@
       "score": 130.19
     }
   ],
-  "updated_at": "2026-08-14T23:02:39.362038+00:00"
+  "updated_at": "2026-08-14T23:18:55.433364+00:00"
 }
