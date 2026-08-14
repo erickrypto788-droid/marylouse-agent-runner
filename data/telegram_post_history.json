@@ -1,6 +1,76 @@
 {
   "posts": [
     {
+      "key": "shopee:54709724279",
+      "marketplace": "shopee",
+      "id": "54709724279",
+      "title": "Vestido Midi Feminino Alfaiataria Amarração Lateral Elegante Social Casamento Festa Formatura P M G GG G1 G2 Plus Size",
+      "title_norm": "vestido midi feminino alfaiataria amarracao lateral elegante social casamento festa formatura p m g gg g1 g2 plus size",
+      "url": "https://shopee.com.br/product/368500901/54709724279",
+      "affiliate_url": "https://s.shopee.com.br/AKZlhwb33A",
+      "category": "N.A MULTIMARCAS",
+      "bucket": "pet",
+      "posted_ts": 1786746075,
+      "posted_at": "2026-08-14T22:21:15.139365+00:00",
+      "score": 110.02
+    },
+    {
+      "key": "shopee:22397608775",
+      "marketplace": "shopee",
+      "id": "22397608775",
+      "title": "Jaqueta Feminina Couro Sintético Plus Size",
+      "title_norm": "jaqueta feminina couro sintetico plus size",
+      "url": "https://shopee.com.br/product/326857141/22397608775",
+      "affiliate_url": "https://s.shopee.com.br/1VyLnBXKTM",
+      "category": "Galan Modas",
+      "bucket": "galan_modas",
+      "posted_ts": 1786746010,
+      "posted_at": "2026-08-14T22:20:10.778159+00:00",
+      "score": 110.19
+    },
+    {
+      "key": "shopee:22591638181",
+      "marketplace": "shopee",
+      "id": "22591638181",
+      "title": "Calças Jeans Femininas Plus Size Cintura Alta Até o Umbigo Lycra",
+      "title_norm": "calcas jeans femininas plus size cintura alta ate o umbigo lycra",
+      "url": "https://shopee.com.br/product/384125793/22591638181",
+      "affiliate_url": "https://s.shopee.com.br/2LXVZn77XZ",
+      "category": "Vortex Jeans Wear",
+      "bucket": "vortex_jeans_wear",
+      "posted_ts": 1786745946,
+      "posted_at": "2026-08-14T22:19:06.529265+00:00",
+      "score": 112.0
+    },
+    {
+      "key": "shopee:22696701418",
+      "marketplace": "shopee",
+      "id": "22696701418",
+      "title": "Calça Pantalona Plus Size Feminina Elástico Na Cintura Com Bolso Cintura Alta Tecido Duna",
+      "title_norm": "calca pantalona plus size feminina elastico na cintura com bolso cintura alta tecido duna",
+      "url": "https://shopee.com.br/product/869193731/22696701418",
+      "affiliate_url": "https://s.shopee.com.br/60QnwWxYsN",
+      "category": "OxeanJeans",
+      "bucket": "oxeanjeans",
+      "posted_ts": 1786745882,
+      "posted_at": "2026-08-14T22:18:02.288559+00:00",
+      "score": 117.96
+    },
+    {
+      "key": "shopee:58257330060",
+      "marketplace": "shopee",
+      "id": "58257330060",
+      "title": "Vestido Plus Size Soltinho Em Dois Tamanhos e Várias Cores",
+      "title_norm": "vestido plus size soltinho em dois tamanhos e varias cores",
+      "url": "https://shopee.com.br/product/1518048481/58257330060",
+      "affiliate_url": "https://s.shopee.com.br/20udmd6lxK",
+      "category": "augeconceito",
+      "bucket": "moda_feminina",
+      "posted_ts": 1786745814,
+      "posted_at": "2026-08-14T22:16:54.063861+00:00",
+      "score": 118.54
+    },
+    {
       "key": "mercadolivre:MLB4552727020",
       "marketplace": "mercadolivre",
       "id": "MLB4552727020",
@@ -337,5 +407,5 @@
       "score": 130.19
     }
   ],
-  "updated_at": "2026-08-14T22:03:43.003275+00:00"
+  "updated_at": "2026-08-14T22:21:15.139374+00:00"
 }
