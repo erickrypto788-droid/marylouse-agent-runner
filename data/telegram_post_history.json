@@ -1,6 +1,34 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB4552727020",
+      "marketplace": "mercadolivre",
+      "id": "MLB4552727020",
+      "title": "Monitor Bebe Wifi Infravermelho Vision Noctura Intercom Inteligente",
+      "title_norm": "monitor bebe wifi infravermelho vision noctura intercom inteligente",
+      "url": "https://www.mercadolivre.com.br/p/MLB23076913?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB23076913?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Informática",
+      "bucket": "informatica",
+      "posted_ts": 1786745023,
+      "posted_at": "2026-08-14T22:03:43.003266+00:00",
+      "score": 86.0
+    },
+    {
+      "key": "mercadolivre:MLB7372384956",
+      "marketplace": "mercadolivre",
+      "id": "MLB7372384956",
+      "title": "Amarelo escova limpeza mamadeira kit para limpeza de mamadeira kit limpeza mamadeira viagem kit limpeza bebe escova mamadeira portatil escova bico canudo secador higiene infantil acessorios bebe",
+      "title_norm": "amarelo escova limpeza mamadeira kit para limpeza de mamadeira kit limpeza mamadeira viagem kit limpeza bebe escova mamadeira portatil escova bico canudo secador higiene infantil acessorios bebe",
+      "url": "https://www.mercadolivre.com.br/p/MLB75043057?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB75043057?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Mãe e Bebê",
+      "bucket": "beleza",
+      "posted_ts": 1786744958,
+      "posted_at": "2026-08-14T22:02:38.909216+00:00",
+      "score": 192.77
+    },
+    {
       "key": "shopee:22998222118",
       "marketplace": "shopee",
       "id": "22998222118",
@@ -309,5 +337,5 @@
       "score": 130.19
     }
   ],
-  "updated_at": "2026-08-14T21:21:09.745645+00:00"
+  "updated_at": "2026-08-14T22:03:43.003275+00:00"
 }
