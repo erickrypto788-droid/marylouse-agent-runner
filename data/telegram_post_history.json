@@ -1,6 +1,76 @@
 {
   "posts": [
     {
+      "key": "shopee:21897737849",
+      "marketplace": "shopee",
+      "id": "21897737849",
+      "title": "Micro-ondas Philco 25L Função Tira Odor PM27",
+      "title_norm": "micro ondas philco 25l funcao tira odor pm27",
+      "url": "https://shopee.com.br/product/811034337/21897737849",
+      "affiliate_url": "https://s.shopee.com.br/3VjTEP3gSd",
+      "category": "Philco Oficial",
+      "bucket": "philco_oficial",
+      "posted_ts": 1786760452,
+      "posted_at": "2026-08-15T02:20:52.869575+00:00",
+      "score": 88.62
+    },
+    {
+      "key": "shopee:20498962219",
+      "marketplace": "shopee",
+      "id": "20498962219",
+      "title": "Extrator de Sucos Turbo Premium Mondial Preto e Inox 250W E-10",
+      "title_norm": "extrator de sucos turbo premium mondial preto e inox 250w e 10",
+      "url": "https://shopee.com.br/product/1062544851/20498962219",
+      "affiliate_url": "https://s.shopee.com.br/LmRSa2oai",
+      "category": "Mercado Fácil",
+      "bucket": "mercado_facil",
+      "posted_ts": 1786760388,
+      "posted_at": "2026-08-15T02:19:48.843690+00:00",
+      "score": 88.7
+    },
+    {
+      "key": "shopee:21765031787",
+      "marketplace": "shopee",
+      "id": "21765031787",
+      "title": "Pipoqueira Elétrica Sem Óleo 1200W Máquina de Pipoca 110V / 220V",
+      "title_norm": "pipoqueira eletrica sem oleo 1200w maquina de pipoca 110v 220v",
+      "url": "https://shopee.com.br/product/611978835/21765031787",
+      "affiliate_url": "https://s.shopee.com.br/7psSOMnOTY",
+      "category": "LI_SHOP",
+      "bucket": "li_shop",
+      "posted_ts": 1786760324,
+      "posted_at": "2026-08-15T02:18:44.830918+00:00",
+      "score": 110.75
+    },
+    {
+      "key": "shopee:20298661096",
+      "marketplace": "shopee",
+      "id": "20298661096",
+      "title": "Aspirador de Pó Vertical Britânia 2 em 1 1200W BAS1200C",
+      "title_norm": "aspirador de po vertical britania 2 em 1 1200w bas1200c",
+      "url": "https://shopee.com.br/product/811879342/20298661096",
+      "affiliate_url": "https://s.shopee.com.br/8V89BagFYi",
+      "category": "Britânia Oficial",
+      "bucket": "casa_cozinha",
+      "posted_ts": 1786760260,
+      "posted_at": "2026-08-15T02:17:40.854711+00:00",
+      "score": 118.65
+    },
+    {
+      "key": "shopee:22998383507",
+      "marketplace": "shopee",
+      "id": "22998383507",
+      "title": "Panela De Pressão 4,5litros Panelux Linha Classic Alto Brilho A Mais Vendida Do Brasil",
+      "title_norm": "panela de pressao 4 5litros panelux linha classic alto brilho a mais vendida do brasil",
+      "url": "https://shopee.com.br/product/472053026/22998383507",
+      "affiliate_url": "https://s.shopee.com.br/3VjTEP3tGc",
+      "category": "MBShopp",
+      "bucket": "casa_cozinha",
+      "posted_ts": 1786760196,
+      "posted_at": "2026-08-15T02:16:36.870913+00:00",
+      "score": 126.68
+    },
+    {
       "key": "mercadolivre:MLB5917537512",
       "marketplace": "mercadolivre",
       "id": "MLB5917537512",
@@ -673,5 +743,5 @@
       "score": 130.19
     }
   ],
-  "updated_at": "2026-08-15T02:05:42.292043+00:00"
+  "updated_at": "2026-08-15T02:20:52.869585+00:00"
 }
