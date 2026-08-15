@@ -1,6 +1,62 @@
 {
   "posts": [
     {
+      "key": "shopee:23398852310",
+      "marketplace": "shopee",
+      "id": "23398852310",
+      "title": "TOMI MITO Bolsa Feminina com Alça Lateral Transversal de Ombro de Couro PU T304",
+      "title_norm": "tomi mito bolsa feminina com alca lateral transversal de ombro de couro pu t304",
+      "url": "https://shopee.com.br/product/1468415010/23398852310",
+      "affiliate_url": "https://s.shopee.com.br/3g2ttXtXuW",
+      "category": "Amy.Store",
+      "bucket": "bolsas",
+      "posted_ts": 1786785600,
+      "posted_at": "2026-08-15T09:20:00.658430+00:00",
+      "score": 119.75
+    },
+    {
+      "key": "shopee:58206781154",
+      "marketplace": "shopee",
+      "id": "58206781154",
+      "title": "SPOETRY Bolsa Feminina Casual de Nylon Nova Grande Ombro Tote",
+      "title_norm": "spoetry bolsa feminina casual de nylon nova grande ombro tote",
+      "url": "https://shopee.com.br/product/1669666744/58206781154",
+      "affiliate_url": "https://s.shopee.com.br/9pdXEsWLQG",
+      "category": "JESDA-05",
+      "bucket": "bolsas",
+      "posted_ts": 1786785531,
+      "posted_at": "2026-08-15T09:18:51.656706+00:00",
+      "score": 125.16
+    },
+    {
+      "key": "shopee:23497594302",
+      "marketplace": "shopee",
+      "id": "23497594302",
+      "title": "ROMANTIC CROWN Mochla de Viagem MascuIino e Feminina ImpermeaveI Reforçada Executiva para Notebook",
+      "title_norm": "romantic crown mochla de viagem mascuiino e feminina impermeavei reforcada executiva para notebook",
+      "url": "https://shopee.com.br/product/1198407784/23497594302",
+      "affiliate_url": "https://s.shopee.com.br/7VFcSafE9e",
+      "category": "Romantic Crown.02",
+      "bucket": "informatica",
+      "posted_ts": 1786785464,
+      "posted_at": "2026-08-15T09:17:44.072167+00:00",
+      "score": 146.0
+    },
+    {
+      "key": "shopee:22497773735",
+      "marketplace": "shopee",
+      "id": "22497773735",
+      "title": "Mochila Vlagem Feminina Masculinas Multifuncional Reforçada Impermeável Expansível Mochila Notebook Antifurto USB",
+      "title_norm": "mochila vlagem feminina masculinas multifuncional reforcada impermeavel expansivel mochila notebook antifurto usb",
+      "url": "https://shopee.com.br/product/1345043704/22497773735",
+      "affiliate_url": "https://s.shopee.com.br/7fZ2eteaof",
+      "category": "Romantic Crown 02",
+      "bucket": "informatica",
+      "posted_ts": 1786785397,
+      "posted_at": "2026-08-15T09:16:37.774601+00:00",
+      "score": 146.0
+    },
+    {
       "key": "shopee:23799369338",
       "marketplace": "shopee",
       "id": "23799369338",
@@ -1247,5 +1303,5 @@
       "score": 130.19
     }
   ],
-  "updated_at": "2026-08-15T08:22:52.674682+00:00"
+  "updated_at": "2026-08-15T09:20:00.658440+00:00"
 }
