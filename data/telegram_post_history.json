@@ -1,6 +1,62 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB4266241495",
+      "marketplace": "mercadolivre",
+      "id": "MLB4266241495",
+      "title": "Absorvente Mulher Ativa Com Abas Kit 80 Pacotes Gel Super Absorvente",
+      "title_norm": "absorvente mulher ativa com abas kit 80 pacotes gel super absorvente",
+      "url": "https://www.mercadolivre.com.br/p/MLB43806010?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB43806010?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Moda Feminina",
+      "bucket": "moda_feminina",
+      "posted_ts": 1786756184,
+      "posted_at": "2026-08-15T01:09:44.641080+00:00",
+      "score": 88.0
+    },
+    {
+      "key": "mercadolivre:MLB3667109301",
+      "marketplace": "mercadolivre",
+      "id": "MLB3667109301",
+      "title": "Shampoo Infantil 400ml Buba Care",
+      "title_norm": "shampoo infantil 400ml buba care",
+      "url": "https://www.mercadolivre.com.br/p/MLB29671809?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB29671809?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Beleza",
+      "bucket": "beleza",
+      "posted_ts": 1786756119,
+      "posted_at": "2026-08-15T01:08:39.565764+00:00",
+      "score": 88.0
+    },
+    {
+      "key": "mercadolivre:MLB6660297382",
+      "marketplace": "mercadolivre",
+      "id": "MLB6660297382",
+      "title": "Preparo Essência Amaciante Roupas Concentrado Perfume",
+      "title_norm": "preparo essencia amaciante roupas concentrado perfume",
+      "url": "https://www.mercadolivre.com.br/p/MLB67844007?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB67844007?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Supermercados",
+      "bucket": "beleza",
+      "posted_ts": 1786756055,
+      "posted_at": "2026-08-15T01:07:35.345585+00:00",
+      "score": 114.0
+    },
+    {
+      "key": "mercadolivre:MLB5827152542",
+      "marketplace": "mercadolivre",
+      "id": "MLB5827152542",
+      "title": "Amaciante Roupas Macias Sensiv Titila 5l",
+      "title_norm": "amaciante roupas macias sensiv titila 5l",
+      "url": "https://www.mercadolivre.com.br/p/MLB60416491?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB60416491?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Supermercados",
+      "bucket": "supermercado",
+      "posted_ts": 1786755990,
+      "posted_at": "2026-08-15T01:06:30.540789+00:00",
+      "score": 134.85
+    },
+    {
       "key": "shopee:58255239538",
       "marketplace": "shopee",
       "id": "58255239538",
@@ -505,5 +561,5 @@
       "score": 130.19
     }
   ],
-  "updated_at": "2026-08-15T00:18:49.330676+00:00"
+  "updated_at": "2026-08-15T01:09:44.641090+00:00"
 }
