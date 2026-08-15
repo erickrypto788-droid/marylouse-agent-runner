@@ -1,6 +1,34 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB4778884663",
+      "marketplace": "mercadolivre",
+      "id": "MLB4778884663",
+      "title": "Celular Samsung Galaxy A55 5g Cor Azul-celeste",
+      "title_norm": "celular samsung galaxy a55 5g cor azul celeste",
+      "url": "https://www.mercadolivre.com.br/p/MLB34729625?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB34729625?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Informática",
+      "bucket": "celulares",
+      "posted_ts": 1786791834,
+      "posted_at": "2026-08-15T11:03:54.334884+00:00",
+      "score": 134.89
+    },
+    {
+      "key": "mercadolivre:MLB7174659716",
+      "marketplace": "mercadolivre",
+      "id": "MLB7174659716",
+      "title": "Smartphone Xiaomi 15t 5g 12+12gb Ram + 512gb, Cinza",
+      "title_norm": "smartphone xiaomi 15t 5g 12 12gb ram 512gb cinza",
+      "url": "https://www.mercadolivre.com.br/p/MLB59103594?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB59103594?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Informática",
+      "bucket": "celulares",
+      "posted_ts": 1786791766,
+      "posted_at": "2026-08-15T11:02:46.032186+00:00",
+      "score": 140.81
+    },
+    {
       "key": "shopee:20597347457",
       "marketplace": "shopee",
       "id": "20597347457",
@@ -1401,5 +1429,5 @@
       "score": 130.19
     }
   ],
-  "updated_at": "2026-08-15T10:21:02.927574+00:00"
+  "updated_at": "2026-08-15T11:03:54.334894+00:00"
 }
