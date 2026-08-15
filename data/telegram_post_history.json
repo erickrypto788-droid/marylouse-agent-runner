@@ -1,6 +1,76 @@
 {
   "posts": [
     {
+      "key": "shopee:22998920151",
+      "marketplace": "shopee",
+      "id": "22998920151",
+      "title": "Copo com Canudo Hot Wheels - Aventura Sobre Rodas! Personalizado 1200ml Em Policarbonato + Brinde",
+      "title_norm": "copo com canudo hot wheels aventura sobre rodas personalizado 1200ml em policarbonato brinde",
+      "url": "https://shopee.com.br/product/1625539033/22998920151",
+      "affiliate_url": "https://s.shopee.com.br/80Bsr9EIhK",
+      "category": "MAX STORE VARIEDADES LTDA",
+      "bucket": "max_store_variedades_ltda",
+      "posted_ts": 1786774863,
+      "posted_at": "2026-08-15T06:21:03.434454+00:00",
+      "score": 115.95
+    },
+    {
+      "key": "shopee:58206970260",
+      "marketplace": "shopee",
+      "id": "58206970260",
+      "title": "MEDOOSI Jogo de Desafio de Corda e Nós | Quebra-Cabeça Lógico, Brinquedo Desatar Educativo para Crianças / Infantil",
+      "title_norm": "medoosi jogo de desafio de corda e nos quebra cabeca logico brinquedo desatar educativo para criancas infantil",
+      "url": "https://shopee.com.br/product/1257233492/58206970260",
+      "affiliate_url": "https://s.shopee.com.br/qiiJysmZN",
+      "category": "MEDOOSI-BR",
+      "bucket": "medoosi_br",
+      "posted_ts": 1786774799,
+      "posted_at": "2026-08-15T06:19:59.303562+00:00",
+      "score": 117.22
+    },
+    {
+      "key": "shopee:58203876031",
+      "marketplace": "shopee",
+      "id": "58203876031",
+      "title": "Kit com 40 Carrinhos de Fricção Coloridos + Caixa Organizadora | Presente Infantil",
+      "title_norm": "kit com 40 carrinhos de friccao coloridos caixa organizadora presente infantil",
+      "url": "https://shopee.com.br/product/390180328/58203876031",
+      "affiliate_url": "https://s.shopee.com.br/AAGNR863Hm",
+      "category": "Sholovi Oficial",
+      "bucket": "sholovi_oficial",
+      "posted_ts": 1786774735,
+      "posted_at": "2026-08-15T06:18:55.213980+00:00",
+      "score": 119.48
+    },
+    {
+      "key": "shopee:22798746244",
+      "marketplace": "shopee",
+      "id": "22798746244",
+      "title": "Jogos ​​Labirinto Magnético Montessori de Madeira - Classificação de Cores para Criança / Infantil Brinquedo Educativo",
+      "title_norm": "jogos labirinto magnetico montessori de madeira classificacao de cores para crianca infantil brinquedo educativo",
+      "url": "https://shopee.com.br/product/1257233492/22798746244",
+      "affiliate_url": "https://s.shopee.com.br/8AVJ3SDfLK",
+      "category": "MEDOOSI-BR",
+      "bucket": "medoosi_br",
+      "posted_ts": 1786774664,
+      "posted_at": "2026-08-15T06:17:44.247601+00:00",
+      "score": 122.01
+    },
+    {
+      "key": "shopee:19499073421",
+      "marketplace": "shopee",
+      "id": "19499073421",
+      "title": "Bebê Reborn Boneca Realista Girafinha Luxo Em Silicone Pode Dar Banho Envio Imediato",
+      "title_norm": "bebe reborn boneca realista girafinha luxo em silicone pode dar banho envio imediato",
+      "url": "https://shopee.com.br/product/790605924/19499073421",
+      "affiliate_url": "https://s.shopee.com.br/LmRj3q51K",
+      "category": "Adora ",
+      "bucket": "adora",
+      "posted_ts": 1786774596,
+      "posted_at": "2026-08-15T06:16:36.571295+00:00",
+      "score": 123.78
+    },
+    {
       "key": "shopee:19499545730",
       "marketplace": "shopee",
       "id": "19499545730",
@@ -1009,5 +1079,5 @@
       "score": 130.19
     }
   ],
-  "updated_at": "2026-08-15T05:20:57.973811+00:00"
+  "updated_at": "2026-08-15T06:21:03.434464+00:00"
 }
