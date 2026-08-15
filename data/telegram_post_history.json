@@ -1,6 +1,20 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB5454690706",
+      "marketplace": "mercadolivre",
+      "id": "MLB5454690706",
+      "title": "Cadeira Escritório Secretaria Rcp Preto",
+      "title_norm": "cadeira escritorio secretaria rcp preto",
+      "url": "https://www.mercadolivre.com.br/p/MLB22813112?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB22813112?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Casa e Cozinha",
+      "bucket": "casa_e_cozinha",
+      "posted_ts": 1786763002,
+      "posted_at": "2026-08-15T03:03:22.735576+00:00",
+      "score": 96.2
+    },
+    {
       "key": "shopee:21897737849",
       "marketplace": "shopee",
       "id": "21897737849",
@@ -743,5 +757,5 @@
       "score": 130.19
     }
   ],
-  "updated_at": "2026-08-15T02:20:52.869585+00:00"
+  "updated_at": "2026-08-15T03:03:22.735585+00:00"
 }
