@@ -1,6 +1,76 @@
 {
   "posts": [
     {
+      "key": "shopee:58261975350",
+      "marketplace": "shopee",
+      "id": "58261975350",
+      "title": "Fone de Ouvido Sem Fio Bluetooth Pro 6 Com Cancelamento De Ruído Pop-Up para iOS -GPS",
+      "title_norm": "fone de ouvido sem fio bluetooth pro 6 com cancelamento de ruido pop up para ios gps",
+      "url": "https://shopee.com.br/product/1371998281/58261975350",
+      "affiliate_url": "https://s.shopee.com.br/AUtDV91Fe4",
+      "category": "TECNO SHOP BR",
+      "bucket": "tecno_shop_br",
+      "posted_ts": 1786756863,
+      "posted_at": "2026-08-15T01:21:03.970580+00:00",
+      "score": 105.52
+    },
+    {
+      "key": "shopee:19099238357",
+      "marketplace": "shopee",
+      "id": "19099238357",
+      "title": "2026 Novo Mais Recente Smartwatch Relógio Inteligente Série IWO 8 T800 Ultra NFC Sem Carregamento",
+      "title_norm": "2026 novo mais recente smartwatch relogio inteligente serie iwo 8 t800 ultra nfc sem carregamento",
+      "url": "https://shopee.com.br/product/1203451725/19099238357",
+      "affiliate_url": "https://s.shopee.com.br/1VyOmbV78z",
+      "category": "ELIANE E-COMERCE",
+      "bucket": "eliane_e_comerce",
+      "posted_ts": 1786756799,
+      "posted_at": "2026-08-15T01:19:59.781287+00:00",
+      "score": 114.61
+    },
+    {
+      "key": "shopee:29320805319",
+      "marketplace": "shopee",
+      "id": "29320805319",
+      "title": "Pro 4 Fones De Ouvido TWS Sem Fio Bluetooth De Longa Duração Bateria Leve Portátil Com Estojo De Carregamento Para Dormi",
+      "title_norm": "pro 4 fones de ouvido tws sem fio bluetooth de longa duracao bateria leve portatil com estojo de carregamento para dormi",
+      "url": "https://shopee.com.br/product/1006215031/29320805319",
+      "affiliate_url": "https://s.shopee.com.br/7fZ27wC2OH",
+      "category": "Choice Oficial",
+      "bucket": "pet",
+      "posted_ts": 1786756735,
+      "posted_at": "2026-08-15T01:18:55.719569+00:00",
+      "score": 132.27
+    },
+    {
+      "key": "shopee:23399043568",
+      "marketplace": "shopee",
+      "id": "23399043568",
+      "title": "Fone Bluetooth Pro5 Premium | Imersão Total c Cancelamento Ruído Qualidade Superior p iPhoneAndroid",
+      "title_norm": "fone bluetooth pro5 premium imersao total c cancelamento ruido qualidade superior p iphoneandroid",
+      "url": "https://shopee.com.br/product/976285267/23399043568",
+      "affiliate_url": "https://s.shopee.com.br/70JLKiEZkD",
+      "category": "TOP SELECAO",
+      "bucket": "celulares",
+      "posted_ts": 1786756666,
+      "posted_at": "2026-08-15T01:17:46.703925+00:00",
+      "score": 139.27
+    },
+    {
+      "key": "shopee:18499853587",
+      "marketplace": "shopee",
+      "id": "18499853587",
+      "title": "Carregador Portátil 5000Mah Sem fio Para iPhone Indução Bateria Carga",
+      "title_norm": "carregador portatil 5000mah sem fio para iphone inducao bateria carga",
+      "url": "https://shopee.com.br/product/1103946075/18499853587",
+      "affiliate_url": "https://s.shopee.com.br/qihzNTSTX",
+      "category": "JX VERDE",
+      "bucket": "celulares",
+      "posted_ts": 1786756602,
+      "posted_at": "2026-08-15T01:16:42.679212+00:00",
+      "score": 139.95
+    },
+    {
       "key": "mercadolivre:MLB4266241495",
       "marketplace": "mercadolivre",
       "id": "MLB4266241495",
@@ -561,5 +631,5 @@
       "score": 130.19
     }
   ],
-  "updated_at": "2026-08-15T01:09:44.641090+00:00"
+  "updated_at": "2026-08-15T01:21:03.970594+00:00"
 }
