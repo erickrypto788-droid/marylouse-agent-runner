@@ -1,6 +1,36 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB7150469040",
+      "product_id": "MLB7150469040",
+      "catalog_product_id": "MLB59821316",
+      "item_id": "MLB7150469040",
+      "url": "https://www.mercadolivre.com.br/p/MLB59821316?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB59821316?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "tv box rbi smart tv box 4k prosb 2000 preto 5 geracao wi fi hdmi",
+      "title": "TV Box RBI Smart TV Box 4K PROSB-2000 Preto 5ª Geração Wi-Fi HDMI",
+      "category": "Pet",
+      "price": 176.9,
+      "score": 113.0,
+      "posted_ts": 1786788221,
+      "posted_at": "2026-08-15T10:03:41.729613+00:00"
+    },
+    {
+      "key": "mercadolivre:MLB4918382621",
+      "product_id": "MLB4918382621",
+      "catalog_product_id": "MLB62010143",
+      "item_id": "MLB4918382621",
+      "url": "https://www.mercadolivre.com.br/p/MLB62010143?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB62010143?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "fone bluetooth redmi",
+      "title": "Fone Bluetooth Redmi",
+      "category": "Informática",
+      "price": 25.65,
+      "score": 114.83,
+      "posted_ts": 1786788141,
+      "posted_at": "2026-08-15T10:02:21.804093+00:00"
+    },
+    {
       "key": "mercadolivre:MLB5041528061",
       "product_id": "MLB5041528061",
       "catalog_product_id": "MLB43810473",
@@ -1216,5 +1246,5 @@
       "posted_at": "2026-08-13T13:07:05.184429+00:00"
     }
   ],
-  "updated_at": "2026-08-15T08:03:38.856710+00:00"
+  "updated_at": "2026-08-15T10:03:41.729622+00:00"
 }
