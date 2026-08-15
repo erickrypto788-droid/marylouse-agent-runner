@@ -1,6 +1,76 @@
 {
   "posts": [
     {
+      "key": "shopee:20597347457",
+      "marketplace": "shopee",
+      "id": "20597347457",
+      "title": "Kit 2 Tênis Masculino Polo Fran Sapatênis Básico Casual Com Carteira Cinto e Relógio London",
+      "title_norm": "kit 2 tenis masculino polo fran sapatenis basico casual com carteira cinto e relogio london",
+      "url": "https://shopee.com.br/product/324642050/20597347457",
+      "affiliate_url": "https://s.shopee.com.br/9fK76h8h7w",
+      "category": " MISTERBOOT",
+      "bucket": "calcados",
+      "posted_ts": 1786789262,
+      "posted_at": "2026-08-15T10:21:02.927564+00:00",
+      "score": 97.66
+    },
+    {
+      "key": "shopee:10908191710",
+      "marketplace": "shopee",
+      "id": "10908191710",
+      "title": "Mochila Bolsa Masculina Impermeável Reforçada Promoção Cor Preta",
+      "title_norm": "mochila bolsa masculina impermeavel reforcada promocao cor preta",
+      "url": "https://shopee.com.br/product/364186110/10908191710",
+      "affiliate_url": "https://s.shopee.com.br/5VUY4umqDK",
+      "category": "SHIMA & ZAKI",
+      "bucket": "bolsas",
+      "posted_ts": 1786789198,
+      "posted_at": "2026-08-15T10:19:58.700992+00:00",
+      "score": 99.21
+    },
+    {
+      "key": "shopee:22593290172",
+      "marketplace": "shopee",
+      "id": "22593290172",
+      "title": "Mochila para Escola Reforçada com Entrada USB Impermeável",
+      "title_norm": "mochila para escola reforcada com entrada usb impermeavel",
+      "url": "https://shopee.com.br/product/1003774706/22593290172",
+      "affiliate_url": "https://s.shopee.com.br/8fRZur827N",
+      "category": "Fk Comercial",
+      "bucket": "bolsas",
+      "posted_ts": 1786789134,
+      "posted_at": "2026-08-15T10:18:54.597301+00:00",
+      "score": 103.0
+    },
+    {
+      "key": "shopee:58209895415",
+      "marketplace": "shopee",
+      "id": "58209895415",
+      "title": "Mochila de Viagem Masculina e Feminina Impermeável e Reforçada com Compartimento para Notebook",
+      "title_norm": "mochila de viagem masculina e feminina impermeavel e reforcada com compartimento para notebook",
+      "url": "https://shopee.com.br/product/1789754785/58209895415",
+      "affiliate_url": "https://s.shopee.com.br/1LezBNZwzt",
+      "category": "Solperk",
+      "bucket": "informatica",
+      "posted_ts": 1786789070,
+      "posted_at": "2026-08-15T10:17:50.445599+00:00",
+      "score": 131.15
+    },
+    {
+      "key": "shopee:23598800750",
+      "marketplace": "shopee",
+      "id": "23598800750",
+      "title": "Mochila CHL Bolsa Reforçada Notebook Impermeavel Material Premium Colorido Excecultivo 888",
+      "title_norm": "mochila chl bolsa reforcada notebook impermeavel material premium colorido excecultivo 888",
+      "url": "https://shopee.com.br/product/1360752092/23598800750",
+      "affiliate_url": "https://s.shopee.com.br/1VyPNgQec8",
+      "category": "XING TU BOLSA",
+      "bucket": "informatica",
+      "posted_ts": 1786789002,
+      "posted_at": "2026-08-15T10:16:42.844338+00:00",
+      "score": 136.27
+    },
+    {
       "key": "mercadolivre:MLB7150469040",
       "marketplace": "mercadolivre",
       "id": "MLB7150469040",
@@ -1331,5 +1401,5 @@
       "score": 130.19
     }
   ],
-  "updated_at": "2026-08-15T10:03:41.727696+00:00"
+  "updated_at": "2026-08-15T10:21:02.927574+00:00"
 }
