@@ -1,6 +1,76 @@
 {
   "posts": [
     {
+      "key": "shopee:58254354411",
+      "marketplace": "shopee",
+      "id": "58254354411",
+      "title": "Camisa Feminina Lisa  Crepinho  Elegante Plus Size  M G GG G1",
+      "title_norm": "camisa feminina lisa crepinho elegante plus size m g gg g1",
+      "url": "https://shopee.com.br/product/1432906492/58254354411",
+      "affiliate_url": "https://s.shopee.com.br/3VjSxw2oeD",
+      "category": "Jael Modas",
+      "bucket": "jael_modas",
+      "posted_ts": 1786814463,
+      "posted_at": "2026-08-15T17:21:03.253791+00:00",
+      "score": 104.35
+    },
+    {
+      "key": "shopee:58254166972",
+      "marketplace": "shopee",
+      "id": "58254166972",
+      "title": "Blusa Antonella Plus Size G1 e G2 Cropped Halter Frente Única Top das Blogueiras Zero Transparência Frente Dupla",
+      "title_norm": "blusa antonella plus size g1 e g2 cropped halter frente unica top das blogueiras zero transparencia frente dupla",
+      "url": "https://shopee.com.br/product/1651898003/58254166972",
+      "affiliate_url": "https://s.shopee.com.br/6L3cwauwzl",
+      "category": "MILARA MODA FEMININA",
+      "bucket": "moda_feminina",
+      "posted_ts": 1786814399,
+      "posted_at": "2026-08-15T17:19:59.058232+00:00",
+      "score": 106.05
+    },
+    {
+      "key": "shopee:58204813363",
+      "marketplace": "shopee",
+      "id": "58204813363",
+      "title": "Vestido longo casual basico feminino ribana canelada manga muscle moda gringa preto marrom plus size",
+      "title_norm": "vestido longo casual basico feminino ribana canelada manga muscle moda gringa preto marrom plus size",
+      "url": "https://shopee.com.br/product/1252857157/58204813363",
+      "affiliate_url": "https://s.shopee.com.br/4LIYQgfnG5",
+      "category": "Visionaria Closet",
+      "bucket": "moda_feminina",
+      "posted_ts": 1786814335,
+      "posted_at": "2026-08-15T17:18:55.053771+00:00",
+      "score": 106.1
+    },
+    {
+      "key": "shopee:18997669654",
+      "marketplace": "shopee",
+      "id": "18997669654",
+      "title": "Conjunto na Alfaiataria Calça  Pantalona + Colete Social Escritório Plus SIze",
+      "title_norm": "conjunto na alfaiataria calca pantalona colete social escritorio plus size",
+      "url": "https://shopee.com.br/product/1239041434/18997669654",
+      "affiliate_url": "https://s.shopee.com.br/W5sWSK7Cd",
+      "category": "Elizye Delicato",
+      "bucket": "elizye_delicato",
+      "posted_ts": 1786814271,
+      "posted_at": "2026-08-15T17:17:51.094438+00:00",
+      "score": 115.73
+    },
+    {
+      "key": "shopee:58204912754",
+      "marketplace": "shopee",
+      "id": "58204912754",
+      "title": "Meia Calça Fina7D ANTICELULITE Fio  70 Plus Size – Veste do 36 ao 54 | Conforto e Alta Elasticidade",
+      "title_norm": "meia calca fina7d anticelulite fio 70 plus size veste do 36 ao 54 conforto e alta elasticidade",
+      "url": "https://shopee.com.br/product/204026219/58204912754",
+      "affiliate_url": "https://s.shopee.com.br/30nCN14aBV",
+      "category": "Brenda  Acessórios",
+      "bucket": "brenda_acessorios",
+      "posted_ts": 1786814200,
+      "posted_at": "2026-08-15T17:16:40.299554+00:00",
+      "score": 119.13
+    },
+    {
       "key": "shopee:22398531446",
       "marketplace": "shopee",
       "id": "22398531446",
@@ -1877,5 +1947,5 @@
       "score": 130.19
     }
   ],
-  "updated_at": "2026-08-15T16:21:02.052953+00:00"
+  "updated_at": "2026-08-15T17:21:03.253803+00:00"
 }
