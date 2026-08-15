@@ -1,6 +1,48 @@
 {
   "posts": [
     {
+      "key": "shopee:23893703937",
+      "marketplace": "shopee",
+      "id": "23893703937",
+      "title": "Babuche Adulto Masculino E Feminino Personalizado",
+      "title_norm": "babuche adulto masculino e feminino personalizado",
+      "url": "https://shopee.com.br/product/1464624047/23893703937",
+      "affiliate_url": "https://s.shopee.com.br/6pzwGRytMu",
+      "category": "Passinhos Mágicos ",
+      "bucket": "passinhos_magicos",
+      "posted_ts": 1786817920,
+      "posted_at": "2026-08-15T18:18:40.168354+00:00",
+      "score": 99.93
+    },
+    {
+      "key": "shopee:23394636497",
+      "marketplace": "shopee",
+      "id": "23394636497",
+      "title": "Bota Botina Segurança Couro Legítimo CA Aprovado Bota EPI Antiderrapante Confortável Leve Unisex",
+      "title_norm": "bota botina seguranca couro legitimo ca aprovado bota epi antiderrapante confortavel leve unisex",
+      "url": "https://shopee.com.br/product/1406953915/23394636497",
+      "affiliate_url": "https://s.shopee.com.br/8pl0e7vXYl",
+      "category": "VELLUDINE",
+      "bucket": "calcados",
+      "posted_ts": 1786817856,
+      "posted_at": "2026-08-15T18:17:36.154596+00:00",
+      "score": 107.26
+    },
+    {
+      "key": "shopee:43981426348",
+      "marketplace": "shopee",
+      "id": "43981426348",
+      "title": "Tenis Masculino Escolar Academia Corrida Original FREEDOM Corrida Caminhada Lançamento EXCLUSIVO CINZA GRAVITE e LARANJA",
+      "title_norm": "tenis masculino escolar academia corrida original freedom corrida caminhada lancamento exclusivo cinza gravite e laranja",
+      "url": "https://shopee.com.br/product/387523771/43981426348",
+      "affiliate_url": "https://s.shopee.com.br/20ugVZ4A75",
+      "category": "Cirandinha Shoes",
+      "bucket": "calcados",
+      "posted_ts": 1786817792,
+      "posted_at": "2026-08-15T18:16:32.249951+00:00",
+      "score": 122.91
+    },
+    {
       "key": "mercadolivre:MLB6825867960",
       "marketplace": "mercadolivre",
       "id": "MLB6825867960",
@@ -1989,5 +2031,5 @@
       "score": 130.19
     }
   ],
-  "updated_at": "2026-08-15T18:07:55.181705+00:00"
+  "updated_at": "2026-08-15T18:18:40.168364+00:00"
 }
