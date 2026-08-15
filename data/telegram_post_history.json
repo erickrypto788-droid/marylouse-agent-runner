@@ -1,6 +1,48 @@
 {
   "posts": [
     {
+      "key": "shopee:58255239538",
+      "marketplace": "shopee",
+      "id": "58255239538",
+      "title": "BABUCHE PLATAFORMA ALTA NUVEM MACIA 100 % DECORADA COM BÓTONS PINGENTES EM ABS CONFORTÁVEL",
+      "title_norm": "babuche plataforma alta nuvem macia 100 decorada com botons pingentes em abs confortavel",
+      "url": "https://shopee.com.br/product/1509055233/58255239538",
+      "affiliate_url": "https://s.shopee.com.br/904MrD5HgO",
+      "category": "X&M Variedades",
+      "bucket": "x_m_variedades",
+      "posted_ts": 1786753129,
+      "posted_at": "2026-08-15T00:18:49.330666+00:00",
+      "score": 102.84
+    },
+    {
+      "key": "shopee:23999314273",
+      "marketplace": "shopee",
+      "id": "23999314273",
+      "title": "Tênis SNEEKS Feminino para Uso Diário Prático e Estiloso Super Promoção",
+      "title_norm": "tenis sneeks feminino para uso diario pratico e estiloso super promocao",
+      "url": "https://shopee.com.br/product/1737398657/23999314273",
+      "affiliate_url": "https://s.shopee.com.br/11287YduPy",
+      "category": "IRON Shop O2x",
+      "bucket": "calcados",
+      "posted_ts": 1786753065,
+      "posted_at": "2026-08-15T00:17:45.445073+00:00",
+      "score": 111.79
+    },
+    {
+      "key": "shopee:23293827748",
+      "marketplace": "shopee",
+      "id": "23293827748",
+      "title": "Bota Feminina GiGiL Cano Longo Enrugado Slouch Bico Fino Salto Bloco Médio Elegante Clássica Casual",
+      "title_norm": "bota feminina gigil cano longo enrugado slouch bico fino salto bloco medio elegante classica casual",
+      "url": "https://shopee.com.br/product/387348115/23293827748",
+      "affiliate_url": "https://s.shopee.com.br/8KohSVnQnK",
+      "category": "GiGiL",
+      "bucket": "calcados",
+      "posted_ts": 1786752997,
+      "posted_at": "2026-08-15T00:16:37.604640+00:00",
+      "score": 113.22
+    },
+    {
       "key": "shopee:18598039649",
       "marketplace": "shopee",
       "id": "18598039649",
@@ -463,5 +505,5 @@
       "score": 130.19
     }
   ],
-  "updated_at": "2026-08-14T23:18:55.433364+00:00"
+  "updated_at": "2026-08-15T00:18:49.330676+00:00"
 }
