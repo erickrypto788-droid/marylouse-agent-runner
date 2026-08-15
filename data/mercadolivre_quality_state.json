@@ -1,6 +1,51 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB5331790354",
+      "product_id": "MLB5331790354",
+      "catalog_product_id": "MLB45458466",
+      "item_id": "MLB5331790354",
+      "url": "https://www.mercadolivre.com.br/p/MLB45458466?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB45458466?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "air fryer br house fritadeira eletrica air fryer air fryer family preto",
+      "title": "Air fryer Br House Fritadeira ELETRICA AIR FRYER Air Fryer Family preto",
+      "category": "Casa e Cozinha",
+      "price": 279.9,
+      "score": 113.0,
+      "posted_ts": 1786824312,
+      "posted_at": "2026-08-15T20:05:12.535588+00:00"
+    },
+    {
+      "key": "mercadolivre:MLB5428097608",
+      "product_id": "MLB5428097608",
+      "catalog_product_id": "MLB39369998",
+      "item_id": "MLB5428097608",
+      "url": "https://www.mercadolivre.com.br/p/MLB39369998?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB39369998?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "rack para sala de estar rack para tv c prateleira flex cor off white",
+      "title": "Rack Para Sala De Estar Rack Para Tv C/ Prateleira Flex Cor Off-white",
+      "category": "Casa e Cozinha",
+      "price": 385.0,
+      "score": 141.15,
+      "posted_ts": 1786824248,
+      "posted_at": "2026-08-15T20:04:08.617014+00:00"
+    },
+    {
+      "key": "mercadolivre:MLB6738465128",
+      "product_id": "MLB6738465128",
+      "catalog_product_id": "MLB59413555",
+      "item_id": "MLB6738465128",
+      "url": "https://www.mercadolivre.com.br/p/MLB59413555?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB59413555?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "cadeira massagem escritorio cadeira escritorio presidente cor ambar",
+      "title": "Cadeira Massagem Escritorio Cadeira Escritorio Presidente Cor Âmbar",
+      "category": "Casa e Cozinha",
+      "price": 926.93,
+      "score": 162.06,
+      "posted_ts": 1786824178,
+      "posted_at": "2026-08-15T20:02:58.968563+00:00"
+    },
+    {
       "key": "mercadolivre:MLB7059189312",
       "product_id": "MLB7059189312",
       "catalog_product_id": "MLB38422370",
@@ -1079,37 +1124,7 @@
       "score": 87.74,
       "posted_ts": 1786654953,
       "posted_at": "2026-08-13T21:02:33.260268+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB6149389980",
-      "product_id": "MLB6149389980",
-      "catalog_product_id": "MLB37180897",
-      "item_id": "MLB6149389980",
-      "url": "https://www.mercadolivre.com.br/p/MLB37180897?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB37180897?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "kit furadeira e parafusadeira com parafusadeira dewalt modelo dck200me2gt 2 baterias 20v",
-      "title": "Kit Furadeira e Parafusadeira com Parafusadeira Dewalt Modelo DCK200ME2GT 2 Baterias 20V",
-      "category": "Ferramentas",
-      "price": 3099.0,
-      "score": 72.0,
-      "posted_ts": 1786651428,
-      "posted_at": "2026-08-13T20:03:48.902676+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB4136027005",
-      "product_id": "MLB4136027005",
-      "catalog_product_id": "MLB19765397",
-      "item_id": "MLB4136027005",
-      "url": "https://www.mercadolivre.com.br/p/MLB19765397?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB19765397?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "combo furadeira parafusadeira df333d parafusadeira de impacto td110d 12v clx224sax",
-      "title": "Combo Furadeira Parafusadeira DF333D + Parafusadeira de Impacto TD110D 12V - CLX224SAX",
-      "category": "Ferramentas",
-      "price": 1189.0,
-      "score": 81.07,
-      "posted_ts": 1786651359,
-      "posted_at": "2026-08-13T20:02:39.332408+00:00"
     }
   ],
-  "updated_at": "2026-08-15T19:08:53.255160+00:00"
+  "updated_at": "2026-08-15T20:05:12.535600+00:00"
 }
