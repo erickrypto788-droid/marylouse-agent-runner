@@ -1,6 +1,36 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB7116149854",
+      "product_id": "MLB7116149854",
+      "catalog_product_id": "MLB74602351",
+      "item_id": "MLB7116149854",
+      "url": "https://www.mercadolivre.com.br/p/MLB74602351?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB74602351?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "chapinha cabelo profissional prancha alisadora de cabelo chapinha para cabelo bivolt chapinha",
+      "title": "Chapinha Cabelo Profissional Prancha Alisadora De Cabelo chapinha Para Cabelo Bivolt Chapinha",
+      "category": "Beleza",
+      "price": 92.8,
+      "score": 149.67,
+      "posted_ts": 1786835009,
+      "posted_at": "2026-08-15T23:03:29.095072+00:00"
+    },
+    {
+      "key": "mercadolivre:MLB5495982148",
+      "product_id": "MLB5495982148",
+      "catalog_product_id": "MLB51434487",
+      "item_id": "MLB5495982148",
+      "url": "https://www.mercadolivre.com.br/p/MLB51434487?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB51434487?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "barbeador costas masculino traseiro dobravel aparador pelos",
+      "title": "Barbeador Costas Masculino Traseiro Dobrável Aparador Pelos",
+      "category": "Beleza",
+      "price": 249.0,
+      "score": 162.62,
+      "posted_ts": 1786834944,
+      "posted_at": "2026-08-15T23:02:24.879686+00:00"
+    },
+    {
       "key": "mercadolivre:MLB6827581422",
       "product_id": "MLB6827581422",
       "catalog_product_id": "MLB70114350",
@@ -1079,52 +1109,7 @@
       "score": 87.0,
       "posted_ts": 1786662272,
       "posted_at": "2026-08-13T23:04:32.365655+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB5765586272",
-      "product_id": "MLB5765586272",
-      "catalog_product_id": "MLB47326105",
-      "item_id": "MLB5765586272",
-      "url": "https://www.mercadolivre.com.br/p/MLB47326105?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB47326105?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "smartphone xiaomi redmi 9c 32gb azul",
-      "title": "Smartphone Xiaomi Redmi 9c 32gb Azul",
-      "category": "Informática",
-      "price": 999.99,
-      "score": 87.0,
-      "posted_ts": 1786662208,
-      "posted_at": "2026-08-13T23:03:28.152476+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB7238539878",
-      "product_id": "MLB7238539878",
-      "catalog_product_id": "MLB39444837",
-      "item_id": "MLB7238539878",
-      "url": "https://www.mercadolivre.com.br/p/MLB39444837?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB39444837?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "smartphone samsung galaxy s23 ultra 512gb creme",
-      "title": "Smartphone Samsung Galaxy S23 Ultra 512gb Creme",
-      "category": "Informática",
-      "price": 5999.0,
-      "score": 87.0,
-      "posted_ts": 1786662144,
-      "posted_at": "2026-08-13T23:02:24.163556+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB4455480129",
-      "product_id": "MLB4455480129",
-      "catalog_product_id": "MLB65128982",
-      "item_id": "MLB4455480129",
-      "url": "https://www.mercadolivre.com.br/p/MLB65128982?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB65128982?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "soundbar samsung hw b400f soundbar hw b400f preto",
-      "title": "Soundbar Samsung Hw-b400f + Soundbar Hw-b400f Preto",
-      "category": "Informática",
-      "price": 1519.0,
-      "score": 72.0,
-      "posted_ts": 1786658600,
-      "posted_at": "2026-08-13T22:03:20.902156+00:00"
     }
   ],
-  "updated_at": "2026-08-15T22:02:33.672116+00:00"
+  "updated_at": "2026-08-15T23:03:29.095080+00:00"
 }
