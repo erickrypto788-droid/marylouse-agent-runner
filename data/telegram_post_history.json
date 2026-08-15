@@ -1,6 +1,76 @@
 {
   "posts": [
     {
+      "key": "shopee:23799369338",
+      "marketplace": "shopee",
+      "id": "23799369338",
+      "title": "Kit 48 Carrinhos De Metal Fricção Brinquedo Menino Maleta Pista Presente",
+      "title_norm": "kit 48 carrinhos de metal friccao brinquedo menino maleta pista presente",
+      "url": "https://shopee.com.br/product/1377920727/23799369338",
+      "affiliate_url": "https://s.shopee.com.br/1LeyutvHKy",
+      "category": "rcacomercial",
+      "bucket": "rcacomercial",
+      "posted_ts": 1786782172,
+      "posted_at": "2026-08-15T08:22:52.674672+00:00",
+      "score": 105.16
+    },
+    {
+      "key": "shopee:23398908978",
+      "marketplace": "shopee",
+      "id": "23398908978",
+      "title": "Brinquedo Caminhão Dinossauro Engolidor 2026 Porta-Carrinhos com 4 Carrinhos de Metal – Kit Infantil🦖🚚",
+      "title_norm": "brinquedo caminhao dinossauro engolidor 2026 porta carrinhos com 4 carrinhos de metal kit infantil",
+      "url": "https://shopee.com.br/product/1634545368/23398908978",
+      "affiliate_url": "https://s.shopee.com.br/1128WHwY18",
+      "category": "CANDYSTAR",
+      "bucket": "candystar",
+      "posted_ts": 1786782043,
+      "posted_at": "2026-08-15T08:20:43.170858+00:00",
+      "score": 115.52
+    },
+    {
+      "key": "shopee:42579853608",
+      "marketplace": "shopee",
+      "id": "42579853608",
+      "title": "Ninho Redutor de Berço Liso e Trocador Portátil Impermeável",
+      "title_norm": "ninho redutor de berco liso e trocador portatil impermeavel",
+      "url": "https://shopee.com.br/product/298372359/42579853608",
+      "affiliate_url": "https://s.shopee.com.br/LmRrIzSIW",
+      "category": "Monzillo ",
+      "bucket": "monzillo",
+      "posted_ts": 1786781974,
+      "posted_at": "2026-08-15T08:19:34.743007+00:00",
+      "score": 116.59
+    },
+    {
+      "key": "shopee:18097691606",
+      "marketplace": "shopee",
+      "id": "18097691606",
+      "title": "Toalha de Banho Fralda Soft com Capuz para Bebê  OU  Kit com 2, 3 ou 4 Toalhas",
+      "title_norm": "toalha de banho fralda soft com capuz para bebe ou kit com 2 3 ou 4 toalhas",
+      "url": "https://shopee.com.br/product/378105312/18097691606",
+      "affiliate_url": "https://s.shopee.com.br/W5pGYlvAO",
+      "category": "EssencialBaby",
+      "bucket": "fraldas",
+      "posted_ts": 1786781884,
+      "posted_at": "2026-08-15T08:18:04.174246+00:00",
+      "score": 128.68
+    },
+    {
+      "key": "shopee:49260023163",
+      "marketplace": "shopee",
+      "id": "49260023163",
+      "title": "SUMIKKO Calça Fraldas 50 e 100 unidade Baby Ajustável total max P/M/G/XG/XXG/XXXG",
+      "title_norm": "sumikko calca fraldas 50 e 100 unidade baby ajustavel total max p m g xg xxg xxxg",
+      "url": "https://shopee.com.br/product/1509457194/49260023163",
+      "affiliate_url": "https://s.shopee.com.br/9zwxN473XM",
+      "category": "BE_LOVE.br",
+      "bucket": "fraldas",
+      "posted_ts": 1786781802,
+      "posted_at": "2026-08-15T08:16:42.743178+00:00",
+      "score": 134.56
+    },
+    {
       "key": "mercadolivre:MLB5041528061",
       "marketplace": "mercadolivre",
       "id": "MLB5041528061",
@@ -1177,5 +1247,5 @@
       "score": 130.19
     }
   ],
-  "updated_at": "2026-08-15T08:03:38.854909+00:00"
+  "updated_at": "2026-08-15T08:22:52.674682+00:00"
 }
