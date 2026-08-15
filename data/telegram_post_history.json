@@ -1,6 +1,48 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB6825867960",
+      "marketplace": "mercadolivre",
+      "id": "MLB6825867960",
+      "title": "Condicionador Infantil Lowell Mirtilinho 240ml",
+      "title_norm": "condicionador infantil lowell mirtilinho 240ml",
+      "url": "https://www.mercadolivre.com.br/p/MLB68094806?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB68094806?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Beleza",
+      "bucket": "beleza",
+      "posted_ts": 1786817275,
+      "posted_at": "2026-08-15T18:07:55.181695+00:00",
+      "score": 88.0
+    },
+    {
+      "key": "mercadolivre:MLB6711242070",
+      "marketplace": "mercadolivre",
+      "id": "MLB6711242070",
+      "title": "Bepantol Baby Pomada Assadura Bebe Hipoalergênica, 200g",
+      "title_norm": "bepantol baby pomada assadura bebe hipoalergenica 200g",
+      "url": "https://www.mercadolivre.com.br/p/MLB68578906?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB68578906?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Mãe e Bebê",
+      "bucket": "mae_e_bebe",
+      "posted_ts": 1786817200,
+      "posted_at": "2026-08-15T18:06:40.023074+00:00",
+      "score": 89.0
+    },
+    {
+      "key": "mercadolivre:MLB4189107767",
+      "marketplace": "mercadolivre",
+      "id": "MLB4189107767",
+      "title": "Azeite Oliva Extra Virgem Italiano 500ml Mercatto",
+      "title_norm": "azeite oliva extra virgem italiano 500ml mercatto",
+      "url": "https://www.mercadolivre.com.br/p/MLB54332454?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB54332454?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Supermercados",
+      "bucket": "supermercado",
+      "posted_ts": 1786817128,
+      "posted_at": "2026-08-15T18:05:28.199345+00:00",
+      "score": 135.18
+    },
+    {
       "key": "shopee:58254354411",
       "marketplace": "shopee",
       "id": "58254354411",
@@ -1947,5 +1989,5 @@
       "score": 130.19
     }
   ],
-  "updated_at": "2026-08-15T17:21:03.253803+00:00"
+  "updated_at": "2026-08-15T18:07:55.181705+00:00"
 }
