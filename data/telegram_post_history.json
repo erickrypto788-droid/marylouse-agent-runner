@@ -1,6 +1,76 @@
 {
   "posts": [
     {
+      "key": "shopee:51102460198",
+      "marketplace": "shopee",
+      "id": "51102460198",
+      "title": "Mesa Escrivaninha Gamer para Computador PC Athenas com Nicho CPU Home Office Setup para 2 Monitores",
+      "title_norm": "mesa escrivaninha gamer para computador pc athenas com nicho cpu home office setup para 2 monitores",
+      "url": "https://shopee.com.br/product/402598512/51102460198",
+      "affiliate_url": "https://s.shopee.com.br/qiiihl5nC",
+      "category": "Max Do Brasil",
+      "bucket": "max_do_brasil",
+      "posted_ts": 1786796453,
+      "posted_at": "2026-08-15T12:20:53.501840+00:00",
+      "score": 97.83
+    },
+    {
+      "key": "shopee:41352394185",
+      "marketplace": "shopee",
+      "id": "41352394185",
+      "title": "8 Em 1 USB Hub Expansor Dock Type C TF Leitor SD Áudio Compatível Com MacBook Pro ipad HP",
+      "title_norm": "8 em 1 usb hub expansor dock type c tf leitor sd audio compativel com macbook pro ipad hp",
+      "url": "https://shopee.com.br/product/1006215031/41352394185",
+      "affiliate_url": "https://s.shopee.com.br/8V89qnM6Er",
+      "category": "Choice Oficial",
+      "bucket": "choice_oficial",
+      "posted_ts": 1786796389,
+      "posted_at": "2026-08-15T12:19:49.446113+00:00",
+      "score": 99.01
+    },
+    {
+      "key": "shopee:23494197175",
+      "marketplace": "shopee",
+      "id": "23494197175",
+      "title": "Webcam Câmera Computador Full HD 1080x1920p 2MP USB Plug Play Microfone Embutido",
+      "title_norm": "webcam camera computador full hd 1080x1920p 2mp usb plug play microfone embutido",
+      "url": "https://shopee.com.br/product/384064825/23494197175",
+      "affiliate_url": "https://s.shopee.com.br/8AVJSBRle8",
+      "category": "SHOPELXY",
+      "bucket": "shopelxy",
+      "posted_ts": 1786796325,
+      "posted_at": "2026-08-15T12:18:45.515273+00:00",
+      "score": 99.53
+    },
+    {
+      "key": "shopee:22398374434",
+      "marketplace": "shopee",
+      "id": "22398374434",
+      "title": "Kit Teclado e Mouse branco Gamer RGB LED USB ABNT2 Profissional com Luz para PC Notebook Promoção",
+      "title_norm": "kit teclado e mouse branco gamer rgb led usb abnt2 profissional com luz para pc notebook promocao",
+      "url": "https://shopee.com.br/product/1447668497/22398374434",
+      "affiliate_url": "https://s.shopee.com.br/8KogzfEwEd",
+      "category": "MixMania BR",
+      "bucket": "informatica",
+      "posted_ts": 1786796261,
+      "posted_at": "2026-08-15T12:17:41.584320+00:00",
+      "score": 133.96
+    },
+    {
+      "key": "shopee:23596569225",
+      "marketplace": "shopee",
+      "id": "23596569225",
+      "title": "Mochila Bolsa Feminina Impermeável Grande Resistente Notebook Escolar Faculdade Viagem Moderna",
+      "title_norm": "mochila bolsa feminina impermeavel grande resistente notebook escolar faculdade viagem moderna",
+      "url": "https://shopee.com.br/product/392239188/23596569225",
+      "affiliate_url": "https://s.shopee.com.br/AAGNpr2gzA",
+      "category": "ME MERCADO",
+      "bucket": "informatica",
+      "posted_ts": 1786796197,
+      "posted_at": "2026-08-15T12:16:37.600875+00:00",
+      "score": 143.22
+    },
+    {
       "key": "shopee:49911082623",
       "marketplace": "shopee",
       "id": "49911082623",
@@ -1499,5 +1569,5 @@
       "score": 130.19
     }
   ],
-  "updated_at": "2026-08-15T11:21:04.679376+00:00"
+  "updated_at": "2026-08-15T12:20:53.501853+00:00"
 }
