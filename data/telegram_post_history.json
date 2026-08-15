@@ -1,6 +1,76 @@
 {
   "posts": [
     {
+      "key": "shopee:43781714813",
+      "marketplace": "shopee",
+      "id": "43781714813",
+      "title": "Fone De Ouvido Inpods 13 Bluetooth Sem Fio Com Microfone Fones esportivos Adequado Branco",
+      "title_norm": "fone de ouvido inpods 13 bluetooth sem fio com microfone fones esportivos adequado branco",
+      "url": "https://shopee.com.br/product/1378634997/43781714813",
+      "affiliate_url": "https://s.shopee.com.br/8V897T8rhc",
+      "category": "LOJA_DO_POVO.br",
+      "bucket": "loja_do_povo_br",
+      "posted_ts": 1786825255,
+      "posted_at": "2026-08-15T20:20:55.115526+00:00",
+      "score": 101.79
+    },
+    {
+      "key": "shopee:58255641529",
+      "marketplace": "shopee",
+      "id": "58255641529",
+      "title": "Fone Pro Sem Fio Som HiFi 8D Pop-Up Automático Toque Inteligente Bateria 5–7h Bluetooth Universal",
+      "title_norm": "fone pro sem fio som hifi 8d pop up automatico toque inteligente bateria 5 7h bluetooth universal",
+      "url": "https://shopee.com.br/product/1620481153/58255641529",
+      "affiliate_url": "https://s.shopee.com.br/4LIbQ6Z2W8",
+      "category": "Achados&Pedidos",
+      "bucket": "achados_pedidos",
+      "posted_ts": 1786825190,
+      "posted_at": "2026-08-15T20:19:50.852063+00:00",
+      "score": 102.27
+    },
+    {
+      "key": "shopee:24442629738",
+      "marketplace": "shopee",
+      "id": "24442629738",
+      "title": "Senbenbao X55 Fones De Ouvido TWS Sono Sem Fio Bluetooth Display Led Alta Fidelidade Estéreo Cancelamento Ruído À Prova",
+      "title_norm": "senbenbao x55 fones de ouvido tws sono sem fio bluetooth display led alta fidelidade estereo cancelamento ruido a prova",
+      "url": "https://shopee.com.br/product/1006215031/24442629738",
+      "affiliate_url": "https://s.shopee.com.br/4Az7ARlzj4",
+      "category": "Choice Oficial",
+      "bucket": "choice_oficial",
+      "posted_ts": 1786825126,
+      "posted_at": "2026-08-15T20:18:46.802359+00:00",
+      "score": 107.51
+    },
+    {
+      "key": "shopee:23093480302",
+      "marketplace": "shopee",
+      "id": "23093480302",
+      "title": "Basike Carregador Portátil Power Bank 20000mAh Bateria Externa Para iPhone Samsung Pow079",
+      "title_norm": "basike carregador portatil power bank 20000mah bateria externa para iphone samsung pow079",
+      "url": "https://shopee.com.br/product/1371911195/23093480302",
+      "affiliate_url": "https://s.shopee.com.br/2VqvyRImbv",
+      "category": "Basike Loja Oficial",
+      "bucket": "celulares",
+      "posted_ts": 1786825062,
+      "posted_at": "2026-08-15T20:17:42.862463+00:00",
+      "score": 129.77
+    },
+    {
+      "key": "shopee:58255159172",
+      "marketplace": "shopee",
+      "id": "58255159172",
+      "title": "Fones de ouvido sem fio Bluetooth compactos Xiaomi Redmi Airdots com Estojo Recarregável",
+      "title_norm": "fones de ouvido sem fio bluetooth compactos xiaomi redmi airdots com estojo recarregavel",
+      "url": "https://shopee.com.br/product/1382685526/58255159172",
+      "affiliate_url": "https://s.shopee.com.br/7AclX1DwPE",
+      "category": "YNC COMERCIO LTDA",
+      "bucket": "celulares",
+      "posted_ts": 1786824998,
+      "posted_at": "2026-08-15T20:16:38.865671+00:00",
+      "score": 138.52
+    },
+    {
       "key": "mercadolivre:MLB5331790354",
       "marketplace": "mercadolivre",
       "id": "MLB5331790354",
@@ -2185,5 +2255,5 @@
       "score": 130.19
     }
   ],
-  "updated_at": "2026-08-15T20:05:12.532819+00:00"
+  "updated_at": "2026-08-15T20:20:55.115539+00:00"
 }
