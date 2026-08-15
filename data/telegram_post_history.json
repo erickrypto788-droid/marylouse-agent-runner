@@ -1,6 +1,48 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB7413459282",
+      "marketplace": "mercadolivre",
+      "id": "MLB7413459282",
+      "title": "Capa Esteira Ergométrica Esteira Athletic Racer",
+      "title_norm": "capa esteira ergometrica esteira athletic racer",
+      "url": "https://www.mercadolivre.com.br/p/MLB70606708?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB70606708?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Esportes",
+      "bucket": "esportes",
+      "posted_ts": 1786770297,
+      "posted_at": "2026-08-15T05:04:57.511539+00:00",
+      "score": 61.0
+    },
+    {
+      "key": "mercadolivre:MLB6815537068",
+      "marketplace": "mercadolivre",
+      "id": "MLB6815537068",
+      "title": "Bike Spinning Ergométrica Cor Preto",
+      "title_norm": "bike spinning ergometrica cor preto",
+      "url": "https://www.mercadolivre.com.br/p/MLB36405300?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB36405300?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Esportes",
+      "bucket": "esportes",
+      "posted_ts": 1786770230,
+      "posted_at": "2026-08-15T05:03:50.977555+00:00",
+      "score": 83.0
+    },
+    {
+      "key": "mercadolivre:MLB7413449820",
+      "marketplace": "mercadolivre",
+      "id": "MLB7413449820",
+      "title": "Prateado corda de aço corda cross corda pular 3m corda ajustavel corda pular fitness corda crossfit corda pular profissional treino exercicio emagrecimento academia casa ginastica velocidade agilidade",
+      "title_norm": "prateado corda de aco corda cross corda pular 3m corda ajustavel corda pular fitness corda crossfit corda pular profissional treino exercicio emagrecimento academia casa ginastica velocidade agilidade",
+      "url": "https://www.mercadolivre.com.br/p/MLB75079191?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB75079191?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Esportes",
+      "bucket": "esportes",
+      "posted_ts": 1786770152,
+      "posted_at": "2026-08-15T05:02:32.291014+00:00",
+      "score": 146.9
+    },
+    {
       "key": "shopee:21639028953",
       "marketplace": "shopee",
       "id": "21639028953",
@@ -897,5 +939,5 @@
       "score": 130.19
     }
   ],
-  "updated_at": "2026-08-15T04:21:03.026632+00:00"
+  "updated_at": "2026-08-15T05:04:57.511552+00:00"
 }
