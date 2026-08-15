@@ -1,6 +1,51 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB5917537512",
+      "product_id": "MLB5917537512",
+      "catalog_product_id": "MLB61928650",
+      "item_id": "MLB5917537512",
+      "url": "https://www.mercadolivre.com.br/p/MLB61928650?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB61928650?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "blusa camisa feminina protecao solar bike jetski pesca praia cor branco tamanho gg",
+      "title": "Blusa Camisa Feminina Proteção Solar Bike Jetski Pesca Praia Cor Branco Tamanho GG",
+      "category": "Moda Feminina",
+      "price": 90.92,
+      "score": 88.0,
+      "posted_ts": 1786759542,
+      "posted_at": "2026-08-15T02:05:42.293282+00:00"
+    },
+    {
+      "key": "mercadolivre:MLB6965035168",
+      "product_id": "MLB6965035168",
+      "catalog_product_id": "MLB73581266",
+      "item_id": "MLB6965035168",
+      "url": "https://www.mercadolivre.com.br/p/MLB73581266?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB73581266?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "colete academia dry fit feminino leve cor branco tamanho p",
+      "title": "Colete Academia Dry Fit Feminino Leve Cor Branco Tamanho P",
+      "category": "Moda Feminina",
+      "price": 37.1,
+      "score": 91.95,
+      "posted_ts": 1786759478,
+      "posted_at": "2026-08-15T02:04:38.117591+00:00"
+    },
+    {
+      "key": "mercadolivre:MLB6619111042",
+      "product_id": "MLB6619111042",
+      "catalog_product_id": "MLB67984389",
+      "item_id": "MLB6619111042",
+      "url": "https://www.mercadolivre.com.br/p/MLB67984389?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB67984389?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "saida praia tule kimono amarracao short feminino verao bege m",
+      "title": "Saída Praia Tule Kimono Amarração Short Feminino Verão Bege M",
+      "category": "Moda Feminina",
+      "price": 97.99,
+      "score": 113.0,
+      "posted_ts": 1786759406,
+      "posted_at": "2026-08-15T02:03:26.497652+00:00"
+    },
+    {
       "key": "mercadolivre:MLB4266241495",
       "product_id": "MLB4266241495",
       "catalog_product_id": "MLB43806010",
@@ -1216,5 +1261,5 @@
       "posted_at": "2026-08-13T04:02:49.630162+00:00"
     }
   ],
-  "updated_at": "2026-08-15T01:09:44.642316+00:00"
+  "updated_at": "2026-08-15T02:05:42.293291+00:00"
 }
