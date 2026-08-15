@@ -1,6 +1,36 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB6512536586",
+      "product_id": "MLB6512536586",
+      "catalog_product_id": "MLB25981434",
+      "item_id": "MLB6512536586",
+      "url": "https://www.mercadolivre.com.br/p/MLB25981434?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB25981434?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "vestido feminino casual feminino guess relogio esportivo pulseira cor dourada",
+      "title": "Vestido feminino casual feminino Guess, relógio esportivo, pulseira, cor dourada",
+      "category": "Moda Feminina",
+      "price": 673.58,
+      "score": 86.0,
+      "posted_ts": 1786827867,
+      "posted_at": "2026-08-15T21:04:27.590467+00:00"
+    },
+    {
+      "key": "mercadolivre:MLB4812793017",
+      "product_id": "MLB4812793017",
+      "catalog_product_id": "MLB74520688",
+      "item_id": "MLB4812793017",
+      "url": "https://www.mercadolivre.com.br/p/MLB74520688?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB74520688?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "conjunto feminino shorts saia e blusa elegante festa balada cor conjunto feminino shorts saia preto",
+      "title": "Conjunto Feminino Shorts Saia E Blusa Elegante Festa Balada Cor Conjunto Feminino Shorts Saia Preto",
+      "category": "Moda Feminina",
+      "price": 167.93,
+      "score": 135.0,
+      "posted_ts": 1786827803,
+      "posted_at": "2026-08-15T21:03:23.620071+00:00"
+    },
+    {
       "key": "mercadolivre:MLB5331790354",
       "product_id": "MLB5331790354",
       "catalog_product_id": "MLB45458466",
@@ -1094,37 +1124,7 @@
       "score": 72.0,
       "posted_ts": 1786658536,
       "posted_at": "2026-08-13T22:02:16.943490+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB6665533644",
-      "product_id": "MLB6665533644",
-      "catalog_product_id": "MLB50957106",
-      "item_id": "MLB6665533644",
-      "url": "https://www.mercadolivre.com.br/p/MLB50957106?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB50957106?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "ssd nvme kingston 1tb nv3 m 2 2280 pcie 4 0 nf e cor ssd nvme m 2 2280 kingston 1tb",
-      "title": "Ssd Nvme Kingston 1tb Nv3 M.2 2280 Pcie 4.0 Nf-e Cor Ssd Nvme M.2 2280 Kingston 1tb",
-      "category": "Informática",
-      "price": 1090.0,
-      "score": 71.0,
-      "posted_ts": 1786655017,
-      "posted_at": "2026-08-13T21:03:37.432540+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB4654205549",
-      "product_id": "MLB4654205549",
-      "catalog_product_id": "MLB47353377",
-      "item_id": "MLB4654205549",
-      "url": "https://www.mercadolivre.com.br/p/MLB47353377?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB47353377?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "roteador wifi ac 1200 2 flex",
-      "title": "Roteador Wifi Ac 1200 2 Flex",
-      "category": "Informática",
-      "price": 169.14,
-      "score": 87.74,
-      "posted_ts": 1786654953,
-      "posted_at": "2026-08-13T21:02:33.260268+00:00"
     }
   ],
-  "updated_at": "2026-08-15T20:05:12.535600+00:00"
+  "updated_at": "2026-08-15T21:04:27.590476+00:00"
 }

@@ -1,6 +1,34 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB6512536586",
+      "marketplace": "mercadolivre",
+      "id": "MLB6512536586",
+      "title": "Vestido feminino casual feminino Guess, relógio esportivo, pulseira, cor dourada",
+      "title_norm": "vestido feminino casual feminino guess relogio esportivo pulseira cor dourada",
+      "url": "https://www.mercadolivre.com.br/p/MLB25981434?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB25981434?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Moda Feminina",
+      "bucket": "moda_feminina",
+      "posted_ts": 1786827867,
+      "posted_at": "2026-08-15T21:04:27.587630+00:00",
+      "score": 86.0
+    },
+    {
+      "key": "mercadolivre:MLB4812793017",
+      "marketplace": "mercadolivre",
+      "id": "MLB4812793017",
+      "title": "Conjunto Feminino Shorts Saia E Blusa Elegante Festa Balada Cor Conjunto Feminino Shorts Saia Preto",
+      "title_norm": "conjunto feminino shorts saia e blusa elegante festa balada cor conjunto feminino shorts saia preto",
+      "url": "https://www.mercadolivre.com.br/p/MLB74520688?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB74520688?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Moda Feminina",
+      "bucket": "moda_feminina",
+      "posted_ts": 1786827803,
+      "posted_at": "2026-08-15T21:03:23.617241+00:00",
+      "score": 135.0
+    },
+    {
       "key": "shopee:43781714813",
       "marketplace": "shopee",
       "id": "43781714813",
@@ -2255,5 +2283,5 @@
       "score": 130.19
     }
   ],
-  "updated_at": "2026-08-15T20:20:55.115539+00:00"
+  "updated_at": "2026-08-15T21:04:27.587641+00:00"
 }
