@@ -1,6 +1,76 @@
 {
   "posts": [
     {
+      "key": "shopee:49911082623",
+      "marketplace": "shopee",
+      "id": "49911082623",
+      "title": "Kit Presente Caderneta Couro Personalizada + Caneta com Nome Caixa Elegante Presente Brinde Agenda",
+      "title_norm": "kit presente caderneta couro personalizada caneta com nome caixa elegante presente brinde agenda",
+      "url": "https://shopee.com.br/product/243816539/49911082623",
+      "affiliate_url": "https://s.shopee.com.br/qiiea9NNm",
+      "category": "Gráfica Vision Art Design",
+      "bucket": "grafica_vision_art_design",
+      "posted_ts": 1786792864,
+      "posted_at": "2026-08-15T11:21:04.679366+00:00",
+      "score": 100.04
+    },
+    {
+      "key": "shopee:23498951046",
+      "marketplace": "shopee",
+      "id": "23498951046",
+      "title": "kit 10  24 Cores Caneta Marcadora De Cabeça Dupla Oleosa Montagem Artística Para Estudantes Material Escolar su",
+      "title_norm": "kit 10 24 cores caneta marcadora de cabeca dupla oleosa montagem artistica para estudantes material escolar su",
+      "url": "https://shopee.com.br/product/526615488/23498951046",
+      "affiliate_url": "https://s.shopee.com.br/3VjTpTqM9b",
+      "category": "Sus.store",
+      "bucket": "sus_store",
+      "posted_ts": 1786792800,
+      "posted_at": "2026-08-15T11:20:00.616277+00:00",
+      "score": 101.91
+    },
+    {
+      "key": "shopee:21399069053",
+      "marketplace": "shopee",
+      "id": "21399069053",
+      "title": "Caneta Paint Original Reparadora Pintura Automotiva Permanente Não Sai Na Água Tira Riscos Carro Moto Retoque de Placa Tênis Pneus para Ferro Metal Madeira Plástico Gesso Vidro Couro Tecido Cores Preto Branco Prata (Cinza) Dourado Azul Vermelha",
+      "title_norm": "caneta paint original reparadora pintura automotiva permanente nao sai na agua tira riscos carro moto retoque de placa tenis pneus para ferro metal madeira plastico gesso vidro couro tecido cores preto branco prata cinza dourado azul vermelha",
+      "url": "https://shopee.com.br/product/603381147/21399069053",
+      "affiliate_url": "https://s.shopee.com.br/7KwCOWOUow",
+      "category": "VENDAS.VTO",
+      "bucket": "calcados",
+      "posted_ts": 1786792731,
+      "posted_at": "2026-08-15T11:18:51.963918+00:00",
+      "score": 112.2
+    },
+    {
+      "key": "shopee:22696925642",
+      "marketplace": "shopee",
+      "id": "22696925642",
+      "title": "Aplique Finalizador de Laço e Agenda KIT 100 UN (5 Modelos) Passante Elástico, Decoração, Artesanato",
+      "title_norm": "aplique finalizador de laco e agenda kit 100 un 5 modelos passante elastico decoracao artesanato",
+      "url": "https://shopee.com.br/product/1076961691/22696925642",
+      "affiliate_url": "https://s.shopee.com.br/gPISHA0il",
+      "category": "E-Bureau",
+      "bucket": "pet",
+      "posted_ts": 1786792668,
+      "posted_at": "2026-08-15T11:17:48.067413+00:00",
+      "score": 121.17
+    },
+    {
+      "key": "shopee:58258327709",
+      "marketplace": "shopee",
+      "id": "58258327709",
+      "title": "Caneta Delineadora Carimbo Ponta Dupla | Delineado Gatinho Perfeito em Segundos | À Prova D’Água e Longa Duração",
+      "title_norm": "caneta delineadora carimbo ponta dupla delineado gatinho perfeito em segundos a prova d agua e longa duracao",
+      "url": "https://shopee.com.br/product/1696258657/58258327709",
+      "affiliate_url": "https://s.shopee.com.br/7AcmCDP89p",
+      "category": "Glamour Brasil Store",
+      "bucket": "pet",
+      "posted_ts": 1786792599,
+      "posted_at": "2026-08-15T11:16:39.677306+00:00",
+      "score": 130.76
+    },
+    {
       "key": "mercadolivre:MLB4778884663",
       "marketplace": "mercadolivre",
       "id": "MLB4778884663",
@@ -1429,5 +1499,5 @@
       "score": 130.19
     }
   ],
-  "updated_at": "2026-08-15T11:03:54.334894+00:00"
+  "updated_at": "2026-08-15T11:21:04.679376+00:00"
 }
