@@ -1,6 +1,76 @@
 {
   "posts": [
     {
+      "key": "shopee:19499545730",
+      "marketplace": "shopee",
+      "id": "19499545730",
+      "title": "Mini Compressor De Ar Portátil Recarregável Digital USB Calibrador De Pneus Carro Moto Bicicleta Infláveis Automático",
+      "title_norm": "mini compressor de ar portatil recarregavel digital usb calibrador de pneus carro moto bicicleta inflaveis automatico",
+      "url": "https://shopee.com.br/product/1127030290/19499545730",
+      "affiliate_url": "https://s.shopee.com.br/AAGNN1GjWf",
+      "category": "JIMMY.STORE",
+      "bucket": "jimmy_store",
+      "posted_ts": 1786771257,
+      "posted_at": "2026-08-15T05:20:57.973798+00:00",
+      "score": 120.76
+    },
+    {
+      "key": "shopee:23093824562",
+      "marketplace": "shopee",
+      "id": "23093824562",
+      "title": "Tênis Casual Branco Feminino Masculino Conforto Premium Academia Original",
+      "title_norm": "tenis casual branco feminino masculino conforto premium academia original",
+      "url": "https://shopee.com.br/product/391757444/23093824562",
+      "affiliate_url": "https://s.shopee.com.br/6fgVCaPNnQ",
+      "category": "ELITE SHOES ",
+      "bucket": "calcados",
+      "posted_ts": 1786771194,
+      "posted_at": "2026-08-15T05:19:54.035988+00:00",
+      "score": 120.76
+    },
+    {
+      "key": "shopee:22099191110",
+      "marketplace": "shopee",
+      "id": "22099191110",
+      "title": "Garrafa Térmica WATERSY 500ml - 48h Frio! Perfeita para Academia, Futebol e Dia a Dia⚽🏋️",
+      "title_norm": "garrafa termica watersy 500ml 48h frio perfeita para academia futebol e dia a dia",
+      "url": "https://shopee.com.br/product/1566556194/22099191110",
+      "affiliate_url": "https://s.shopee.com.br/9pdVZs72rR",
+      "category": "Watersy Store",
+      "bucket": "watersy_store",
+      "posted_ts": 1786771129,
+      "posted_at": "2026-08-15T05:18:49.945362+00:00",
+      "score": 122.36
+    },
+    {
+      "key": "shopee:22092998564",
+      "marketplace": "shopee",
+      "id": "22092998564",
+      "title": "Creatina Monohidratada Pura 1kg, 500g, 600, 300g e 150g - Dark Lab",
+      "title_norm": "creatina monohidratada pura 1kg 500g 600 300g e 150g dark lab",
+      "url": "https://shopee.com.br/product/1242044379/22092998564",
+      "affiliate_url": "https://s.shopee.com.br/5AreclIfRO",
+      "category": "Dark Lab Oficial",
+      "bucket": "dark_lab_oficial",
+      "posted_ts": 1786771066,
+      "posted_at": "2026-08-15T05:17:46.031419+00:00",
+      "score": 127.59
+    },
+    {
+      "key": "shopee:58205886633",
+      "marketplace": "shopee",
+      "id": "58205886633",
+      "title": "Whey 900g Proteina Suplemento Músculo Recuperação Aminoácidos",
+      "title_norm": "whey 900g proteina suplemento musculo recuperacao aminoacidos",
+      "url": "https://shopee.com.br/product/1735575008/58205886633",
+      "affiliate_url": "https://s.shopee.com.br/3VjTQlom5l",
+      "category": "WeBeauty.",
+      "bucket": "pet",
+      "posted_ts": 1786771001,
+      "posted_at": "2026-08-15T05:16:41.855980+00:00",
+      "score": 135.09
+    },
+    {
       "key": "mercadolivre:MLB7413459282",
       "marketplace": "mercadolivre",
       "id": "MLB7413459282",
@@ -939,5 +1009,5 @@
       "score": 130.19
     }
   ],
-  "updated_at": "2026-08-15T05:04:57.511552+00:00"
+  "updated_at": "2026-08-15T05:20:57.973811+00:00"
 }
