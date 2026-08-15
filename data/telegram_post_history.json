@@ -1,6 +1,76 @@
 {
   "posts": [
     {
+      "key": "shopee:47060418366",
+      "marketplace": "shopee",
+      "id": "47060418366",
+      "title": "Controle PS5 Sony Dualsense sem fio JoyStick - Midnight Black",
+      "title_norm": "controle ps5 sony dualsense sem fio joystick midnight black",
+      "url": "https://shopee.com.br/product/1343318906/47060418366",
+      "affiliate_url": "https://s.shopee.com.br/7fZ0KgHqUk",
+      "category": "NegociuN",
+      "bucket": "negociun",
+      "posted_ts": 1786803647,
+      "posted_at": "2026-08-15T14:20:47.386421+00:00",
+      "score": 73.92
+    },
+    {
+      "key": "shopee:23393338627",
+      "marketplace": "shopee",
+      "id": "23393338627",
+      "title": "2025 Videogame Portatil Tela 5.8\" /4.8\" +10000 Jogos Retro 16GB, Console de Mão Memoria Expansivel",
+      "title_norm": "2025 videogame portatil tela 5 8 4 8 10000 jogos retro 16gb console de mao memoria expansivel",
+      "url": "https://shopee.com.br/product/1066052934/23393338627",
+      "affiliate_url": "https://s.shopee.com.br/7AcmOa1LvN",
+      "category": "LIULIU",
+      "bucket": "liuliu",
+      "posted_ts": 1786803583,
+      "posted_at": "2026-08-15T14:19:43.491894+00:00",
+      "score": 74.87
+    },
+    {
+      "key": "shopee:23198455409",
+      "marketplace": "shopee",
+      "id": "23198455409",
+      "title": "Base de Carregamento PS5 DualSense Original Sony",
+      "title_norm": "base de carregamento ps5 dualsense original sony",
+      "url": "https://shopee.com.br/product/1097151802/23198455409",
+      "affiliate_url": "https://s.shopee.com.br/2VqvRTzInE",
+      "category": "Cadê Meu Eletro®",
+      "bucket": "cade_meu_eletro",
+      "posted_ts": 1786803519,
+      "posted_at": "2026-08-15T14:18:39.567586+00:00",
+      "score": 83.22
+    },
+    {
+      "key": "shopee:52902130185",
+      "marketplace": "shopee",
+      "id": "52902130185",
+      "title": "Controlador sem fio para console Nintendo Switch/NS Lite/NS OLED, Joycon Gamepad, Controle, Joystick, Joypad, Turbo,",
+      "title_norm": "controlador sem fio para console nintendo switch ns lite ns oled joycon gamepad controle joystick joypad turbo",
+      "url": "https://shopee.com.br/product/1006215031/52902130185",
+      "affiliate_url": "https://s.shopee.com.br/7VFa8NRHP4",
+      "category": "Choice Oficial",
+      "bucket": "choice_oficial",
+      "posted_ts": 1786803455,
+      "posted_at": "2026-08-15T14:17:35.635180+00:00",
+      "score": 86.08
+    },
+    {
+      "key": "shopee:21266419111",
+      "marketplace": "shopee",
+      "id": "21266419111",
+      "title": "Video game Stick 10mil 2 Controles Sem Fio Console Original Portatil Jogos Retro Antigo",
+      "title_norm": "video game stick 10mil 2 controles sem fio console original portatil jogos retro antigo",
+      "url": "https://shopee.com.br/product/362859393/21266419111",
+      "affiliate_url": "https://s.shopee.com.br/8fRaBKvdsc",
+      "category": "ALFA MERCEARIA.BR",
+      "bucket": "alfa_mercearia_br",
+      "posted_ts": 1786803391,
+      "posted_at": "2026-08-15T14:16:31.742698+00:00",
+      "score": 97.12
+    },
+    {
       "key": "mercadolivre:MLB7304556746",
       "marketplace": "mercadolivre",
       "id": "MLB7304556746",
@@ -1667,5 +1737,5 @@
       "score": 130.19
     }
   ],
-  "updated_at": "2026-08-15T14:02:37.432396+00:00"
+  "updated_at": "2026-08-15T14:20:47.386430+00:00"
 }
