@@ -1,6 +1,76 @@
 {
   "posts": [
     {
+      "key": "shopee:23899250598",
+      "marketplace": "shopee",
+      "id": "23899250598",
+      "title": "Pipoqueira Máquina De Fazer Pipoca Elétrica Ar Quente Profissional Sem Óleo Rápida",
+      "title_norm": "pipoqueira maquina de fazer pipoca eletrica ar quente profissional sem oleo rapida",
+      "url": "https://shopee.com.br/product/1661007426/23899250598",
+      "affiliate_url": "https://s.shopee.com.br/9V0hdieEOW",
+      "category": "Invention Hunters",
+      "bucket": "invention_hunters",
+      "posted_ts": 1786828865,
+      "posted_at": "2026-08-15T21:21:05.793910+00:00",
+      "score": 96.29
+    },
+    {
+      "key": "shopee:23297589986",
+      "marketplace": "shopee",
+      "id": "23297589986",
+      "title": "Pipoqueira Elétrica Popcorn Maker 110V  Pipoca Sem Óleo",
+      "title_norm": "pipoqueira eletrica popcorn maker 110v pipoca sem oleo",
+      "url": "https://shopee.com.br/product/1053378287/23297589986",
+      "affiliate_url": "https://s.shopee.com.br/AUtEpYaQMo",
+      "category": "3XZ STORE",
+      "bucket": "3xz_store",
+      "posted_ts": 1786828801,
+      "posted_at": "2026-08-15T21:20:01.626131+00:00",
+      "score": 105.97
+    },
+    {
+      "key": "shopee:23497309877",
+      "marketplace": "shopee",
+      "id": "23497309877",
+      "title": "Espremedor Elétrico Laranja Limão Frutas Fazer Sucos Recarregável Usb Cozinha",
+      "title_norm": "espremedor eletrico laranja limao frutas fazer sucos recarregavel usb cozinha",
+      "url": "https://shopee.com.br/product/807597901/23497309877",
+      "affiliate_url": "https://s.shopee.com.br/qijJmtcrE",
+      "category": "BIG MO",
+      "bucket": "big_mo",
+      "posted_ts": 1786828737,
+      "posted_at": "2026-08-15T21:18:57.529326+00:00",
+      "score": 124.46
+    },
+    {
+      "key": "shopee:20697354172",
+      "marketplace": "shopee",
+      "id": "20697354172",
+      "title": "Cafeteira Italiana Premium 6 Xícaras De Alumínio",
+      "title_norm": "cafeteira italiana premium 6 xicaras de aluminio",
+      "url": "https://shopee.com.br/product/408653169/20697354172",
+      "affiliate_url": "https://s.shopee.com.br/1LeyeQ38I6",
+      "category": "SELLNEEDS",
+      "bucket": "casa_cozinha",
+      "posted_ts": 1786828673,
+      "posted_at": "2026-08-15T21:17:53.439146+00:00",
+      "score": 128.96
+    },
+    {
+      "key": "shopee:19098205730",
+      "marketplace": "shopee",
+      "id": "19098205730",
+      "title": "Gaabor Aspirador de pó portátil 2 em 1 com fio e haste de pressão sucção forte de 16000Pa dust off GVCW-M15A",
+      "title_norm": "gaabor aspirador de po portatil 2 em 1 com fio e haste de pressao succao forte de 16000pa dust off gvcw m15a",
+      "url": "https://shopee.com.br/product/1541348350/19098205730",
+      "affiliate_url": "https://s.shopee.com.br/9pdWm2bAr6",
+      "category": "DOMUS STORE_",
+      "bucket": "casa_cozinha",
+      "posted_ts": 1786828602,
+      "posted_at": "2026-08-15T21:16:42.258576+00:00",
+      "score": 131.96
+    },
+    {
       "key": "mercadolivre:MLB6512536586",
       "marketplace": "mercadolivre",
       "id": "MLB6512536586",
@@ -2283,5 +2353,5 @@
       "score": 130.19
     }
   ],
-  "updated_at": "2026-08-15T21:04:27.587641+00:00"
+  "updated_at": "2026-08-15T21:21:05.793929+00:00"
 }
