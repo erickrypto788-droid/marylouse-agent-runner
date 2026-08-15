@@ -1,6 +1,21 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB3001466030",
+      "product_id": "MLB3001466030",
+      "catalog_product_id": "MLB22958206",
+      "item_id": "MLB3001466030",
+      "url": "https://www.mercadolivre.com.br/p/MLB22958206?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB22958206?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "aparelho monitor pressao arterial portatil pulso omron",
+      "title": "Aparelho Monitor Pressão Arterial Portátil Pulso Omron",
+      "category": "Informática",
+      "price": 180.0,
+      "score": 88.0,
+      "posted_ts": 1786798933,
+      "posted_at": "2026-08-15T13:02:13.921074+00:00"
+    },
+    {
       "key": "mercadolivre:MLB4778884663",
       "product_id": "MLB4778884663",
       "catalog_product_id": "MLB34729625",
@@ -1276,5 +1291,5 @@
       "posted_at": "2026-08-13T13:07:05.184429+00:00"
     }
   ],
-  "updated_at": "2026-08-15T11:03:54.336918+00:00"
+  "updated_at": "2026-08-15T13:02:13.921083+00:00"
 }

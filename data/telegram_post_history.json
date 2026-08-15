@@ -1,6 +1,20 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB3001466030",
+      "marketplace": "mercadolivre",
+      "id": "MLB3001466030",
+      "title": "Aparelho Monitor Pressão Arterial Portátil Pulso Omron",
+      "title_norm": "aparelho monitor pressao arterial portatil pulso omron",
+      "url": "https://www.mercadolivre.com.br/p/MLB22958206?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB22958206?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Informática",
+      "bucket": "saude",
+      "posted_ts": 1786798933,
+      "posted_at": "2026-08-15T13:02:13.918865+00:00",
+      "score": 88.0
+    },
+    {
       "key": "shopee:51102460198",
       "marketplace": "shopee",
       "id": "51102460198",
@@ -1569,5 +1583,5 @@
       "score": 130.19
     }
   ],
-  "updated_at": "2026-08-15T12:20:53.501853+00:00"
+  "updated_at": "2026-08-15T13:02:13.918876+00:00"
 }
