@@ -1,6 +1,76 @@
 {
   "posts": [
     {
+      "key": "shopee:25293647491",
+      "marketplace": "shopee",
+      "id": "25293647491",
+      "title": "Celimax The Vita A Retinal Shot Tightening Booster 15ml",
+      "title_norm": "celimax the vita a retinal shot tightening booster 15ml",
+      "url": "https://shopee.com.br/product/457864097/25293647491",
+      "affiliate_url": "https://s.shopee.com.br/9pdWqA029k",
+      "category": "koksara.kbeauty",
+      "bucket": "koksara_kbeauty",
+      "posted_ts": 1786832461,
+      "posted_at": "2026-08-15T22:21:01.563754+00:00",
+      "score": 105.25
+    },
+    {
+      "key": "shopee:58211381206",
+      "marketplace": "shopee",
+      "id": "58211381206",
+      "title": "Corretivo Líquido Under Eye 10 ML - Ruby Kisses",
+      "title_norm": "corretivo liquido under eye 10 ml ruby kisses",
+      "url": "https://shopee.com.br/product/1126064857/58211381206",
+      "affiliate_url": "https://s.shopee.com.br/5fnxsVBDnM",
+      "category": "VICTORIA BAZAR EIRELI",
+      "bucket": "victoria_bazar_eireli",
+      "posted_ts": 1786832397,
+      "posted_at": "2026-08-15T22:19:57.304001+00:00",
+      "score": 125.76
+    },
+    {
+      "key": "shopee:23098851500",
+      "marketplace": "shopee",
+      "id": "23098851500",
+      "title": "Kit Body Splash Dolce + Florata Red 200ml Feminino.",
+      "title_norm": "kit body splash dolce florata red 200ml feminino",
+      "url": "https://shopee.com.br/product/1617566398/23098851500",
+      "affiliate_url": "https://s.shopee.com.br/2LXVuN6WCW",
+      "category": "Ambar.cosmeticos",
+      "bucket": "ambar_cosmeticos",
+      "posted_ts": 1786832331,
+      "posted_at": "2026-08-15T22:18:51.029882+00:00",
+      "score": 128.52
+    },
+    {
+      "key": "shopee:22798465103",
+      "marketplace": "shopee",
+      "id": "22798465103",
+      "title": "Perfume Attracione Feminino by Attracione Woman Mulher",
+      "title_norm": "perfume attracione feminino by attracione woman mulher",
+      "url": "https://shopee.com.br/product/1266325318/22798465103",
+      "affiliate_url": "https://s.shopee.com.br/1VyOuq9gtT",
+      "category": "Attracione Men & Attracione",
+      "bucket": "beleza",
+      "posted_ts": 1786832263,
+      "posted_at": "2026-08-15T22:17:43.191193+00:00",
+      "score": 152.54
+    },
+    {
+      "key": "shopee:21897981294",
+      "marketplace": "shopee",
+      "id": "21897981294",
+      "title": "Attracione Men (Perfume Masculino com Feromônios Ativados)",
+      "title_norm": "attracione men perfume masculino com feromonios ativados",
+      "url": "https://shopee.com.br/product/1266325318/21897981294",
+      "affiliate_url": "https://s.shopee.com.br/80Btv4v3Mt",
+      "category": "Attracione Men & Attracione",
+      "bucket": "beleza",
+      "posted_ts": 1786832198,
+      "posted_at": "2026-08-15T22:16:38.566059+00:00",
+      "score": 160.52
+    },
+    {
       "key": "mercadolivre:MLB6827581422",
       "marketplace": "mercadolivre",
       "id": "MLB6827581422",
@@ -2367,5 +2437,5 @@
       "score": 130.19
     }
   ],
-  "updated_at": "2026-08-15T22:02:33.670116+00:00"
+  "updated_at": "2026-08-15T22:21:01.563769+00:00"
 }
