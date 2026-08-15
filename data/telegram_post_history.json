@@ -1,6 +1,76 @@
 {
   "posts": [
     {
+      "key": "shopee:54359629558",
+      "marketplace": "shopee",
+      "id": "54359629558",
+      "title": "Sérum Roll-On Área dos Olhos Adeus Olheiras 10ml Kokeshi",
+      "title_norm": "serum roll on area dos olhos adeus olheiras 10ml kokeshi",
+      "url": "https://shopee.com.br/product/395166866/54359629558",
+      "affiliate_url": "https://s.shopee.com.br/8fRZS14TWd",
+      "category": "KOKESHI OFICIAL",
+      "bucket": "kokeshi_oficial",
+      "posted_ts": 1786764058,
+      "posted_at": "2026-08-15T03:20:58.127152+00:00",
+      "score": 98.01
+    },
+    {
+      "key": "shopee:23994387054",
+      "marketplace": "shopee",
+      "id": "23994387054",
+      "title": "Kit Dupla Renovadores Faciais Kokeshi Pele Porcelana Olhos Gueixa",
+      "title_norm": "kit dupla renovadores faciais kokeshi pele porcelana olhos gueixa",
+      "url": "https://shopee.com.br/product/395166866/23994387054",
+      "affiliate_url": "https://s.shopee.com.br/904Pqd3Cqf",
+      "category": "KOKESHI OFICIAL",
+      "bucket": "kokeshi_oficial",
+      "posted_ts": 1786763994,
+      "posted_at": "2026-08-15T03:19:54.198532+00:00",
+      "score": 98.01
+    },
+    {
+      "key": "shopee:18597746989",
+      "marketplace": "shopee",
+      "id": "18597746989",
+      "title": "Prancha Triondas Ondulador Formador Triplo 22mm Modelador de Cachos Onda Cabelo Cerâmica Para Longo E Curto 200",
+      "title_norm": "prancha triondas ondulador formador triplo 22mm modelador de cachos onda cabelo ceramica para longo e curto 200",
+      "url": "https://shopee.com.br/product/1060793149/18597746989",
+      "affiliate_url": "https://s.shopee.com.br/4AzA5k8PJL",
+      "category": "Pinduoduo Store",
+      "bucket": "pinduoduo_store",
+      "posted_ts": 1786763930,
+      "posted_at": "2026-08-15T03:18:50.306456+00:00",
+      "score": 107.2
+    },
+    {
+      "key": "shopee:22598854262",
+      "marketplace": "shopee",
+      "id": "22598854262",
+      "title": "Kit Masculino 3 Body Splash  Essenciale + Kayak + Malbec 200ml",
+      "title_norm": "kit masculino 3 body splash essenciale kayak malbec 200ml",
+      "url": "https://shopee.com.br/product/1617566398/22598854262",
+      "affiliate_url": "https://s.shopee.com.br/2qTmVI4XwQ",
+      "category": "Ambar.cosmeticos",
+      "bucket": "ambar_cosmeticos",
+      "posted_ts": 1786763866,
+      "posted_at": "2026-08-15T03:17:46.448323+00:00",
+      "score": 124.49
+    },
+    {
+      "key": "shopee:23598683017",
+      "marketplace": "shopee",
+      "id": "23598683017",
+      "title": "Escova Secadora Alisador Elétrica Quente Cabelo Com 3 Em1 Hair Styler APENAS 110V Jimmystore",
+      "title_norm": "escova secadora alisador eletrica quente cabelo com 3 em1 hair styler apenas 110v jimmystore",
+      "url": "https://shopee.com.br/product/1127030290/23598683017",
+      "affiliate_url": "https://s.shopee.com.br/LmRWhISma",
+      "category": "JIMMY.STORE",
+      "bucket": "beleza",
+      "posted_ts": 1786763802,
+      "posted_at": "2026-08-15T03:16:42.567692+00:00",
+      "score": 145.4
+    },
+    {
       "key": "mercadolivre:MLB5454690706",
       "marketplace": "mercadolivre",
       "id": "MLB5454690706",
@@ -757,5 +827,5 @@
       "score": 130.19
     }
   ],
-  "updated_at": "2026-08-15T03:03:22.735585+00:00"
+  "updated_at": "2026-08-15T03:20:58.127160+00:00"
 }
