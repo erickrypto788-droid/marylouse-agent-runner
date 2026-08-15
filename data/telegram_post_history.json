@@ -1,6 +1,76 @@
 {
   "posts": [
     {
+      "key": "shopee:23798855725",
+      "marketplace": "shopee",
+      "id": "23798855725",
+      "title": "Conjunto Infantil Masculino De Verão - Camisa + Short Dry-Fit Levinho - Tamanho 2 ao 12",
+      "title_norm": "conjunto infantil masculino de verao camisa short dry fit levinho tamanho 2 ao 12",
+      "url": "https://shopee.com.br/product/877098627/23798855725",
+      "affiliate_url": "https://s.shopee.com.br/gPJFiqEKW",
+      "category": "Moda Kids Virtual",
+      "bucket": "moda_kids_virtual",
+      "posted_ts": 1786836063,
+      "posted_at": "2026-08-15T23:21:03.838221+00:00",
+      "score": 106.66
+    },
+    {
+      "key": "shopee:22296700159",
+      "marketplace": "shopee",
+      "id": "22296700159",
+      "title": "Conjunto Infantil Menino Verão – Camiseta + Bermuda Confortável | 1 a 12 Anos",
+      "title_norm": "conjunto infantil menino verao camiseta bermuda confortavel 1 a 12 anos",
+      "url": "https://shopee.com.br/product/877098627/22296700159",
+      "affiliate_url": "https://s.shopee.com.br/4Vc1olbdYF",
+      "category": "Moda Kids Virtual",
+      "bucket": "moda_kids_virtual",
+      "posted_ts": 1786835999,
+      "posted_at": "2026-08-15T23:19:59.844714+00:00",
+      "score": 107.95
+    },
+    {
+      "key": "shopee:19299609404",
+      "marketplace": "shopee",
+      "id": "19299609404",
+      "title": "Kit 3 ou 5 Camisetas Manga Longa Infantil Menino Básica Lisa Manga Comprida Infantil",
+      "title_norm": "kit 3 ou 5 camisetas manga longa infantil menino basica lisa manga comprida infantil",
+      "url": "https://shopee.com.br/product/341167297/19299609404",
+      "affiliate_url": "https://s.shopee.com.br/19cSUslgS",
+      "category": "Poloinfantil.store",
+      "bucket": "poloinfantil_store",
+      "posted_ts": 1786835935,
+      "posted_at": "2026-08-15T23:18:55.805468+00:00",
+      "score": 109.99
+    },
+    {
+      "key": "shopee:23292945743",
+      "marketplace": "shopee",
+      "id": "23292945743",
+      "title": "Tenis Infantil Masculino Tenis Led Menino Aranha Tenis De Menino Masculino Tenis Infantil Menino",
+      "title_norm": "tenis infantil masculino tenis led menino aranha tenis de menino masculino tenis infantil menino",
+      "url": "https://shopee.com.br/product/499950777/23292945743",
+      "affiliate_url": "https://s.shopee.com.br/9pdWuHbkXW",
+      "category": "Club_Happy",
+      "bucket": "calcados",
+      "posted_ts": 1786835871,
+      "posted_at": "2026-08-15T23:17:51.778976+00:00",
+      "score": 114.88
+    },
+    {
+      "key": "shopee:22293577075",
+      "marketplace": "shopee",
+      "id": "22293577075",
+      "title": "Kidstep Tenis Escolar Infantil Calce Fácil K Feminino Bordado Marinho com Pink",
+      "title_norm": "kidstep tenis escolar infantil calce facil k feminino bordado marinho com pink",
+      "url": "https://shopee.com.br/product/376576138/22293577075",
+      "affiliate_url": "https://s.shopee.com.br/8V89JpgpF8",
+      "category": "KidstepCalcados",
+      "bucket": "calcados",
+      "posted_ts": 1786835802,
+      "posted_at": "2026-08-15T23:16:42.597060+00:00",
+      "score": 118.97
+    },
+    {
       "key": "mercadolivre:MLB7116149854",
       "marketplace": "mercadolivre",
       "id": "MLB7116149854",
@@ -2465,5 +2535,5 @@
       "score": 130.19
     }
   ],
-  "updated_at": "2026-08-15T23:03:29.092053+00:00"
+  "updated_at": "2026-08-15T23:21:03.838235+00:00"
 }
