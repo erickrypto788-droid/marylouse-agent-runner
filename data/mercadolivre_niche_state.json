@@ -1,11 +1,11 @@
 {
-  "next_index": 16,
+  "next_index": 0,
   "last_keys": [
-    "supermercados"
+    "moda_feminina"
   ],
   "last_names": [
-    "Supermercados"
+    "Moda Feminina"
   ],
   "note": "Forçado para testar Supermercados no Mercado Livre.",
-  "updated_at": 1786816834
+  "updated_at": 1786820431
 }
