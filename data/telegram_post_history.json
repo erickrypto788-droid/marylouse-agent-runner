@@ -1,6 +1,76 @@
 {
   "posts": [
     {
+      "key": "shopee:22398531446",
+      "marketplace": "shopee",
+      "id": "22398531446",
+      "title": "10 ou 5 cuecas Cuecas Boxer Microfibra Adulto Sem Costura",
+      "title_norm": "10 ou 5 cuecas cuecas boxer microfibra adulto sem costura",
+      "url": "https://shopee.com.br/product/287423701/22398531446",
+      "affiliate_url": "https://s.shopee.com.br/4Vc05dsQXn",
+      "category": "MDPresentes",
+      "bucket": "mdpresentes",
+      "posted_ts": 1786810862,
+      "posted_at": "2026-08-15T16:21:02.052943+00:00",
+      "score": 107.35
+    },
+    {
+      "key": "shopee:23894124714",
+      "marketplace": "shopee",
+      "id": "23894124714",
+      "title": "Conjunto Jaqueta e Calça Jogger Masculina Inverno Frio Academia Treino Fitness Casual Esportivo Confortável",
+      "title_norm": "conjunto jaqueta e calca jogger masculina inverno frio academia treino fitness casual esportivo confortavel",
+      "url": "https://shopee.com.br/product/1191928081/23894124714",
+      "affiliate_url": "https://s.shopee.com.br/4Az9h1pIR7",
+      "category": "JF_ATACADO",
+      "bucket": "jf_atacado",
+      "posted_ts": 1786810797,
+      "posted_at": "2026-08-15T16:19:57.936815+00:00",
+      "score": 108.76
+    },
+    {
+      "key": "shopee:41958923942",
+      "marketplace": "shopee",
+      "id": "41958923942",
+      "title": "Vários modelos com Kit de 24 meia cano alto 100% algodão soquete Cano Curto Masculina Feminina Unissex direto da fabrica",
+      "title_norm": "varios modelos com kit de 24 meia cano alto 100 algodao soquete cano curto masculina feminina unissex direto da fabrica",
+      "url": "https://shopee.com.br/product/438057886/41958923942",
+      "affiliate_url": "https://s.shopee.com.br/80BsG4ncvO",
+      "category": "S.P.A Vendas Online",
+      "bucket": "s_p_a_vendas_online",
+      "posted_ts": 1786810733,
+      "posted_at": "2026-08-15T16:18:53.903339+00:00",
+      "score": 110.2
+    },
+    {
+      "key": "shopee:58258365609",
+      "marketplace": "shopee",
+      "id": "58258365609",
+      "title": "Calça Denim Baggy Masculina Balão Larga Carpenter Tecido Premium Dazzling",
+      "title_norm": "calca denim baggy masculina balao larga carpenter tecido premium dazzling",
+      "url": "https://shopee.com.br/product/1640887988/58258365609",
+      "affiliate_url": "https://s.shopee.com.br/1BLY7W0iWV",
+      "category": "FASHIONAURA_OFC",
+      "bucket": "fashionaura_ofc",
+      "posted_ts": 1786810669,
+      "posted_at": "2026-08-15T16:17:49.860434+00:00",
+      "score": 123.93
+    },
+    {
+      "key": "shopee:58211912714",
+      "marketplace": "shopee",
+      "id": "58211912714",
+      "title": "Kit 3 Shorts 2 em 1 Compressão Bermuda Masculina Academia Treino Bolso Celular",
+      "title_norm": "kit 3 shorts 2 em 1 compressao bermuda masculina academia treino bolso celular",
+      "url": "https://shopee.com.br/product/1564310492/58211912714",
+      "affiliate_url": "https://s.shopee.com.br/2LXWlwOJgn",
+      "category": "Pulse Air",
+      "bucket": "celulares",
+      "posted_ts": 1786810600,
+      "posted_at": "2026-08-15T16:16:40.073821+00:00",
+      "score": 147.08
+    },
+    {
       "key": "shopee:22693513091",
       "marketplace": "shopee",
       "id": "22693513091",
@@ -1807,5 +1877,5 @@
       "score": 130.19
     }
   ],
-  "updated_at": "2026-08-15T15:22:50.191172+00:00"
+  "updated_at": "2026-08-15T16:21:02.052953+00:00"
 }
