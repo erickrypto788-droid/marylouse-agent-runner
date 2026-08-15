@@ -1,6 +1,76 @@
 {
   "posts": [
     {
+      "key": "shopee:58254310142",
+      "marketplace": "shopee",
+      "id": "58254310142",
+      "title": "Borrifador de Óleo Spray para Cozinha Vidro 200ml Vinagre Azeite Air Fryer Oferta",
+      "title_norm": "borrifador de oleo spray para cozinha vidro 200ml vinagre azeite air fryer oferta",
+      "url": "https://shopee.com.br/product/1737092100/58254310142",
+      "affiliate_url": "https://s.shopee.com.br/2gAMyBpZGl",
+      "category": "3CMAX16888",
+      "bucket": "casa_cozinha",
+      "posted_ts": 1786800048,
+      "posted_at": "2026-08-15T13:20:48.758485+00:00",
+      "score": 120.84
+    },
+    {
+      "key": "shopee:9212570285",
+      "marketplace": "shopee",
+      "id": "9212570285",
+      "title": "Creatina Suplemento Monohidratada em Pó 100% Pura Importada - Soldiers Nutrition",
+      "title_norm": "creatina suplemento monohidratada em po 100 pura importada soldiers nutrition",
+      "url": "https://shopee.com.br/product/347988064/9212570285",
+      "affiliate_url": "https://s.shopee.com.br/4fvO1qKZSH",
+      "category": "Soldiers Nutrition",
+      "bucket": "soldiers_nutrition",
+      "posted_ts": 1786799984,
+      "posted_at": "2026-08-15T13:19:44.757036+00:00",
+      "score": 133.26
+    },
+    {
+      "key": "shopee:22894394613",
+      "marketplace": "shopee",
+      "id": "22894394613",
+      "title": "NAC Antioxidante Fígado N-Acetil L-Cisteína 500mg - 60 Cápsulas Original",
+      "title_norm": "nac antioxidante figado n acetil l cisteina 500mg 60 capsulas original",
+      "url": "https://shopee.com.br/product/768604265/22894394613",
+      "affiliate_url": "https://s.shopee.com.br/1gHpmM2Aq3",
+      "category": "Corpus",
+      "bucket": "corpus",
+      "posted_ts": 1786799920,
+      "posted_at": "2026-08-15T13:18:40.784039+00:00",
+      "score": 135.76
+    },
+    {
+      "key": "shopee:20299558422",
+      "marketplace": "shopee",
+      "id": "20299558422",
+      "title": "Creatina Ultra Pote 300g - FTW",
+      "title_norm": "creatina ultra pote 300g ftw",
+      "url": "https://shopee.com.br/product/1397772996/20299558422",
+      "affiliate_url": "https://s.shopee.com.br/1qbFyf1XV4",
+      "category": "Loja Oficial FTW",
+      "bucket": "loja_oficial_ftw",
+      "posted_ts": 1786799856,
+      "posted_at": "2026-08-15T13:17:36.839630+00:00",
+      "score": 135.76
+    },
+    {
+      "key": "shopee:22893392542",
+      "marketplace": "shopee",
+      "id": "22893392542",
+      "title": "Filtro Coador De Café Inox 103 - Com Pegador em Silicone - Peneira Aço Reutilizável  - CH",
+      "title_norm": "filtro coador de cafe inox 103 com pegador em silicone peneira aco reutilizavel ch",
+      "url": "https://shopee.com.br/product/1367299138/22893392542",
+      "affiliate_url": "https://s.shopee.com.br/5ArhwmXBKs",
+      "category": "Chaicommerce",
+      "bucket": "chaicommerce",
+      "posted_ts": 1786799792,
+      "posted_at": "2026-08-15T13:16:32.860997+00:00",
+      "score": 135.76
+    },
+    {
       "key": "mercadolivre:MLB3001466030",
       "marketplace": "mercadolivre",
       "id": "MLB3001466030",
@@ -1583,5 +1653,5 @@
       "score": 130.19
     }
   ],
-  "updated_at": "2026-08-15T13:02:13.918876+00:00"
+  "updated_at": "2026-08-15T13:20:48.758496+00:00"
 }
