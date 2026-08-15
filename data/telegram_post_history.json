@@ -1,6 +1,76 @@
 {
   "posts": [
     {
+      "key": "shopee:21639028953",
+      "marketplace": "shopee",
+      "id": "21639028953",
+      "title": "Kidstep Tenis Infantil Feminino Casual Preto Com Pink",
+      "title_norm": "kidstep tenis infantil feminino casual preto com pink",
+      "url": "https://shopee.com.br/product/376576138/21639028953",
+      "affiliate_url": "https://s.shopee.com.br/AUtDhVZDBa",
+      "category": "KidstepCalcados",
+      "bucket": "calcados",
+      "posted_ts": 1786767663,
+      "posted_at": "2026-08-15T04:21:03.026618+00:00",
+      "score": 111.39
+    },
+    {
+      "key": "shopee:23492959831",
+      "marketplace": "shopee",
+      "id": "23492959831",
+      "title": "Casaco Teddy Infantil Menina Capuz Touca com Ziper Ted Tedy Forrado Quente Feminino Jaqueta Infantil",
+      "title_norm": "casaco teddy infantil menina capuz touca com ziper ted tedy forrado quente feminino jaqueta infantil",
+      "url": "https://shopee.com.br/product/1233552581/23492959831",
+      "affiliate_url": "https://s.shopee.com.br/30nClioMGF",
+      "category": "Loja Escolha Certa",
+      "bucket": "loja_escolha_certa",
+      "posted_ts": 1786767589,
+      "posted_at": "2026-08-15T04:19:49.854725+00:00",
+      "score": 114.03
+    },
+    {
+      "key": "shopee:58207708258",
+      "marketplace": "shopee",
+      "id": "58207708258",
+      "title": "Kit 4 Short Bermuda Infantil Juvenil Tactel Menino Praia Com Bolso Elastano Premium 2 a 16 Anos",
+      "title_norm": "kit 4 short bermuda infantil juvenil tactel menino praia com bolso elastano premium 2 a 16 anos",
+      "url": "https://shopee.com.br/product/424773647/58207708258",
+      "affiliate_url": "https://s.shopee.com.br/3LQ3AKrlPh",
+      "category": "EDYBOY",
+      "bucket": "edyboy",
+      "posted_ts": 1786767525,
+      "posted_at": "2026-08-15T04:18:45.623570+00:00",
+      "score": 114.27
+    },
+    {
+      "key": "shopee:23398654174",
+      "marketplace": "shopee",
+      "id": "23398654174",
+      "title": "Calça Jeans Infantil  Wide Leg Cargo Black Juvenil 6 ao 14  ALTO PADRÃO LINHA PREMIUM",
+      "title_norm": "calca jeans infantil wide leg cargo black juvenil 6 ao 14 alto padrao linha premium",
+      "url": "https://shopee.com.br/product/1203275050/23398654174",
+      "affiliate_url": "https://s.shopee.com.br/LmRaoyVfT",
+      "category": "MUNDO INFANTIL ",
+      "bucket": "mundo_infantil",
+      "posted_ts": 1786767461,
+      "posted_at": "2026-08-15T04:17:41.468203+00:00",
+      "score": 114.51
+    },
+    {
+      "key": "shopee:22898838787",
+      "marketplace": "shopee",
+      "id": "22898838787",
+      "title": "Kit 5 Camisetas Regata Bebê Menino Menina",
+      "title_norm": "kit 5 camisetas regata bebe menino menina",
+      "url": "https://shopee.com.br/product/1017646777/22898838787",
+      "affiliate_url": "https://s.shopee.com.br/BT1OW89MW",
+      "category": "magiainfantil",
+      "bucket": "magiainfantil",
+      "posted_ts": 1786767397,
+      "posted_at": "2026-08-15T04:16:37.286237+00:00",
+      "score": 118.08
+    },
+    {
       "key": "shopee:54359629558",
       "marketplace": "shopee",
       "id": "54359629558",
@@ -827,5 +897,5 @@
       "score": 130.19
     }
   ],
-  "updated_at": "2026-08-15T03:20:58.127160+00:00"
+  "updated_at": "2026-08-15T04:21:03.026632+00:00"
 }
