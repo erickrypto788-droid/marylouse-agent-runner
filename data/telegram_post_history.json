@@ -1,6 +1,20 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB6827581422",
+      "marketplace": "mercadolivre",
+      "id": "MLB6827581422",
+      "title": "Prancha Esteira Ergometrica Kikos E600ix Preto",
+      "title_norm": "prancha esteira ergometrica kikos e600ix preto",
+      "url": "https://www.mercadolivre.com.br/p/MLB70114350?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB70114350?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Esportes",
+      "bucket": "esportes",
+      "posted_ts": 1786831353,
+      "posted_at": "2026-08-15T22:02:33.670100+00:00",
+      "score": 120.27
+    },
+    {
       "key": "shopee:23899250598",
       "marketplace": "shopee",
       "id": "23899250598",
@@ -2353,5 +2367,5 @@
       "score": 130.19
     }
   ],
-  "updated_at": "2026-08-15T21:21:05.793929+00:00"
+  "updated_at": "2026-08-15T22:02:33.670116+00:00"
 }

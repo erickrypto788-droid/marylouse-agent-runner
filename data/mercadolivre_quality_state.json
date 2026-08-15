@@ -1,6 +1,21 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB6827581422",
+      "product_id": "MLB6827581422",
+      "catalog_product_id": "MLB70114350",
+      "item_id": "MLB6827581422",
+      "url": "https://www.mercadolivre.com.br/p/MLB70114350?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB70114350?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "prancha esteira ergometrica kikos e600ix preto",
+      "title": "Prancha Esteira Ergometrica Kikos E600ix Preto",
+      "category": "Esportes",
+      "price": 191.28,
+      "score": 120.27,
+      "posted_ts": 1786831353,
+      "posted_at": "2026-08-15T22:02:33.672107+00:00"
+    },
+    {
       "key": "mercadolivre:MLB6512536586",
       "product_id": "MLB6512536586",
       "catalog_product_id": "MLB25981434",
@@ -1109,22 +1124,7 @@
       "score": 72.0,
       "posted_ts": 1786658600,
       "posted_at": "2026-08-13T22:03:20.902156+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB4455473269",
-      "product_id": "MLB4455473269",
-      "catalog_product_id": "MLB65128496",
-      "item_id": "MLB4455473269",
-      "url": "https://www.mercadolivre.com.br/p/MLB65128496?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB65128496?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "soundbar samsung hw b450f soundbar hw b400f",
-      "title": "Soundbar Samsung Hw-b450f + Soundbar Hw-b400f",
-      "category": "Informática",
-      "price": 1809.0,
-      "score": 72.0,
-      "posted_ts": 1786658536,
-      "posted_at": "2026-08-13T22:02:16.943490+00:00"
     }
   ],
-  "updated_at": "2026-08-15T21:04:27.590476+00:00"
+  "updated_at": "2026-08-15T22:02:33.672116+00:00"
 }
