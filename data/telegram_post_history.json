@@ -1,6 +1,48 @@
 {
   "posts": [
     {
+      "key": "shopee:23599239610",
+      "marketplace": "shopee",
+      "id": "23599239610",
+      "title": "Sandália Feminina Conforto Premium Com Detalhe Dourado Elegante | Casual E Sofisticada GABI",
+      "title_norm": "sandalia feminina conforto premium com detalhe dourado elegante casual e sofisticada gabi",
+      "url": "https://shopee.com.br/product/1648608636/23599239610",
+      "affiliate_url": "https://s.shopee.com.br/9pdWdnNk6Y",
+      "category": "cravorosa267",
+      "bucket": "calcados",
+      "posted_ts": 1786821526,
+      "posted_at": "2026-08-15T19:18:46.804808+00:00",
+      "score": 116.72
+    },
+    {
+      "key": "shopee:22294416370",
+      "marketplace": "shopee",
+      "id": "22294416370",
+      "title": "Sandália Feminina Asa Delta Rasteira Conforto Medalhas Douradas com Fivela Reveillon",
+      "title_norm": "sandalia feminina asa delta rasteira conforto medalhas douradas com fivela reveillon",
+      "url": "https://shopee.com.br/product/1022219186/22294416370",
+      "affiliate_url": "https://s.shopee.com.br/904PeGQunT",
+      "category": "Eudorashoes",
+      "bucket": "calcados",
+      "posted_ts": 1786821462,
+      "posted_at": "2026-08-15T19:17:42.769191+00:00",
+      "score": 126.7
+    },
+    {
+      "key": "shopee:22799040705",
+      "marketplace": "shopee",
+      "id": "22799040705",
+      "title": "Sandália Papete Feminina Ortopédica com Elástico Confortável Moderna com Palmilha Massageadora",
+      "title_norm": "sandalia papete feminina ortopedica com elastico confortavel moderna com palmilha massageadora",
+      "url": "https://shopee.com.br/product/420347720/22799040705",
+      "affiliate_url": "https://s.shopee.com.br/80Btiif2Gj",
+      "category": "Ploomer Premium",
+      "bucket": "pet",
+      "posted_ts": 1786821398,
+      "posted_at": "2026-08-15T19:16:38.704962+00:00",
+      "score": 128.02
+    },
+    {
       "key": "mercadolivre:MLB7059189312",
       "marketplace": "mercadolivre",
       "id": "MLB7059189312",
@@ -2101,5 +2143,5 @@
       "score": 130.19
     }
   ],
-  "updated_at": "2026-08-15T19:08:53.252979+00:00"
+  "updated_at": "2026-08-15T19:18:46.804819+00:00"
 }
