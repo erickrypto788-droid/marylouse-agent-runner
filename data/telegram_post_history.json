@@ -1,6 +1,62 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB3957584779",
+      "marketplace": "mercadolivre",
+      "id": "MLB3957584779",
+      "title": "Tecido Suplex Liso Amarelo de 5 Metros para Moda Fitness",
+      "title_norm": "tecido suplex liso amarelo de 5 metros para moda fitness",
+      "url": "https://www.mercadolivre.com.br/p/MLB45621460?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB45621460?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Esportes",
+      "bucket": "esportes",
+      "posted_ts": 1786889173,
+      "posted_at": "2026-08-16T14:06:13.968980+00:00",
+      "score": 88.0
+    },
+    {
+      "key": "mercadolivre:MLB4832226667",
+      "marketplace": "mercadolivre",
+      "id": "MLB4832226667",
+      "title": "Saída Praia Saia Feminina Texturizada Moda Verão Tendências Amarelo P",
+      "title_norm": "saida praia saia feminina texturizada moda verao tendencias amarelo p",
+      "url": "https://www.mercadolivre.com.br/p/MLB74626445?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB74626445?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Moda Feminina",
+      "bucket": "moda_feminina",
+      "posted_ts": 1786889109,
+      "posted_at": "2026-08-16T14:05:09.943416+00:00",
+      "score": 106.71
+    },
+    {
+      "key": "mercadolivre:MLB7079122650",
+      "marketplace": "mercadolivre",
+      "id": "MLB7079122650",
+      "title": "Conjunto Feminino Alfaiataria Bermuda Blusa Elegante Peplum Conjunto Feminino Shorts E Blusa Peplum",
+      "title_norm": "conjunto feminino alfaiataria bermuda blusa elegante peplum conjunto feminino shorts e blusa peplum",
+      "url": "https://www.mercadolivre.com.br/p/MLB74851412?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB74851412?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Moda Feminina",
+      "bucket": "moda_feminina",
+      "posted_ts": 1786889046,
+      "posted_at": "2026-08-16T14:04:06.000609+00:00",
+      "score": 129.93
+    },
+    {
+      "key": "mercadolivre:MLB4744740803",
+      "marketplace": "mercadolivre",
+      "id": "MLB4744740803",
+      "title": "Regata Feminina Modeladora Compressão Alta Sustentação Slim Cor Preto Tamanho P",
+      "title_norm": "regata feminina modeladora compressao alta sustentacao slim cor preto tamanho p",
+      "url": "https://www.mercadolivre.com.br/p/MLB72748665?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB72748665?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Moda Feminina",
+      "bucket": "moda_feminina",
+      "posted_ts": 1786888981,
+      "posted_at": "2026-08-16T14:03:01.951363+00:00",
+      "score": 144.05
+    },
+    {
       "key": "shopee:22894748403",
       "marketplace": "shopee",
       "id": "22894748403",
@@ -3697,5 +3753,5 @@
       "score": 130.19
     }
   ],
-  "updated_at": "2026-08-16T13:21:04.637054+00:00"
+  "updated_at": "2026-08-16T14:06:13.968991+00:00"
 }
