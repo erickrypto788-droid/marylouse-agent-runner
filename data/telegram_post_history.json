@@ -1,6 +1,76 @@
 {
   "posts": [
     {
+      "key": "shopee:19299305974",
+      "marketplace": "shopee",
+      "id": "19299305974",
+      "title": "Nintendo Switch lite desbloqueado",
+      "title_norm": "nintendo switch lite desbloqueado",
+      "url": "https://shopee.com.br/product/1226862113/19299305974",
+      "affiliate_url": "https://s.shopee.com.br/5VUZjwONyt",
+      "category": "ALCA GAMES",
+      "bucket": "alca_games",
+      "posted_ts": 1786875675,
+      "posted_at": "2026-08-16T10:21:15.161147+00:00",
+      "score": 32.71
+    },
+    {
+      "key": "shopee:40723378096",
+      "marketplace": "shopee",
+      "id": "40723378096",
+      "title": "CONSOLE PLAYSTATION 5 SLIM DISK 1TB",
+      "title_norm": "console playstation 5 slim disk 1tb",
+      "url": "https://shopee.com.br/product/1343318906/40723378096",
+      "affiliate_url": "https://s.shopee.com.br/3LQ59xbExz",
+      "category": "NegociuN",
+      "bucket": "negociun",
+      "posted_ts": 1786875610,
+      "posted_at": "2026-08-16T10:20:10.974524+00:00",
+      "score": 39.58
+    },
+    {
+      "key": "shopee:40873387489",
+      "marketplace": "shopee",
+      "id": "40873387489",
+      "title": "Console PlayStation 5 Slim Digital 825GB",
+      "title_norm": "console playstation 5 slim digital 825gb",
+      "url": "https://shopee.com.br/product/1343318906/40873387489",
+      "affiliate_url": "https://s.shopee.com.br/7Acnj0MeBU",
+      "category": "NegociuN",
+      "bucket": "negociun",
+      "posted_ts": 1786875546,
+      "posted_at": "2026-08-16T10:19:06.797361+00:00",
+      "score": 50.16
+    },
+    {
+      "key": "shopee:23994788573",
+      "marketplace": "shopee",
+      "id": "23994788573",
+      "title": "Console Nintendo Switch 2 256GB LCD Gray Novo Lacrado Lançamento NAO ENVIAMOS PRA CIDADE PB, PE e CE",
+      "title_norm": "console nintendo switch 2 256gb lcd gray novo lacrado lancamento nao enviamos pra cidade pb pe e ce",
+      "url": "https://shopee.com.br/product/528916875/23994788573",
+      "affiliate_url": "https://s.shopee.com.br/5LB9XdP1Jq",
+      "category": "Escolha Certa loja",
+      "bucket": "escolha_certa_loja",
+      "posted_ts": 1786875482,
+      "posted_at": "2026-08-16T10:18:02.566462+00:00",
+      "score": 61.32
+    },
+    {
+      "key": "shopee:20598029203",
+      "marketplace": "shopee",
+      "id": "20598029203",
+      "title": "Vídeo Game portátil 10000 jogos retrô tipo P-s.Eony 5.5 Polegadas",
+      "title_norm": "video game portatil 10000 jogos retro tipo p s eony 5 5 polegadas",
+      "url": "https://shopee.com.br/product/974102638/20598029203",
+      "affiliate_url": "https://s.shopee.com.br/70JNWhN4iS",
+      "category": "Loja 128",
+      "bucket": "loja_128",
+      "posted_ts": 1786875410,
+      "posted_at": "2026-08-16T10:16:50.708388+00:00",
+      "score": 71.8
+    },
+    {
       "key": "mercadolivre:MLB6978080348",
       "marketplace": "mercadolivre",
       "id": "MLB6978080348",
@@ -3333,5 +3403,5 @@
       "score": 130.19
     }
   ],
-  "updated_at": "2026-08-16T10:05:01.286766+00:00"
+  "updated_at": "2026-08-16T10:21:15.161158+00:00"
 }
