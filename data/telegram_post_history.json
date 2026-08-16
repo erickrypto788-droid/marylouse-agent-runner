@@ -1,6 +1,20 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB7158074090",
+      "marketplace": "mercadolivre",
+      "id": "MLB7158074090",
+      "title": "Liquidificador portátil, Mini liquidificador recarregável USB, Liquidificador",
+      "title_norm": "liquidificador portatil mini liquidificador recarregavel usb liquidificador",
+      "url": "https://www.mercadolivre.com.br/p/MLB38338044?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB38338044?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Casa e Cozinha",
+      "bucket": "casa_cozinha",
+      "posted_ts": 1786838558,
+      "posted_at": "2026-08-16T00:02:38.488357+00:00",
+      "score": 113.0
+    },
+    {
       "key": "shopee:23798855725",
       "marketplace": "shopee",
       "id": "23798855725",
@@ -2535,5 +2549,5 @@
       "score": 130.19
     }
   ],
-  "updated_at": "2026-08-15T23:21:03.838235+00:00"
+  "updated_at": "2026-08-16T00:02:38.488368+00:00"
 }

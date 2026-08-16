@@ -1,6 +1,21 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB7158074090",
+      "product_id": "MLB7158074090",
+      "catalog_product_id": "MLB38338044",
+      "item_id": "MLB7158074090",
+      "url": "https://www.mercadolivre.com.br/p/MLB38338044?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB38338044?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "liquidificador portatil mini liquidificador recarregavel usb liquidificador",
+      "title": "Liquidificador portátil, Mini liquidificador recarregável USB, Liquidificador",
+      "category": "Casa e Cozinha",
+      "price": 98.0,
+      "score": 113.0,
+      "posted_ts": 1786838558,
+      "posted_at": "2026-08-16T00:02:38.491318+00:00"
+    },
+    {
       "key": "mercadolivre:MLB7116149854",
       "product_id": "MLB7116149854",
       "catalog_product_id": "MLB74602351",
@@ -1094,22 +1109,7 @@
       "score": 103.33,
       "posted_ts": 1786669357,
       "posted_at": "2026-08-14T01:02:37.248500+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB5026800457",
-      "product_id": "MLB5026800457",
-      "catalog_product_id": "MLB20643765",
-      "item_id": "MLB5026800457",
-      "url": "https://www.mercadolivre.com.br/p/MLB20643765?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB20643765?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "carregador iphone tipo usb c cor branco",
-      "title": "Carregador iPhone Tipo USB-C Cor Branco",
-      "category": "Informática",
-      "price": 349.99,
-      "score": 87.0,
-      "posted_ts": 1786662272,
-      "posted_at": "2026-08-13T23:04:32.365655+00:00"
     }
   ],
-  "updated_at": "2026-08-15T23:03:29.095080+00:00"
+  "updated_at": "2026-08-16T00:02:38.491326+00:00"
 }
