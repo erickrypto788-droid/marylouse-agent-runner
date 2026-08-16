@@ -1,6 +1,76 @@
 {
   "posts": [
     {
+      "key": "shopee:23693177961",
+      "marketplace": "shopee",
+      "id": "23693177961",
+      "title": "Aparelho Medidor De Glicose G-tech Vita Kit 10tiras+10lancet",
+      "title_norm": "aparelho medidor de glicose g tech vita kit 10tiras 10lancet",
+      "url": "https://shopee.com.br/product/1251321262/23693177961",
+      "affiliate_url": "https://s.shopee.com.br/6AkEjuEfAO",
+      "category": "Multimix Saúde Online",
+      "bucket": "multimix_saude_online",
+      "posted_ts": 1786846923,
+      "posted_at": "2026-08-16T02:22:03.056187+00:00",
+      "score": 101.48
+    },
+    {
+      "key": "shopee:43754234043",
+      "marketplace": "shopee",
+      "id": "43754234043",
+      "title": "Medidor Pressão Digital De Pulso Com Voz Monitor Inteligente Aparelho De Pressão",
+      "title_norm": "medidor pressao digital de pulso com voz monitor inteligente aparelho de pressao",
+      "url": "https://shopee.com.br/product/1259086167/43754234043",
+      "affiliate_url": "https://s.shopee.com.br/8pl1B5b9q6",
+      "category": "Cherrygo1.br",
+      "bucket": "cherrygo1_br",
+      "posted_ts": 1786846859,
+      "posted_at": "2026-08-16T02:20:59.059511+00:00",
+      "score": 106.69
+    },
+    {
+      "key": "shopee:28891024500",
+      "marketplace": "shopee",
+      "id": "28891024500",
+      "title": "Balança Corporal Transparente Quadrada Digital Até 180kg Com Vidro Temperado Premium",
+      "title_norm": "balanca corporal transparente quadrada digital ate 180kg com vidro temperado premium",
+      "url": "https://shopee.com.br/product/943206066/28891024500",
+      "affiliate_url": "https://s.shopee.com.br/9pdX6e0lz0",
+      "category": "Onive",
+      "bucket": "onive",
+      "posted_ts": 1786846794,
+      "posted_at": "2026-08-16T02:19:54.853577+00:00",
+      "score": 118.26
+    },
+    {
+      "key": "shopee:20599334746",
+      "marketplace": "shopee",
+      "id": "20599334746",
+      "title": "Termômetro De Testa Infravermelha Digital",
+      "title_norm": "termometro de testa infravermelha digital",
+      "url": "https://shopee.com.br/product/1312114484/20599334746",
+      "affiliate_url": "https://s.shopee.com.br/4qEr9S6XX2",
+      "category": "HappyShop_",
+      "bucket": "saude",
+      "posted_ts": 1786846730,
+      "posted_at": "2026-08-16T02:18:50.855447+00:00",
+      "score": 145.38
+    },
+    {
+      "key": "shopee:20199713818",
+      "marketplace": "shopee",
+      "id": "20199713818",
+      "title": "Monitor De Pressão Arterial De Pulso Recarregável Alta XYY-2551",
+      "title_norm": "monitor de pressao arterial de pulso recarregavel alta xyy 2551",
+      "url": "https://shopee.com.br/product/415175805/20199713818",
+      "affiliate_url": "https://s.shopee.com.br/904RNOaWV7",
+      "category": "Isabela Top",
+      "bucket": "saude",
+      "posted_ts": 1786846661,
+      "posted_at": "2026-08-16T02:17:41.469566+00:00",
+      "score": 151.77
+    },
+    {
       "key": "mercadolivre:MLB4654205549",
       "marketplace": "mercadolivre",
       "id": "MLB4654205549",
@@ -2703,5 +2773,5 @@
       "score": 130.19
     }
   ],
-  "updated_at": "2026-08-16T02:02:24.745469+00:00"
+  "updated_at": "2026-08-16T02:22:03.056197+00:00"
 }
