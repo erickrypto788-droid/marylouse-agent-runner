@@ -1,6 +1,48 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB6884302164",
+      "marketplace": "mercadolivre",
+      "id": "MLB6884302164",
+      "title": "Rack Yescasa Rack para TV até 70\" jatoba terroso de mdp",
+      "title_norm": "rack yescasa rack para tv ate 70 jatoba terroso de mdp",
+      "url": "https://www.mercadolivre.com.br/p/MLB70627275?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB70627275?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Casa e Cozinha",
+      "bucket": "casa_e_cozinha",
+      "posted_ts": 1786892718,
+      "posted_at": "2026-08-16T15:05:18.290756+00:00",
+      "score": 76.94
+    },
+    {
+      "key": "mercadolivre:MLB7003862824",
+      "marketplace": "mercadolivre",
+      "id": "MLB7003862824",
+      "title": "Painel D'Rossi Painel Para TV para TV até 60\" cumaru de mdf/mdp",
+      "title_norm": "painel d rossi painel para tv para tv ate 60 cumaru de mdf mdp",
+      "url": "https://www.mercadolivre.com.br/p/MLB74184723?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB74184723?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Casa e Cozinha",
+      "bucket": "casa_e_cozinha",
+      "posted_ts": 1786892654,
+      "posted_at": "2026-08-16T15:04:14.357193+00:00",
+      "score": 89.57
+    },
+    {
+      "key": "mercadolivre:MLB6582939094",
+      "marketplace": "mercadolivre",
+      "id": "MLB6582939094",
+      "title": "Jogo Panelas Grandes Conjunto Caçarolas 40cm - 2 Un Alumínio",
+      "title_norm": "jogo panelas grandes conjunto cacarolas 40cm 2 un aluminio",
+      "url": "https://www.mercadolivre.com.br/p/MLB67685128?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB67685128?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Casa e Cozinha",
+      "bucket": "casa_cozinha",
+      "posted_ts": 1786892590,
+      "posted_at": "2026-08-16T15:03:10.235542+00:00",
+      "score": 111.0
+    },
+    {
       "key": "shopee:23494401704",
       "marketplace": "shopee",
       "id": "23494401704",
@@ -3781,5 +3823,5 @@
       "score": 130.19
     }
   ],
-  "updated_at": "2026-08-16T14:17:41.490241+00:00"
+  "updated_at": "2026-08-16T15:05:18.290765+00:00"
 }
