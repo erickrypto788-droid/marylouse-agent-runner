@@ -1,6 +1,21 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB6252264240",
+      "product_id": "MLB6252264240",
+      "catalog_product_id": "MLB65564566",
+      "item_id": "MLB6252264240",
+      "url": "https://www.mercadolivre.com.br/p/MLB65564566?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB65564566?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "soundbar samsung hw q990f soundbar hw b400f",
+      "title": "Soundbar Samsung Hw-q990f + Soundbar Hw-b400f",
+      "category": "Informática",
+      "price": 7349.0,
+      "score": 97.0,
+      "posted_ts": 1786917752,
+      "posted_at": "2026-08-16T22:02:32.273040+00:00"
+    },
+    {
       "key": "mercadolivre:MLB5653921846",
       "product_id": "MLB5653921846",
       "catalog_product_id": "MLB45798788",
@@ -1156,5 +1171,5 @@
       "posted_at": "2026-08-14T22:02:38.910169+00:00"
     }
   ],
-  "updated_at": "2026-08-16T21:03:42.596341+00:00"
+  "updated_at": "2026-08-16T22:02:32.273051+00:00"
 }

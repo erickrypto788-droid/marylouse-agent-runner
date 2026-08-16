@@ -1,6 +1,20 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB6252264240",
+      "marketplace": "mercadolivre",
+      "id": "MLB6252264240",
+      "title": "Soundbar Samsung Hw-q990f + Soundbar Hw-b400f",
+      "title_norm": "soundbar samsung hw q990f soundbar hw b400f",
+      "url": "https://www.mercadolivre.com.br/p/MLB65564566?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB65564566?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Informática",
+      "bucket": "informatica",
+      "posted_ts": 1786917752,
+      "posted_at": "2026-08-16T22:02:32.268603+00:00",
+      "score": 97.0
+    },
+    {
       "key": "shopee:23193491200",
       "marketplace": "shopee",
       "id": "23193491200",
@@ -4439,5 +4453,5 @@
       "score": 130.19
     }
   ],
-  "updated_at": "2026-08-16T21:21:11.176383+00:00"
+  "updated_at": "2026-08-16T22:02:32.268618+00:00"
 }
