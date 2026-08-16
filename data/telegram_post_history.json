@@ -1,6 +1,20 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB4750057565",
+      "marketplace": "mercadolivre",
+      "id": "MLB4750057565",
+      "title": "Fritadeira Air Fryer Mondial Oven Digital 127v",
+      "title_norm": "fritadeira air fryer mondial oven digital 127v",
+      "url": "https://www.mercadolivre.com.br/p/MLB54083722?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB54083722?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Casa e Cozinha",
+      "bucket": "casa_cozinha",
+      "posted_ts": 1786906934,
+      "posted_at": "2026-08-16T19:02:14.017094+00:00",
+      "score": 124.0
+    },
+    {
       "key": "shopee:23099137392",
       "marketplace": "shopee",
       "id": "23099137392",
@@ -4145,5 +4159,5 @@
       "score": 130.19
     }
   ],
-  "updated_at": "2026-08-16T18:20:58.708282+00:00"
+  "updated_at": "2026-08-16T19:02:14.017105+00:00"
 }
