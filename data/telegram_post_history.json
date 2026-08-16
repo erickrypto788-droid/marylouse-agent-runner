@@ -1,6 +1,20 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB5765586272",
+      "marketplace": "mercadolivre",
+      "id": "MLB5765586272",
+      "title": "Smartphone Xiaomi Redmi 9c 32gb Azul",
+      "title_norm": "smartphone xiaomi redmi 9c 32gb azul",
+      "url": "https://www.mercadolivre.com.br/p/MLB47326105?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB47326105?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Informática",
+      "bucket": "celulares",
+      "posted_ts": 1786852957,
+      "posted_at": "2026-08-16T04:02:37.677850+00:00",
+      "score": 127.0
+    },
+    {
       "key": "mercadolivre:MLB4455480129",
       "marketplace": "mercadolivre",
       "id": "MLB4455480129",
@@ -2801,5 +2815,5 @@
       "score": 130.19
     }
   ],
-  "updated_at": "2026-08-16T03:03:38.670853+00:00"
+  "updated_at": "2026-08-16T04:02:37.677864+00:00"
 }

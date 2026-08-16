@@ -1,6 +1,21 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB5765586272",
+      "product_id": "MLB5765586272",
+      "catalog_product_id": "MLB47326105",
+      "item_id": "MLB5765586272",
+      "url": "https://www.mercadolivre.com.br/p/MLB47326105?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB47326105?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "smartphone xiaomi redmi 9c 32gb azul",
+      "title": "Smartphone Xiaomi Redmi 9c 32gb Azul",
+      "category": "Informática",
+      "price": 999.99,
+      "score": 127.0,
+      "posted_ts": 1786852957,
+      "posted_at": "2026-08-16T04:02:37.681443+00:00"
+    },
+    {
       "key": "mercadolivre:MLB4455480129",
       "product_id": "MLB4455480129",
       "catalog_product_id": "MLB65128982",
@@ -1064,22 +1079,7 @@
       "score": 72.0,
       "posted_ts": 1786680206,
       "posted_at": "2026-08-14T04:03:26.645358+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB7284866408",
-      "product_id": "MLB7284866408",
-      "catalog_product_id": "MLB40540370",
-      "item_id": "MLB7284866408",
-      "url": "https://www.mercadolivre.com.br/p/MLB40540370?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB40540370?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "tchauzinho fralda melhoramentos",
-      "title": "Tchauzinho, Fralda! - Melhoramentos",
-      "category": "Mãe e Bebê",
-      "price": 49.09,
-      "score": 72.0,
-      "posted_ts": 1786680142,
-      "posted_at": "2026-08-14T04:02:22.758102+00:00"
     }
   ],
-  "updated_at": "2026-08-16T03:03:38.674137+00:00"
+  "updated_at": "2026-08-16T04:02:37.681462+00:00"
 }
