@@ -1,6 +1,48 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB7359539976",
+      "marketplace": "mercadolivre",
+      "id": "MLB7359539976",
+      "title": "Bike Spinning Kikos Max-ks5 Preto",
+      "title_norm": "bike spinning kikos max ks5 preto",
+      "url": "https://www.mercadolivre.com.br/p/MLB18603556?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB18603556?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Esportes",
+      "bucket": "esportes",
+      "posted_ts": 1786899884,
+      "posted_at": "2026-08-16T17:04:44.193562+00:00",
+      "score": 84.0
+    },
+    {
+      "key": "mercadolivre:MLB4552665179",
+      "marketplace": "mercadolivre",
+      "id": "MLB4552665179",
+      "title": "Whey Protein Concentrado + Whey Protein Isolado + Cafeína",
+      "title_norm": "whey protein concentrado whey protein isolado cafeina",
+      "url": "https://www.mercadolivre.com.br/p/MLB20818317?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB20818317?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Esportes",
+      "bucket": "esportes",
+      "posted_ts": 1786899820,
+      "posted_at": "2026-08-16T17:03:40.000351+00:00",
+      "score": 86.0
+    },
+    {
+      "key": "mercadolivre:MLB6928908142",
+      "marketplace": "mercadolivre",
+      "id": "MLB6928908142",
+      "title": "Esteira Ergometrica Rtx320 Evox Fitness Preto",
+      "title_norm": "esteira ergometrica rtx320 evox fitness preto",
+      "url": "https://www.mercadolivre.com.br/p/MLB62892484?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB62892484?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Esportes",
+      "bucket": "informatica",
+      "posted_ts": 1786899755,
+      "posted_at": "2026-08-16T17:02:35.868106+00:00",
+      "score": 108.0
+    },
+    {
       "key": "shopee:22494456015",
       "marketplace": "shopee",
       "id": "22494456015",
@@ -3921,5 +3963,5 @@
       "score": 130.19
     }
   ],
-  "updated_at": "2026-08-16T16:21:07.097262+00:00"
+  "updated_at": "2026-08-16T17:04:44.193574+00:00"
 }
