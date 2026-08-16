@@ -1,6 +1,76 @@
 {
   "posts": [
     {
+      "key": "shopee:23197485445",
+      "marketplace": "shopee",
+      "id": "23197485445",
+      "title": "Whey Protein Fuse 900g Isolate Dark Lab",
+      "title_norm": "whey protein fuse 900g isolate dark lab",
+      "url": "https://shopee.com.br/product/1242044379/23197485445",
+      "affiliate_url": "https://s.shopee.com.br/3qMJpNnVPr",
+      "category": "Dark Lab Oficial",
+      "bucket": "dark_lab_oficial",
+      "posted_ts": 1786839658,
+      "posted_at": "2026-08-16T00:20:58.440077+00:00",
+      "score": 119.03
+    },
+    {
+      "key": "shopee:44553066762",
+      "marketplace": "shopee",
+      "id": "44553066762",
+      "title": "Regata Feminina Blusa Alça fina Poliamida Premium Fitness Casual com Bojo Removível",
+      "title_norm": "regata feminina blusa alca fina poliamida premium fitness casual com bojo removivel",
+      "url": "https://shopee.com.br/product/1147903950/44553066762",
+      "affiliate_url": "https://s.shopee.com.br/6pzwfB4T9Z",
+      "category": "LADY.KA",
+      "bucket": "moda_feminina",
+      "posted_ts": 1786839594,
+      "posted_at": "2026-08-16T00:19:54.307476+00:00",
+      "score": 119.18
+    },
+    {
+      "key": "shopee:48759846878",
+      "marketplace": "shopee",
+      "id": "48759846878",
+      "title": "Kit 3 Nichos Redondos Bola De Futebol MDF Decoração Quarto Infantil Bebê Menino Prateleira Organizadora",
+      "title_norm": "kit 3 nichos redondos bola de futebol mdf decoracao quarto infantil bebe menino prateleira organizadora",
+      "url": "https://shopee.com.br/product/1125450269/48759846878",
+      "affiliate_url": "https://s.shopee.com.br/2qTmdXiVtR",
+      "category": "LDC Arte & Decor. ",
+      "bucket": "pet",
+      "posted_ts": 1786839530,
+      "posted_at": "2026-08-16T00:18:50.072201+00:00",
+      "score": 119.65
+    },
+    {
+      "key": "shopee:58201698463",
+      "marketplace": "shopee",
+      "id": "58201698463",
+      "title": "WATERSY Garrafa térmica em aço inoxidável 304 500ml Academia Garrafa térmica Copo de água Aço Inox Garrafa Portátil",
+      "title_norm": "watersy garrafa termica em aco inoxidavel 304 500ml academia garrafa termica copo de agua aco inox garrafa portatil",
+      "url": "https://shopee.com.br/product/472202601/58201698463",
+      "affiliate_url": "https://s.shopee.com.br/LmSvEgTwU",
+      "category": "Watersy Oficial",
+      "bucket": "watersy_oficial",
+      "posted_ts": 1786839465,
+      "posted_at": "2026-08-16T00:17:45.829142+00:00",
+      "score": 120.44
+    },
+    {
+      "key": "shopee:21798597083",
+      "marketplace": "shopee",
+      "id": "21798597083",
+      "title": "Patinete infantil 3 rodas com led ajustável scooter dobrável menino menina",
+      "title_norm": "patinete infantil 3 rodas com led ajustavel scooter dobravel menino menina",
+      "url": "https://shopee.com.br/product/325008325/21798597083",
+      "affiliate_url": "https://s.shopee.com.br/AUtDpk4mbo",
+      "category": "Na Web Group De Marcas",
+      "bucket": "na_web_group_de_marcas",
+      "posted_ts": 1786839401,
+      "posted_at": "2026-08-16T00:16:41.513042+00:00",
+      "score": 132.72
+    },
+    {
       "key": "mercadolivre:MLB7158074090",
       "marketplace": "mercadolivre",
       "id": "MLB7158074090",
@@ -2549,5 +2619,5 @@
       "score": 130.19
     }
   ],
-  "updated_at": "2026-08-16T00:02:38.488368+00:00"
+  "updated_at": "2026-08-16T00:20:58.440087+00:00"
 }
