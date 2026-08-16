@@ -1,6 +1,76 @@
 {
   "posts": [
     {
+      "key": "shopee:52352168399",
+      "marketplace": "shopee",
+      "id": "52352168399",
+      "title": "Pasta de Amendoim com Whey Protein 600g Dr Peanut",
+      "title_norm": "pasta de amendoim com whey protein 600g dr peanut",
+      "url": "https://shopee.com.br/product/338537405/52352168399",
+      "affiliate_url": "https://s.shopee.com.br/3VjTxidWie",
+      "category": "Hard Extreme",
+      "bucket": "hard_extreme",
+      "posted_ts": 1786872069,
+      "posted_at": "2026-08-16T09:21:09.380663+00:00",
+      "score": 113.08
+    },
+    {
+      "key": "shopee:22793474764",
+      "marketplace": "shopee",
+      "id": "22793474764",
+      "title": "Filtro De Café 103 Inox - Coador de Café Grande Sem Uso De Papel - Mazzal  atacado",
+      "title_norm": "filtro de cafe 103 inox coador de cafe grande sem uso de papel mazzal atacado",
+      "url": "https://shopee.com.br/product/1362240140/22793474764",
+      "affiliate_url": "https://s.shopee.com.br/7KwCWlOvwW",
+      "category": "TOP SHOP ELETRONICO",
+      "bucket": "top_shop_eletronico",
+      "posted_ts": 1786872002,
+      "posted_at": "2026-08-16T09:20:02.365754+00:00",
+      "score": 114.27
+    },
+    {
+      "key": "shopee:22392992790",
+      "marketplace": "shopee",
+      "id": "22392992790",
+      "title": "Batedor Misturador Mixer Elétrico para Bebidas Leite Café Clara de Ovo 2 em 1",
+      "title_norm": "batedor misturador mixer eletrico para bebidas leite cafe clara de ovo 2 em 1",
+      "url": "https://shopee.com.br/product/415175805/22392992790",
+      "affiliate_url": "https://s.shopee.com.br/19bnHqqon",
+      "category": "Isabela Top",
+      "bucket": "isabela_top",
+      "posted_ts": 1786871934,
+      "posted_at": "2026-08-16T09:18:54.799205+00:00",
+      "score": 114.77
+    },
+    {
+      "key": "shopee:26841826773",
+      "marketplace": "shopee",
+      "id": "26841826773",
+      "title": "Chaleira Elétrica Jarra 1.8L Café Chá Inox 220v",
+      "title_norm": "chaleira eletrica jarra 1 8l cafe cha inox 220v",
+      "url": "https://shopee.com.br/product/408653169/26841826773",
+      "affiliate_url": "https://s.shopee.com.br/3LQ3lPeA3d",
+      "category": "SELLNEEDS",
+      "bucket": "sellneeds",
+      "posted_ts": 1786871866,
+      "posted_at": "2026-08-16T09:17:46.737418+00:00",
+      "score": 115.93
+    },
+    {
+      "key": "shopee:23098028068",
+      "marketplace": "shopee",
+      "id": "23098028068",
+      "title": "Pré Treino Diabo Verde Pre-Workout 150g - FTW",
+      "title_norm": "pre treino diabo verde pre workout 150g ftw",
+      "url": "https://shopee.com.br/product/1397772996/23098028068",
+      "affiliate_url": "https://s.shopee.com.br/3qMKMKtvRO",
+      "category": "Loja Oficial FTW",
+      "bucket": "loja_oficial_ftw",
+      "posted_ts": 1786871799,
+      "posted_at": "2026-08-16T09:16:39.836261+00:00",
+      "score": 118.26
+    },
+    {
       "key": "mercadolivre:MLB4864941673",
       "marketplace": "mercadolivre",
       "id": "MLB4864941673",
@@ -3221,5 +3291,5 @@
       "score": 130.19
     }
   ],
-  "updated_at": "2026-08-16T09:03:41.839037+00:00"
+  "updated_at": "2026-08-16T09:21:09.380675+00:00"
 }
