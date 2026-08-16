@@ -1,6 +1,76 @@
 {
   "posts": [
     {
+      "key": "shopee:23294309688",
+      "marketplace": "shopee",
+      "id": "23294309688",
+      "title": "🎁 Super Kit 48 Carrinhos de Fricção + Pista 🚗 | Presente para Menino | Container Colecionável🎄",
+      "title_norm": "super kit 48 carrinhos de friccao pista presente para menino container colecionavel",
+      "url": "https://shopee.com.br/product/1059934694/23294309688",
+      "affiliate_url": "https://s.shopee.com.br/2LXYpft7hZ",
+      "category": "HAIYAN ZHAO",
+      "bucket": "haiyan_zhao",
+      "posted_ts": 1786922449,
+      "posted_at": "2026-08-16T23:20:49.170324+00:00",
+      "score": 101.83
+    },
+    {
+      "key": "shopee:19499323595",
+      "marketplace": "shopee",
+      "id": "19499323595",
+      "title": "240 ML Mamadeira de Silicone Anticólica Premium BPA Free Bico Macio Imita Peito Materno",
+      "title_norm": "240 ml mamadeira de silicone anticolica premium bpa free bico macio imita peito materno",
+      "url": "https://shopee.com.br/product/1006790682/19499323595",
+      "affiliate_url": "https://s.shopee.com.br/5LBAPBYu5U",
+      "category": "AUXOM",
+      "bucket": "auxom",
+      "posted_ts": 1786922385,
+      "posted_at": "2026-08-16T23:19:45.264005+00:00",
+      "score": 102.7
+    },
+    {
+      "key": "shopee:42071102324",
+      "marketplace": "shopee",
+      "id": "42071102324",
+      "title": "Troninho Privadinha Assento Redutor Pinico Infantil Para desfralde Marca styll baby",
+      "title_norm": "troninho privadinha assento redutor pinico infantil para desfralde marca styll baby",
+      "url": "https://shopee.com.br/product/1450084195/42071102324",
+      "affiliate_url": "https://s.shopee.com.br/8AVLmOFBEU",
+      "category": "Clube Kids Baby II",
+      "bucket": "clube_kids_baby_ii",
+      "posted_ts": 1786922321,
+      "posted_at": "2026-08-16T23:18:41.371771+00:00",
+      "score": 103.68
+    },
+    {
+      "key": "shopee:58204170684",
+      "marketplace": "shopee",
+      "id": "58204170684",
+      "title": "Push Plane Bebê Infantil Das Crianças Empurrador Avião Brinquedo Carrinho De Pato Bebê Empurrar Bebê Aprender A Andar",
+      "title_norm": "push plane bebe infantil das criancas empurrador aviao brinquedo carrinho de pato bebe empurrar bebe aprender a andar",
+      "url": "https://shopee.com.br/product/1201743813/58204170684",
+      "affiliate_url": "https://s.shopee.com.br/1VyRq8wIOU",
+      "category": "GMW VARIEDADES",
+      "bucket": "gmw_variedades",
+      "posted_ts": 1786922257,
+      "posted_at": "2026-08-16T23:17:37.500090+00:00",
+      "score": 104.29
+    },
+    {
+      "key": "shopee:17882461983",
+      "marketplace": "shopee",
+      "id": "17882461983",
+      "title": "Trocador Plastificado Impermeável Anatômico Americano de Cômoda Para Troca de Fraldas",
+      "title_norm": "trocador plastificado impermeavel anatomico americano de comoda para troca de fraldas",
+      "url": "https://shopee.com.br/product/816564186/17882461983",
+      "affiliate_url": "https://s.shopee.com.br/BT4FgjdTB",
+      "category": "Mainha Baby",
+      "bucket": "fraldas",
+      "posted_ts": 1786922193,
+      "posted_at": "2026-08-16T23:16:33.529999+00:00",
+      "score": 128.39
+    },
+    {
       "key": "mercadolivre:MLB4777552385",
       "marketplace": "mercadolivre",
       "id": "MLB4777552385",
@@ -4551,5 +4621,5 @@
       "score": 130.19
     }
   ],
-  "updated_at": "2026-08-16T23:03:24.667503+00:00"
+  "updated_at": "2026-08-16T23:20:49.170333+00:00"
 }
