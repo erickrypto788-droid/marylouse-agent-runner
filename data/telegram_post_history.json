@@ -1,6 +1,76 @@
 {
   "posts": [
     {
+      "key": "shopee:21276599648",
+      "marketplace": "shopee",
+      "id": "21276599648",
+      "title": "Bota Caterpillar Trilha Coturno Adventure Envio Rápido",
+      "title_norm": "bota caterpillar trilha coturno adventure envio rapido",
+      "url": "https://shopee.com.br/product/397535661/21276599648",
+      "affiliate_url": "https://s.shopee.com.br/6VN740UQYo",
+      "category": "Shopping Alpha.",
+      "bucket": "calcados",
+      "posted_ts": 1786882849,
+      "posted_at": "2026-08-16T12:20:49.561188+00:00",
+      "score": 105.14
+    },
+    {
+      "key": "shopee:23793879757",
+      "marketplace": "shopee",
+      "id": "23793879757",
+      "title": "Daily T-shirt Insider",
+      "title_norm": "daily t shirt insider",
+      "url": "https://shopee.com.br/product/1462595809/23793879757",
+      "affiliate_url": "https://s.shopee.com.br/8V88qzliuT",
+      "category": "INSIDER",
+      "bucket": "insider",
+      "posted_ts": 1786882785,
+      "posted_at": "2026-08-16T12:19:45.548200+00:00",
+      "score": 106.18
+    },
+    {
+      "key": "shopee:58254260460",
+      "marketplace": "shopee",
+      "id": "58254260460",
+      "title": "Camiseta Personalizada Com Sua Logo Camisa 100% Algodão",
+      "title_norm": "camiseta personalizada com sua logo camisa 100 algodao",
+      "url": "https://shopee.com.br/product/332016197/58254260460",
+      "affiliate_url": "https://s.shopee.com.br/1qbGB1M5uY",
+      "category": "use_NK",
+      "bucket": "use_nk",
+      "posted_ts": 1786882721,
+      "posted_at": "2026-08-16T12:18:41.475032+00:00",
+      "score": 107.11
+    },
+    {
+      "key": "shopee:22393516179",
+      "marketplace": "shopee",
+      "id": "22393516179",
+      "title": "Conjunto Infantil Masculino - Camisa + Bermuda Para O Verão 2025",
+      "title_norm": "conjunto infantil masculino camisa bermuda para o verao 2025",
+      "url": "https://shopee.com.br/product/1396316927/22393516179",
+      "affiliate_url": "https://s.shopee.com.br/qiizBU1jO",
+      "category": "KJ Company",
+      "bucket": "kj_company",
+      "posted_ts": 1786882657,
+      "posted_at": "2026-08-16T12:17:37.552064+00:00",
+      "score": 108.05
+    },
+    {
+      "key": "shopee:20998537478",
+      "marketplace": "shopee",
+      "id": "20998537478",
+      "title": "Kit 10 Cuecas Slip Tamanho P ao Plus Size Microfibra Adulto Masculino",
+      "title_norm": "kit 10 cuecas slip tamanho p ao plus size microfibra adulto masculino",
+      "url": "https://shopee.com.br/product/318532790/20998537478",
+      "affiliate_url": "https://s.shopee.com.br/6VN740Pkjo",
+      "category": "CapehUnderwear",
+      "bucket": "capehunderwear",
+      "posted_ts": 1786882593,
+      "posted_at": "2026-08-16T12:16:33.676169+00:00",
+      "score": 112.43
+    },
+    {
       "key": "mercadolivre:MLB4623864041",
       "marketplace": "mercadolivre",
       "id": "MLB4623864041",
@@ -3557,5 +3627,5 @@
       "score": 130.19
     }
   ],
-  "updated_at": "2026-08-16T12:09:24.460627+00:00"
+  "updated_at": "2026-08-16T12:20:49.561200+00:00"
 }
