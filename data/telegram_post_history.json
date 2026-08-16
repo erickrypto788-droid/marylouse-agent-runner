@@ -1,6 +1,76 @@
 {
   "posts": [
     {
+      "key": "shopee:19044723152",
+      "marketplace": "shopee",
+      "id": "19044723152",
+      "title": "Sapato Social Masculino Confortável Elegante com Carteira Cinto e Relógio DIRETO DA FÁBRICA",
+      "title_norm": "sapato social masculino confortavel elegante com carteira cinto e relogio direto da fabrica",
+      "url": "https://shopee.com.br/product/387517673/19044723152",
+      "affiliate_url": "https://s.shopee.com.br/1qbH6hkoCJ",
+      "category": "COURO FRAN",
+      "bucket": "calcados",
+      "posted_ts": 1786861258,
+      "posted_at": "2026-08-16T06:20:58.800222+00:00",
+      "score": 94.79
+    },
+    {
+      "key": "shopee:58206127194",
+      "marketplace": "shopee",
+      "id": "58206127194",
+      "title": "Mochila Multifuncional Unissex Alta Capacidade Ideal para Viagem Negócios e Escritório",
+      "title_norm": "mochila multifuncional unissex alta capacidade ideal para viagem negocios e escritorio",
+      "url": "https://shopee.com.br/product/1749603745/58206127194",
+      "affiliate_url": "https://s.shopee.com.br/20ufybOkbB",
+      "category": "Spoetry_Brazil",
+      "bucket": "bolsas",
+      "posted_ts": 1786861194,
+      "posted_at": "2026-08-16T06:19:54.868036+00:00",
+      "score": 99.11
+    },
+    {
+      "key": "shopee:23697830604",
+      "marketplace": "shopee",
+      "id": "23697830604",
+      "title": "Mochila Militar Tática Impermeável 50 Litros Grande Reforçada com Brinde Bandeira",
+      "title_norm": "mochila militar tatica impermeavel 50 litros grande reforcada com brinde bandeira",
+      "url": "https://shopee.com.br/product/392260640/23697830604",
+      "affiliate_url": "https://s.shopee.com.br/2gAMlpQTWC",
+      "category": "Good Vibes Moment Variedade Mochila",
+      "bucket": "bolsas",
+      "posted_ts": 1786861130,
+      "posted_at": "2026-08-16T06:18:50.791101+00:00",
+      "score": 120.76
+    },
+    {
+      "key": "shopee:20897812743",
+      "marketplace": "shopee",
+      "id": "20897812743",
+      "title": "Mochila Faculdade Reforçada Compartimento Para Notebook Escolar Unissex Diversas Cores",
+      "title_norm": "mochila faculdade reforcada compartimento para notebook escolar unissex diversas cores",
+      "url": "https://shopee.com.br/product/1003774706/20897812743",
+      "affiliate_url": "https://s.shopee.com.br/112A7Aja6k",
+      "category": "Fk Comercial",
+      "bucket": "informatica",
+      "posted_ts": 1786861062,
+      "posted_at": "2026-08-16T06:17:42.732096+00:00",
+      "score": 123.97
+    },
+    {
+      "key": "shopee:22799125551",
+      "marketplace": "shopee",
+      "id": "22799125551",
+      "title": "Mochila Masculina Esportiva Impermeável para Notebook, Mochila Escolar de Viagem e Trabalho",
+      "title_norm": "mochila masculina esportiva impermeavel para notebook mochila escolar de viagem e trabalho",
+      "url": "https://shopee.com.br/product/1658947107/22799125551",
+      "affiliate_url": "https://s.shopee.com.br/7VFcexCqOO",
+      "category": "RON CHANG",
+      "bucket": "informatica",
+      "posted_ts": 1786860998,
+      "posted_at": "2026-08-16T06:16:38.783007+00:00",
+      "score": 126.44
+    },
+    {
       "key": "mercadolivre:MLB7197070408",
       "marketplace": "mercadolivre",
       "id": "MLB7197070408",
@@ -2955,5 +3025,5 @@
       "score": 130.19
     }
   ],
-  "updated_at": "2026-08-16T06:03:47.600623+00:00"
+  "updated_at": "2026-08-16T06:20:58.800233+00:00"
 }
