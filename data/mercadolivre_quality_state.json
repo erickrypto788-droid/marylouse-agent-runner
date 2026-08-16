@@ -1,6 +1,51 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB6978080348",
+      "product_id": "MLB6978080348",
+      "catalog_product_id": "MLB46173110",
+      "item_id": "MLB6978080348",
+      "url": "https://www.mercadolivre.com.br/p/MLB46173110?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB46173110?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "impressora etiquetas monocromatica toledo prix it400m usb",
+      "title": "Impressora Etiquetas Monocromática Toledo Prix IT400M USB",
+      "category": "Informática",
+      "price": 1177.0,
+      "score": 86.0,
+      "posted_ts": 1786874701,
+      "posted_at": "2026-08-16T10:05:01.290458+00:00"
+    },
+    {
+      "key": "mercadolivre:MLB5201599262",
+      "product_id": "MLB5201599262",
+      "catalog_product_id": "MLB44215301",
+      "item_id": "MLB5201599262",
+      "url": "https://www.mercadolivre.com.br/p/MLB44215301?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB44215301?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "ribbon resina mastercorp 110x300 para impressora etiquetas bopp vinil",
+      "title": "Ribbon Resina Mastercorp 110x300 Para Impressora Etiquetas BOPP Vinil",
+      "category": "Informática",
+      "price": 638.4,
+      "score": 86.0,
+      "posted_ts": 1786874631,
+      "posted_at": "2026-08-16T10:03:51.304541+00:00"
+    },
+    {
+      "key": "mercadolivre:MLB3954286799",
+      "product_id": "MLB3954286799",
+      "catalog_product_id": "MLB39019401",
+      "item_id": "MLB3954286799",
+      "url": "https://www.mercadolivre.com.br/p/MLB39019401?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB39019401?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "impressora etiquetas logistica codigo de barras usb",
+      "title": "Impressora Etiquetas Logistica Código De Barras Usb",
+      "category": "Informática",
+      "price": 549.99,
+      "score": 122.73,
+      "posted_ts": 1786874567,
+      "posted_at": "2026-08-16T10:02:47.103824+00:00"
+    },
+    {
       "key": "mercadolivre:MLB4864941673",
       "product_id": "MLB4864941673",
       "catalog_product_id": "MLB51893724",
@@ -929,22 +974,7 @@
       "score": 72.0,
       "posted_ts": 1786705334,
       "posted_at": "2026-08-14T11:02:14.595207+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB7003862824",
-      "product_id": "MLB7003862824",
-      "catalog_product_id": "MLB74184723",
-      "item_id": "MLB7003862824",
-      "url": "https://www.mercadolivre.com.br/p/MLB74184723?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB74184723?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "painel d rossi painel para tv para tv ate 60 cumaru de mdf mdp",
-      "title": "Painel D'Rossi Painel Para TV para TV até 60\" cumaru de mdf/mdp",
-      "category": "Casa e Cozinha",
-      "price": 663.09,
-      "score": 79.57,
-      "posted_ts": 1786698237,
-      "posted_at": "2026-08-14T09:03:57.291005+00:00"
     }
   ],
-  "updated_at": "2026-08-16T09:03:41.842712+00:00"
+  "updated_at": "2026-08-16T10:05:01.290467+00:00"
 }
