@@ -1,6 +1,36 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB4777552385",
+      "product_id": "MLB4777552385",
+      "catalog_product_id": "MLB47815788",
+      "item_id": "MLB4777552385",
+      "url": "https://www.mercadolivre.com.br/p/MLB47815788?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB47815788?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "smartphone xiaomi redmi 14c 4g 256gb ram 4gb preto",
+      "title": "Smartphone Xiaomi Redmi 14c 4g 256gb Ram 4gb Preto",
+      "category": "Informática",
+      "price": 840.0,
+      "score": 127.0,
+      "posted_ts": 1786921404,
+      "posted_at": "2026-08-16T23:03:24.672619+00:00"
+    },
+    {
+      "key": "mercadolivre:MLB4313106591",
+      "product_id": "MLB4313106591",
+      "catalog_product_id": "MLB56425611",
+      "item_id": "MLB4313106591",
+      "url": "https://www.mercadolivre.com.br/p/MLB56425611?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB56425611?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "smartphone xiaomi poco c85 6gb ram 128gb preto",
+      "title": "Smartphone xiaomi Poco C85 6gb ram + 128gb, Preto",
+      "category": "Informática",
+      "price": 716.5,
+      "score": 127.0,
+      "posted_ts": 1786921340,
+      "posted_at": "2026-08-16T23:02:20.766194+00:00"
+    },
+    {
       "key": "mercadolivre:MLB6252264240",
       "product_id": "MLB6252264240",
       "catalog_product_id": "MLB65564566",
@@ -1124,52 +1154,7 @@
       "score": 134.85,
       "posted_ts": 1786755990,
       "posted_at": "2026-08-15T01:06:30.542010+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB4856179667",
-      "product_id": "MLB4856179667",
-      "catalog_product_id": "MLB57578486",
-      "item_id": "MLB4856179667",
-      "url": "https://www.mercadolivre.com.br/p/MLB57578486?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB57578486?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "mini impressora niimbot b1 etiqueta bluetooth cor prateado impressora etiquetas adesivas",
-      "title": "Mini Impressora Niimbot B1 etiqueta Bluetooth Cor Prateado impressora etiquetas adesivas",
-      "category": "Informática",
-      "price": 223.99,
-      "score": 157.47,
-      "posted_ts": 1786748559,
-      "posted_at": "2026-08-14T23:02:39.363071+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB4552727020",
-      "product_id": "MLB4552727020",
-      "catalog_product_id": "MLB23076913",
-      "item_id": "MLB4552727020",
-      "url": "https://www.mercadolivre.com.br/p/MLB23076913?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB23076913?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "monitor bebe wifi infravermelho vision noctura intercom inteligente",
-      "title": "Monitor Bebe Wifi Infravermelho Vision Noctura Intercom Inteligente",
-      "category": "Informática",
-      "price": 1394.0,
-      "score": 86.0,
-      "posted_ts": 1786745023,
-      "posted_at": "2026-08-14T22:03:43.004165+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB7372384956",
-      "product_id": "MLB7372384956",
-      "catalog_product_id": "MLB75043057",
-      "item_id": "MLB7372384956",
-      "url": "https://www.mercadolivre.com.br/p/MLB75043057?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB75043057?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "amarelo escova limpeza mamadeira kit para limpeza de mamadeira kit limpeza mamadeira viagem kit limpeza bebe escova mamadeira portatil escova bico canudo secador higiene infantil acessorios bebe",
-      "title": "Amarelo escova limpeza mamadeira kit para limpeza de mamadeira kit limpeza mamadeira viagem kit limpeza bebe escova mamadeira portatil escova bico canudo secador higiene infantil acessorios bebe",
-      "category": "Mãe e Bebê",
-      "price": 89.3,
-      "score": 192.77,
-      "posted_ts": 1786744958,
-      "posted_at": "2026-08-14T22:02:38.910169+00:00"
     }
   ],
-  "updated_at": "2026-08-16T22:02:32.273051+00:00"
+  "updated_at": "2026-08-16T23:03:24.672630+00:00"
 }

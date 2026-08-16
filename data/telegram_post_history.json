@@ -1,6 +1,34 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB4777552385",
+      "marketplace": "mercadolivre",
+      "id": "MLB4777552385",
+      "title": "Smartphone Xiaomi Redmi 14c 4g 256gb Ram 4gb Preto",
+      "title_norm": "smartphone xiaomi redmi 14c 4g 256gb ram 4gb preto",
+      "url": "https://www.mercadolivre.com.br/p/MLB47815788?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB47815788?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Informática",
+      "bucket": "celulares",
+      "posted_ts": 1786921404,
+      "posted_at": "2026-08-16T23:03:24.667490+00:00",
+      "score": 127.0
+    },
+    {
+      "key": "mercadolivre:MLB4313106591",
+      "marketplace": "mercadolivre",
+      "id": "MLB4313106591",
+      "title": "Smartphone xiaomi Poco C85 6gb ram + 128gb, Preto",
+      "title_norm": "smartphone xiaomi poco c85 6gb ram 128gb preto",
+      "url": "https://www.mercadolivre.com.br/p/MLB56425611?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB56425611?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Informática",
+      "bucket": "celulares",
+      "posted_ts": 1786921340,
+      "posted_at": "2026-08-16T23:02:20.760965+00:00",
+      "score": 127.0
+    },
+    {
       "key": "shopee:23494153711",
       "marketplace": "shopee",
       "id": "23494153711",
@@ -4523,5 +4551,5 @@
       "score": 130.19
     }
   ],
-  "updated_at": "2026-08-16T22:20:53.590714+00:00"
+  "updated_at": "2026-08-16T23:03:24.667503+00:00"
 }
