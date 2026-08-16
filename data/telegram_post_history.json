@@ -1,6 +1,48 @@
 {
   "posts": [
     {
+      "key": "shopee:22893909896",
+      "marketplace": "shopee",
+      "id": "22893909896",
+      "title": "Mochila viral Laptop Viagem Escolar À Prova D'água Executiva Notebook Impermeável Guarda Tenis-W01 bosco",
+      "title_norm": "mochila viral laptop viagem escolar a prova d agua executiva notebook impermeavel guarda tenis w01 bosco",
+      "url": "https://shopee.com.br/product/1477444349/22893909896",
+      "affiliate_url": "https://s.shopee.com.br/2gAO27WFaY",
+      "category": "maxbel.loja",
+      "bucket": "informatica",
+      "posted_ts": 1786857526,
+      "posted_at": "2026-08-16T05:18:46.422665+00:00",
+      "score": 94.14
+    },
+    {
+      "key": "shopee:21099546181",
+      "marketplace": "shopee",
+      "id": "21099546181",
+      "title": "Bolsa Feminina Pequena de Ombro Impermeável, Mini Tiracolo de Couro para Trabalho e Festa",
+      "title_norm": "bolsa feminina pequena de ombro impermeavel mini tiracolo de couro para trabalho e festa",
+      "url": "https://shopee.com.br/product/1198407784/21099546181",
+      "affiliate_url": "https://s.shopee.com.br/BT33WbZeI",
+      "category": "Romantic Crown.02",
+      "bucket": "bolsas",
+      "posted_ts": 1786857462,
+      "posted_at": "2026-08-16T05:17:42.288140+00:00",
+      "score": 112.37
+    },
+    {
+      "key": "shopee:22693059376",
+      "marketplace": "shopee",
+      "id": "22693059376",
+      "title": "Mochila Feminina para Viagem Casual à Prova d'Água em Oxford, Se Torna Bolsa de Mão Alex",
+      "title_norm": "mochila feminina para viagem casual a prova d agua em oxford se torna bolsa de mao alex",
+      "url": "https://shopee.com.br/product/400311012/22693059376",
+      "affiliate_url": "https://s.shopee.com.br/9fK72Zb6UX",
+      "category": "Marisa.store",
+      "bucket": "bolsas",
+      "posted_ts": 1786857398,
+      "posted_at": "2026-08-16T05:16:38.236160+00:00",
+      "score": 116.41
+    },
+    {
       "key": "shopee:22792565843",
       "marketplace": "shopee",
       "id": "22792565843",
@@ -2885,5 +2927,5 @@
       "score": 130.19
     }
   ],
-  "updated_at": "2026-08-16T04:20:52.679320+00:00"
+  "updated_at": "2026-08-16T05:18:46.422676+00:00"
 }
