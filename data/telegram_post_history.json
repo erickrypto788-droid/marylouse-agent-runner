@@ -1,6 +1,76 @@
 {
   "posts": [
     {
+      "key": "shopee:23598810107",
+      "marketplace": "shopee",
+      "id": "23598810107",
+      "title": "Mini Maquina De Donuts Café Da Manhã Capacidade Para 7 /8 Mini Rosquinha Elétrica 110V Portátil-Lm",
+      "title_norm": "mini maquina de donuts cafe da manha capacidade para 7 8 mini rosquinha eletrica 110v portatil lm",
+      "url": "https://shopee.com.br/product/1607476642/23598810107",
+      "affiliate_url": "https://s.shopee.com.br/6AkH00CcTr",
+      "category": "LM TECH STORE",
+      "bucket": "lm_tech_store",
+      "posted_ts": 1786900853,
+      "posted_at": "2026-08-16T17:20:53.351626+00:00",
+      "score": 79.7
+    },
+    {
+      "key": "shopee:20999203046",
+      "marketplace": "shopee",
+      "id": "20999203046",
+      "title": "Ventilador Mondial 30cm Vsp 30 B 60hz Loi",
+      "title_norm": "ventilador mondial 30cm vsp 30 b 60hz loi",
+      "url": "https://shopee.com.br/product/359168917/20999203046",
+      "affiliate_url": "https://s.shopee.com.br/7AcoBpvXs3",
+      "category": "LOI BRASIL",
+      "bucket": "loi_brasil",
+      "posted_ts": 1786900789,
+      "posted_at": "2026-08-16T17:19:49.430909+00:00",
+      "score": 81.71
+    },
+    {
+      "key": "shopee:23898692172",
+      "marketplace": "shopee",
+      "id": "23898692172",
+      "title": "Ventilador de Teto com Luz Silencioso Controle Remoto Economica Instalação Fácil LED Bivolt E27",
+      "title_norm": "ventilador de teto com luz silencioso controle remoto economica instalacao facil led bivolt e27",
+      "url": "https://shopee.com.br/product/1521699574/23898692172",
+      "affiliate_url": "https://s.shopee.com.br/5ArjoA39vT",
+      "category": "LUZORA",
+      "bucket": "luzora",
+      "posted_ts": 1786900725,
+      "posted_at": "2026-08-16T17:18:45.571775+00:00",
+      "score": 91.35
+    },
+    {
+      "key": "shopee:23392997431",
+      "marketplace": "shopee",
+      "id": "23392997431",
+      "title": "Aspirador de Pó Doméstico 3 em 1 Sem Fio Limpeza Sucção USB",
+      "title_norm": "aspirador de po domestico 3 em 1 sem fio limpeza succao usb",
+      "url": "https://shopee.com.br/product/1232649860/23392997431",
+      "affiliate_url": "https://s.shopee.com.br/W5uFaP7NM",
+      "category": "SLX 123",
+      "bucket": "casa_cozinha",
+      "posted_ts": 1786900661,
+      "posted_at": "2026-08-16T17:17:41.700843+00:00",
+      "score": 109.22
+    },
+    {
+      "key": "shopee:8020679826",
+      "marketplace": "shopee",
+      "id": "8020679826",
+      "title": "Liquidificador Mondial L‑99 Turbo 550 W 3 Velocidades",
+      "title_norm": "liquidificador mondial l 99 turbo 550 w 3 velocidades",
+      "url": "https://shopee.com.br/product/359168917/8020679826",
+      "affiliate_url": "https://s.shopee.com.br/4qEtPXvczI",
+      "category": "LOI BRASIL",
+      "bucket": "casa_cozinha",
+      "posted_ts": 1786900597,
+      "posted_at": "2026-08-16T17:16:37.741409+00:00",
+      "score": 116.76
+    },
+    {
       "key": "mercadolivre:MLB7359539976",
       "marketplace": "mercadolivre",
       "id": "MLB7359539976",
@@ -3963,5 +4033,5 @@
       "score": 130.19
     }
   ],
-  "updated_at": "2026-08-16T17:04:44.193574+00:00"
+  "updated_at": "2026-08-16T17:20:53.351637+00:00"
 }
