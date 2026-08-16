@@ -1,6 +1,76 @@
 {
   "posts": [
     {
+      "key": "shopee:54052225033",
+      "marketplace": "shopee",
+      "id": "54052225033",
+      "title": "32 Peças Kit De Maquiagem Para Crianças Lavável/Conjunto Portátil Meninas",
+      "title_norm": "32 pecas kit de maquiagem para criancas lavavel conjunto portatil meninas",
+      "url": "https://shopee.com.br/product/1480010644/54052225033",
+      "affiliate_url": "https://s.shopee.com.br/6AkGKnJQuJ",
+      "category": "DJ Super Direct Shop",
+      "bucket": "beleza",
+      "posted_ts": 1786864873,
+      "posted_at": "2026-08-16T07:21:13.910331+00:00",
+      "score": 99.27
+    },
+    {
+      "key": "shopee:23993398101",
+      "marketplace": "shopee",
+      "id": "23993398101",
+      "title": "Kit 44 Lápis de Cor (24 CORES + 10 Cores Tom Pastel +10 Cores Tons de Pele) Escolar Sextavado",
+      "title_norm": "kit 44 lapis de cor 24 cores 10 cores tom pastel 10 cores tons de pele escolar sextavado",
+      "url": "https://shopee.com.br/product/761647073/23993398101",
+      "affiliate_url": "https://s.shopee.com.br/6AkGKnNphu",
+      "category": "Papel fotografico e Papelaria",
+      "bucket": "papel_fotografico_e_papelaria",
+      "posted_ts": 1786864805,
+      "posted_at": "2026-08-16T07:20:05.099872+00:00",
+      "score": 100.59
+    },
+    {
+      "key": "shopee:23199167994",
+      "marketplace": "shopee",
+      "id": "23199167994",
+      "title": "Marcador metálico 24/48/96 cores de glitter de cabeça dupla marcador de cabeça dupla brilhante kit canetinhas coloridas",
+      "title_norm": "marcador metalico 24 48 96 cores de glitter de cabeca dupla marcador de cabeca dupla brilhante kit canetinhas coloridas",
+      "url": "https://shopee.com.br/product/1626192390/23199167994",
+      "affiliate_url": "https://s.shopee.com.br/70JNKKKf17",
+      "category": "Atacado de lojas de departamento",
+      "bucket": "atacado_de_lojas_de_departamento",
+      "posted_ts": 1786864736,
+      "posted_at": "2026-08-16T07:18:56.275564+00:00",
+      "score": 101.8
+    },
+    {
+      "key": "shopee:22598546057",
+      "marketplace": "shopee",
+      "id": "22598546057",
+      "title": "Kit  Cortador De Unha Manicure Portatil Estojo Pinca Tesoura C/Organizador de couro de luxo",
+      "title_norm": "kit cortador de unha manicure portatil estojo pinca tesoura c organizador de couro de luxo",
+      "url": "https://shopee.com.br/product/1418889002/22598546057",
+      "affiliate_url": "https://s.shopee.com.br/9ANruJ80p7",
+      "category": "LUCK FASHION",
+      "bucket": "luck_fashion",
+      "posted_ts": 1786864668,
+      "posted_at": "2026-08-16T07:17:48.703059+00:00",
+      "score": 103.19
+    },
+    {
+      "key": "shopee:22094186562",
+      "marketplace": "shopee",
+      "id": "22094186562",
+      "title": "Caderno A5 de couro macio 360 folhas retro notebook para agenda 2026 Bloco de notas com cadeado Extra grosso",
+      "title_norm": "caderno a5 de couro macio 360 folhas retro notebook para agenda 2026 bloco de notas com cadeado extra grosso",
+      "url": "https://shopee.com.br/product/1264003550/22094186562",
+      "affiliate_url": "https://s.shopee.com.br/4qErPvu9GQ",
+      "category": "Luz Ltda",
+      "bucket": "informatica",
+      "posted_ts": 1786864602,
+      "posted_at": "2026-08-16T07:16:42.194897+00:00",
+      "score": 131.39
+    },
+    {
       "key": "shopee:19044723152",
       "marketplace": "shopee",
       "id": "19044723152",
@@ -3025,5 +3095,5 @@
       "score": 130.19
     }
   ],
-  "updated_at": "2026-08-16T06:20:58.800233+00:00"
+  "updated_at": "2026-08-16T07:21:13.910340+00:00"
 }
