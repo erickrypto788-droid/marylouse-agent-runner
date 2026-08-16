@@ -1,6 +1,34 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB4864941673",
+      "marketplace": "mercadolivre",
+      "id": "MLB4864941673",
+      "title": "Babá Eletrônica Hellobaby Hb66pro Monitor Bebê 3.2 White",
+      "title_norm": "baba eletronica hellobaby hb66pro monitor bebe 3 2 white",
+      "url": "https://www.mercadolivre.com.br/p/MLB51893724?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB51893724?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Informática",
+      "bucket": "informatica",
+      "posted_ts": 1786871021,
+      "posted_at": "2026-08-16T09:03:41.839027+00:00",
+      "score": 86.0
+    },
+    {
+      "key": "mercadolivre:MLB7284866408",
+      "marketplace": "mercadolivre",
+      "id": "MLB7284866408",
+      "title": "Tchauzinho, Fralda! - Melhoramentos",
+      "title_norm": "tchauzinho fralda melhoramentos",
+      "url": "https://www.mercadolivre.com.br/p/MLB40540370?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB40540370?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Mãe e Bebê",
+      "bucket": "fraldas",
+      "posted_ts": 1786870953,
+      "posted_at": "2026-08-16T09:02:33.898348+00:00",
+      "score": 114.0
+    },
+    {
       "key": "shopee:22699461893",
       "marketplace": "shopee",
       "id": "22699461893",
@@ -3193,5 +3221,5 @@
       "score": 130.19
     }
   ],
-  "updated_at": "2026-08-16T08:21:41.819302+00:00"
+  "updated_at": "2026-08-16T09:03:41.839037+00:00"
 }
