@@ -1,6 +1,76 @@
 {
   "posts": [
     {
+      "key": "shopee:22792565843",
+      "marketplace": "shopee",
+      "id": "22792565843",
+      "title": "Fralda Pampers Confort Sec Jumbo Plus XXG com 112un",
+      "title_norm": "fralda pampers confort sec jumbo plus xxg com 112un",
+      "url": "https://shopee.com.br/product/1062557396/22792565843",
+      "affiliate_url": "https://s.shopee.com.br/6L3f0KL0yo",
+      "category": " Pampers By Sage's",
+      "bucket": "fraldas",
+      "posted_ts": 1786854052,
+      "posted_at": "2026-08-16T04:20:52.679310+00:00",
+      "score": 104.69
+    },
+    {
+      "key": "shopee:21032149959",
+      "marketplace": "shopee",
+      "id": "21032149959",
+      "title": "Kit de 3 Lençol Cercado De Bebê Chiqueirinho com elástico Percal 400 fios berço portátil",
+      "title_norm": "kit de 3 lencol cercado de bebe chiqueirinho com elastico percal 400 fios berco portatil",
+      "url": "https://shopee.com.br/product/367895429/21032149959",
+      "affiliate_url": "https://s.shopee.com.br/W5s3byoxZ",
+      "category": "GRUPO HH BABY Loja 1",
+      "bucket": "grupo_hh_baby_loja_1",
+      "posted_ts": 1786853988,
+      "posted_at": "2026-08-16T04:19:48.787192+00:00",
+      "score": 104.9
+    },
+    {
+      "key": "shopee:54808426700",
+      "marketplace": "shopee",
+      "id": "54808426700",
+      "title": "NINHO REDUTOR DE BERÇO  |  COM ZIPER E LAÇO   | TROCADOR PORTÁTIL  | 400 FIOS",
+      "title_norm": "ninho redutor de berco com ziper e laco trocador portatil 400 fios",
+      "url": "https://shopee.com.br/product/659215083/54808426700",
+      "affiliate_url": "https://s.shopee.com.br/8KojO0V03p",
+      "category": "Casa SoL.",
+      "bucket": "casa_sol",
+      "posted_ts": 1786853924,
+      "posted_at": "2026-08-16T04:18:44.849955+00:00",
+      "score": 108.22
+    },
+    {
+      "key": "shopee:23098678815",
+      "marketplace": "shopee",
+      "id": "23098678815",
+      "title": "Berço Portátil Moises Co-bed Com Balanço Mosquiteiro e Cesto Regulagem de Altura",
+      "title_norm": "berco portatil moises co bed com balanco mosquiteiro e cesto regulagem de altura",
+      "url": "https://shopee.com.br/product/1506260557/23098678815",
+      "affiliate_url": "https://s.shopee.com.br/AAGNZNO1LG",
+      "category": "Amor de Mãe Shop",
+      "bucket": "amor_de_mae_shop",
+      "posted_ts": 1786853860,
+      "posted_at": "2026-08-16T04:17:40.944367+00:00",
+      "score": 109.31
+    },
+    {
+      "key": "shopee:19699242179",
+      "marketplace": "shopee",
+      "id": "19699242179",
+      "title": "Kit C/12 Lenço Umedecido Lara Baby Premium 100 Unidades Total 1200",
+      "title_norm": "kit c 12 lenco umedecido lara baby premium 100 unidades total 1200",
+      "url": "https://shopee.com.br/product/1230684338/19699242179",
+      "affiliate_url": "https://s.shopee.com.br/4LIacebML3",
+      "category": "Novva BPO ",
+      "bucket": "fraldas",
+      "posted_ts": 1786853796,
+      "posted_at": "2026-08-16T04:16:36.989426+00:00",
+      "score": 141.42
+    },
+    {
       "key": "mercadolivre:MLB5765586272",
       "marketplace": "mercadolivre",
       "id": "MLB5765586272",
@@ -2815,5 +2885,5 @@
       "score": 130.19
     }
   ],
-  "updated_at": "2026-08-16T04:02:37.677864+00:00"
+  "updated_at": "2026-08-16T04:20:52.679320+00:00"
 }
