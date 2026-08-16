@@ -1,6 +1,76 @@
 {
   "posts": [
     {
+      "key": "shopee:23299120397",
+      "marketplace": "shopee",
+      "id": "23299120397",
+      "title": "Bola Voadora Mágica de Indução Inteligente UFO Transfronteiriça para Brinquedos Infantis",
+      "title_norm": "bola voadora magica de inducao inteligente ufo transfronteirica para brinquedos infantis",
+      "url": "https://shopee.com.br/product/1652641170/23299120397",
+      "affiliate_url": "https://s.shopee.com.br/9pdX2W7Jxk",
+      "category": "vendayiyou",
+      "bucket": "vendayiyou",
+      "posted_ts": 1786843272,
+      "posted_at": "2026-08-16T01:21:12.824136+00:00",
+      "score": 107.12
+    },
+    {
+      "key": "shopee:22498676912",
+      "marketplace": "shopee",
+      "id": "22498676912",
+      "title": "Fantasia Infantil Hot Wheels com Máscara - Pronta Entrega - Envio Rápido - KS Comércio",
+      "title_norm": "fantasia infantil hot wheels com mascara pronta entrega envio rapido ks comercio",
+      "url": "https://shopee.com.br/product/1569961643/22498676912",
+      "affiliate_url": "https://s.shopee.com.br/4Vc1x0XKcR",
+      "category": "kscomercio66557",
+      "bucket": "kscomercio66557",
+      "posted_ts": 1786843208,
+      "posted_at": "2026-08-16T01:20:08.592334+00:00",
+      "score": 108.52
+    },
+    {
+      "key": "shopee:23697751139",
+      "marketplace": "shopee",
+      "id": "23697751139",
+      "title": "Porta Carrinhos Organizador Em Mdf HotWheels Decoração",
+      "title_norm": "porta carrinhos organizador em mdf hotwheels decoracao",
+      "url": "https://shopee.com.br/product/673502336/23697751139",
+      "affiliate_url": "https://s.shopee.com.br/50YIXvVQbS",
+      "category": "Paraiso Importados",
+      "bucket": "pet",
+      "posted_ts": 1786843139,
+      "posted_at": "2026-08-16T01:18:59.213193+00:00",
+      "score": 113.46
+    },
+    {
+      "key": "shopee:22098666307",
+      "marketplace": "shopee",
+      "id": "22098666307",
+      "title": "Jogo De Xadrez Magnético Tabuleiro Portátil Pedras Magnéticas Educativas Damas Presentes Crianças",
+      "title_norm": "jogo de xadrez magnetico tabuleiro portatil pedras magneticas educativas damas presentes criancas",
+      "url": "https://shopee.com.br/product/340113364/22098666307",
+      "affiliate_url": "https://s.shopee.com.br/1128WHs9EQ",
+      "category": "Sophia Mundo Encantado",
+      "bucket": "sophia_mundo_encantado",
+      "posted_ts": 1786843069,
+      "posted_at": "2026-08-16T01:17:49.872595+00:00",
+      "score": 114.38
+    },
+    {
+      "key": "shopee:23794965742",
+      "marketplace": "shopee",
+      "id": "23794965742",
+      "title": "Brinquedos infantis do Homem-Aranha - conjunto de 1 a 3 com luvas de tiro na teia e dardos",
+      "title_norm": "brinquedos infantis do homem aranha conjunto de 1 a 3 com luvas de tiro na teia e dardos",
+      "url": "https://shopee.com.br/product/1692649392/23794965742",
+      "affiliate_url": "https://s.shopee.com.br/8pkzqgB7zO",
+      "category": "VELORA Beauty",
+      "bucket": "velora_beauty",
+      "posted_ts": 1786843002,
+      "posted_at": "2026-08-16T01:16:42.034081+00:00",
+      "score": 117.73
+    },
+    {
       "key": "shopee:23197485445",
       "marketplace": "shopee",
       "id": "23197485445",
@@ -2619,5 +2689,5 @@
       "score": 130.19
     }
   ],
-  "updated_at": "2026-08-16T00:20:58.440087+00:00"
+  "updated_at": "2026-08-16T01:21:12.824146+00:00"
 }
