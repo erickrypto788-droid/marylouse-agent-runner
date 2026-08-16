@@ -1,6 +1,81 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB4623864041",
+      "product_id": "MLB4623864041",
+      "catalog_product_id": "MLB29684586",
+      "item_id": "MLB4623864041",
+      "url": "https://www.mercadolivre.com.br/p/MLB29684586?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB29684586?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "condicionador infantil 250ml buba care",
+      "title": "Condicionador Infantil 250ml Buba Care",
+      "category": "Beleza",
+      "price": 41.5,
+      "score": 88.0,
+      "posted_ts": 1786882164,
+      "posted_at": "2026-08-16T12:09:24.464625+00:00"
+    },
+    {
+      "key": "mercadolivre:MLB5532475634",
+      "product_id": "MLB5532475634",
+      "catalog_product_id": "MLB53217462",
+      "item_id": "MLB5532475634",
+      "url": "https://www.mercadolivre.com.br/p/MLB53217462?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB53217462?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "miniatura creme dental 15g",
+      "title": "Miniatura Creme Dental 15g",
+      "category": "Supermercados",
+      "price": 179.89,
+      "score": 89.0,
+      "posted_ts": 1786882094,
+      "posted_at": "2026-08-16T12:08:14.780222+00:00"
+    },
+    {
+      "key": "mercadolivre:MLB4778272375",
+      "product_id": "MLB4778272375",
+      "catalog_product_id": "MLB73518090",
+      "item_id": "MLB4778272375",
+      "url": "https://www.mercadolivre.com.br/p/MLB73518090?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB73518090?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "livro tchauzinho fralda",
+      "title": "Livro Tchauzinho, Fralda",
+      "category": "Mãe e Bebê",
+      "price": 196.88,
+      "score": 114.0,
+      "posted_ts": 1786882030,
+      "posted_at": "2026-08-16T12:07:10.032493+00:00"
+    },
+    {
+      "key": "mercadolivre:MLB4219197703",
+      "product_id": "MLB4219197703",
+      "catalog_product_id": "MLB34684493",
+      "item_id": "MLB4219197703",
+      "url": "https://www.mercadolivre.com.br/p/MLB34684493?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB34684493?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "azeite oliva extra virgem portugues vila oliva 500ml 3 un",
+      "title": "Azeite Oliva Extra Virgem Português Vila Oliva 500ml (3 Un)",
+      "category": "Supermercados",
+      "price": 136.0,
+      "score": 138.07,
+      "posted_ts": 1786881966,
+      "posted_at": "2026-08-16T12:06:06.045307+00:00"
+    },
+    {
+      "key": "mercadolivre:MLB7272112414",
+      "product_id": "MLB7272112414",
+      "catalog_product_id": "MLB43609445",
+      "item_id": "MLB7272112414",
+      "url": "https://www.mercadolivre.com.br/p/MLB43609445?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB43609445?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "papel higienico indaial caicai papel higienico folha dupla 22 5 m de 1 un",
+      "title": "Papel higiênico INDAIAL CAICAI PAPEL HIGIENICO folha dupla 22.5 m de 1 un",
+      "category": "Supermercados",
+      "price": 119.28,
+      "score": 151.7,
+      "posted_ts": 1786881902,
+      "posted_at": "2026-08-16T12:05:02.160302+00:00"
+    },
+    {
       "key": "mercadolivre:MLB6194259162",
       "product_id": "MLB6194259162",
       "catalog_product_id": "MLB26008929",
@@ -959,22 +1034,7 @@
       "score": 102.53,
       "posted_ts": 1786712559,
       "posted_at": "2026-08-14T13:02:39.894547+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB4552665179",
-      "product_id": "MLB4552665179",
-      "catalog_product_id": "MLB20818317",
-      "item_id": "MLB4552665179",
-      "url": "https://www.mercadolivre.com.br/p/MLB20818317?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB20818317?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "whey protein concentrado whey protein isolado cafeina",
-      "title": "Whey Protein Concentrado + Whey Protein Isolado + Cafeína",
-      "category": "Esportes",
-      "price": 658.0,
-      "score": 71.0,
-      "posted_ts": 1786705403,
-      "posted_at": "2026-08-14T11:03:23.194802+00:00"
     }
   ],
-  "updated_at": "2026-08-16T11:02:34.436741+00:00"
+  "updated_at": "2026-08-16T12:09:24.464634+00:00"
 }

@@ -1,6 +1,76 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB4623864041",
+      "marketplace": "mercadolivre",
+      "id": "MLB4623864041",
+      "title": "Condicionador Infantil 250ml Buba Care",
+      "title_norm": "condicionador infantil 250ml buba care",
+      "url": "https://www.mercadolivre.com.br/p/MLB29684586?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB29684586?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Beleza",
+      "bucket": "beleza",
+      "posted_ts": 1786882164,
+      "posted_at": "2026-08-16T12:09:24.460617+00:00",
+      "score": 88.0
+    },
+    {
+      "key": "mercadolivre:MLB5532475634",
+      "marketplace": "mercadolivre",
+      "id": "MLB5532475634",
+      "title": "Miniatura Creme Dental 15g",
+      "title_norm": "miniatura creme dental 15g",
+      "url": "https://www.mercadolivre.com.br/p/MLB53217462?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB53217462?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Supermercados",
+      "bucket": "supermercados",
+      "posted_ts": 1786882094,
+      "posted_at": "2026-08-16T12:08:14.776262+00:00",
+      "score": 89.0
+    },
+    {
+      "key": "mercadolivre:MLB4778272375",
+      "marketplace": "mercadolivre",
+      "id": "MLB4778272375",
+      "title": "Livro Tchauzinho, Fralda",
+      "title_norm": "livro tchauzinho fralda",
+      "url": "https://www.mercadolivre.com.br/p/MLB73518090?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB73518090?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Mãe e Bebê",
+      "bucket": "fraldas",
+      "posted_ts": 1786882030,
+      "posted_at": "2026-08-16T12:07:10.028412+00:00",
+      "score": 114.0
+    },
+    {
+      "key": "mercadolivre:MLB4219197703",
+      "marketplace": "mercadolivre",
+      "id": "MLB4219197703",
+      "title": "Azeite Oliva Extra Virgem Português Vila Oliva 500ml (3 Un)",
+      "title_norm": "azeite oliva extra virgem portugues vila oliva 500ml 3 un",
+      "url": "https://www.mercadolivre.com.br/p/MLB34684493?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB34684493?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Supermercados",
+      "bucket": "supermercado",
+      "posted_ts": 1786881966,
+      "posted_at": "2026-08-16T12:06:06.041289+00:00",
+      "score": 138.07
+    },
+    {
+      "key": "mercadolivre:MLB7272112414",
+      "marketplace": "mercadolivre",
+      "id": "MLB7272112414",
+      "title": "Papel higiênico INDAIAL CAICAI PAPEL HIGIENICO folha dupla 22.5 m de 1 un",
+      "title_norm": "papel higienico indaial caicai papel higienico folha dupla 22 5 m de 1 un",
+      "url": "https://www.mercadolivre.com.br/p/MLB43609445?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB43609445?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Supermercados",
+      "bucket": "supermercado",
+      "posted_ts": 1786881902,
+      "posted_at": "2026-08-16T12:05:02.156226+00:00",
+      "score": 151.7
+    },
+    {
       "key": "shopee:22297711029",
       "marketplace": "shopee",
       "id": "22297711029",
@@ -3487,5 +3557,5 @@
       "score": 130.19
     }
   ],
-  "updated_at": "2026-08-16T11:21:09.001323+00:00"
+  "updated_at": "2026-08-16T12:09:24.460627+00:00"
 }
