@@ -1,6 +1,76 @@
 {
   "posts": [
     {
+      "key": "shopee:23099137392",
+      "marketplace": "shopee",
+      "id": "23099137392",
+      "title": "Protetor Solar Facial FPS 60 Antioleosidade com Base Efeito Matte Sunless 40g Envio Imediato",
+      "title_norm": "protetor solar facial fps 60 antioleosidade com base efeito matte sunless 40g envio imediato",
+      "url": "https://shopee.com.br/product/1533394801/23099137392",
+      "affiliate_url": "https://s.shopee.com.br/6VN68KN2J6",
+      "category": "LaVitta Health",
+      "bucket": "lavitta_health",
+      "posted_ts": 1786904458,
+      "posted_at": "2026-08-16T18:20:58.708271+00:00",
+      "score": 92.67
+    },
+    {
+      "key": "shopee:22494941454",
+      "marketplace": "shopee",
+      "id": "22494941454",
+      "title": "Kit Facial Kokeshi Completo 3 Passos Hidratação e Colágeno",
+      "title_norm": "kit facial kokeshi completo 3 passos hidratacao e colageno",
+      "url": "https://shopee.com.br/product/395166866/22494941454",
+      "affiliate_url": "https://s.shopee.com.br/60Qqrobltl",
+      "category": "KOKESHI OFICIAL",
+      "bucket": "kokeshi_oficial",
+      "posted_ts": 1786904394,
+      "posted_at": "2026-08-16T18:19:54.536119+00:00",
+      "score": 98.01
+    },
+    {
+      "key": "shopee:58264684239",
+      "marketplace": "shopee",
+      "id": "58264684239",
+      "title": "Kit Clareador Facial - Sabonete Líquido + Protetor Solar Clareador 70 FPS + Sérum Multicorretivo Clareador",
+      "title_norm": "kit clareador facial sabonete liquido protetor solar clareador 70 fps serum multicorretivo clareador",
+      "url": "https://shopee.com.br/product/1860098702/58264684239",
+      "affiliate_url": "https://s.shopee.com.br/9V0j2FSdjA",
+      "category": "Hidrabene ",
+      "bucket": "supermercado",
+      "posted_ts": 1786904330,
+      "posted_at": "2026-08-16T18:18:50.446345+00:00",
+      "score": 100.59
+    },
+    {
+      "key": "shopee:20599198575",
+      "marketplace": "shopee",
+      "id": "20599198575",
+      "title": "Chapinha Prancha Cabelo Profissional Nano Titanium 450F BIVOLT",
+      "title_norm": "chapinha prancha cabelo profissional nano titanium 450f bivolt",
+      "url": "https://shopee.com.br/product/391739739/20599198575",
+      "affiliate_url": "https://s.shopee.com.br/8Kole6JspK",
+      "category": "ANJ.GG store",
+      "bucket": "beleza",
+      "posted_ts": 1786904266,
+      "posted_at": "2026-08-16T18:17:46.130803+00:00",
+      "score": 135.82
+    },
+    {
+      "key": "shopee:55050251437",
+      "marketplace": "shopee",
+      "id": "55050251437",
+      "title": "KIT BODY SPLASH MASCULINO BARBARIUS E MIDTOWN 200ML - PRIMACIAL PERFUME FRESCO AMADEIRADO",
+      "title_norm": "kit body splash masculino barbarius e midtown 200ml primacial perfume fresco amadeirado",
+      "url": "https://shopee.com.br/product/1295467768/55050251437",
+      "affiliate_url": "https://s.shopee.com.br/8V8AVzt9Lw",
+      "category": "Primacial",
+      "bucket": "beleza",
+      "posted_ts": 1786904198,
+      "posted_at": "2026-08-16T18:16:38.186003+00:00",
+      "score": 135.85
+    },
+    {
       "key": "mercadolivre:MLB5041531745",
       "marketplace": "mercadolivre",
       "id": "MLB5041531745",
@@ -4075,5 +4145,5 @@
       "score": 130.19
     }
   ],
-  "updated_at": "2026-08-16T18:04:45.594828+00:00"
+  "updated_at": "2026-08-16T18:20:58.708282+00:00"
 }
