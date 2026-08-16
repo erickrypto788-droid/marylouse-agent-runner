@@ -1,6 +1,51 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB4994226563",
+      "product_id": "MLB4994226563",
+      "catalog_product_id": "MLB73186640",
+      "item_id": "MLB4994226563",
+      "url": "https://www.mercadolivre.com.br/p/MLB73186640?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB73186640?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "parafusadeira sem fio minutobaby parafusadeira sem fio azul",
+      "title": "Parafusadeira sem fio Minutobaby Parafusadeira Sem Fio azul",
+      "category": "Ferramentas",
+      "price": 143.73,
+      "score": 125.6,
+      "posted_ts": 1786910689,
+      "posted_at": "2026-08-16T20:04:49.995495+00:00"
+    },
+    {
+      "key": "mercadolivre:MLB6711607808",
+      "product_id": "MLB6711607808",
+      "catalog_product_id": "MLB21865416",
+      "item_id": "MLB6711607808",
+      "url": "https://www.mercadolivre.com.br/p/MLB21865416?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB21865416?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "combo parafusadeira furadeira de impacto 13mm parafusadeira de impacto 6 3mm dewalt dck276d2",
+      "title": "Combo Parafusadeira Furadeira de Impacto 13mm + Parafusadeira de Impacto 6,3mm DEWALT DCK276D2",
+      "category": "Ferramentas",
+      "price": 1589.28,
+      "score": 160.78,
+      "posted_ts": 1786910619,
+      "posted_at": "2026-08-16T20:03:39.855587+00:00"
+    },
+    {
+      "key": "mercadolivre:MLB6043959478",
+      "product_id": "MLB6043959478",
+      "catalog_product_id": "MLB63064118",
+      "item_id": "MLB6043959478",
+      "url": "https://www.mercadolivre.com.br/p/MLB63064118?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB63064118?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "furadeira profissional 350w furadeira eletrica furadeira velocidade variavel furadeira para uso domestico obras construcao marcenaria diy faca voce mesmo furadeira 110v cor laranja",
+      "title": "Furadeira Profissional 350w Furadeira Elétrica Furadeira Velocidade Variável Furadeira Para Uso Doméstico / Obras/construção / Marcenaria / Diy (faça Você Mesmo) Furadeira 110v Cor Laranja",
+      "category": "Ferramentas",
+      "price": 96.99,
+      "score": 167.18,
+      "posted_ts": 1786910547,
+      "posted_at": "2026-08-16T20:02:27.206903+00:00"
+    },
+    {
       "key": "mercadolivre:MLB4750057565",
       "product_id": "MLB4750057565",
       "catalog_product_id": "MLB54083722",
@@ -1079,37 +1124,7 @@
       "score": 192.77,
       "posted_ts": 1786744958,
       "posted_at": "2026-08-14T22:02:38.910169+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB7395731398",
-      "product_id": "MLB7395731398",
-      "catalog_product_id": "MLB76866122",
-      "item_id": "MLB7395731398",
-      "url": "https://www.mercadolivre.com.br/p/MLB76866122?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB76866122?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "balanca digital de precisao 10kg balanca digital cozinha balanca digital balanca digital plastico balanca dieta fitness ecomvit",
-      "title": "Balança Digital De Precisão 10kg Balança Digital Cozinha Balança Digital Balança Digital Plastico Balança Dieta Fitness EcomVit",
-      "category": "Esportes",
-      "price": 19.96,
-      "score": 83.86,
-      "posted_ts": 1786737865,
-      "posted_at": "2026-08-14T20:04:25.720792+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB7193068554",
-      "product_id": "MLB7193068554",
-      "catalog_product_id": "MLB64282130",
-      "item_id": "MLB7193068554",
-      "url": "https://www.mercadolivre.com.br/p/MLB64282130?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB64282130?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "aparelho monitor pressao arterial automatico digital braco",
-      "title": "Aparelho Monitor Pressão Arterial Automático Digital Braço",
-      "category": "Informática",
-      "price": 81.85,
-      "score": 97.14,
-      "posted_ts": 1786737760,
-      "posted_at": "2026-08-14T20:02:40.547050+00:00"
     }
   ],
-  "updated_at": "2026-08-16T19:02:14.021935+00:00"
+  "updated_at": "2026-08-16T20:04:49.995504+00:00"
 }
