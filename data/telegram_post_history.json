@@ -1,6 +1,34 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB7197070408",
+      "marketplace": "mercadolivre",
+      "id": "MLB7197070408",
+      "title": "Monitor Pressão Omron 7122: Saúde No Seu Braço",
+      "title_norm": "monitor pressao omron 7122 saude no seu braco",
+      "url": "https://www.mercadolivre.com.br/p/MLB75425217?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB75425217?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Informática",
+      "bucket": "informatica",
+      "posted_ts": 1786860227,
+      "posted_at": "2026-08-16T06:03:47.600613+00:00",
+      "score": 88.0
+    },
+    {
+      "key": "mercadolivre:MLB6632460608",
+      "marketplace": "mercadolivre",
+      "id": "MLB6632460608",
+      "title": "Monitor De Pressão Arterial De Braço Monitor pressao arterial HC10014 MUINAIFTE Cor Blanco",
+      "title_norm": "monitor de pressao arterial de braco monitor pressao arterial hc10014 muinaifte cor blanco",
+      "url": "https://www.mercadolivre.com.br/p/MLB62814199?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB62814199?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Informática",
+      "bucket": "saude",
+      "posted_ts": 1786860156,
+      "posted_at": "2026-08-16T06:02:36.576074+00:00",
+      "score": 163.33
+    },
+    {
       "key": "shopee:22893909896",
       "marketplace": "shopee",
       "id": "22893909896",
@@ -2927,5 +2955,5 @@
       "score": 130.19
     }
   ],
-  "updated_at": "2026-08-16T05:18:46.422676+00:00"
+  "updated_at": "2026-08-16T06:03:47.600623+00:00"
 }
