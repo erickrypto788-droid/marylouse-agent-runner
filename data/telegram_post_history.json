@@ -1,6 +1,76 @@
 {
   "posts": [
     {
+      "key": "shopee:22894748403",
+      "marketplace": "shopee",
+      "id": "22894748403",
+      "title": "Kit 3 Blusas Feminina Plus Size Gola V Básica Casual - H00",
+      "title_norm": "kit 3 blusas feminina plus size gola v basica casual h00",
+      "url": "https://shopee.com.br/product/441206033/22894748403",
+      "affiliate_url": "https://s.shopee.com.br/6L3gna6TZe",
+      "category": "Uzze.K ",
+      "bucket": "uzze_k",
+      "posted_ts": 1786886464,
+      "posted_at": "2026-08-16T13:21:04.637041+00:00",
+      "score": 88.02
+    },
+    {
+      "key": "shopee:45204421628",
+      "marketplace": "shopee",
+      "id": "45204421628",
+      "title": "KIT COM 2 ou 4 SUTIÃS Reforçados Plus Size Alta Sustentação Tecido Duplo Alças Grossas",
+      "title_norm": "kit com 2 ou 4 sutias reforcados plus size alta sustentacao tecido duplo alcas grossas",
+      "url": "https://shopee.com.br/product/487444734/45204421628",
+      "affiliate_url": "https://s.shopee.com.br/8AVL7C8OJK",
+      "category": "BellaFlorOficial",
+      "bucket": "bellafloroficial",
+      "posted_ts": 1786886397,
+      "posted_at": "2026-08-16T13:19:57.899944+00:00",
+      "score": 96.95
+    },
+    {
+      "key": "shopee:56361032931",
+      "marketplace": "shopee",
+      "id": "56361032931",
+      "title": "SELAH - BLUSA DE RENDA PLUS SIZE MODA FEMININA TRANSPARENTE",
+      "title_norm": "selah blusa de renda plus size moda feminina transparente",
+      "url": "https://shopee.com.br/product/819749025/56361032931",
+      "affiliate_url": "https://s.shopee.com.br/6VN787ssIf",
+      "category": "CASA DOS CROPPEDS",
+      "bucket": "moda_feminina",
+      "posted_ts": 1786886333,
+      "posted_at": "2026-08-16T13:18:53.714516+00:00",
+      "score": 102.27
+    },
+    {
+      "key": "shopee:22594652569",
+      "marketplace": "shopee",
+      "id": "22594652569",
+      "title": "Vestido Plus size Duna G,GG,G1",
+      "title_norm": "vestido plus size duna g gg g1",
+      "url": "https://shopee.com.br/product/1591632520/22594652569",
+      "affiliate_url": "https://s.shopee.com.br/8AVL7BqnEZ",
+      "category": "Smille Fashion",
+      "bucket": "moda_feminina",
+      "posted_ts": 1786886264,
+      "posted_at": "2026-08-16T13:17:44.596595+00:00",
+      "score": 105.54
+    },
+    {
+      "key": "shopee:22998137276",
+      "marketplace": "shopee",
+      "id": "22998137276",
+      "title": "Calça Jeans Plus Size Com Elastano Super Conforto 44 ao 54",
+      "title_norm": "calca jeans plus size com elastano super conforto 44 ao 54",
+      "url": "https://shopee.com.br/product/1119924602/22998137276",
+      "affiliate_url": "https://s.shopee.com.br/2qTnQz2b3B",
+      "category": "Inove jeans",
+      "bucket": "inove_jeans",
+      "posted_ts": 1786886200,
+      "posted_at": "2026-08-16T13:16:40.429891+00:00",
+      "score": 106.44
+    },
+    {
       "key": "shopee:21276599648",
       "marketplace": "shopee",
       "id": "21276599648",
@@ -3627,5 +3697,5 @@
       "score": 130.19
     }
   ],
-  "updated_at": "2026-08-16T12:20:49.561200+00:00"
+  "updated_at": "2026-08-16T13:21:04.637054+00:00"
 }
