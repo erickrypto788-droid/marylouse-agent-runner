@@ -1,6 +1,76 @@
 {
   "posts": [
     {
+      "key": "shopee:23997980121",
+      "marketplace": "shopee",
+      "id": "23997980121",
+      "title": "Sandália Babuche Infantil Papete Menina ADULTO",
+      "title_norm": "sandalia babuche infantil papete menina adulto",
+      "url": "https://shopee.com.br/product/1192800832/23997980121",
+      "affiliate_url": "https://s.shopee.com.br/6VN7WqyNpT",
+      "category": "Orksfild Calçados Infantil",
+      "bucket": "pet",
+      "posted_ts": 1786908052,
+      "posted_at": "2026-08-16T19:20:52.884567+00:00",
+      "score": 103.25
+    },
+    {
+      "key": "shopee:44809598956",
+      "marketplace": "shopee",
+      "id": "44809598956",
+      "title": "10 Calcinhas Infantil Menina Moça Confortáveis Forro de Algodão Dia a Dia Promoção",
+      "title_norm": "10 calcinhas infantil menina moca confortaveis forro de algodao dia a dia promocao",
+      "url": "https://shopee.com.br/product/264196168/44809598956",
+      "affiliate_url": "https://s.shopee.com.br/8AVLVueuMX",
+      "category": "Fashion_4you",
+      "bucket": "fashion_4you",
+      "posted_ts": 1786907988,
+      "posted_at": "2026-08-16T19:19:48.940992+00:00",
+      "score": 104.34
+    },
+    {
+      "key": "shopee:18698032904",
+      "marketplace": "shopee",
+      "id": "18698032904",
+      "title": "Vestido Infantil Menina Princesa  Listrado Floral Barrado para Festas  Dia Das Crianças",
+      "title_norm": "vestido infantil menina princesa listrado floral barrado para festas dia das criancas",
+      "url": "https://shopee.com.br/product/615604454/18698032904",
+      "affiliate_url": "https://s.shopee.com.br/5fnzCuWv5g",
+      "category": "Florenzza kids",
+      "bucket": "moda_feminina",
+      "posted_ts": 1786907925,
+      "posted_at": "2026-08-16T19:18:45.051585+00:00",
+      "score": 105.31
+    },
+    {
+      "key": "shopee:13558344669",
+      "marketplace": "shopee",
+      "id": "13558344669",
+      "title": "Vestido Infantil Bebê Menina Ariele Roupas Algodão",
+      "title_norm": "vestido infantil bebe menina ariele roupas algodao",
+      "url": "https://shopee.com.br/product/551346239/13558344669",
+      "affiliate_url": "https://s.shopee.com.br/7AcmzfRD37",
+      "category": "Mega Loja do Bebê",
+      "bucket": "moda_feminina",
+      "posted_ts": 1786907861,
+      "posted_at": "2026-08-16T19:17:41.192775+00:00",
+      "score": 106.21
+    },
+    {
+      "key": "shopee:22393665567",
+      "marketplace": "shopee",
+      "id": "22393665567",
+      "title": "Tênis Branco Infantil Leve Macio Confortável Original Envio Imediato",
+      "title_norm": "tenis branco infantil leve macio confortavel original envio imediato",
+      "url": "https://shopee.com.br/product/303419140/22393665567",
+      "affiliate_url": "https://s.shopee.com.br/70JO7lwTok",
+      "category": "Momy Calçados ✅",
+      "bucket": "calcados",
+      "posted_ts": 1786907797,
+      "posted_at": "2026-08-16T19:16:37.135919+00:00",
+      "score": 109.86
+    },
+    {
       "key": "mercadolivre:MLB4750057565",
       "marketplace": "mercadolivre",
       "id": "MLB4750057565",
@@ -4159,5 +4229,5 @@
       "score": 130.19
     }
   ],
-  "updated_at": "2026-08-16T19:02:14.017105+00:00"
+  "updated_at": "2026-08-16T19:20:52.884576+00:00"
 }
