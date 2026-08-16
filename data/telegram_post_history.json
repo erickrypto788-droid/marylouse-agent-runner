@@ -1,6 +1,76 @@
 {
   "posts": [
     {
+      "key": "shopee:23193491200",
+      "marketplace": "shopee",
+      "id": "23193491200",
+      "title": "Boneca Lola Baby Com Chupeta Rosa Menina Brinquedo Infantil Bebê",
+      "title_norm": "boneca lola baby com chupeta rosa menina brinquedo infantil bebe",
+      "url": "https://shopee.com.br/product/769529304/23193491200",
+      "affiliate_url": "https://s.shopee.com.br/AAGQ1pOvu7",
+      "category": "Icomprei.com.br",
+      "bucket": "pet",
+      "posted_ts": 1786915271,
+      "posted_at": "2026-08-16T21:21:11.176372+00:00",
+      "score": 101.44
+    },
+    {
+      "key": "shopee:23994283505",
+      "marketplace": "shopee",
+      "id": "23994283505",
+      "title": "Brinquedo espiral centopéia com chocalho, macio, ideal para carrinhos e presentes de recém-nascidos",
+      "title_norm": "brinquedo espiral centopeia com chocalho macio ideal para carrinhos e presentes de recem nascidos",
+      "url": "https://shopee.com.br/product/492409068/23994283505",
+      "affiliate_url": "https://s.shopee.com.br/1VyP7Cue01",
+      "category": "L&Q shop",
+      "bucket": "l_q_shop",
+      "posted_ts": 1786915207,
+      "posted_at": "2026-08-16T21:20:07.257316+00:00",
+      "score": 102.3
+    },
+    {
+      "key": "shopee:58255061423",
+      "marketplace": "shopee",
+      "id": "58255061423",
+      "title": "Expositor para 50 carrinhos Hot Weels Prateleira Brinquedos Coleção Miniaturas Carros Organizador",
+      "title_norm": "expositor para 50 carrinhos hot weels prateleira brinquedos colecao miniaturas carros organizador",
+      "url": "https://shopee.com.br/product/1526528168/58255061423",
+      "affiliate_url": "https://s.shopee.com.br/1gHruDCknH",
+      "category": "Bigarelli Arts MDF",
+      "bucket": "bigarelli_arts_mdf",
+      "posted_ts": 1786915139,
+      "posted_at": "2026-08-16T21:18:59.658152+00:00",
+      "score": 103.11
+    },
+    {
+      "key": "shopee:41125555288",
+      "marketplace": "shopee",
+      "id": "41125555288",
+      "title": "Bebe Menino Barato Reborn Silicone Original Envio Imediato",
+      "title_norm": "bebe menino barato reborn silicone original envio imediato",
+      "url": "https://shopee.com.br/product/338155653/41125555288",
+      "affiliate_url": "https://s.shopee.com.br/9zwyV7LC01",
+      "category": "Princesa reborn GM",
+      "bucket": "princesa_reborn_gm",
+      "posted_ts": 1786915067,
+      "posted_at": "2026-08-16T21:17:47.993538+00:00",
+      "score": 103.34
+    },
+    {
+      "key": "shopee:58057297261",
+      "marketplace": "shopee",
+      "id": "58057297261",
+      "title": "Brinquedo De Pelúcia De Banana Com Música Sensor De Movimento , Bicho Macio Para Recém-Nascidos , Aniversário Interativo",
+      "title_norm": "brinquedo de pelucia de banana com musica sensor de movimento bicho macio para recem nascidos aniversario interativo",
+      "url": "https://shopee.com.br/product/1006215031/58057297261",
+      "affiliate_url": "https://s.shopee.com.br/1BLZyssovS",
+      "category": "Choice Oficial",
+      "bucket": "choice_oficial",
+      "posted_ts": 1786914999,
+      "posted_at": "2026-08-16T21:16:39.957424+00:00",
+      "score": 106.95
+    },
+    {
       "key": "mercadolivre:MLB5653921846",
       "marketplace": "mercadolivre",
       "id": "MLB5653921846",
@@ -4369,5 +4439,5 @@
       "score": 130.19
     }
   ],
-  "updated_at": "2026-08-16T21:03:42.591483+00:00"
+  "updated_at": "2026-08-16T21:21:11.176383+00:00"
 }
