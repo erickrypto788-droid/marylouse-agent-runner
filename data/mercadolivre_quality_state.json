@@ -1,6 +1,21 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB6194259162",
+      "product_id": "MLB6194259162",
+      "catalog_product_id": "MLB26008929",
+      "item_id": "MLB6194259162",
+      "url": "https://www.mercadolivre.com.br/p/MLB26008929?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB26008929?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "cadeira gamer profissional ergonomica giratoria vermelha para escritorio",
+      "title": "Cadeira Gamer Profissional Ergonômica Giratória Vermelha para Escritório",
+      "category": "Casa e Cozinha",
+      "price": 900.0,
+      "score": 86.0,
+      "posted_ts": 1786878154,
+      "posted_at": "2026-08-16T11:02:34.436733+00:00"
+    },
+    {
       "key": "mercadolivre:MLB6978080348",
       "product_id": "MLB6978080348",
       "catalog_product_id": "MLB46173110",
@@ -959,22 +974,7 @@
       "score": 71.0,
       "posted_ts": 1786705403,
       "posted_at": "2026-08-14T11:03:23.194802+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB7359539976",
-      "product_id": "MLB7359539976",
-      "catalog_product_id": "MLB18603556",
-      "item_id": "MLB7359539976",
-      "url": "https://www.mercadolivre.com.br/p/MLB18603556?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB18603556?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "bike spinning kikos max ks5 preto",
-      "title": "Bike Spinning Kikos Max-ks5 Preto",
-      "category": "Esportes",
-      "price": 2770.0,
-      "score": 72.0,
-      "posted_ts": 1786705334,
-      "posted_at": "2026-08-14T11:02:14.595207+00:00"
     }
   ],
-  "updated_at": "2026-08-16T10:05:01.290467+00:00"
+  "updated_at": "2026-08-16T11:02:34.436741+00:00"
 }
