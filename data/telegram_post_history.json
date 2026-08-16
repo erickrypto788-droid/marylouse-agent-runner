@@ -1,6 +1,76 @@
 {
   "posts": [
     {
+      "key": "shopee:56059648409",
+      "marketplace": "shopee",
+      "id": "56059648409",
+      "title": "Blusa Regata Feminina Halter Efeito Silicone Modeladora Frente Unica Casual Verão Tendencia",
+      "title_norm": "blusa regata feminina halter efeito silicone modeladora frente unica casual verao tendencia",
+      "url": "https://shopee.com.br/product/435383573/56059648409",
+      "affiliate_url": "https://s.shopee.com.br/LmUFdX6jy",
+      "category": "Rosa Julieta Ofc",
+      "bucket": "moda_feminina",
+      "posted_ts": 1786911653,
+      "posted_at": "2026-08-16T20:20:53.722087+00:00",
+      "score": 113.59
+    },
+    {
+      "key": "shopee:58251614514",
+      "marketplace": "shopee",
+      "id": "58251614514",
+      "title": "Belifou Glitter Garrafa Térmica Portátil De 800 Ml Com Isolamento Duplo Adequada Para Academia",
+      "title_norm": "belifou glitter garrafa termica portatil de 800 ml com isolamento duplo adequada para academia",
+      "url": "https://shopee.com.br/product/1224363395/58251614514",
+      "affiliate_url": "https://s.shopee.com.br/qikqYn4tj",
+      "category": "Belifou Talheres",
+      "bucket": "belifou_talheres",
+      "posted_ts": 1786911589,
+      "posted_at": "2026-08-16T20:19:49.703549+00:00",
+      "score": 113.61
+    },
+    {
+      "key": "shopee:22736025276",
+      "marketplace": "shopee",
+      "id": "22736025276",
+      "title": "Whey Blend Protein Concentrado e Isolado 900g Soldiers Nutrition Suplemento Proteína Muscular Recuperação",
+      "title_norm": "whey blend protein concentrado e isolado 900g soldiers nutrition suplemento proteina muscular recuperacao",
+      "url": "https://shopee.com.br/product/347988064/22736025276",
+      "affiliate_url": "https://s.shopee.com.br/9fK9MnJZhc",
+      "category": "Soldiers Nutrition",
+      "bucket": "pet",
+      "posted_ts": 1786911525,
+      "posted_at": "2026-08-16T20:18:45.724007+00:00",
+      "score": 114.37
+    },
+    {
+      "key": "shopee:19798269477",
+      "marketplace": "shopee",
+      "id": "19798269477",
+      "title": "Kit 3 Garrafas Squeeze Motivacionais Garrafa Água Academia Com 1.2L e 800ml e 300ml copo stanley canudo",
+      "title_norm": "kit 3 garrafas squeeze motivacionais garrafa agua academia com 1 2l e 800ml e 300ml copo stanley canudo",
+      "url": "https://shopee.com.br/product/1046776023/19798269477",
+      "affiliate_url": "https://s.shopee.com.br/6pzxzaCy8X",
+      "category": "IUCELL LTDA",
+      "bucket": "iucell_ltda",
+      "posted_ts": 1786911461,
+      "posted_at": "2026-08-16T20:17:41.680781+00:00",
+      "score": 116.85
+    },
+    {
+      "key": "shopee:23294866358",
+      "marketplace": "shopee",
+      "id": "23294866358",
+      "title": "Creatina DUX 300g - 100% Pura com SELO CREAPURE Reconhecido pela ANVISA",
+      "title_norm": "creatina dux 300g 100 pura com selo creapure reconhecido pela anvisa",
+      "url": "https://shopee.com.br/product/1082873638/23294866358",
+      "affiliate_url": "https://s.shopee.com.br/2Vqypckzm5",
+      "category": "NT-Wey",
+      "bucket": "nt_wey",
+      "posted_ts": 1786911397,
+      "posted_at": "2026-08-16T20:16:37.684750+00:00",
+      "score": 121.42
+    },
+    {
       "key": "mercadolivre:MLB4994226563",
       "marketplace": "mercadolivre",
       "id": "MLB4994226563",
@@ -4271,5 +4341,5 @@
       "score": 130.19
     }
   ],
-  "updated_at": "2026-08-16T20:04:49.991488+00:00"
+  "updated_at": "2026-08-16T20:20:53.722098+00:00"
 }
