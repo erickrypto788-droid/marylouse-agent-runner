@@ -1,6 +1,36 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB4455480129",
+      "product_id": "MLB4455480129",
+      "catalog_product_id": "MLB65128982",
+      "item_id": "MLB4455480129",
+      "url": "https://www.mercadolivre.com.br/p/MLB65128982?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB65128982?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "soundbar samsung hw b400f soundbar hw b400f preto",
+      "title": "Soundbar Samsung Hw-b400f + Soundbar Hw-b400f Preto",
+      "category": "Informática",
+      "price": 1519.0,
+      "score": 104.0,
+      "posted_ts": 1786849418,
+      "posted_at": "2026-08-16T03:03:38.674128+00:00"
+    },
+    {
+      "key": "mercadolivre:MLB4455473269",
+      "product_id": "MLB4455473269",
+      "catalog_product_id": "MLB65128496",
+      "item_id": "MLB4455473269",
+      "url": "https://www.mercadolivre.com.br/p/MLB65128496?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB65128496?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "soundbar samsung hw b450f soundbar hw b400f",
+      "title": "Soundbar Samsung Hw-b450f + Soundbar Hw-b400f",
+      "category": "Informática",
+      "price": 1809.0,
+      "score": 104.0,
+      "posted_ts": 1786849354,
+      "posted_at": "2026-08-16T03:02:34.533517+00:00"
+    },
+    {
       "key": "mercadolivre:MLB4654205549",
       "product_id": "MLB4654205549",
       "catalog_product_id": "MLB47353377",
@@ -1049,52 +1079,7 @@
       "score": 72.0,
       "posted_ts": 1786680142,
       "posted_at": "2026-08-14T04:02:22.758102+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB6491740344",
-      "product_id": "MLB6491740344",
-      "catalog_product_id": "MLB66943436",
-      "item_id": "MLB6491740344",
-      "url": "https://www.mercadolivre.com.br/p/MLB66943436?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB66943436?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "racao gato estimacat premium adulto sabor carne 3kg",
-      "title": "Ração Gato Estimacat Premium Adulto Sabor Carne 3kg",
-      "category": "Pet",
-      "price": 47.2,
-      "score": 90.17,
-      "posted_ts": 1786673083,
-      "posted_at": "2026-08-14T02:04:43.604835+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB4302548173",
-      "product_id": "MLB4302548173",
-      "catalog_product_id": "MLB44164135",
-      "item_id": "MLB4302548173",
-      "url": "https://www.mercadolivre.com.br/p/MLB44164135?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB44164135?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "comedouro automatico racao aquario terrario peixe tartaruga",
-      "title": "Comedouro Automático Ração Aquário Terrario Peixe Tartaruga",
-      "category": "Pet",
-      "price": 117.85,
-      "score": 95.09,
-      "posted_ts": 1786673019,
-      "posted_at": "2026-08-14T02:03:39.507365+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB4694661245",
-      "product_id": "MLB4694661245",
-      "catalog_product_id": "MLB67529462",
-      "item_id": "MLB4694661245",
-      "url": "https://www.mercadolivre.com.br/p/MLB67529462?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB67529462?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "comedouro elevado duplo racao gato porcelana acrilico 190ml porta racao gato comedouro rosa",
-      "title": "Comedouro Elevado Duplo Ração Gato Porcelana Acrilico 190ml Porta Racao Gato Comedouro Rosa",
-      "category": "Pet",
-      "price": 49.9,
-      "score": 99.91,
-      "posted_ts": 1786672955,
-      "posted_at": "2026-08-14T02:02:35.372643+00:00"
     }
   ],
-  "updated_at": "2026-08-16T02:02:24.748423+00:00"
+  "updated_at": "2026-08-16T03:03:38.674137+00:00"
 }

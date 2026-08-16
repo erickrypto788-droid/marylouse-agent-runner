@@ -1,6 +1,34 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB4455480129",
+      "marketplace": "mercadolivre",
+      "id": "MLB4455480129",
+      "title": "Soundbar Samsung Hw-b400f + Soundbar Hw-b400f Preto",
+      "title_norm": "soundbar samsung hw b400f soundbar hw b400f preto",
+      "url": "https://www.mercadolivre.com.br/p/MLB65128982?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB65128982?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Informática",
+      "bucket": "informatica",
+      "posted_ts": 1786849418,
+      "posted_at": "2026-08-16T03:03:38.670844+00:00",
+      "score": 104.0
+    },
+    {
+      "key": "mercadolivre:MLB4455473269",
+      "marketplace": "mercadolivre",
+      "id": "MLB4455473269",
+      "title": "Soundbar Samsung Hw-b450f + Soundbar Hw-b400f",
+      "title_norm": "soundbar samsung hw b450f soundbar hw b400f",
+      "url": "https://www.mercadolivre.com.br/p/MLB65128496?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB65128496?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Informática",
+      "bucket": "informatica",
+      "posted_ts": 1786849354,
+      "posted_at": "2026-08-16T03:02:34.530165+00:00",
+      "score": 104.0
+    },
+    {
       "key": "shopee:23693177961",
       "marketplace": "shopee",
       "id": "23693177961",
@@ -2773,5 +2801,5 @@
       "score": 130.19
     }
   ],
-  "updated_at": "2026-08-16T02:22:03.056197+00:00"
+  "updated_at": "2026-08-16T03:03:38.670853+00:00"
 }
