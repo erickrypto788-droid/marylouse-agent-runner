@@ -1,6 +1,34 @@
 {
   "posts": [
     {
+      "key": "shopee:23494401704",
+      "marketplace": "shopee",
+      "id": "23494401704",
+      "title": "Tênis Sapatênis Masculino Casual Trabalho Social Dia a Dia Jaca Qualidade",
+      "title_norm": "tenis sapatenis masculino casual trabalho social dia a dia jaca qualidade",
+      "url": "https://shopee.com.br/product/1631645339/23494401704",
+      "affiliate_url": "https://s.shopee.com.br/30nF1oqv9s",
+      "category": "Vanessa shoes01",
+      "bucket": "calcados",
+      "posted_ts": 1786889861,
+      "posted_at": "2026-08-16T14:17:41.490230+00:00",
+      "score": 102.58
+    },
+    {
+      "key": "shopee:23994838925",
+      "marketplace": "shopee",
+      "id": "23994838925",
+      "title": "Tênis Casual Masculino Street Original Leve, Confortável Sapatenis R1721",
+      "title_norm": "tenis casual masculino street original leve confortavel sapatenis r1721",
+      "url": "https://shopee.com.br/product/379007262/23994838925",
+      "affiliate_url": "https://s.shopee.com.br/2qTopVrYUt",
+      "category": "RAYON SPORT",
+      "bucket": "calcados",
+      "posted_ts": 1786889797,
+      "posted_at": "2026-08-16T14:16:37.501464+00:00",
+      "score": 103.03
+    },
+    {
       "key": "mercadolivre:MLB3957584779",
       "marketplace": "mercadolivre",
       "id": "MLB3957584779",
@@ -3753,5 +3781,5 @@
       "score": 130.19
     }
   ],
-  "updated_at": "2026-08-16T14:06:13.968991+00:00"
+  "updated_at": "2026-08-16T14:17:41.490241+00:00"
 }
