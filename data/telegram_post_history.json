@@ -1,6 +1,76 @@
 {
   "posts": [
     {
+      "key": "shopee:23494153711",
+      "marketplace": "shopee",
+      "id": "23494153711",
+      "title": "Medidor de Diabetes Glicose no Sangue  50 Tiras + Lanceta E Lancetador  Próxima Alive AGF EXPRESS",
+      "title_norm": "medidor de diabetes glicose no sangue 50 tiras lanceta e lancetador proxima alive agf express",
+      "url": "https://shopee.com.br/product/383521676/23494153711",
+      "affiliate_url": "https://s.shopee.com.br/1BLbNPm6v3",
+      "category": "AGF EXPRESS MATERIAIS MEDICOS LTDA",
+      "bucket": "agf_express_materiais_medicos_ltda",
+      "posted_ts": 1786918853,
+      "posted_at": "2026-08-16T22:20:53.590702+00:00",
+      "score": 63.33
+    },
+    {
+      "key": "shopee:55004354021",
+      "marketplace": "shopee",
+      "id": "55004354021",
+      "title": "Tira/Fita de Glicemia C/50 Unidades de Tiras - medidor de glicose - Bioland",
+      "title_norm": "tira fita de glicemia c 50 unidades de tiras medidor de glicose bioland",
+      "url": "https://shopee.com.br/product/464285438/55004354021",
+      "affiliate_url": "https://s.shopee.com.br/3LQ5xOdrWE",
+      "category": "Lojao Da 25",
+      "bucket": "lojao_da_25",
+      "posted_ts": 1786918789,
+      "posted_at": "2026-08-16T22:19:49.526163+00:00",
+      "score": 87.65
+    },
+    {
+      "key": "shopee:23292979767",
+      "marketplace": "shopee",
+      "id": "23292979767",
+      "title": "Balança Corporal Digital Banheiro Academia Crossfit Casa Suporta 180kg Vidro",
+      "title_norm": "balanca corporal digital banheiro academia crossfit casa suporta 180kg vidro",
+      "url": "https://shopee.com.br/product/987105961/23292979767",
+      "affiliate_url": "https://s.shopee.com.br/1qbIAdjVGd",
+      "category": "Virtualshopsp02",
+      "bucket": "virtualshopsp02",
+      "posted_ts": 1786918725,
+      "posted_at": "2026-08-16T22:18:45.335488+00:00",
+      "score": 89.05
+    },
+    {
+      "key": "shopee:41503878761",
+      "marketplace": "shopee",
+      "id": "41503878761",
+      "title": "Medidor Glicose Diabete Gtech Vita / Ultra Kit Com 1 Aparelho 1 Caneta 10 Tiras 10 Lancetas Completo",
+      "title_norm": "medidor glicose diabete gtech vita ultra kit com 1 aparelho 1 caneta 10 tiras 10 lancetas completo",
+      "url": "https://shopee.com.br/product/961638733/41503878761",
+      "affiliate_url": "https://s.shopee.com.br/4AzCwvagpL",
+      "category": "ROMALIZ",
+      "bucket": "romaliz",
+      "posted_ts": 1786918661,
+      "posted_at": "2026-08-16T22:17:41.309257+00:00",
+      "score": 106.33
+    },
+    {
+      "key": "shopee:58262310122",
+      "marketplace": "shopee",
+      "id": "58262310122",
+      "title": "Medidor de pressão arterial digital + tensiômetros +Termômetro infravermelho + oxímetro de dedo",
+      "title_norm": "medidor de pressao arterial digital tensiometros termometro infravermelho oximetro de dedo",
+      "url": "https://shopee.com.br/product/1569849623/58262310122",
+      "affiliate_url": "https://s.shopee.com.br/6L3hWuAdTj",
+      "category": "CASA TOP SHOP",
+      "bucket": "saude",
+      "posted_ts": 1786918597,
+      "posted_at": "2026-08-16T22:16:37.263063+00:00",
+      "score": 140.95
+    },
+    {
       "key": "mercadolivre:MLB6252264240",
       "marketplace": "mercadolivre",
       "id": "MLB6252264240",
@@ -4453,5 +4523,5 @@
       "score": 130.19
     }
   ],
-  "updated_at": "2026-08-16T22:02:32.268618+00:00"
+  "updated_at": "2026-08-16T22:20:53.590714+00:00"
 }
