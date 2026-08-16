@@ -1,6 +1,48 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB5041531745",
+      "marketplace": "mercadolivre",
+      "id": "MLB5041531745",
+      "title": "Chapinha Cabelo Profissional 450f Slim Bivolt, Titanium",
+      "title_norm": "chapinha cabelo profissional 450f slim bivolt titanium",
+      "url": "https://www.mercadolivre.com.br/p/MLB74370100?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB74370100?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Beleza",
+      "bucket": "beleza",
+      "posted_ts": 1786903485,
+      "posted_at": "2026-08-16T18:04:45.594818+00:00",
+      "score": 113.0
+    },
+    {
+      "key": "mercadolivre:MLB4057360873",
+      "marketplace": "mercadolivre",
+      "id": "MLB4057360873",
+      "title": "Chapinha Cabelo Prancha Profissional Cor Azul",
+      "title_norm": "chapinha cabelo prancha profissional cor azul",
+      "url": "https://www.mercadolivre.com.br/p/MLB35049339?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB35049339?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Beleza",
+      "bucket": "beleza",
+      "posted_ts": 1786903420,
+      "posted_at": "2026-08-16T18:03:40.568237+00:00",
+      "score": 113.0
+    },
+    {
+      "key": "mercadolivre:MLB4362764912",
+      "marketplace": "mercadolivre",
+      "id": "MLB4362764912",
+      "title": "Lamina Aparador Pelos Philips Bodygroom Qg3379 Qg3280 Qg3380",
+      "title_norm": "lamina aparador pelos philips bodygroom qg3379 qg3280 qg3380",
+      "url": "https://www.mercadolivre.com.br/p/MLB24908965?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB24908965?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Beleza",
+      "bucket": "beleza",
+      "posted_ts": 1786903356,
+      "posted_at": "2026-08-16T18:02:36.545411+00:00",
+      "score": 119.53
+    },
+    {
       "key": "shopee:23598810107",
       "marketplace": "shopee",
       "id": "23598810107",
@@ -4033,5 +4075,5 @@
       "score": 130.19
     }
   ],
-  "updated_at": "2026-08-16T17:20:53.351637+00:00"
+  "updated_at": "2026-08-16T18:04:45.594828+00:00"
 }

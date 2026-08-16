@@ -1,6 +1,51 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB5041531745",
+      "product_id": "MLB5041531745",
+      "catalog_product_id": "MLB74370100",
+      "item_id": "MLB5041531745",
+      "url": "https://www.mercadolivre.com.br/p/MLB74370100?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB74370100?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "chapinha cabelo profissional 450f slim bivolt titanium",
+      "title": "Chapinha Cabelo Profissional 450f Slim Bivolt, Titanium",
+      "category": "Beleza",
+      "price": 139.98,
+      "score": 113.0,
+      "posted_ts": 1786903485,
+      "posted_at": "2026-08-16T18:04:45.599122+00:00"
+    },
+    {
+      "key": "mercadolivre:MLB4057360873",
+      "product_id": "MLB4057360873",
+      "catalog_product_id": "MLB35049339",
+      "item_id": "MLB4057360873",
+      "url": "https://www.mercadolivre.com.br/p/MLB35049339?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB35049339?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "chapinha cabelo prancha profissional cor azul",
+      "title": "Chapinha Cabelo Prancha Profissional Cor Azul",
+      "category": "Beleza",
+      "price": 249.99,
+      "score": 113.0,
+      "posted_ts": 1786903420,
+      "posted_at": "2026-08-16T18:03:40.572791+00:00"
+    },
+    {
+      "key": "mercadolivre:MLB4362764912",
+      "product_id": "MLB4362764912",
+      "catalog_product_id": "MLB24908965",
+      "item_id": "MLB4362764912",
+      "url": "https://www.mercadolivre.com.br/p/MLB24908965?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB24908965?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "lamina aparador pelos philips bodygroom qg3379 qg3280 qg3380",
+      "title": "Lamina Aparador Pelos Philips Bodygroom Qg3379 Qg3280 Qg3380",
+      "category": "Beleza",
+      "price": 130.41,
+      "score": 119.53,
+      "posted_ts": 1786903356,
+      "posted_at": "2026-08-16T18:02:36.550142+00:00"
+    },
+    {
       "key": "mercadolivre:MLB7359539976",
       "product_id": "MLB7359539976",
       "catalog_product_id": "MLB18603556",
@@ -1051,5 +1096,5 @@
       "posted_at": "2026-08-14T20:02:40.547050+00:00"
     }
   ],
-  "updated_at": "2026-08-16T17:04:44.197997+00:00"
+  "updated_at": "2026-08-16T18:04:45.599131+00:00"
 }
