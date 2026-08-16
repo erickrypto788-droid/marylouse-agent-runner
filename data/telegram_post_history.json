@@ -1,6 +1,20 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB4654205549",
+      "marketplace": "mercadolivre",
+      "id": "MLB4654205549",
+      "title": "Roteador Wifi Ac 1200 2 Flex",
+      "title_norm": "roteador wifi ac 1200 2 flex",
+      "url": "https://www.mercadolivre.com.br/p/MLB47353377?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB47353377?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Informática",
+      "bucket": "informatica",
+      "posted_ts": 1786845744,
+      "posted_at": "2026-08-16T02:02:24.745455+00:00",
+      "score": 104.74
+    },
+    {
       "key": "shopee:23299120397",
       "marketplace": "shopee",
       "id": "23299120397",
@@ -2689,5 +2703,5 @@
       "score": 130.19
     }
   ],
-  "updated_at": "2026-08-16T01:21:12.824146+00:00"
+  "updated_at": "2026-08-16T02:02:24.745469+00:00"
 }

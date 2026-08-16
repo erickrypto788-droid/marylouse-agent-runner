@@ -1,6 +1,21 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB4654205549",
+      "product_id": "MLB4654205549",
+      "catalog_product_id": "MLB47353377",
+      "item_id": "MLB4654205549",
+      "url": "https://www.mercadolivre.com.br/p/MLB47353377?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB47353377?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "roteador wifi ac 1200 2 flex",
+      "title": "Roteador Wifi Ac 1200 2 Flex",
+      "category": "Informática",
+      "price": 169.14,
+      "score": 104.74,
+      "posted_ts": 1786845744,
+      "posted_at": "2026-08-16T02:02:24.748410+00:00"
+    },
+    {
       "key": "mercadolivre:MLB7158074090",
       "product_id": "MLB7158074090",
       "catalog_product_id": "MLB38338044",
@@ -1079,37 +1094,7 @@
       "score": 99.91,
       "posted_ts": 1786672955,
       "posted_at": "2026-08-14T02:02:35.372643+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB7197070408",
-      "product_id": "MLB7197070408",
-      "catalog_product_id": "MLB75425217",
-      "item_id": "MLB7197070408",
-      "url": "https://www.mercadolivre.com.br/p/MLB75425217?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB75425217?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "monitor pressao omron 7122 saude no seu braco",
-      "title": "Monitor Pressão Omron 7122: Saúde No Seu Braço",
-      "category": "Informática",
-      "price": 285.0,
-      "score": 71.0,
-      "posted_ts": 1786669424,
-      "posted_at": "2026-08-14T01:03:44.874111+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB6632460608",
-      "product_id": "MLB6632460608",
-      "catalog_product_id": "MLB62814199",
-      "item_id": "MLB6632460608",
-      "url": "https://www.mercadolivre.com.br/p/MLB62814199?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB62814199?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "monitor de pressao arterial de braco monitor pressao arterial hc10014 muinaifte cor blanco",
-      "title": "Monitor De Pressão Arterial De Braço Monitor pressao arterial HC10014 MUINAIFTE Cor Blanco",
-      "category": "Informática",
-      "price": 89.99,
-      "score": 103.33,
-      "posted_ts": 1786669357,
-      "posted_at": "2026-08-14T01:02:37.248500+00:00"
     }
   ],
-  "updated_at": "2026-08-16T00:02:38.491326+00:00"
+  "updated_at": "2026-08-16T02:02:24.748423+00:00"
 }
