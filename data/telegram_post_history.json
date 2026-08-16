@@ -1,6 +1,76 @@
 {
   "posts": [
     {
+      "key": "shopee:22494456015",
+      "marketplace": "shopee",
+      "id": "22494456015",
+      "title": "Fone de ouvido Bluetooth Sem Fio Headphone Bluetooth Recarregável P9 Air Top Casual Esportivo",
+      "title_norm": "fone de ouvido bluetooth sem fio headphone bluetooth recarregavel p9 air top casual esportivo",
+      "url": "https://shopee.com.br/product/1396355892/22494456015",
+      "affiliate_url": "https://s.shopee.com.br/3qMM9bNB3b",
+      "category": "TOP LOJA ELETRONICO",
+      "bucket": "top_loja_eletronico",
+      "posted_ts": 1786897267,
+      "posted_at": "2026-08-16T16:21:07.097251+00:00",
+      "score": 99.45
+    },
+    {
+      "key": "shopee:20607193834",
+      "marketplace": "shopee",
+      "id": "20607193834",
+      "title": "CARREGADOR PORTÁTIL POWER BANK UNIVERSAL 10.000MAH E 5.000MAH",
+      "title_norm": "carregador portatil power bank universal 10 000mah e 5 000mah",
+      "url": "https://shopee.com.br/product/238078335/20607193834",
+      "affiliate_url": "https://s.shopee.com.br/1qbHlvQFqL",
+      "category": "LUFEE ACESSÓRIOS",
+      "bucket": "lufee_acessorios",
+      "posted_ts": 1786897202,
+      "posted_at": "2026-08-16T16:20:02.830512+00:00",
+      "score": 126.29
+    },
+    {
+      "key": "shopee:58203749906",
+      "marketplace": "shopee",
+      "id": "58203749906",
+      "title": "2026 Novo Q71 Fones de ouvido Bluetooth sem fio OWS fones de ouvido esportivos com clipe",
+      "title_norm": "2026 novo q71 fones de ouvido bluetooth sem fio ows fones de ouvido esportivos com clipe",
+      "url": "https://shopee.com.br/product/1566977006/58203749906",
+      "affiliate_url": "https://s.shopee.com.br/1BLayhXKTL",
+      "category": "LUNANA Shop",
+      "bucket": "lunana_shop",
+      "posted_ts": 1786897138,
+      "posted_at": "2026-08-16T16:18:58.637166+00:00",
+      "score": 126.77
+    },
+    {
+      "key": "shopee:22298786744",
+      "marketplace": "shopee",
+      "id": "22298786744",
+      "title": "Tela Magnética Monitor Para Celular Sem Fio Smartphone Selfie Vlog Gravação",
+      "title_norm": "tela magnetica monitor para celular sem fio smartphone selfie vlog gravacao",
+      "url": "https://shopee.com.br/product/1264631014/22298786744",
+      "affiliate_url": "https://s.shopee.com.br/8V8BiAjTyX",
+      "category": "TOP Vida Brasil",
+      "bucket": "celulares",
+      "posted_ts": 1786897074,
+      "posted_at": "2026-08-16T16:17:54.426153+00:00",
+      "score": 128.7
+    },
+    {
+      "key": "shopee:18899548586",
+      "marketplace": "shopee",
+      "id": "18899548586",
+      "title": "Caneta Touch Screen Ponta Fina Desenho iPad iPhone Android Alta Precisão Universal Design Grafico",
+      "title_norm": "caneta touch screen ponta fina desenho ipad iphone android alta precisao universal design grafico",
+      "url": "https://shopee.com.br/product/415175805/18899548586",
+      "affiliate_url": "https://s.shopee.com.br/4LIckW7wCu",
+      "category": "Isabela Top",
+      "bucket": "celulares",
+      "posted_ts": 1786897005,
+      "posted_at": "2026-08-16T16:16:45.107616+00:00",
+      "score": 151.53
+    },
+    {
       "key": "shopee:19699232452",
       "marketplace": "shopee",
       "id": "19699232452",
@@ -3851,5 +3921,5 @@
       "score": 130.19
     }
   ],
-  "updated_at": "2026-08-16T15:18:16.400249+00:00"
+  "updated_at": "2026-08-16T16:21:07.097262+00:00"
 }
