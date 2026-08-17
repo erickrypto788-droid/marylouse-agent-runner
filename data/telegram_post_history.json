@@ -1,6 +1,76 @@
 {
   "posts": [
     {
+      "key": "shopee:21199705986",
+      "marketplace": "shopee",
+      "id": "21199705986",
+      "title": "Quadriciclo Stellar Rosa 1-3 Anos Até 30kg - Carrinho Passeio Menina - Ajustável Até 1mt de Altura",
+      "title_norm": "quadriciclo stellar rosa 1 3 anos ate 30kg carrinho passeio menina ajustavel ate 1mt de altura",
+      "url": "https://shopee.com.br/product/1007842724/21199705986",
+      "affiliate_url": "https://s.shopee.com.br/1qbJV39fd4",
+      "category": "QUEENSHOP_BR",
+      "bucket": "queenshop_br",
+      "posted_ts": 1786990867,
+      "posted_at": "2026-08-17T18:21:07.311605+00:00",
+      "score": 98.85
+    },
+    {
+      "key": "shopee:22698586930",
+      "marketplace": "shopee",
+      "id": "22698586930",
+      "title": "Kit 96 Lapis Criativas Lego Troca Ponta Estudante Escolar",
+      "title_norm": "kit 96 lapis criativas lego troca ponta estudante escolar",
+      "url": "https://shopee.com.br/product/1067499604/22698586930",
+      "affiliate_url": "https://s.shopee.com.br/1Lf1Vb0tLb",
+      "category": "MIAOSTORE LTDA",
+      "bucket": "miaostore_ltda",
+      "posted_ts": 1786990803,
+      "posted_at": "2026-08-17T18:20:03.283783+00:00",
+      "score": 98.95
+    },
+    {
+      "key": "shopee:58208324168",
+      "marketplace": "shopee",
+      "id": "58208324168",
+      "title": "Trem de Madeira Pedagógico Números Brinquedo Educativo Montessori Encaixe Infantil",
+      "title_norm": "trem de madeira pedagogico numeros brinquedo educativo montessori encaixe infantil",
+      "url": "https://shopee.com.br/product/1649431834/58208324168",
+      "affiliate_url": "https://s.shopee.com.br/3LQ7HnmMRQ",
+      "category": "Brincar é Viver​",
+      "bucket": "brincar_e_viver",
+      "posted_ts": 1786990739,
+      "posted_at": "2026-08-17T18:18:59.416585+00:00",
+      "score": 98.95
+    },
+    {
+      "key": "shopee:22297616098",
+      "marketplace": "shopee",
+      "id": "22297616098",
+      "title": "Triciclo Kemotoca Kendy Menino e Menina Patrulha Canina C/Empurrador Velotrol Proteção Lateral Carrinho de Passeio",
+      "title_norm": "triciclo kemotoca kendy menino e menina patrulha canina c empurrador velotrol protecao lateral carrinho de passeio",
+      "url": "https://shopee.com.br/product/659727139/22297616098",
+      "affiliate_url": "https://s.shopee.com.br/20ujhM92I9",
+      "category": "Big_ecommerce",
+      "bucket": "big_ecommerce",
+      "posted_ts": 1786990675,
+      "posted_at": "2026-08-17T18:17:55.546906+00:00",
+      "score": 100.12
+    },
+    {
+      "key": "shopee:26479540003",
+      "marketplace": "shopee",
+      "id": "26479540003",
+      "title": "1pcs Mobile Centopeia Espiral Ideal Carrinho Bebê Conforto Berço Com Barulho de Chocalho pode ser lavado",
+      "title_norm": "1pcs mobile centopeia espiral ideal carrinho bebe conforto berco com barulho de chocalho pode ser lavado",
+      "url": "https://shopee.com.br/product/1480010673/26479540003",
+      "affiliate_url": "https://s.shopee.com.br/gPM6uE701",
+      "category": "mdl111.br",
+      "bucket": "mdl111_br",
+      "posted_ts": 1786990603,
+      "posted_at": "2026-08-17T18:16:43.752401+00:00",
+      "score": 100.39
+    },
+    {
       "key": "mercadolivre:MLB5026800457",
       "marketplace": "mercadolivre",
       "id": "MLB5026800457",
@@ -5783,5 +5853,5 @@
       "score": 130.19
     }
   ],
-  "updated_at": "2026-08-17T17:03:36.995635+00:00"
+  "updated_at": "2026-08-17T18:21:07.311618+00:00"
 }
