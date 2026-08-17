@@ -1,6 +1,20 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB6665533644",
+      "marketplace": "mercadolivre",
+      "id": "MLB6665533644",
+      "title": "Ssd Nvme Kingston 1tb Nv3 M.2 2280 Pcie 4.0 Nf-e Cor Ssd Nvme M.2 2280 Kingston 1tb",
+      "title_norm": "ssd nvme kingston 1tb nv3 m 2 2280 pcie 4 0 nf e cor ssd nvme m 2 2280 kingston 1tb",
+      "url": "https://www.mercadolivre.com.br/p/MLB50957106?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB50957106?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Informática",
+      "bucket": "informatica",
+      "posted_ts": 1786975381,
+      "posted_at": "2026-08-17T14:03:01.308514+00:00",
+      "score": 111.0
+    },
+    {
       "key": "shopee:22794554573",
       "marketplace": "shopee",
       "id": "22794554573",
@@ -5531,5 +5545,5 @@
       "score": 130.19
     }
   ],
-  "updated_at": "2026-08-17T13:21:08.163724+00:00"
+  "updated_at": "2026-08-17T14:03:01.308526+00:00"
 }

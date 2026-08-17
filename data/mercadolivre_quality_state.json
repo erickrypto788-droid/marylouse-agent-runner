@@ -1,6 +1,21 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB6665533644",
+      "product_id": "MLB6665533644",
+      "catalog_product_id": "MLB50957106",
+      "item_id": "MLB6665533644",
+      "url": "https://www.mercadolivre.com.br/p/MLB50957106?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB50957106?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "ssd nvme kingston 1tb nv3 m 2 2280 pcie 4 0 nf e cor ssd nvme m 2 2280 kingston 1tb",
+      "title": "Ssd Nvme Kingston 1tb Nv3 M.2 2280 Pcie 4.0 Nf-e Cor Ssd Nvme M.2 2280 Kingston 1tb",
+      "category": "Informática",
+      "price": 1090.0,
+      "score": 111.0,
+      "posted_ts": 1786975381,
+      "posted_at": "2026-08-17T14:03:01.314216+00:00"
+    },
+    {
       "key": "mercadolivre:MLB4139317597",
       "product_id": "MLB4139317597",
       "catalog_product_id": "MLB23649057",
@@ -1064,22 +1079,7 @@
       "score": 135.18,
       "posted_ts": 1786817128,
       "posted_at": "2026-08-15T18:05:28.201940+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB7304556746",
-      "product_id": "MLB7304556746",
-      "catalog_product_id": "MLB76168566",
-      "item_id": "MLB7304556746",
-      "url": "https://www.mercadolivre.com.br/p/MLB76168566?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB76168566?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "comedouro dispenser de racao automatico 8l para caes gatos cor comedouro automatico vermelho",
-      "title": "Comedouro Dispenser De Ração Automático 8l Para Cães Gatos Cor Comedouro Automatico Vermelho",
-      "category": "Pet",
-      "price": 42.88,
-      "score": 138.47,
-      "posted_ts": 1786802557,
-      "posted_at": "2026-08-15T14:02:37.434673+00:00"
     }
   ],
-  "updated_at": "2026-08-17T13:03:31.887214+00:00"
+  "updated_at": "2026-08-17T14:03:01.314226+00:00"
 }
