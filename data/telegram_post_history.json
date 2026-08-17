@@ -1,6 +1,76 @@
 {
   "posts": [
     {
+      "key": "shopee:58204437244",
+      "marketplace": "shopee",
+      "id": "58204437244",
+      "title": "Etiquetas Adesivas 3x3, 4x4 ou 5x5cm Personalizados Com Recorte",
+      "title_norm": "etiquetas adesivas 3x3 4x4 ou 5x5cm personalizados com recorte",
+      "url": "https://shopee.com.br/product/239610877/58204437244",
+      "affiliate_url": "https://s.shopee.com.br/3qMMsuWHKb",
+      "category": "Plottz.br",
+      "bucket": "plottz_br",
+      "posted_ts": 1786940466,
+      "posted_at": "2026-08-17T04:21:06.365666+00:00",
+      "score": 84.43
+    },
+    {
+      "key": "shopee:43963869218",
+      "marketplace": "shopee",
+      "id": "43963869218",
+      "title": "Leitor de cartão SD Tipo C Lightning 2 em 2, compatível com Apple, Huawei, Android e laptops.",
+      "title_norm": "leitor de cartao sd tipo c lightning 2 em 2 compativel com apple huawei android e laptops",
+      "url": "https://shopee.com.br/product/1006215031/43963869218",
+      "affiliate_url": "https://s.shopee.com.br/8fRcdnVTcn",
+      "category": "Choice Oficial",
+      "bucket": "choice_oficial",
+      "posted_ts": 1786940402,
+      "posted_at": "2026-08-17T04:20:02.136344+00:00",
+      "score": 92.13
+    },
+    {
+      "key": "shopee:22995022125",
+      "marketplace": "shopee",
+      "id": "22995022125",
+      "title": "Repetidor Wifi 1200m 6 Antenas 3 in 1 functios 2.4g Roteador Amplificador De Sinal e Modem 300MBPS",
+      "title_norm": "repetidor wifi 1200m 6 antenas 3 in 1 functios 2 4g roteador amplificador de sinal e modem 300mbps",
+      "url": "https://shopee.com.br/product/1607476642/22995022125",
+      "affiliate_url": "https://s.shopee.com.br/1Lf1uK205N",
+      "category": "LM TECH STORE",
+      "bucket": "pet",
+      "posted_ts": 1786940332,
+      "posted_at": "2026-08-17T04:18:52.084097+00:00",
+      "score": 93.47
+    },
+    {
+      "key": "shopee:41580470160",
+      "marketplace": "shopee",
+      "id": "41580470160",
+      "title": "SSD de alta velocidade SATA III de 2.5 polegadas 60-256 GB PC/Laptop integrado",
+      "title_norm": "ssd de alta velocidade sata iii de 2 5 polegadas 60 256 gb pc laptop integrado",
+      "url": "https://shopee.com.br/product/706212348/41580470160",
+      "affiliate_url": "https://s.shopee.com.br/W5uumwAQ6",
+      "category": "gaotengyu.br",
+      "bucket": "informatica",
+      "posted_ts": 1786940267,
+      "posted_at": "2026-08-17T04:17:47.834005+00:00",
+      "score": 129.75
+    },
+    {
+      "key": "shopee:26831733224",
+      "marketplace": "shopee",
+      "id": "26831733224",
+      "title": "Monitor Gamer ARZOPA M1RC, 27\" 2K QHD 180Hz IPS, 1ms, 115% sRGB, USB-C, HDMI, Display Port",
+      "title_norm": "monitor gamer arzopa m1rc 27 2k qhd 180hz ips 1ms 115 srgb usb c hdmi display port",
+      "url": "https://shopee.com.br/product/1479426456/26831733224",
+      "affiliate_url": "https://s.shopee.com.br/2qTph4j1Qi",
+      "category": "ARZOPA Official Store",
+      "bucket": "informatica",
+      "posted_ts": 1786940203,
+      "posted_at": "2026-08-17T04:16:43.633799+00:00",
+      "score": 131.28
+    },
+    {
       "key": "shopee:18598052887",
       "marketplace": "shopee",
       "id": "18598052887",
@@ -4803,5 +4873,5 @@
       "score": 130.19
     }
   ],
-  "updated_at": "2026-08-17T02:21:55.419008+00:00"
+  "updated_at": "2026-08-17T04:21:06.365679+00:00"
 }
