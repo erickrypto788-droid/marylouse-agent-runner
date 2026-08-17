@@ -1,6 +1,76 @@
 {
   "posts": [
     {
+      "key": "shopee:23598771618",
+      "marketplace": "shopee",
+      "id": "23598771618",
+      "title": "Conjunto Infantil Menina Regata Ribana e Short Saia Ana ruga Confortável e Estiloso",
+      "title_norm": "conjunto infantil menina regata ribana e short saia ana ruga confortavel e estiloso",
+      "url": "https://shopee.com.br/product/450822457/23598771618",
+      "affiliate_url": "https://s.shopee.com.br/1qbJIgXJHs",
+      "category": "Brilho de mulher_",
+      "bucket": "brilho_de_mulher",
+      "posted_ts": 1786980076,
+      "posted_at": "2026-08-17T15:21:16.875205+00:00",
+      "score": 100.31
+    },
+    {
+      "key": "shopee:21484984717",
+      "marketplace": "shopee",
+      "id": "21484984717",
+      "title": "Vestido Tipo Estilingue Borboleta 2025 Para Bebês Meninas De Festa De Princesa Rosa 0-3 Anos Roupa De Convidados De Casa",
+      "title_norm": "vestido tipo estilingue borboleta 2025 para bebes meninas de festa de princesa rosa 0 3 anos roupa de convidados de casa",
+      "url": "https://shopee.com.br/product/1006215031/21484984717",
+      "affiliate_url": "https://s.shopee.com.br/7VFg36Kk8A",
+      "category": "Choice Oficial",
+      "bucket": "moda_feminina",
+      "posted_ts": 1786980012,
+      "posted_at": "2026-08-17T15:20:12.875491+00:00",
+      "score": 101.07
+    },
+    {
+      "key": "shopee:23994836650",
+      "marketplace": "shopee",
+      "id": "23994836650",
+      "title": "Kit 4 Peças Conjunto Infantil Bebê Menino Verão Algodão Promoção 2 Camisas 2 Shorts Envio Sortido",
+      "title_norm": "kit 4 pecas conjunto infantil bebe menino verao algodao promocao 2 camisas 2 shorts envio sortido",
+      "url": "https://shopee.com.br/product/1253552940/23994836650",
+      "affiliate_url": "https://s.shopee.com.br/4LIeHHNnD7",
+      "category": "Rosa Azul K",
+      "bucket": "rosa_azul_k",
+      "posted_ts": 1786979948,
+      "posted_at": "2026-08-17T15:19:08.855141+00:00",
+      "score": 101.53
+    },
+    {
+      "key": "shopee:23591801386",
+      "marketplace": "shopee",
+      "id": "23591801386",
+      "title": "Tenis Infantil de Menino Menina Escola Sem Cadarço",
+      "title_norm": "tenis infantil de menino menina escola sem cadarco",
+      "url": "https://shopee.com.br/product/443243951/23591801386",
+      "affiliate_url": "https://s.shopee.com.br/3LQ75RnjgJ",
+      "category": "Happykidsns",
+      "bucket": "calcados",
+      "posted_ts": 1786979881,
+      "posted_at": "2026-08-17T15:18:01.205137+00:00",
+      "score": 106.84
+    },
+    {
+      "key": "shopee:23197595875",
+      "marketplace": "shopee",
+      "id": "23197595875",
+      "title": "SANDÁLIA Cartago BABY MASCULINO SLIDE PERCATA MILÃO LANÇAMENTO",
+      "title_norm": "sandalia cartago baby masculino slide percata milao lancamento",
+      "url": "https://shopee.com.br/product/857483479/23197595875",
+      "affiliate_url": "https://s.shopee.com.br/8AVMqKMbbl",
+      "category": "Juliashoes-ns",
+      "bucket": "calcados",
+      "posted_ts": 1786979814,
+      "posted_at": "2026-08-17T15:16:54.110168+00:00",
+      "score": 112.25
+    },
+    {
       "key": "shopee:58256213399",
       "marketplace": "shopee",
       "id": "58256213399",
@@ -5615,5 +5685,5 @@
       "score": 130.19
     }
   ],
-  "updated_at": "2026-08-17T14:21:07.233837+00:00"
+  "updated_at": "2026-08-17T15:21:16.875214+00:00"
 }
