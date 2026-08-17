@@ -1,6 +1,76 @@
 {
   "posts": [
     {
+      "key": "shopee:23993814406",
+      "marketplace": "shopee",
+      "id": "23993814406",
+      "title": "Kit Medidor de Glicose Bioland G425-3 + 25 Tiras + 25 Lancetas + Bolsa CAIXA",
+      "title_norm": "kit medidor de glicose bioland g425 3 25 tiras 25 lancetas bolsa caixa",
+      "url": "https://shopee.com.br/product/1494129238/23993814406",
+      "affiliate_url": "https://s.shopee.com.br/3g2wM0caqG",
+      "category": "Cirúrgica Ramos",
+      "bucket": "bolsas",
+      "posted_ts": 1786994477,
+      "posted_at": "2026-08-17T19:21:17.286137+00:00",
+      "score": 44.48
+    },
+    {
+      "key": "shopee:23294415208",
+      "marketplace": "shopee",
+      "id": "23294415208",
+      "title": "Tiras Medidor Glicemia Accu Check Guide 50 Unidades Promoção",
+      "title_norm": "tiras medidor glicemia accu check guide 50 unidades promocao",
+      "url": "https://shopee.com.br/product/1635907703/23294415208",
+      "affiliate_url": "https://s.shopee.com.br/112BB6mkG0",
+      "category": "Farma Suplemento",
+      "bucket": "farma_suplemento",
+      "posted_ts": 1786994413,
+      "posted_at": "2026-08-17T19:20:13.068791+00:00",
+      "score": 48.13
+    },
+    {
+      "key": "shopee:58211322269",
+      "marketplace": "shopee",
+      "id": "58211322269",
+      "title": "Kit de medidor de glicose: 50 lancetas + medidor de glicemia + 50 tiras de teste",
+      "title_norm": "kit de medidor de glicose 50 lancetas medidor de glicemia 50 tiras de teste",
+      "url": "https://shopee.com.br/product/1589215601/58211322269",
+      "affiliate_url": "https://s.shopee.com.br/20uiMwiwE6",
+      "category": "Saúde & Aroma BR",
+      "bucket": "saude_aroma_br",
+      "posted_ts": 1786994341,
+      "posted_at": "2026-08-17T19:19:01.328171+00:00",
+      "score": 67.93
+    },
+    {
+      "key": "shopee:45504711899",
+      "marketplace": "shopee",
+      "id": "45504711899",
+      "title": "Kit Medidor Glicose 10 Tiras  10 Lancetas  Caneta G-Tech - Lite - Lite Praticidade Rapidez Precisão",
+      "title_norm": "kit medidor glicose 10 tiras 10 lancetas caneta g tech lite lite praticidade rapidez precisao",
+      "url": "https://shopee.com.br/product/1263405995/45504711899",
+      "affiliate_url": "https://s.shopee.com.br/3VjW9hdEBH",
+      "category": "Essencial Vida",
+      "bucket": "essencial_vida",
+      "posted_ts": 1786994269,
+      "posted_at": "2026-08-17T19:17:49.573763+00:00",
+      "score": 90.38
+    },
+    {
+      "key": "shopee:20299250319",
+      "marketplace": "shopee",
+      "id": "20299250319",
+      "title": "Monitor digital de pressão arterial de braço totalmente automático anjgg",
+      "title_norm": "monitor digital de pressao arterial de braco totalmente automatico anjgg",
+      "url": "https://shopee.com.br/product/391739739/20299250319",
+      "affiliate_url": "https://s.shopee.com.br/5fo0jgDApX",
+      "category": "ANJ.GG store",
+      "bucket": "saude",
+      "posted_ts": 1786994200,
+      "posted_at": "2026-08-17T19:16:40.654262+00:00",
+      "score": 123.02
+    },
+    {
       "key": "shopee:21199705986",
       "marketplace": "shopee",
       "id": "21199705986",
@@ -5853,5 +5923,5 @@
       "score": 130.19
     }
   ],
-  "updated_at": "2026-08-17T18:21:07.311618+00:00"
+  "updated_at": "2026-08-17T19:21:17.286148+00:00"
 }
