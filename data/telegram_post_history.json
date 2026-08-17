@@ -1,6 +1,76 @@
 {
   "posts": [
     {
+      "key": "shopee:57310981122",
+      "marketplace": "shopee",
+      "id": "57310981122",
+      "title": "Kit 4 Potes Herméticos 2L Com Copo Medidor Organizador Mantimentos Arroz Feijão Sabão Em Pó Amaciante Produtos Limpeza",
+      "title_norm": "kit 4 potes hermeticos 2l com copo medidor organizador mantimentos arroz feijao sabao em po amaciante produtos limpeza",
+      "url": "https://shopee.com.br/product/1327572074/57310981122",
+      "affiliate_url": "https://s.shopee.com.br/8fRcm2j2ss",
+      "category": "shopmultiprime",
+      "bucket": "supermercado",
+      "posted_ts": 1786944064,
+      "posted_at": "2026-08-17T05:21:04.909912+00:00",
+      "score": 104.24
+    },
+    {
+      "key": "shopee:16271693872",
+      "marketplace": "shopee",
+      "id": "16271693872",
+      "title": "Beauty Of Joseon relief sun rice probiotics / niacinamide  sun cream protetor solar SPF50+ PA++10ml,50ml,50ml 1+1",
+      "title_norm": "beauty of joseon relief sun rice probiotics niacinamide sun cream protetor solar spf50 pa 10ml 50ml 50ml 1 1",
+      "url": "https://shopee.com.br/product/457864097/16271693872",
+      "affiliate_url": "https://s.shopee.com.br/4LIdc4vPxI",
+      "category": "koksara.kbeauty",
+      "bucket": "koksara_kbeauty",
+      "posted_ts": 1786944000,
+      "posted_at": "2026-08-17T05:20:00.853909+00:00",
+      "score": 105.98
+    },
+    {
+      "key": "shopee:22499181960",
+      "marketplace": "shopee",
+      "id": "22499181960",
+      "title": "Kit 2x Magnésio & Inositol Com Melatonina 210g Bodyaction",
+      "title_norm": "kit 2x magnesio inositol com melatonina 210g bodyaction",
+      "url": "https://shopee.com.br/product/443076516/22499181960",
+      "affiliate_url": "https://s.shopee.com.br/2qTnAUxjT6",
+      "category": "Bodyaction Oficial",
+      "bucket": "bodyaction_oficial",
+      "posted_ts": 1786943936,
+      "posted_at": "2026-08-17T05:18:56.710482+00:00",
+      "score": 108.08
+    },
+    {
+      "key": "shopee:58210178989",
+      "marketplace": "shopee",
+      "id": "58210178989",
+      "title": "TRUFAS DE CHOCOLATE POTE 510G -KITRUFA KIKAKAU 30UNIDADES.",
+      "title_norm": "trufas de chocolate pote 510g kitrufa kikakau 30unidades",
+      "url": "https://shopee.com.br/product/427327813/58210178989",
+      "affiliate_url": "https://s.shopee.com.br/5VUb0DmVWt",
+      "category": "ShoppCaio Comércio  Varejista",
+      "bucket": "shoppcaio_comercio_varejista",
+      "posted_ts": 1786943872,
+      "posted_at": "2026-08-17T05:17:52.557954+00:00",
+      "score": 108.29
+    },
+    {
+      "key": "shopee:54003340930",
+      "marketplace": "shopee",
+      "id": "54003340930",
+      "title": "Café Torrado E Moído Extraforte Café Italle Cafe em Pó 500g",
+      "title_norm": "cafe torrado e moido extraforte cafe italle cafe em po 500g",
+      "url": "https://shopee.com.br/product/334540655/54003340930",
+      "affiliate_url": "https://s.shopee.com.br/1Lf22YtVAU",
+      "category": "Café Italle",
+      "bucket": "cafe_italle",
+      "posted_ts": 1786943802,
+      "posted_at": "2026-08-17T05:16:42.936736+00:00",
+      "score": 108.51
+    },
+    {
       "key": "shopee:58204437244",
       "marketplace": "shopee",
       "id": "58204437244",
@@ -4873,5 +4943,5 @@
       "score": 130.19
     }
   ],
-  "updated_at": "2026-08-17T04:21:06.365679+00:00"
+  "updated_at": "2026-08-17T05:21:04.909923+00:00"
 }
