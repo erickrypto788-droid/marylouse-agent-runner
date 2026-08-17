@@ -1,6 +1,20 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB5355035490",
+      "marketplace": "mercadolivre",
+      "id": "MLB5355035490",
+      "title": "Cama Box Solteiro: Colchão Molas Ensacadas Orthoflex Memor",
+      "title_norm": "cama box solteiro colchao molas ensacadas orthoflex memor",
+      "url": "https://www.mercadolivre.com.br/p/MLB48409016?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB48409016?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Casa e Cozinha",
+      "bucket": "casa_e_cozinha",
+      "posted_ts": 1786953804,
+      "posted_at": "2026-08-17T08:03:24.802094+00:00",
+      "score": 75.67
+    },
+    {
       "key": "shopee:56811562732",
       "marketplace": "shopee",
       "id": "56811562732",
@@ -5139,5 +5153,5 @@
       "score": 130.19
     }
   ],
-  "updated_at": "2026-08-17T07:21:26.499163+00:00"
+  "updated_at": "2026-08-17T08:03:24.802103+00:00"
 }
