@@ -1,6 +1,21 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB4302548173",
+      "product_id": "MLB4302548173",
+      "catalog_product_id": "MLB44164135",
+      "item_id": "MLB4302548173",
+      "url": "https://www.mercadolivre.com.br/p/MLB44164135?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB44164135?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "comedouro automatico racao aquario terrario peixe tartaruga",
+      "title": "Comedouro Automático Ração Aquário Terrario Peixe Tartaruga",
+      "category": "Pet",
+      "price": 117.85,
+      "score": 137.09,
+      "posted_ts": 1786932160,
+      "posted_at": "2026-08-17T02:02:40.867839+00:00"
+    },
+    {
       "key": "mercadolivre:MLB4777552385",
       "product_id": "MLB4777552385",
       "catalog_product_id": "MLB47815788",
@@ -1094,67 +1109,7 @@
       "score": 113.0,
       "posted_ts": 1786759406,
       "posted_at": "2026-08-15T02:03:26.497652+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB4266241495",
-      "product_id": "MLB4266241495",
-      "catalog_product_id": "MLB43806010",
-      "item_id": "MLB4266241495",
-      "url": "https://www.mercadolivre.com.br/p/MLB43806010?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB43806010?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "absorvente mulher ativa com abas kit 80 pacotes gel super absorvente",
-      "title": "Absorvente Mulher Ativa Com Abas Kit 80 Pacotes Gel Super Absorvente",
-      "category": "Moda Feminina",
-      "price": 189.15,
-      "score": 88.0,
-      "posted_ts": 1786756184,
-      "posted_at": "2026-08-15T01:09:44.642307+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB3667109301",
-      "product_id": "MLB3667109301",
-      "catalog_product_id": "MLB29671809",
-      "item_id": "MLB3667109301",
-      "url": "https://www.mercadolivre.com.br/p/MLB29671809?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB29671809?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "shampoo infantil 400ml buba care",
-      "title": "Shampoo Infantil 400ml Buba Care",
-      "category": "Beleza",
-      "price": 42.0,
-      "score": 88.0,
-      "posted_ts": 1786756119,
-      "posted_at": "2026-08-15T01:08:39.566999+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB6660297382",
-      "product_id": "MLB6660297382",
-      "catalog_product_id": "MLB67844007",
-      "item_id": "MLB6660297382",
-      "url": "https://www.mercadolivre.com.br/p/MLB67844007?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB67844007?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "preparo essencia amaciante roupas concentrado perfume",
-      "title": "Preparo Essência Amaciante Roupas Concentrado Perfume",
-      "category": "Supermercados",
-      "price": 135.9,
-      "score": 114.0,
-      "posted_ts": 1786756055,
-      "posted_at": "2026-08-15T01:07:35.346803+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB5827152542",
-      "product_id": "MLB5827152542",
-      "catalog_product_id": "MLB60416491",
-      "item_id": "MLB5827152542",
-      "url": "https://www.mercadolivre.com.br/p/MLB60416491?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB60416491?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "amaciante roupas macias sensiv titila 5l",
-      "title": "Amaciante Roupas Macias Sensiv Titila 5l",
-      "category": "Supermercados",
-      "price": 37.9,
-      "score": 134.85,
-      "posted_ts": 1786755990,
-      "posted_at": "2026-08-15T01:06:30.542010+00:00"
     }
   ],
-  "updated_at": "2026-08-16T23:03:24.672630+00:00"
+  "updated_at": "2026-08-17T02:02:40.867848+00:00"
 }

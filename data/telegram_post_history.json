@@ -1,6 +1,20 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB4302548173",
+      "marketplace": "mercadolivre",
+      "id": "MLB4302548173",
+      "title": "Comedouro Automático Ração Aquário Terrario Peixe Tartaruga",
+      "title_norm": "comedouro automatico racao aquario terrario peixe tartaruga",
+      "url": "https://www.mercadolivre.com.br/p/MLB44164135?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB44164135?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Pet",
+      "bucket": "pet",
+      "posted_ts": 1786932160,
+      "posted_at": "2026-08-17T02:02:40.862834+00:00",
+      "score": 137.09
+    },
+    {
       "key": "shopee:18077247106",
       "marketplace": "shopee",
       "id": "18077247106",
@@ -4719,5 +4733,5 @@
       "score": 130.19
     }
   ],
-  "updated_at": "2026-08-17T01:21:02.779018+00:00"
+  "updated_at": "2026-08-17T02:02:40.862845+00:00"
 }
