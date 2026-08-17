@@ -1,6 +1,76 @@
 {
   "posts": [
     {
+      "key": "shopee:18598052887",
+      "marketplace": "shopee",
+      "id": "18598052887",
+      "title": "Estojo De Lápis Escolar Juvenil Box Jumbo Nylon Táctico Grande Com Divisória",
+      "title_norm": "estojo de lapis escolar juvenil box jumbo nylon tactico grande com divisoria",
+      "url": "https://shopee.com.br/product/1384480317/18598052887",
+      "affiliate_url": "https://s.shopee.com.br/LmUeMYUYJ",
+      "category": "ÓTIMO DIVERSOS",
+      "bucket": "otimo_diversos",
+      "posted_ts": 1786933315,
+      "posted_at": "2026-08-17T02:21:55.418998+00:00",
+      "score": 91.66
+    },
+    {
+      "key": "shopee:20798150432",
+      "marketplace": "shopee",
+      "id": "20798150432",
+      "title": "ANA1108 Kit 10 mini pincéis para Maquiagem com estojo bolsa para viagem",
+      "title_norm": "ana1108 kit 10 mini pinceis para maquiagem com estojo bolsa para viagem",
+      "url": "https://shopee.com.br/product/418205294/20798150432",
+      "affiliate_url": "https://s.shopee.com.br/2VqzELQF9m",
+      "category": "ANA 1108",
+      "bucket": "beleza",
+      "posted_ts": 1786933251,
+      "posted_at": "2026-08-17T02:20:51.124402+00:00",
+      "score": 93.48
+    },
+    {
+      "key": "shopee:23099236697",
+      "marketplace": "shopee",
+      "id": "23099236697",
+      "title": "A6S Fone Sem Fio Bluetooth Intra Auricular com Microfone e Estojo Portátil",
+      "title_norm": "a6s fone sem fio bluetooth intra auricular com microfone e estojo portatil",
+      "url": "https://shopee.com.br/product/1615578976/23099236697",
+      "affiliate_url": "https://s.shopee.com.br/1VyS2VU3Bc",
+      "category": "AcheiBarato.com",
+      "bucket": "acheibarato_com",
+      "posted_ts": 1786933186,
+      "posted_at": "2026-08-17T02:19:46.920764+00:00",
+      "score": 93.89
+    },
+    {
+      "key": "shopee:22017733321",
+      "marketplace": "shopee",
+      "id": "22017733321",
+      "title": "Pistola De Cola Quente Pequena Bivolt + 10 Bastões De Cola Quente Fino",
+      "title_norm": "pistola de cola quente pequena bivolt 10 bastoes de cola quente fino",
+      "url": "https://shopee.com.br/product/683934771/22017733321",
+      "affiliate_url": "https://s.shopee.com.br/7psVa9EbLk",
+      "category": "KEPEL SUPRIMENTOS",
+      "bucket": "kepel_suprimentos",
+      "posted_ts": 1786933122,
+      "posted_at": "2026-08-17T02:18:42.739101+00:00",
+      "score": 96.93
+    },
+    {
+      "key": "shopee:23192083562",
+      "marketplace": "shopee",
+      "id": "23192083562",
+      "title": "Papel Offset Opaline Liso 100 Folhas 180g A4 Branco Diplomata Masterprint",
+      "title_norm": "papel offset opaline liso 100 folhas 180g a4 branco diplomata masterprint",
+      "url": "https://shopee.com.br/product/1046010418/23192083562",
+      "affiliate_url": "https://s.shopee.com.br/2VqzELQF7g",
+      "category": "PAPEL.PAPELARIA",
+      "bucket": "papel_papelaria",
+      "posted_ts": 1786933058,
+      "posted_at": "2026-08-17T02:17:38.573017+00:00",
+      "score": 97.5
+    },
+    {
       "key": "mercadolivre:MLB4302548173",
       "marketplace": "mercadolivre",
       "id": "MLB4302548173",
@@ -4733,5 +4803,5 @@
       "score": 130.19
     }
   ],
-  "updated_at": "2026-08-17T02:02:40.862845+00:00"
+  "updated_at": "2026-08-17T02:21:55.419008+00:00"
 }
