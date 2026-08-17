@@ -1,6 +1,76 @@
 {
   "posts": [
     {
+      "key": "shopee:56811562732",
+      "marketplace": "shopee",
+      "id": "56811562732",
+      "title": "Blusa Feminina Plus Size Canelada Gola V Manga Curta Malha Premium do GG ao G3",
+      "title_norm": "blusa feminina plus size canelada gola v manga curta malha premium do gg ao g3",
+      "url": "https://shopee.com.br/product/1287359071/56811562732",
+      "affiliate_url": "https://s.shopee.com.br/W5vBHAF71",
+      "category": "ALUAP MODA FEMININA",
+      "bucket": "moda_feminina",
+      "posted_ts": 1786951286,
+      "posted_at": "2026-08-17T07:21:26.499152+00:00",
+      "score": 106.68
+    },
+    {
+      "key": "shopee:19299586669",
+      "marketplace": "shopee",
+      "id": "19299586669",
+      "title": "KIT 2 Regata Blusinha Feminina Suplex Duplo Básica Elegante Blogueira Tendencia",
+      "title_norm": "kit 2 regata blusinha feminina suplex duplo basica elegante blogueira tendencia",
+      "url": "https://shopee.com.br/product/1035603970/19299586669",
+      "affiliate_url": "https://s.shopee.com.br/9fKA67so7K",
+      "category": "FUFLEX",
+      "bucket": "fuflex",
+      "posted_ts": 1786951217,
+      "posted_at": "2026-08-17T07:20:17.438228+00:00",
+      "score": 106.93
+    },
+    {
+      "key": "shopee:58205476765",
+      "marketplace": "shopee",
+      "id": "58205476765",
+      "title": "Cinta Modeladora Short Reduz 2 Medidas | Empina Bumbum | Alta Compressão | Não Enrola | Envio Rápido",
+      "title_norm": "cinta modeladora short reduz 2 medidas empina bumbum alta compressao nao enrola envio rapido",
+      "url": "https://shopee.com.br/product/1627342184/58205476765",
+      "affiliate_url": "https://s.shopee.com.br/2qTpxZA9wr",
+      "category": "AKAPE FASHION",
+      "bucket": "akape_fashion",
+      "posted_ts": 1786951147,
+      "posted_at": "2026-08-17T07:19:07.348705+00:00",
+      "score": 108.09
+    },
+    {
+      "key": "shopee:23591594431",
+      "marketplace": "shopee",
+      "id": "23591594431",
+      "title": "Legging Flanelada Grossa Calça Leg Peluciada Forrada Por Dentro Costura Reforçada Calça Térmica",
+      "title_norm": "legging flanelada grossa calca leg peluciada forrada por dentro costura reforcada calca termica",
+      "url": "https://shopee.com.br/product/869193731/23591594431",
+      "affiliate_url": "https://s.shopee.com.br/9KhJhVlHE4",
+      "category": "OxeanJeans",
+      "bucket": "moda_feminina",
+      "posted_ts": 1786951078,
+      "posted_at": "2026-08-17T07:17:58.650665+00:00",
+      "score": 112.78
+    },
+    {
+      "key": "shopee:44451988896",
+      "marketplace": "shopee",
+      "id": "44451988896",
+      "title": "Calça Pantalona Alfaiataria Premium Com Bolso PROMOÇÃO",
+      "title_norm": "calca pantalona alfaiataria premium com bolso promocao",
+      "url": "https://shopee.com.br/product/1077139873/44451988896",
+      "affiliate_url": "https://s.shopee.com.br/AKZqtLhTCE",
+      "category": "valiosa fashion moda",
+      "bucket": "valiosa_fashion_moda",
+      "posted_ts": 1786951009,
+      "posted_at": "2026-08-17T07:16:49.581356+00:00",
+      "score": 114.03
+    },
+    {
       "key": "mercadolivre:MLB4712632217",
       "marketplace": "mercadolivre",
       "id": "MLB4712632217",
@@ -5069,5 +5139,5 @@
       "score": 130.19
     }
   ],
-  "updated_at": "2026-08-17T07:05:50.073650+00:00"
+  "updated_at": "2026-08-17T07:21:26.499163+00:00"
 }
