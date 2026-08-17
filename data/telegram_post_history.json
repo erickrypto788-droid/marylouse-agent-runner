@@ -1,6 +1,34 @@
 {
   "posts": [
     {
+      "key": "shopee:58255989668",
+      "marketplace": "shopee",
+      "id": "58255989668",
+      "title": "Bolsa De Moda Simples Ombro De Veludo Feminina Novo Estilo",
+      "title_norm": "bolsa de moda simples ombro de veludo feminina novo estilo",
+      "url": "https://shopee.com.br/product/1725099888/58255989668",
+      "affiliate_url": "https://s.shopee.com.br/60QrGX7sIf",
+      "category": "hui3hui3",
+      "bucket": "bolsas",
+      "posted_ts": 1786925859,
+      "posted_at": "2026-08-17T00:17:39.013306+00:00",
+      "score": 107.72
+    },
+    {
+      "key": "shopee:22893701336",
+      "marketplace": "shopee",
+      "id": "22893701336",
+      "title": "Mala Esportiva Academia Unissex Transversal e Mochila",
+      "title_norm": "mala esportiva academia unissex transversal e mochila",
+      "url": "https://shopee.com.br/product/1284795277/22893701336",
+      "affiliate_url": "https://s.shopee.com.br/2qTpUiSrnk",
+      "category": "DIVA IMPORT",
+      "bucket": "bolsas",
+      "posted_ts": 1786925795,
+      "posted_at": "2026-08-17T00:16:35.183017+00:00",
+      "score": 111.8
+    },
+    {
       "key": "shopee:23294309688",
       "marketplace": "shopee",
       "id": "23294309688",
@@ -4621,5 +4649,5 @@
       "score": 130.19
     }
   ],
-  "updated_at": "2026-08-16T23:20:49.170333+00:00"
+  "updated_at": "2026-08-17T00:17:39.013337+00:00"
 }
