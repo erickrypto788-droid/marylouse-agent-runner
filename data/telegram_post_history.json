@@ -1,6 +1,76 @@
 {
   "posts": [
     {
+      "key": "shopee:23498386191",
+      "marketplace": "shopee",
+      "id": "23498386191",
+      "title": "Jip Jipe Infantil Maral Vários Modelos Carrinho de Passeio Empurrador Dia Das Crianças Presente",
+      "title_norm": "jip jipe infantil maral varios modelos carrinho de passeio empurrador dia das criancas presente",
+      "url": "https://shopee.com.br/product/504754787/23498386191",
+      "affiliate_url": "https://s.shopee.com.br/6fgWfEcmz6",
+      "category": "Zociella Kids",
+      "bucket": "zociella_kids",
+      "posted_ts": 1786998113,
+      "posted_at": "2026-08-17T20:21:53.043936+00:00",
+      "score": 93.94
+    },
+    {
+      "key": "shopee:21399662841",
+      "marketplace": "shopee",
+      "id": "21399662841",
+      "title": "Mamadeira Anti-cólica 150ml/240ml | Silicone Grau Alimentício + Resistente a -20°C~120°C | 0-36 Meses",
+      "title_norm": "mamadeira anti colica 150ml 240ml silicone grau alimenticio resistente a 20 c 120 c 0 36 meses",
+      "url": "https://shopee.com.br/product/1430676030/21399662841",
+      "affiliate_url": "https://s.shopee.com.br/BT5eF2qng",
+      "category": "GGB_BOY",
+      "bucket": "ggb_boy",
+      "posted_ts": 1786998048,
+      "posted_at": "2026-08-17T20:20:48.601211+00:00",
+      "score": 97.13
+    },
+    {
+      "key": "shopee:23799188673",
+      "marketplace": "shopee",
+      "id": "23799188673",
+      "title": "kit 1400 Toalhas Umedecidas Bebê Limpinho Premium",
+      "title_norm": "kit 1400 toalhas umedecidas bebe limpinho premium",
+      "url": "https://shopee.com.br/product/1045085918/23799188673",
+      "affiliate_url": "https://s.shopee.com.br/gPKqbqbFm",
+      "category": "Droga Clara",
+      "bucket": "droga_clara",
+      "posted_ts": 1786997941,
+      "posted_at": "2026-08-17T20:19:01.509284+00:00",
+      "score": 97.62
+    },
+    {
+      "key": "shopee:58206927432",
+      "marketplace": "shopee",
+      "id": "58206927432",
+      "title": "Berço Portátil Com Mosquiteiro Cama De Duas Camas 0-3 Anos Fecho De Segurança 3 Em 1 Ajustável",
+      "title_norm": "berco portatil com mosquiteiro cama de duas camas 0 3 anos fecho de seguranca 3 em 1 ajustavel",
+      "url": "https://shopee.com.br/product/1130732424/58206927432",
+      "affiliate_url": "https://s.shopee.com.br/W5w2rANff",
+      "category": "lampadasstore",
+      "bucket": "lampadasstore",
+      "posted_ts": 1786997877,
+      "posted_at": "2026-08-17T20:17:57.205090+00:00",
+      "score": 98.48
+    },
+    {
+      "key": "shopee:18297665963",
+      "marketplace": "shopee",
+      "id": "18297665963",
+      "title": "Fraldas de pano kit com 10 unidades 60x60cm 100% algodão Minasrey Bebê Babete Toalinha Babita Paninho Estampado",
+      "title_norm": "fraldas de pano kit com 10 unidades 60x60cm 100 algodao minasrey bebe babete toalinha babita paninho estampado",
+      "url": "https://shopee.com.br/product/378105312/18297665963",
+      "affiliate_url": "https://s.shopee.com.br/AUtGYg6IUy",
+      "category": "EssencialBaby",
+      "bucket": "fraldas",
+      "posted_ts": 1786997813,
+      "posted_at": "2026-08-17T20:16:53.020823+00:00",
+      "score": 101.38
+    },
+    {
       "key": "mercadolivre:MLB4974714813",
       "marketplace": "mercadolivre",
       "id": "MLB4974714813",
@@ -5937,5 +6007,5 @@
       "score": 130.19
     }
   ],
-  "updated_at": "2026-08-17T20:02:23.510183+00:00"
+  "updated_at": "2026-08-17T20:21:53.043946+00:00"
 }
