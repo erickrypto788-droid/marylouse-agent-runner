@@ -1,6 +1,36 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB5026800457",
+      "product_id": "MLB5026800457",
+      "catalog_product_id": "MLB20643765",
+      "item_id": "MLB5026800457",
+      "url": "https://www.mercadolivre.com.br/p/MLB20643765?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB20643765?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "carregador iphone tipo usb c cor branco",
+      "title": "Carregador iPhone Tipo USB-C Cor Branco",
+      "category": "Informática",
+      "price": 349.99,
+      "score": 127.0,
+      "posted_ts": 1786986217,
+      "posted_at": "2026-08-17T17:03:37.001670+00:00"
+    },
+    {
+      "key": "mercadolivre:MLB6512767686",
+      "product_id": "MLB6512767686",
+      "catalog_product_id": "MLB65973005",
+      "item_id": "MLB6512767686",
+      "url": "https://www.mercadolivre.com.br/p/MLB65973005?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB65973005?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "celular samsung galaxy a06 5g preto",
+      "title": "Celular Samsung Galaxy A06 5g Preto",
+      "category": "Informática",
+      "price": 899.0,
+      "score": 127.0,
+      "posted_ts": 1786986145,
+      "posted_at": "2026-08-17T17:02:25.543241+00:00"
+    },
+    {
       "key": "mercadolivre:MLB6665533644",
       "product_id": "MLB6665533644",
       "catalog_product_id": "MLB50957106",
@@ -1081,5 +1111,5 @@
       "posted_at": "2026-08-15T18:05:28.201940+00:00"
     }
   ],
-  "updated_at": "2026-08-17T14:03:01.314226+00:00"
+  "updated_at": "2026-08-17T17:03:37.001679+00:00"
 }
