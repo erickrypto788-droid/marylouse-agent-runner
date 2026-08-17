@@ -1,6 +1,76 @@
 {
   "posts": [
     {
+      "key": "shopee:40552787490",
+      "marketplace": "shopee",
+      "id": "40552787490",
+      "title": "WHEY 900g O MAIS GOSTOSO DO BRASIL- DIVERSOS SABORES",
+      "title_norm": "whey 900g o mais gostoso do brasil diversos sabores",
+      "url": "https://shopee.com.br/product/733181094/40552787490",
+      "affiliate_url": "https://s.shopee.com.br/9KhIyBKqNa",
+      "category": "SUPER_PROMO",
+      "bucket": "super_promo",
+      "posted_ts": 1786983654,
+      "posted_at": "2026-08-17T16:20:54.455007+00:00",
+      "score": 109.68
+    },
+    {
+      "key": "shopee:20298322054",
+      "marketplace": "shopee",
+      "id": "20298322054",
+      "title": "Kit Creatina Monohidratada + Pré Treino Evolution 300g  Aminoácidos Essenciais - Soldiers Nutrition",
+      "title_norm": "kit creatina monohidratada pre treino evolution 300g aminoacidos essenciais soldiers nutrition",
+      "url": "https://shopee.com.br/product/347988064/20298322054",
+      "affiliate_url": "https://s.shopee.com.br/W5uRwsbpd",
+      "category": "Soldiers Nutrition",
+      "bucket": "soldiers_nutrition",
+      "posted_ts": 1786983590,
+      "posted_at": "2026-08-17T16:19:50.322439+00:00",
+      "score": 109.91
+    },
+    {
+      "key": "shopee:44959639811",
+      "marketplace": "shopee",
+      "id": "44959639811",
+      "title": "Barra de Proteína Snacks Protein Bar Flash 35g 10 Unids Bodyaction",
+      "title_norm": "barra de proteina snacks protein bar flash 35g 10 unids bodyaction",
+      "url": "https://shopee.com.br/product/443076516/44959639811",
+      "affiliate_url": "https://s.shopee.com.br/19dr1hJWF",
+      "category": "Bodyaction Oficial",
+      "bucket": "bodyaction_oficial",
+      "posted_ts": 1786983526,
+      "posted_at": "2026-08-17T16:18:46.238109+00:00",
+      "score": 112.34
+    },
+    {
+      "key": "shopee:23698384152",
+      "marketplace": "shopee",
+      "id": "23698384152",
+      "title": "Bicicleta Bike Ergometrica Spinning Academia Fitness Profissional 120kg",
+      "title_norm": "bicicleta bike ergometrica spinning academia fitness profissional 120kg",
+      "url": "https://shopee.com.br/product/1512108548/23698384152",
+      "affiliate_url": "https://s.shopee.com.br/1BLbFAcs9U",
+      "category": "SINBER OFICIAL",
+      "bucket": "sinber_oficial",
+      "posted_ts": 1786983462,
+      "posted_at": "2026-08-17T16:17:42.225695+00:00",
+      "score": 112.51
+    },
+    {
+      "key": "shopee:58259312483",
+      "marketplace": "shopee",
+      "id": "58259312483",
+      "title": "Calça Legging Esportiva Cintura Alta Com Bolso Empina Bumbum Zero Transparência Respirável Fitness Academia Yoga",
+      "title_norm": "calca legging esportiva cintura alta com bolso empina bumbum zero transparencia respiravel fitness academia yoga",
+      "url": "https://shopee.com.br/product/1789740063/58259312483",
+      "affiliate_url": "https://s.shopee.com.br/5q7S89gfRI",
+      "category": "FROOG-8",
+      "bucket": "moda_feminina",
+      "posted_ts": 1786983398,
+      "posted_at": "2026-08-17T16:16:38.191645+00:00",
+      "score": 122.01
+    },
+    {
       "key": "shopee:23598771618",
       "marketplace": "shopee",
       "id": "23598771618",
@@ -5685,5 +5755,5 @@
       "score": 130.19
     }
   ],
-  "updated_at": "2026-08-17T15:21:16.875214+00:00"
+  "updated_at": "2026-08-17T16:20:54.455015+00:00"
 }
