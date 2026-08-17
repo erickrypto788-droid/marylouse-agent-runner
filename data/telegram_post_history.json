@@ -1,6 +1,76 @@
 {
   "posts": [
     {
+      "key": "shopee:22794554573",
+      "marketplace": "shopee",
+      "id": "22794554573",
+      "title": "Micro-ondas Electrolux 20L cor Inox Espelhado com Função Tira Odor (MT30S)",
+      "title_norm": "micro ondas electrolux 20l cor inox espelhado com funcao tira odor mt30s",
+      "url": "https://shopee.com.br/product/1526836548/22794554573",
+      "affiliate_url": "https://s.shopee.com.br/AKZpxesME3",
+      "category": "Electrolux",
+      "bucket": "electrolux",
+      "posted_ts": 1786972868,
+      "posted_at": "2026-08-17T13:21:08.163713+00:00",
+      "score": 61.84
+    },
+    {
+      "key": "shopee:22197514607",
+      "marketplace": "shopee",
+      "id": "22197514607",
+      "title": "Ventilador de Mesa Prime Air Maxx Force 6 pás 60W AVTE01",
+      "title_norm": "ventilador de mesa prime air maxx force 6 pas 60w avte01",
+      "url": "https://shopee.com.br/product/811879342/22197514607",
+      "affiliate_url": "https://s.shopee.com.br/7KwEO8uuX6",
+      "category": "Britânia Oficial",
+      "bucket": "britania_oficial",
+      "posted_ts": 1786972804,
+      "posted_at": "2026-08-17T13:20:04.251719+00:00",
+      "score": 72.43
+    },
+    {
+      "key": "shopee:17934801158",
+      "marketplace": "shopee",
+      "id": "17934801158",
+      "title": "Micro-ondas Mondial Mo 01 21 B Potencia 1200w 60hz 21 Litros",
+      "title_norm": "micro ondas mondial mo 01 21 b potencia 1200w 60hz 21 litros",
+      "url": "https://shopee.com.br/product/359168917/17934801158",
+      "affiliate_url": "https://s.shopee.com.br/6AkH008DgK",
+      "category": "LOI BRASIL",
+      "bucket": "loi_brasil",
+      "posted_ts": 1786972740,
+      "posted_at": "2026-08-17T13:19:00.316496+00:00",
+      "score": 74.02
+    },
+    {
+      "key": "shopee:19975160032",
+      "marketplace": "shopee",
+      "id": "19975160032",
+      "title": "Panela De Pressão Fechamento Externo Antiaderente 4,5L Nacional",
+      "title_norm": "panela de pressao fechamento externo antiaderente 4 5l nacional",
+      "url": "https://shopee.com.br/product/359066629/19975160032",
+      "affiliate_url": "https://s.shopee.com.br/AUtG9xw7gX",
+      "category": "Alumínio Nacional",
+      "bucket": "casa_cozinha",
+      "posted_ts": 1786972676,
+      "posted_at": "2026-08-17T13:17:56.332431+00:00",
+      "score": 105.27
+    },
+    {
+      "key": "shopee:58252890418",
+      "marketplace": "shopee",
+      "id": "58252890418",
+      "title": "Aspirador De Pó Para Carro casa e cantos Soprador De Poeira Sem Fio Recarregável De Alta Potência",
+      "title_norm": "aspirador de po para carro casa e cantos soprador de poeira sem fio recarregavel de alta potencia",
+      "url": "https://shopee.com.br/product/1242940533/58252890418",
+      "affiliate_url": "https://s.shopee.com.br/5q7RvnQVrl",
+      "category": "Kero Kero LTDA",
+      "bucket": "casa_cozinha",
+      "posted_ts": 1786972604,
+      "posted_at": "2026-08-17T13:16:44.066962+00:00",
+      "score": 128.1
+    },
+    {
       "key": "mercadolivre:MLB4139317597",
       "marketplace": "mercadolivre",
       "id": "MLB4139317597",
@@ -5461,5 +5531,5 @@
       "score": 130.19
     }
   ],
-  "updated_at": "2026-08-17T13:03:31.881372+00:00"
+  "updated_at": "2026-08-17T13:21:08.163724+00:00"
 }
