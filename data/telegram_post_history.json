@@ -1,6 +1,20 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB4974714813",
+      "marketplace": "mercadolivre",
+      "id": "MLB4974714813",
+      "title": "Ração Gato Estimacat Premium Filhote Sabor Frango 10kg",
+      "title_norm": "racao gato estimacat premium filhote sabor frango 10kg",
+      "url": "https://www.mercadolivre.com.br/p/MLB66844874?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB66844874?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Pet",
+      "bucket": "pet",
+      "posted_ts": 1786996943,
+      "posted_at": "2026-08-17T20:02:23.510172+00:00",
+      "score": 154.83
+    },
+    {
       "key": "shopee:23993814406",
       "marketplace": "shopee",
       "id": "23993814406",
@@ -5923,5 +5937,5 @@
       "score": 130.19
     }
   ],
-  "updated_at": "2026-08-17T19:21:17.286148+00:00"
+  "updated_at": "2026-08-17T20:02:23.510183+00:00"
 }
