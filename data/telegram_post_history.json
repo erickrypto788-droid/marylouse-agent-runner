@@ -1,6 +1,76 @@
 {
   "posts": [
     {
+      "key": "shopee:23599242375",
+      "marketplace": "shopee",
+      "id": "23599242375",
+      "title": "Kit 6 Canetas Marca Texto em Gel Masterprint Não Mancha Ideal para Bíblia Vade Mecum e Estudos",
+      "title_norm": "kit 6 canetas marca texto em gel masterprint nao mancha ideal para biblia vade mecum e estudos",
+      "url": "https://shopee.com.br/product/715277512/23599242375",
+      "affiliate_url": "https://s.shopee.com.br/7KwGNl0mzd",
+      "category": "LeleMix Variedades",
+      "bucket": "lelemix_variedades",
+      "posted_ts": 1787008866,
+      "posted_at": "2026-08-17T23:21:06.202443+00:00",
+      "score": 79.71
+    },
+    {
+      "key": "shopee:58203876483",
+      "marketplace": "shopee",
+      "id": "58203876483",
+      "title": "Caderno Escrita Floral A5 Papel off set 75g Capa Dura Agenda Anotações Oração Presente Dia das Mulheres Mãe",
+      "title_norm": "caderno escrita floral a5 papel off set 75g capa dura agenda anotacoes oracao presente dia das mulheres mae",
+      "url": "https://shopee.com.br/product/1608117833/58203876483",
+      "affiliate_url": "https://s.shopee.com.br/7fZ5NqJdVP",
+      "category": "VillarShop",
+      "bucket": "pet",
+      "posted_ts": 1787008801,
+      "posted_at": "2026-08-17T23:20:01.983759+00:00",
+      "score": 80.89
+    },
+    {
+      "key": "shopee:58202507463",
+      "marketplace": "shopee",
+      "id": "58202507463",
+      "title": "Kit Material Escolar Completo Infantil Volta as Aulas Lápis de Cor Canetinhas Bic Apontador Cola Marca Texto Borracha",
+      "title_norm": "kit material escolar completo infantil volta as aulas lapis de cor canetinhas bic apontador cola marca texto borracha",
+      "url": "https://shopee.com.br/product/260934693/58202507463",
+      "affiliate_url": "https://s.shopee.com.br/2gAPQecfcQ",
+      "category": "ORIGEM_UD",
+      "bucket": "origem_ud",
+      "posted_ts": 1787008729,
+      "posted_at": "2026-08-17T23:18:49.186917+00:00",
+      "score": 82.13
+    },
+    {
+      "key": "shopee:22498860007",
+      "marketplace": "shopee",
+      "id": "22498860007",
+      "title": "Mini Guarda-Chuva Portátil Dobravel UPF50+ Cápsula Ultra Leve com Estojo – Proteção UV",
+      "title_norm": "mini guarda chuva portatil dobravel upf50 capsula ultra leve com estojo protecao uv",
+      "url": "https://shopee.com.br/product/1042165059/22498860007",
+      "affiliate_url": "https://s.shopee.com.br/5VUcCNz6eJ",
+      "category": "SUPERTOFU SHOP",
+      "bucket": "supertofu_shop",
+      "posted_ts": 1787008665,
+      "posted_at": "2026-08-17T23:17:45.040730+00:00",
+      "score": 88.6
+    },
+    {
+      "key": "shopee:23994163881",
+      "marketplace": "shopee",
+      "id": "23994163881",
+      "title": "Polaseal Plastico Para Plastificacão 100 Folhas Com Brilho Plastificar",
+      "title_norm": "polaseal plastico para plastificacao 100 folhas com brilho plastificar",
+      "url": "https://shopee.com.br/product/761647073/23994163881",
+      "affiliate_url": "https://s.shopee.com.br/9fKBA2eqR5",
+      "category": "Papel fotografico e Papelaria",
+      "bucket": "papel_fotografico_e_papelaria",
+      "posted_ts": 1787008600,
+      "posted_at": "2026-08-17T23:16:40.827861+00:00",
+      "score": 91.72
+    },
+    {
       "key": "shopee:58256512525",
       "marketplace": "shopee",
       "id": "58256512525",
@@ -6105,5 +6175,5 @@
       "score": 130.19
     }
   ],
-  "updated_at": "2026-08-17T22:21:06.952664+00:00"
+  "updated_at": "2026-08-17T23:21:06.202455+00:00"
 }
