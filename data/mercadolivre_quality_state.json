@@ -1,6 +1,21 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB4828628335",
+      "product_id": "MLB4828628335",
+      "catalog_product_id": "MLB44823770",
+      "item_id": "MLB4828628335",
+      "url": "https://www.mercadolivre.com.br/p/MLB44823770?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB44823770?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "perfume masculino amodil fonte verde perfume masculino 100ml",
+      "title": "Perfume masculino Amodil Fonte Verde Perfume masculino 100ml",
+      "category": "Beleza",
+      "price": 400.0,
+      "score": 111.0,
+      "posted_ts": 1786964537,
+      "posted_at": "2026-08-17T11:02:17.854099+00:00"
+    },
+    {
       "key": "mercadolivre:MLB5355035490",
       "product_id": "MLB5355035490",
       "catalog_product_id": "MLB48409016",
@@ -1079,52 +1094,7 @@
       "score": 140.81,
       "posted_ts": 1786791766,
       "posted_at": "2026-08-15T11:02:46.034174+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB7150469040",
-      "product_id": "MLB7150469040",
-      "catalog_product_id": "MLB59821316",
-      "item_id": "MLB7150469040",
-      "url": "https://www.mercadolivre.com.br/p/MLB59821316?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB59821316?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "tv box rbi smart tv box 4k prosb 2000 preto 5 geracao wi fi hdmi",
-      "title": "TV Box RBI Smart TV Box 4K PROSB-2000 Preto 5ª Geração Wi-Fi HDMI",
-      "category": "Pet",
-      "price": 176.9,
-      "score": 113.0,
-      "posted_ts": 1786788221,
-      "posted_at": "2026-08-15T10:03:41.729613+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB4918382621",
-      "product_id": "MLB4918382621",
-      "catalog_product_id": "MLB62010143",
-      "item_id": "MLB4918382621",
-      "url": "https://www.mercadolivre.com.br/p/MLB62010143?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB62010143?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "fone bluetooth redmi",
-      "title": "Fone Bluetooth Redmi",
-      "category": "Informática",
-      "price": 25.65,
-      "score": 114.83,
-      "posted_ts": 1786788141,
-      "posted_at": "2026-08-15T10:02:21.804093+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB5041528061",
-      "product_id": "MLB5041528061",
-      "catalog_product_id": "MLB43810473",
-      "item_id": "MLB5041528061",
-      "url": "https://www.mercadolivre.com.br/p/MLB43810473?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB43810473?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "kit ferramentas informatica cor preto",
-      "title": "Kit Ferramentas Informatica Cor Preto",
-      "category": "Ferramentas",
-      "price": 127.5,
-      "score": 88.0,
-      "posted_ts": 1786781018,
-      "posted_at": "2026-08-15T08:03:38.856701+00:00"
     }
   ],
-  "updated_at": "2026-08-17T08:03:24.806762+00:00"
+  "updated_at": "2026-08-17T11:02:17.854108+00:00"
 }
