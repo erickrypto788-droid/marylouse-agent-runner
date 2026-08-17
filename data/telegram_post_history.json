@@ -1,6 +1,76 @@
 {
   "posts": [
     {
+      "key": "shopee:58256213399",
+      "marketplace": "shopee",
+      "id": "58256213399",
+      "title": "Kit 03 Body Splash Arabe Feminino e Masculino Face Beautiful 200ml",
+      "title_norm": "kit 03 body splash arabe feminino e masculino face beautiful 200ml",
+      "url": "https://shopee.com.br/product/323429761/58256213399",
+      "affiliate_url": "https://s.shopee.com.br/LmU7Ok8zD",
+      "category": "Shop Tall 2",
+      "bucket": "shop_tall_2",
+      "posted_ts": 1786976467,
+      "posted_at": "2026-08-17T14:21:07.233824+00:00",
+      "score": 79.86
+    },
+    {
+      "key": "shopee:25046330542",
+      "marketplace": "shopee",
+      "id": "25046330542",
+      "title": "Celimax Brightening Pore+ Dark Spot Cream 35ml, 7ml",
+      "title_norm": "celimax brightening pore dark spot cream 35ml 7ml",
+      "url": "https://shopee.com.br/product/457864097/25046330542",
+      "affiliate_url": "https://s.shopee.com.br/5q7QfVcPEg",
+      "category": "koksara.kbeauty",
+      "bucket": "koksara_kbeauty",
+      "posted_ts": 1786976403,
+      "posted_at": "2026-08-17T14:20:03.017063+00:00",
+      "score": 87.08
+    },
+    {
+      "key": "shopee:23498778973",
+      "marketplace": "shopee",
+      "id": "23498778973",
+      "title": "Protetor Solar Facial Hidrabene Clareador FPS 70 Antissinais Clareia a pele Toque Seco 50g Unidade ou Kit",
+      "title_norm": "protetor solar facial hidrabene clareador fps 70 antissinais clareia a pele toque seco 50g unidade ou kit",
+      "url": "https://shopee.com.br/product/314834922/23498778973",
+      "affiliate_url": "https://s.shopee.com.br/904TlkLFIT",
+      "category": "Esthik ",
+      "bucket": "esthik",
+      "posted_ts": 1786976333,
+      "posted_at": "2026-08-17T14:18:53.934276+00:00",
+      "score": 91.13
+    },
+    {
+      "key": "shopee:18297829933",
+      "marketplace": "shopee",
+      "id": "18297829933",
+      "title": "Perfume Grace Midnight Feminino Frasco Antigo Hinode 100ml",
+      "title_norm": "perfume grace midnight feminino frasco antigo hinode 100ml",
+      "url": "https://shopee.com.br/product/876865394/18297829933",
+      "affiliate_url": "https://s.shopee.com.br/BT3v5gNYj",
+      "category": "Hinode ",
+      "bucket": "beleza",
+      "posted_ts": 1786976269,
+      "posted_at": "2026-08-17T14:17:49.816427+00:00",
+      "score": 135.15
+    },
+    {
+      "key": "shopee:23694158325",
+      "marketplace": "shopee",
+      "id": "23694158325",
+      "title": "BODY SPLASH FEMININO SUCCÈS VERT 200ML - PRIMACIAL PERFUME FLORAL CITRICO",
+      "title_norm": "body splash feminino succes vert 200ml primacial perfume floral citrico",
+      "url": "https://shopee.com.br/product/1295467768/23694158325",
+      "affiliate_url": "https://s.shopee.com.br/20ui6SZOq8",
+      "category": "Primacial",
+      "bucket": "beleza",
+      "posted_ts": 1786976205,
+      "posted_at": "2026-08-17T14:16:45.694415+00:00",
+      "score": 135.22
+    },
+    {
       "key": "mercadolivre:MLB6665533644",
       "marketplace": "mercadolivre",
       "id": "MLB6665533644",
@@ -5545,5 +5615,5 @@
       "score": 130.19
     }
   ],
-  "updated_at": "2026-08-17T14:03:01.308526+00:00"
+  "updated_at": "2026-08-17T14:21:07.233837+00:00"
 }
