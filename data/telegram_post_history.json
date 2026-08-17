@@ -1,6 +1,76 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB7416849144",
+      "marketplace": "mercadolivre",
+      "id": "MLB7416849144",
+      "title": "Kaisasa Shampoo Tonalizante Para Cobrir Cabelo Cinzento，shampoo cabelo branco，shampoo barba，shampoo redutor grisalhos，shampoo tonalizante preto，hair dye shampoo，black hair dye，500ml-Preto",
+      "title_norm": "kaisasa shampoo tonalizante para cobrir cabelo cinzento shampoo cabelo branco shampoo barba shampoo redutor grisalhos shampoo tonalizante preto hair dye shampoo black hair dye 500ml preto",
+      "url": "https://www.mercadolivre.com.br/p/MLB50178919?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB50178919?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Beleza",
+      "bucket": "beleza",
+      "posted_ts": 1786947004,
+      "posted_at": "2026-08-17T06:10:04.550363+00:00",
+      "score": 88.0
+    },
+    {
+      "key": "mercadolivre:MLB6581237526",
+      "marketplace": "mercadolivre",
+      "id": "MLB6581237526",
+      "title": "100 Saco De Lixo 60l Preto Saco Lixo Resistente Reforçado",
+      "title_norm": "100 saco de lixo 60l preto saco lixo resistente reforcado",
+      "url": "https://www.mercadolivre.com.br/p/MLB61910184?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB61910184?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Supermercados",
+      "bucket": "supermercados",
+      "posted_ts": 1786946932,
+      "posted_at": "2026-08-17T06:08:52.550978+00:00",
+      "score": 89.0
+    },
+    {
+      "key": "mercadolivre:MLB6302363224",
+      "marketplace": "mercadolivre",
+      "id": "MLB6302363224",
+      "title": "35 Escova Dental + 35 Porta Escova Dental + 35 Creme Dental Sortidas",
+      "title_norm": "35 escova dental 35 porta escova dental 35 creme dental sortidas",
+      "url": "https://www.mercadolivre.com.br/p/MLB65932271?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB65932271?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Supermercados",
+      "bucket": "supermercados",
+      "posted_ts": 1786946867,
+      "posted_at": "2026-08-17T06:07:47.907235+00:00",
+      "score": 89.0
+    },
+    {
+      "key": "mercadolivre:MLB4740842215",
+      "marketplace": "mercadolivre",
+      "id": "MLB4740842215",
+      "title": "Amaciante Triex Amaciante Max Blue em frasco 5 L",
+      "title_norm": "amaciante triex amaciante max blue em frasco 5 l",
+      "url": "https://www.mercadolivre.com.br/p/MLB35613935?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB35613935?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Supermercados",
+      "bucket": "supermercado",
+      "posted_ts": 1786946799,
+      "posted_at": "2026-08-17T06:06:39.929518+00:00",
+      "score": 114.0
+    },
+    {
+      "key": "mercadolivre:MLB6428938830",
+      "marketplace": "mercadolivre",
+      "id": "MLB6428938830",
+      "title": "Fralda Pampers Supersec M 30 Unidades",
+      "title_norm": "fralda pampers supersec m 30 unidades",
+      "url": "https://www.mercadolivre.com.br/p/MLB36175310?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB36175310?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Mãe e Bebê",
+      "bucket": "fraldas",
+      "posted_ts": 1786946735,
+      "posted_at": "2026-08-17T06:05:35.248830+00:00",
+      "score": 130.0
+    },
+    {
       "key": "shopee:57310981122",
       "marketplace": "shopee",
       "id": "57310981122",
@@ -4943,5 +5013,5 @@
       "score": 130.19
     }
   ],
-  "updated_at": "2026-08-17T05:21:04.909923+00:00"
+  "updated_at": "2026-08-17T06:10:04.550373+00:00"
 }
