@@ -1,6 +1,76 @@
 {
   "posts": [
     {
+      "key": "shopee:23893178722",
+      "marketplace": "shopee",
+      "id": "23893178722",
+      "title": "Blusa Manga Princesa Curta Elegante Tendência Moda Maior Plus Size Botão Moda Casual Tecido Dunas",
+      "title_norm": "blusa manga princesa curta elegante tendencia moda maior plus size botao moda casual tecido dunas",
+      "url": "https://shopee.com.br/product/1117831638/23893178722",
+      "affiliate_url": "https://s.shopee.com.br/7VFeJxxjLY",
+      "category": "Maria Gabi Moda",
+      "bucket": "calcados",
+      "posted_ts": 1786958472,
+      "posted_at": "2026-08-17T09:21:12.917888+00:00",
+      "score": 71.63
+    },
+    {
+      "key": "shopee:22593625562",
+      "marketplace": "shopee",
+      "id": "22593625562",
+      "title": "Kit 5 Camiseta Segunda Pele Proteção Solar Uv50 Praia Verão P ao G3 Plus Size",
+      "title_norm": "kit 5 camiseta segunda pele protecao solar uv50 praia verao p ao g3 plus size",
+      "url": "https://shopee.com.br/product/897603081/22593625562",
+      "affiliate_url": "https://s.shopee.com.br/2LXZUsYppR",
+      "category": "Variedades_Infinity_",
+      "bucket": "variedades_infinity",
+      "posted_ts": 1786958404,
+      "posted_at": "2026-08-17T09:20:04.569822+00:00",
+      "score": 71.72
+    },
+    {
+      "key": "shopee:23994512634",
+      "marketplace": "shopee",
+      "id": "23994512634",
+      "title": "Vestido Feminino Alça Regata Soltinho Rodado Plus Size Premium",
+      "title_norm": "vestido feminino alca regata soltinho rodado plus size premium",
+      "url": "https://shopee.com.br/product/597606126/23994512634",
+      "affiliate_url": "https://s.shopee.com.br/3g2x5KTpO1",
+      "category": "De mais modas",
+      "bucket": "moda_feminina",
+      "posted_ts": 1786958336,
+      "posted_at": "2026-08-17T09:18:56.699130+00:00",
+      "score": 85.55
+    },
+    {
+      "key": "shopee:58205434795",
+      "marketplace": "shopee",
+      "id": "58205434795",
+      "title": "Kit 2 Calça Tradicional de Trabalho Plus Size 100% Algodão 36 ao 58",
+      "title_norm": "kit 2 calca tradicional de trabalho plus size 100 algodao 36 ao 58",
+      "url": "https://shopee.com.br/product/1522955348/58205434795",
+      "affiliate_url": "https://s.shopee.com.br/1gHsheflxp",
+      "category": "Dal Bo Store",
+      "bucket": "dal_bo_store",
+      "posted_ts": 1786958267,
+      "posted_at": "2026-08-17T09:17:47.143274+00:00",
+      "score": 87.3
+    },
+    {
+      "key": "shopee:22294543781",
+      "marketplace": "shopee",
+      "id": "22294543781",
+      "title": "Calça Legging Bolha PLUS SIZE disfarça celulite",
+      "title_norm": "calca legging bolha plus size disfarca celulite",
+      "url": "https://shopee.com.br/product/1645205717/22294543781",
+      "affiliate_url": "https://s.shopee.com.br/2gAPtUbxvv",
+      "category": "amfitbr",
+      "bucket": "moda_feminina",
+      "posted_ts": 1786958199,
+      "posted_at": "2026-08-17T09:16:39.204628+00:00",
+      "score": 98.37
+    },
+    {
       "key": "shopee:28127624973",
       "marketplace": "shopee",
       "id": "28127624973",
@@ -5223,5 +5293,5 @@
       "score": 130.19
     }
   ],
-  "updated_at": "2026-08-17T08:21:23.467360+00:00"
+  "updated_at": "2026-08-17T09:21:12.917899+00:00"
 }
