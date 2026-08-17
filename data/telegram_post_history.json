@@ -1,6 +1,76 @@
 {
   "posts": [
     {
+      "key": "shopee:28127624973",
+      "marketplace": "shopee",
+      "id": "28127624973",
+      "title": "Kit 6 Cuecas Boxer Reebok Masculina Original Lisa Microfibra",
+      "title_norm": "kit 6 cuecas boxer reebok masculina original lisa microfibra",
+      "url": "https://shopee.com.br/product/328687466/28127624973",
+      "affiliate_url": "https://s.shopee.com.br/3B6f5scRUz",
+      "category": "UP UNDERWEAR",
+      "bucket": "up_underwear",
+      "posted_ts": 1786954883,
+      "posted_at": "2026-08-17T08:21:23.467348+00:00",
+      "score": 99.77
+    },
+    {
+      "key": "shopee:13443602897",
+      "marketplace": "shopee",
+      "id": "13443602897",
+      "title": "Kit 10 Cuecas Boxer Roupas Masculinas",
+      "title_norm": "kit 10 cuecas boxer roupas masculinas",
+      "url": "https://shopee.com.br/product/573714944/13443602897",
+      "affiliate_url": "https://s.shopee.com.br/30nEtZd4pw",
+      "category": "STOREMODASJF",
+      "bucket": "storemodasjf",
+      "posted_ts": 1786954813,
+      "posted_at": "2026-08-17T08:20:13.625124+00:00",
+      "score": 100.16
+    },
+    {
+      "key": "shopee:23092483428",
+      "marketplace": "shopee",
+      "id": "23092483428",
+      "title": "Calça Sarja Masculino Alfaiataria Esporte Fino com Elastano",
+      "title_norm": "calca sarja masculino alfaiataria esporte fino com elastano",
+      "url": "https://shopee.com.br/product/712776638/23092483428",
+      "affiliate_url": "https://s.shopee.com.br/8fRcyP3jpD",
+      "category": "Clim Colld Camisetas",
+      "bucket": "clim_colld_camisetas",
+      "posted_ts": 1786954745,
+      "posted_at": "2026-08-17T08:19:05.989348+00:00",
+      "score": 100.44
+    },
+    {
+      "key": "shopee:58257868156",
+      "marketplace": "shopee",
+      "id": "58257868156",
+      "title": "Camisa Gola Polo Masculina 100% Algodão Camiseta Basica Para Homem Do P ao Extra Grande",
+      "title_norm": "camisa gola polo masculina 100 algodao camiseta basica para homem do p ao extra grande",
+      "url": "https://shopee.com.br/product/1291329147/58257868156",
+      "affiliate_url": "https://s.shopee.com.br/BT4qmR9za",
+      "category": "use.blizzie",
+      "bucket": "use_blizzie",
+      "posted_ts": 1786954678,
+      "posted_at": "2026-08-17T08:17:58.228167+00:00",
+      "score": 103.19
+    },
+    {
+      "key": "shopee:23696973145",
+      "marketplace": "shopee",
+      "id": "23696973145",
+      "title": "Calça Jeans Masculina Premium Tradicional e Alta Qualidade",
+      "title_norm": "calca jeans masculina premium tradicional e alta qualidade",
+      "url": "https://shopee.com.br/product/1079083566/23696973145",
+      "affiliate_url": "https://s.shopee.com.br/5q7RbCEWZQ",
+      "category": "New Collection Jeans",
+      "bucket": "new_collection_jeans",
+      "posted_ts": 1786954604,
+      "posted_at": "2026-08-17T08:16:44.544347+00:00",
+      "score": 103.62
+    },
+    {
       "key": "mercadolivre:MLB5355035490",
       "marketplace": "mercadolivre",
       "id": "MLB5355035490",
@@ -5153,5 +5223,5 @@
       "score": 130.19
     }
   ],
-  "updated_at": "2026-08-17T08:03:24.802103+00:00"
+  "updated_at": "2026-08-17T08:21:23.467360+00:00"
 }
