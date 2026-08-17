@@ -1,6 +1,36 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB4139317597",
+      "product_id": "MLB4139317597",
+      "catalog_product_id": "MLB23649057",
+      "item_id": "MLB4139317597",
+      "url": "https://www.mercadolivre.com.br/p/MLB23649057?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB23649057?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "furadeira parafusadeira imp c parafusadeira imp dlx2336syx",
+      "title": "Furadeira Parafusadeira Imp C/ Parafusadeira Imp Dlx2336syx",
+      "category": "Ferramentas",
+      "price": 1659.5,
+      "score": 108.0,
+      "posted_ts": 1786971811,
+      "posted_at": "2026-08-17T13:03:31.887204+00:00"
+    },
+    {
+      "key": "mercadolivre:MLB5183821060",
+      "product_id": "MLB5183821060",
+      "catalog_product_id": "MLB19765397",
+      "item_id": "MLB5183821060",
+      "url": "https://www.mercadolivre.com.br/p/MLB19765397?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB19765397?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "combo furadeira parafusadeira df333d parafusadeira de impacto td110d 12v clx224sax",
+      "title": "Combo Furadeira Parafusadeira DF333D + Parafusadeira de Impacto TD110D 12V - CLX224SAX",
+      "category": "Ferramentas",
+      "price": 1214.0,
+      "score": 111.0,
+      "posted_ts": 1786971742,
+      "posted_at": "2026-08-17T13:02:22.311071+00:00"
+    },
+    {
       "key": "mercadolivre:MLB4828628335",
       "product_id": "MLB4828628335",
       "catalog_product_id": "MLB44823770",
@@ -1049,52 +1079,7 @@
       "score": 138.47,
       "posted_ts": 1786802557,
       "posted_at": "2026-08-15T14:02:37.434673+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB3001466030",
-      "product_id": "MLB3001466030",
-      "catalog_product_id": "MLB22958206",
-      "item_id": "MLB3001466030",
-      "url": "https://www.mercadolivre.com.br/p/MLB22958206?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB22958206?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "aparelho monitor pressao arterial portatil pulso omron",
-      "title": "Aparelho Monitor Pressão Arterial Portátil Pulso Omron",
-      "category": "Informática",
-      "price": 180.0,
-      "score": 88.0,
-      "posted_ts": 1786798933,
-      "posted_at": "2026-08-15T13:02:13.921074+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB4778884663",
-      "product_id": "MLB4778884663",
-      "catalog_product_id": "MLB34729625",
-      "item_id": "MLB4778884663",
-      "url": "https://www.mercadolivre.com.br/p/MLB34729625?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB34729625?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "celular samsung galaxy a55 5g cor azul celeste",
-      "title": "Celular Samsung Galaxy A55 5g Cor Azul-celeste",
-      "category": "Informática",
-      "price": 2799.0,
-      "score": 134.89,
-      "posted_ts": 1786791834,
-      "posted_at": "2026-08-15T11:03:54.336910+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB7174659716",
-      "product_id": "MLB7174659716",
-      "catalog_product_id": "MLB59103594",
-      "item_id": "MLB7174659716",
-      "url": "https://www.mercadolivre.com.br/p/MLB59103594?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB59103594?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "smartphone xiaomi 15t 5g 12 12gb ram 512gb cinza",
-      "title": "Smartphone Xiaomi 15t 5g 12+12gb Ram + 512gb, Cinza",
-      "category": "Informática",
-      "price": 4509.0,
-      "score": 140.81,
-      "posted_ts": 1786791766,
-      "posted_at": "2026-08-15T11:02:46.034174+00:00"
     }
   ],
-  "updated_at": "2026-08-17T11:02:17.854108+00:00"
+  "updated_at": "2026-08-17T13:03:31.887214+00:00"
 }

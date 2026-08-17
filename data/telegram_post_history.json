@@ -1,6 +1,34 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB4139317597",
+      "marketplace": "mercadolivre",
+      "id": "MLB4139317597",
+      "title": "Furadeira Parafusadeira Imp C/ Parafusadeira Imp Dlx2336syx",
+      "title_norm": "furadeira parafusadeira imp c parafusadeira imp dlx2336syx",
+      "url": "https://www.mercadolivre.com.br/p/MLB23649057?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB23649057?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Ferramentas",
+      "bucket": "ferramentas",
+      "posted_ts": 1786971811,
+      "posted_at": "2026-08-17T13:03:31.881360+00:00",
+      "score": 108.0
+    },
+    {
+      "key": "mercadolivre:MLB5183821060",
+      "marketplace": "mercadolivre",
+      "id": "MLB5183821060",
+      "title": "Combo Furadeira Parafusadeira DF333D + Parafusadeira de Impacto TD110D 12V - CLX224SAX",
+      "title_norm": "combo furadeira parafusadeira df333d parafusadeira de impacto td110d 12v clx224sax",
+      "url": "https://www.mercadolivre.com.br/p/MLB19765397?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB19765397?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Ferramentas",
+      "bucket": "ferramentas",
+      "posted_ts": 1786971742,
+      "posted_at": "2026-08-17T13:02:22.304995+00:00",
+      "score": 111.0
+    },
+    {
       "key": "shopee:27791019433",
       "marketplace": "shopee",
       "id": "27791019433",
@@ -5433,5 +5461,5 @@
       "score": 130.19
     }
   ],
-  "updated_at": "2026-08-17T12:21:09.745387+00:00"
+  "updated_at": "2026-08-17T13:03:31.881372+00:00"
 }
