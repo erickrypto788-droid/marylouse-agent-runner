@@ -1,6 +1,48 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB4712632217",
+      "marketplace": "mercadolivre",
+      "id": "MLB4712632217",
+      "title": "Meia Calça Feminina Térmica Plus Size",
+      "title_norm": "meia calca feminina termica plus size",
+      "url": "https://www.mercadolivre.com.br/p/MLB66992733?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB66992733?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Moda Feminina",
+      "bucket": "moda_feminina",
+      "posted_ts": 1786950350,
+      "posted_at": "2026-08-17T07:05:50.073640+00:00",
+      "score": 88.0
+    },
+    {
+      "key": "mercadolivre:MLB5049841699",
+      "marketplace": "mercadolivre",
+      "id": "MLB5049841699",
+      "title": "Camiseta feminina modeladora",
+      "title_norm": "camiseta feminina modeladora",
+      "url": "https://www.mercadolivre.com.br/p/MLB59779508?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB59779508?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Moda Feminina",
+      "bucket": "moda_feminina",
+      "posted_ts": 1786950283,
+      "posted_at": "2026-08-17T07:04:43.393036+00:00",
+      "score": 88.0
+    },
+    {
+      "key": "mercadolivre:MLB4617422337",
+      "marketplace": "mercadolivre",
+      "id": "MLB4617422337",
+      "title": "Cropped Feminino Manga Comprida Proteção Solar Malha Fria Uv Cor Preto Tamanho P",
+      "title_norm": "cropped feminino manga comprida protecao solar malha fria uv cor preto tamanho p",
+      "url": "https://www.mercadolivre.com.br/p/MLB68298172?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB68298172?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Moda Feminina",
+      "bucket": "moda_feminina",
+      "posted_ts": 1786950215,
+      "posted_at": "2026-08-17T07:03:35.623842+00:00",
+      "score": 107.35
+    },
+    {
       "key": "shopee:55913136538",
       "marketplace": "shopee",
       "id": "55913136538",
@@ -5027,5 +5069,5 @@
       "score": 130.19
     }
   ],
-  "updated_at": "2026-08-17T06:16:40.434858+00:00"
+  "updated_at": "2026-08-17T07:05:50.073650+00:00"
 }
