@@ -1,6 +1,76 @@
 {
   "posts": [
     {
+      "key": "shopee:27791019433",
+      "marketplace": "shopee",
+      "id": "27791019433",
+      "title": "Adaptadores Tomada Universal Para Viagem Internacional Compatível Em +150 Países",
+      "title_norm": "adaptadores tomada universal para viagem internacional compativel em 150 paises",
+      "url": "https://shopee.com.br/product/331720585/27791019433",
+      "affiliate_url": "https://s.shopee.com.br/3B6ggmGcJm",
+      "category": "19BR SHOP",
+      "bucket": "19br_shop",
+      "posted_ts": 1786969269,
+      "posted_at": "2026-08-17T12:21:09.745377+00:00",
+      "score": 77.75
+    },
+    {
+      "key": "shopee:23194677648",
+      "marketplace": "shopee",
+      "id": "23194677648",
+      "title": "Capa Case Capinha Anti Impacto \\ + Película 3D Vidro Temperado Para Samsung s20 s21 s22 s23 s24 s25 FE plus",
+      "title_norm": "capa case capinha anti impacto pelicula 3d vidro temperado para samsung s20 s21 s22 s23 s24 s25 fe plus",
+      "url": "https://shopee.com.br/product/883556645/23194677648",
+      "affiliate_url": "https://s.shopee.com.br/1VyRNJEKCf",
+      "category": "TzSpark Importacao e ExportacaO",
+      "bucket": "tzspark_importacao_e_exportacao",
+      "posted_ts": 1786969205,
+      "posted_at": "2026-08-17T12:20:05.637070+00:00",
+      "score": 82.06
+    },
+    {
+      "key": "shopee:25896258794",
+      "marketplace": "shopee",
+      "id": "25896258794",
+      "title": "Fones De Ouvido Compre Um E Ganhe Fone Único Tampões De Longa Espera Redução De Ruído Esportivo Empresarial Compatível C",
+      "title_norm": "fones de ouvido compre um e ganhe fone unico tampoes de longa espera reducao de ruido esportivo empresarial compativel c",
+      "url": "https://shopee.com.br/product/1006215031/25896258794",
+      "affiliate_url": "https://s.shopee.com.br/qika5Yb9F",
+      "category": "Choice Oficial",
+      "bucket": "choice_oficial",
+      "posted_ts": 1786969132,
+      "posted_at": "2026-08-17T12:18:52.621591+00:00",
+      "score": 91.86
+    },
+    {
+      "key": "shopee:20798323083",
+      "marketplace": "shopee",
+      "id": "20798323083",
+      "title": "Power Bank 10000mAh para iPhone: Turbo Carregamento Sem Fio Magnético, Compacto e Alta Potência",
+      "title_norm": "power bank 10000mah para iphone turbo carregamento sem fio magnetico compacto e alta potencia",
+      "url": "https://shopee.com.br/product/1562705368/20798323083",
+      "affiliate_url": "https://s.shopee.com.br/7fZ632v5Ly",
+      "category": "Nex.Shop",
+      "bucket": "celulares",
+      "posted_ts": 1786969068,
+      "posted_at": "2026-08-17T12:17:48.506185+00:00",
+      "score": 128.53
+    },
+    {
+      "key": "shopee:58252708594",
+      "marketplace": "shopee",
+      "id": "58252708594",
+      "title": "Kit 2 cartões de memória 128gb ultra muito mais memória smartphone",
+      "title_norm": "kit 2 cartoes de memoria 128gb ultra muito mais memoria smartphone",
+      "url": "https://shopee.com.br/product/1562775719/58252708594",
+      "affiliate_url": "https://s.shopee.com.br/7fZ4idmefA",
+      "category": "V&V SHOP",
+      "bucket": "celulares",
+      "posted_ts": 1786969002,
+      "posted_at": "2026-08-17T12:16:42.226456+00:00",
+      "score": 128.84
+    },
+    {
       "key": "shopee:23694435102",
       "marketplace": "shopee",
       "id": "23694435102",
@@ -5363,5 +5433,5 @@
       "score": 130.19
     }
   ],
-  "updated_at": "2026-08-17T11:17:45.341626+00:00"
+  "updated_at": "2026-08-17T12:21:09.745387+00:00"
 }
