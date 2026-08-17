@@ -1,6 +1,34 @@
 {
   "posts": [
     {
+      "key": "shopee:23694435102",
+      "marketplace": "shopee",
+      "id": "23694435102",
+      "title": "Sandália Rasteira Feminina com Nó Bico Quadrado Confortável e Elegante para Dia a Dia",
+      "title_norm": "sandalia rasteira feminina com no bico quadrado confortavel e elegante para dia a dia",
+      "url": "https://shopee.com.br/product/1482605304/23694435102",
+      "affiliate_url": "https://s.shopee.com.br/2BE86PED5B",
+      "category": "GOIS E MORAIS",
+      "bucket": "calcados",
+      "posted_ts": 1786965465,
+      "posted_at": "2026-08-17T11:17:45.341613+00:00",
+      "score": 107.5
+    },
+    {
+      "key": "shopee:23499166895",
+      "marketplace": "shopee",
+      "id": "23499166895",
+      "title": "Babuche Feminina Adulta Sandália Antiderrapante Leve e Confortável Piscina Praia",
+      "title_norm": "babuche feminina adulta sandalia antiderrapante leve e confortavel piscina praia",
+      "url": "https://shopee.com.br/product/1464085113/23499166895",
+      "affiliate_url": "https://s.shopee.com.br/2VqyV1CwPH",
+      "category": "Use & Abuse",
+      "bucket": "calcados",
+      "posted_ts": 1786965401,
+      "posted_at": "2026-08-17T11:16:41.195138+00:00",
+      "score": 108.82
+    },
+    {
       "key": "mercadolivre:MLB4828628335",
       "marketplace": "mercadolivre",
       "id": "MLB4828628335",
@@ -5335,5 +5363,5 @@
       "score": 130.19
     }
   ],
-  "updated_at": "2026-08-17T11:02:17.848497+00:00"
+  "updated_at": "2026-08-17T11:17:45.341626+00:00"
 }
