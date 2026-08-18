@@ -1,6 +1,48 @@
 {
   "posts": [
     {
+      "key": "shopee:11298889483",
+      "marketplace": "shopee",
+      "id": "11298889483",
+      "title": "Kit chinelo Luiza Liz e necessaire bolsa de mão pequena kit dia a dia blogueira",
+      "title_norm": "kit chinelo luiza liz e necessaire bolsa de mao pequena kit dia a dia blogueira",
+      "url": "https://shopee.com.br/product/333046879/11298889483",
+      "affiliate_url": "https://s.shopee.com.br/9pdcUPeseX",
+      "category": "Luiza Liz calçados",
+      "bucket": "calcados",
+      "posted_ts": 1787070050,
+      "posted_at": "2026-08-18T16:20:50.490919+00:00",
+      "score": 93.26
+    },
+    {
+      "key": "shopee:23993570865",
+      "marketplace": "shopee",
+      "id": "23993570865",
+      "title": "Mochila feminina casual e versátil leve e à prova d'água com grande capacidade para estudantes",
+      "title_norm": "mochila feminina casual e versatil leve e a prova d agua com grande capacidade para estudantes",
+      "url": "https://shopee.com.br/product/404648195/23993570865",
+      "affiliate_url": "https://s.shopee.com.br/8fRf6GaaiY",
+      "category": "S.X.Z.SHOP.BRAZIL",
+      "bucket": "bolsas",
+      "posted_ts": 1787069969,
+      "posted_at": "2026-08-18T16:19:29.757337+00:00",
+      "score": 103.07
+    },
+    {
+      "key": "shopee:20399869941",
+      "marketplace": "shopee",
+      "id": "20399869941",
+      "title": "Bolsa de Praia Feminina Alça de Corda Elegante Grande e Resistente",
+      "title_norm": "bolsa de praia feminina alca de corda elegante grande e resistente",
+      "url": "https://shopee.com.br/product/1448484843/20399869941",
+      "affiliate_url": "https://s.shopee.com.br/8KooheXScz",
+      "category": "YL.BR.BOLSAS",
+      "bucket": "bolsas",
+      "posted_ts": 1787069905,
+      "posted_at": "2026-08-18T16:18:25.697762+00:00",
+      "score": 103.61
+    },
+    {
       "key": "shopee:22594885962",
       "marketplace": "shopee",
       "id": "22594885962",
@@ -7407,5 +7449,5 @@
       "score": 130.19
     }
   ],
-  "updated_at": "2026-08-18T15:22:48.287491+00:00"
+  "updated_at": "2026-08-18T16:20:50.490934+00:00"
 }
