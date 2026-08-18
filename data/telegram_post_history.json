@@ -1,6 +1,76 @@
 {
   "posts": [
     {
+      "key": "shopee:22293752341",
+      "marketplace": "shopee",
+      "id": "22293752341",
+      "title": "kit 03 short dool pijaminhas coloridos roupa de dormir",
+      "title_norm": "kit 03 short dool pijaminhas coloridos roupa de dormir",
+      "url": "https://shopee.com.br/product/462522142/22293752341",
+      "affiliate_url": "https://s.shopee.com.br/1gHttpRMXa",
+      "category": "HELENA BORDEAUX MODA FITNESS",
+      "bucket": "helena_bordeaux_moda_fitness",
+      "posted_ts": 1787091673,
+      "posted_at": "2026-08-18T22:21:13.758705+00:00",
+      "score": 95.12
+    },
+    {
+      "key": "shopee:23694913081",
+      "marketplace": "shopee",
+      "id": "23694913081",
+      "title": "Calça Pantalona Feminino Tecido texturado Calça Feminino Cintura Alta Pantalona Elegante",
+      "title_norm": "calca pantalona feminino tecido texturado calca feminino cintura alta pantalona elegante",
+      "url": "https://shopee.com.br/product/1277805925/23694913081",
+      "affiliate_url": "https://s.shopee.com.br/3LQ7stCM7I",
+      "category": "NAHELY STORE",
+      "bucket": "nahely_store",
+      "posted_ts": 1787091609,
+      "posted_at": "2026-08-18T22:20:09.911548+00:00",
+      "score": 97.85
+    },
+    {
+      "key": "shopee:44221756147",
+      "marketplace": "shopee",
+      "id": "44221756147",
+      "title": "Vestido Feminino Sem Manga Midi Elegante Soltinho Casual Festa Linho Premium",
+      "title_norm": "vestido feminino sem manga midi elegante soltinho casual festa linho premium",
+      "url": "https://shopee.com.br/product/675760682/44221756147",
+      "affiliate_url": "https://s.shopee.com.br/9zx1p8eJYT",
+      "category": "Anabystore",
+      "bucket": "moda_feminina",
+      "posted_ts": 1787091539,
+      "posted_at": "2026-08-18T22:18:59.021722+00:00",
+      "score": 98.31
+    },
+    {
+      "key": "shopee:58210105679",
+      "marketplace": "shopee",
+      "id": "58210105679",
+      "title": "Kit 4 Top Cropped Academia Forro Duplo Microfibra Feminino",
+      "title_norm": "kit 4 top cropped academia forro duplo microfibra feminino",
+      "url": "https://shopee.com.br/product/1175999222/58210105679",
+      "affiliate_url": "https://s.shopee.com.br/4Vc3wcv0zv",
+      "category": "Dnt modaintima",
+      "bucket": "moda_feminina",
+      "posted_ts": 1787091475,
+      "posted_at": "2026-08-18T22:17:55.059501+00:00",
+      "score": 101.44
+    },
+    {
+      "key": "shopee:42829202045",
+      "marketplace": "shopee",
+      "id": "42829202045",
+      "title": "Conjunto Com 1 ou 2 Body Tule Feminino Manga Longa Transparente",
+      "title_norm": "conjunto com 1 ou 2 body tule feminino manga longa transparente",
+      "url": "https://shopee.com.br/product/439288467/42829202045",
+      "affiliate_url": "https://s.shopee.com.br/W5xlyOWAh",
+      "category": "Fabrica_da_moda",
+      "bucket": "fabrica_da_moda",
+      "posted_ts": 1787091407,
+      "posted_at": "2026-08-18T22:16:47.402978+00:00",
+      "score": 103.19
+    },
+    {
       "key": "mercadolivre:MLB3845821781",
       "marketplace": "mercadolivre",
       "id": "MLB3845821781",
@@ -7771,5 +7841,5 @@
       "score": 130.19
     }
   ],
-  "updated_at": "2026-08-18T21:03:25.190040+00:00"
+  "updated_at": "2026-08-18T22:21:13.758716+00:00"
 }
