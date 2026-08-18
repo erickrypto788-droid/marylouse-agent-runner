@@ -1,6 +1,76 @@
 {
   "posts": [
     {
+      "key": "shopee:14642418245",
+      "marketplace": "shopee",
+      "id": "14642418245",
+      "title": "Calça Masculina Esporte Fino Estilo Social - Sport Fino",
+      "title_norm": "calca masculina esporte fino estilo social sport fino",
+      "url": "https://shopee.com.br/product/661543932/14642418245",
+      "affiliate_url": "https://s.shopee.com.br/904UhQOASw",
+      "category": "Urban Zone Jeans ",
+      "bucket": "urban_zone_jeans",
+      "posted_ts": 1787095264,
+      "posted_at": "2026-08-18T23:21:04.319136+00:00",
+      "score": 89.66
+    },
+    {
+      "key": "shopee:22697148685",
+      "marketplace": "shopee",
+      "id": "22697148685",
+      "title": "Jaqueta Bobojaco Impermeável Becker Nylon Puffer Masculino com Bolsos e Capuz",
+      "title_norm": "jaqueta bobojaco impermeavel becker nylon puffer masculino com bolsos e capuz",
+      "url": "https://shopee.com.br/product/413762733/22697148685",
+      "affiliate_url": "https://s.shopee.com.br/1qbKAFyO5X",
+      "category": "ALAN.FONTE.888",
+      "bucket": "alan_fonte_888",
+      "posted_ts": 1787095200,
+      "posted_at": "2026-08-18T23:20:00.348563+00:00",
+      "score": 92.76
+    },
+    {
+      "key": "shopee:19256674614",
+      "marketplace": "shopee",
+      "id": "19256674614",
+      "title": "Short Bermuda Linho Masculino Casual Verão Cintura Elástica confortável",
+      "title_norm": "short bermuda linho masculino casual verao cintura elastica confortavel",
+      "url": "https://shopee.com.br/product/401573988/19256674614",
+      "affiliate_url": "https://s.shopee.com.br/7AcrmLJShd",
+      "category": "oc oficial",
+      "bucket": "oc_oficial",
+      "posted_ts": 1787095136,
+      "posted_at": "2026-08-18T23:18:56.425674+00:00",
+      "score": 93.61
+    },
+    {
+      "key": "shopee:22997173053",
+      "marketplace": "shopee",
+      "id": "22997173053",
+      "title": "Calça Jogger Dry Fit Furadinho Leve Praticar Esportes",
+      "title_norm": "calca jogger dry fit furadinho leve praticar esportes",
+      "url": "https://shopee.com.br/product/413762733/22997173053",
+      "affiliate_url": "https://s.shopee.com.br/9KhL62Mtmu",
+      "category": "ALAN.FONTE.888",
+      "bucket": "alan_fonte_888",
+      "posted_ts": 1787095072,
+      "posted_at": "2026-08-18T23:17:52.424077+00:00",
+      "score": 93.68
+    },
+    {
+      "key": "shopee:40727316477",
+      "marketplace": "shopee",
+      "id": "40727316477",
+      "title": "Kit Bermuda Short Mole + Camiseta PRETA PARIS MINIMALIST kit Basico Algodão Malha Premium",
+      "title_norm": "kit bermuda short mole camiseta preta paris minimalist kit basico algodao malha premium",
+      "url": "https://shopee.com.br/product/368328709/40727316477",
+      "affiliate_url": "https://s.shopee.com.br/6fgbBQLMiY",
+      "category": "ShopeRose",
+      "bucket": "shoperose",
+      "posted_ts": 1787095005,
+      "posted_at": "2026-08-18T23:16:45.004230+00:00",
+      "score": 109.76
+    },
+    {
       "key": "shopee:22293752341",
       "marketplace": "shopee",
       "id": "22293752341",
@@ -7841,5 +7911,5 @@
       "score": 130.19
     }
   ],
-  "updated_at": "2026-08-18T22:21:13.758716+00:00"
+  "updated_at": "2026-08-18T23:21:04.319148+00:00"
 }
