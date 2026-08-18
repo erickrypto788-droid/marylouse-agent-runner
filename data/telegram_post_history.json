@@ -1,6 +1,48 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB7046261998",
+      "marketplace": "mercadolivre",
+      "id": "MLB7046261998",
+      "title": "Snob Papel Toalha Cozinha Folha Dupla C/ 12 Rolos",
+      "title_norm": "snob papel toalha cozinha folha dupla c 12 rolos",
+      "url": "https://www.mercadolivre.com.br/p/MLB28886645?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB28886645?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Supermercados",
+      "bucket": "supermercados",
+      "posted_ts": 1787076568,
+      "posted_at": "2026-08-18T18:09:28.532127+00:00",
+      "score": 89.0
+    },
+    {
+      "key": "mercadolivre:MLB5709004240",
+      "marketplace": "mercadolivre",
+      "id": "MLB5709004240",
+      "title": "Detergente Sabão Lava Louça Pastilha + Lava Máquina Unik",
+      "title_norm": "detergente sabao lava louca pastilha lava maquina unik",
+      "url": "https://www.mercadolivre.com.br/p/MLB56414429?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB56414429?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Supermercados",
+      "bucket": "supermercado",
+      "posted_ts": 1787076503,
+      "posted_at": "2026-08-18T18:08:23.244533+00:00",
+      "score": 118.1
+    },
+    {
+      "key": "mercadolivre:MLB6425142428",
+      "marketplace": "mercadolivre",
+      "id": "MLB6425142428",
+      "title": "Fralda Pampers Confort Sec G 38 Unidades",
+      "title_norm": "fralda pampers confort sec g 38 unidades",
+      "url": "https://www.mercadolivre.com.br/p/MLB33581064?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB33581064?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Mãe e Bebê",
+      "bucket": "fraldas",
+      "posted_ts": 1787076439,
+      "posted_at": "2026-08-18T18:07:19.061620+00:00",
+      "score": 130.0
+    },
+    {
       "key": "shopee:23794014656",
       "marketplace": "shopee",
       "id": "23794014656",
@@ -7491,5 +7533,5 @@
       "score": 130.19
     }
   ],
-  "updated_at": "2026-08-18T17:18:47.903632+00:00"
+  "updated_at": "2026-08-18T18:09:28.532140+00:00"
 }
