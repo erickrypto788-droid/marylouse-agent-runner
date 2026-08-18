@@ -1,6 +1,21 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB4036053887",
+      "product_id": "MLB4036053887",
+      "catalog_product_id": "MLB24522367",
+      "item_id": "MLB4036053887",
+      "url": "https://www.mercadolivre.com.br/p/MLB24522367?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB24522367?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "ssd nvme asgard an4 1tb gen4",
+      "title": "SSD Nvme Asgard AN4 1tb Gen4",
+      "category": "Informática",
+      "price": 1449.9,
+      "score": 111.0,
+      "posted_ts": 1787043766,
+      "posted_at": "2026-08-18T09:02:46.799098+00:00"
+    },
+    {
       "key": "mercadolivre:MLB5297261932",
       "product_id": "MLB5297261932",
       "catalog_product_id": "MLB45785598",
@@ -944,37 +959,7 @@
       "score": 86.0,
       "posted_ts": 1786871021,
       "posted_at": "2026-08-16T09:03:41.842704+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB7284866408",
-      "product_id": "MLB7284866408",
-      "catalog_product_id": "MLB40540370",
-      "item_id": "MLB7284866408",
-      "url": "https://www.mercadolivre.com.br/p/MLB40540370?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB40540370?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "tchauzinho fralda melhoramentos",
-      "title": "Tchauzinho, Fralda! - Melhoramentos",
-      "category": "Mãe e Bebê",
-      "price": 49.09,
-      "score": 114.0,
-      "posted_ts": 1786870953,
-      "posted_at": "2026-08-16T09:02:33.902117+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB6491728674",
-      "product_id": "MLB6491728674",
-      "catalog_product_id": "MLB66945649",
-      "item_id": "MLB6491728674",
-      "url": "https://www.mercadolivre.com.br/p/MLB66945649?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB66945649?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "racao gato estimacat premium adulto sabor carne 1kg",
-      "title": "Ração Gato Estimacat Premium Adulto Sabor Carne 1kg",
-      "category": "Pet",
-      "price": 25.56,
-      "score": 122.17,
-      "posted_ts": 1786867426,
-      "posted_at": "2026-08-16T08:03:46.675231+00:00"
     }
   ],
-  "updated_at": "2026-08-18T08:03:26.564517+00:00"
+  "updated_at": "2026-08-18T09:02:46.799105+00:00"
 }

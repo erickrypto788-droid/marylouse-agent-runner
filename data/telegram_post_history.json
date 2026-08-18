@@ -1,6 +1,20 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB4036053887",
+      "marketplace": "mercadolivre",
+      "id": "MLB4036053887",
+      "title": "SSD Nvme Asgard AN4 1tb Gen4",
+      "title_norm": "ssd nvme asgard an4 1tb gen4",
+      "url": "https://www.mercadolivre.com.br/p/MLB24522367?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB24522367?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Informática",
+      "bucket": "informatica",
+      "posted_ts": 1787043766,
+      "posted_at": "2026-08-18T09:02:46.793233+00:00",
+      "score": 111.0
+    },
+    {
       "key": "shopee:21798200941",
       "marketplace": "shopee",
       "id": "21798200941",
@@ -6847,5 +6861,5 @@
       "score": 130.19
     }
   ],
-  "updated_at": "2026-08-18T08:21:27.528918+00:00"
+  "updated_at": "2026-08-18T09:02:46.793243+00:00"
 }
