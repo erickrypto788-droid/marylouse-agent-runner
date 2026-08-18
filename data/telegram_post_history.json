@@ -1,6 +1,34 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB6597920920",
+      "marketplace": "mercadolivre",
+      "id": "MLB6597920920",
+      "title": "Smartphone Samsung Galaxy A56 5g Preto 256gb",
+      "title_norm": "smartphone samsung galaxy a56 5g preto 256gb",
+      "url": "https://www.mercadolivre.com.br/p/MLB61698753?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB61698753?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Informática",
+      "bucket": "celulares",
+      "posted_ts": 1787051005,
+      "posted_at": "2026-08-18T11:03:25.904546+00:00",
+      "score": 124.0
+    },
+    {
+      "key": "mercadolivre:MLB7238539878",
+      "marketplace": "mercadolivre",
+      "id": "MLB7238539878",
+      "title": "Smartphone Samsung Galaxy S23 Ultra 512gb Creme",
+      "title_norm": "smartphone samsung galaxy s23 ultra 512gb creme",
+      "url": "https://www.mercadolivre.com.br/p/MLB39444837?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB39444837?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Informática",
+      "bucket": "celulares",
+      "posted_ts": 1787050937,
+      "posted_at": "2026-08-18T11:02:17.077864+00:00",
+      "score": 124.0
+    },
+    {
       "key": "shopee:22997581085",
       "marketplace": "shopee",
       "id": "22997581085",
@@ -7015,5 +7043,5 @@
       "score": 130.19
     }
   ],
-  "updated_at": "2026-08-18T10:21:14.715737+00:00"
+  "updated_at": "2026-08-18T11:03:25.904559+00:00"
 }
