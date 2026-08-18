@@ -1,6 +1,76 @@
 {
   "posts": [
     {
+      "key": "shopee:23898940980",
+      "marketplace": "shopee",
+      "id": "23898940980",
+      "title": "Kit 3 Shorts 2 em 1 DryFit  Plus Size Original Elastano Academia Esporte Treino Masculino",
+      "title_norm": "kit 3 shorts 2 em 1 dryfit plus size original elastano academia esporte treino masculino",
+      "url": "https://shopee.com.br/product/254876736/23898940980",
+      "affiliate_url": "https://s.shopee.com.br/AUtIYIlIxK",
+      "category": "ELLO TÊXTIL",
+      "bucket": "ello_textil",
+      "posted_ts": 1787030459,
+      "posted_at": "2026-08-18T05:20:59.480034+00:00",
+      "score": 60.7
+    },
+    {
+      "key": "shopee:58256061886",
+      "marketplace": "shopee",
+      "id": "58256061886",
+      "title": "Body Feminino Plus Size Decote V Manga tule Elegante Festa",
+      "title_norm": "body feminino plus size decote v manga tule elegante festa",
+      "url": "https://shopee.com.br/product/1026887169/58256061886",
+      "affiliate_url": "https://s.shopee.com.br/1gHu24EjtL",
+      "category": "Chicmodasa",
+      "bucket": "chicmodasa",
+      "posted_ts": 1787030395,
+      "posted_at": "2026-08-18T05:19:55.374311+00:00",
+      "score": 63.07
+    },
+    {
+      "key": "shopee:58212070015",
+      "marketplace": "shopee",
+      "id": "58212070015",
+      "title": "Calça feminina plus size wide leg jeans",
+      "title_norm": "calca feminina plus size wide leg jeans",
+      "url": "https://shopee.com.br/product/1350883560/58212070015",
+      "affiliate_url": "https://s.shopee.com.br/8pl4ZEreKq",
+      "category": "Magnata Conceito",
+      "bucket": "magnata_conceito",
+      "posted_ts": 1787030331,
+      "posted_at": "2026-08-18T05:18:51.172729+00:00",
+      "score": 63.12
+    },
+    {
+      "key": "shopee:23194411148",
+      "marketplace": "shopee",
+      "id": "23194411148",
+      "title": "Kit 02 Blusa Feminina Plus Size de Tule Academia Treino Respiravél Transparência Feminino",
+      "title_norm": "kit 02 blusa feminina plus size de tule academia treino respiravel transparencia feminino",
+      "url": "https://shopee.com.br/product/1499251718/23194411148",
+      "affiliate_url": "https://s.shopee.com.br/3VjYDR7lAq",
+      "category": "Estilo Prodigio",
+      "bucket": "moda_feminina",
+      "posted_ts": 1787030266,
+      "posted_at": "2026-08-18T05:17:46.959386+00:00",
+      "score": 73.02
+    },
+    {
+      "key": "shopee:23095731294",
+      "marketplace": "shopee",
+      "id": "23095731294",
+      "title": "Kit 2 Calças Legging Plus Size Suplex Cintura Alta Costura Reforça G1 G2 G3",
+      "title_norm": "kit 2 calcas legging plus size suplex cintura alta costura reforca g1 g2 g3",
+      "url": "https://shopee.com.br/product/356848158/23095731294",
+      "affiliate_url": "https://s.shopee.com.br/9V0lMSp705",
+      "category": "TGL CONFECÇÕES ",
+      "bucket": "moda_feminina",
+      "posted_ts": 1787030198,
+      "posted_at": "2026-08-18T05:16:38.996695+00:00",
+      "score": 73.73
+    },
+    {
       "key": "mercadolivre:MLB7119236764",
       "marketplace": "mercadolivre",
       "id": "MLB7119236764",
@@ -6609,5 +6679,5 @@
       "score": 130.19
     }
   ],
-  "updated_at": "2026-08-18T05:02:40.942817+00:00"
+  "updated_at": "2026-08-18T05:20:59.480047+00:00"
 }
