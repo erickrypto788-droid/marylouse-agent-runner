@@ -1,6 +1,76 @@
 {
   "posts": [
     {
+      "key": "shopee:22997581085",
+      "marketplace": "shopee",
+      "id": "22997581085",
+      "title": "Protetor Solar Facial Acnezil FPS 30 Oil Control 60g",
+      "title_norm": "protetor solar facial acnezil fps 30 oil control 60g",
+      "url": "https://shopee.com.br/product/1045085918/22997581085",
+      "affiliate_url": "https://s.shopee.com.br/70JPO4SrM9",
+      "category": "Droga Clara",
+      "bucket": "droga_clara",
+      "posted_ts": 1787048474,
+      "posted_at": "2026-08-18T10:21:14.715727+00:00",
+      "score": 70.29
+    },
+    {
+      "key": "shopee:49514800038",
+      "marketplace": "shopee",
+      "id": "49514800038",
+      "title": "Colônia Champs Masculina 100ml (Embalagem Nova) - Jequiti",
+      "title_norm": "colonia champs masculina 100ml embalagem nova jequiti",
+      "url": "https://shopee.com.br/product/282271428/49514800038",
+      "affiliate_url": "https://s.shopee.com.br/60QsCEF8V0",
+      "category": "Loja do Rei",
+      "bucket": "loja_do_rei",
+      "posted_ts": 1787048410,
+      "posted_at": "2026-08-18T10:20:10.603822+00:00",
+      "score": 76.98
+    },
+    {
+      "key": "shopee:22898980977",
+      "marketplace": "shopee",
+      "id": "22898980977",
+      "title": "Principia Kit Duo c/ 2 Protetores Solares Faciais - PS-01 FPS 60",
+      "title_norm": "principia kit duo c 2 protetores solares faciais ps 01 fps 60",
+      "url": "https://shopee.com.br/product/373261329/22898980977",
+      "affiliate_url": "https://s.shopee.com.br/5VUcvicfaP",
+      "category": "Principia Skincare",
+      "bucket": "principia_skincare",
+      "posted_ts": 1787048346,
+      "posted_at": "2026-08-18T10:19:06.400528+00:00",
+      "score": 86.26
+    },
+    {
+      "key": "shopee:23598844177",
+      "marketplace": "shopee",
+      "id": "23598844177",
+      "title": "GOKOCO Escova Secadora 7 Em 1 GD032 Conjunto De Secador De Cabelo Multifuncional De Alta Velocidade  Para Alisar Enrolar",
+      "title_norm": "gokoco escova secadora 7 em 1 gd032 conjunto de secador de cabelo multifuncional de alta velocidade para alisar enrolar",
+      "url": "https://shopee.com.br/product/1078551010/23598844177",
+      "affiliate_url": "https://s.shopee.com.br/AUtIsu6MpH",
+      "category": "GOKOCO Offical Shop.BR",
+      "bucket": "beleza",
+      "posted_ts": 1787048279,
+      "posted_at": "2026-08-18T10:17:59.591072+00:00",
+      "score": 132.3
+    },
+    {
+      "key": "shopee:40624794433",
+      "marketplace": "shopee",
+      "id": "40624794433",
+      "title": "Escova 5 em 1 Secador, Pente, Modelador, Aumenta volume Profissional 110V E 220V",
+      "title_norm": "escova 5 em 1 secador pente modelador aumenta volume profissional 110v e 220v",
+      "url": "https://shopee.com.br/product/1459307687/40624794433",
+      "affiliate_url": "https://s.shopee.com.br/70JQiTJgvO",
+      "category": "Link&LinkShop_Brasil",
+      "bucket": "beleza",
+      "posted_ts": 1787048209,
+      "posted_at": "2026-08-18T10:16:49.716978+00:00",
+      "score": 132.55
+    },
+    {
       "key": "mercadolivre:MLB6660301334",
       "marketplace": "mercadolivre",
       "id": "MLB6660301334",
@@ -6945,5 +7015,5 @@
       "score": 130.19
     }
   ],
-  "updated_at": "2026-08-18T10:03:00.633243+00:00"
+  "updated_at": "2026-08-18T10:21:14.715737+00:00"
 }
