@@ -1,6 +1,20 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB7275710400",
+      "marketplace": "mercadolivre",
+      "id": "MLB7275710400",
+      "title": "Escova Secadora Profissional",
+      "title_norm": "escova secadora profissional",
+      "url": "https://www.mercadolivre.com.br/p/MLB37914551?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB37914551?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Beleza",
+      "bucket": "beleza",
+      "posted_ts": 1787032947,
+      "posted_at": "2026-08-18T06:02:27.941549+00:00",
+      "score": 113.0
+    },
+    {
       "key": "shopee:23898940980",
       "marketplace": "shopee",
       "id": "23898940980",
@@ -6679,5 +6693,5 @@
       "score": 130.19
     }
   ],
-  "updated_at": "2026-08-18T05:20:59.480047+00:00"
+  "updated_at": "2026-08-18T06:02:27.941560+00:00"
 }
