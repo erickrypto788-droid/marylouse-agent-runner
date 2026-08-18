@@ -1,6 +1,76 @@
 {
   "posts": [
     {
+      "key": "shopee:21899559653",
+      "marketplace": "shopee",
+      "id": "21899559653",
+      "title": "Gelatina Chocolate #todecacho Kids Super Brilhante 550g",
+      "title_norm": "gelatina chocolate todecacho kids super brilhante 550g",
+      "url": "https://shopee.com.br/product/616222685/21899559653",
+      "affiliate_url": "https://s.shopee.com.br/6AkJ7r1KzP",
+      "category": "Salon Line",
+      "bucket": "salon_line",
+      "posted_ts": 1787016069,
+      "posted_at": "2026-08-18T01:21:09.753504+00:00",
+      "score": 97.5
+    },
+    {
+      "key": "shopee:9319243207",
+      "marketplace": "shopee",
+      "id": "9319243207",
+      "title": "Hidratante Creme Facial Pele De Porcelana Kokeshi 30g Milagre do Arroz",
+      "title_norm": "hidratante creme facial pele de porcelana kokeshi 30g milagre do arroz",
+      "url": "https://shopee.com.br/product/395166866/9319243207",
+      "affiliate_url": "https://s.shopee.com.br/3g2woqxxJ6",
+      "category": "KOKESHI OFICIAL",
+      "bucket": "kokeshi_oficial",
+      "posted_ts": 1787016005,
+      "posted_at": "2026-08-18T01:20:05.480949+00:00",
+      "score": 98.01
+    },
+    {
+      "key": "shopee:14463127889",
+      "marketplace": "shopee",
+      "id": "14463127889",
+      "title": "Kit S.O.S Hidratação Azeite de Oliva Shampoo e Condicionador Litrão Salon Line",
+      "title_norm": "kit s o s hidratacao azeite de oliva shampoo e condicionador litrao salon line",
+      "url": "https://shopee.com.br/product/616222685/14463127889",
+      "affiliate_url": "https://s.shopee.com.br/6AkHnRjyC6",
+      "category": "Salon Line",
+      "bucket": "supermercado",
+      "posted_ts": 1787015941,
+      "posted_at": "2026-08-18T01:19:01.230666+00:00",
+      "score": 101.07
+    },
+    {
+      "key": "shopee:23895623632",
+      "marketplace": "shopee",
+      "id": "23895623632",
+      "title": "Cafe Graos Torra Media Gourmet Café Italle 1kg",
+      "title_norm": "cafe graos torra media gourmet cafe italle 1kg",
+      "url": "https://shopee.com.br/product/334540655/23895623632",
+      "affiliate_url": "https://s.shopee.com.br/9ANuhMlNZw",
+      "category": "Café Italle",
+      "bucket": "cafe_italle",
+      "posted_ts": 1787015871,
+      "posted_at": "2026-08-18T01:17:51.820258+00:00",
+      "score": 102.68
+    },
+    {
+      "key": "shopee:58250361148",
+      "marketplace": "shopee",
+      "id": "58250361148",
+      "title": "1.8L Panela De Arroz Elétrica Multi-Camadas/De Dupla Camada Dormitório Doméstico Funções",
+      "title_norm": "1 8l panela de arroz eletrica multi camadas de dupla camada dormitorio domestico funcoes",
+      "url": "https://shopee.com.br/product/720952207/58250361148",
+      "affiliate_url": "https://s.shopee.com.br/3VjXwxKHxW",
+      "category": "Mercado Estelar",
+      "bucket": "casa_cozinha",
+      "posted_ts": 1787015807,
+      "posted_at": "2026-08-18T01:16:47.574235+00:00",
+      "score": 128.31
+    },
+    {
       "key": "mercadolivre:MLB4040219599",
       "marketplace": "mercadolivre",
       "id": "MLB4040219599",
@@ -6357,5 +6427,5 @@
       "score": 130.19
     }
   ],
-  "updated_at": "2026-08-18T01:05:37.200069+00:00"
+  "updated_at": "2026-08-18T01:21:09.753515+00:00"
 }
