@@ -1,6 +1,20 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB6194818232",
+      "marketplace": "mercadolivre",
+      "id": "MLB6194818232",
+      "title": "Ração Premier Pet Vitta Natural Ração Cachorro Adulto 15k",
+      "title_norm": "racao premier pet vitta natural racao cachorro adulto 15k",
+      "url": "https://www.mercadolivre.com.br/p/MLB32106098?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB32106098?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Pet",
+      "bucket": "pet",
+      "posted_ts": 1787061745,
+      "posted_at": "2026-08-18T14:02:25.813824+00:00",
+      "score": 129.0
+    },
+    {
       "key": "shopee:23994061112",
       "marketplace": "shopee",
       "id": "23994061112",
@@ -7253,5 +7267,5 @@
       "score": 130.19
     }
   ],
-  "updated_at": "2026-08-18T13:21:12.671975+00:00"
+  "updated_at": "2026-08-18T14:02:25.813836+00:00"
 }
