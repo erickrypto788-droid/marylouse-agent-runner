@@ -1,6 +1,21 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB6660301334",
+      "product_id": "MLB6660301334",
+      "catalog_product_id": "MLB68059006",
+      "item_id": "MLB6660301334",
+      "url": "https://www.mercadolivre.com.br/p/MLB68059006?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB68059006?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "fone bluetooth esportivo 320mah fone sem fio fone academia preto",
+      "title": "Fone Bluetooth Esportivo 320mah Fone Sem Fio Fone Academia Preto",
+      "category": "Esportes",
+      "price": 52.65,
+      "score": 118.46,
+      "posted_ts": 1787047380,
+      "posted_at": "2026-08-18T10:03:00.640595+00:00"
+    },
+    {
       "key": "mercadolivre:MLB4036053887",
       "product_id": "MLB4036053887",
       "catalog_product_id": "MLB24522367",
@@ -929,37 +944,7 @@
       "score": 86.0,
       "posted_ts": 1786874631,
       "posted_at": "2026-08-16T10:03:51.304541+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB3954286799",
-      "product_id": "MLB3954286799",
-      "catalog_product_id": "MLB39019401",
-      "item_id": "MLB3954286799",
-      "url": "https://www.mercadolivre.com.br/p/MLB39019401?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB39019401?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "impressora etiquetas logistica codigo de barras usb",
-      "title": "Impressora Etiquetas Logistica Código De Barras Usb",
-      "category": "Informática",
-      "price": 549.99,
-      "score": 122.73,
-      "posted_ts": 1786874567,
-      "posted_at": "2026-08-16T10:02:47.103824+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB4864941673",
-      "product_id": "MLB4864941673",
-      "catalog_product_id": "MLB51893724",
-      "item_id": "MLB4864941673",
-      "url": "https://www.mercadolivre.com.br/p/MLB51893724?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB51893724?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "baba eletronica hellobaby hb66pro monitor bebe 3 2 white",
-      "title": "Babá Eletrônica Hellobaby Hb66pro Monitor Bebê 3.2 White",
-      "category": "Informática",
-      "price": 386.56,
-      "score": 86.0,
-      "posted_ts": 1786871021,
-      "posted_at": "2026-08-16T09:03:41.842704+00:00"
     }
   ],
-  "updated_at": "2026-08-18T09:02:46.799105+00:00"
+  "updated_at": "2026-08-18T10:03:00.640606+00:00"
 }
