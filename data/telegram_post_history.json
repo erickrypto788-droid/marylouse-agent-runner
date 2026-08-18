@@ -1,6 +1,76 @@
 {
   "posts": [
     {
+      "key": "shopee:58261931915",
+      "marketplace": "shopee",
+      "id": "58261931915",
+      "title": "Conjunto Feminino Body Quadrado+Short Alfaiataria Com Bolso e Cinto  Moda Casual",
+      "title_norm": "conjunto feminino body quadrado short alfaiataria com bolso e cinto moda casual",
+      "url": "https://shopee.com.br/product/243979754/58261931915",
+      "affiliate_url": "https://s.shopee.com.br/9pdbcpwGyQ",
+      "category": "ela.bazar",
+      "bucket": "ela_bazar",
+      "posted_ts": 1787023274,
+      "posted_at": "2026-08-18T03:21:14.323051+00:00",
+      "score": 102.89
+    },
+    {
+      "key": "shopee:20099603380",
+      "marketplace": "shopee",
+      "id": "20099603380",
+      "title": "CALÇA FEMININA ALFAIATARIA CINTURA ALTA COM ZÍPER NA LATERAL SOCIAL SLIM",
+      "title_norm": "calca feminina alfaiataria cintura alta com ziper na lateral social slim",
+      "url": "https://shopee.com.br/product/437927074/20099603380",
+      "affiliate_url": "https://s.shopee.com.br/1qbK68MKQJ",
+      "category": "Um Toque De Moda1",
+      "bucket": "um_toque_de_moda1",
+      "posted_ts": 1787023209,
+      "posted_at": "2026-08-18T03:20:09.748856+00:00",
+      "score": 102.95
+    },
+    {
+      "key": "shopee:23294525551",
+      "marketplace": "shopee",
+      "id": "23294525551",
+      "title": "Kit 4 Blusinha Baby Look - Casual Dia a Dia Elegante Básica Lisa Moderna Tendência Influencer",
+      "title_norm": "kit 4 blusinha baby look casual dia a dia elegante basica lisa moderna tendencia influencer",
+      "url": "https://shopee.com.br/product/1562127945/23294525551",
+      "affiliate_url": "https://s.shopee.com.br/AAGS1Rv0IW",
+      "category": "NOVA.AS",
+      "bucket": "nova_as",
+      "posted_ts": 1787023136,
+      "posted_at": "2026-08-18T03:18:56.512270+00:00",
+      "score": 103.34
+    },
+    {
+      "key": "shopee:22094702926",
+      "marketplace": "shopee",
+      "id": "22094702926",
+      "title": "top fitness feminino top academia feminino  top suplex firme top esportivo com sustentação top treino feminino",
+      "title_norm": "top fitness feminino top academia feminino top suplex firme top esportivo com sustentacao top treino feminino",
+      "url": "https://shopee.com.br/product/1664415227/22094702926",
+      "affiliate_url": "https://s.shopee.com.br/9pdaIQnlzf",
+      "category": "Fej Matos.store",
+      "bucket": "fej_matos_store",
+      "posted_ts": 1787023072,
+      "posted_at": "2026-08-18T03:17:52.089803+00:00",
+      "score": 105.27
+    },
+    {
+      "key": "shopee:22894642806",
+      "marketplace": "shopee",
+      "id": "22894642806",
+      "title": "Vestido Feminino Elegante Manga Princesa Tubinho Com Bojo Tendencia Natal",
+      "title_norm": "vestido feminino elegante manga princesa tubinho com bojo tendencia natal",
+      "url": "https://shopee.com.br/product/1663507578/22894642806",
+      "affiliate_url": "https://s.shopee.com.br/8V8E2Nk1bG",
+      "category": "RRM MODAS",
+      "bucket": "moda_feminina",
+      "posted_ts": 1787023005,
+      "posted_at": "2026-08-18T03:16:45.951726+00:00",
+      "score": 106.34
+    },
+    {
       "key": "mercadolivre:MLB4440801288",
       "marketplace": "mercadolivre",
       "id": "MLB4440801288",
@@ -6455,5 +6525,5 @@
       "score": 130.19
     }
   ],
-  "updated_at": "2026-08-18T02:03:55.583581+00:00"
+  "updated_at": "2026-08-18T03:21:14.323063+00:00"
 }
