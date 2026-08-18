@@ -1,6 +1,76 @@
 {
   "posts": [
     {
+      "key": "shopee:58255937916",
+      "marketplace": "shopee",
+      "id": "58255937916",
+      "title": "Cartão de Memória MicroSD Classe 10 Ultra – 1GB-512GB para Monitoramento e Câmeras de Segurança",
+      "title_norm": "cartao de memoria microsd classe 10 ultra 1gb 512gb para monitoramento e cameras de seguranca",
+      "url": "https://shopee.com.br/product/1024858829/58255937916",
+      "affiliate_url": "https://s.shopee.com.br/6L3jG2Ov6F",
+      "category": "Lin case",
+      "bucket": "lin_case",
+      "posted_ts": 1787080926,
+      "posted_at": "2026-08-18T19:22:06.592578+00:00",
+      "score": 76.24
+    },
+    {
+      "key": "shopee:58212356206",
+      "marketplace": "shopee",
+      "id": "58212356206",
+      "title": "Leitor Cartão USB C 3 Em 1 OTG SD Micro SD Adaptador Para Celular Notebook Câmera",
+      "title_norm": "leitor cartao usb c 3 em 1 otg sd micro sd adaptador para celular notebook camera",
+      "url": "https://shopee.com.br/product/956346509/58212356206",
+      "affiliate_url": "https://s.shopee.com.br/4Vc6L0aK8Q",
+      "category": "LOX-1",
+      "bucket": "celulares",
+      "posted_ts": 1787080862,
+      "posted_at": "2026-08-18T19:21:02.552454+00:00",
+      "score": 78.06
+    },
+    {
+      "key": "shopee:18398124948",
+      "marketplace": "shopee",
+      "id": "18398124948",
+      "title": "Adaptador Hub Tipo C 4em1/5em2/6em1/7 Em 1/ 8em1 HDMI Micro Sd Tf M1 4k Usb 3.0 Para computador todo tipo",
+      "title_norm": "adaptador hub tipo c 4em1 5em2 6em1 7 em 1 8em1 hdmi micro sd tf m1 4k usb 3 0 para computador todo tipo",
+      "url": "https://shopee.com.br/product/1314327488/18398124948",
+      "affiliate_url": "https://s.shopee.com.br/3LQ8wrelV7",
+      "category": "M&H1 STORE",
+      "bucket": "m_h1_store",
+      "posted_ts": 1787080798,
+      "posted_at": "2026-08-18T19:19:58.444354+00:00",
+      "score": 79.32
+    },
+    {
+      "key": "shopee:56855656714",
+      "marketplace": "shopee",
+      "id": "56855656714",
+      "title": "Webcam com Microfone Full HD 1080p Giratória 360° Ajuste de Ângulo Livre para PC Notebook e Home Office",
+      "title_norm": "webcam com microfone full hd 1080p giratoria 360 ajuste de angulo livre para pc notebook e home office",
+      "url": "https://shopee.com.br/product/1354781962/56855656714",
+      "affiliate_url": "https://s.shopee.com.br/gPNlxtak5",
+      "category": "GigaEletronicos",
+      "bucket": "informatica",
+      "posted_ts": 1787080729,
+      "posted_at": "2026-08-18T19:18:49.116670+00:00",
+      "score": 122.67
+    },
+    {
+      "key": "shopee:50514040821",
+      "marketplace": "shopee",
+      "id": "50514040821",
+      "title": "Original SAMSUNG SSD Externo 2TB 4TB 8TB 16TB Transferência De Alta Velocidade Portátil HD Disco Rígido",
+      "title_norm": "original samsung ssd externo 2tb 4tb 8tb 16tb transferencia de alta velocidade portatil hd disco rigido",
+      "url": "https://shopee.com.br/product/1543233916/50514040821",
+      "affiliate_url": "https://s.shopee.com.br/7KwGRsL74X",
+      "category": "Ainsa1.br",
+      "bucket": "informatica",
+      "posted_ts": 1787080658,
+      "posted_at": "2026-08-18T19:17:38.874208+00:00",
+      "score": 124.73
+    },
+    {
       "key": "shopee:27094198997",
       "marketplace": "shopee",
       "id": "27094198997",
@@ -7603,5 +7673,5 @@
       "score": 130.19
     }
   ],
-  "updated_at": "2026-08-18T18:21:10.833344+00:00"
+  "updated_at": "2026-08-18T19:22:06.592595+00:00"
 }
