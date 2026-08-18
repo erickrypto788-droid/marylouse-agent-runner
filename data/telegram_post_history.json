@@ -1,6 +1,76 @@
 {
   "posts": [
     {
+      "key": "shopee:23299157212",
+      "marketplace": "shopee",
+      "id": "23299157212",
+      "title": "Kit Explosão de Azeite de Oliva | bn.Cachos",
+      "title_norm": "kit explosao de azeite de oliva bn cachos",
+      "url": "https://shopee.com.br/product/1202663615/23299157212",
+      "affiliate_url": "https://s.shopee.com.br/4fvWbO8UZq",
+      "category": "bn.Cachos",
+      "bucket": "supermercado",
+      "posted_ts": 1787084456,
+      "posted_at": "2026-08-18T20:20:56.508909+00:00",
+      "score": 92.46
+    },
+    {
+      "key": "shopee:5083234596",
+      "marketplace": "shopee",
+      "id": "5083234596",
+      "title": "Manicrem Pasta De Amendoim Integral 100% Amendoim - 1kg",
+      "title_norm": "manicrem pasta de amendoim integral 100 amendoim 1kg",
+      "url": "https://shopee.com.br/product/409969707/5083234596",
+      "affiliate_url": "https://s.shopee.com.br/8pl5Z2jpYM",
+      "category": "MUNDO MANI",
+      "bucket": "mundo_mani",
+      "posted_ts": 1787084392,
+      "posted_at": "2026-08-18T20:19:52.561767+00:00",
+      "score": 93.84
+    },
+    {
+      "key": "shopee:40578847143",
+      "marketplace": "shopee",
+      "id": "40578847143",
+      "title": "Kit com 2 Formas de Silicone Moldes Variados para Chocolate Gelatina Balas de Goma e Creatina",
+      "title_norm": "kit com 2 formas de silicone moldes variados para chocolate gelatina balas de goma e creatina",
+      "url": "https://shopee.com.br/product/325369388/40578847143",
+      "affiliate_url": "https://s.shopee.com.br/W5xdjSp3w",
+      "category": "Point Mix",
+      "bucket": "point_mix",
+      "posted_ts": 1787084328,
+      "posted_at": "2026-08-18T20:18:48.529686+00:00",
+      "score": 94.58
+    },
+    {
+      "key": "shopee:19998102356",
+      "marketplace": "shopee",
+      "id": "19998102356",
+      "title": "Panela Elétrica Britânia 2L 5 Temperaturas 650W BPE02A",
+      "title_norm": "panela eletrica britania 2l 5 temperaturas 650w bpe02a",
+      "url": "https://shopee.com.br/product/811879342/19998102356",
+      "affiliate_url": "https://s.shopee.com.br/3VjZDFHOyM",
+      "category": "Britânia Oficial",
+      "bucket": "casa_cozinha",
+      "posted_ts": 1787084264,
+      "posted_at": "2026-08-18T20:17:44.507285+00:00",
+      "score": 95.69
+    },
+    {
+      "key": "shopee:22398848141",
+      "marketplace": "shopee",
+      "id": "22398848141",
+      "title": "Kit 2 Porta Leite em Pó Para Bebê + Colher de Silicone",
+      "title_norm": "kit 2 porta leite em po para bebe colher de silicone",
+      "url": "https://shopee.com.br/product/404249674/22398848141",
+      "affiliate_url": "https://s.shopee.com.br/8AVNVWpBds",
+      "category": "CHLOE01",
+      "bucket": "chloe01",
+      "posted_ts": 1787084200,
+      "posted_at": "2026-08-18T20:16:40.515842+00:00",
+      "score": 97.22
+    },
+    {
       "key": "mercadolivre:MLB7209542710",
       "marketplace": "mercadolivre",
       "id": "MLB7209542710",
@@ -7687,5 +7757,5 @@
       "score": 130.19
     }
   ],
-  "updated_at": "2026-08-18T20:03:35.475159+00:00"
+  "updated_at": "2026-08-18T20:20:56.508920+00:00"
 }
