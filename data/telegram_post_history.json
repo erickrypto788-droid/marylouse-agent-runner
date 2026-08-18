@@ -1,6 +1,34 @@
 {
   "posts": [
     {
+      "key": "shopee:40360368378",
+      "marketplace": "shopee",
+      "id": "40360368378",
+      "title": "Sandalia Slide Feminina Ortopedica Palmilha Anatômica e Estilo Casual",
+      "title_norm": "sandalia slide feminina ortopedica palmilha anatomica e estilo casual",
+      "url": "https://shopee.com.br/product/800864347/40360368378",
+      "affiliate_url": "https://s.shopee.com.br/112DN4rJiT",
+      "category": "Deccó",
+      "bucket": "calcados",
+      "posted_ts": 1787037460,
+      "posted_at": "2026-08-18T07:17:40.344900+00:00",
+      "score": 102.32
+    },
+    {
+      "key": "shopee:22598314126",
+      "marketplace": "shopee",
+      "id": "22598314126",
+      "title": "Bota Botina Feminina Texana Macia Country Cowboy Bico Quadrado Confortável Zíper E Rebites",
+      "title_norm": "bota botina feminina texana macia country cowboy bico quadrado confortavel ziper e rebites",
+      "url": "https://shopee.com.br/product/1318905115/22598314126",
+      "affiliate_url": "https://s.shopee.com.br/4LIe0ns7vu",
+      "category": "F_MIX",
+      "bucket": "calcados",
+      "posted_ts": 1787037393,
+      "posted_at": "2026-08-18T07:16:33.285021+00:00",
+      "score": 107.25
+    },
+    {
       "key": "shopee:58211149676",
       "marketplace": "shopee",
       "id": "58211149676",
@@ -6721,5 +6749,5 @@
       "score": 130.19
     }
   ],
-  "updated_at": "2026-08-18T06:17:43.250104+00:00"
+  "updated_at": "2026-08-18T07:17:40.344910+00:00"
 }
