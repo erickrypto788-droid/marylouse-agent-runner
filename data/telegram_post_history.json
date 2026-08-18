@@ -1,6 +1,48 @@
 {
   "posts": [
     {
+      "key": "shopee:23794014656",
+      "marketplace": "shopee",
+      "id": "23794014656",
+      "title": "Bolsa Mochila De Peito Tiracolo Pochete Bolsa Impermeável Transversal Masculina",
+      "title_norm": "bolsa mochila de peito tiracolo pochete bolsa impermeavel transversal masculina",
+      "url": "https://shopee.com.br/product/391739739/23794014656",
+      "affiliate_url": "https://s.shopee.com.br/9ANuV0ZcmI",
+      "category": "ANJ.GG store",
+      "bucket": "bolsas",
+      "posted_ts": 1787073527,
+      "posted_at": "2026-08-18T17:18:47.903618+00:00",
+      "score": 51.72
+    },
+    {
+      "key": "shopee:15296691065",
+      "marketplace": "shopee",
+      "id": "15296691065",
+      "title": "Mochila Masculina Lona 50 Litros Viagem Passeio Motoboy Esporte Trilha Viagem 803",
+      "title_norm": "mochila masculina lona 50 litros viagem passeio motoboy esporte trilha viagem 803",
+      "url": "https://shopee.com.br/product/960960972/15296691065",
+      "affiliate_url": "https://s.shopee.com.br/1BLeEaWX6n",
+      "category": "Global Mochilas CHL",
+      "bucket": "bolsas",
+      "posted_ts": 1787073463,
+      "posted_at": "2026-08-18T17:17:43.825926+00:00",
+      "score": 62.35
+    },
+    {
+      "key": "shopee:23697738354",
+      "marketplace": "shopee",
+      "id": "23697738354",
+      "title": "Mochila Mala Reforçada Notebook Impermeável Escolar Trabalho",
+      "title_norm": "mochila mala reforcada notebook impermeavel escolar trabalho",
+      "url": "https://shopee.com.br/product/1191715089/23697738354",
+      "affiliate_url": "https://s.shopee.com.br/4fvWP1JD0c",
+      "category": "eletromix021",
+      "bucket": "informatica",
+      "posted_ts": 1787073399,
+      "posted_at": "2026-08-18T17:16:39.834425+00:00",
+      "score": 93.65
+    },
+    {
       "key": "shopee:11298889483",
       "marketplace": "shopee",
       "id": "11298889483",
@@ -7449,5 +7491,5 @@
       "score": 130.19
     }
   ],
-  "updated_at": "2026-08-18T16:20:50.490934+00:00"
+  "updated_at": "2026-08-18T17:18:47.903632+00:00"
 }
