@@ -1,6 +1,20 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB3845821781",
+      "marketplace": "mercadolivre",
+      "id": "MLB3845821781",
+      "title": "Armário Organizador Cozinha Balcão Microondas Jet - Cinza",
+      "title_norm": "armario organizador cozinha balcao microondas jet cinza",
+      "url": "https://www.mercadolivre.com.br/p/MLB38279289?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB38279289?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Casa e Cozinha",
+      "bucket": "casa_e_cozinha",
+      "posted_ts": 1787087005,
+      "posted_at": "2026-08-18T21:03:25.190029+00:00",
+      "score": 86.0
+    },
+    {
       "key": "shopee:23299157212",
       "marketplace": "shopee",
       "id": "23299157212",
@@ -7757,5 +7771,5 @@
       "score": 130.19
     }
   ],
-  "updated_at": "2026-08-18T20:20:56.508920+00:00"
+  "updated_at": "2026-08-18T21:03:25.190040+00:00"
 }

@@ -1,6 +1,21 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB3845821781",
+      "product_id": "MLB3845821781",
+      "catalog_product_id": "MLB38279289",
+      "item_id": "MLB3845821781",
+      "url": "https://www.mercadolivre.com.br/p/MLB38279289?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB38279289?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "armario organizador cozinha balcao microondas jet cinza",
+      "title": "Armário Organizador Cozinha Balcão Microondas Jet - Cinza",
+      "category": "Casa e Cozinha",
+      "price": 399.9,
+      "score": 86.0,
+      "posted_ts": 1787087005,
+      "posted_at": "2026-08-18T21:03:25.197875+00:00"
+    },
+    {
       "key": "mercadolivre:MLB7209542710",
       "product_id": "MLB7209542710",
       "catalog_product_id": "MLB69276346",
@@ -659,52 +674,7 @@
       "score": 86.0,
       "posted_ts": 1786914222,
       "posted_at": "2026-08-16T21:03:42.596332+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB4353924282",
-      "product_id": "MLB4353924282",
-      "catalog_product_id": "MLB29479675",
-      "item_id": "MLB4353924282",
-      "url": "https://www.mercadolivre.com.br/p/MLB29479675?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB29479675?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "mesa computador escrivaninha notebook gamer cor branco ajl",
-      "title": "Mesa Computador Escrivaninha Notebook Gamer cor branco AJL",
-      "category": "Informática",
-      "price": 267.2,
-      "score": 113.0,
-      "posted_ts": 1786914158,
-      "posted_at": "2026-08-16T21:02:38.365672+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB4994226563",
-      "product_id": "MLB4994226563",
-      "catalog_product_id": "MLB73186640",
-      "item_id": "MLB4994226563",
-      "url": "https://www.mercadolivre.com.br/p/MLB73186640?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB73186640?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "parafusadeira sem fio minutobaby parafusadeira sem fio azul",
-      "title": "Parafusadeira sem fio Minutobaby Parafusadeira Sem Fio azul",
-      "category": "Ferramentas",
-      "price": 143.73,
-      "score": 125.6,
-      "posted_ts": 1786910689,
-      "posted_at": "2026-08-16T20:04:49.995495+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB6711607808",
-      "product_id": "MLB6711607808",
-      "catalog_product_id": "MLB21865416",
-      "item_id": "MLB6711607808",
-      "url": "https://www.mercadolivre.com.br/p/MLB21865416?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB21865416?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "combo parafusadeira furadeira de impacto 13mm parafusadeira de impacto 6 3mm dewalt dck276d2",
-      "title": "Combo Parafusadeira Furadeira de Impacto 13mm + Parafusadeira de Impacto 6,3mm DEWALT DCK276D2",
-      "category": "Ferramentas",
-      "price": 1589.28,
-      "score": 160.78,
-      "posted_ts": 1786910619,
-      "posted_at": "2026-08-16T20:03:39.855587+00:00"
     }
   ],
-  "updated_at": "2026-08-18T20:03:35.483363+00:00"
+  "updated_at": "2026-08-18T21:03:25.197884+00:00"
 }
