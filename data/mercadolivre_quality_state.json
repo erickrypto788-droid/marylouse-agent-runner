@@ -1,6 +1,21 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB7209542710",
+      "product_id": "MLB7209542710",
+      "catalog_product_id": "MLB69276346",
+      "item_id": "MLB7209542710",
+      "url": "https://www.mercadolivre.com.br/p/MLB69276346?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB69276346?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "calca legging fitness feminina ausare com protecao uv 50 para academia yoga e pilates",
+      "title": "Calça Legging Fitness Feminina Ausare com Proteção UV 50+ para Academia, Yoga e Pilates",
+      "category": "Moda Feminina",
+      "price": 78.9,
+      "score": 88.0,
+      "posted_ts": 1787083415,
+      "posted_at": "2026-08-18T20:03:35.483354+00:00"
+    },
+    {
       "key": "mercadolivre:MLB7046261998",
       "product_id": "MLB7046261998",
       "catalog_product_id": "MLB28886645",
@@ -689,37 +704,7 @@
       "score": 160.78,
       "posted_ts": 1786910619,
       "posted_at": "2026-08-16T20:03:39.855587+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB6043959478",
-      "product_id": "MLB6043959478",
-      "catalog_product_id": "MLB63064118",
-      "item_id": "MLB6043959478",
-      "url": "https://www.mercadolivre.com.br/p/MLB63064118?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB63064118?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "furadeira profissional 350w furadeira eletrica furadeira velocidade variavel furadeira para uso domestico obras construcao marcenaria diy faca voce mesmo furadeira 110v cor laranja",
-      "title": "Furadeira Profissional 350w Furadeira Elétrica Furadeira Velocidade Variável Furadeira Para Uso Doméstico / Obras/construção / Marcenaria / Diy (faça Você Mesmo) Furadeira 110v Cor Laranja",
-      "category": "Ferramentas",
-      "price": 96.99,
-      "score": 167.18,
-      "posted_ts": 1786910547,
-      "posted_at": "2026-08-16T20:02:27.206903+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB4750057565",
-      "product_id": "MLB4750057565",
-      "catalog_product_id": "MLB54083722",
-      "item_id": "MLB4750057565",
-      "url": "https://www.mercadolivre.com.br/p/MLB54083722?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB54083722?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "fritadeira air fryer mondial oven digital 127v",
-      "title": "Fritadeira Air Fryer Mondial Oven Digital 127v",
-      "category": "Casa e Cozinha",
-      "price": 1800.0,
-      "score": 124.0,
-      "posted_ts": 1786906934,
-      "posted_at": "2026-08-16T19:02:14.021927+00:00"
     }
   ],
-  "updated_at": "2026-08-18T18:09:28.539642+00:00"
+  "updated_at": "2026-08-18T20:03:35.483363+00:00"
 }
