@@ -1,6 +1,76 @@
 {
   "posts": [
     {
+      "key": "shopee:23998684746",
+      "marketplace": "shopee",
+      "id": "23998684746",
+      "title": "Kit de Halteres Treino 20 Kg Bonafit 3 em 1 Musculação Ajustável Segurança e Durabilidade + Ebook",
+      "title_norm": "kit de halteres treino 20 kg bonafit 3 em 1 musculacao ajustavel seguranca e durabilidade ebook",
+      "url": "https://shopee.com.br/product/405481102/23998684746",
+      "affiliate_url": "https://s.shopee.com.br/2gARgkA1T6",
+      "category": "aheadsports",
+      "bucket": "aheadsports",
+      "posted_ts": 1787055670,
+      "posted_at": "2026-08-18T12:21:10.554679+00:00",
+      "score": 106.24
+    },
+    {
+      "key": "shopee:23198212585",
+      "marketplace": "shopee",
+      "id": "23198212585",
+      "title": "Whey Ultra Protein Concentrado Pote 900g - FTW",
+      "title_norm": "whey ultra protein concentrado pote 900g ftw",
+      "url": "https://shopee.com.br/product/1397772996/23198212585",
+      "affiliate_url": "https://s.shopee.com.br/5LBCreM8wq",
+      "category": "Loja Oficial FTW",
+      "bucket": "loja_oficial_ftw",
+      "posted_ts": 1787055606,
+      "posted_at": "2026-08-18T12:20:06.296482+00:00",
+      "score": 106.57
+    },
+    {
+      "key": "shopee:23219268297",
+      "marketplace": "shopee",
+      "id": "23219268297",
+      "title": "Creatina Integral medica Monohidratada PURA 300g",
+      "title_norm": "creatina integral medica monohidratada pura 300g",
+      "url": "https://shopee.com.br/product/677860531/23219268297",
+      "affiliate_url": "https://s.shopee.com.br/3VjYgHSzCo",
+      "category": "Brasil S2",
+      "bucket": "brasil_s2",
+      "posted_ts": 1787055541,
+      "posted_at": "2026-08-18T12:19:01.908355+00:00",
+      "score": 108.48
+    },
+    {
+      "key": "shopee:19698263918",
+      "marketplace": "shopee",
+      "id": "19698263918",
+      "title": "Conjunto Short Fitness Cintura Alta Suplex Premium Zero Transparência",
+      "title_norm": "conjunto short fitness cintura alta suplex premium zero transparencia",
+      "url": "https://shopee.com.br/product/375110670/19698263918",
+      "affiliate_url": "https://s.shopee.com.br/40fpHCE1Kf",
+      "category": "anapaulamodafitness",
+      "bucket": "anapaulamodafitness",
+      "posted_ts": 1787055474,
+      "posted_at": "2026-08-18T12:17:54.483275+00:00",
+      "score": 114.27
+    },
+    {
+      "key": "shopee:23799392448",
+      "marketplace": "shopee",
+      "id": "23799392448",
+      "title": "Abdominais Ventosas Fortes 3 Ajustes | Protege Barriga/Joelhos | Casa/Academia",
+      "title_norm": "abdominais ventosas fortes 3 ajustes protege barriga joelhos casa academia",
+      "url": "https://shopee.com.br/product/1702671329/23799392448",
+      "affiliate_url": "https://s.shopee.com.br/3LQ8TyGYgb",
+      "category": "quantalisecommerce",
+      "bucket": "quantalisecommerce",
+      "posted_ts": 1787055404,
+      "posted_at": "2026-08-18T12:16:44.518505+00:00",
+      "score": 114.51
+    },
+    {
       "key": "shopee:40111757733",
       "marketplace": "shopee",
       "id": "40111757733",
@@ -7113,5 +7183,5 @@
       "score": 130.19
     }
   ],
-  "updated_at": "2026-08-18T11:21:08.193706+00:00"
+  "updated_at": "2026-08-18T12:21:10.554690+00:00"
 }
