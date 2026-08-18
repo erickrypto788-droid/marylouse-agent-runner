@@ -1,6 +1,76 @@
 {
   "posts": [
     {
+      "key": "shopee:58200006241",
+      "marketplace": "shopee",
+      "id": "58200006241",
+      "title": "Modem 4g Lte Wi-fi Hotspot Roteador Dongle Usb 150 Mbps Cor Branco-v2",
+      "title_norm": "modem 4g lte wi fi hotspot roteador dongle usb 150 mbps cor branco v2",
+      "url": "https://shopee.com.br/product/384064825/58200006241",
+      "affiliate_url": "https://s.shopee.com.br/8KondiUEG8",
+      "category": "SHOPELXY",
+      "bucket": "shopelxy",
+      "posted_ts": 1787012454,
+      "posted_at": "2026-08-18T00:20:54.817603+00:00",
+      "score": 83.1
+    },
+    {
+      "key": "shopee:22697748403",
+      "marketplace": "shopee",
+      "id": "22697748403",
+      "title": "Caderno Universitário Capa Dura 1 Matéria Com 80 Folhas Preto Rosa Escolar Credeal",
+      "title_norm": "caderno universitario capa dura 1 materia com 80 folhas preto rosa escolar credeal",
+      "url": "https://shopee.com.br/product/1046010418/22697748403",
+      "affiliate_url": "https://s.shopee.com.br/80BxAylBob",
+      "category": "PAPEL.PAPELARIA",
+      "bucket": "papel_papelaria",
+      "posted_ts": 1787012390,
+      "posted_at": "2026-08-18T00:19:50.638765+00:00",
+      "score": 83.76
+    },
+    {
+      "key": "shopee:16404033482",
+      "marketplace": "shopee",
+      "id": "16404033482",
+      "title": "Hub USB com 4/7 Entradas USB 2.0 de Alta Velocidade com Botão Liga/Desliga",
+      "title_norm": "hub usb com 4 7 entradas usb 2 0 de alta velocidade com botao liga desliga",
+      "url": "https://shopee.com.br/product/390307022/16404033482",
+      "affiliate_url": "https://s.shopee.com.br/AKZs1OE5hf",
+      "category": "ZSZ_brasil",
+      "bucket": "calcados",
+      "posted_ts": 1787012326,
+      "posted_at": "2026-08-18T00:18:46.537762+00:00",
+      "score": 83.88
+    },
+    {
+      "key": "shopee:58251556044",
+      "marketplace": "shopee",
+      "id": "58251556044",
+      "title": "Case Gaveta HD SSD 2.5 Sata III USB 3.0 Transparente Externo 6Gbps PC Notebook PS4 Kit 2  jehnny",
+      "title_norm": "case gaveta hd ssd 2 5 sata iii usb 3 0 transparente externo 6gbps pc notebook ps4 kit 2 jehnny",
+      "url": "https://shopee.com.br/product/1555286005/58251556044",
+      "affiliate_url": "https://s.shopee.com.br/6fgZeeNeQL",
+      "category": "JEHNNY.STORE",
+      "bucket": "informatica",
+      "posted_ts": 1787012262,
+      "posted_at": "2026-08-18T00:17:42.338393+00:00",
+      "score": 125.46
+    },
+    {
+      "key": "shopee:11071654784",
+      "marketplace": "shopee",
+      "id": "11071654784",
+      "title": "Unidade de estado sólido integrada SATA III de 2.5 \"SSD 120 GB/240 GB/256 GB para a memória e o armazenamento",
+      "title_norm": "unidade de estado solido integrada sata iii de 2 5 ssd 120 gb 240 gb 256 gb para a memoria e o armazenamento",
+      "url": "https://shopee.com.br/product/469077648/11071654784",
+      "affiliate_url": "https://s.shopee.com.br/8AVNRPHwNk",
+      "category": "Gaoke.br",
+      "bucket": "informatica",
+      "posted_ts": 1787012198,
+      "posted_at": "2026-08-18T00:16:38.161981+00:00",
+      "score": 129.36
+    },
+    {
       "key": "mercadolivre:MLB6288663502",
       "marketplace": "mercadolivre",
       "id": "MLB6288663502",
@@ -6245,5 +6315,5 @@
       "score": 130.19
     }
   ],
-  "updated_at": "2026-08-18T00:09:35.825262+00:00"
+  "updated_at": "2026-08-18T00:20:54.817615+00:00"
 }
