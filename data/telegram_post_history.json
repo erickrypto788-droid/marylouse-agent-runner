@@ -1,6 +1,76 @@
 {
   "posts": [
     {
+      "key": "shopee:23994061112",
+      "marketplace": "shopee",
+      "id": "23994061112",
+      "title": "Sapatinho de bebê - Sapatilha Boneca Feminina Batizado",
+      "title_norm": "sapatinho de bebe sapatilha boneca feminina batizado",
+      "url": "https://shopee.com.br/product/816642727/23994061112",
+      "affiliate_url": "https://s.shopee.com.br/6fgZFviP2G",
+      "category": "Sassá Baby Confecções",
+      "bucket": "sassa_baby_confeccoes",
+      "posted_ts": 1787059272,
+      "posted_at": "2026-08-18T13:21:12.671955+00:00",
+      "score": 92.03
+    },
+    {
+      "key": "shopee:23799355108",
+      "marketplace": "shopee",
+      "id": "23799355108",
+      "title": "Caminhão Dinossauro Dino Engole Carrinhos Brinquedo Infantil Menino Kit Presente",
+      "title_norm": "caminhao dinossauro dino engole carrinhos brinquedo infantil menino kit presente",
+      "url": "https://shopee.com.br/product/1377920727/23799355108",
+      "affiliate_url": "https://s.shopee.com.br/8KonNFgUVC",
+      "category": "rcacomercial",
+      "bucket": "rcacomercial",
+      "posted_ts": 1787059208,
+      "posted_at": "2026-08-18T13:20:08.667342+00:00",
+      "score": 93.65
+    },
+    {
+      "key": "shopee:23494419895",
+      "marketplace": "shopee",
+      "id": "23494419895",
+      "title": "Casinha de Boneca com 14 Quartos - Inclui Corda de Luzes | Brinquedo para Crianças Presente De Aniversário",
+      "title_norm": "casinha de boneca com 14 quartos inclui corda de luzes brinquedo para criancas presente de aniversario",
+      "url": "https://shopee.com.br/product/1625500226/23494419895",
+      "affiliate_url": "https://s.shopee.com.br/3B6h5Uvj8W",
+      "category": "Domibro.br",
+      "bucket": "domibro_br",
+      "posted_ts": 1787059139,
+      "posted_at": "2026-08-18T13:18:59.217529+00:00",
+      "score": 96.51
+    },
+    {
+      "key": "shopee:52350974881",
+      "marketplace": "shopee",
+      "id": "52350974881",
+      "title": "Kit Maleta 10 Carrinhos De Ferro Miniatura Resistente Compatível Hotwheels Die Cast",
+      "title_norm": "kit maleta 10 carrinhos de ferro miniatura resistente compativel hotwheels die cast",
+      "url": "https://shopee.com.br/product/438068303/52350974881",
+      "affiliate_url": "https://s.shopee.com.br/70JQupMiSl",
+      "category": "Atacarejo Kids",
+      "bucket": "atacarejo_kids",
+      "posted_ts": 1787059069,
+      "posted_at": "2026-08-18T13:17:49.075438+00:00",
+      "score": 97.76
+    },
+    {
+      "key": "shopee:18107139730",
+      "marketplace": "shopee",
+      "id": "18107139730",
+      "title": "Toy Story Jessie Woody Vocal Brinquedos Bonecas Figuras De Ação Modelo Para Presente De Aniversário Das Crianças",
+      "title_norm": "toy story jessie woody vocal brinquedos bonecas figuras de acao modelo para presente de aniversario das criancas",
+      "url": "https://shopee.com.br/product/594643039/18107139730",
+      "affiliate_url": "https://s.shopee.com.br/20ukxdskDS",
+      "category": "JINNStore.br",
+      "bucket": "jinnstore_br",
+      "posted_ts": 1787059000,
+      "posted_at": "2026-08-18T13:16:40.623163+00:00",
+      "score": 99.94
+    },
+    {
       "key": "shopee:23998684746",
       "marketplace": "shopee",
       "id": "23998684746",
@@ -7183,5 +7253,5 @@
       "score": 130.19
     }
   ],
-  "updated_at": "2026-08-18T12:21:10.554690+00:00"
+  "updated_at": "2026-08-18T13:21:12.671975+00:00"
 }
