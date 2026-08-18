@@ -1,6 +1,36 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB4440801288",
+      "product_id": "MLB4440801288",
+      "catalog_product_id": "MLB32548731",
+      "item_id": "MLB4440801288",
+      "url": "https://www.mercadolivre.com.br/p/MLB32548731?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB32548731?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "jogo panelas vermelho aluminio fundido usinado javaliaa26a30",
+      "title": "Jogo Panelas Vermelho Alumínio Fundido Usinado Javaliaa26a30",
+      "category": "Casa e Cozinha",
+      "price": 761.1,
+      "score": 111.0,
+      "posted_ts": 1787018635,
+      "posted_at": "2026-08-18T02:03:55.590663+00:00"
+    },
+    {
+      "key": "mercadolivre:MLB4211537553",
+      "product_id": "MLB4211537553",
+      "catalog_product_id": "MLB33380670",
+      "item_id": "MLB4211537553",
+      "url": "https://www.mercadolivre.com.br/p/MLB33380670?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB33380670?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "conjunto de panelas antiaderente 5pc grafite panelux",
+      "title": "Conjunto De Panelas Antiaderente 5pc Grafite - Panelux",
+      "category": "Casa e Cozinha",
+      "price": 217.7,
+      "score": 113.0,
+      "posted_ts": 1787018571,
+      "posted_at": "2026-08-18T02:02:51.569701+00:00"
+    },
+    {
       "key": "mercadolivre:MLB4040219599",
       "product_id": "MLB4040219599",
       "catalog_product_id": "MLB36244629",
@@ -974,22 +1004,7 @@
       "score": 104.0,
       "posted_ts": 1786849354,
       "posted_at": "2026-08-16T03:02:34.533517+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB4654205549",
-      "product_id": "MLB4654205549",
-      "catalog_product_id": "MLB47353377",
-      "item_id": "MLB4654205549",
-      "url": "https://www.mercadolivre.com.br/p/MLB47353377?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB47353377?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "roteador wifi ac 1200 2 flex",
-      "title": "Roteador Wifi Ac 1200 2 Flex",
-      "category": "Informática",
-      "price": 169.14,
-      "score": 104.74,
-      "posted_ts": 1786845744,
-      "posted_at": "2026-08-16T02:02:24.748410+00:00"
     }
   ],
-  "updated_at": "2026-08-18T01:05:37.205236+00:00"
+  "updated_at": "2026-08-18T02:03:55.590673+00:00"
 }
