@@ -1,6 +1,76 @@
 {
   "posts": [
     {
+      "key": "shopee:22594885962",
+      "marketplace": "shopee",
+      "id": "22594885962",
+      "title": "Berço Portátil Bebê Moisés com Mosquiteiro Rodinhas Colchão Incluso Cesto Organizador Recém-Nascido",
+      "title_norm": "berco portatil bebe moises com mosquiteiro rodinhas colchao incluso cesto organizador recem nascido",
+      "url": "https://shopee.com.br/product/552389168/22594885962",
+      "affiliate_url": "https://s.shopee.com.br/5q7Tf3ocoC",
+      "category": "Q-Traje",
+      "bucket": "q_traje",
+      "posted_ts": 1787066568,
+      "posted_at": "2026-08-18T15:22:48.287479+00:00",
+      "score": 75.23
+    },
+    {
+      "key": "shopee:23997427973",
+      "marketplace": "shopee",
+      "id": "23997427973",
+      "title": "Kit Enxoval Cueiro e Paninho de boca ( 9 PEÇAS ) Bebê",
+      "title_norm": "kit enxoval cueiro e paninho de boca 9 pecas bebe",
+      "url": "https://shopee.com.br/product/212844114/23997427973",
+      "affiliate_url": "https://s.shopee.com.br/3g2z54WXop",
+      "category": "Geral Baby - Produtos Infantil",
+      "bucket": "geral_baby_produtos_infantil",
+      "posted_ts": 1787066504,
+      "posted_at": "2026-08-18T15:21:44.249463+00:00",
+      "score": 75.28
+    },
+    {
+      "key": "shopee:23498038856",
+      "marketplace": "shopee",
+      "id": "23498038856",
+      "title": "140 Blocos De Montar Super Coloridos Carrinho + Rodinhas - educacional",
+      "title_norm": "140 blocos de montar super coloridos carrinho rodinhas educacional",
+      "url": "https://shopee.com.br/product/399751373/23498038856",
+      "affiliate_url": "https://s.shopee.com.br/9ANuMmdJoJ",
+      "category": "JoO Imported",
+      "bucket": "joo_imported",
+      "posted_ts": 1787066440,
+      "posted_at": "2026-08-18T15:20:40.263522+00:00",
+      "score": 79.22
+    },
+    {
+      "key": "shopee:58204723156",
+      "marketplace": "shopee",
+      "id": "58204723156",
+      "title": "Kit 48 Carrinhos com Fricção de Lata Metálica Coloridos - Caixa Container que Vira Pista QUALIDADE",
+      "title_norm": "kit 48 carrinhos com friccao de lata metalica coloridos caixa container que vira pista qualidade",
+      "url": "https://shopee.com.br/product/1609042341/58204723156",
+      "affiliate_url": "https://s.shopee.com.br/8V8DZYfrAF",
+      "category": "LINDU 2025",
+      "bucket": "lindu_2025",
+      "posted_ts": 1787066376,
+      "posted_at": "2026-08-18T15:19:36.288422+00:00",
+      "score": 85.79
+    },
+    {
+      "key": "shopee:44001553177",
+      "marketplace": "shopee",
+      "id": "44001553177",
+      "title": "Tapete Higiênico Descartável para Cachorro Unidades 60x60 cm - Fralda Pet Xixi Cão Pequeno Médio",
+      "title_norm": "tapete higienico descartavel para cachorro unidades 60x60 cm fralda pet xixi cao pequeno medio",
+      "url": "https://shopee.com.br/product/1101178064/44001553177",
+      "affiliate_url": "https://s.shopee.com.br/1VyUV5enDI",
+      "category": "Jatobraz",
+      "bucket": "fraldas",
+      "posted_ts": 1787066312,
+      "posted_at": "2026-08-18T15:18:32.300619+00:00",
+      "score": 125.01
+    },
+    {
       "key": "shopee:58253268558",
       "marketplace": "shopee",
       "id": "58253268558",
@@ -7337,5 +7407,5 @@
       "score": 130.19
     }
   ],
-  "updated_at": "2026-08-18T14:20:55.701156+00:00"
+  "updated_at": "2026-08-18T15:22:48.287491+00:00"
 }
