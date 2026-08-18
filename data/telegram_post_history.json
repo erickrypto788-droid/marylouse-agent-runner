@@ -1,6 +1,76 @@
 {
   "posts": [
     {
+      "key": "shopee:27094198997",
+      "marketplace": "shopee",
+      "id": "27094198997",
+      "title": "Conjunto de 4 peças 10 ml de gel sólido antiderrapante com caneta de ponta dupla, kit 3D para unhas em relevo e",
+      "title_norm": "conjunto de 4 pecas 10 ml de gel solido antiderrapante com caneta de ponta dupla kit 3d para unhas em relevo e",
+      "url": "https://shopee.com.br/product/1006215031/27094198997",
+      "affiliate_url": "https://s.shopee.com.br/8AVOdZqOmT",
+      "category": "Choice Oficial",
+      "bucket": "choice_oficial",
+      "posted_ts": 1787077270,
+      "posted_at": "2026-08-18T18:21:10.833333+00:00",
+      "score": 66.93
+    },
+    {
+      "key": "shopee:23598815356",
+      "marketplace": "shopee",
+      "id": "23598815356",
+      "title": "Agenda para agendamento de clientes com páginas não datada",
+      "title_norm": "agenda para agendamento de clientes com paginas nao datada",
+      "url": "https://shopee.com.br/product/221799126/23598815356",
+      "affiliate_url": "https://s.shopee.com.br/5fo3ezLz4W",
+      "category": "PP Personalizado",
+      "bucket": "pp_personalizado",
+      "posted_ts": 1787077205,
+      "posted_at": "2026-08-18T18:20:05.888355+00:00",
+      "score": 78.76
+    },
+    {
+      "key": "shopee:18299332007",
+      "marketplace": "shopee",
+      "id": "18299332007",
+      "title": "Caneta Glitter 4/6 Cores Flash Silver Gel Marcador Metálico para Bullet Journal Agenda Desenho DIY",
+      "title_norm": "caneta glitter 4 6 cores flash silver gel marcador metalico para bullet journal agenda desenho diy",
+      "url": "https://shopee.com.br/product/1234149276/18299332007",
+      "affiliate_url": "https://s.shopee.com.br/8AVOdaCSzn",
+      "category": "KissShe",
+      "bucket": "kissshe",
+      "posted_ts": 1787077141,
+      "posted_at": "2026-08-18T18:19:01.643747+00:00",
+      "score": 79.11
+    },
+    {
+      "key": "shopee:23098472200",
+      "marketplace": "shopee",
+      "id": "23098472200",
+      "title": "Caderno Inteligente A5/B5/A4  Capa Dura Pautado  80 Folhas Caderno Diário Agenda Planner",
+      "title_norm": "caderno inteligente a5 b5 a4 capa dura pautado 80 folhas caderno diario agenda planner",
+      "url": "https://shopee.com.br/product/1190440853/23098472200",
+      "affiliate_url": "https://s.shopee.com.br/6pzyOJMoC8",
+      "category": "UMAIL SHOP",
+      "bucket": "umail_shop",
+      "posted_ts": 1787077077,
+      "posted_at": "2026-08-18T18:17:57.423065+00:00",
+      "score": 80.28
+    },
+    {
+      "key": "shopee:58258111675",
+      "marketplace": "shopee",
+      "id": "58258111675",
+      "title": "Suporte Para Notebook Base Dobrável de Alumínio Ergonômico Ajustável Fino Portátil Com Estojo-Rich",
+      "title_norm": "suporte para notebook base dobravel de aluminio ergonomico ajustavel fino portatil com estojo rich",
+      "url": "https://shopee.com.br/product/1680935964/58258111675",
+      "affiliate_url": "https://s.shopee.com.br/60QsnIxCdS",
+      "category": "RicH !",
+      "bucket": "informatica",
+      "posted_ts": 1787077006,
+      "posted_at": "2026-08-18T18:16:46.121604+00:00",
+      "score": 81.91
+    },
+    {
       "key": "mercadolivre:MLB7046261998",
       "marketplace": "mercadolivre",
       "id": "MLB7046261998",
@@ -7533,5 +7603,5 @@
       "score": 130.19
     }
   ],
-  "updated_at": "2026-08-18T18:09:28.532140+00:00"
+  "updated_at": "2026-08-18T18:21:10.833344+00:00"
 }
