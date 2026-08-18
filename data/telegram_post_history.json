@@ -1,6 +1,76 @@
 {
   "posts": [
     {
+      "key": "shopee:21798200941",
+      "marketplace": "shopee",
+      "id": "21798200941",
+      "title": "Fone P47 Headphone Sem Fio Estéreo Redução de Ruídos Bluetooth 5.0 Universal",
+      "title_norm": "fone p47 headphone sem fio estereo reducao de ruidos bluetooth 5 0 universal",
+      "url": "https://shopee.com.br/product/1396355892/21798200941",
+      "affiliate_url": "https://s.shopee.com.br/9V0lYpVnq7",
+      "category": "TOP LOJA ELETRONICO",
+      "bucket": "top_loja_eletronico",
+      "posted_ts": 1787041287,
+      "posted_at": "2026-08-18T08:21:27.528905+00:00",
+      "score": 75.6
+    },
+    {
+      "key": "shopee:58201417897",
+      "marketplace": "shopee",
+      "id": "58201417897",
+      "title": "Cabo 4 em 1 Universal Carregador Rápido USB Tipo-C e Lightning Carregamento Turbo",
+      "title_norm": "cabo 4 em 1 universal carregador rapido usb tipo c e lightning carregamento turbo",
+      "url": "https://shopee.com.br/product/676702088/58201417897",
+      "affiliate_url": "https://s.shopee.com.br/6VN9zJhDvB",
+      "category": "Dobest Comercio de Variedade",
+      "bucket": "dobest_comercio_de_variedade",
+      "posted_ts": 1787041217,
+      "posted_at": "2026-08-18T08:20:17.995214+00:00",
+      "score": 77.27
+    },
+    {
+      "key": "shopee:58205140425",
+      "marketplace": "shopee",
+      "id": "58205140425",
+      "title": "Película De Privacidade 3D Vidro Temperado Anti-Spy  Compatível Samsung A07 A17 A37 A57",
+      "title_norm": "pelicula de privacidade 3d vidro temperado anti spy compativel samsung a07 a17 a37 a57",
+      "url": "https://shopee.com.br/product/1240425443/58205140425",
+      "affiliate_url": "https://s.shopee.com.br/19gFMxEpD",
+      "category": "TopToki",
+      "bucket": "toptoki",
+      "posted_ts": 1787041149,
+      "posted_at": "2026-08-18T08:19:09.033273+00:00",
+      "score": 77.91
+    },
+    {
+      "key": "shopee:22393096204",
+      "marketplace": "shopee",
+      "id": "22393096204",
+      "title": "Carregador Super Rápido Turbo 125w 50w 68w 168w Fonte Tipo C para celular",
+      "title_norm": "carregador super rapido turbo 125w 50w 68w 168w fonte tipo c para celular",
+      "url": "https://shopee.com.br/product/638380156/22393096204",
+      "affiliate_url": "https://s.shopee.com.br/7fZ7NScmYW",
+      "category": "Lily Space",
+      "bucket": "celulares",
+      "posted_ts": 1787041079,
+      "posted_at": "2026-08-18T08:17:59.590322+00:00",
+      "score": 127.03
+    },
+    {
+      "key": "shopee:58259312102",
+      "marketplace": "shopee",
+      "id": "58259312102",
+      "title": "BML Smartphone 12GB+512GB ram AI Global 5G Dual Sim Android 15, 6.56'' Tela,Câmera 108MP-Bateria De 5000 mAh",
+      "title_norm": "bml smartphone 12gb 512gb ram ai global 5g dual sim android 15 6 56 tela camera 108mp bateria de 5000 mah",
+      "url": "https://shopee.com.br/product/1209650911/58259312102",
+      "affiliate_url": "https://s.shopee.com.br/7fZ7NSPRhA",
+      "category": "TRADENO ECOMERCE",
+      "bucket": "celulares",
+      "posted_ts": 1787041009,
+      "posted_at": "2026-08-18T08:16:49.391622+00:00",
+      "score": 127.18
+    },
+    {
       "key": "mercadolivre:MLB5297261932",
       "marketplace": "mercadolivre",
       "id": "MLB5297261932",
@@ -6777,5 +6847,5 @@
       "score": 130.19
     }
   ],
-  "updated_at": "2026-08-18T08:03:26.558055+00:00"
+  "updated_at": "2026-08-18T08:21:27.528918+00:00"
 }
