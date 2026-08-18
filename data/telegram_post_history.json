@@ -1,6 +1,48 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB4040219599",
+      "marketplace": "mercadolivre",
+      "id": "MLB4040219599",
+      "title": "Calça Feminina Tamanho M Texx Impermeável Com Proteção Conforto Viagem Moto Motociclista",
+      "title_norm": "calca feminina tamanho m texx impermeavel com protecao conforto viagem moto motociclista",
+      "url": "https://www.mercadolivre.com.br/p/MLB36244629?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB36244629?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Moda Feminina",
+      "bucket": "moda_feminina",
+      "posted_ts": 1787015137,
+      "posted_at": "2026-08-18T01:05:37.200049+00:00",
+      "score": 86.0
+    },
+    {
+      "key": "mercadolivre:MLB4795061481",
+      "marketplace": "mercadolivre",
+      "id": "MLB4795061481",
+      "title": "Molde Calça Legging Feminina Digital Pp-p-m-g-gg",
+      "title_norm": "molde calca legging feminina digital pp p m g gg",
+      "url": "https://www.mercadolivre.com.br/p/MLB74011420?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB74011420?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Moda Feminina",
+      "bucket": "moda_feminina",
+      "posted_ts": 1787015072,
+      "posted_at": "2026-08-18T01:04:32.547857+00:00",
+      "score": 88.0
+    },
+    {
+      "key": "mercadolivre:MLB7083949146",
+      "marketplace": "mercadolivre",
+      "id": "MLB7083949146",
+      "title": "Molde Calça Feminina Moletom Impresso P/m/g/gg/xg",
+      "title_norm": "molde calca feminina moletom impresso p m g gg xg",
+      "url": "https://www.mercadolivre.com.br/p/MLB74893563?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB74893563?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Moda Feminina",
+      "bucket": "moda_feminina",
+      "posted_ts": 1787015008,
+      "posted_at": "2026-08-18T01:03:28.243866+00:00",
+      "score": 88.0
+    },
+    {
       "key": "shopee:58200006241",
       "marketplace": "shopee",
       "id": "58200006241",
@@ -6315,5 +6357,5 @@
       "score": 130.19
     }
   ],
-  "updated_at": "2026-08-18T00:20:54.817615+00:00"
+  "updated_at": "2026-08-18T01:05:37.200069+00:00"
 }

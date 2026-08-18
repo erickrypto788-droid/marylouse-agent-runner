@@ -1,6 +1,51 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB4040219599",
+      "product_id": "MLB4040219599",
+      "catalog_product_id": "MLB36244629",
+      "item_id": "MLB4040219599",
+      "url": "https://www.mercadolivre.com.br/p/MLB36244629?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB36244629?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "calca feminina tamanho m texx impermeavel com protecao conforto viagem moto motociclista",
+      "title": "Calça Feminina Tamanho M Texx Impermeável Com Proteção Conforto Viagem Moto Motociclista",
+      "category": "Moda Feminina",
+      "price": 399.0,
+      "score": 86.0,
+      "posted_ts": 1787015137,
+      "posted_at": "2026-08-18T01:05:37.205225+00:00"
+    },
+    {
+      "key": "mercadolivre:MLB4795061481",
+      "product_id": "MLB4795061481",
+      "catalog_product_id": "MLB74011420",
+      "item_id": "MLB4795061481",
+      "url": "https://www.mercadolivre.com.br/p/MLB74011420?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB74011420?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "molde calca legging feminina digital pp p m g gg",
+      "title": "Molde Calça Legging Feminina Digital Pp-p-m-g-gg",
+      "category": "Moda Feminina",
+      "price": 88.9,
+      "score": 88.0,
+      "posted_ts": 1787015072,
+      "posted_at": "2026-08-18T01:04:32.553273+00:00"
+    },
+    {
+      "key": "mercadolivre:MLB7083949146",
+      "product_id": "MLB7083949146",
+      "catalog_product_id": "MLB74893563",
+      "item_id": "MLB7083949146",
+      "url": "https://www.mercadolivre.com.br/p/MLB74893563?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB74893563?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "molde calca feminina moletom impresso p m g gg xg",
+      "title": "Molde Calça Feminina Moletom Impresso P/m/g/gg/xg",
+      "category": "Moda Feminina",
+      "price": 129.9,
+      "score": 88.0,
+      "posted_ts": 1787015008,
+      "posted_at": "2026-08-18T01:03:28.249586+00:00"
+    },
+    {
       "key": "mercadolivre:MLB6288663502",
       "product_id": "MLB6288663502",
       "catalog_product_id": "MLB65794107",
@@ -946,5 +991,5 @@
       "posted_at": "2026-08-16T02:02:24.748410+00:00"
     }
   ],
-  "updated_at": "2026-08-18T00:09:35.830445+00:00"
+  "updated_at": "2026-08-18T01:05:37.205236+00:00"
 }
