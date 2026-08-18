@@ -1,6 +1,20 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB7119236764",
+      "marketplace": "mercadolivre",
+      "id": "MLB7119236764",
+      "title": "Bike Spinning Bicicleta 6kg Wct Fitness Preta",
+      "title_norm": "bike spinning bicicleta 6kg wct fitness preta",
+      "url": "https://www.mercadolivre.com.br/p/MLB75107533?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB75107533?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Esportes",
+      "bucket": "esportes",
+      "posted_ts": 1787029360,
+      "posted_at": "2026-08-18T05:02:40.942805+00:00",
+      "score": 141.48
+    },
+    {
       "key": "shopee:58205041774",
       "marketplace": "shopee",
       "id": "58205041774",
@@ -6595,5 +6609,5 @@
       "score": 130.19
     }
   ],
-  "updated_at": "2026-08-18T04:20:55.130842+00:00"
+  "updated_at": "2026-08-18T05:02:40.942817+00:00"
 }
