@@ -1,6 +1,76 @@
 {
   "posts": [
     {
+      "key": "shopee:58253268558",
+      "marketplace": "shopee",
+      "id": "58253268558",
+      "title": "Kit Monitor Medidor Glicose G-tech Vita Ultra Cinza-escuro",
+      "title_norm": "kit monitor medidor glicose g tech vita ultra cinza escuro",
+      "url": "https://shopee.com.br/product/343813983/58253268558",
+      "affiliate_url": "https://s.shopee.com.br/2qTs1IIh7N",
+      "category": "Shoplandia Oficial",
+      "bucket": "shoplandia_oficial",
+      "posted_ts": 1787062855,
+      "posted_at": "2026-08-18T14:20:55.701143+00:00",
+      "score": 43.69
+    },
+    {
+      "key": "shopee:22998380489",
+      "marketplace": "shopee",
+      "id": "22998380489",
+      "title": "Fonte Do Aparelho Pressão La800 De Braço Digital G.t.e.c.h",
+      "title_norm": "fonte do aparelho pressao la800 de braco digital g t e c h",
+      "url": "https://shopee.com.br/product/439464653/22998380489",
+      "affiliate_url": "https://s.shopee.com.br/2Vr1cg2Mcg",
+      "category": "Monte Sião Negocios",
+      "bucket": "monte_siao_negocios",
+      "posted_ts": 1787062791,
+      "posted_at": "2026-08-18T14:19:51.793129+00:00",
+      "score": 49.61
+    },
+    {
+      "key": "shopee:23693071269",
+      "marketplace": "shopee",
+      "id": "23693071269",
+      "title": "Oxímetro Dedo Digital G-tech Original Medidor De Saturação De Oxigênio NF Garantia de 1 Ano",
+      "title_norm": "oximetro dedo digital g tech original medidor de saturacao de oxigenio nf garantia de 1 ano",
+      "url": "https://shopee.com.br/product/961638733/23693071269",
+      "affiliate_url": "https://s.shopee.com.br/1qbKpSIAds",
+      "category": "ROMALIZ",
+      "bucket": "pet",
+      "posted_ts": 1787062727,
+      "posted_at": "2026-08-18T14:18:47.804224+00:00",
+      "score": 92.53
+    },
+    {
+      "key": "shopee:22994959649",
+      "marketplace": "shopee",
+      "id": "22994959649",
+      "title": "Kit Hospitalar Doméstico Completo: Medidor de Pressão, Termômetro Infravermelho e Oxímetro",
+      "title_norm": "kit hospitalar domestico completo medidor de pressao termometro infravermelho e oximetro",
+      "url": "https://shopee.com.br/product/1242067486/22994959649",
+      "affiliate_url": "https://s.shopee.com.br/9ANvYvqFlE",
+      "category": "Rossi Stores",
+      "bucket": "saude",
+      "posted_ts": 1787062663,
+      "posted_at": "2026-08-18T14:17:43.830838+00:00",
+      "score": 117.82
+    },
+    {
+      "key": "shopee:20999578899",
+      "marketplace": "shopee",
+      "id": "20999578899",
+      "title": "Inalador Ultrassônico Portátil Nebulizador USB Pilha Sem Fio - Pronta Entrega",
+      "title_norm": "inalador ultrassonico portatil nebulizador usb pilha sem fio pronta entrega",
+      "url": "https://shopee.com.br/product/1441056601/20999578899",
+      "affiliate_url": "https://s.shopee.com.br/2BE9xmWmRd",
+      "category": "LDK IMPORTS",
+      "bucket": "saude",
+      "posted_ts": 1787062599,
+      "posted_at": "2026-08-18T14:16:39.824346+00:00",
+      "score": 118.79
+    },
+    {
       "key": "mercadolivre:MLB6194818232",
       "marketplace": "mercadolivre",
       "id": "MLB6194818232",
@@ -7267,5 +7337,5 @@
       "score": 130.19
     }
   ],
-  "updated_at": "2026-08-18T14:02:25.813836+00:00"
+  "updated_at": "2026-08-18T14:20:55.701156+00:00"
 }
