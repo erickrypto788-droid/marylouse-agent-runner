@@ -1,6 +1,76 @@
 {
   "posts": [
     {
+      "key": "shopee:40111757733",
+      "marketplace": "shopee",
+      "id": "40111757733",
+      "title": "Shorts Curto Cotton Infantil Menina – Ideal para Usar com Saias e Vestidos | 2 a 12 Anos",
+      "title_norm": "shorts curto cotton infantil menina ideal para usar com saias e vestidos 2 a 12 anos",
+      "url": "https://shopee.com.br/product/391306526/40111757733",
+      "affiliate_url": "https://s.shopee.com.br/7fZ6FPK6nB",
+      "category": "ArtKids",
+      "bucket": "moda_feminina",
+      "posted_ts": 1787052068,
+      "posted_at": "2026-08-18T11:21:08.193693+00:00",
+      "score": 95.13
+    },
+    {
+      "key": "shopee:12413869764",
+      "marketplace": "shopee",
+      "id": "12413869764",
+      "title": "Kit 10 Cuecas Boxer Box Infantil Juvenil Menino Estampada",
+      "title_norm": "kit 10 cuecas boxer box infantil juvenil menino estampada",
+      "url": "https://shopee.com.br/product/318532790/12413869764",
+      "affiliate_url": "https://s.shopee.com.br/8fRdRFByF9",
+      "category": "CapehUnderwear",
+      "bucket": "capehunderwear",
+      "posted_ts": 1787052004,
+      "posted_at": "2026-08-18T11:20:04.209794+00:00",
+      "score": 97.54
+    },
+    {
+      "key": "shopee:58261565925",
+      "marketplace": "shopee",
+      "id": "58261565925",
+      "title": "Kit 2 Pares Sandália Infantil Papete Menina Casual Leve Lançamento",
+      "title_norm": "kit 2 pares sandalia infantil papete menina casual leve lancamento",
+      "url": "https://shopee.com.br/product/1782683148/58261565925",
+      "affiliate_url": "https://s.shopee.com.br/8pl3dYBKuA",
+      "category": "Sandalias Baby Colorito",
+      "bucket": "pet",
+      "posted_ts": 1787051932,
+      "posted_at": "2026-08-18T11:18:52.187166+00:00",
+      "score": 98.18
+    },
+    {
+      "key": "shopee:23435280753",
+      "marketplace": "shopee",
+      "id": "23435280753",
+      "title": "Tenis Infantil Meninos Casual Preto Preto + Óculos e Relógio Linkito",
+      "title_norm": "tenis infantil meninos casual preto preto oculos e relogio linkito",
+      "url": "https://shopee.com.br/product/351590697/23435280753",
+      "affiliate_url": "https://s.shopee.com.br/9V0llBUDqt",
+      "category": "LINKITO CALÇADOS",
+      "bucket": "calcados",
+      "posted_ts": 1787051868,
+      "posted_at": "2026-08-18T11:17:48.059721+00:00",
+      "score": 103.24
+    },
+    {
+      "key": "shopee:23198055561",
+      "marketplace": "shopee",
+      "id": "23198055561",
+      "title": "Tênis Calce Facil Infantil Bordado Leve Macio",
+      "title_norm": "tenis calce facil infantil bordado leve macio",
+      "url": "https://shopee.com.br/product/432788506/23198055561",
+      "affiliate_url": "https://s.shopee.com.br/AKZskiMr8Y",
+      "category": "Felícia Calçados",
+      "bucket": "calcados",
+      "posted_ts": 1787051799,
+      "posted_at": "2026-08-18T11:16:39.846774+00:00",
+      "score": 104.7
+    },
+    {
       "key": "mercadolivre:MLB6597920920",
       "marketplace": "mercadolivre",
       "id": "MLB6597920920",
@@ -7043,5 +7113,5 @@
       "score": 130.19
     }
   ],
-  "updated_at": "2026-08-18T11:03:25.904559+00:00"
+  "updated_at": "2026-08-18T11:21:08.193706+00:00"
 }
