@@ -1,6 +1,76 @@
 {
   "posts": [
     {
+      "key": "shopee:58208327100",
+      "marketplace": "shopee",
+      "id": "58208327100",
+      "title": "Creatina Monohidratada DUX Nutrition 100% Pura Original Academia – Hipertrofia",
+      "title_norm": "creatina monohidratada dux nutrition 100 pura original academia hipertrofia",
+      "url": "https://shopee.com.br/product/1593899060/58208327100",
+      "affiliate_url": "https://s.shopee.com.br/3B6iHfUFse",
+      "category": "Aplhavita",
+      "bucket": "aplhavita",
+      "posted_ts": 1787124080,
+      "posted_at": "2026-08-19T07:21:20.572238+00:00",
+      "score": 101.44
+    },
+    {
+      "key": "shopee:23994304552",
+      "marketplace": "shopee",
+      "id": "23994304552",
+      "title": "Bola de Futsal Topper Original E Bomba Slick Gold Original Resistente Futebol de Salão Oficial",
+      "title_norm": "bola de futsal topper original e bomba slick gold original resistente futebol de salao oficial",
+      "url": "https://shopee.com.br/product/1598096338/23994304552",
+      "affiliate_url": "https://s.shopee.com.br/LmYAkGIEc",
+      "category": "RTH Shop",
+      "bucket": "rth_shop",
+      "posted_ts": 1787124009,
+      "posted_at": "2026-08-19T07:20:09.915851+00:00",
+      "score": 101.47
+    },
+    {
+      "key": "shopee:29842873054",
+      "marketplace": "shopee",
+      "id": "29842873054",
+      "title": "Whey Protein Concentrado 1kg Refil - FTW",
+      "title_norm": "whey protein concentrado 1kg refil ftw",
+      "url": "https://shopee.com.br/product/1397772996/29842873054",
+      "affiliate_url": "https://s.shopee.com.br/7VFihut8Ph",
+      "category": "Loja Oficial FTW",
+      "bucket": "loja_oficial_ftw",
+      "posted_ts": 1787123942,
+      "posted_at": "2026-08-19T07:19:02.914634+00:00",
+      "score": 103.34
+    },
+    {
+      "key": "shopee:23594274140",
+      "marketplace": "shopee",
+      "id": "23594274140",
+      "title": "Kit Halteres Barra Kettlebell 6 em 1 Peso Musculação treino em casa",
+      "title_norm": "kit halteres barra kettlebell 6 em 1 peso musculacao treino em casa",
+      "url": "https://shopee.com.br/product/1473961115/23594274140",
+      "affiliate_url": "https://s.shopee.com.br/112Exy4t1m",
+      "category": "SalaCoz",
+      "bucket": "salacoz",
+      "posted_ts": 1787123874,
+      "posted_at": "2026-08-19T07:17:54.580784+00:00",
+      "score": 103.71
+    },
+    {
+      "key": "shopee:58204057552",
+      "marketplace": "shopee",
+      "id": "58204057552",
+      "title": "Kit 10 Marmitas com Travas 900ml BPAFREE Pote Plástico Freezer Microondas Fitness Refeição Alimento",
+      "title_norm": "kit 10 marmitas com travas 900ml bpafree pote plastico freezer microondas fitness refeicao alimento",
+      "url": "https://shopee.com.br/product/1731657310/58204057552",
+      "affiliate_url": "https://s.shopee.com.br/1gHvlC6gCd",
+      "category": "GL MIX Utilidades Oficial",
+      "bucket": "gl_mix_utilidades_oficial",
+      "posted_ts": 1787123805,
+      "posted_at": "2026-08-19T07:16:45.940504+00:00",
+      "score": 104.01
+    },
+    {
       "key": "shopee:41518716769",
       "marketplace": "shopee",
       "id": "41518716769",
@@ -8303,5 +8373,5 @@
       "score": 130.19
     }
   ],
-  "updated_at": "2026-08-19T06:20:59.039787+00:00"
+  "updated_at": "2026-08-19T07:21:20.572262+00:00"
 }
