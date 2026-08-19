@@ -1,6 +1,76 @@
 {
   "posts": [
     {
+      "key": "shopee:23898691043",
+      "marketplace": "shopee",
+      "id": "23898691043",
+      "title": "Kit 2 Galheteiro Vidro 500ml Bico Dosador Porta Azeite Vinagre Molho Shoyu Pimenta Cozinha Culinária",
+      "title_norm": "kit 2 galheteiro vidro 500ml bico dosador porta azeite vinagre molho shoyu pimenta cozinha culinaria",
+      "url": "https://shopee.com.br/product/1438976617/23898691043",
+      "affiliate_url": "https://s.shopee.com.br/6L3lqkhKLu",
+      "category": "Casa Super",
+      "bucket": "supermercado",
+      "posted_ts": 1787152875,
+      "posted_at": "2026-08-19T15:21:15.407142+00:00",
+      "score": 86.11
+    },
+    {
+      "key": "shopee:58202315800",
+      "marketplace": "shopee",
+      "id": "58202315800",
+      "title": "Puff Orgânico Curvo - 1 Metro Elegância e Conforto Moderno Feijao moderno tecido premium",
+      "title_norm": "puff organico curvo 1 metro elegancia e conforto moderno feijao moderno tecido premium",
+      "url": "https://shopee.com.br/product/1533449500/58202315800",
+      "affiliate_url": "https://s.shopee.com.br/3LQAHF1PSH",
+      "category": "VivaLar Decor",
+      "bucket": "vivalar_decor",
+      "posted_ts": 1787152811,
+      "posted_at": "2026-08-19T15:20:11.464187+00:00",
+      "score": 87.7
+    },
+    {
+      "key": "shopee:23095934785",
+      "marketplace": "shopee",
+      "id": "23095934785",
+      "title": "Quinoa Branca em Grãos 1Kg - P&P",
+      "title_norm": "quinoa branca em graos 1kg p p",
+      "url": "https://shopee.com.br/product/394192376/23095934785",
+      "affiliate_url": "https://s.shopee.com.br/2qTtgK3JT6",
+      "category": "P&P FIT",
+      "bucket": "p_p_fit",
+      "posted_ts": 1787152747,
+      "posted_at": "2026-08-19T15:19:07.524157+00:00",
+      "score": 89.65
+    },
+    {
+      "key": "shopee:3775644666",
+      "marketplace": "shopee",
+      "id": "3775644666",
+      "title": "Chocolate Moranguete 468g C/36 Unidades 13g Bel",
+      "title_norm": "chocolate moranguete 468g c 36 unidades 13g bel",
+      "url": "https://shopee.com.br/product/318555124/3775644666",
+      "affiliate_url": "https://s.shopee.com.br/AKZs5VlTX2",
+      "category": "Mania Pingo de Mel",
+      "bucket": "mania_pingo_de_mel",
+      "posted_ts": 1787152683,
+      "posted_at": "2026-08-19T15:18:03.472923+00:00",
+      "score": 89.84
+    },
+    {
+      "key": "shopee:22897368722",
+      "marketplace": "shopee",
+      "id": "22897368722",
+      "title": "Chocolate Twix Original 30 Unidades de 15g",
+      "title_norm": "chocolate twix original 30 unidades de 15g",
+      "url": "https://shopee.com.br/product/1196970617/22897368722",
+      "affiliate_url": "https://s.shopee.com.br/60QvS8iSTe",
+      "category": "M&M's Oficial",
+      "bucket": "m_m_s_oficial",
+      "posted_ts": 1787152612,
+      "posted_at": "2026-08-19T15:16:52.798352+00:00",
+      "score": 95.72
+    },
+    {
       "key": "shopee:21099605719",
       "marketplace": "shopee",
       "id": "21099605719",
@@ -8877,5 +8947,5 @@
       "score": 130.19
     }
   ],
-  "updated_at": "2026-08-19T14:21:10.628658+00:00"
+  "updated_at": "2026-08-19T15:21:15.407154+00:00"
 }
