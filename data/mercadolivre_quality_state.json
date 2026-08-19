@@ -1,6 +1,36 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB4485123021",
+      "product_id": "MLB4485123021",
+      "catalog_product_id": "MLB48332910",
+      "item_id": "MLB4485123021",
+      "url": "https://www.mercadolivre.com.br/p/MLB48332910?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB48332910?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "redmi note 14s cor preto",
+      "title": "Redmi Note 14s Cor Preto",
+      "category": "Informática",
+      "price": 1699.0,
+      "score": 108.0,
+      "posted_ts": 1787177029,
+      "posted_at": "2026-08-19T22:03:49.689271+00:00"
+    },
+    {
+      "key": "mercadolivre:MLB4450293643",
+      "product_id": "MLB4450293643",
+      "catalog_product_id": "MLB29728116",
+      "item_id": "MLB4450293643",
+      "url": "https://www.mercadolivre.com.br/p/MLB29728116?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB29728116?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "xiaomi poco poco x6 5g dual sim 256gb 12gb branco",
+      "title": "Xiaomi POCO Poco X6 5G Dual SIM 256GB/12GB Branco",
+      "category": "Informática",
+      "price": 3500.0,
+      "score": 124.0,
+      "posted_ts": 1787176962,
+      "posted_at": "2026-08-19T22:02:42.281561+00:00"
+    },
+    {
       "key": "mercadolivre:MLB5697892498",
       "product_id": "MLB5697892498",
       "catalog_product_id": "MLB56081727",
@@ -509,67 +539,7 @@
       "score": 153.54,
       "posted_ts": 1787011510,
       "posted_at": "2026-08-18T00:05:10.990575+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB4974714813",
-      "product_id": "MLB4974714813",
-      "catalog_product_id": "MLB66844874",
-      "item_id": "MLB4974714813",
-      "url": "https://www.mercadolivre.com.br/p/MLB66844874?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB66844874?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "racao gato estimacat premium filhote sabor frango 10kg",
-      "title": "Ração Gato Estimacat Premium Filhote Sabor Frango 10kg",
-      "category": "Pet",
-      "price": 253.07,
-      "score": 154.83,
-      "posted_ts": 1786996943,
-      "posted_at": "2026-08-17T20:02:23.516828+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB5026800457",
-      "product_id": "MLB5026800457",
-      "catalog_product_id": "MLB20643765",
-      "item_id": "MLB5026800457",
-      "url": "https://www.mercadolivre.com.br/p/MLB20643765?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB20643765?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "carregador iphone tipo usb c cor branco",
-      "title": "Carregador iPhone Tipo USB-C Cor Branco",
-      "category": "Informática",
-      "price": 349.99,
-      "score": 127.0,
-      "posted_ts": 1786986217,
-      "posted_at": "2026-08-17T17:03:37.001670+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB6512767686",
-      "product_id": "MLB6512767686",
-      "catalog_product_id": "MLB65973005",
-      "item_id": "MLB6512767686",
-      "url": "https://www.mercadolivre.com.br/p/MLB65973005?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB65973005?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "celular samsung galaxy a06 5g preto",
-      "title": "Celular Samsung Galaxy A06 5g Preto",
-      "category": "Informática",
-      "price": 899.0,
-      "score": 127.0,
-      "posted_ts": 1786986145,
-      "posted_at": "2026-08-17T17:02:25.543241+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB6665533644",
-      "product_id": "MLB6665533644",
-      "catalog_product_id": "MLB50957106",
-      "item_id": "MLB6665533644",
-      "url": "https://www.mercadolivre.com.br/p/MLB50957106?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB50957106?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "ssd nvme kingston 1tb nv3 m 2 2280 pcie 4 0 nf e cor ssd nvme m 2 2280 kingston 1tb",
-      "title": "Ssd Nvme Kingston 1tb Nv3 M.2 2280 Pcie 4.0 Nf-e Cor Ssd Nvme M.2 2280 Kingston 1tb",
-      "category": "Informática",
-      "price": 1090.0,
-      "score": 111.0,
-      "posted_ts": 1786975381,
-      "posted_at": "2026-08-17T14:03:01.314216+00:00"
     }
   ],
-  "updated_at": "2026-08-19T13:04:09.331260+00:00"
+  "updated_at": "2026-08-19T22:03:49.689279+00:00"
 }

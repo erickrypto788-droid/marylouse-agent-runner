@@ -1,6 +1,34 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB4485123021",
+      "marketplace": "mercadolivre",
+      "id": "MLB4485123021",
+      "title": "Redmi Note 14s Cor Preto",
+      "title_norm": "redmi note 14s cor preto",
+      "url": "https://www.mercadolivre.com.br/p/MLB48332910?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB48332910?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Informática",
+      "bucket": "celulares",
+      "posted_ts": 1787177029,
+      "posted_at": "2026-08-19T22:03:49.680695+00:00",
+      "score": 108.0
+    },
+    {
+      "key": "mercadolivre:MLB4450293643",
+      "marketplace": "mercadolivre",
+      "id": "MLB4450293643",
+      "title": "Xiaomi POCO Poco X6 5G Dual SIM 256GB/12GB Branco",
+      "title_norm": "xiaomi poco poco x6 5g dual sim 256gb 12gb branco",
+      "url": "https://www.mercadolivre.com.br/p/MLB29728116?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB29728116?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Informática",
+      "bucket": "celulares",
+      "posted_ts": 1787176962,
+      "posted_at": "2026-08-19T22:02:42.272242+00:00",
+      "score": 124.0
+    },
+    {
       "key": "shopee:23499424522",
       "marketplace": "shopee",
       "id": "23499424522",
@@ -9171,5 +9199,5 @@
       "score": 130.19
     }
   ],
-  "updated_at": "2026-08-19T21:17:56.967013+00:00"
+  "updated_at": "2026-08-19T22:03:49.680709+00:00"
 }
