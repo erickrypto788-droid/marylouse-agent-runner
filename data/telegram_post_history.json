@@ -1,6 +1,48 @@
 {
   "posts": [
     {
+      "key": "shopee:18799617679",
+      "marketplace": "shopee",
+      "id": "18799617679",
+      "title": "KIT 2 CABOS TIPO-C ULTRA RÁPIDO ORIGINAL INOVA Compatível com Diversas Marcas",
+      "title_norm": "kit 2 cabos tipo c ultra rapido original inova compativel com diversas marcas",
+      "url": "https://shopee.com.br/product/583550828/18799617679",
+      "affiliate_url": "https://s.shopee.com.br/BT7hxG7T5",
+      "category": "𝑨𝒏𝒚𝑾𝒊𝒍𝒍𝒊'𝒔 𝑺𝒕𝒐𝒓𝒆",
+      "bucket": "outros",
+      "posted_ts": 1787109530,
+      "posted_at": "2026-08-19T03:18:50.411904+00:00",
+      "score": 67.27
+    },
+    {
+      "key": "shopee:23091546001",
+      "marketplace": "shopee",
+      "id": "23091546001",
+      "title": "Amplificador De Imagem Da Tela Do Celular Lupa 3D 21,6CM*16,6CM*2,7CM Promoção",
+      "title_norm": "amplificador de imagem da tela do celular lupa 3d 21 6cm 16 6cm 2 7cm promocao",
+      "url": "https://shopee.com.br/product/832040275/23091546001",
+      "affiliate_url": "https://s.shopee.com.br/7fZ8dk0lav",
+      "category": "P&H  Oficial",
+      "bucket": "celulares",
+      "posted_ts": 1787109466,
+      "posted_at": "2026-08-19T03:17:46.407935+00:00",
+      "score": 121.37
+    },
+    {
+      "key": "shopee:22994336598",
+      "marketplace": "shopee",
+      "id": "22994336598",
+      "title": "Microfone de lapela duplo redondo magnético A’Gold 2 em 1 iphone tipo c discreto entrevista podcast video",
+      "title_norm": "microfone de lapela duplo redondo magnetico a gold 2 em 1 iphone tipo c discreto entrevista podcast video",
+      "url": "https://shopee.com.br/product/1117805526/22994336598",
+      "affiliate_url": "https://s.shopee.com.br/112EhULoar",
+      "category": " LUCKY STORE",
+      "bucket": "celulares",
+      "posted_ts": 1787109402,
+      "posted_at": "2026-08-19T03:16:42.506293+00:00",
+      "score": 126.68
+    },
+    {
       "key": "mercadolivre:MLB4745902149",
       "marketplace": "mercadolivre",
       "id": "MLB4745902149",
@@ -8065,5 +8107,5 @@
       "score": 130.19
     }
   ],
-  "updated_at": "2026-08-19T03:03:26.133406+00:00"
+  "updated_at": "2026-08-19T03:18:50.411921+00:00"
 }
