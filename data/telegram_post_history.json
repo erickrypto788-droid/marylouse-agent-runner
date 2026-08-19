@@ -1,6 +1,76 @@
 {
   "posts": [
     {
+      "key": "shopee:20299259734",
+      "marketplace": "shopee",
+      "id": "20299259734",
+      "title": "Kit 5 ou 10 Cuecas Boxer Masculinas Polo Wear Microfibra Leve e Elástico Confortável",
+      "title_norm": "kit 5 ou 10 cuecas boxer masculinas polo wear microfibra leve e elastico confortavel",
+      "url": "https://shopee.com.br/product/702234204/20299259734",
+      "affiliate_url": "https://s.shopee.com.br/9pdeDX6Hlf",
+      "category": "LuckBaby Modas",
+      "bucket": "luckbaby_modas",
+      "posted_ts": 1787163669,
+      "posted_at": "2026-08-19T18:21:09.834483+00:00",
+      "score": 82.84
+    },
+    {
+      "key": "shopee:22298489117",
+      "marketplace": "shopee",
+      "id": "22298489117",
+      "title": "Calça Jogger Run P ao G4 Tactel com Elastano para Treino Esportiva Masculina Original com Punho",
+      "title_norm": "calca jogger run p ao g4 tactel com elastano para treino esportiva masculina original com punho",
+      "url": "https://shopee.com.br/product/1291576037/22298489117",
+      "affiliate_url": "https://s.shopee.com.br/70JSqKCfhg",
+      "category": "FIT TEXTIL",
+      "bucket": "fit_textil",
+      "posted_ts": 1787163605,
+      "posted_at": "2026-08-19T18:20:05.815070+00:00",
+      "score": 83.25
+    },
+    {
+      "key": "shopee:22492784050",
+      "marketplace": "shopee",
+      "id": "22492784050",
+      "title": "Calça Jeans Masculina Slim Elastano Atacado",
+      "title_norm": "calca jeans masculina slim elastano atacado",
+      "url": "https://shopee.com.br/product/1079083566/22492784050",
+      "affiliate_url": "https://s.shopee.com.br/5q7VSBH74L",
+      "category": "New Collection Jeans",
+      "bucket": "new_collection_jeans",
+      "posted_ts": 1787163541,
+      "posted_at": "2026-08-19T18:19:01.669348+00:00",
+      "score": 84.55
+    },
+    {
+      "key": "shopee:7061770627",
+      "marketplace": "shopee",
+      "id": "7061770627",
+      "title": "Camisa Masculina Slim Fit Luxo Pronta Entrega",
+      "title_norm": "camisa masculina slim fit luxo pronta entrega",
+      "url": "https://shopee.com.br/product/334490687/7061770627",
+      "affiliate_url": "https://s.shopee.com.br/1Lf65uGqz3",
+      "category": "Reistory",
+      "bucket": "reistory",
+      "posted_ts": 1787163475,
+      "posted_at": "2026-08-19T18:17:55.069662+00:00",
+      "score": 85.58
+    },
+    {
+      "key": "shopee:23992783058",
+      "marketplace": "shopee",
+      "id": "23992783058",
+      "title": "Kit 2 camisa polo masculina camiseta premium piquet poliester",
+      "title_norm": "kit 2 camisa polo masculina camiseta premium piquet poliester",
+      "url": "https://shopee.com.br/product/380575792/23992783058",
+      "affiliate_url": "https://s.shopee.com.br/20umt8EJdF",
+      "category": "78 STORE",
+      "bucket": "78_store",
+      "posted_ts": 1787163404,
+      "posted_at": "2026-08-19T18:16:44.231992+00:00",
+      "score": 95.74
+    },
+    {
       "key": "shopee:22993111914",
       "marketplace": "shopee",
       "id": "22993111914",
@@ -9017,5 +9087,5 @@
       "score": 130.19
     }
   ],
-  "updated_at": "2026-08-19T17:22:59.182931+00:00"
+  "updated_at": "2026-08-19T18:21:09.834494+00:00"
 }
