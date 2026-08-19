@@ -1,6 +1,76 @@
 {
   "posts": [
     {
+      "key": "shopee:22993111914",
+      "marketplace": "shopee",
+      "id": "22993111914",
+      "title": "Conjunto Mabel Top Cropped Tomara que Caia Decote Coração e Short Botão com Bolso Cintura Alta Novidade Moda Feminina",
+      "title_norm": "conjunto mabel top cropped tomara que caia decote coracao e short botao com bolso cintura alta novidade moda feminina",
+      "url": "https://shopee.com.br/product/317314639/22993111914",
+      "affiliate_url": "https://s.shopee.com.br/5fo5Bl2AW9",
+      "category": "Nil Moda Feminina",
+      "bucket": "pet",
+      "posted_ts": 1787160179,
+      "posted_at": "2026-08-19T17:22:59.182916+00:00",
+      "score": 91.32
+    },
+    {
+      "key": "shopee:43418578917",
+      "marketplace": "shopee",
+      "id": "43418578917",
+      "title": "Kit 4 Blusinha Regata - Tecido Suplex Alça Larga Elegante Lisa Confortável Basica",
+      "title_norm": "kit 4 blusinha regata tecido suplex alca larga elegante lisa confortavel basica",
+      "url": "https://shopee.com.br/product/1325732134/43418578917",
+      "affiliate_url": "https://s.shopee.com.br/1BLfpUjhJW",
+      "category": "GRUPO AS MULTI",
+      "bucket": "grupo_as_multi",
+      "posted_ts": 1787160115,
+      "posted_at": "2026-08-19T17:21:55.100347+00:00",
+      "score": 92.69
+    },
+    {
+      "key": "shopee:57411045089",
+      "marketplace": "shopee",
+      "id": "57411045089",
+      "title": "Vestido Midi Feminino Malha Suplex Moda Camponesa Dia a Dia Confortavel",
+      "title_norm": "vestido midi feminino malha suplex moda camponesa dia a dia confortavel",
+      "url": "https://shopee.com.br/product/1389408941/57411045089",
+      "affiliate_url": "https://s.shopee.com.br/6L3lyyqcoL",
+      "category": "Alliehmodas",
+      "bucket": "moda_feminina",
+      "posted_ts": 1787160051,
+      "posted_at": "2026-08-19T17:20:51.082508+00:00",
+      "score": 95.7
+    },
+    {
+      "key": "shopee:58255233054",
+      "marketplace": "shopee",
+      "id": "58255233054",
+      "title": "Blusa Feminina Regata Franzido Gola Alta Suplex",
+      "title_norm": "blusa feminina regata franzido gola alta suplex",
+      "url": "https://shopee.com.br/product/1158819847/58255233054",
+      "affiliate_url": "https://s.shopee.com.br/19iRLo8gD",
+      "category": "Modas Nina",
+      "bucket": "moda_feminina",
+      "posted_ts": 1787159964,
+      "posted_at": "2026-08-19T17:19:24.010605+00:00",
+      "score": 97.24
+    },
+    {
+      "key": "shopee:22493863963",
+      "marketplace": "shopee",
+      "id": "22493863963",
+      "title": "The Perfect Top Insider",
+      "title_norm": "the perfect top insider",
+      "url": "https://shopee.com.br/product/1462595809/22493863963",
+      "affiliate_url": "https://s.shopee.com.br/8pl6xZlmbI",
+      "category": "INSIDER",
+      "bucket": "insider",
+      "posted_ts": 1787159859,
+      "posted_at": "2026-08-19T17:17:39.694068+00:00",
+      "score": 98.01
+    },
+    {
       "key": "shopee:23898691043",
       "marketplace": "shopee",
       "id": "23898691043",
@@ -8947,5 +9017,5 @@
       "score": 130.19
     }
   ],
-  "updated_at": "2026-08-19T15:21:15.407154+00:00"
+  "updated_at": "2026-08-19T17:22:59.182931+00:00"
 }
