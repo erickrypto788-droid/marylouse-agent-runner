@@ -1,6 +1,76 @@
 {
   "posts": [
     {
+      "key": "shopee:58205072200",
+      "marketplace": "shopee",
+      "id": "58205072200",
+      "title": "Jogo Xadrez Magnético Esferas Educacional Tabuleiro Infantil",
+      "title_norm": "jogo xadrez magnetico esferas educacional tabuleiro infantil",
+      "url": "https://shopee.com.br/product/1165645795/58205072200",
+      "affiliate_url": "https://s.shopee.com.br/19hqFtD0R",
+      "category": "UTILIDADES VC LTDA",
+      "bucket": "utilidades_vc_ltda",
+      "posted_ts": 1787127687,
+      "posted_at": "2026-08-19T08:21:27.689307+00:00",
+      "score": 86.38
+    },
+    {
+      "key": "shopee:23793169776",
+      "marketplace": "shopee",
+      "id": "23793169776",
+      "title": "Bicicleta Infantil Aro 12 Freio Tambor 1 Marcha Cestinha Nathor C/ Rodinha Menina de 90cm a 1m",
+      "title_norm": "bicicleta infantil aro 12 freio tambor 1 marcha cestinha nathor c rodinha menina de 90cm a 1m",
+      "url": "https://shopee.com.br/product/504754787/23793169776",
+      "affiliate_url": "https://s.shopee.com.br/30nJPlUS24",
+      "category": "Zociella Kids",
+      "bucket": "zociella_kids",
+      "posted_ts": 1787127617,
+      "posted_at": "2026-08-19T08:20:17.583888+00:00",
+      "score": 88.33
+    },
+    {
+      "key": "shopee:55060884539",
+      "marketplace": "shopee",
+      "id": "55060884539",
+      "title": "2.000 PCS Lego Blocos de Construção Copa do Mundo Hercules Cup Liga de Futebol Troféu Fãs Coleção Ornamentos Presentes d",
+      "title_norm": "2 000 pcs lego blocos de construcao copa do mundo hercules cup liga de futebol trofeu fas colecao ornamentos presentes d",
+      "url": "https://shopee.com.br/product/1832783005/55060884539",
+      "affiliate_url": "https://s.shopee.com.br/50YNnRRRXg",
+      "category": "shushu1.br",
+      "bucket": "shushu1_br",
+      "posted_ts": 1787127548,
+      "posted_at": "2026-08-19T08:19:08.391937+00:00",
+      "score": 90.44
+    },
+    {
+      "key": "shopee:23994909100",
+      "marketplace": "shopee",
+      "id": "23994909100",
+      "title": "Kit 6 Carrinhos Relampago MCqueen Carrinhos Resistente Miniatura Coleção Qualidade Premium",
+      "title_norm": "kit 6 carrinhos relampago mcqueen carrinhos resistente miniatura colecao qualidade premium",
+      "url": "https://shopee.com.br/product/459046840/23994909100",
+      "affiliate_url": "https://s.shopee.com.br/7psZAeTvQa",
+      "category": "Mariaaa Brinquedos",
+      "bucket": "mariaaa_brinquedos",
+      "posted_ts": 1787127472,
+      "posted_at": "2026-08-19T08:17:52.337703+00:00",
+      "score": 91.77
+    },
+    {
+      "key": "shopee:46306062636",
+      "marketplace": "shopee",
+      "id": "46306062636",
+      "title": "Spot It Jogo De Cartas Clássico Para Crianças Tabuleiro Educacional Família Desenvolvimento De Foco 2 8 Jogadores Brinqu",
+      "title_norm": "spot it jogo de cartas classico para criancas tabuleiro educacional familia desenvolvimento de foco 2 8 jogadores brinqu",
+      "url": "https://shopee.com.br/product/1006215031/46306062636",
+      "affiliate_url": "https://s.shopee.com.br/gPOdTqfeV",
+      "category": "Choice Oficial",
+      "bucket": "choice_oficial",
+      "posted_ts": 1787127404,
+      "posted_at": "2026-08-19T08:16:44.899694+00:00",
+      "score": 92.01
+    },
+    {
       "key": "mercadolivre:MLB4342761455",
       "marketplace": "mercadolivre",
       "id": "MLB4342761455",
@@ -8387,5 +8457,5 @@
       "score": 130.19
     }
   ],
-  "updated_at": "2026-08-19T08:02:21.261792+00:00"
+  "updated_at": "2026-08-19T08:21:27.689319+00:00"
 }
