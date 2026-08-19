@@ -1,6 +1,36 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB6802086400",
+      "product_id": "MLB6802086400",
+      "catalog_product_id": "MLB22608923",
+      "item_id": "MLB6802086400",
+      "url": "https://www.mercadolivre.com.br/p/MLB22608923?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB22608923?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "papel higienico thorium papel higienico rolao folha simples",
+      "title": "Papel higiênico Thorium Papel Higienico Rolão folha simples",
+      "category": "Supermercados",
+      "price": 64.36,
+      "score": 104.04,
+      "posted_ts": 1787141282,
+      "posted_at": "2026-08-19T12:08:02.318960+00:00"
+    },
+    {
+      "key": "mercadolivre:MLB6527572622",
+      "product_id": "MLB6527572622",
+      "catalog_product_id": "MLB23414358",
+      "item_id": "MLB6527572622",
+      "url": "https://www.mercadolivre.com.br/p/MLB23414358?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB23414358?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "fralda pampers premium care tamanho p 40 unidades",
+      "title": "Fralda Pampers Premium Care Tamanho P 40 Unidades",
+      "category": "Mãe e Bebê",
+      "price": 92.0,
+      "score": 130.0,
+      "posted_ts": 1787141216,
+      "posted_at": "2026-08-19T12:06:56.557893+00:00"
+    },
+    {
       "key": "mercadolivre:MLB4949684225",
       "product_id": "MLB4949684225",
       "catalog_product_id": "MLB75635951",
@@ -539,22 +569,7 @@
       "score": 111.0,
       "posted_ts": 1786971742,
       "posted_at": "2026-08-17T13:02:22.311071+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB4828628335",
-      "product_id": "MLB4828628335",
-      "catalog_product_id": "MLB44823770",
-      "item_id": "MLB4828628335",
-      "url": "https://www.mercadolivre.com.br/p/MLB44823770?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB44823770?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "perfume masculino amodil fonte verde perfume masculino 100ml",
-      "title": "Perfume masculino Amodil Fonte Verde Perfume masculino 100ml",
-      "category": "Beleza",
-      "price": 400.0,
-      "score": 111.0,
-      "posted_ts": 1786964537,
-      "posted_at": "2026-08-17T11:02:17.854099+00:00"
     }
   ],
-  "updated_at": "2026-08-19T09:02:46.224532+00:00"
+  "updated_at": "2026-08-19T12:08:02.318972+00:00"
 }

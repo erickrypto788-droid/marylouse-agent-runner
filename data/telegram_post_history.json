@@ -1,6 +1,34 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB6802086400",
+      "marketplace": "mercadolivre",
+      "id": "MLB6802086400",
+      "title": "Papel higiênico Thorium Papel Higienico Rolão folha simples",
+      "title_norm": "papel higienico thorium papel higienico rolao folha simples",
+      "url": "https://www.mercadolivre.com.br/p/MLB22608923?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB22608923?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Supermercados",
+      "bucket": "supermercado",
+      "posted_ts": 1787141282,
+      "posted_at": "2026-08-19T12:08:02.312177+00:00",
+      "score": 104.04
+    },
+    {
+      "key": "mercadolivre:MLB6527572622",
+      "marketplace": "mercadolivre",
+      "id": "MLB6527572622",
+      "title": "Fralda Pampers Premium Care Tamanho P 40 Unidades",
+      "title_norm": "fralda pampers premium care tamanho p 40 unidades",
+      "url": "https://www.mercadolivre.com.br/p/MLB23414358?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB23414358?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Mãe e Bebê",
+      "bucket": "fraldas",
+      "posted_ts": 1787141216,
+      "posted_at": "2026-08-19T12:06:56.550605+00:00",
+      "score": 130.0
+    },
+    {
       "key": "shopee:7895885450",
       "marketplace": "shopee",
       "id": "7895885450",
@@ -8639,5 +8667,5 @@
       "score": 130.19
     }
   ],
-  "updated_at": "2026-08-19T11:17:46.659942+00:00"
+  "updated_at": "2026-08-19T12:08:02.312187+00:00"
 }
