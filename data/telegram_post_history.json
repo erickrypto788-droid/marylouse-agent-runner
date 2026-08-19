@@ -1,6 +1,34 @@
 {
   "posts": [
     {
+      "key": "shopee:22392685500",
+      "marketplace": "shopee",
+      "id": "22392685500",
+      "title": "Carregador iPhone Turbo Tipo-C 20W + Cabo Lightining para IPhone Carga rápida",
+      "title_norm": "carregador iphone turbo tipo c 20w cabo lightining para iphone carga rapida",
+      "url": "https://shopee.com.br/product/390307022/22392685500",
+      "affiliate_url": "https://s.shopee.com.br/5LBF7k29mK",
+      "category": "ZSZ_brasil",
+      "bucket": "celulares",
+      "posted_ts": 1787177867,
+      "posted_at": "2026-08-19T22:17:47.891888+00:00",
+      "score": 109.77
+    },
+    {
+      "key": "shopee:58256227900",
+      "marketplace": "shopee",
+      "id": "58256227900",
+      "title": "Caneta Stylus Universal 3 Em 1 Para Tablets iPad/Android-Lápis De Tela De Toque Telefones iOS Samsung Xiaomi",
+      "title_norm": "caneta stylus universal 3 em 1 para tablets ipad android lapis de tela de toque telefones ios samsung xiaomi",
+      "url": "https://shopee.com.br/product/1197125923/58256227900",
+      "affiliate_url": "https://s.shopee.com.br/4fvYKVw6Qe",
+      "category": "QX Eletrônico",
+      "bucket": "celulares",
+      "posted_ts": 1787177803,
+      "posted_at": "2026-08-19T22:16:43.903808+00:00",
+      "score": 110.06
+    },
+    {
       "key": "mercadolivre:MLB4485123021",
       "marketplace": "mercadolivre",
       "id": "MLB4485123021",
@@ -9199,5 +9227,5 @@
       "score": 130.19
     }
   ],
-  "updated_at": "2026-08-19T22:03:49.680709+00:00"
+  "updated_at": "2026-08-19T22:17:47.891899+00:00"
 }
