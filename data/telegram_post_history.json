@@ -1,6 +1,48 @@
 {
   "posts": [
     {
+      "key": "shopee:58254696881",
+      "marketplace": "shopee",
+      "id": "58254696881",
+      "title": "Ventilador de Coluna Britânia Maxx Force 6 Pás 75W BVC31A",
+      "title_norm": "ventilador de coluna britania maxx force 6 pas 75w bvc31a",
+      "url": "https://shopee.com.br/product/811879342/58254696881",
+      "affiliate_url": "https://s.shopee.com.br/9KhMguwwLJ",
+      "category": "Britânia Oficial",
+      "bucket": "britania_oficial",
+      "posted_ts": 1787113119,
+      "posted_at": "2026-08-19T04:18:39.127428+00:00",
+      "score": 70.92
+    },
+    {
+      "key": "shopee:22792891006",
+      "marketplace": "shopee",
+      "id": "22792891006",
+      "title": "Cafeteira Philco 15 Cafezinhos 550W 600ml PCFE01",
+      "title_norm": "cafeteira philco 15 cafezinhos 550w 600ml pcfe01",
+      "url": "https://shopee.com.br/product/811034337/22792891006",
+      "affiliate_url": "https://s.shopee.com.br/1BLexuRtO1",
+      "category": "Philco Oficial",
+      "bucket": "casa_cozinha",
+      "posted_ts": 1787113055,
+      "posted_at": "2026-08-19T04:17:35.211611+00:00",
+      "score": 90.54
+    },
+    {
+      "key": "shopee:18299266586",
+      "marketplace": "shopee",
+      "id": "18299266586",
+      "title": "Aspirador de Pó 2 em 1 Limpeza Portátil Sem Fio Multifuncional Para Limpeza De Casa Manual",
+      "title_norm": "aspirador de po 2 em 1 limpeza portatil sem fio multifuncional para limpeza de casa manual",
+      "url": "https://shopee.com.br/product/465639879/18299266586",
+      "affiliate_url": "https://s.shopee.com.br/112ElbWvVQ",
+      "category": "T&TBem_vindo.br",
+      "bucket": "casa_cozinha",
+      "posted_ts": 1787112991,
+      "posted_at": "2026-08-19T04:16:31.317444+00:00",
+      "score": 92.05
+    },
+    {
       "key": "shopee:18799617679",
       "marketplace": "shopee",
       "id": "18799617679",
@@ -8107,5 +8149,5 @@
       "score": 130.19
     }
   ],
-  "updated_at": "2026-08-19T03:18:50.411921+00:00"
+  "updated_at": "2026-08-19T04:18:39.127441+00:00"
 }
