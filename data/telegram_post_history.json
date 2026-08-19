@@ -1,6 +1,76 @@
 {
   "posts": [
     {
+      "key": "shopee:23291332188",
+      "marketplace": "shopee",
+      "id": "23291332188",
+      "title": "Kit 12 Marca Texto (6 Neon + 6 pastel) Caneta marca texto Masterprint",
+      "title_norm": "kit 12 marca texto 6 neon 6 pastel caneta marca texto masterprint",
+      "url": "https://shopee.com.br/product/999239250/23291332188",
+      "affiliate_url": "https://s.shopee.com.br/30nIU5Rjji",
+      "category": "Draw Papelaria",
+      "bucket": "draw_papelaria",
+      "posted_ts": 1787145652,
+      "posted_at": "2026-08-19T13:20:52.624784+00:00",
+      "score": 55.16
+    },
+    {
+      "key": "shopee:22296074563",
+      "marketplace": "shopee",
+      "id": "22296074563",
+      "title": "Mini Agenda para Controle de Vendas - 100 folhas",
+      "title_norm": "mini agenda para controle de vendas 100 folhas",
+      "url": "https://shopee.com.br/product/381994104/22296074563",
+      "affiliate_url": "https://s.shopee.com.br/8Koq6AmsS0",
+      "category": "Mimo Personalizados Oficial",
+      "bucket": "mimo_personalizados_oficial",
+      "posted_ts": 1787145588,
+      "posted_at": "2026-08-19T13:19:48.749834+00:00",
+      "score": 56.28
+    },
+    {
+      "key": "shopee:52763574749",
+      "marketplace": "shopee",
+      "id": "52763574749",
+      "title": "Serviço de garantia, qualidade, pós-venda, caneta 3D de serviço exclusivo",
+      "title_norm": "servico de garantia qualidade pos venda caneta 3d de servico exclusivo",
+      "url": "https://shopee.com.br/product/1662583623/52763574749",
+      "affiliate_url": "https://s.shopee.com.br/8V8F2Bp86Z",
+      "category": "MaxTudo Loja",
+      "bucket": "maxtudo_loja",
+      "posted_ts": 1787145524,
+      "posted_at": "2026-08-19T13:18:44.844991+00:00",
+      "score": 58.26
+    },
+    {
+      "key": "shopee:22394494457",
+      "marketplace": "shopee",
+      "id": "22394494457",
+      "title": "Kit 36 Canetas Marca Texto Neon Fluorescente Vighs – Cores Vivas Secagem Rápida Escolar Escritório",
+      "title_norm": "kit 36 canetas marca texto neon fluorescente vighs cores vivas secagem rapida escolar escritorio",
+      "url": "https://shopee.com.br/product/1527598681/22394494457",
+      "affiliate_url": "https://s.shopee.com.br/3qMPTcOZ2p",
+      "category": "Mundo Vendas Online",
+      "bucket": "mundo_vendas_online",
+      "posted_ts": 1787145460,
+      "posted_at": "2026-08-19T13:17:40.887455+00:00",
+      "score": 59.0
+    },
+    {
+      "key": "shopee:58256029412",
+      "marketplace": "shopee",
+      "id": "58256029412",
+      "title": "Adesivos Personalizados 4x4 cm - 1000 unidades, 500, 300 ou 200 unidades - Com sua logo ou arte",
+      "title_norm": "adesivos personalizados 4x4 cm 1000 unidades 500 300 ou 200 unidades com sua logo ou arte",
+      "url": "https://shopee.com.br/product/1748741556/58256029412",
+      "affiliate_url": "https://s.shopee.com.br/6fgc76X9jj",
+      "category": "Céu de Papel Criativos",
+      "bucket": "ceu_de_papel_criativos",
+      "posted_ts": 1787145396,
+      "posted_at": "2026-08-19T13:16:36.802261+00:00",
+      "score": 61.18
+    },
+    {
       "key": "mercadolivre:MLB5697892498",
       "marketplace": "mercadolivre",
       "id": "MLB5697892498",
@@ -8737,5 +8807,5 @@
       "score": 130.19
     }
   ],
-  "updated_at": "2026-08-19T13:04:09.323847+00:00"
+  "updated_at": "2026-08-19T13:20:52.624795+00:00"
 }
