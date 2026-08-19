@@ -1,6 +1,36 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB5697892498",
+      "product_id": "MLB5697892498",
+      "catalog_product_id": "MLB56081727",
+      "item_id": "MLB5697892498",
+      "url": "https://www.mercadolivre.com.br/p/MLB56081727?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB56081727?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "body modelador nayane short feminino cor cristal tamanho eg",
+      "title": "Body Modelador Nayane Short Feminino Cor Cristal Tamanho EG",
+      "category": "Moda Feminina",
+      "price": 151.7,
+      "score": 88.0,
+      "posted_ts": 1787144649,
+      "posted_at": "2026-08-19T13:04:09.331245+00:00"
+    },
+    {
+      "key": "mercadolivre:MLB5747632298",
+      "product_id": "MLB5747632298",
+      "catalog_product_id": "MLB58174814",
+      "item_id": "MLB5747632298",
+      "url": "https://www.mercadolivre.com.br/p/MLB58174814?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB58174814?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "calca legging redutora miracle belt cor preto tamanho pp",
+      "title": "Calça Legging Redutora Miracle Belt Cor Preto Tamanho Pp",
+      "category": "Moda Feminina",
+      "price": 279.9,
+      "score": 88.0,
+      "posted_ts": 1787144585,
+      "posted_at": "2026-08-19T13:03:05.123997+00:00"
+    },
+    {
       "key": "mercadolivre:MLB6802086400",
       "product_id": "MLB6802086400",
       "catalog_product_id": "MLB22608923",
@@ -539,37 +569,7 @@
       "score": 111.0,
       "posted_ts": 1786975381,
       "posted_at": "2026-08-17T14:03:01.314216+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB4139317597",
-      "product_id": "MLB4139317597",
-      "catalog_product_id": "MLB23649057",
-      "item_id": "MLB4139317597",
-      "url": "https://www.mercadolivre.com.br/p/MLB23649057?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB23649057?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "furadeira parafusadeira imp c parafusadeira imp dlx2336syx",
-      "title": "Furadeira Parafusadeira Imp C/ Parafusadeira Imp Dlx2336syx",
-      "category": "Ferramentas",
-      "price": 1659.5,
-      "score": 108.0,
-      "posted_ts": 1786971811,
-      "posted_at": "2026-08-17T13:03:31.887204+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB5183821060",
-      "product_id": "MLB5183821060",
-      "catalog_product_id": "MLB19765397",
-      "item_id": "MLB5183821060",
-      "url": "https://www.mercadolivre.com.br/p/MLB19765397?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB19765397?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "combo furadeira parafusadeira df333d parafusadeira de impacto td110d 12v clx224sax",
-      "title": "Combo Furadeira Parafusadeira DF333D + Parafusadeira de Impacto TD110D 12V - CLX224SAX",
-      "category": "Ferramentas",
-      "price": 1214.0,
-      "score": 111.0,
-      "posted_ts": 1786971742,
-      "posted_at": "2026-08-17T13:02:22.311071+00:00"
     }
   ],
-  "updated_at": "2026-08-19T12:08:02.318972+00:00"
+  "updated_at": "2026-08-19T13:04:09.331260+00:00"
 }
