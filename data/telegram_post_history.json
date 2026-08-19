@@ -1,6 +1,34 @@
 {
   "posts": [
     {
+      "key": "shopee:12820428668",
+      "marketplace": "shopee",
+      "id": "12820428668",
+      "title": "Sapatenis Masculino Star Fox Ziper e Cadarço Calce Casual A1",
+      "title_norm": "sapatenis masculino star fox ziper e cadarco calce casual a1",
+      "url": "https://shopee.com.br/product/294355829/12820428668",
+      "affiliate_url": "https://s.shopee.com.br/6AkLz2PHuq",
+      "category": "Star Fox Calçados",
+      "bucket": "calcados",
+      "posted_ts": 1787170673,
+      "posted_at": "2026-08-19T20:17:53.429912+00:00",
+      "score": 88.66
+    },
+    {
+      "key": "shopee:18619870711",
+      "marketplace": "shopee",
+      "id": "18619870711",
+      "title": "Bota Masculina Caterpillar em Lona Reforçada Promoção",
+      "title_norm": "bota masculina caterpillar em lona reforcada promocao",
+      "url": "https://shopee.com.br/product/378772460/18619870711",
+      "affiliate_url": "https://s.shopee.com.br/1BLg1qmaN3",
+      "category": "By MP Fashion",
+      "bucket": "calcados",
+      "posted_ts": 1787170609,
+      "posted_at": "2026-08-19T20:16:49.426485+00:00",
+      "score": 92.91
+    },
+    {
       "key": "shopee:23994721900",
       "marketplace": "shopee",
       "id": "23994721900",
@@ -9115,5 +9143,5 @@
       "score": 130.19
     }
   ],
-  "updated_at": "2026-08-19T19:18:01.923438+00:00"
+  "updated_at": "2026-08-19T20:17:53.429923+00:00"
 }
