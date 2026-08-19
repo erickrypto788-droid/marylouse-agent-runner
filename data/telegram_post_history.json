@@ -1,6 +1,48 @@
 {
   "posts": [
     {
+      "key": "shopee:58211958915",
+      "marketplace": "shopee",
+      "id": "58211958915",
+      "title": "Mala Academia Estampada Feminina Masculina Fit Esporte Mala Malinha Academia Unissex Sport Bolsa Transversal Regulável",
+      "title_norm": "mala academia estampada feminina masculina fit esporte mala malinha academia unissex sport bolsa transversal regulavel",
+      "url": "https://shopee.com.br/product/418515840/58211958915",
+      "affiliate_url": "https://s.shopee.com.br/30nJgFI884",
+      "category": "hellena Manu",
+      "bucket": "bolsas",
+      "posted_ts": 1787141932,
+      "posted_at": "2026-08-19T12:18:52.543059+00:00",
+      "score": 30.53
+    },
+    {
+      "key": "shopee:58255185736",
+      "marketplace": "shopee",
+      "id": "58255185736",
+      "title": "Bolsa Peitoral Masculino feminino Impermeável Esportivo Bolsa Bag Motoboy Unissex",
+      "title_norm": "bolsa peitoral masculino feminino impermeavel esportivo bolsa bag motoboy unissex",
+      "url": "https://shopee.com.br/product/1404059055/58255185736",
+      "affiliate_url": "https://s.shopee.com.br/3VjaHAKcpv",
+      "category": "Chique Popular-moda moderna",
+      "bucket": "bolsas",
+      "posted_ts": 1787141868,
+      "posted_at": "2026-08-19T12:17:48.562046+00:00",
+      "score": 42.64
+    },
+    {
+      "key": "shopee:13591503329",
+      "marketplace": "shopee",
+      "id": "13591503329",
+      "title": "Mochila Escolar Reforçada Notebook Impermeável Cabo De Aço",
+      "title_norm": "mochila escolar reforcada notebook impermeavel cabo de aco",
+      "url": "https://shopee.com.br/product/752743341/13591503329",
+      "affiliate_url": "https://s.shopee.com.br/3g30TTFam8",
+      "category": "Fenix Abdon",
+      "bucket": "informatica",
+      "posted_ts": 1787141799,
+      "posted_at": "2026-08-19T12:16:39.559050+00:00",
+      "score": 91.3
+    },
+    {
       "key": "mercadolivre:MLB6802086400",
       "marketplace": "mercadolivre",
       "id": "MLB6802086400",
@@ -8667,5 +8709,5 @@
       "score": 130.19
     }
   ],
-  "updated_at": "2026-08-19T12:08:02.312187+00:00"
+  "updated_at": "2026-08-19T12:18:52.543071+00:00"
 }
