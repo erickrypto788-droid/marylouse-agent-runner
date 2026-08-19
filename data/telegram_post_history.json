@@ -1,6 +1,76 @@
 {
   "posts": [
     {
+      "key": "shopee:41518716769",
+      "marketplace": "shopee",
+      "id": "41518716769",
+      "title": "Escolha Seu Vestido 3 Marias Roupas de Menina Infantil 100% Algodão Vestido de Criança Confortável l02",
+      "title_norm": "escolha seu vestido 3 marias roupas de menina infantil 100 algodao vestido de crianca confortavel l02",
+      "url": "https://shopee.com.br/product/341167297/41518716769",
+      "affiliate_url": "https://s.shopee.com.br/4LIgryTgG2",
+      "category": "Poloinfantil.store",
+      "bucket": "moda_feminina",
+      "posted_ts": 1787120459,
+      "posted_at": "2026-08-19T06:20:59.039775+00:00",
+      "score": 93.73
+    },
+    {
+      "key": "shopee:58208153599",
+      "marketplace": "shopee",
+      "id": "58208153599",
+      "title": "Kit 5 CAMISETAS Lisas Básicas MENINO Coloridas Verão Algodão Confortável",
+      "title_norm": "kit 5 camisetas lisas basicas menino coloridas verao algodao confortavel",
+      "url": "https://shopee.com.br/product/1633765168/58208153599",
+      "affiliate_url": "https://s.shopee.com.br/qiohXh0Mn",
+      "category": "Levibi Modas",
+      "bucket": "levibi_modas",
+      "posted_ts": 1787120394,
+      "posted_at": "2026-08-19T06:19:54.592832+00:00",
+      "score": 94.01
+    },
+    {
+      "key": "shopee:22394495140",
+      "marketplace": "shopee",
+      "id": "22394495140",
+      "title": "KIT Infantil Camiseta e Bermuda Elastano E Juvenil Masculino Com Elástico e BOLSOS  04 á 16",
+      "title_norm": "kit infantil camiseta e bermuda elastano e juvenil masculino com elastico e bolsos 04 a 16",
+      "url": "https://shopee.com.br/product/1326488733/22394495140",
+      "affiliate_url": "https://s.shopee.com.br/gPOVEhdhk",
+      "category": "ORIGIN'S KPDS",
+      "bucket": "origin_s_kpds",
+      "posted_ts": 1787120330,
+      "posted_at": "2026-08-19T06:18:50.492497+00:00",
+      "score": 101.11
+    },
+    {
+      "key": "shopee:23498194746",
+      "marketplace": "shopee",
+      "id": "23498194746",
+      "title": "Kit 2 Pares Tênis Infantil Menina Escolar | Para Escola Leve e Resistente 25 ao 36 | COMPRE AGORA!",
+      "title_norm": "kit 2 pares tenis infantil menina escolar para escola leve e resistente 25 ao 36 compre agora",
+      "url": "https://shopee.com.br/product/832004029/23498194746",
+      "affiliate_url": "https://s.shopee.com.br/3qMQH3eJYg",
+      "category": "Piedora",
+      "bucket": "calcados",
+      "posted_ts": 1787120266,
+      "posted_at": "2026-08-19T06:17:46.540063+00:00",
+      "score": 102.32
+    },
+    {
+      "key": "shopee:22094442475",
+      "marketplace": "shopee",
+      "id": "22094442475",
+      "title": "Kit Tênis Infantil Escolar Masculino Calce Fácil Sem Cardaço Confortável Leve",
+      "title_norm": "kit tenis infantil escolar masculino calce facil sem cardaco confortavel leve",
+      "url": "https://shopee.com.br/product/1458530949/22094442475",
+      "affiliate_url": "https://s.shopee.com.br/3g304kewtf",
+      "category": "Starkcalçados",
+      "bucket": "calcados",
+      "posted_ts": 1787120202,
+      "posted_at": "2026-08-19T06:16:42.538324+00:00",
+      "score": 102.66
+    },
+    {
       "key": "shopee:19598142136",
       "marketplace": "shopee",
       "id": "19598142136",
@@ -8233,5 +8303,5 @@
       "score": 130.19
     }
   ],
-  "updated_at": "2026-08-19T05:19:47.393477+00:00"
+  "updated_at": "2026-08-19T06:20:59.039787+00:00"
 }
