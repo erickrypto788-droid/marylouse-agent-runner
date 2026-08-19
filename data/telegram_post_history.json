@@ -1,6 +1,34 @@
 {
   "posts": [
     {
+      "key": "shopee:23499424522",
+      "marketplace": "shopee",
+      "id": "23499424522",
+      "title": "Bota Coturno Feminina Blogueira Tratorado Plataforma Confort",
+      "title_norm": "bota coturno feminina blogueira tratorado plataforma confort",
+      "url": "https://shopee.com.br/product/538998549/23499424522",
+      "affiliate_url": "https://s.shopee.com.br/7VFjdbiWSc",
+      "category": "GLOSS CALÇADOS LOJA OFICIAL",
+      "bucket": "calcados",
+      "posted_ts": 1787174276,
+      "posted_at": "2026-08-19T21:17:56.967004+00:00",
+      "score": 91.57
+    },
+    {
+      "key": "shopee:58204356951",
+      "marketplace": "shopee",
+      "id": "58204356951",
+      "title": "Chinelo Sandalia Strass Macia Nó Confortável Qualidade e Conforto",
+      "title_norm": "chinelo sandalia strass macia no confortavel qualidade e conforto",
+      "url": "https://shopee.com.br/product/1009931007/58204356951",
+      "affiliate_url": "https://s.shopee.com.br/9fKEDaRgMi",
+      "category": "NANDA SHOES",
+      "bucket": "calcados",
+      "posted_ts": 1787174204,
+      "posted_at": "2026-08-19T21:16:44.065319+00:00",
+      "score": 94.98
+    },
+    {
       "key": "shopee:12820428668",
       "marketplace": "shopee",
       "id": "12820428668",
@@ -9143,5 +9171,5 @@
       "score": 130.19
     }
   ],
-  "updated_at": "2026-08-19T20:17:53.429923+00:00"
+  "updated_at": "2026-08-19T21:17:56.967013+00:00"
 }
