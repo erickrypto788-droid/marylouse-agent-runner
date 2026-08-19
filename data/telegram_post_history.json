@@ -1,6 +1,34 @@
 {
   "posts": [
     {
+      "key": "shopee:22692893174",
+      "marketplace": "shopee",
+      "id": "22692893174",
+      "title": "Cafeteira Philco 1L Jarra Térmica 30 Cafezinhos 700W PCFE02",
+      "title_norm": "cafeteira philco 1l jarra termica 30 cafezinhos 700w pcfe02",
+      "url": "https://shopee.com.br/product/811034337/22692893174",
+      "affiliate_url": "https://s.shopee.com.br/W5zQz0sYz",
+      "category": "Philco Oficial",
+      "bucket": "casa_cozinha",
+      "posted_ts": 1787181478,
+      "posted_at": "2026-08-19T23:17:58.804913+00:00",
+      "score": 89.4
+    },
+    {
+      "key": "shopee:18397674061",
+      "marketplace": "shopee",
+      "id": "18397674061",
+      "title": "Panela De Pressão Vancouver Effect Tramontina 4,5 e 6,0 Litros Preto e Vermelho Interna Starflon Max",
+      "title_norm": "panela de pressao vancouver effect tramontina 4 5 e 6 0 litros preto e vermelho interna starflon max",
+      "url": "https://shopee.com.br/product/1191889467/18397674061",
+      "affiliate_url": "https://s.shopee.com.br/5VUfOAzVmP",
+      "category": "KOIZAS DO LAR",
+      "bucket": "casa_cozinha",
+      "posted_ts": 1787181411,
+      "posted_at": "2026-08-19T23:16:51.606420+00:00",
+      "score": 94.12
+    },
+    {
       "key": "shopee:22392685500",
       "marketplace": "shopee",
       "id": "22392685500",
@@ -9227,5 +9255,5 @@
       "score": 130.19
     }
   ],
-  "updated_at": "2026-08-19T22:17:47.891899+00:00"
+  "updated_at": "2026-08-19T23:17:58.804925+00:00"
 }
