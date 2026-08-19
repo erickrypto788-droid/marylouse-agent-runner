@@ -1,6 +1,76 @@
 {
   "posts": [
     {
+      "key": "shopee:18899381113",
+      "marketplace": "shopee",
+      "id": "18899381113",
+      "title": "TOALHA UMEDECIDA PACK MEU BEBE ULTRA 500 FOLHAS - Caixa com 10 Pacotes de 50 Unidades",
+      "title_norm": "toalha umedecida pack meu bebe ultra 500 folhas caixa com 10 pacotes de 50 unidades",
+      "url": "https://shopee.com.br/product/1314901350/18899381113",
+      "affiliate_url": "https://s.shopee.com.br/AUtJDdFOly",
+      "category": "mundoencantadoLTDA",
+      "bucket": "mundoencantadoltda",
+      "posted_ts": 1787134871,
+      "posted_at": "2026-08-19T10:21:11.602826+00:00",
+      "score": 66.96
+    },
+    {
+      "key": "shopee:23798071706",
+      "marketplace": "shopee",
+      "id": "23798071706",
+      "title": "Berço Portátil Infantil Cercado Desmontável Com Mosquiteiro Sleep Cinza Kababy",
+      "title_norm": "berco portatil infantil cercado desmontavel com mosquiteiro sleep cinza kababy",
+      "url": "https://shopee.com.br/product/1009324389/23798071706",
+      "affiliate_url": "https://s.shopee.com.br/5fo4iuKfXt",
+      "category": "Kababy_Oficial",
+      "bucket": "kababy_oficial",
+      "posted_ts": 1787134807,
+      "posted_at": "2026-08-19T10:20:07.606134+00:00",
+      "score": 71.1
+    },
+    {
+      "key": "shopee:27138545977",
+      "marketplace": "shopee",
+      "id": "27138545977",
+      "title": "Buba Mamadeira Easy Flow",
+      "title_norm": "buba mamadeira easy flow",
+      "url": "https://shopee.com.br/product/378105312/27138545977",
+      "affiliate_url": "https://s.shopee.com.br/6VNBiR8u4F",
+      "category": "EssencialBaby",
+      "bucket": "essencialbaby",
+      "posted_ts": 1787134737,
+      "posted_at": "2026-08-19T10:18:57.543635+00:00",
+      "score": 72.28
+    },
+    {
+      "key": "shopee:3583616499",
+      "marketplace": "shopee",
+      "id": "3583616499",
+      "title": "Carrinho Camaro Amarelo Vira Robô Transformers Bate Volta",
+      "title_norm": "carrinho camaro amarelo vira robo transformers bate volta",
+      "url": "https://shopee.com.br/product/385632559/3583616499",
+      "affiliate_url": "https://s.shopee.com.br/4fvXX4KLpb",
+      "category": "happytonia",
+      "bucket": "happytonia",
+      "posted_ts": 1787134667,
+      "posted_at": "2026-08-19T10:17:47.453811+00:00",
+      "score": 75.32
+    },
+    {
+      "key": "shopee:23702005326",
+      "marketplace": "shopee",
+      "id": "23702005326",
+      "title": "Fralda Descartável Pampers Supersequinha Jumbo M 90 Tiras",
+      "title_norm": "fralda descartavel pampers supersequinha jumbo m 90 tiras",
+      "url": "https://shopee.com.br/product/683941545/23702005326",
+      "affiliate_url": "https://s.shopee.com.br/8V8G66sYhj",
+      "category": "Lojas REDE",
+      "bucket": "fraldas",
+      "posted_ts": 1787134597,
+      "posted_at": "2026-08-19T10:16:37.719562+00:00",
+      "score": 91.64
+    },
+    {
       "key": "shopee:23395063396",
       "marketplace": "shopee",
       "id": "23395063396",
@@ -8541,5 +8611,5 @@
       "score": 130.19
     }
   ],
-  "updated_at": "2026-08-19T09:21:23.714909+00:00"
+  "updated_at": "2026-08-19T10:21:11.602840+00:00"
 }
