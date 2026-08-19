@@ -1,6 +1,21 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB4949684225",
+      "product_id": "MLB4949684225",
+      "catalog_product_id": "MLB75635951",
+      "item_id": "MLB4949684225",
+      "url": "https://www.mercadolivre.com.br/p/MLB75635951?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB75635951?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "fralda geriatrica prevent care tamanho fralda geriatrica prevent care m c 50",
+      "title": "Fralda Geriatrica Prevent Care Tamanho FRALDA GERIATRICA PREVENT CARE M C/50",
+      "category": "Mãe e Bebê",
+      "price": 112.9,
+      "score": 114.0,
+      "posted_ts": 1787130166,
+      "posted_at": "2026-08-19T09:02:46.224523+00:00"
+    },
+    {
       "key": "mercadolivre:MLB4342761455",
       "product_id": "MLB4342761455",
       "catalog_product_id": "MLB49735840",
@@ -539,22 +554,7 @@
       "score": 111.0,
       "posted_ts": 1786964537,
       "posted_at": "2026-08-17T11:02:17.854099+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB5355035490",
-      "product_id": "MLB5355035490",
-      "catalog_product_id": "MLB48409016",
-      "item_id": "MLB5355035490",
-      "url": "https://www.mercadolivre.com.br/p/MLB48409016?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB48409016?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "cama box solteiro colchao molas ensacadas orthoflex memor",
-      "title": "Cama Box Solteiro: Colchão Molas Ensacadas Orthoflex Memor",
-      "category": "Casa e Cozinha",
-      "price": 1245.42,
-      "score": 75.67,
-      "posted_ts": 1786953804,
-      "posted_at": "2026-08-17T08:03:24.806753+00:00"
     }
   ],
-  "updated_at": "2026-08-19T08:02:21.270457+00:00"
+  "updated_at": "2026-08-19T09:02:46.224532+00:00"
 }
