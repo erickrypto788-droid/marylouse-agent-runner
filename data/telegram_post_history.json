@@ -1,6 +1,76 @@
 {
   "posts": [
     {
+      "key": "shopee:23395063396",
+      "marketplace": "shopee",
+      "id": "23395063396",
+      "title": "Medidor De Glicemia Glicose Glicosímetro - On Call Plus II",
+      "title_norm": "medidor de glicemia glicose glicosimetro on call plus ii",
+      "url": "https://shopee.com.br/product/1516740718/23395063396",
+      "affiliate_url": "https://s.shopee.com.br/3LQ8cDGn6O",
+      "category": "Infotop21",
+      "bucket": "infotop21",
+      "posted_ts": 1787131283,
+      "posted_at": "2026-08-19T09:21:23.714895+00:00",
+      "score": 38.62
+    },
+    {
+      "key": "shopee:20997506854",
+      "marketplace": "shopee",
+      "id": "20997506854",
+      "title": "Glicosímetro Medidor De Glicose Diabetes Lifefor 10 Tiras 10 Lancetas Acompanha Bateria",
+      "title_norm": "glicosimetro medidor de glicose diabetes lifefor 10 tiras 10 lancetas acompanha bateria",
+      "url": "https://shopee.com.br/product/378664856/20997506854",
+      "affiliate_url": "https://s.shopee.com.br/3B6iPuHQRT",
+      "category": "Ativa On",
+      "bucket": "ativa_on",
+      "posted_ts": 1787131213,
+      "posted_at": "2026-08-19T09:20:13.399168+00:00",
+      "score": 42.32
+    },
+    {
+      "key": "shopee:58213300615",
+      "marketplace": "shopee",
+      "id": "58213300615",
+      "title": "Aparelho Medidor de Glicose GH83 Medisign Glicemia Diabetes",
+      "title_norm": "aparelho medidor de glicose gh83 medisign glicemia diabetes",
+      "url": "https://shopee.com.br/product/1854097080/58213300615",
+      "affiliate_url": "https://s.shopee.com.br/5q7Ur6D32d",
+      "category": "JP PRIME E-COMMERCE",
+      "bucket": "jp_prime_e_commerce",
+      "posted_ts": 1787131142,
+      "posted_at": "2026-08-19T09:19:02.136918+00:00",
+      "score": 54.0
+    },
+    {
+      "key": "shopee:23393985992",
+      "marketplace": "shopee",
+      "id": "23393985992",
+      "title": "Relógio De Parede Led Digital Grande Termômetro Recepção",
+      "title_norm": "relogio de parede led digital grande termometro recepcao",
+      "url": "https://shopee.com.br/product/1542862511/23393985992",
+      "affiliate_url": "https://s.shopee.com.br/2BECUMDwfd",
+      "category": "MADO STORE",
+      "bucket": "saude",
+      "posted_ts": 1787131074,
+      "posted_at": "2026-08-19T09:17:54.449296+00:00",
+      "score": 103.26
+    },
+    {
+      "key": "shopee:22891997668",
+      "marketplace": "shopee",
+      "id": "22891997668",
+      "title": "Termômetro Industrial Digital Infravermelho Cozinha Laser Medição Temperatura Industrial -55º- 400ºc",
+      "title_norm": "termometro industrial digital infravermelho cozinha laser medicao temperatura industrial 55 400 c",
+      "url": "https://shopee.com.br/product/1025202028/22891997668",
+      "affiliate_url": "https://s.shopee.com.br/9fKDQ8lOSJ",
+      "category": "Utime.Brasil",
+      "bucket": "saude",
+      "posted_ts": 1787131006,
+      "posted_at": "2026-08-19T09:16:46.574652+00:00",
+      "score": 109.26
+    },
+    {
       "key": "mercadolivre:MLB4949684225",
       "marketplace": "mercadolivre",
       "id": "MLB4949684225",
@@ -8471,5 +8541,5 @@
       "score": 130.19
     }
   ],
-  "updated_at": "2026-08-19T09:02:46.216144+00:00"
+  "updated_at": "2026-08-19T09:21:23.714909+00:00"
 }
