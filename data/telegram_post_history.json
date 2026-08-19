@@ -1,6 +1,34 @@
 {
   "posts": [
     {
+      "key": "shopee:7895885450",
+      "marketplace": "shopee",
+      "id": "7895885450",
+      "title": "Bolsa Feminina Pequena De Lado Transversal Alça Corrente Lançamento",
+      "title_norm": "bolsa feminina pequena de lado transversal alca corrente lancamento",
+      "url": "https://shopee.com.br/product/310142566/7895885450",
+      "affiliate_url": "https://s.shopee.com.br/3VjaD34uNT",
+      "category": "Debora Ribeiro Bolsas Oficial",
+      "bucket": "bolsas",
+      "posted_ts": 1787138266,
+      "posted_at": "2026-08-19T11:17:46.659931+00:00",
+      "score": 101.83
+    },
+    {
+      "key": "shopee:18697985049",
+      "marketplace": "shopee",
+      "id": "18697985049",
+      "title": "Bolsa Mala Academia Viagem Imagem Fitness Transversal Casual Masculino e Feminina--luna_hyq",
+      "title_norm": "bolsa mala academia viagem imagem fitness transversal casual masculino e feminina luna hyq",
+      "url": "https://shopee.com.br/product/932796296/18697985049",
+      "affiliate_url": "https://s.shopee.com.br/112DyB82Wa",
+      "category": "Luna_HYQ",
+      "bucket": "bolsas",
+      "posted_ts": 1787138202,
+      "posted_at": "2026-08-19T11:16:42.351060+00:00",
+      "score": 102.46
+    },
+    {
       "key": "shopee:18899381113",
       "marketplace": "shopee",
       "id": "18899381113",
@@ -8611,5 +8639,5 @@
       "score": 130.19
     }
   ],
-  "updated_at": "2026-08-19T10:21:11.602840+00:00"
+  "updated_at": "2026-08-19T11:17:46.659942+00:00"
 }
