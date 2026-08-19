@@ -1,6 +1,62 @@
 {
   "posts": [
     {
+      "key": "shopee:19598142136",
+      "marketplace": "shopee",
+      "id": "19598142136",
+      "title": "Ollie Protetor Solar em Bastão Com Cor FPS 95",
+      "title_norm": "ollie protetor solar em bastao com cor fps 95",
+      "url": "https://shopee.com.br/product/1423440087/19598142136",
+      "affiliate_url": "https://s.shopee.com.br/gPOR7NJgN",
+      "category": "meuollie",
+      "bucket": "meuollie",
+      "posted_ts": 1787116787,
+      "posted_at": "2026-08-19T05:19:47.393460+00:00",
+      "score": 66.1
+    },
+    {
+      "key": "shopee:27189338384",
+      "marketplace": "shopee",
+      "id": "27189338384",
+      "title": "Principia Kit Peles Sensíveis c/ Gel de Limpeza Gl-02 + Creme Hidratante CH-01 + Protetor Solar PS-01 FPS 60",
+      "title_norm": "principia kit peles sensiveis c gel de limpeza gl 02 creme hidratante ch 01 protetor solar ps 01 fps 60",
+      "url": "https://shopee.com.br/product/373261329/27189338384",
+      "affiliate_url": "https://s.shopee.com.br/9KhMl2qK5r",
+      "category": "Principia Skincare",
+      "bucket": "principia_skincare",
+      "posted_ts": 1787116723,
+      "posted_at": "2026-08-19T05:18:43.310768+00:00",
+      "score": 66.25
+    },
+    {
+      "key": "shopee:22893937935",
+      "marketplace": "shopee",
+      "id": "22893937935",
+      "title": "Secador Profissional com Difusor 127V ou 220V 5 Temperaturas Turbo Íons Negativos Secagem Rápida Anti-Frizz LONYAN 8020",
+      "title_norm": "secador profissional com difusor 127v ou 220v 5 temperaturas turbo ions negativos secagem rapida anti frizz lonyan 8020",
+      "url": "https://shopee.com.br/product/1523743098/22893937935",
+      "affiliate_url": "https://s.shopee.com.br/3B6jPi0bFl",
+      "category": "LONYAN-BR",
+      "bucket": "beleza",
+      "posted_ts": 1787116659,
+      "posted_at": "2026-08-19T05:17:39.350562+00:00",
+      "score": 129.99
+    },
+    {
+      "key": "shopee:58211710048",
+      "marketplace": "shopee",
+      "id": "58211710048",
+      "title": "Secador de Cabelo 110v Profissional 3200w - Voltagem 110v",
+      "title_norm": "secador de cabelo 110v profissional 3200w voltagem 110v",
+      "url": "https://shopee.com.br/product/1274089510/58211710048",
+      "affiliate_url": "https://s.shopee.com.br/7fZ8lyjT7R",
+      "category": "JP Acessorio",
+      "bucket": "beleza",
+      "posted_ts": 1787116595,
+      "posted_at": "2026-08-19T05:16:35.311467+00:00",
+      "score": 131.2
+    },
+    {
       "key": "mercadolivre:MLB7426392498",
       "marketplace": "mercadolivre",
       "id": "MLB7426392498",
@@ -8177,5 +8233,5 @@
       "score": 130.19
     }
   ],
-  "updated_at": "2026-08-19T05:03:31.647151+00:00"
+  "updated_at": "2026-08-19T05:19:47.393477+00:00"
 }
