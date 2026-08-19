@@ -1,6 +1,76 @@
 {
   "posts": [
     {
+      "key": "shopee:21097736365",
+      "marketplace": "shopee",
+      "id": "21097736365",
+      "title": "Vestido rodado Plus Size manga fler  com a faixa  Suplex Digital 44/46/48/50/52 g gg g1 g2",
+      "title_norm": "vestido rodado plus size manga fler com a faixa suplex digital 44 46 48 50 52 g gg g1 g2",
+      "url": "https://shopee.com.br/product/1314293823/21097736365",
+      "affiliate_url": "https://s.shopee.com.br/9pdd1MlA8W",
+      "category": "JOYCE MODAS12",
+      "bucket": "moda_feminina",
+      "posted_ts": 1787098922,
+      "posted_at": "2026-08-19T00:22:02.475202+00:00",
+      "score": 56.67
+    },
+    {
+      "key": "shopee:58253980455",
+      "marketplace": "shopee",
+      "id": "58253980455",
+      "title": "Calça Cargo Pantalona Wide Leg Alfaiataria Plus Size e Padrão",
+      "title_norm": "calca cargo pantalona wide leg alfaiataria plus size e padrao",
+      "url": "https://shopee.com.br/product/977464640/58253980455",
+      "affiliate_url": "https://s.shopee.com.br/3g2zg2D2RV",
+      "category": "BRAS ONLINE2023",
+      "bucket": "bras_online2023",
+      "posted_ts": 1787098858,
+      "posted_at": "2026-08-19T00:20:58.194555+00:00",
+      "score": 57.67
+    },
+    {
+      "key": "shopee:55957074597",
+      "marketplace": "shopee",
+      "id": "55957074597",
+      "title": "Kit 2 Camisas Fitness Plus Size Alongadas Tapa Bumbum em  Premium",
+      "title_norm": "kit 2 camisas fitness plus size alongadas tapa bumbum em premium",
+      "url": "https://shopee.com.br/product/1464110755/55957074597",
+      "affiliate_url": "https://s.shopee.com.br/1qbKENE6YM",
+      "category": "Flexicom",
+      "bucket": "flexicom",
+      "posted_ts": 1787098793,
+      "posted_at": "2026-08-19T00:19:53.984901+00:00",
+      "score": 58.48
+    },
+    {
+      "key": "shopee:14643099764",
+      "marketplace": "shopee",
+      "id": "14643099764",
+      "title": "Sutiã Plus Size Base Cruzada Reforçado, efeito Up, com bojo.",
+      "title_norm": "sutia plus size base cruzada reforcado efeito up com bojo",
+      "url": "https://shopee.com.br/product/447306661/14643099764",
+      "affiliate_url": "https://s.shopee.com.br/AUtIYIphje",
+      "category": "INTIMACY PARIS MODA INTIMA E FITNES",
+      "bucket": "intimacy_paris_moda_intima_e_fitnes",
+      "posted_ts": 1787098673,
+      "posted_at": "2026-08-19T00:17:53.209117+00:00",
+      "score": 60.52
+    },
+    {
+      "key": "shopee:58203680742",
+      "marketplace": "shopee",
+      "id": "58203680742",
+      "title": "Vestido Feminino Viscolycra Estampado Com Transpassado Casual Confortável Plus Size",
+      "title_norm": "vestido feminino viscolycra estampado com transpassado casual confortavel plus size",
+      "url": "https://shopee.com.br/product/1725125758/58203680742",
+      "affiliate_url": "https://s.shopee.com.br/8AVP2IrVWM",
+      "category": "VESTIDOS.COM",
+      "bucket": "moda_feminina",
+      "posted_ts": 1787098608,
+      "posted_at": "2026-08-19T00:16:48.838334+00:00",
+      "score": 64.02
+    },
+    {
       "key": "shopee:14642418245",
       "marketplace": "shopee",
       "id": "14642418245",
@@ -7911,5 +7981,5 @@
       "score": 130.19
     }
   ],
-  "updated_at": "2026-08-18T23:21:04.319148+00:00"
+  "updated_at": "2026-08-19T00:22:02.475214+00:00"
 }
