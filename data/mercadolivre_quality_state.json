@@ -1,6 +1,36 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB7426392498",
+      "product_id": "MLB7426392498",
+      "catalog_product_id": "MLB77446524",
+      "item_id": "MLB7426392498",
+      "url": "https://www.mercadolivre.com.br/p/MLB77446524?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB77446524?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "ulefone note 18 ultra 256gb 6gb ram celular 5g 5450mah camera 50mp preto",
+      "title": "Ulefone Note 18 Ultra 256GB 6GB RAM Celular 5G 5450mAh Câmera 50MP Preto",
+      "category": "Informática",
+      "price": 1965.43,
+      "score": 108.0,
+      "posted_ts": 1787115811,
+      "posted_at": "2026-08-19T05:03:31.654089+00:00"
+    },
+    {
+      "key": "mercadolivre:MLB4094514933",
+      "product_id": "MLB4094514933",
+      "catalog_product_id": "MLB38283662",
+      "item_id": "MLB4094514933",
+      "url": "https://www.mercadolivre.com.br/p/MLB38283662?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB38283662?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "samsung galaxy a55 256gb 8gb awesome navy",
+      "title": "Samsung Galaxy A55 256gb 8gb Awesome Navy",
+      "category": "Informática",
+      "price": 2442.22,
+      "score": 134.42,
+      "posted_ts": 1787115746,
+      "posted_at": "2026-08-19T05:02:26.921960+00:00"
+    },
+    {
       "key": "mercadolivre:MLB4745902149",
       "product_id": "MLB4745902149",
       "catalog_product_id": "MLB42833702",
@@ -631,5 +661,5 @@
       "posted_at": "2026-08-17T06:05:35.254783+00:00"
     }
   ],
-  "updated_at": "2026-08-19T03:03:26.139736+00:00"
+  "updated_at": "2026-08-19T05:03:31.654097+00:00"
 }

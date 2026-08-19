@@ -1,6 +1,34 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB7426392498",
+      "marketplace": "mercadolivre",
+      "id": "MLB7426392498",
+      "title": "Ulefone Note 18 Ultra 256GB 6GB RAM Celular 5G 5450mAh Câmera 50MP Preto",
+      "title_norm": "ulefone note 18 ultra 256gb 6gb ram celular 5g 5450mah camera 50mp preto",
+      "url": "https://www.mercadolivre.com.br/p/MLB77446524?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB77446524?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Informática",
+      "bucket": "celulares",
+      "posted_ts": 1787115811,
+      "posted_at": "2026-08-19T05:03:31.647141+00:00",
+      "score": 108.0
+    },
+    {
+      "key": "mercadolivre:MLB4094514933",
+      "marketplace": "mercadolivre",
+      "id": "MLB4094514933",
+      "title": "Samsung Galaxy A55 256gb 8gb Awesome Navy",
+      "title_norm": "samsung galaxy a55 256gb 8gb awesome navy",
+      "url": "https://www.mercadolivre.com.br/p/MLB38283662?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB38283662?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Informática",
+      "bucket": "celulares",
+      "posted_ts": 1787115746,
+      "posted_at": "2026-08-19T05:02:26.915197+00:00",
+      "score": 134.42
+    },
+    {
       "key": "shopee:58254696881",
       "marketplace": "shopee",
       "id": "58254696881",
@@ -8149,5 +8177,5 @@
       "score": 130.19
     }
   ],
-  "updated_at": "2026-08-19T04:18:39.127441+00:00"
+  "updated_at": "2026-08-19T05:03:31.647151+00:00"
 }
