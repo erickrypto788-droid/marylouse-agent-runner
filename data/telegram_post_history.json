@@ -1,6 +1,76 @@
 {
   "posts": [
     {
+      "key": "shopee:23893782668",
+      "marketplace": "shopee",
+      "id": "23893782668",
+      "title": "Conjunto Infantil Menino Verão – Camisa com Botões e Gola + Shorts com Elástico",
+      "title_norm": "conjunto infantil menino verao camisa com botoes e gola shorts com elastico",
+      "url": "https://shopee.com.br/product/408027260/23893782668",
+      "affiliate_url": "https://s.shopee.com.br/40frjeaj1v",
+      "category": "Atelier Nobre Bie",
+      "bucket": "atelier_nobre_bie",
+      "posted_ts": 1787188859,
+      "posted_at": "2026-08-20T01:20:59.782376+00:00",
+      "score": 89.22
+    },
+    {
+      "key": "shopee:23398046873",
+      "marketplace": "shopee",
+      "id": "23398046873",
+      "title": "Fantasia Vestido Infantil Elsa Frozen COM Acessorios e SEM Acessórios Festa Hallowen Crianças",
+      "title_norm": "fantasia vestido infantil elsa frozen com acessorios e sem acessorios festa hallowen criancas",
+      "url": "https://shopee.com.br/product/744229092/23398046873",
+      "affiliate_url": "https://s.shopee.com.br/9ANxt9Guys",
+      "category": "Espaço Kids ",
+      "bucket": "moda_feminina",
+      "posted_ts": 1787188795,
+      "posted_at": "2026-08-20T01:19:55.623431+00:00",
+      "score": 90.05
+    },
+    {
+      "key": "shopee:23092250306",
+      "marketplace": "shopee",
+      "id": "23092250306",
+      "title": "Jogo Lençol Solteiro 02 Peças Microfibra Estampas Infantis Criança Azul Rosa Verde",
+      "title_norm": "jogo lencol solteiro 02 pecas microfibra estampas infantis crianca azul rosa verde",
+      "url": "https://shopee.com.br/product/437178633/23092250306",
+      "affiliate_url": "https://s.shopee.com.br/9KhO5S7U4n",
+      "category": "Shop Home & Decor",
+      "bucket": "shop_home_decor",
+      "posted_ts": 1787188731,
+      "posted_at": "2026-08-20T01:18:51.575764+00:00",
+      "score": 90.69
+    },
+    {
+      "key": "shopee:14263042301",
+      "marketplace": "shopee",
+      "id": "14263042301",
+      "title": "Tenis Infantil Feminino Menina Escolar Pronta Entrega",
+      "title_norm": "tenis infantil feminino menina escolar pronta entrega",
+      "url": "https://shopee.com.br/product/499950777/14263042301",
+      "affiliate_url": "https://s.shopee.com.br/20unLymjpp",
+      "category": "Club_Happy",
+      "bucket": "calcados",
+      "posted_ts": 1787188663,
+      "posted_at": "2026-08-20T01:17:43.027098+00:00",
+      "score": 98.76
+    },
+    {
+      "key": "shopee:44152768165",
+      "marketplace": "shopee",
+      "id": "44152768165",
+      "title": "Kit 3 Pares Chinelo Infantil Menina Sortido Confortável Leve Macio",
+      "title_norm": "kit 3 pares chinelo infantil menina sortido confortavel leve macio",
+      "url": "https://shopee.com.br/product/280039385/44152768165",
+      "affiliate_url": "https://s.shopee.com.br/1qbN9fnNAs",
+      "category": "Lima'S Fabrica",
+      "bucket": "calcados",
+      "posted_ts": 1787188598,
+      "posted_at": "2026-08-20T01:16:38.947854+00:00",
+      "score": 101.31
+    },
+    {
       "key": "shopee:43852360893",
       "marketplace": "shopee",
       "id": "43852360893",
@@ -9325,5 +9395,5 @@
       "score": 130.19
     }
   ],
-  "updated_at": "2026-08-20T00:21:07.258110+00:00"
+  "updated_at": "2026-08-20T01:20:59.782390+00:00"
 }
