@@ -1,6 +1,48 @@
 {
   "posts": [
     {
+      "key": "shopee:45754796089",
+      "marketplace": "shopee",
+      "id": "45754796089",
+      "title": "Tomada de Carregador para Carro com Dupla Entrada Tipo-C e Duplas USB, 4 Portas, Carregamento Rápido, à Prova d'Água",
+      "title_norm": "tomada de carregador para carro com dupla entrada tipo c e duplas usb 4 portas carregamento rapido a prova d agua",
+      "url": "https://shopee.com.br/product/1006215031/45754796089",
+      "affiliate_url": "https://s.shopee.com.br/3qMSfOphb1",
+      "category": "Choice Oficial",
+      "bucket": "choice_oficial",
+      "posted_ts": 1787249950,
+      "posted_at": "2026-08-20T18:19:10.712233+00:00",
+      "score": 88.57
+    },
+    {
+      "key": "shopee:58257659517",
+      "marketplace": "shopee",
+      "id": "58257659517",
+      "title": "Capa Capinha Magnética Space Transparente Anti Impacto TPU Case Apple IPhone 11 12 13 14 15 16 17 Pro Max 17 Air 7 8 XR",
+      "title_norm": "capa capinha magnetica space transparente anti impacto tpu case apple iphone 11 12 13 14 15 16 17 pro max 17 air 7 8 xr",
+      "url": "https://shopee.com.br/product/1024858829/58257659517",
+      "affiliate_url": "https://s.shopee.com.br/9KhPDVQE7U",
+      "category": "Lin case",
+      "bucket": "celulares",
+      "posted_ts": 1787249882,
+      "posted_at": "2026-08-20T18:18:02.508236+00:00",
+      "score": 105.01
+    },
+    {
+      "key": "shopee:20698075298",
+      "marketplace": "shopee",
+      "id": "20698075298",
+      "title": "Xiaomi Poco X7 Pro 512GB / 256GB +12 Ram 5G Versão Global NFC Original Lacrado e Envio Imediato ADS",
+      "title_norm": "xiaomi poco x7 pro 512gb 256gb 12 ram 5g versao global nfc original lacrado e envio imediato ads",
+      "url": "https://shopee.com.br/product/1351433975/20698075298",
+      "affiliate_url": "https://s.shopee.com.br/1qbOHikBaG",
+      "category": "CBO COMERCIAL",
+      "bucket": "celulares",
+      "posted_ts": 1787249809,
+      "posted_at": "2026-08-20T18:16:49.794800+00:00",
+      "score": 106.12
+    },
+    {
       "key": "shopee:21399249090",
       "marketplace": "shopee",
       "id": "21399249090",
@@ -10109,5 +10151,5 @@
       "score": 130.19
     }
   ],
-  "updated_at": "2026-08-20T17:17:49.707263+00:00"
+  "updated_at": "2026-08-20T18:19:10.712245+00:00"
 }
