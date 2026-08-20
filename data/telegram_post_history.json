@@ -1,6 +1,34 @@
 {
   "posts": [
     {
+      "key": "shopee:57008381938",
+      "marketplace": "shopee",
+      "id": "57008381938",
+      "title": "Tênis De Corrida Profissional Ultraleve Com Placa De Carbono De Sola Completa Para Maratona , Masculino E Feminino",
+      "title_norm": "tenis de corrida profissional ultraleve com placa de carbono de sola completa para maratona masculino e feminino",
+      "url": "https://shopee.com.br/product/863968451/57008381938",
+      "affiliate_url": "https://s.shopee.com.br/4LIj84EMxq",
+      "category": "NBGAGA Oficial Loja.br",
+      "bucket": "calcados",
+      "posted_ts": 1787242672,
+      "posted_at": "2026-08-20T16:17:52.101850+00:00",
+      "score": 85.27
+    },
+    {
+      "key": "shopee:22698875511",
+      "marketplace": "shopee",
+      "id": "22698875511",
+      "title": "Sapatênis Masculino com Calce Fácil e Palmilha Confortável para o Dia a Dia",
+      "title_norm": "sapatenis masculino com calce facil e palmilha confortavel para o dia a dia",
+      "url": "https://shopee.com.br/product/1175964027/22698875511",
+      "affiliate_url": "https://s.shopee.com.br/1VyXkrXoiS",
+      "category": "analizshoes",
+      "bucket": "calcados",
+      "posted_ts": 1787242600,
+      "posted_at": "2026-08-20T16:16:40.605312+00:00",
+      "score": 105.74
+    },
+    {
       "key": "mercadolivre:MLB6175679804",
       "marketplace": "mercadolivre",
       "id": "MLB6175679804",
@@ -10053,5 +10081,5 @@
       "score": 130.19
     }
   ],
-  "updated_at": "2026-08-20T15:02:52.595785+00:00"
+  "updated_at": "2026-08-20T16:17:52.101862+00:00"
 }
