@@ -1,6 +1,76 @@
 {
   "posts": [
     {
+      "key": "shopee:22494167243",
+      "marketplace": "shopee",
+      "id": "22494167243",
+      "title": "Casca De Arroz Carbonizada Substrato Para Horta Jardim Plantas Vaso Cultivo Orquídea Terrário",
+      "title_norm": "casca de arroz carbonizada substrato para horta jardim plantas vaso cultivo orquidea terrario",
+      "url": "https://shopee.com.br/product/947844282/22494167243",
+      "affiliate_url": "https://s.shopee.com.br/50YPWZseNX",
+      "category": "VGL DISTRIBUIDORA",
+      "bucket": "vgl_distribuidora",
+      "posted_ts": 1787221343,
+      "posted_at": "2026-08-20T10:22:23.870428+00:00",
+      "score": 83.38
+    },
+    {
+      "key": "shopee:58202241414",
+      "marketplace": "shopee",
+      "id": "58202241414",
+      "title": "YoPRO Chocolate 15g de proteínas 250ml - 12 unidades",
+      "title_norm": "yopro chocolate 15g de proteinas 250ml 12 unidades",
+      "url": "https://shopee.com.br/product/1685471497/58202241414",
+      "affiliate_url": "https://s.shopee.com.br/112GlDz0gQ",
+      "category": "Loja Oficial Danone",
+      "bucket": "loja_oficial_danone",
+      "posted_ts": 1787221271,
+      "posted_at": "2026-08-20T10:21:11.577215+00:00",
+      "score": 83.67
+    },
+    {
+      "key": "shopee:58254638625",
+      "marketplace": "shopee",
+      "id": "58254638625",
+      "title": "1/2/3/4 Boleadores de Doces Brigadeiros Forma Enrolador Modelador de Beijinho Doce arroz",
+      "title_norm": "1 2 3 4 boleadores de doces brigadeiros forma enrolador modelador de beijinho doce arroz",
+      "url": "https://shopee.com.br/product/457528141/58254638625",
+      "affiliate_url": "https://s.shopee.com.br/qiqYv8VpY",
+      "category": "Minhas.Comprinhas.Online",
+      "bucket": "minhas_comprinhas_online",
+      "posted_ts": 1787221201,
+      "posted_at": "2026-08-20T10:20:01.775707+00:00",
+      "score": 83.8
+    },
+    {
+      "key": "shopee:57952762767",
+      "marketplace": "shopee",
+      "id": "57952762767",
+      "title": "Colágeno Verisol Tri Plus Tipo 1 Tipo 2 e 3 - 210g Bodyaction",
+      "title_norm": "colageno verisol tri plus tipo 1 tipo 2 e 3 210g bodyaction",
+      "url": "https://shopee.com.br/product/443076516/57952762767",
+      "affiliate_url": "https://s.shopee.com.br/7fZAhTmgyR",
+      "category": "Bodyaction Oficial",
+      "bucket": "bodyaction_oficial",
+      "posted_ts": 1787221071,
+      "posted_at": "2026-08-20T10:17:51.251882+00:00",
+      "score": 85.17
+    },
+    {
+      "key": "shopee:20599384653",
+      "marketplace": "shopee",
+      "id": "20599384653",
+      "title": "Café Aromatizado Cafe Torrado e Moido Café Italle Sabores Aroma 250g",
+      "title_norm": "cafe aromatizado cafe torrado e moido cafe italle sabores aroma 250g",
+      "url": "https://shopee.com.br/product/334540655/20599384653",
+      "affiliate_url": "https://s.shopee.com.br/W60AIweQQ",
+      "category": "Café Italle",
+      "bucket": "cafe_italle",
+      "posted_ts": 1787221003,
+      "posted_at": "2026-08-20T10:16:43.721197+00:00",
+      "score": 98.35
+    },
+    {
       "key": "shopee:22994696891",
       "marketplace": "shopee",
       "id": "22994696891",
@@ -9829,5 +9899,5 @@
       "score": 130.19
     }
   ],
-  "updated_at": "2026-08-20T09:21:27.467139+00:00"
+  "updated_at": "2026-08-20T10:22:23.870444+00:00"
 }
