@@ -1,6 +1,76 @@
 {
   "posts": [
     {
+      "key": "shopee:23597279828",
+      "marketplace": "shopee",
+      "id": "23597279828",
+      "title": "Pijama Hospitalar Cirúrgico Scrub Feminino Acinturado Varias Cores Tamanhos",
+      "title_norm": "pijama hospitalar cirurgico scrub feminino acinturado varias cores tamanhos",
+      "url": "https://shopee.com.br/product/977457340/23597279828",
+      "affiliate_url": "https://s.shopee.com.br/3B6lTRmrxj",
+      "category": "JR-CONFECÇÕES",
+      "bucket": "jr_confeccoes",
+      "posted_ts": 1787228591,
+      "posted_at": "2026-08-20T12:23:11.015278+00:00",
+      "score": 87.12
+    },
+    {
+      "key": "shopee:58258296035",
+      "marketplace": "shopee",
+      "id": "58258296035",
+      "title": "CONJUNTO PATY FEMININO LUXO - SAIA COM CROPPED DE AMARRAÇÃO (PAULA)",
+      "title_norm": "conjunto paty feminino luxo saia com cropped de amarracao paula",
+      "url": "https://shopee.com.br/product/941361217/58258296035",
+      "affiliate_url": "https://s.shopee.com.br/4Vc93tPv4F",
+      "category": "UseLunnaStore",
+      "bucket": "pet",
+      "posted_ts": 1787228523,
+      "posted_at": "2026-08-20T12:22:03.371455+00:00",
+      "score": 88.19
+    },
+    {
+      "key": "shopee:20698436405",
+      "marketplace": "shopee",
+      "id": "20698436405",
+      "title": "Tênis feminino lançamento novidade leve confortável casual plataforma top!",
+      "title_norm": "tenis feminino lancamento novidade leve confortavel casual plataforma top",
+      "url": "https://shopee.com.br/product/880893726/20698436405",
+      "affiliate_url": "https://s.shopee.com.br/8fRi1YNSlY",
+      "category": "BEST STORE OFICIAL.",
+      "bucket": "calcados",
+      "posted_ts": 1787228454,
+      "posted_at": "2026-08-20T12:20:54.908213+00:00",
+      "score": 89.6
+    },
+    {
+      "key": "shopee:19898200604",
+      "marketplace": "shopee",
+      "id": "19898200604",
+      "title": "Kit 3 Cropped Tube Tomara Que Caia RF 015",
+      "title_norm": "kit 3 cropped tube tomara que caia rf 015",
+      "url": "https://shopee.com.br/product/1478384555/19898200604",
+      "affiliate_url": "https://s.shopee.com.br/4qEzSVOeOL",
+      "category": "M.C FASHION",
+      "bucket": "moda_feminina",
+      "posted_ts": 1787228323,
+      "posted_at": "2026-08-20T12:18:43.678030+00:00",
+      "score": 90.71
+    },
+    {
+      "key": "shopee:49501133053",
+      "marketplace": "shopee",
+      "id": "49501133053",
+      "title": "Conjunto alfaiataria Linho feminino Calça Pantalona + blusa regata social luxo Elegante Chique",
+      "title_norm": "conjunto alfaiataria linho feminino calca pantalona blusa regata social luxo elegante chique",
+      "url": "https://shopee.com.br/product/999358986/49501133053",
+      "affiliate_url": "https://s.shopee.com.br/6AkN2xfmOz",
+      "category": "INSTASHOPPING",
+      "bucket": "instashopping",
+      "posted_ts": 1787228204,
+      "posted_at": "2026-08-20T12:16:44.055577+00:00",
+      "score": 94.9
+    },
+    {
       "key": "shopee:22494167243",
       "marketplace": "shopee",
       "id": "22494167243",
@@ -9899,5 +9969,5 @@
       "score": 130.19
     }
   ],
-  "updated_at": "2026-08-20T10:22:23.870444+00:00"
+  "updated_at": "2026-08-20T12:23:11.015292+00:00"
 }
