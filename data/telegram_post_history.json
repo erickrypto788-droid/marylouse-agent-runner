@@ -1,6 +1,34 @@
 {
   "posts": [
     {
+      "key": "shopee:21399249090",
+      "marketplace": "shopee",
+      "id": "21399249090",
+      "title": "Kit Bota Feminina Infantil E Bolsa Infantil Menina Blogueira",
+      "title_norm": "kit bota feminina infantil e bolsa infantil menina blogueira",
+      "url": "https://shopee.com.br/product/823578007/21399249090",
+      "affiliate_url": "https://s.shopee.com.br/8V8I9qw10P",
+      "category": "Minipasso",
+      "bucket": "calcados",
+      "posted_ts": 1787246269,
+      "posted_at": "2026-08-20T17:17:49.707249+00:00",
+      "score": 85.02
+    },
+    {
+      "key": "shopee:22195041792",
+      "marketplace": "shopee",
+      "id": "22195041792",
+      "title": "Chinelo Piccadilly EVA Marshmallow C224 Off White - Feminino",
+      "title_norm": "chinelo piccadilly eva marshmallow c224 off white feminino",
+      "url": "https://shopee.com.br/product/1614877278/22195041792",
+      "affiliate_url": "https://s.shopee.com.br/3qMSbHE3UB",
+      "category": "Centersportoficialmg",
+      "bucket": "calcados",
+      "posted_ts": 1787246202,
+      "posted_at": "2026-08-20T17:16:42.921059+00:00",
+      "score": 95.3
+    },
+    {
       "key": "shopee:57008381938",
       "marketplace": "shopee",
       "id": "57008381938",
@@ -10081,5 +10109,5 @@
       "score": 130.19
     }
   ],
-  "updated_at": "2026-08-20T16:17:52.101862+00:00"
+  "updated_at": "2026-08-20T17:17:49.707263+00:00"
 }
