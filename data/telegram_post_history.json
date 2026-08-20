@@ -1,6 +1,34 @@
 {
   "posts": [
     {
+      "key": "shopee:58205893747",
+      "marketplace": "shopee",
+      "id": "58205893747",
+      "title": "TOMI MITO Bolsa Feminina De Transversal Com Monograma Em Estilo Retrô Bolsa Quadrada Com Estampa Vintage TM9185",
+      "title_norm": "tomi mito bolsa feminina de transversal com monograma em estilo retro bolsa quadrada com estampa vintage tm9185",
+      "url": "https://shopee.com.br/product/1468415010/58205893747",
+      "affiliate_url": "https://s.shopee.com.br/W5ztpHlzP",
+      "category": "Amy.Store",
+      "bucket": "bolsas",
+      "posted_ts": 1787206669,
+      "posted_at": "2026-08-20T06:17:49.246026+00:00",
+      "score": 98.0
+    },
+    {
+      "key": "shopee:22391919981",
+      "marketplace": "shopee",
+      "id": "22391919981",
+      "title": "Mochila 2023 bolsa Viagem Resistente a Água Style Premium Executiva Envio imediato",
+      "title_norm": "mochila 2023 bolsa viagem resistente a agua style premium executiva envio imediato",
+      "url": "https://shopee.com.br/product/691323218/22391919981",
+      "affiliate_url": "https://s.shopee.com.br/8KorEDsQ8A",
+      "category": "ULTRA TECH COMERCIAL LTDA",
+      "bucket": "bolsas",
+      "posted_ts": 1787206605,
+      "posted_at": "2026-08-20T06:16:45.196382+00:00",
+      "score": 98.37
+    },
+    {
       "key": "shopee:13202516494",
       "marketplace": "shopee",
       "id": "13202516494",
@@ -9661,5 +9689,5 @@
       "score": 130.19
     }
   ],
-  "updated_at": "2026-08-20T05:20:54.497537+00:00"
+  "updated_at": "2026-08-20T06:17:49.246039+00:00"
 }
