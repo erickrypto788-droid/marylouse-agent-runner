@@ -1,6 +1,76 @@
 {
   "posts": [
     {
+      "key": "shopee:23699428732",
+      "marketplace": "shopee",
+      "id": "23699428732",
+      "title": "Blusa Camisetas Dos Rosa Youtubers Grupo da Emilly Vick em Alta Qualidade Feminina e Masculina Personagens 2026 Trends",
+      "title_norm": "blusa camisetas dos rosa youtubers grupo da emilly vick em alta qualidade feminina e masculina personagens 2026 trends",
+      "url": "https://shopee.com.br/product/333187273/23699428732",
+      "affiliate_url": "https://s.shopee.com.br/7fZBQnr7vI",
+      "category": "Scarlets Modas",
+      "bucket": "scarlets_modas",
+      "posted_ts": 1787260863,
+      "posted_at": "2026-08-20T21:21:03.727993+00:00",
+      "score": 78.14
+    },
+    {
+      "key": "shopee:23394401680",
+      "marketplace": "shopee",
+      "id": "23394401680",
+      "title": "Manta Cobertor de Bebê c/ Naninha Para Menina Menino Infantil Mantinha Premium 02 Peças",
+      "title_norm": "manta cobertor de bebe c naninha para menina menino infantil mantinha premium 02 pecas",
+      "url": "https://shopee.com.br/product/1163467429/23394401680",
+      "affiliate_url": "https://s.shopee.com.br/19kIi7Fdf",
+      "category": "Enxovais Betina",
+      "bucket": "enxovais_betina",
+      "posted_ts": 1787260799,
+      "posted_at": "2026-08-20T21:19:59.690030+00:00",
+      "score": 81.93
+    },
+    {
+      "key": "shopee:44222472961",
+      "marketplace": "shopee",
+      "id": "44222472961",
+      "title": "Vestido Bebê Menina + Faixinha de Cabelo Verão Cores/Natal Tam P, M, G/ 1, 2 e 3",
+      "title_norm": "vestido bebe menina faixinha de cabelo verao cores natal tam p m g 1 2 e 3",
+      "url": "https://shopee.com.br/product/1103278358/44222472961",
+      "affiliate_url": "https://s.shopee.com.br/20uogO8R9m",
+      "category": "Leticia Store ",
+      "bucket": "moda_feminina",
+      "posted_ts": 1787260735,
+      "posted_at": "2026-08-20T21:18:55.677519+00:00",
+      "score": 85.78
+    },
+    {
+      "key": "shopee:8499477302",
+      "marketplace": "shopee",
+      "id": "8499477302",
+      "title": "Tenis Infantil LED SONIC de Menino Com Led Luzinha Personagem tenis com luzes coloridas",
+      "title_norm": "tenis infantil led sonic de menino com led luzinha personagem tenis com luzes coloridas",
+      "url": "https://shopee.com.br/product/387523771/8499477302",
+      "affiliate_url": "https://s.shopee.com.br/6L3nqM0jw8",
+      "category": "Cirandinha Shoes",
+      "bucket": "calcados",
+      "posted_ts": 1787260671,
+      "posted_at": "2026-08-20T21:17:51.704479+00:00",
+      "score": 97.25
+    },
+    {
+      "key": "shopee:58255859733",
+      "marketplace": "shopee",
+      "id": "58255859733",
+      "title": "Tênis Infantil Menino Super Leve e Confortável Escolar Esportivo - Volta as aulas",
+      "title_norm": "tenis infantil menino super leve e confortavel escolar esportivo volta as aulas",
+      "url": "https://shopee.com.br/product/1669522364/58255859733",
+      "affiliate_url": "https://s.shopee.com.br/3VjcT9BavG",
+      "category": "TI MIMEI-",
+      "bucket": "calcados",
+      "posted_ts": 1787260603,
+      "posted_at": "2026-08-20T21:16:43.937786+00:00",
+      "score": 98.03
+    },
+    {
       "key": "shopee:52054081014",
       "marketplace": "shopee",
       "id": "52054081014",
@@ -10235,5 +10305,5 @@
       "score": 130.19
     }
   ],
-  "updated_at": "2026-08-20T20:20:14.046281+00:00"
+  "updated_at": "2026-08-20T21:21:03.728005+00:00"
 }
