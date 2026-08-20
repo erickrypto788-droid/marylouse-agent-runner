@@ -1,6 +1,34 @@
 {
   "posts": [
     {
+      "key": "shopee:23698542471",
+      "marketplace": "shopee",
+      "id": "23698542471",
+      "title": "Mini Liquidificador Portátil Copo Caneca 500ml e 450ml Com 10 Lâminas, Tampa, Canudo e Copo Recarregavel",
+      "title_norm": "mini liquidificador portatil copo caneca 500ml e 450ml com 10 laminas tampa canudo e copo recarregavel",
+      "url": "https://shopee.com.br/product/1294737459/23698542471",
+      "affiliate_url": "https://s.shopee.com.br/5VUgiZd0UT",
+      "category": "ANJIN IMPORTS",
+      "bucket": "casa_cozinha",
+      "posted_ts": 1787253464,
+      "posted_at": "2026-08-20T19:17:44.994391+00:00",
+      "score": 89.33
+    },
+    {
+      "key": "shopee:23597334946",
+      "marketplace": "shopee",
+      "id": "23597334946",
+      "title": "Liquidificador Britânia BLQE01 2 copos 2,6L 900W",
+      "title_norm": "liquidificador britania blqe01 2 copos 2 6l 900w",
+      "url": "https://shopee.com.br/product/811879342/23597334946",
+      "affiliate_url": "https://s.shopee.com.br/6AkNVnaT8f",
+      "category": "Britânia Oficial",
+      "bucket": "casa_cozinha",
+      "posted_ts": 1787253395,
+      "posted_at": "2026-08-20T19:16:35.590507+00:00",
+      "score": 98.95
+    },
+    {
       "key": "shopee:45754796089",
       "marketplace": "shopee",
       "id": "45754796089",
@@ -10151,5 +10179,5 @@
       "score": 130.19
     }
   ],
-  "updated_at": "2026-08-20T18:19:10.712245+00:00"
+  "updated_at": "2026-08-20T19:17:44.994403+00:00"
 }
