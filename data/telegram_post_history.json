@@ -1,6 +1,20 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB5095655201",
+      "marketplace": "mercadolivre",
+      "id": "MLB5095655201",
+      "title": "Impressora Etiquetas Código Barras + 1.000 Etiquetas Cor Branco",
+      "title_norm": "impressora etiquetas codigo barras 1 000 etiquetas cor branco",
+      "url": "https://www.mercadolivre.com.br/p/MLB50110319?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB50110319?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Informática",
+      "bucket": "informatica",
+      "posted_ts": 1787194946,
+      "posted_at": "2026-08-20T03:02:26.592236+00:00",
+      "score": 96.4
+    },
+    {
       "key": "shopee:22193719375",
       "marketplace": "shopee",
       "id": "22193719375",
@@ -9465,5 +9479,5 @@
       "score": 130.19
     }
   ],
-  "updated_at": "2026-08-20T02:20:53.017043+00:00"
+  "updated_at": "2026-08-20T03:02:26.592251+00:00"
 }
