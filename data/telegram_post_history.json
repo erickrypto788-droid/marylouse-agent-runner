@@ -1,6 +1,62 @@
 {
   "posts": [
     {
+      "key": "shopee:52054081014",
+      "marketplace": "shopee",
+      "id": "52054081014",
+      "title": "Principia Protetor Solar PS-05 Cor 3.0 c/ 14,5% Mix de Filtros UV + 5% Niacinamida FPS 70 - 30ml",
+      "title_norm": "principia protetor solar ps 05 cor 3 0 c 14 5 mix de filtros uv 5 niacinamida fps 70 30ml",
+      "url": "https://shopee.com.br/product/373261329/52054081014",
+      "affiliate_url": "https://s.shopee.com.br/2LXf0tMBEC",
+      "category": "Principia Skincare",
+      "bucket": "principia_skincare",
+      "posted_ts": 1787257214,
+      "posted_at": "2026-08-20T20:20:14.046263+00:00",
+      "score": 51.02
+    },
+    {
+      "key": "shopee:44074380649",
+      "marketplace": "shopee",
+      "id": "44074380649",
+      "title": "Principia Gel de Limpeza Suave - GL-02 c/ 200g",
+      "title_norm": "principia gel de limpeza suave gl 02 c 200g",
+      "url": "https://shopee.com.br/product/373261329/44074380649",
+      "affiliate_url": "https://s.shopee.com.br/3B6m0QEkJL",
+      "category": "Principia Skincare",
+      "bucket": "principia_skincare",
+      "posted_ts": 1787257149,
+      "posted_at": "2026-08-20T20:19:09.809874+00:00",
+      "score": 51.02
+    },
+    {
+      "key": "shopee:23792942174",
+      "marketplace": "shopee",
+      "id": "23792942174",
+      "title": "Prancha Chapinha de Cabelo Bivolt 110V/220V",
+      "title_norm": "prancha chapinha de cabelo bivolt 110v 220v",
+      "url": "https://shopee.com.br/product/733998429/23792942174",
+      "affiliate_url": "https://s.shopee.com.br/1BLhckDYp0",
+      "category": "TTcomercio",
+      "bucket": "beleza",
+      "posted_ts": 1787257080,
+      "posted_at": "2026-08-20T20:18:00.982483+00:00",
+      "score": 126.93
+    },
+    {
+      "key": "shopee:23994304314",
+      "marketplace": "shopee",
+      "id": "23994304314",
+      "title": "Perfume Importados Feminino E Masculino 30ML",
+      "title_norm": "perfume importados feminino e masculino 30ml",
+      "url": "https://shopee.com.br/product/1607287893/23994304314",
+      "affiliate_url": "https://s.shopee.com.br/6L3nmEkofw",
+      "category": "MODA H&S ",
+      "bucket": "beleza",
+      "posted_ts": 1787257012,
+      "posted_at": "2026-08-20T20:16:52.204889+00:00",
+      "score": 127.02
+    },
+    {
       "key": "shopee:23698542471",
       "marketplace": "shopee",
       "id": "23698542471",
@@ -10179,5 +10235,5 @@
       "score": 130.19
     }
   ],
-  "updated_at": "2026-08-20T19:17:44.994403+00:00"
+  "updated_at": "2026-08-20T20:20:14.046281+00:00"
 }
