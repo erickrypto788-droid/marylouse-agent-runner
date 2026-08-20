@@ -1,6 +1,76 @@
 {
   "posts": [
     {
+      "key": "shopee:22193719375",
+      "marketplace": "shopee",
+      "id": "22193719375",
+      "title": "Kit Halteres 3 em 1 40kg Anilha Barra Musculação Academia Peso Ajustável Segurança e Durabilidade",
+      "title_norm": "kit halteres 3 em 1 40kg anilha barra musculacao academia peso ajustavel seguranca e durabilidade",
+      "url": "https://shopee.com.br/product/1078948622/22193719375",
+      "affiliate_url": "https://s.shopee.com.br/8fRhMLQ0vx",
+      "category": "Bonafit",
+      "bucket": "bonafit",
+      "posted_ts": 1787192453,
+      "posted_at": "2026-08-20T02:20:53.017030+00:00",
+      "score": 90.17
+    },
+    {
+      "key": "shopee:22494794269",
+      "marketplace": "shopee",
+      "id": "22494794269",
+      "title": "Garrafa Térmica Com Alça Academia 350ml/600ml/800ml/1000ml/1200ml",
+      "title_norm": "garrafa termica com alca academia 350ml 600ml 800ml 1000ml 1200ml",
+      "url": "https://shopee.com.br/product/1638197057/22494794269",
+      "affiliate_url": "https://s.shopee.com.br/qiq1xBMhP",
+      "category": "Dong Fang Co",
+      "bucket": "dong_fang_co",
+      "posted_ts": 1787192389,
+      "posted_at": "2026-08-20T02:19:49.095025+00:00",
+      "score": 96.44
+    },
+    {
+      "key": "shopee:58262199944",
+      "marketplace": "shopee",
+      "id": "58262199944",
+      "title": "Whey Protein Gourmet 100% Concentrado e Isolado 900g Pote",
+      "title_norm": "whey protein gourmet 100 concentrado e isolado 900g pote",
+      "url": "https://shopee.com.br/product/473678018/58262199944",
+      "affiliate_url": "https://s.shopee.com.br/6q03Ayof4Q",
+      "category": "MIXFIT - Distribuidor de Suplemento",
+      "bucket": "mixfit_distribuidor_de_suplemento",
+      "posted_ts": 1787192325,
+      "posted_at": "2026-08-20T02:18:45.037037+00:00",
+      "score": 96.6
+    },
+    {
+      "key": "shopee:58258211163",
+      "marketplace": "shopee",
+      "id": "58258211163",
+      "title": "Bicicleta ergométrica, bicicleta de spinning, bicicleta profissional para academia, 120 kg,Cor Preto E Vermelho",
+      "title_norm": "bicicleta ergometrica bicicleta de spinning bicicleta profissional para academia 120 kg cor preto e vermelho",
+      "url": "https://shopee.com.br/product/1742490859/58258211163",
+      "affiliate_url": "https://s.shopee.com.br/4Vc8OgofxR",
+      "category": "CINGAR",
+      "bucket": "cingar",
+      "posted_ts": 1787192261,
+      "posted_at": "2026-08-20T02:17:41.083505+00:00",
+      "score": 101.52
+    },
+    {
+      "key": "shopee:22393214253",
+      "marketplace": "shopee",
+      "id": "22393214253",
+      "title": "Mini Bike Ergométrica Pernas Braços Fisioterapia Cicloergometro Pedalinho Monitor LCD",
+      "title_norm": "mini bike ergometrica pernas bracos fisioterapia cicloergometro pedalinho monitor lcd",
+      "url": "https://shopee.com.br/product/260477274/22393214253",
+      "affiliate_url": "https://s.shopee.com.br/4LIiCNpJIO",
+      "category": "HUGSTORE",
+      "bucket": "hugstore",
+      "posted_ts": 1787192197,
+      "posted_at": "2026-08-20T02:16:37.104563+00:00",
+      "score": 101.55
+    },
+    {
       "key": "shopee:23893782668",
       "marketplace": "shopee",
       "id": "23893782668",
@@ -9395,5 +9465,5 @@
       "score": 130.19
     }
   ],
-  "updated_at": "2026-08-20T01:20:59.782390+00:00"
+  "updated_at": "2026-08-20T02:20:53.017043+00:00"
 }
