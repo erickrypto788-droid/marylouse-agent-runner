@@ -1,6 +1,20 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB6175679804",
+      "marketplace": "mercadolivre",
+      "id": "MLB6175679804",
+      "title": "Carregador Portátil 20000mAh Bahrein Power Bank Universal Power Bank Carga Rápida Com Display Bahrein Compatível Com Todos Celulares Iphone Android IOS apple xiaomi Samsung Motorola",
+      "title_norm": "carregador portatil 20000mah bahrein power bank universal power bank carga rapida com display bahrein compativel com todos celulares iphone android ios apple xiaomi samsung motorola",
+      "url": "https://www.mercadolivre.com.br/p/MLB24099360?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB24099360?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Informática",
+      "bucket": "celulares",
+      "posted_ts": 1787238172,
+      "posted_at": "2026-08-20T15:02:52.595776+00:00",
+      "score": 114.0
+    },
+    {
       "key": "shopee:20199862626",
       "marketplace": "shopee",
       "id": "20199862626",
@@ -10039,5 +10053,5 @@
       "score": 130.19
     }
   ],
-  "updated_at": "2026-08-20T14:20:58.071580+00:00"
+  "updated_at": "2026-08-20T15:02:52.595785+00:00"
 }
