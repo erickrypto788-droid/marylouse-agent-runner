@@ -1,6 +1,76 @@
 {
   "posts": [
     {
+      "key": "shopee:22994696891",
+      "marketplace": "shopee",
+      "id": "22994696891",
+      "title": "Repetidor de Sinal Wi-Fi Roteador Wireless 2.4G Sem Fio 4 Antenas Longo Alcance Potente Fácil Instalação",
+      "title_norm": "repetidor de sinal wi fi roteador wireless 2 4g sem fio 4 antenas longo alcance potente facil instalacao",
+      "url": "https://shopee.com.br/product/1575539765/22994696891",
+      "affiliate_url": "https://s.shopee.com.br/1gHxULG1NX",
+      "category": "KWN IMPORTS",
+      "bucket": "pet",
+      "posted_ts": 1787217687,
+      "posted_at": "2026-08-20T09:21:27.467115+00:00",
+      "score": 68.33
+    },
+    {
+      "key": "shopee:58258835199",
+      "marketplace": "shopee",
+      "id": "58258835199",
+      "title": "Suporte Roteador Parede Sem Furo Fita 3M Organizador WiFi Universal",
+      "title_norm": "suporte roteador parede sem furo fita 3m organizador wifi universal",
+      "url": "https://shopee.com.br/product/1663899091/58258835199",
+      "affiliate_url": "https://s.shopee.com.br/2Vr4TsCqgc",
+      "category": "imperiomixoficial",
+      "bucket": "imperiomixoficial",
+      "posted_ts": 1787217618,
+      "posted_at": "2026-08-20T09:20:18.785423+00:00",
+      "score": 69.52
+    },
+    {
+      "key": "shopee:22893843635",
+      "marketplace": "shopee",
+      "id": "22893843635",
+      "title": "Papel Fotográfico Adesivo 130G Glossy 100 Folhas A4 MASTERPRINT (PAPEL ADESIVO)",
+      "title_norm": "papel fotografico adesivo 130g glossy 100 folhas a4 masterprint papel adesivo",
+      "url": "https://shopee.com.br/product/761647073/22893843635",
+      "affiliate_url": "https://s.shopee.com.br/80C11yaFA0",
+      "category": "Papel fotografico e Papelaria",
+      "bucket": "papel_fotografico_e_papelaria",
+      "posted_ts": 1787217551,
+      "posted_at": "2026-08-20T09:19:11.456851+00:00",
+      "score": 69.75
+    },
+    {
+      "key": "shopee:23099342707",
+      "marketplace": "shopee",
+      "id": "23099342707",
+      "title": "Emeet S600 4k 30Fps Webcam Autofoco Com Microfone 1080P 60Fps Camera Para Pc",
+      "title_norm": "emeet s600 4k 30fps webcam autofoco com microfone 1080p 60fps camera para pc",
+      "url": "https://shopee.com.br/product/1714473501/23099342707",
+      "affiliate_url": "https://s.shopee.com.br/AUtM0ZdieN",
+      "category": "EMEET OFICIAL",
+      "bucket": "emeet_oficial",
+      "posted_ts": 1787217482,
+      "posted_at": "2026-08-20T09:18:02.328793+00:00",
+      "score": 71.03
+    },
+    {
+      "key": "shopee:22294682271",
+      "marketplace": "shopee",
+      "id": "22294682271",
+      "title": "Monitor Gamer Haiz 27” LM27GM IPS Full HD 240Hz 0.5ms HDR10 HDMI DisplayPort",
+      "title_norm": "monitor gamer haiz 27 lm27gm ips full hd 240hz 0 5ms hdr10 hdmi displayport",
+      "url": "https://shopee.com.br/product/1612621589/22294682271",
+      "affiliate_url": "https://s.shopee.com.br/2LXeHZ4gSh",
+      "category": "HAZEON",
+      "bucket": "informatica",
+      "posted_ts": 1787217414,
+      "posted_at": "2026-08-20T09:16:54.214751+00:00",
+      "score": 120.58
+    },
+    {
       "key": "shopee:18399401285",
       "marketplace": "shopee",
       "id": "18399401285",
@@ -9759,5 +9829,5 @@
       "score": 130.19
     }
   ],
-  "updated_at": "2026-08-20T08:21:17.117359+00:00"
+  "updated_at": "2026-08-20T09:21:27.467139+00:00"
 }
