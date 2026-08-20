@@ -1,6 +1,76 @@
 {
   "posts": [
     {
+      "key": "shopee:20199862626",
+      "marketplace": "shopee",
+      "id": "20199862626",
+      "title": "Camiseta Basica Algodão Pima Peruano Tecido Encorpado Malha Super Marcio Importado diadia",
+      "title_norm": "camiseta basica algodao pima peruano tecido encorpado malha super marcio importado diadia",
+      "url": "https://shopee.com.br/product/1067229535/20199862626",
+      "affiliate_url": "https://s.shopee.com.br/80C1MZ8lvI",
+      "category": "ACME CONFECCOES",
+      "bucket": "acme_confeccoes",
+      "posted_ts": 1787235658,
+      "posted_at": "2026-08-20T14:20:58.071568+00:00",
+      "score": 82.74
+    },
+    {
+      "key": "shopee:17192537739",
+      "marketplace": "shopee",
+      "id": "17192537739",
+      "title": "Kit Cueca Samba Canção Masculino Pijama Masculino de Dormir Liganete Lisa Estampada Short de Dormir",
+      "title_norm": "kit cueca samba cancao masculino pijama masculino de dormir liganete lisa estampada short de dormir",
+      "url": "https://shopee.com.br/product/831272734/17192537739",
+      "affiliate_url": "https://s.shopee.com.br/1Lf7QJgwxq",
+      "category": "USE AD LINGERIE ",
+      "bucket": "use_ad_lingerie",
+      "posted_ts": 1787235594,
+      "posted_at": "2026-08-20T14:19:54.175568+00:00",
+      "score": 85.1
+    },
+    {
+      "key": "shopee:22894934956",
+      "marketplace": "shopee",
+      "id": "22894934956",
+      "title": "Kit 3 Shorts 2 em 1 Dryfit Masculino Academia Corrida Treino Bermuda comprime Seca Rápida Confortável Fitnes",
+      "title_norm": "kit 3 shorts 2 em 1 dryfit masculino academia corrida treino bermuda comprime seca rapida confortavel fitnes",
+      "url": "https://shopee.com.br/product/1655509891/22894934956",
+      "affiliate_url": "https://s.shopee.com.br/8pl8HyygH0",
+      "category": "LH Variedadess",
+      "bucket": "lh_variedadess",
+      "posted_ts": 1787235525,
+      "posted_at": "2026-08-20T14:18:45.499013+00:00",
+      "score": 87.44
+    },
+    {
+      "key": "shopee:20350419516",
+      "marketplace": "shopee",
+      "id": "20350419516",
+      "title": "Kit Sortido 10 ou 4 Peças de Roupas Infantil Menino- 5 Camisetas + 5 Bermudas - Kit 5 Conjuntos de Roupa Verão Masculino",
+      "title_norm": "kit sortido 10 ou 4 pecas de roupas infantil menino 5 camisetas 5 bermudas kit 5 conjuntos de roupa verao masculino",
+      "url": "https://shopee.com.br/product/341167297/20350419516",
+      "affiliate_url": "https://s.shopee.com.br/1VyXccgJct",
+      "category": "Poloinfantil.store",
+      "bucket": "poloinfantil_store",
+      "posted_ts": 1787235461,
+      "posted_at": "2026-08-20T14:17:41.572602+00:00",
+      "score": 88.0
+    },
+    {
+      "key": "shopee:58209320732",
+      "marketplace": "shopee",
+      "id": "58209320732",
+      "title": "Óculos de Leitura Inteligente com Zoom Automático, Uso Diário Masculino e Feminino",
+      "title_norm": "oculos de leitura inteligente com zoom automatico uso diario masculino e feminino",
+      "url": "https://shopee.com.br/product/1690878664/58209320732",
+      "affiliate_url": "https://s.shopee.com.br/4AzIjPPFMf",
+      "category": "Escolha Distinta",
+      "bucket": "escolha_distinta",
+      "posted_ts": 1787235397,
+      "posted_at": "2026-08-20T14:16:37.654448+00:00",
+      "score": 96.04
+    },
+    {
       "key": "shopee:23597279828",
       "marketplace": "shopee",
       "id": "23597279828",
@@ -9969,5 +10039,5 @@
       "score": 130.19
     }
   ],
-  "updated_at": "2026-08-20T12:23:11.015292+00:00"
+  "updated_at": "2026-08-20T14:20:58.071580+00:00"
 }
