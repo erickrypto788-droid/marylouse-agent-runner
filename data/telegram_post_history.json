@@ -1,6 +1,76 @@
 {
   "posts": [
     {
+      "key": "shopee:27693210740",
+      "marketplace": "shopee",
+      "id": "27693210740",
+      "title": "Bebê Reborn 100% Silicone Realista Boneca Barata Completa",
+      "title_norm": "bebe reborn 100 silicone realista boneca barata completa",
+      "url": "https://shopee.com.br/product/333166136/27693210740",
+      "affiliate_url": "https://s.shopee.com.br/W5zhSsgI8",
+      "category": "PRINCESA REBORN",
+      "bucket": "princesa_reborn",
+      "posted_ts": 1787196062,
+      "posted_at": "2026-08-20T03:21:02.938514+00:00",
+      "score": 79.43
+    },
+    {
+      "key": "shopee:22999528910",
+      "marketplace": "shopee",
+      "id": "22999528910",
+      "title": "Relâmpago McQueen Caminhão Mack Mcqueen Carrinhos Do Relâmpago Mcqueen Mate Relâmpago Mcqueen",
+      "title_norm": "relampago mcqueen caminhao mack mcqueen carrinhos do relampago mcqueen mate relampago mcqueen",
+      "url": "https://shopee.com.br/product/1717663781/22999528910",
+      "affiliate_url": "https://s.shopee.com.br/5ArpG2jiQv",
+      "category": "IMPERIAL TOYS",
+      "bucket": "imperial_toys",
+      "posted_ts": 1787195998,
+      "posted_at": "2026-08-20T03:19:58.791448+00:00",
+      "score": 81.36
+    },
+    {
+      "key": "shopee:22498844695",
+      "marketplace": "shopee",
+      "id": "22498844695",
+      "title": "Lança Bolhas Sabão Automático Brinquedo Infantil Menino Menina Festa Aniversário Presente Elétrico",
+      "title_norm": "lanca bolhas sabao automatico brinquedo infantil menino menina festa aniversario presente eletrico",
+      "url": "https://shopee.com.br/product/427457955/22498844695",
+      "affiliate_url": "https://s.shopee.com.br/6L3meBNfvQ",
+      "category": "TZ UTILIDADES LTDA",
+      "bucket": "tz_utilidades_ltda",
+      "posted_ts": 1787195934,
+      "posted_at": "2026-08-20T03:18:54.519417+00:00",
+      "score": 82.0
+    },
+    {
+      "key": "shopee:41478733625",
+      "marketplace": "shopee",
+      "id": "41478733625",
+      "title": "Kit 100 Cubos Construção Magnético Blocos Estilo Mine World + 3 Bonecos",
+      "title_norm": "kit 100 cubos construcao magnetico blocos estilo mine world 3 bonecos",
+      "url": "https://shopee.com.br/product/1392847599/41478733625",
+      "affiliate_url": "https://s.shopee.com.br/8pl7cmRYwM",
+      "category": "nayshopcomercio",
+      "bucket": "nayshopcomercio",
+      "posted_ts": 1787195870,
+      "posted_at": "2026-08-20T03:17:50.173803+00:00",
+      "score": 82.99
+    },
+    {
+      "key": "shopee:58208382454",
+      "marketplace": "shopee",
+      "id": "58208382454",
+      "title": "Boneca K-Pop Musical Articulada 30Cm Guerreiras Do K-Pop Mira Rumi Zoe",
+      "title_norm": "boneca k pop musical articulada 30cm guerreiras do k pop mira rumi zoe",
+      "url": "https://shopee.com.br/product/1449932258/58208382454",
+      "affiliate_url": "https://s.shopee.com.br/8pl7cmMxNx",
+      "category": "OLJ IMPORTADOS",
+      "bucket": "olj_importados",
+      "posted_ts": 1787195806,
+      "posted_at": "2026-08-20T03:16:46.047928+00:00",
+      "score": 89.4
+    },
+    {
       "key": "mercadolivre:MLB5095655201",
       "marketplace": "mercadolivre",
       "id": "MLB5095655201",
@@ -9479,5 +9549,5 @@
       "score": 130.19
     }
   ],
-  "updated_at": "2026-08-20T03:02:26.592251+00:00"
+  "updated_at": "2026-08-20T03:21:02.938525+00:00"
 }
