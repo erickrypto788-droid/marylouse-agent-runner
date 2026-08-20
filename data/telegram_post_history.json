@@ -1,6 +1,76 @@
 {
   "posts": [
     {
+      "key": "shopee:43852360893",
+      "marketplace": "shopee",
+      "id": "43852360893",
+      "title": "Creme Hidratante Facial 5% Manteiga de Karité + 5% Glicerina + 2% Niacinamida CH-01Principia - 50g",
+      "title_norm": "creme hidratante facial 5 manteiga de karite 5 glicerina 2 niacinamida ch 01principia 50g",
+      "url": "https://shopee.com.br/product/373261329/43852360893",
+      "affiliate_url": "https://s.shopee.com.br/7ActRMQYEm",
+      "category": "Principia Skincare",
+      "bucket": "principia_skincare",
+      "posted_ts": 1787185267,
+      "posted_at": "2026-08-20T00:21:07.258094+00:00",
+      "score": 51.02
+    },
+    {
+      "key": "shopee:10123516773",
+      "marketplace": "shopee",
+      "id": "10123516773",
+      "title": "NIVEA Hidratante Labial Amora Shine 4,8g",
+      "title_norm": "nivea hidratante labial amora shine 4 8g",
+      "url": "https://shopee.com.br/product/502619181/10123516773",
+      "affiliate_url": "https://s.shopee.com.br/AAGV0sF89a",
+      "category": "NIVEA OFICIAL",
+      "bucket": "nivea_oficial",
+      "posted_ts": 1787185203,
+      "posted_at": "2026-08-20T00:20:03.204641+00:00",
+      "score": 58.5
+    },
+    {
+      "key": "shopee:58208444702",
+      "marketplace": "shopee",
+      "id": "58208444702",
+      "title": "Principia Kit Protetor Solar PS-01 FPS 60 + PS-05 FPS 70- escolha seu tom",
+      "title_norm": "principia kit protetor solar ps 01 fps 60 ps 05 fps 70 escolha seu tom",
+      "url": "https://shopee.com.br/product/373261329/58208444702",
+      "affiliate_url": "https://s.shopee.com.br/3Vjb4ceVjl",
+      "category": "Principia Skincare",
+      "bucket": "principia_skincare",
+      "posted_ts": 1787185139,
+      "posted_at": "2026-08-20T00:18:59.145310+00:00",
+      "score": 61.44
+    },
+    {
+      "key": "shopee:58257109953",
+      "marketplace": "shopee",
+      "id": "58257109953",
+      "title": "Kit 3 Perfumes Malbec Masculino Importado Aroma Marcante Essência  Alta Fixação Projeção Duradoura",
+      "title_norm": "kit 3 perfumes malbec masculino importado aroma marcante essencia alta fixacao projecao duradoura",
+      "url": "https://shopee.com.br/product/1190360737/58257109953",
+      "affiliate_url": "https://s.shopee.com.br/4Vc8GSJ6WC",
+      "category": "PH imports ",
+      "bucket": "beleza",
+      "posted_ts": 1787185071,
+      "posted_at": "2026-08-20T00:17:51.162759+00:00",
+      "score": 127.59
+    },
+    {
+      "key": "shopee:18299260537",
+      "marketplace": "shopee",
+      "id": "18299260537",
+      "title": "Escova Rotativa Elétrica Secador de cabelo Professinal 2 em 1  110v e 220v",
+      "title_norm": "escova rotativa eletrica secador de cabelo professinal 2 em 1 110v e 220v",
+      "url": "https://shopee.com.br/product/372103398/18299260537",
+      "affiliate_url": "https://s.shopee.com.br/19iuBehhH",
+      "category": "ADS-store",
+      "bucket": "beleza",
+      "posted_ts": 1787185007,
+      "posted_at": "2026-08-20T00:16:47.168633+00:00",
+      "score": 128.32
+    },
+    {
       "key": "shopee:22692893174",
       "marketplace": "shopee",
       "id": "22692893174",
@@ -9255,5 +9325,5 @@
       "score": 130.19
     }
   ],
-  "updated_at": "2026-08-19T23:17:58.804925+00:00"
+  "updated_at": "2026-08-20T00:21:07.258110+00:00"
 }
