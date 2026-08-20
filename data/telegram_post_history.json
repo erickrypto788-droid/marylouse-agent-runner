@@ -1,6 +1,34 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB4919350217",
+      "marketplace": "mercadolivre",
+      "id": "MLB4919350217",
+      "title": "Tchau, Chupeta",
+      "title_norm": "tchau chupeta",
+      "url": "https://www.mercadolivre.com.br/p/MLB19198314?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB19198314?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Mãe e Bebê",
+      "bucket": "pet",
+      "posted_ts": 1787263691,
+      "posted_at": "2026-08-20T22:08:11.895676+00:00",
+      "score": 89.0
+    },
+    {
+      "key": "mercadolivre:MLB7173723934",
+      "marketplace": "mercadolivre",
+      "id": "MLB7173723934",
+      "title": "Fralda Pampers Pants Ajuste Total Xxg Com 120un",
+      "title_norm": "fralda pampers pants ajuste total xxg com 120un",
+      "url": "https://www.mercadolivre.com.br/p/MLB21853434?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB21853434?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Mãe e Bebê",
+      "bucket": "fraldas",
+      "posted_ts": 1787263622,
+      "posted_at": "2026-08-20T22:07:02.847026+00:00",
+      "score": 112.0
+    },
+    {
       "key": "shopee:23699428732",
       "marketplace": "shopee",
       "id": "23699428732",
@@ -10305,5 +10333,5 @@
       "score": 130.19
     }
   ],
-  "updated_at": "2026-08-20T21:21:03.728005+00:00"
+  "updated_at": "2026-08-20T22:08:11.895689+00:00"
 }
