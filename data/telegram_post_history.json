@@ -1,6 +1,20 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB3814512618",
+      "marketplace": "mercadolivre",
+      "id": "MLB3814512618",
+      "title": "Fralda Huggies Tripla Proteção G 36 unidades",
+      "title_norm": "fralda huggies tripla protecao g 36 unidades",
+      "url": "https://www.mercadolivre.com.br/p/MLB17336422?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB17336422?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Mãe e Bebê",
+      "bucket": "fraldas",
+      "posted_ts": 1787202387,
+      "posted_at": "2026-08-20T05:06:27.038675+00:00",
+      "score": 130.0
+    },
+    {
       "key": "shopee:23999517864",
       "marketplace": "shopee",
       "id": "23999517864",
@@ -9577,5 +9591,5 @@
       "score": 130.19
     }
   ],
-  "updated_at": "2026-08-20T04:17:52.933686+00:00"
+  "updated_at": "2026-08-20T05:06:27.038687+00:00"
 }

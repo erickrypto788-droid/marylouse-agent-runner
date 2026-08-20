@@ -1,6 +1,21 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB3814512618",
+      "product_id": "MLB3814512618",
+      "catalog_product_id": "MLB17336422",
+      "item_id": "MLB3814512618",
+      "url": "https://www.mercadolivre.com.br/p/MLB17336422?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB17336422?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "fralda huggies tripla protecao g 36 unidades",
+      "title": "Fralda Huggies Tripla Proteção G 36 unidades",
+      "category": "Mãe e Bebê",
+      "price": 121.99,
+      "score": 130.0,
+      "posted_ts": 1787202387,
+      "posted_at": "2026-08-20T05:06:27.048275+00:00"
+    },
+    {
       "key": "mercadolivre:MLB5095655201",
       "product_id": "MLB5095655201",
       "catalog_product_id": "MLB50110319",
@@ -389,22 +404,7 @@
       "score": 113.0,
       "posted_ts": 1787032947,
       "posted_at": "2026-08-18T06:02:27.949237+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB7119236764",
-      "product_id": "MLB7119236764",
-      "catalog_product_id": "MLB75107533",
-      "item_id": "MLB7119236764",
-      "url": "https://www.mercadolivre.com.br/p/MLB75107533?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB75107533?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "bike spinning bicicleta 6kg wct fitness preta",
-      "title": "Bike Spinning Bicicleta 6kg Wct Fitness Preta",
-      "category": "Esportes",
-      "price": 699.99,
-      "score": 141.48,
-      "posted_ts": 1787029360,
-      "posted_at": "2026-08-18T05:02:40.949561+00:00"
     }
   ],
-  "updated_at": "2026-08-20T03:02:26.602344+00:00"
+  "updated_at": "2026-08-20T05:06:27.048283+00:00"
 }
