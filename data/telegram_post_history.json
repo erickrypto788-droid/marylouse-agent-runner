@@ -1,6 +1,76 @@
 {
   "posts": [
     {
+      "key": "shopee:22899492397",
+      "marketplace": "shopee",
+      "id": "22899492397",
+      "title": "Kit 30 Jogos da Velha com Tabuleiro 10x10 em MDF 2,7 mm Presentes/Lembrancinhas/Jogos Educativos",
+      "title_norm": "kit 30 jogos da velha com tabuleiro 10x10 em mdf 2 7 mm presentes lembrancinhas jogos educativos",
+      "url": "https://shopee.com.br/product/1788118514/22899492397",
+      "affiliate_url": "https://s.shopee.com.br/70JUlp7EVs",
+      "category": "Little Kids MDF",
+      "bucket": "little_kids_mdf",
+      "posted_ts": 1787268073,
+      "posted_at": "2026-08-20T23:21:13.277323+00:00",
+      "score": 70.84
+    },
+    {
+      "key": "shopee:58254685273",
+      "marketplace": "shopee",
+      "id": "58254685273",
+      "title": "54,33,16 Peças Brinquedos Pescaria Magnéticos infantil De Madeira/Jogos Educacionais Para Crianças Montessori",
+      "title_norm": "54 33 16 pecas brinquedos pescaria magneticos infantil de madeira jogos educacionais para criancas montessori",
+      "url": "https://shopee.com.br/product/1567911874/58254685273",
+      "affiliate_url": "https://s.shopee.com.br/6VNEAu98Wj",
+      "category": "MIUU MUSA",
+      "bucket": "miuu_musa",
+      "posted_ts": 1787268008,
+      "posted_at": "2026-08-20T23:20:08.159272+00:00",
+      "score": 71.99
+    },
+    {
+      "key": "shopee:22298876683",
+      "marketplace": "shopee",
+      "id": "22298876683",
+      "title": "Kit 3/5/6/9/10/15 Carrinhos De Ferro Estilo Hot Wheels Coleção Miniaturas Brinquedo Infantil",
+      "title_norm": "kit 3 5 6 9 10 15 carrinhos de ferro estilo hot wheels colecao miniaturas brinquedo infantil",
+      "url": "https://shopee.com.br/product/1484455738/22298876683",
+      "affiliate_url": "https://s.shopee.com.br/7Acuy7pH9W",
+      "category": "BBKTOYS",
+      "bucket": "bbktoys",
+      "posted_ts": 1787267943,
+      "posted_at": "2026-08-20T23:19:03.880060+00:00",
+      "score": 76.61
+    },
+    {
+      "key": "shopee:18299383775",
+      "marketplace": "shopee",
+      "id": "18299383775",
+      "title": "Carrinho de Bonecas Infantil Carrinho de Bebê Reborn Carrinho de Bonecas Reborn",
+      "title_norm": "carrinho de bonecas infantil carrinho de bebe reborn carrinho de bonecas reborn",
+      "url": "https://shopee.com.br/product/847598018/18299383775",
+      "affiliate_url": "https://s.shopee.com.br/qirQUUz7V",
+      "category": "Ngk Store",
+      "bucket": "ngk_store",
+      "posted_ts": 1787267879,
+      "posted_at": "2026-08-20T23:17:59.591577+00:00",
+      "score": 78.93
+    },
+    {
+      "key": "shopee:22698569483",
+      "marketplace": "shopee",
+      "id": "22698569483",
+      "title": "FÓRMULA 1 - Pack 5 Hot Wheels Original - Lacrado Novo - F1",
+      "title_norm": "formula 1 pack 5 hot wheels original lacrado novo f1",
+      "url": "https://shopee.com.br/product/945978192/22698569483",
+      "affiliate_url": "https://s.shopee.com.br/8V8IYZkCRu",
+      "category": "MI LOJAS OFICIAL",
+      "bucket": "mi_lojas_oficial",
+      "posted_ts": 1787267808,
+      "posted_at": "2026-08-20T23:16:48.249617+00:00",
+      "score": 97.43
+    },
+    {
       "key": "shopee:58261274623",
       "marketplace": "shopee",
       "id": "58261274623",
@@ -10403,5 +10473,5 @@
       "score": 130.19
     }
   ],
-  "updated_at": "2026-08-20T22:21:06.411548+00:00"
+  "updated_at": "2026-08-20T23:21:13.277334+00:00"
 }
