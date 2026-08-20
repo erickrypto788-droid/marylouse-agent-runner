@@ -1,6 +1,76 @@
 {
   "posts": [
     {
+      "key": "shopee:18399401285",
+      "marketplace": "shopee",
+      "id": "18399401285",
+      "title": "Kit Pesca: 600 Anzóis nos Tamanhos 3 ao 12 com Estojo de Armazenamento",
+      "title_norm": "kit pesca 600 anzois nos tamanhos 3 ao 12 com estojo de armazenamento",
+      "url": "https://shopee.com.br/product/1283696396/18399401285",
+      "affiliate_url": "https://s.shopee.com.br/80C0xqTSGj",
+      "category": "jcarsi.br",
+      "bucket": "jcarsi_br",
+      "posted_ts": 1787214077,
+      "posted_at": "2026-08-20T08:21:17.117345+00:00",
+      "score": 48.32
+    },
+    {
+      "key": "shopee:20997990735",
+      "marketplace": "shopee",
+      "id": "20997990735",
+      "title": "Agenda 2027 Capa Dura C/ Marca Páginas Espiral Agenda Cereja Estampada Glitter Grande Média 336 Pág",
+      "title_norm": "agenda 2027 capa dura c marca paginas espiral agenda cereja estampada glitter grande media 336 pag",
+      "url": "https://shopee.com.br/product/1222825208/20997990735",
+      "affiliate_url": "https://s.shopee.com.br/4LIib6uc1q",
+      "category": "BRINQUETON",
+      "bucket": "brinqueton",
+      "posted_ts": 1787214009,
+      "posted_at": "2026-08-20T08:20:09.356893+00:00",
+      "score": 48.77
+    },
+    {
+      "key": "shopee:52504795853",
+      "marketplace": "shopee",
+      "id": "52504795853",
+      "title": "Estojo Moderno De Grande Capacidade , Bolsa De 3 Compartimentos Para Escola E Maquiagem De Volta Às Aulas , Material Esc",
+      "title_norm": "estojo moderno de grande capacidade bolsa de 3 compartimentos para escola e maquiagem de volta as aulas material esc",
+      "url": "https://shopee.com.br/product/1509918787/52504795853",
+      "affiliate_url": "https://s.shopee.com.br/3g31nsocrm",
+      "category": "Hawk Express Store",
+      "bucket": "beleza",
+      "posted_ts": 1787213937,
+      "posted_at": "2026-08-20T08:18:57.805828+00:00",
+      "score": 49.11
+    },
+    {
+      "key": "shopee:23797359274",
+      "marketplace": "shopee",
+      "id": "23797359274",
+      "title": "Carimbo Marca Texto De Proteção De Privacidade /Cobertura Privada/Prosy Code De Dados/Utensílio De Segurança",
+      "title_norm": "carimbo marca texto de protecao de privacidade cobertura privada prosy code de dados utensilio de seguranca",
+      "url": "https://shopee.com.br/product/487505431/23797359274",
+      "affiliate_url": "https://s.shopee.com.br/4Vc8nPpmj3",
+      "category": "FU MOON",
+      "bucket": "fu_moon",
+      "posted_ts": 1787213868,
+      "posted_at": "2026-08-20T08:17:48.318014+00:00",
+      "score": 51.34
+    },
+    {
+      "key": "shopee:22693013284",
+      "marketplace": "shopee",
+      "id": "22693013284",
+      "title": "Papel Sulfite Report Multi A4 Branco 75g com 500 Folhas",
+      "title_norm": "papel sulfite report multi a4 branco 75g com 500 folhas",
+      "url": "https://shopee.com.br/product/1050213612/22693013284",
+      "affiliate_url": "https://s.shopee.com.br/19jR8y7GK",
+      "category": "Le biscuit®",
+      "bucket": "le_biscuit",
+      "posted_ts": 1787213800,
+      "posted_at": "2026-08-20T08:16:40.451300+00:00",
+      "score": 54.51
+    },
+    {
       "key": "shopee:58205893747",
       "marketplace": "shopee",
       "id": "58205893747",
@@ -9689,5 +9759,5 @@
       "score": 130.19
     }
   ],
-  "updated_at": "2026-08-20T06:17:49.246039+00:00"
+  "updated_at": "2026-08-20T08:21:17.117359+00:00"
 }
