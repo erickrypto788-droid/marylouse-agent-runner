@@ -1,6 +1,34 @@
 {
   "posts": [
     {
+      "key": "shopee:22792570787",
+      "marketplace": "shopee",
+      "id": "22792570787",
+      "title": "Bota Botina Adventure Polo Fran Coturno Preto Masculino",
+      "title_norm": "bota botina adventure polo fran coturno preto masculino",
+      "url": "https://shopee.com.br/product/324642050/22792570787",
+      "affiliate_url": "https://s.shopee.com.br/gPQlKjeYy",
+      "category": " MISTERBOOT",
+      "bucket": "calcados",
+      "posted_ts": 1787311068,
+      "posted_at": "2026-08-21T11:17:48.859827+00:00",
+      "score": 82.63
+    },
+    {
+      "key": "shopee:22395044322",
+      "marketplace": "shopee",
+      "id": "22395044322",
+      "title": "Sapatênis Rayon Masculino Premium Tênis Casual Urbano Sola Alta Sneakers Lançamento Envio Imediato",
+      "title_norm": "sapatenis rayon masculino premium tenis casual urbano sola alta sneakers lancamento envio imediato",
+      "url": "https://shopee.com.br/product/1594564722/22395044322",
+      "affiliate_url": "https://s.shopee.com.br/4Vc9KNMOco",
+      "category": "JHS FOOTWEAR",
+      "bucket": "calcados",
+      "posted_ts": 1787311001,
+      "posted_at": "2026-08-21T11:16:41.427377+00:00",
+      "score": 93.86
+    },
+    {
       "key": "shopee:23993811247",
       "marketplace": "shopee",
       "id": "23993811247",
@@ -10991,5 +11019,5 @@
       "score": 130.19
     }
   ],
-  "updated_at": "2026-08-21T09:21:18.737574+00:00"
+  "updated_at": "2026-08-21T11:17:48.859837+00:00"
 }
