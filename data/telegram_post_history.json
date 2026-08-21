@@ -1,6 +1,76 @@
 {
   "posts": [
     {
+      "key": "shopee:23098743324",
+      "marketplace": "shopee",
+      "id": "23098743324",
+      "title": "Kit 10 Calcinhas Importada box Shortinho Infantil menina Estampada ou Kit 4 Calcinhas",
+      "title_norm": "kit 10 calcinhas importada box shortinho infantil menina estampada ou kit 4 calcinhas",
+      "url": "https://shopee.com.br/product/1072928964/23098743324",
+      "affiliate_url": "https://s.shopee.com.br/LmahK5yxh",
+      "category": "LOREN ONLINE STORE",
+      "bucket": "loren_online_store",
+      "posted_ts": 1787329262,
+      "posted_at": "2026-08-21T16:21:02.661673+00:00",
+      "score": 73.76
+    },
+    {
+      "key": "shopee:14949906963",
+      "marketplace": "shopee",
+      "id": "14949906963",
+      "title": "Saiote Anágua Tutu Infantil para Vestido de Festa Menina Saia de Armação Volumoso",
+      "title_norm": "saiote anagua tutu infantil para vestido de festa menina saia de armacao volumoso",
+      "url": "https://shopee.com.br/product/399122817/14949906963",
+      "affiliate_url": "https://s.shopee.com.br/1Lf7tAAyVi",
+      "category": "Deluc Store Oficial",
+      "bucket": "moda_feminina",
+      "posted_ts": 1787329198,
+      "posted_at": "2026-08-21T16:19:58.279619+00:00",
+      "score": 77.41
+    },
+    {
+      "key": "shopee:23796725876",
+      "marketplace": "shopee",
+      "id": "23796725876",
+      "title": "Conjunto de menino casual infantil bermuda e camisa estampada modelo natal e ano novo 2 ao 12 anos",
+      "title_norm": "conjunto de menino casual infantil bermuda e camisa estampada modelo natal e ano novo 2 ao 12 anos",
+      "url": "https://shopee.com.br/product/877098627/23796725876",
+      "affiliate_url": "https://s.shopee.com.br/3LQCGq7ciM",
+      "category": "Moda Kids Virtual",
+      "bucket": "moda_kids_virtual",
+      "posted_ts": 1787329134,
+      "posted_at": "2026-08-21T16:18:54.150905+00:00",
+      "score": 77.62
+    },
+    {
+      "key": "shopee:54505641752",
+      "marketplace": "shopee",
+      "id": "54505641752",
+      "title": "Tênis Infantil Casual Escolar Envio Rápido",
+      "title_norm": "tenis infantil casual escolar envio rapido",
+      "url": "https://shopee.com.br/product/303419140/54505641752",
+      "affiliate_url": "https://s.shopee.com.br/3B6m4XCrb6",
+      "category": "Momy Calçados ✅",
+      "bucket": "calcados",
+      "posted_ts": 1787329069,
+      "posted_at": "2026-08-21T16:17:49.824164+00:00",
+      "score": 87.26
+    },
+    {
+      "key": "shopee:22793679889",
+      "marketplace": "shopee",
+      "id": "22793679889",
+      "title": "Tênis Infantil Calce Facil Feminino Bevolo Calçados",
+      "title_norm": "tenis infantil calce facil feminino bevolo calcados",
+      "url": "https://shopee.com.br/product/676684389/22793679889",
+      "affiliate_url": "https://s.shopee.com.br/4AzJGN93ZS",
+      "category": "Bevolo Calçados",
+      "bucket": "calcados",
+      "posted_ts": 1787329005,
+      "posted_at": "2026-08-21T16:16:45.719675+00:00",
+      "score": 117.66
+    },
+    {
       "key": "shopee:19299247231",
       "marketplace": "shopee",
       "id": "19299247231",
@@ -11173,5 +11243,5 @@
       "score": 130.19
     }
   ],
-  "updated_at": "2026-08-21T15:20:05.464652+00:00"
+  "updated_at": "2026-08-21T16:21:02.661685+00:00"
 }
