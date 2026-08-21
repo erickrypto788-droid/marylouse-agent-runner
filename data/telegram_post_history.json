@@ -1,6 +1,34 @@
 {
   "posts": [
     {
+      "key": "shopee:55655190969",
+      "marketplace": "shopee",
+      "id": "55655190969",
+      "title": "Série De Proteção Ambiental Sacola De Náilon Saco De Compras Bolinhos Bolsa De Ombro À Prova De Água Dobrável",
+      "title_norm": "serie de protecao ambiental sacola de nailon saco de compras bolinhos bolsa de ombro a prova de agua dobravel",
+      "url": "https://shopee.com.br/product/1669993976/55655190969",
+      "affiliate_url": "https://s.shopee.com.br/9fKG954iF9",
+      "category": "WaiTor",
+      "bucket": "bolsas",
+      "posted_ts": 1787278665,
+      "posted_at": "2026-08-21T02:17:45.616300+00:00",
+      "score": 92.02
+    },
+    {
+      "key": "shopee:19197658752",
+      "marketplace": "shopee",
+      "id": "19197658752",
+      "title": "Mochila Grande Masculina Feminina De Viagem Bolsa Academia",
+      "title_norm": "mochila grande masculina feminina de viagem bolsa academia",
+      "url": "https://shopee.com.br/product/222975446/19197658752",
+      "affiliate_url": "https://s.shopee.com.br/112Hp9kVNG",
+      "category": "Luxor Comercial",
+      "bucket": "bolsas",
+      "posted_ts": 1787278601,
+      "posted_at": "2026-08-21T02:16:41.665849+00:00",
+      "score": 92.47
+    },
+    {
       "key": "shopee:22193520552",
       "marketplace": "shopee",
       "id": "22193520552",
@@ -10599,5 +10627,5 @@
       "score": 130.19
     }
   ],
-  "updated_at": "2026-08-21T01:21:20.495173+00:00"
+  "updated_at": "2026-08-21T02:17:45.616315+00:00"
 }
