@@ -1,6 +1,20 @@
 {
   "posts": [
     {
+      "key": "shopee:23697999031",
+      "marketplace": "shopee",
+      "id": "23697999031",
+      "title": "Mochila tática leve e versátil para atividades ao ar livre - bolsa de peito masculina esportiva",
+      "title_norm": "mochila tatica leve e versatil para atividades ao ar livre bolsa de peito masculina esportiva",
+      "url": "https://shopee.com.br/product/1036127869/23697999031",
+      "affiliate_url": "https://s.shopee.com.br/AAGWo7rnC0",
+      "category": "CLEVORA COMERCIAL",
+      "bucket": "bolsas",
+      "posted_ts": 1787282210,
+      "posted_at": "2026-08-21T03:16:50.191789+00:00",
+      "score": 50.62
+    },
+    {
       "key": "shopee:55655190969",
       "marketplace": "shopee",
       "id": "55655190969",
@@ -10627,5 +10641,5 @@
       "score": 130.19
     }
   ],
-  "updated_at": "2026-08-21T02:17:45.616315+00:00"
+  "updated_at": "2026-08-21T03:16:50.191800+00:00"
 }
