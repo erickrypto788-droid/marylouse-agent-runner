@@ -1,6 +1,76 @@
 {
   "posts": [
     {
+      "key": "shopee:23793912225",
+      "marketplace": "shopee",
+      "id": "23793912225",
+      "title": "Fórmula de Lyah 60 doses - Suplemento Alimentar",
+      "title_norm": "formula de lyah 60 doses suplemento alimentar",
+      "url": "https://shopee.com.br/product/649210196/23793912225",
+      "affiliate_url": "https://s.shopee.com.br/3g33GXNpAy",
+      "category": "Farmácia Fernando - Desde 1894",
+      "bucket": "farmacia_fernando_desde_1894",
+      "posted_ts": 1787293267,
+      "posted_at": "2026-08-21T06:21:07.564482+00:00",
+      "score": 82.76
+    },
+    {
+      "key": "shopee:8337843814",
+      "marketplace": "shopee",
+      "id": "8337843814",
+      "title": "Pasta De Amendoim Integral Vários Sabores Maniforce",
+      "title_norm": "pasta de amendoim integral varios sabores maniforce",
+      "url": "https://shopee.com.br/product/409969707/8337843814",
+      "affiliate_url": "https://s.shopee.com.br/4fvaSN2UHS",
+      "category": "MUNDO MANI",
+      "bucket": "mundo_mani",
+      "posted_ts": 1787293203,
+      "posted_at": "2026-08-21T06:20:03.310208+00:00",
+      "score": 83.02
+    },
+    {
+      "key": "shopee:22591803318",
+      "marketplace": "shopee",
+      "id": "22591803318",
+      "title": "Chocolate Stikadinho Morango Neugebauer Chocolates 12g- 32un",
+      "title_norm": "chocolate stikadinho morango neugebauer chocolates 12g 32un",
+      "url": "https://shopee.com.br/product/1008814366/22591803318",
+      "affiliate_url": "https://s.shopee.com.br/1qbP5ALw4D",
+      "category": "Marsil Atacadista",
+      "bucket": "marsil_atacadista",
+      "posted_ts": 1787293136,
+      "posted_at": "2026-08-21T06:18:56.410335+00:00",
+      "score": 83.08
+    },
+    {
+      "key": "shopee:23795570314",
+      "marketplace": "shopee",
+      "id": "23795570314",
+      "title": "Máscara Matizadora #todecacho Chocolate 300g",
+      "title_norm": "mascara matizadora todecacho chocolate 300g",
+      "url": "https://shopee.com.br/product/616222685/23795570314",
+      "affiliate_url": "https://s.shopee.com.br/BTB66SHS3",
+      "category": "Salon Line",
+      "bucket": "salon_line",
+      "posted_ts": 1787293072,
+      "posted_at": "2026-08-21T06:17:52.225268+00:00",
+      "score": 86.82
+    },
+    {
+      "key": "shopee:22198305072",
+      "marketplace": "shopee",
+      "id": "22198305072",
+      "title": "Creme de Tratamento 3 em 1 Cachos dos Sonhos Multy Chocolate 1kg",
+      "title_norm": "creme de tratamento 3 em 1 cachos dos sonhos multy chocolate 1kg",
+      "url": "https://shopee.com.br/product/616222685/22198305072",
+      "affiliate_url": "https://s.shopee.com.br/4qF0egAVz1",
+      "category": "Salon Line",
+      "bucket": "salon_line",
+      "posted_ts": 1787293003,
+      "posted_at": "2026-08-21T06:16:43.896850+00:00",
+      "score": 102.6
+    },
+    {
       "key": "shopee:22498946021",
       "marketplace": "shopee",
       "id": "22498946021",
@@ -10781,5 +10851,5 @@
       "score": 130.19
     }
   ],
-  "updated_at": "2026-08-21T05:20:59.256600+00:00"
+  "updated_at": "2026-08-21T06:21:07.564496+00:00"
 }
