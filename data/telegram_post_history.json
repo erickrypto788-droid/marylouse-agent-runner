@@ -1,6 +1,76 @@
 {
   "posts": [
     {
+      "key": "shopee:58251332033",
+      "marketplace": "shopee",
+      "id": "58251332033",
+      "title": "Capa Impermeável Touch Celular - Suporte Bike Moto para Navegação",
+      "title_norm": "capa impermeavel touch celular suporte bike moto para navegacao",
+      "url": "https://shopee.com.br/product/1680975344/58251332033",
+      "affiliate_url": "https://s.shopee.com.br/5VUguw6ZGu",
+      "category": "0kgjmz80zg",
+      "bucket": "celulares",
+      "posted_ts": 1787332855,
+      "posted_at": "2026-08-21T17:20:55.554778+00:00",
+      "score": 81.29
+    },
+    {
+      "key": "shopee:22794534319",
+      "marketplace": "shopee",
+      "id": "22794534319",
+      "title": "Bola De Futebol Elétrica Flutuante Para Crianças Jogos Esportivos Indoor LED Kid Brinquedo Menino",
+      "title_norm": "bola de futebol eletrica flutuante para criancas jogos esportivos indoor led kid brinquedo menino",
+      "url": "https://shopee.com.br/product/1506485965/22794534319",
+      "affiliate_url": "https://s.shopee.com.br/6fgfZN86im",
+      "category": "Raio de Luz Toy",
+      "bucket": "raio_de_luz_toy",
+      "posted_ts": 1787332791,
+      "posted_at": "2026-08-21T17:19:51.569389+00:00",
+      "score": 82.62
+    },
+    {
+      "key": "shopee:45205938921",
+      "marketplace": "shopee",
+      "id": "45205938921",
+      "title": "HEROI Kit Academia em Casa 15kg/20kg Halteres Ajustáveis,Inclui Barra Longa e Presilhas de Segurança",
+      "title_norm": "heroi kit academia em casa 15kg 20kg halteres ajustaveis inclui barra longa e presilhas de seguranca",
+      "url": "https://shopee.com.br/product/1615206258/45205938921",
+      "affiliate_url": "https://s.shopee.com.br/2LXf979krg",
+      "category": "TOYA BRASIL",
+      "bucket": "toya_brasil",
+      "posted_ts": 1787332727,
+      "posted_at": "2026-08-21T17:18:47.573271+00:00",
+      "score": 84.68
+    },
+    {
+      "key": "shopee:9987415279",
+      "marketplace": "shopee",
+      "id": "9987415279",
+      "title": "Kit Whey Protein Fusion + Bcaa + Creatina + Shaker",
+      "title_norm": "kit whey protein fusion bcaa creatina shaker",
+      "url": "https://shopee.com.br/product/446247790/9987415279",
+      "affiliate_url": "https://s.shopee.com.br/9pdg4uC05k",
+      "category": "Loja do Suplemento Oficial",
+      "bucket": "loja_do_suplemento_oficial",
+      "posted_ts": 1787332663,
+      "posted_at": "2026-08-21T17:17:43.574065+00:00",
+      "score": 84.84
+    },
+    {
+      "key": "shopee:9511754133",
+      "marketplace": "shopee",
+      "id": "9511754133",
+      "title": "Creatina Max Titanium 300g Pura",
+      "title_norm": "creatina max titanium 300g pura",
+      "url": "https://shopee.com.br/product/338537405/9511754133",
+      "affiliate_url": "https://s.shopee.com.br/5fo8NX32xQ",
+      "category": "Hard Extreme",
+      "bucket": "hard_extreme",
+      "posted_ts": 1787332599,
+      "posted_at": "2026-08-21T17:16:39.565395+00:00",
+      "score": 127.01
+    },
+    {
       "key": "shopee:23098743324",
       "marketplace": "shopee",
       "id": "23098743324",
@@ -11243,5 +11313,5 @@
       "score": 130.19
     }
   ],
-  "updated_at": "2026-08-21T16:21:02.661685+00:00"
+  "updated_at": "2026-08-21T17:20:55.554792+00:00"
 }
