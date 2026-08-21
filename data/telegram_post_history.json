@@ -1,6 +1,76 @@
 {
   "posts": [
     {
+      "key": "shopee:23699130927",
+      "marketplace": "shopee",
+      "id": "23699130927",
+      "title": "Kit Bloco Adesivo 400 Folhas Canetas Coloridas Marca Texto Ponta Fina Material Escolar Adesivo Fofo",
+      "title_norm": "kit bloco adesivo 400 folhas canetas coloridas marca texto ponta fina material escolar adesivo fofo",
+      "url": "https://shopee.com.br/product/368541019/23699130927",
+      "affiliate_url": "https://s.shopee.com.br/2BEFLXBZBr",
+      "category": "Gamernet",
+      "bucket": "gamernet",
+      "posted_ts": 1787286068,
+      "posted_at": "2026-08-21T04:21:08.210584+00:00",
+      "score": 47.73
+    },
+    {
+      "key": "shopee:54308939353",
+      "marketplace": "shopee",
+      "id": "54308939353",
+      "title": "Kit 2 Moldeira Protetor Bucal Ranger Dos Dentes bruxismo + Estojo",
+      "title_norm": "kit 2 moldeira protetor bucal ranger dos dentes bruxismo estojo",
+      "url": "https://shopee.com.br/product/666678555/54308939353",
+      "affiliate_url": "https://s.shopee.com.br/3LQCjg6v1T",
+      "category": "PRISMART SHOP",
+      "bucket": "prismart_shop",
+      "posted_ts": 1787286004,
+      "posted_at": "2026-08-21T04:20:04.216867+00:00",
+      "score": 48.13
+    },
+    {
+      "key": "shopee:58213071316",
+      "marketplace": "shopee",
+      "id": "58213071316",
+      "title": "Kit Reparo de Pneus Sem Câmara 11 Peças Estojo Portátil com Brocas Aplicadores e Filetes de Borracha",
+      "title_norm": "kit reparo de pneus sem camara 11 pecas estojo portatil com brocas aplicadores e filetes de borracha",
+      "url": "https://shopee.com.br/product/1705618260/58213071316",
+      "affiliate_url": "https://s.shopee.com.br/1VyYYJDtkA",
+      "category": "VidaOutlet",
+      "bucket": "vidaoutlet",
+      "posted_ts": 1787285940,
+      "posted_at": "2026-08-21T04:19:00.341888+00:00",
+      "score": 91.79
+    },
+    {
+      "key": "shopee:22095070798",
+      "marketplace": "shopee",
+      "id": "22095070798",
+      "title": "Kit de Pintura Infantil 50 Páginas + Caneta Marcadora 24-80 Cores Colorida",
+      "title_norm": "kit de pintura infantil 50 paginas caneta marcadora 24 80 cores colorida",
+      "url": "https://shopee.com.br/product/1465410986/22095070798",
+      "affiliate_url": "https://s.shopee.com.br/3Vjcvyxcej",
+      "category": "Viva-Casa",
+      "bucket": "viva_casa",
+      "posted_ts": 1787285876,
+      "posted_at": "2026-08-21T04:17:56.509989+00:00",
+      "score": 102.27
+    },
+    {
+      "key": "shopee:23493895373",
+      "marketplace": "shopee",
+      "id": "23493895373",
+      "title": "Conjunto de canetas de gravação de cabeça dupla 48/60/80/100/120",
+      "title_norm": "conjunto de canetas de gravacao de cabeca dupla 48 60 80 100 120",
+      "url": "https://shopee.com.br/product/1064041485/23493895373",
+      "affiliate_url": "https://s.shopee.com.br/60QxuZo6aT",
+      "category": "LuxeElectra",
+      "bucket": "luxeelectra",
+      "posted_ts": 1787285804,
+      "posted_at": "2026-08-21T04:16:44.661521+00:00",
+      "score": 107.51
+    },
+    {
       "key": "shopee:23697999031",
       "marketplace": "shopee",
       "id": "23697999031",
@@ -10641,5 +10711,5 @@
       "score": 130.19
     }
   ],
-  "updated_at": "2026-08-21T03:16:50.191800+00:00"
+  "updated_at": "2026-08-21T04:21:08.210598+00:00"
 }
