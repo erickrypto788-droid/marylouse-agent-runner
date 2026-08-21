@@ -1,6 +1,76 @@
 {
   "posts": [
     {
+      "key": "shopee:58210113401",
+      "marketplace": "shopee",
+      "id": "58210113401",
+      "title": "Caderno Pasta Desafio Poupança com 100 Envelopes Modelo Genérico Material Papel",
+      "title_norm": "caderno pasta desafio poupanca com 100 envelopes modelo generico material papel",
+      "url": "https://shopee.com.br/product/1795428032/58210113401",
+      "affiliate_url": "https://s.shopee.com.br/5VUiZxMBNb",
+      "category": "DailyCozy",
+      "bucket": "dailycozy",
+      "posted_ts": 1787354483,
+      "posted_at": "2026-08-21T23:21:23.791141+00:00",
+      "score": 42.93
+    },
+    {
+      "key": "shopee:22299579956",
+      "marketplace": "shopee",
+      "id": "22299579956",
+      "title": "Marcador de texto",
+      "title_norm": "marcador de texto",
+      "url": "https://shopee.com.br/product/1333501739/22299579956",
+      "affiliate_url": "https://s.shopee.com.br/6L3pZURoDu",
+      "category": "Eleakim Personalizado",
+      "bucket": "eleakim_personalizado",
+      "posted_ts": 1787354405,
+      "posted_at": "2026-08-21T23:20:05.804049+00:00",
+      "score": 46.85
+    },
+    {
+      "key": "shopee:19059412759",
+      "marketplace": "shopee",
+      "id": "19059412759",
+      "title": "Cartão Cinza Horlle 1.9 mm (Papelão Holler 1,9mm) para Encadernação e Cartonagem A4 A5 A6 15,5x21,5 16x22 19x27 40x50",
+      "title_norm": "cartao cinza horlle 1 9 mm papelao holler 1 9mm para encadernacao e cartonagem a4 a5 a6 15 5x21 5 16x22 19x27 40x50",
+      "url": "https://shopee.com.br/product/344962067/19059412759",
+      "affiliate_url": "https://s.shopee.com.br/5ArsBLaePp",
+      "category": "Diplomata Papéis",
+      "bucket": "diplomata_papeis",
+      "posted_ts": 1787354341,
+      "posted_at": "2026-08-21T23:19:01.629757+00:00",
+      "score": 47.29
+    },
+    {
+      "key": "shopee:22393921779",
+      "marketplace": "shopee",
+      "id": "22393921779",
+      "title": "Kit 40 Placas Capa Agenda A5+ 15,5x21,5cm Papelão Paraná 1,7mm",
+      "title_norm": "kit 40 placas capa agenda a5 15 5x21 5cm papelao parana 1 7mm",
+      "url": "https://shopee.com.br/product/959503392/22393921779",
+      "affiliate_url": "https://s.shopee.com.br/4LIlBodp6i",
+      "category": "Akikola Express",
+      "bucket": "akikola_express",
+      "posted_ts": 1787354277,
+      "posted_at": "2026-08-21T23:17:57.335915+00:00",
+      "score": 54.37
+    },
+    {
+      "key": "shopee:52013343676",
+      "marketplace": "shopee",
+      "id": "52013343676",
+      "title": "Estojo Patricia Abravanel, 3 x 25 ml - Jequiti",
+      "title_norm": "estojo patricia abravanel 3 x 25 ml jequiti",
+      "url": "https://shopee.com.br/product/282271428/52013343676",
+      "affiliate_url": "https://s.shopee.com.br/9AO0wh46Ei",
+      "category": "Loja do Rei",
+      "bucket": "loja_do_rei",
+      "posted_ts": 1787354208,
+      "posted_at": "2026-08-21T23:16:48.065279+00:00",
+      "score": 95.39
+    },
+    {
       "key": "shopee:21097735675",
       "marketplace": "shopee",
       "id": "21097735675",
@@ -11551,5 +11621,5 @@
       "score": 130.19
     }
   ],
-  "updated_at": "2026-08-21T22:16:51.073120+00:00"
+  "updated_at": "2026-08-21T23:21:23.791168+00:00"
 }
