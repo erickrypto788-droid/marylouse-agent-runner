@@ -1,6 +1,34 @@
 {
   "posts": [
     {
+      "key": "shopee:23294507949",
+      "marketplace": "shopee",
+      "id": "23294507949",
+      "title": "Bolsa Novo Estilo Bolsa De Moda De Ombro Unissex De Grande Capacidade Bolsa De Veludo",
+      "title_norm": "bolsa novo estilo bolsa de moda de ombro unissex de grande capacidade bolsa de veludo",
+      "url": "https://shopee.com.br/product/1345079470/23294507949",
+      "affiliate_url": "https://s.shopee.com.br/2LXfPbWd7X",
+      "category": "Unique Mochilas Bolsas",
+      "bucket": "bolsas",
+      "posted_ts": 1787347074,
+      "posted_at": "2026-08-21T21:17:54.992952+00:00",
+      "score": 91.47
+    },
+    {
+      "key": "shopee:23594069255",
+      "marketplace": "shopee",
+      "id": "23594069255",
+      "title": "Bolsa Transversal Com Alça Regulável Feminina Médio Versátil Moda Crossbody",
+      "title_norm": "bolsa transversal com alca regulavel feminina medio versatil moda crossbody",
+      "url": "https://shopee.com.br/product/1284795277/23594069255",
+      "affiliate_url": "https://s.shopee.com.br/904ac8vUmZ",
+      "category": "DIVA IMPORT",
+      "bucket": "bolsas",
+      "posted_ts": 1787347003,
+      "posted_at": "2026-08-21T21:16:43.326559+00:00",
+      "score": 98.52
+    },
+    {
       "key": "shopee:19098318298",
       "marketplace": "shopee",
       "id": "19098318298",
@@ -11495,5 +11523,5 @@
       "score": 130.19
     }
   ],
-  "updated_at": "2026-08-21T20:21:16.875176+00:00"
+  "updated_at": "2026-08-21T21:17:54.992969+00:00"
 }
