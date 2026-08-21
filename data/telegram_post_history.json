@@ -1,6 +1,20 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB5108378397",
+      "marketplace": "mercadolivre",
+      "id": "MLB5108378397",
+      "title": "Kit Ferramentas Ingco Esmerilhadeira Martelete 4ah",
+      "title_norm": "kit ferramentas ingco esmerilhadeira martelete 4ah",
+      "url": "https://www.mercadolivre.com.br/p/MLB77188949?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB77188949?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Ferramentas",
+      "bucket": "ferramentas",
+      "posted_ts": 1787349767,
+      "posted_at": "2026-08-21T22:02:47.210842+00:00",
+      "score": 99.38
+    },
+    {
       "key": "shopee:23294507949",
       "marketplace": "shopee",
       "id": "23294507949",
@@ -11523,5 +11537,5 @@
       "score": 130.19
     }
   ],
-  "updated_at": "2026-08-21T21:17:54.992969+00:00"
+  "updated_at": "2026-08-21T22:02:47.210851+00:00"
 }
