@@ -1,6 +1,76 @@
 {
   "posts": [
     {
+      "key": "shopee:23993811247",
+      "marketplace": "shopee",
+      "id": "23993811247",
+      "title": "Short infantil Chimpa - Kit com 3 shorts - Ótimos para ir para a escola, e para ficar em casa!",
+      "title_norm": "short infantil chimpa kit com 3 shorts otimos para ir para a escola e para ficar em casa",
+      "url": "https://shopee.com.br/product/750134009/23993811247",
+      "affiliate_url": "https://s.shopee.com.br/9V0qPc8lcX",
+      "category": "B&V-Confecções",
+      "bucket": "b_v_confeccoes",
+      "posted_ts": 1787304078,
+      "posted_at": "2026-08-21T09:21:18.737561+00:00",
+      "score": 71.25
+    },
+    {
+      "key": "shopee:58250779487",
+      "marketplace": "shopee",
+      "id": "58250779487",
+      "title": "Camiseta Personalizada Basica Estampada Uniforme Empresa 100% Algodão Logo",
+      "title_norm": "camiseta personalizada basica estampada uniforme empresa 100 algodao logo",
+      "url": "https://shopee.com.br/product/385423519/58250779487",
+      "affiliate_url": "https://s.shopee.com.br/1Lf8gbV3fO",
+      "category": "Lumiê Personalizado",
+      "bucket": "lumie_personalizado",
+      "posted_ts": 1787304010,
+      "posted_at": "2026-08-21T09:20:10.754755+00:00",
+      "score": 76.44
+    },
+    {
+      "key": "shopee:23294058392",
+      "marketplace": "shopee",
+      "id": "23294058392",
+      "title": "Kit 10, 5 Cueca Masculina Box Adulto Microfibra Forro 100% Algodão Cores Variadas",
+      "title_norm": "kit 10 5 cueca masculina box adulto microfibra forro 100 algodao cores variadas",
+      "url": "https://shopee.com.br/product/338978918/23294058392",
+      "affiliate_url": "https://s.shopee.com.br/70JU6cIaI9",
+      "category": "WPM Moda Íntima",
+      "bucket": "wpm_moda_intima",
+      "posted_ts": 1787303942,
+      "posted_at": "2026-08-21T09:19:02.004304+00:00",
+      "score": 77.37
+    },
+    {
+      "key": "shopee:22598643749",
+      "marketplace": "shopee",
+      "id": "22598643749",
+      "title": "kit calça jeans masculina com elastano lycra algodão original NF (clara escura e preta envio ate 4h)",
+      "title_norm": "kit calca jeans masculina com elastano lycra algodao original nf clara escura e preta envio ate 4h",
+      "url": "https://shopee.com.br/product/1294919428/22598643749",
+      "affiliate_url": "https://s.shopee.com.br/112IHzjjRu",
+      "category": "RippleJeans",
+      "bucket": "ripplejeans",
+      "posted_ts": 1787303871,
+      "posted_at": "2026-08-21T09:17:51.947307+00:00",
+      "score": 79.51
+    },
+    {
+      "key": "shopee:23498390828",
+      "marketplace": "shopee",
+      "id": "23498390828",
+      "title": "Kit 3 Camisetas Básicas Masculina Slim Algodão",
+      "title_norm": "kit 3 camisetas basicas masculina slim algodao",
+      "url": "https://shopee.com.br/product/1419020674/23498390828",
+      "affiliate_url": "https://s.shopee.com.br/qis5gWxgF",
+      "category": "TX.RODEIO",
+      "bucket": "tx_rodeio",
+      "posted_ts": 1787303803,
+      "posted_at": "2026-08-21T09:16:43.839248+00:00",
+      "score": 81.19
+    },
+    {
       "key": "shopee:20297975696",
       "marketplace": "shopee",
       "id": "20297975696",
@@ -10921,5 +10991,5 @@
       "score": 130.19
     }
   ],
-  "updated_at": "2026-08-21T08:21:18.275357+00:00"
+  "updated_at": "2026-08-21T09:21:18.737574+00:00"
 }
