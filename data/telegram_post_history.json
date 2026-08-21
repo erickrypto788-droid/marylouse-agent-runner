@@ -1,6 +1,62 @@
 {
   "posts": [
     {
+      "key": "shopee:58200787725",
+      "marketplace": "shopee",
+      "id": "58200787725",
+      "title": "Kit Oxímetro de Dedo Medidor de Saturação + Termômetro Digital Temperatura",
+      "title_norm": "kit oximetro de dedo medidor de saturacao termometro digital temperatura",
+      "url": "https://shopee.com.br/product/1668898925/58200787725",
+      "affiliate_url": "https://s.shopee.com.br/gPRIIcXLW",
+      "category": "WEI LI Variedades",
+      "bucket": "pet",
+      "posted_ts": 1787271601,
+      "posted_at": "2026-08-21T00:20:01.657937+00:00",
+      "score": 63.12
+    },
+    {
+      "key": "shopee:44855255414",
+      "marketplace": "shopee",
+      "id": "44855255414",
+      "title": "Inalador de Ar Comprimido Compact DC1 Bivolt - Gtech",
+      "title_norm": "inalador de ar comprimido compact dc1 bivolt gtech",
+      "url": "https://shopee.com.br/product/464285438/44855255414",
+      "affiliate_url": "https://s.shopee.com.br/40ftGQLW3y",
+      "category": "Lojao Da 25",
+      "bucket": "saude",
+      "posted_ts": 1787271533,
+      "posted_at": "2026-08-21T00:18:53.740489+00:00",
+      "score": 96.42
+    },
+    {
+      "key": "shopee:58200374352",
+      "marketplace": "shopee",
+      "id": "58200374352",
+      "title": "KIT Medidor de Pressão + Medidor de Pulso Oximetro",
+      "title_norm": "kit medidor de pressao medidor de pulso oximetro",
+      "url": "https://shopee.com.br/product/1654794100/58200374352",
+      "affiliate_url": "https://s.shopee.com.br/1Lf85WZzza",
+      "category": "CCT STORE LTDA",
+      "bucket": "saude",
+      "posted_ts": 1787271469,
+      "posted_at": "2026-08-21T00:17:49.473975+00:00",
+      "score": 98.65
+    },
+    {
+      "key": "shopee:23594028887",
+      "marketplace": "shopee",
+      "id": "23594028887",
+      "title": "Mini Balança Digital De Cozinha Alta Precisão 0,1g Até 2000g",
+      "title_norm": "mini balanca digital de cozinha alta precisao 0 1g ate 2000g",
+      "url": "https://shopee.com.br/product/944725778/23594028887",
+      "affiliate_url": "https://s.shopee.com.br/20uoskbnAI",
+      "category": "Inovar Top",
+      "bucket": "inovar_top",
+      "posted_ts": 1787271403,
+      "posted_at": "2026-08-21T00:16:43.021199+00:00",
+      "score": 116.78
+    },
+    {
       "key": "shopee:22899492397",
       "marketplace": "shopee",
       "id": "22899492397",
@@ -10473,5 +10529,5 @@
       "score": 130.19
     }
   ],
-  "updated_at": "2026-08-20T23:21:13.277334+00:00"
+  "updated_at": "2026-08-21T00:20:01.657950+00:00"
 }
