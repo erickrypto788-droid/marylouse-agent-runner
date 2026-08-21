@@ -1,6 +1,34 @@
 {
   "posts": [
     {
+      "key": "shopee:58254751043",
+      "marketplace": "shopee",
+      "id": "58254751043",
+      "title": "Bota Texana Feminina Cano Alto Com Bordado Exclusivo Estilo e Praticidade",
+      "title_norm": "bota texana feminina cano alto com bordado exclusivo estilo e praticidade",
+      "url": "https://shopee.com.br/product/1671777207/58254751043",
+      "affiliate_url": "https://s.shopee.com.br/6L3oqA5ywX",
+      "category": "Bella Passo Shoes",
+      "bucket": "calcados",
+      "posted_ts": 1787314675,
+      "posted_at": "2026-08-21T12:17:55.005029+00:00",
+      "score": 59.17
+    },
+    {
+      "key": "shopee:58262677272",
+      "marketplace": "shopee",
+      "id": "58262677272",
+      "title": "Kit Chinelo Feminino Com Pedraria Antiderrapante Confortável Casual Macio Leve Dia a Dia",
+      "title_norm": "kit chinelo feminino com pedraria antiderrapante confortavel casual macio leve dia a dia",
+      "url": "https://shopee.com.br/product/482037365/58262677272",
+      "affiliate_url": "https://s.shopee.com.br/3LQC0MFxV2",
+      "category": "Marianth calçados",
+      "bucket": "calcados",
+      "posted_ts": 1787314606,
+      "posted_at": "2026-08-21T12:16:46.690259+00:00",
+      "score": 76.93
+    },
+    {
       "key": "shopee:22792570787",
       "marketplace": "shopee",
       "id": "22792570787",
@@ -11019,5 +11047,5 @@
       "score": 130.19
     }
   ],
-  "updated_at": "2026-08-21T11:17:48.859837+00:00"
+  "updated_at": "2026-08-21T12:17:55.005046+00:00"
 }
