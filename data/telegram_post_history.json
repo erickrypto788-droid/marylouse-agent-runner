@@ -1,6 +1,62 @@
 {
   "posts": [
     {
+      "key": "shopee:19299247231",
+      "marketplace": "shopee",
+      "id": "19299247231",
+      "title": "Clareador de Manchas para Virilha, Axilas e Melasma 60g - Creme Clareador - Cicatribem",
+      "title_norm": "clareador de manchas para virilha axilas e melasma 60g creme clareador cicatribem",
+      "url": "https://shopee.com.br/product/443085185/19299247231",
+      "affiliate_url": "https://s.shopee.com.br/1VyZHdRL3r",
+      "category": "Cicatribem oficial",
+      "bucket": "cicatribem_oficial",
+      "posted_ts": 1787325605,
+      "posted_at": "2026-08-21T15:20:05.464637+00:00",
+      "score": 81.59
+    },
+    {
+      "key": "shopee:22099483975",
+      "marketplace": "shopee",
+      "id": "22099483975",
+      "title": "Kit 2 Body Splash Feminino Perfumado Encanto Lily + Florata Rose Presente Cheiroso Longa Duração",
+      "title_norm": "kit 2 body splash feminino perfumado encanto lily florata rose presente cheiroso longa duracao",
+      "url": "https://shopee.com.br/product/1289607950/22099483975",
+      "affiliate_url": "https://s.shopee.com.br/gPSI68VsU",
+      "category": "AH.BOUTIQUE",
+      "bucket": "pet",
+      "posted_ts": 1787325541,
+      "posted_at": "2026-08-21T15:19:01.443746+00:00",
+      "score": 122.22
+    },
+    {
+      "key": "shopee:58264232206",
+      "marketplace": "shopee",
+      "id": "58264232206",
+      "title": "Kit 4 Perfumes Femininos Árabes 100ml",
+      "title_norm": "kit 4 perfumes femininos arabes 100ml",
+      "url": "https://shopee.com.br/product/514454334/58264232206",
+      "affiliate_url": "https://s.shopee.com.br/5ArreMrNkT",
+      "category": "THexpreess",
+      "bucket": "beleza",
+      "posted_ts": 1787325477,
+      "posted_at": "2026-08-21T15:17:57.203806+00:00",
+      "score": 125.33
+    },
+    {
+      "key": "shopee:23498303242",
+      "marketplace": "shopee",
+      "id": "23498303242",
+      "title": "KIT 04 Body Splash ARABE SOUL 200ml FEMININO - Desodorante Perfume Corporal Alta Fixação Noite e Dia",
+      "title_norm": "kit 04 body splash arabe soul 200ml feminino desodorante perfume corporal alta fixacao noite e dia",
+      "url": "https://shopee.com.br/product/1343471577/23498303242",
+      "affiliate_url": "https://s.shopee.com.br/3g33rbx5nI",
+      "category": "Cosméticos Relive",
+      "bucket": "beleza",
+      "posted_ts": 1787325413,
+      "posted_at": "2026-08-21T15:16:53.094649+00:00",
+      "score": 126.52
+    },
+    {
       "key": "shopee:27279362752",
       "marketplace": "shopee",
       "id": "27279362752",
@@ -11117,5 +11173,5 @@
       "score": 130.19
     }
   ],
-  "updated_at": "2026-08-21T14:18:54.525606+00:00"
+  "updated_at": "2026-08-21T15:20:05.464652+00:00"
 }
