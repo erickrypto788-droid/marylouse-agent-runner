@@ -1,6 +1,48 @@
 {
   "posts": [
     {
+      "key": "shopee:27279362752",
+      "marketplace": "shopee",
+      "id": "27279362752",
+      "title": "Cafeteira Elétrica Elgin Coffe Break 15 Xícaras Preta",
+      "title_norm": "cafeteira eletrica elgin coffe break 15 xicaras preta",
+      "url": "https://shopee.com.br/product/342086228/27279362752",
+      "affiliate_url": "https://s.shopee.com.br/9KhQXuCjEP",
+      "category": "BUMPER MAGAZINE",
+      "bucket": "casa_cozinha",
+      "posted_ts": 1787321934,
+      "posted_at": "2026-08-21T14:18:54.525590+00:00",
+      "score": 101.48
+    },
+    {
+      "key": "shopee:22193502150",
+      "marketplace": "shopee",
+      "id": "22193502150",
+      "title": "Mini elétrica antiaderente máquina de cozimento de bolo quiche/forno/máquina de ovo mini ferro 110V",
+      "title_norm": "mini eletrica antiaderente maquina de cozimento de bolo quiche forno maquina de ovo mini ferro 110v",
+      "url": "https://shopee.com.br/product/1371984973/22193502150",
+      "affiliate_url": "https://s.shopee.com.br/904a9IRP3e",
+      "category": "VIVA.SHOP",
+      "bucket": "viva_shop",
+      "posted_ts": 1787321867,
+      "posted_at": "2026-08-21T14:17:47.444824+00:00",
+      "score": 103.79
+    },
+    {
+      "key": "shopee:42565175368",
+      "marketplace": "shopee",
+      "id": "42565175368",
+      "title": "Aspirador de Pó Robô WAP Robot W100 3 em 1 Antiqueda Bivolt 17W",
+      "title_norm": "aspirador de po robo wap robot w100 3 em 1 antiqueda bivolt 17w",
+      "url": "https://shopee.com.br/product/359168917/42565175368",
+      "affiliate_url": "https://s.shopee.com.br/6q05ZJVJuy",
+      "category": "LOI BRASIL",
+      "bucket": "casa_cozinha",
+      "posted_ts": 1787321799,
+      "posted_at": "2026-08-21T14:16:39.350398+00:00",
+      "score": 132.44
+    },
+    {
       "key": "shopee:22194549076",
       "marketplace": "shopee",
       "id": "22194549076",
@@ -11075,5 +11117,5 @@
       "score": 130.19
     }
   ],
-  "updated_at": "2026-08-21T13:17:55.993321+00:00"
+  "updated_at": "2026-08-21T14:18:54.525606+00:00"
 }
