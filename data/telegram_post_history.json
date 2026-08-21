@@ -1,6 +1,76 @@
 {
   "posts": [
     {
+      "key": "shopee:20297975696",
+      "marketplace": "shopee",
+      "id": "20297975696",
+      "title": "calça jeans feminina marmorizada com Lycra empina bumbum",
+      "title_norm": "calca jeans feminina marmorizada com lycra empina bumbum",
+      "url": "https://shopee.com.br/product/540093765/20297975696",
+      "affiliate_url": "https://s.shopee.com.br/BTBEKxv9f",
+      "category": "Mhmodas store",
+      "bucket": "mhmodas_store",
+      "posted_ts": 1787300478,
+      "posted_at": "2026-08-21T08:21:18.275346+00:00",
+      "score": 67.87
+    },
+    {
+      "key": "shopee:58259771382",
+      "marketplace": "shopee",
+      "id": "58259771382",
+      "title": "Vestido Curto Lastex Feminino Tecido Duna Verão Alça Amarração",
+      "title_norm": "vestido curto lastex feminino tecido duna verao alca amarracao",
+      "url": "https://shopee.com.br/product/808552023/58259771382",
+      "affiliate_url": "https://s.shopee.com.br/5VUha8UkVD",
+      "category": "Modas Miranda",
+      "bucket": "pet",
+      "posted_ts": 1787300410,
+      "posted_at": "2026-08-21T08:20:10.145009+00:00",
+      "score": 79.51
+    },
+    {
+      "key": "shopee:22294690235",
+      "marketplace": "shopee",
+      "id": "22294690235",
+      "title": "KIT 3 short  tactel feminino para praia corrida caminhada soltinho e confortável de secagem rápida P ao EXG",
+      "title_norm": "kit 3 short tactel feminino para praia corrida caminhada soltinho e confortavel de secagem rapida p ao exg",
+      "url": "https://shopee.com.br/product/1581758993/22294690235",
+      "affiliate_url": "https://s.shopee.com.br/8pl9YGVG6I",
+      "category": "mimavoc",
+      "bucket": "mimavoc",
+      "posted_ts": 1787300340,
+      "posted_at": "2026-08-21T08:19:00.655794+00:00",
+      "score": 85.61
+    },
+    {
+      "key": "shopee:58255246133",
+      "marketplace": "shopee",
+      "id": "58255246133",
+      "title": "Kit 2 Blusa Blogueira Feminina Transparente Tule Manga Curta Camiseta Academia Fitness Musculação",
+      "title_norm": "kit 2 blusa blogueira feminina transparente tule manga curta camiseta academia fitness musculacao",
+      "url": "https://shopee.com.br/product/1271897145/58255246133",
+      "affiliate_url": "https://s.shopee.com.br/7fZCA7R2PM",
+      "category": "Friburgo Oversize",
+      "bucket": "friburgo_oversize",
+      "posted_ts": 1787300273,
+      "posted_at": "2026-08-21T08:17:53.292736+00:00",
+      "score": 86.44
+    },
+    {
+      "key": "shopee:44410683550",
+      "marketplace": "shopee",
+      "id": "44410683550",
+      "title": "Conjunto Feminino Calça Pantalona com Blusa feminina Manga Curta",
+      "title_norm": "conjunto feminino calca pantalona com blusa feminina manga curta",
+      "url": "https://shopee.com.br/product/1021606058/44410683550",
+      "affiliate_url": "https://s.shopee.com.br/6fgeyHUqR8",
+      "category": "Monarkamodas",
+      "bucket": "moda_feminina",
+      "posted_ts": 1787300202,
+      "posted_at": "2026-08-21T08:16:42.792693+00:00",
+      "score": 91.35
+    },
+    {
       "key": "shopee:23793912225",
       "marketplace": "shopee",
       "id": "23793912225",
@@ -10851,5 +10921,5 @@
       "score": 130.19
     }
   ],
-  "updated_at": "2026-08-21T06:21:07.564496+00:00"
+  "updated_at": "2026-08-21T08:21:18.275357+00:00"
 }
