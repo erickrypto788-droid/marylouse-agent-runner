@@ -1,6 +1,48 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB5908953072",
+      "marketplace": "mercadolivre",
+      "id": "MLB5908953072",
+      "title": "Blusa Camisa Feminina Proteção Solar Bike Jetski Pesca Praia Cor Rosa Tamanho P",
+      "title_norm": "blusa camisa feminina protecao solar bike jetski pesca praia cor rosa tamanho p",
+      "url": "https://www.mercadolivre.com.br/p/MLB61771425?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB61771425?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Moda Feminina",
+      "bucket": "moda_feminina",
+      "posted_ts": 1787389654,
+      "posted_at": "2026-08-22T09:07:34.130244+00:00",
+      "score": 88.0
+    },
+    {
+      "key": "mercadolivre:MLB6965035168",
+      "marketplace": "mercadolivre",
+      "id": "MLB6965035168",
+      "title": "Colete Academia Dry Fit Feminino Leve Cor Branco Tamanho P",
+      "title_norm": "colete academia dry fit feminino leve cor branco tamanho p",
+      "url": "https://www.mercadolivre.com.br/p/MLB73581266?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB73581266?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Moda Feminina",
+      "bucket": "moda_feminina",
+      "posted_ts": 1787389536,
+      "posted_at": "2026-08-22T09:05:36.100929+00:00",
+      "score": 91.95
+    },
+    {
+      "key": "mercadolivre:MLB6596282078",
+      "marketplace": "mercadolivre",
+      "id": "MLB6596282078",
+      "title": "Saída Praia Tule Kimono Amarração Short Feminino Verão Laranja M",
+      "title_norm": "saida praia tule kimono amarracao short feminino verao laranja m",
+      "url": "https://www.mercadolivre.com.br/p/MLB67745838?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB67745838?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Moda Feminina",
+      "bucket": "pet",
+      "posted_ts": 1787389416,
+      "posted_at": "2026-08-22T09:03:36.850198+00:00",
+      "score": 113.0
+    },
+    {
       "key": "shopee:22498192456",
       "marketplace": "shopee",
       "id": "22498192456",
@@ -12349,5 +12391,5 @@
       "score": 130.19
     }
   ],
-  "updated_at": "2026-08-22T08:26:13.859116+00:00"
+  "updated_at": "2026-08-22T09:07:34.130258+00:00"
 }
