@@ -1,6 +1,76 @@
 {
   "posts": [
     {
+      "key": "shopee:22593290172",
+      "marketplace": "shopee",
+      "id": "22593290172",
+      "title": "Mochila para Escola Reforçada com Entrada USB Impermeável",
+      "title_norm": "mochila para escola reforcada com entrada usb impermeavel",
+      "url": "https://shopee.com.br/product/1003774706/22593290172",
+      "affiliate_url": "https://s.shopee.com.br/9pdiw59Prb",
+      "category": "Fk Comercial",
+      "bucket": "bolsas",
+      "posted_ts": 1787419340,
+      "posted_at": "2026-08-22T17:22:20.597734+00:00",
+      "score": 96.04
+    },
+    {
+      "key": "shopee:20597347457",
+      "marketplace": "shopee",
+      "id": "20597347457",
+      "title": "Kit 2 Tênis Masculino Polo Fran Sapatênis Básico Casual Com Carteira Cinto e Relógio London",
+      "title_norm": "kit 2 tenis masculino polo fran sapatenis basico casual com carteira cinto e relogio london",
+      "url": "https://shopee.com.br/product/324642050/20597347457",
+      "affiliate_url": "https://s.shopee.com.br/LmdccsejV",
+      "category": " MISTERBOOT",
+      "bucket": "calcados",
+      "posted_ts": 1787419276,
+      "posted_at": "2026-08-22T17:21:16.466600+00:00",
+      "score": 98.59
+    },
+    {
+      "key": "shopee:10908191710",
+      "marketplace": "shopee",
+      "id": "10908191710",
+      "title": "Mochila Bolsa Masculina Impermeável Reforçada Promoção Cor Preta",
+      "title_norm": "mochila bolsa masculina impermeavel reforcada promocao cor preta",
+      "url": "https://shopee.com.br/product/364186110/10908191710",
+      "affiliate_url": "https://s.shopee.com.br/5LBJVgbYyz",
+      "category": "SHIMA & ZAKI",
+      "bucket": "bolsas",
+      "posted_ts": 1787419212,
+      "posted_at": "2026-08-22T17:20:12.411790+00:00",
+      "score": 99.21
+    },
+    {
+      "key": "shopee:23594304295",
+      "marketplace": "shopee",
+      "id": "23594304295",
+      "title": "Mochila CHL Bolsa Reforçada Notebook Impermeavel Material Premium Colorido Excecultivo 888",
+      "title_norm": "mochila chl bolsa reforcada notebook impermeavel material premium colorido excecultivo 888",
+      "url": "https://shopee.com.br/product/960960972/23594304295",
+      "affiliate_url": "https://s.shopee.com.br/7KwMhCi1aB",
+      "category": "Global Mochilas CHL",
+      "bucket": "informatica",
+      "posted_ts": 1787419148,
+      "posted_at": "2026-08-22T17:19:08.377426+00:00",
+      "score": 134.86
+    },
+    {
+      "key": "shopee:22919514555",
+      "marketplace": "shopee",
+      "id": "22919514555",
+      "title": "Mochila Escolar Impermeável Grande 45 L Notebook 17 Resistente Masculina",
+      "title_norm": "mochila escolar impermeavel grande 45 l notebook 17 resistente masculina",
+      "url": "https://shopee.com.br/product/534241025/22919514555",
+      "affiliate_url": "https://s.shopee.com.br/AUtPjJ6sVf",
+      "category": "Elo Urbano",
+      "bucket": "informatica",
+      "posted_ts": 1787419084,
+      "posted_at": "2026-08-22T17:18:04.317791+00:00",
+      "score": 140.67
+    },
+    {
       "key": "mercadolivre:MLB7150469040",
       "marketplace": "mercadolivre",
       "id": "MLB7150469040",
@@ -13007,5 +13077,5 @@
       "score": 130.19
     }
   ],
-  "updated_at": "2026-08-22T17:03:32.208716+00:00"
+  "updated_at": "2026-08-22T17:22:20.597746+00:00"
 }
