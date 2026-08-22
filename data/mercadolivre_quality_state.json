@@ -1,6 +1,21 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB6469936350",
+      "product_id": "MLB6469936350",
+      "catalog_product_id": "MLB57578486",
+      "item_id": "MLB6469936350",
+      "url": "https://www.mercadolivre.com.br/p/MLB57578486?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB57578486?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "mini impressora niimbot b1 etiqueta bluetooth cor prateado impressora etiquetas adesivas",
+      "title": "Mini Impressora Niimbot B1 etiqueta Bluetooth Cor Prateado impressora etiquetas adesivas",
+      "category": "Informática",
+      "price": 233.0,
+      "score": 88.0,
+      "posted_ts": 1787378549,
+      "posted_at": "2026-08-22T06:02:29.241401+00:00"
+    },
+    {
       "key": "mercadolivre:MLB6359500600",
       "product_id": "MLB6359500600",
       "catalog_product_id": "MLB26685042",
@@ -149,22 +164,7 @@
       "score": 114.0,
       "posted_ts": 1787238172,
       "posted_at": "2026-08-20T15:02:52.601871+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB3814512618",
-      "product_id": "MLB3814512618",
-      "catalog_product_id": "MLB17336422",
-      "item_id": "MLB3814512618",
-      "url": "https://www.mercadolivre.com.br/p/MLB17336422?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB17336422?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "fralda huggies tripla protecao g 36 unidades",
-      "title": "Fralda Huggies Tripla Proteção G 36 unidades",
-      "category": "Mãe e Bebê",
-      "price": 121.99,
-      "score": 130.0,
-      "posted_ts": 1787202387,
-      "posted_at": "2026-08-20T05:06:27.048275+00:00"
     }
   ],
-  "updated_at": "2026-08-22T05:04:38.253560+00:00"
+  "updated_at": "2026-08-22T06:02:29.241415+00:00"
 }
