@@ -1,6 +1,48 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB6359500600",
+      "marketplace": "mercadolivre",
+      "id": "MLB6359500600",
+      "title": "Owlet Dream Sock | Meia Inteligente Monitor Bebê - Rosa",
+      "title_norm": "owlet dream sock meia inteligente monitor bebe rosa",
+      "url": "https://www.mercadolivre.com.br/p/MLB26685042?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB26685042?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Informática",
+      "bucket": "informatica",
+      "posted_ts": 1787375078,
+      "posted_at": "2026-08-22T05:04:38.242300+00:00",
+      "score": 83.0
+    },
+    {
+      "key": "mercadolivre:MLB4552727020",
+      "marketplace": "mercadolivre",
+      "id": "MLB4552727020",
+      "title": "Monitor Bebe Wifi Infravermelho Vision Noctura Intercom Inteligente",
+      "title_norm": "monitor bebe wifi infravermelho vision noctura intercom inteligente",
+      "url": "https://www.mercadolivre.com.br/p/MLB23076913?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB23076913?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Informática",
+      "bucket": "informatica",
+      "posted_ts": 1787375013,
+      "posted_at": "2026-08-22T05:03:33.642062+00:00",
+      "score": 86.0
+    },
+    {
+      "key": "mercadolivre:MLB5104449255",
+      "marketplace": "mercadolivre",
+      "id": "MLB5104449255",
+      "title": "Rosa escova limpeza mamadeira kit para limpeza de mamadeira kit limpeza mamadeira viagem kit limpeza bebe escova mamadeira portatil escova bico canudo secador higiene infantil acessorios bebe",
+      "title_norm": "rosa escova limpeza mamadeira kit para limpeza de mamadeira kit limpeza mamadeira viagem kit limpeza bebe escova mamadeira portatil escova bico canudo secador higiene infantil acessorios bebe",
+      "url": "https://www.mercadolivre.com.br/p/MLB75043056?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB75043056?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Mãe e Bebê",
+      "bucket": "beleza",
+      "posted_ts": 1787374949,
+      "posted_at": "2026-08-22T05:02:29.559534+00:00",
+      "score": 191.05
+    },
+    {
       "key": "shopee:19274006007",
       "marketplace": "shopee",
       "id": "19274006007",
@@ -12013,5 +12055,5 @@
       "score": 130.19
     }
   ],
-  "updated_at": "2026-08-22T04:22:03.810974+00:00"
+  "updated_at": "2026-08-22T05:04:38.242315+00:00"
 }

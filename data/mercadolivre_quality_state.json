@@ -1,6 +1,51 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB6359500600",
+      "product_id": "MLB6359500600",
+      "catalog_product_id": "MLB26685042",
+      "item_id": "MLB6359500600",
+      "url": "https://www.mercadolivre.com.br/p/MLB26685042?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB26685042?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "owlet dream sock meia inteligente monitor bebe rosa",
+      "title": "Owlet Dream Sock | Meia Inteligente Monitor Bebê - Rosa",
+      "category": "Informática",
+      "price": 3650.0,
+      "score": 83.0,
+      "posted_ts": 1787375078,
+      "posted_at": "2026-08-22T05:04:38.253550+00:00"
+    },
+    {
+      "key": "mercadolivre:MLB4552727020",
+      "product_id": "MLB4552727020",
+      "catalog_product_id": "MLB23076913",
+      "item_id": "MLB4552727020",
+      "url": "https://www.mercadolivre.com.br/p/MLB23076913?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB23076913?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "monitor bebe wifi infravermelho vision noctura intercom inteligente",
+      "title": "Monitor Bebe Wifi Infravermelho Vision Noctura Intercom Inteligente",
+      "category": "Informática",
+      "price": 1394.0,
+      "score": 86.0,
+      "posted_ts": 1787375013,
+      "posted_at": "2026-08-22T05:03:33.653590+00:00"
+    },
+    {
+      "key": "mercadolivre:MLB5104449255",
+      "product_id": "MLB5104449255",
+      "catalog_product_id": "MLB75043056",
+      "item_id": "MLB5104449255",
+      "url": "https://www.mercadolivre.com.br/p/MLB75043056?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB75043056?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "rosa escova limpeza mamadeira kit para limpeza de mamadeira kit limpeza mamadeira viagem kit limpeza bebe escova mamadeira portatil escova bico canudo secador higiene infantil acessorios bebe",
+      "title": "Rosa escova limpeza mamadeira kit para limpeza de mamadeira kit limpeza mamadeira viagem kit limpeza bebe escova mamadeira portatil escova bico canudo secador higiene infantil acessorios bebe",
+      "category": "Mãe e Bebê",
+      "price": 58.9,
+      "score": 191.05,
+      "posted_ts": 1787374949,
+      "posted_at": "2026-08-22T05:02:29.571139+00:00"
+    },
+    {
       "key": "mercadolivre:MLB4109571517",
       "product_id": "MLB4109571517",
       "catalog_product_id": "MLB28523781",
@@ -121,5 +166,5 @@
       "posted_at": "2026-08-20T05:06:27.048275+00:00"
     }
   ],
-  "updated_at": "2026-08-22T04:04:47.261977+00:00"
+  "updated_at": "2026-08-22T05:04:38.253560+00:00"
 }
