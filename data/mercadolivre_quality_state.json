@@ -1,6 +1,36 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB7395731398",
+      "product_id": "MLB7395731398",
+      "catalog_product_id": "MLB76866122",
+      "item_id": "MLB7395731398",
+      "url": "https://www.mercadolivre.com.br/p/MLB76866122?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB76866122?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "balanca digital de precisao 10kg balanca digital cozinha balanca digital balanca digital plastico balanca dieta fitness ecomvit",
+      "title": "Balança Digital De Precisão 10kg Balança Digital Cozinha Balança Digital Balança Digital Plastico Balança Dieta Fitness EcomVit",
+      "category": "Esportes",
+      "price": 19.96,
+      "score": 83.86,
+      "posted_ts": 1787367865,
+      "posted_at": "2026-08-22T03:04:25.249276+00:00"
+    },
+    {
+      "key": "mercadolivre:MLB7193068554",
+      "product_id": "MLB7193068554",
+      "catalog_product_id": "MLB64282130",
+      "item_id": "MLB7193068554",
+      "url": "https://www.mercadolivre.com.br/p/MLB64282130?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB64282130?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "aparelho monitor pressao arterial automatico digital braco",
+      "title": "Aparelho Monitor Pressão Arterial Automático Digital Braço",
+      "category": "Informática",
+      "price": 81.85,
+      "score": 97.14,
+      "posted_ts": 1787367774,
+      "posted_at": "2026-08-22T03:02:54.377017+00:00"
+    },
+    {
       "key": "mercadolivre:MLB5108378397",
       "product_id": "MLB5108378397",
       "catalog_product_id": "MLB77188949",
@@ -74,37 +104,7 @@
       "score": 130.0,
       "posted_ts": 1787202387,
       "posted_at": "2026-08-20T05:06:27.048275+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB5095655201",
-      "product_id": "MLB5095655201",
-      "catalog_product_id": "MLB50110319",
-      "item_id": "MLB5095655201",
-      "url": "https://www.mercadolivre.com.br/p/MLB50110319?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB50110319?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "impressora etiquetas codigo barras 1 000 etiquetas cor branco",
-      "title": "Impressora Etiquetas Código Barras + 1.000 Etiquetas Cor Branco",
-      "category": "Informática",
-      "price": 422.99,
-      "score": 96.4,
-      "posted_ts": 1787194946,
-      "posted_at": "2026-08-20T03:02:26.602333+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB4485123021",
-      "product_id": "MLB4485123021",
-      "catalog_product_id": "MLB48332910",
-      "item_id": "MLB4485123021",
-      "url": "https://www.mercadolivre.com.br/p/MLB48332910?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB48332910?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "redmi note 14s cor preto",
-      "title": "Redmi Note 14s Cor Preto",
-      "category": "Informática",
-      "price": 1699.0,
-      "score": 108.0,
-      "posted_ts": 1787177029,
-      "posted_at": "2026-08-19T22:03:49.689271+00:00"
     }
   ],
-  "updated_at": "2026-08-21T22:02:47.217803+00:00"
+  "updated_at": "2026-08-22T03:04:25.249291+00:00"
 }
