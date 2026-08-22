@@ -1,6 +1,62 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB4266241495",
+      "marketplace": "mercadolivre",
+      "id": "MLB4266241495",
+      "title": "Absorvente Mulher Ativa Com Abas Kit 80 Pacotes Gel Super Absorvente",
+      "title_norm": "absorvente mulher ativa com abas kit 80 pacotes gel super absorvente",
+      "url": "https://www.mercadolivre.com.br/p/MLB43806010?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB43806010?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Moda Feminina",
+      "bucket": "moda_feminina",
+      "posted_ts": 1787386122,
+      "posted_at": "2026-08-22T08:08:42.849913+00:00",
+      "score": 88.0
+    },
+    {
+      "key": "mercadolivre:MLB5807012940",
+      "marketplace": "mercadolivre",
+      "id": "MLB5807012940",
+      "title": "Creme Dental 50 Gr - Bioxtra",
+      "title_norm": "creme dental 50 gr bioxtra",
+      "url": "https://www.mercadolivre.com.br/p/MLB20572035?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB20572035?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Supermercados",
+      "bucket": "supermercados",
+      "posted_ts": 1787386053,
+      "posted_at": "2026-08-22T08:07:33.668690+00:00",
+      "score": 89.0
+    },
+    {
+      "key": "mercadolivre:MLB5827798066",
+      "marketplace": "mercadolivre",
+      "id": "MLB5827798066",
+      "title": "Kit Papel Toalha Interfolha Supremo E Papel Toalha Mili",
+      "title_norm": "kit papel toalha interfolha supremo e papel toalha mili",
+      "url": "https://www.mercadolivre.com.br/p/MLB47658528?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB47658528?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Supermercados",
+      "bucket": "supermercados",
+      "posted_ts": 1787385985,
+      "posted_at": "2026-08-22T08:06:25.457350+00:00",
+      "score": 98.67
+    },
+    {
+      "key": "mercadolivre:MLB6660297382",
+      "marketplace": "mercadolivre",
+      "id": "MLB6660297382",
+      "title": "Preparo Essência Amaciante Roupas Concentrado Perfume",
+      "title_norm": "preparo essencia amaciante roupas concentrado perfume",
+      "url": "https://www.mercadolivre.com.br/p/MLB67844007?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB67844007?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Supermercados",
+      "bucket": "beleza",
+      "posted_ts": 1787385915,
+      "posted_at": "2026-08-22T08:05:15.117427+00:00",
+      "score": 114.0
+    },
+    {
       "key": "shopee:58255239538",
       "marketplace": "shopee",
       "id": "58255239538",
@@ -12223,5 +12279,5 @@
       "score": 130.19
     }
   ],
-  "updated_at": "2026-08-22T07:20:05.683535+00:00"
+  "updated_at": "2026-08-22T08:08:42.849929+00:00"
 }
