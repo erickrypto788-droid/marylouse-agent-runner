@@ -1,6 +1,76 @@
 {
   "posts": [
     {
+      "key": "shopee:23693891395",
+      "marketplace": "shopee",
+      "id": "23693891395",
+      "title": "Placas Bruxismo Moldeira de Silicone Molde Caseiro Aparelho Protetor Inferior e Superior + ESTOJO",
+      "title_norm": "placas bruxismo moldeira de silicone molde caseiro aparelho protetor inferior e superior estojo",
+      "url": "https://shopee.com.br/product/1321463020/23693891395",
+      "affiliate_url": "https://s.shopee.com.br/2gAYT2Pt8H",
+      "category": "J! Store Ecom",
+      "bucket": "j_store_ecom",
+      "posted_ts": 1787422919,
+      "posted_at": "2026-08-22T18:21:59.902889+00:00",
+      "score": 53.11
+    },
+    {
+      "key": "shopee:49911082623",
+      "marketplace": "shopee",
+      "id": "49911082623",
+      "title": "Kit Presente Caderneta Couro Personalizada + Caneta com Nome Caixa Elegante Presente Brinde Agenda",
+      "title_norm": "kit presente caderneta couro personalizada caneta com nome caixa elegante presente brinde agenda",
+      "url": "https://shopee.com.br/product/243816539/49911082623",
+      "affiliate_url": "https://s.shopee.com.br/2qTyfLXz9w",
+      "category": "Gráfica Vision Art Design",
+      "bucket": "grafica_vision_art_design",
+      "posted_ts": 1787422855,
+      "posted_at": "2026-08-22T18:20:55.831916+00:00",
+      "score": 100.75
+    },
+    {
+      "key": "shopee:23498951046",
+      "marketplace": "shopee",
+      "id": "23498951046",
+      "title": "kit 10  24 Cores Caneta Marcadora De Cabeça Dupla Oleosa Montagem Artística Para Estudantes Material Escolar su",
+      "title_norm": "kit 10 24 cores caneta marcadora de cabeca dupla oleosa montagem artistica para estudantes material escolar su",
+      "url": "https://shopee.com.br/product/526615488/23498951046",
+      "affiliate_url": "https://s.shopee.com.br/70JWMiGTKy",
+      "category": "Sus.store",
+      "bucket": "sus_store",
+      "posted_ts": 1787422791,
+      "posted_at": "2026-08-22T18:19:51.641096+00:00",
+      "score": 102.08
+    },
+    {
+      "key": "shopee:22696925642",
+      "marketplace": "shopee",
+      "id": "22696925642",
+      "title": "Aplique Finalizador de Laço e Agenda KIT 100 UN (5 Modelos) Passante Elástico, Decoração, Artesanato",
+      "title_norm": "aplique finalizador de laco e agenda kit 100 un 5 modelos passante elastico decoracao artesanato",
+      "url": "https://shopee.com.br/product/1076961691/22696925642",
+      "affiliate_url": "https://s.shopee.com.br/4fvcqiR0RN",
+      "category": "E-Bureau",
+      "bucket": "pet",
+      "posted_ts": 1787422727,
+      "posted_at": "2026-08-22T18:18:47.592579+00:00",
+      "score": 121.21
+    },
+    {
+      "key": "shopee:58258327709",
+      "marketplace": "shopee",
+      "id": "58258327709",
+      "title": "Caneta Delineadora Carimbo Ponta Dupla | Delineado Gatinho Perfeito em Segundos | À Prova D’Água e Longa Duração",
+      "title_norm": "caneta delineadora carimbo ponta dupla delineado gatinho perfeito em segundos a prova d agua e longa duracao",
+      "url": "https://shopee.com.br/product/1696258657/58258327709",
+      "affiliate_url": "https://s.shopee.com.br/5VUiZx9BrR",
+      "category": "Glamour Brasil Store",
+      "bucket": "pet",
+      "posted_ts": 1787422603,
+      "posted_at": "2026-08-22T18:16:43.595554+00:00",
+      "score": 130.76
+    },
+    {
       "key": "mercadolivre:MLB3885192245",
       "marketplace": "mercadolivre",
       "id": "MLB3885192245",
@@ -13105,5 +13175,5 @@
       "score": 130.19
     }
   ],
-  "updated_at": "2026-08-22T18:03:26.607935+00:00"
+  "updated_at": "2026-08-22T18:21:59.902904+00:00"
 }
