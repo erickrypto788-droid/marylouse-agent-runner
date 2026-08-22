@@ -1,6 +1,21 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB5041528061",
+      "product_id": "MLB5041528061",
+      "catalog_product_id": "MLB43810473",
+      "item_id": "MLB5041528061",
+      "url": "https://www.mercadolivre.com.br/p/MLB43810473?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB43810473?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "kit ferramentas informatica cor preto",
+      "title": "Kit Ferramentas Informatica Cor Preto",
+      "category": "Ferramentas",
+      "price": 127.5,
+      "score": 88.0,
+      "posted_ts": 1787410934,
+      "posted_at": "2026-08-22T15:02:14.174852+00:00"
+    },
+    {
       "key": "mercadolivre:MLB7413459282",
       "product_id": "MLB7413459282",
       "catalog_product_id": "MLB70606708",
@@ -331,5 +346,5 @@
       "posted_at": "2026-08-20T15:02:52.601871+00:00"
     }
   ],
-  "updated_at": "2026-08-22T12:04:22.422266+00:00"
+  "updated_at": "2026-08-22T15:02:14.174864+00:00"
 }
