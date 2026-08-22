@@ -1,6 +1,76 @@
 {
   "posts": [
     {
+      "key": "shopee:41958923942",
+      "marketplace": "shopee",
+      "id": "41958923942",
+      "title": "Vários modelos com Kit de 24 meia cano alto 100% algodão soquete Cano Curto Masculina Feminina Unissex direto da fabrica",
+      "title_norm": "varios modelos com kit de 24 meia cano alto 100 algodao soquete cano curto masculina feminina unissex direto da fabrica",
+      "url": "https://shopee.com.br/product/438057886/41958923942",
+      "affiliate_url": "https://s.shopee.com.br/LmcgwTb6S",
+      "category": "S.P.A Vendas Online",
+      "bucket": "s_p_a_vendas_online",
+      "posted_ts": 1787437261,
+      "posted_at": "2026-08-22T22:21:01.412188+00:00",
+      "score": 110.2
+    },
+    {
+      "key": "shopee:18997669654",
+      "marketplace": "shopee",
+      "id": "18997669654",
+      "title": "Conjunto na Alfaiataria Calça  Pantalona + Colete Social Escritório Plus SIze",
+      "title_norm": "conjunto na alfaiataria calca pantalona colete social escritorio plus size",
+      "url": "https://shopee.com.br/product/1239041434/18997669654",
+      "affiliate_url": "https://s.shopee.com.br/W631UBfIE",
+      "category": "Elizye Delicato",
+      "bucket": "elizye_delicato",
+      "posted_ts": 1787437197,
+      "posted_at": "2026-08-22T22:19:57.489724+00:00",
+      "score": 116.1
+    },
+    {
+      "key": "shopee:21699229260",
+      "marketplace": "shopee",
+      "id": "21699229260",
+      "title": "Shorts Cinta Modelador Levanta Empina Bumbum Feminina Alta Compressão Shortinho",
+      "title_norm": "shorts cinta modelador levanta empina bumbum feminina alta compressao shortinho",
+      "url": "https://shopee.com.br/product/437985893/21699229260",
+      "affiliate_url": "https://s.shopee.com.br/3VjeSl4LKB",
+      "category": "L # Y MODAS ATACADO",
+      "bucket": "l_y_modas_atacado",
+      "posted_ts": 1787437133,
+      "posted_at": "2026-08-22T22:18:53.496979+00:00",
+      "score": 122.01
+    },
+    {
+      "key": "shopee:22699153602",
+      "marketplace": "shopee",
+      "id": "22699153602",
+      "title": "Blusa Feminina Novas Cores Manga 3/4 Evangelica Moda Social",
+      "title_norm": "blusa feminina novas cores manga 3 4 evangelica moda social",
+      "url": "https://shopee.com.br/product/1459254223/22699153602",
+      "affiliate_url": "https://s.shopee.com.br/60R0hdRKoK",
+      "category": "Melia Fashion",
+      "bucket": "moda_feminina",
+      "posted_ts": 1787437069,
+      "posted_at": "2026-08-22T22:17:49.619836+00:00",
+      "score": 126.3
+    },
+    {
+      "key": "shopee:23898670446",
+      "marketplace": "shopee",
+      "id": "23898670446",
+      "title": "KIT 3 Blusas Feminina Manga Longa Cacharrel Confortável Básico Gola Alta",
+      "title_norm": "kit 3 blusas feminina manga longa cacharrel confortavel basico gola alta",
+      "url": "https://shopee.com.br/product/451945494/23898670446",
+      "affiliate_url": "https://s.shopee.com.br/3B6o48sTuz",
+      "category": "WM FASHION",
+      "bucket": "wm_fashion",
+      "posted_ts": 1787436998,
+      "posted_at": "2026-08-22T22:16:38.249177+00:00",
+      "score": 134.03
+    },
+    {
       "key": "shopee:50563932416",
       "marketplace": "shopee",
       "id": "50563932416",
@@ -13413,5 +13483,5 @@
       "score": 130.19
     }
   ],
-  "updated_at": "2026-08-22T21:21:01.032542+00:00"
+  "updated_at": "2026-08-22T22:21:01.412199+00:00"
 }
