@@ -1,6 +1,76 @@
 {
   "posts": [
     {
+      "key": "shopee:19274006007",
+      "marketplace": "shopee",
+      "id": "19274006007",
+      "title": "Kit 5 Cuecas Box Microfibra Lisa Sem Costura Polo Wear",
+      "title_norm": "kit 5 cuecas box microfibra lisa sem costura polo wear",
+      "url": "https://shopee.com.br/product/328687466/19274006007",
+      "affiliate_url": "https://s.shopee.com.br/3g34jBjxff",
+      "category": "UP UNDERWEAR",
+      "bucket": "up_underwear",
+      "posted_ts": 1787372523,
+      "posted_at": "2026-08-22T04:22:03.810957+00:00",
+      "score": 95.5
+    },
+    {
+      "key": "shopee:23098187231",
+      "marketplace": "shopee",
+      "id": "23098187231",
+      "title": "KIT 3 CALÇAS MASCULINA COM ZÍPER NOS BOLSOS SLIM FIT LEVE CONFORTAVEL",
+      "title_norm": "kit 3 calcas masculina com ziper nos bolsos slim fit leve confortavel",
+      "url": "https://shopee.com.br/product/1462768289/23098187231",
+      "affiliate_url": "https://s.shopee.com.br/5LBIiFdLET",
+      "category": "CarmozaAmorConfecções",
+      "bucket": "carmozaamorconfeccoes",
+      "posted_ts": 1787372459,
+      "posted_at": "2026-08-22T04:20:59.690513+00:00",
+      "score": 110.76
+    },
+    {
+      "key": "shopee:22998222118",
+      "marketplace": "shopee",
+      "id": "22998222118",
+      "title": "Kit 3 Camisas Dry Fit Masculino Academia Tecido Leve Musculação e Treino",
+      "title_norm": "kit 3 camisas dry fit masculino academia tecido leve musculacao e treino",
+      "url": "https://shopee.com.br/product/1478169760/22998222118",
+      "affiliate_url": "https://s.shopee.com.br/8plAsgHQLk",
+      "category": "Excios Fitness",
+      "bucket": "excios_fitness",
+      "posted_ts": 1787372395,
+      "posted_at": "2026-08-22T04:19:55.539602+00:00",
+      "score": 114.27
+    },
+    {
+      "key": "shopee:58258185784",
+      "marketplace": "shopee",
+      "id": "58258185784",
+      "title": "Kit Com 2 Bermudas Tactel Elastano Masculina Bolso Com Zíper Academia, Treino e Praia",
+      "title_norm": "kit com 2 bermudas tactel elastano masculina bolso com ziper academia treino e praia",
+      "url": "https://shopee.com.br/product/222735813/58258185784",
+      "affiliate_url": "https://s.shopee.com.br/20uqk7luGz",
+      "category": "Zerun Fitness",
+      "bucket": "zerun_fitness",
+      "posted_ts": 1787372331,
+      "posted_at": "2026-08-22T04:18:51.374718+00:00",
+      "score": 119.77
+    },
+    {
+      "key": "shopee:23498870645",
+      "marketplace": "shopee",
+      "id": "23498870645",
+      "title": "Kit 3 4 ou 6 Bermudas Masculinas Básicas - DryFit - Malha Leve e Confortável - Pronta Entrega Origins",
+      "title_norm": "kit 3 4 ou 6 bermudas masculinas basicas dryfit malha leve e confortavel pronta entrega origins",
+      "url": "https://shopee.com.br/product/1510721628/23498870645",
+      "affiliate_url": "https://s.shopee.com.br/904YUHy2w1",
+      "category": "ORIGIN'S MTS",
+      "bucket": "origin_s_mts",
+      "posted_ts": 1787372232,
+      "posted_at": "2026-08-22T04:17:12.579363+00:00",
+      "score": 126.53
+    },
+    {
       "key": "mercadolivre:MLB4109571517",
       "marketplace": "mercadolivre",
       "id": "MLB4109571517",
@@ -11943,5 +12013,5 @@
       "score": 130.19
     }
   ],
-  "updated_at": "2026-08-22T04:04:47.252754+00:00"
+  "updated_at": "2026-08-22T04:22:03.810974+00:00"
 }
