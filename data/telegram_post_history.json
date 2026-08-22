@@ -1,6 +1,76 @@
 {
   "posts": [
     {
+      "key": "shopee:22498192456",
+      "marketplace": "shopee",
+      "id": "22498192456",
+      "title": "Fone De Ouvido Bluetooth Sem Fio Air Pods Pro 3 Para Android & iOS",
+      "title_norm": "fone de ouvido bluetooth sem fio air pods pro 3 para android ios",
+      "url": "https://shopee.com.br/product/1446901374/22498192456",
+      "affiliate_url": "https://s.shopee.com.br/gPTQ9ivFW",
+      "category": "INFINIT STORE",
+      "bucket": "infinit_store",
+      "posted_ts": 1787387173,
+      "posted_at": "2026-08-22T08:26:13.859100+00:00",
+      "score": 101.54
+    },
+    {
+      "key": "shopee:19099238357",
+      "marketplace": "shopee",
+      "id": "19099238357",
+      "title": "2026 Novo Mais Recente Smartwatch Relógio Inteligente Série IWO 8 T800 Ultra NFC Sem Carregamento",
+      "title_norm": "2026 novo mais recente smartwatch relogio inteligente serie iwo 8 t800 ultra nfc sem carregamento",
+      "url": "https://shopee.com.br/product/1203451725/19099238357",
+      "affiliate_url": "https://s.shopee.com.br/BTCpEkpFK",
+      "category": "ELIANE E-COMERCE",
+      "bucket": "eliane_e_comerce",
+      "posted_ts": 1787386929,
+      "posted_at": "2026-08-22T08:22:09.950028+00:00",
+      "score": 119.03
+    },
+    {
+      "key": "shopee:19899586753",
+      "marketplace": "shopee",
+      "id": "19899586753",
+      "title": "Fone de Ouvido Sem Fio Com Cancelamento De Ruído Bluetooth Pop-Up",
+      "title_norm": "fone de ouvido sem fio com cancelamento de ruido bluetooth pop up",
+      "url": "https://shopee.com.br/product/1103946075/19899586753",
+      "affiliate_url": "https://s.shopee.com.br/112JolheZY",
+      "category": "JX VERDE",
+      "bucket": "jx_verde",
+      "posted_ts": 1787386857,
+      "posted_at": "2026-08-22T08:20:57.918800+00:00",
+      "score": 128.02
+    },
+    {
+      "key": "shopee:29320805319",
+      "marketplace": "shopee",
+      "id": "29320805319",
+      "title": "Pro 4 Fones De Ouvido TWS Sem Fio Bluetooth De Longa Duração Bateria Leve Portátil Com Estojo De Carregamento Para Dormi",
+      "title_norm": "pro 4 fones de ouvido tws sem fio bluetooth de longa duracao bateria leve portatil com estojo de carregamento para dormi",
+      "url": "https://shopee.com.br/product/1006215031/29320805319",
+      "affiliate_url": "https://s.shopee.com.br/9zx60jWcqz",
+      "category": "Choice Oficial",
+      "bucket": "pet",
+      "posted_ts": 1787386773,
+      "posted_at": "2026-08-22T08:19:33.617767+00:00",
+      "score": 132.27
+    },
+    {
+      "key": "shopee:58256030557",
+      "marketplace": "shopee",
+      "id": "58256030557",
+      "title": "10000mAh/5000mAH/3000mAh Carregador portátil indução iPhone MagSafe bateria sem fio carregando",
+      "title_norm": "10000mah 5000mah 3000mah carregador portatil inducao iphone magsafe bateria sem fio carregando",
+      "url": "https://shopee.com.br/product/1585429562/58256030557",
+      "affiliate_url": "https://s.shopee.com.br/1qbQoIa0oq",
+      "category": "BIBIBO TECH LTDA",
+      "bucket": "celulares",
+      "posted_ts": 1787386680,
+      "posted_at": "2026-08-22T08:18:00.074404+00:00",
+      "score": 145.74
+    },
+    {
       "key": "mercadolivre:MLB4266241495",
       "marketplace": "mercadolivre",
       "id": "MLB4266241495",
@@ -12279,5 +12349,5 @@
       "score": 130.19
     }
   ],
-  "updated_at": "2026-08-22T08:08:42.849929+00:00"
+  "updated_at": "2026-08-22T08:26:13.859116+00:00"
 }
