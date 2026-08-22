@@ -1,6 +1,20 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB4109571517",
+      "marketplace": "mercadolivre",
+      "id": "MLB4109571517",
+      "title": "Alimento Royal Canin Hair & Skin 3kg Ração Gato",
+      "title_norm": "alimento royal canin hair skin 3kg racao gato",
+      "url": "https://www.mercadolivre.com.br/p/MLB28523781?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB28523781?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Pet",
+      "bucket": "pet",
+      "posted_ts": 1787371487,
+      "posted_at": "2026-08-22T04:04:47.252740+00:00",
+      "score": 120.93
+    },
+    {
       "key": "shopee:58256117284",
       "marketplace": "shopee",
       "id": "58256117284",
@@ -11929,5 +11943,5 @@
       "score": 130.19
     }
   ],
-  "updated_at": "2026-08-22T03:20:57.282310+00:00"
+  "updated_at": "2026-08-22T04:04:47.252754+00:00"
 }
