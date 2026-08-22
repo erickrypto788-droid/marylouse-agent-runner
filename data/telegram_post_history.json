@@ -1,6 +1,76 @@
 {
   "posts": [
     {
+      "key": "shopee:50563932416",
+      "marketplace": "shopee",
+      "id": "50563932416",
+      "title": "Console Nintendo Switch 2 – Modelo Nacional",
+      "title_norm": "console nintendo switch 2 modelo nacional",
+      "url": "https://shopee.com.br/product/1343318906/50563932416",
+      "affiliate_url": "https://s.shopee.com.br/5foAEu8cq2",
+      "category": "NegociuN",
+      "bucket": "negociun",
+      "posted_ts": 1787433661,
+      "posted_at": "2026-08-22T21:21:01.032523+00:00",
+      "score": 51.55
+    },
+    {
+      "key": "shopee:47060418366",
+      "marketplace": "shopee",
+      "id": "47060418366",
+      "title": "Controle PS5 Sony Dualsense sem fio JoyStick - Midnight Black",
+      "title_norm": "controle ps5 sony dualsense sem fio joystick midnight black",
+      "url": "https://shopee.com.br/product/1343318906/47060418366",
+      "affiliate_url": "https://s.shopee.com.br/904awjlPqf",
+      "category": "NegociuN",
+      "bucket": "negociun",
+      "posted_ts": 1787433597,
+      "posted_at": "2026-08-22T21:19:57.008532+00:00",
+      "score": 71.83
+    },
+    {
+      "key": "shopee:52902130185",
+      "marketplace": "shopee",
+      "id": "52902130185",
+      "title": "Controlador sem fio para console Nintendo Switch/NS Lite/NS OLED, Joycon Gamepad, Controle, Joystick, Joypad, Turbo,",
+      "title_norm": "controlador sem fio para console nintendo switch ns lite ns oled joycon gamepad controle joystick joypad turbo",
+      "url": "https://shopee.com.br/product/1006215031/52902130185",
+      "affiliate_url": "https://s.shopee.com.br/gPT1QPwJD",
+      "category": "Choice Oficial",
+      "bucket": "choice_oficial",
+      "posted_ts": 1787433532,
+      "posted_at": "2026-08-22T21:18:52.981883+00:00",
+      "score": 85.62
+    },
+    {
+      "key": "shopee:23198455409",
+      "marketplace": "shopee",
+      "id": "23198455409",
+      "title": "Base de Carregamento PS5 DualSense Original Sony",
+      "title_norm": "base de carregamento ps5 dualsense original sony",
+      "url": "https://shopee.com.br/product/1097151802/23198455409",
+      "affiliate_url": "https://s.shopee.com.br/8V8KLp0izP",
+      "category": "Cadê Meu Eletro®",
+      "bucket": "cade_meu_eletro",
+      "posted_ts": 1787433468,
+      "posted_at": "2026-08-22T21:17:48.910265+00:00",
+      "score": 86.74
+    },
+    {
+      "key": "shopee:18597615038",
+      "marketplace": "shopee",
+      "id": "18597615038",
+      "title": "Video game Stick 4K Com 20000 Jogos  2 Controles Sem Fio Console Portatil Jogos Retro Video Game",
+      "title_norm": "video game stick 4k com 20000 jogos 2 controles sem fio console portatil jogos retro video game",
+      "url": "https://shopee.com.br/product/1033887279/18597615038",
+      "affiliate_url": "https://s.shopee.com.br/5fo8yc6uBc",
+      "category": "Giomi store",
+      "bucket": "giomi_store",
+      "posted_ts": 1787433404,
+      "posted_at": "2026-08-22T21:16:44.644167+00:00",
+      "score": 100.46
+    },
+    {
       "key": "mercadolivre:MLB7304557416",
       "marketplace": "mercadolivre",
       "id": "MLB7304557416",
@@ -13343,5 +13413,5 @@
       "score": 130.19
     }
   ],
-  "updated_at": "2026-08-22T21:02:21.929691+00:00"
+  "updated_at": "2026-08-22T21:21:01.032542+00:00"
 }
