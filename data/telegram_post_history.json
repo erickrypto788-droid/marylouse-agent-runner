@@ -1,6 +1,76 @@
 {
   "posts": [
     {
+      "key": "shopee:22994071650",
+      "marketplace": "shopee",
+      "id": "22994071650",
+      "title": "Creme de Avelã Com Cacau Prinknut 1Kg Chocolate P/ Pão Bolo Confeitaria",
+      "title_norm": "creme de avela com cacau prinknut 1kg chocolate p pao bolo confeitaria",
+      "url": "https://shopee.com.br/product/316040723/22994071650",
+      "affiliate_url": "https://s.shopee.com.br/9pdhs9JvvU",
+      "category": "enxovais tutti bello",
+      "bucket": "enxovais_tutti_bello",
+      "posted_ts": 1787361695,
+      "posted_at": "2026-08-22T01:21:35.321860+00:00",
+      "score": 80.77
+    },
+    {
+      "key": "shopee:26444120861",
+      "marketplace": "shopee",
+      "id": "26444120861",
+      "title": "Substrato Pronto 10L | Turfa + Perlita + Casca de Arroz Carbonizada | FERTBAC",
+      "title_norm": "substrato pronto 10l turfa perlita casca de arroz carbonizada fertbac",
+      "url": "https://shopee.com.br/product/1117805599/26444120861",
+      "affiliate_url": "https://s.shopee.com.br/gPSxIx5oG",
+      "category": "Fert Decor LTDA",
+      "bucket": "fert_decor_ltda",
+      "posted_ts": 1787361631,
+      "posted_at": "2026-08-22T01:20:31.372945+00:00",
+      "score": 81.27
+    },
+    {
+      "key": "shopee:58258457260",
+      "marketplace": "shopee",
+      "id": "58258457260",
+      "title": "Kit Pele de Porcelana com Sérum de Arroz e Olhos de Gueixa Kokeshi",
+      "title_norm": "kit pele de porcelana com serum de arroz e olhos de gueixa kokeshi",
+      "url": "https://shopee.com.br/product/395166866/58258457260",
+      "affiliate_url": "https://s.shopee.com.br/3LQE8CmwP2",
+      "category": "KOKESHI OFICIAL",
+      "bucket": "kokeshi_oficial",
+      "posted_ts": 1787361565,
+      "posted_at": "2026-08-22T01:19:25.017438+00:00",
+      "score": 86.46
+    },
+    {
+      "key": "shopee:58250219337",
+      "marketplace": "shopee",
+      "id": "58250219337",
+      "title": "Caneca Misturadora Automática Elétrica USB Bateria Recarregável Mixer Café 380ml",
+      "title_norm": "caneca misturadora automatica eletrica usb bateria recarregavel mixer cafe 380ml",
+      "url": "https://shopee.com.br/product/1655406395/58250219337",
+      "affiliate_url": "https://s.shopee.com.br/6fgg6KRJVG",
+      "category": "BuddyShopping",
+      "bucket": "buddyshopping",
+      "posted_ts": 1787361497,
+      "posted_at": "2026-08-22T01:18:17.068909+00:00",
+      "score": 127.01
+    },
+    {
+      "key": "shopee:18899379083",
+      "marketplace": "shopee",
+      "id": "18899379083",
+      "title": "QPS spirulina C/60 CÁPS 500MG Envio Imediato",
+      "title_norm": "qps spirulina c 60 caps 500mg envio imediato",
+      "url": "https://shopee.com.br/product/1306970591/18899379083",
+      "affiliate_url": "https://s.shopee.com.br/8Kou5OYRZ5",
+      "category": "UltraVita",
+      "bucket": "ultravita",
+      "posted_ts": 1787361426,
+      "posted_at": "2026-08-22T01:17:06.751610+00:00",
+      "score": 127.59
+    },
+    {
       "key": "shopee:20699773493",
       "marketplace": "shopee",
       "id": "20699773493",
@@ -11691,5 +11761,5 @@
       "score": 130.19
     }
   ],
-  "updated_at": "2026-08-22T00:21:04.331144+00:00"
+  "updated_at": "2026-08-22T01:21:35.321875+00:00"
 }
