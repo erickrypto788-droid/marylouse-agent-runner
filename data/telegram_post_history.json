@@ -1,6 +1,76 @@
 {
   "posts": [
     {
+      "key": "shopee:22693399845",
+      "marketplace": "shopee",
+      "id": "22693399845",
+      "title": "PIPOQUEIRA ELÉTRICA 110v 220v 1200W Máquina de Pipoca Sem Óleo",
+      "title_norm": "pipoqueira eletrica 110v 220v 1200w maquina de pipoca sem oleo",
+      "url": "https://shopee.com.br/product/1334688324/22693399845",
+      "affiliate_url": "https://s.shopee.com.br/904bPafuL3",
+      "category": "XM Info",
+      "bucket": "xm_info",
+      "posted_ts": 1787390473,
+      "posted_at": "2026-08-22T09:21:13.727014+00:00",
+      "score": 90.52
+    },
+    {
+      "key": "shopee:20498962219",
+      "marketplace": "shopee",
+      "id": "20498962219",
+      "title": "Extrator de Sucos Turbo Premium Mondial Preto e Inox 250W E-10",
+      "title_norm": "extrator de sucos turbo premium mondial preto e inox 250w e 10",
+      "url": "https://shopee.com.br/product/1062544851/20498962219",
+      "affiliate_url": "https://s.shopee.com.br/8V8KofUonE",
+      "category": "Mercado Fácil",
+      "bucket": "mercado_facil",
+      "posted_ts": 1787390402,
+      "posted_at": "2026-08-22T09:20:02.730447+00:00",
+      "score": 90.94
+    },
+    {
+      "key": "shopee:20298661096",
+      "marketplace": "shopee",
+      "id": "20298661096",
+      "title": "Aspirador de Pó Vertical Britânia 2 em 1 1200W BAS1200C",
+      "title_norm": "aspirador de po vertical britania 2 em 1 1200w bas1200c",
+      "url": "https://shopee.com.br/product/811879342/20298661096",
+      "affiliate_url": "https://s.shopee.com.br/AAGYnjXLEc",
+      "category": "Britânia Oficial",
+      "bucket": "casa_cozinha",
+      "posted_ts": 1787390338,
+      "posted_at": "2026-08-22T09:18:58.429082+00:00",
+      "score": 122.11
+    },
+    {
+      "key": "shopee:58200034184",
+      "marketplace": "shopee",
+      "id": "58200034184",
+      "title": "Marmita Elétrica Veicular Bivolt P/ Carro Casa Taxi Uber Caminhão 12V 24V 110V 220V C",
+      "title_norm": "marmita eletrica veicular bivolt p carro casa taxi uber caminhao 12v 24v 110v 220v c",
+      "url": "https://shopee.com.br/product/1531826276/58200034184",
+      "affiliate_url": "https://s.shopee.com.br/AKZwTSY0qz",
+      "category": "PENGFA TECH LTDA",
+      "bucket": "pengfa_tech_ltda",
+      "posted_ts": 1787390274,
+      "posted_at": "2026-08-22T09:17:54.265475+00:00",
+      "score": 124.03
+    },
+    {
+      "key": "shopee:22998383507",
+      "marketplace": "shopee",
+      "id": "22998383507",
+      "title": "Panela De Pressão 4,5litros Panelux Linha Classic Alto Brilho A Mais Vendida Do Brasil",
+      "title_norm": "panela de pressao 4 5litros panelux linha classic alto brilho a mais vendida do brasil",
+      "url": "https://shopee.com.br/product/472053026/22998383507",
+      "affiliate_url": "https://s.shopee.com.br/5fo9RSsb6D",
+      "category": "MBShopp",
+      "bucket": "casa_cozinha",
+      "posted_ts": 1787390201,
+      "posted_at": "2026-08-22T09:16:41.613498+00:00",
+      "score": 126.68
+    },
+    {
       "key": "mercadolivre:MLB5908953072",
       "marketplace": "mercadolivre",
       "id": "MLB5908953072",
@@ -12391,5 +12461,5 @@
       "score": 130.19
     }
   ],
-  "updated_at": "2026-08-22T09:07:34.130258+00:00"
+  "updated_at": "2026-08-22T09:21:13.727031+00:00"
 }
