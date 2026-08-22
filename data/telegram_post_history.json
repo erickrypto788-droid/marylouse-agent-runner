@@ -1,6 +1,76 @@
 {
   "posts": [
     {
+      "key": "shopee:58256117284",
+      "marketplace": "shopee",
+      "id": "58256117284",
+      "title": "Conjunto Feminino Blusa Gola V e Calça Pantalona Tecido Viscolycra Premium",
+      "title_norm": "conjunto feminino blusa gola v e calca pantalona tecido viscolycra premium",
+      "url": "https://shopee.com.br/product/1737374300/58256117284",
+      "affiliate_url": "https://s.shopee.com.br/80C3p1rPCU",
+      "category": "L & L modas LTDA",
+      "bucket": "l_l_modas_ltda",
+      "posted_ts": 1787368857,
+      "posted_at": "2026-08-22T03:20:57.282297+00:00",
+      "score": 96.21
+    },
+    {
+      "key": "shopee:56761958115",
+      "marketplace": "shopee",
+      "id": "56761958115",
+      "title": "Vestido Longo Feminino Midi Frente Unica Costa Nua de Festa Casamento Madrinha Formatura Branco Plus Size",
+      "title_norm": "vestido longo feminino midi frente unica costa nua de festa casamento madrinha formatura branco plus size",
+      "url": "https://shopee.com.br/product/1330105172/56761958115",
+      "affiliate_url": "https://s.shopee.com.br/7KwLlVNlmc",
+      "category": "GRA JEANS OFICIAL",
+      "bucket": "moda_feminina",
+      "posted_ts": 1787368793,
+      "posted_at": "2026-08-22T03:19:53.363689+00:00",
+      "score": 113.59
+    },
+    {
+      "key": "shopee:58255069695",
+      "marketplace": "shopee",
+      "id": "58255069695",
+      "title": "Calça Cintura média Versátil - Perfeita para Looks Casuais e Elegantes",
+      "title_norm": "calca cintura media versatil perfeita para looks casuais e elegantes",
+      "url": "https://shopee.com.br/product/1641027419/58255069695",
+      "affiliate_url": "https://s.shopee.com.br/50YSFVppie",
+      "category": "Vmts Femenina",
+      "bucket": "vmts_femenina",
+      "posted_ts": 1787368729,
+      "posted_at": "2026-08-22T03:18:49.458624+00:00",
+      "score": 117.93
+    },
+    {
+      "key": "shopee:22797545994",
+      "marketplace": "shopee",
+      "id": "22797545994",
+      "title": "Calça Legging Flare Flanelada Leg Boca De Sino Bailarina Grossa Zero Transparência",
+      "title_norm": "calca legging flare flanelada leg boca de sino bailarina grossa zero transparencia",
+      "url": "https://shopee.com.br/product/869193731/22797545994",
+      "affiliate_url": "https://s.shopee.com.br/5ArsRopCNh",
+      "category": "OxeanJeans",
+      "bucket": "moda_feminina",
+      "posted_ts": 1787368665,
+      "posted_at": "2026-08-22T03:17:45.533481+00:00",
+      "score": 130.28
+    },
+    {
+      "key": "shopee:23397741792",
+      "marketplace": "shopee",
+      "id": "23397741792",
+      "title": "Calça Jeans Feminina Cintura Alta Wide Leg Com Bolso",
+      "title_norm": "calca jeans feminina cintura alta wide leg com bolso",
+      "url": "https://shopee.com.br/product/952371980/23397741792",
+      "affiliate_url": "https://s.shopee.com.br/gPT5Y6KVi",
+      "category": "Joy Jeans",
+      "bucket": "joy_jeans",
+      "posted_ts": 1787368601,
+      "posted_at": "2026-08-22T03:16:41.588292+00:00",
+      "score": 130.52
+    },
+    {
       "key": "mercadolivre:MLB7395731398",
       "marketplace": "mercadolivre",
       "id": "MLB7395731398",
@@ -11859,5 +11929,5 @@
       "score": 130.19
     }
   ],
-  "updated_at": "2026-08-22T03:04:25.238757+00:00"
+  "updated_at": "2026-08-22T03:20:57.282310+00:00"
 }
