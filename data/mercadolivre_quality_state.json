@@ -1,6 +1,36 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB3885192245",
+      "product_id": "MLB3885192245",
+      "catalog_product_id": "MLB34729625",
+      "item_id": "MLB3885192245",
+      "url": "https://www.mercadolivre.com.br/p/MLB34729625?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB34729625?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "celular samsung galaxy a55 5g cor azul celeste",
+      "title": "Celular Samsung Galaxy A55 5g Cor Azul-celeste",
+      "category": "Informática",
+      "price": 3099.0,
+      "score": 124.0,
+      "posted_ts": 1787421806,
+      "posted_at": "2026-08-22T18:03:26.620843+00:00"
+    },
+    {
+      "key": "mercadolivre:MLB4313231503",
+      "product_id": "MLB4313231503",
+      "catalog_product_id": "MLB59103594",
+      "item_id": "MLB4313231503",
+      "url": "https://www.mercadolivre.com.br/p/MLB59103594?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB59103594?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "smartphone xiaomi 15t 5g 12 12gb ram 512gb cinza",
+      "title": "Smartphone Xiaomi 15t 5g 12+12gb Ram + 512gb, Cinza",
+      "category": "Informática",
+      "price": 4039.9,
+      "score": 169.97,
+      "posted_ts": 1787421736,
+      "posted_at": "2026-08-22T18:02:16.316095+00:00"
+    },
+    {
       "key": "mercadolivre:MLB7150469040",
       "product_id": "MLB7150469040",
       "catalog_product_id": "MLB59821316",
@@ -361,5 +391,5 @@
       "posted_at": "2026-08-20T22:07:02.857510+00:00"
     }
   ],
-  "updated_at": "2026-08-22T17:03:32.220755+00:00"
+  "updated_at": "2026-08-22T18:03:26.620859+00:00"
 }
