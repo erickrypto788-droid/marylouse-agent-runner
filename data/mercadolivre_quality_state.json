@@ -1,6 +1,21 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB5454690706",
+      "product_id": "MLB5454690706",
+      "catalog_product_id": "MLB22813112",
+      "item_id": "MLB5454690706",
+      "url": "https://www.mercadolivre.com.br/p/MLB22813112?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB22813112?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "cadeira escritorio secretaria rcp preto",
+      "title": "Cadeira Escritório Secretaria Rcp Preto",
+      "category": "Casa e Cozinha",
+      "price": 254.03,
+      "score": 96.2,
+      "posted_ts": 1787392980,
+      "posted_at": "2026-08-22T10:03:00.959361+00:00"
+    },
+    {
       "key": "mercadolivre:MLB5908953072",
       "product_id": "MLB5908953072",
       "catalog_product_id": "MLB61771425",
@@ -271,5 +286,5 @@
       "posted_at": "2026-08-20T15:02:52.601871+00:00"
     }
   ],
-  "updated_at": "2026-08-22T09:07:34.138734+00:00"
+  "updated_at": "2026-08-22T10:03:00.959373+00:00"
 }
