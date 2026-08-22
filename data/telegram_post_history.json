@@ -1,6 +1,76 @@
 {
   "posts": [
     {
+      "key": "shopee:18099353977",
+      "marketplace": "shopee",
+      "id": "18099353977",
+      "title": "Bomba de tirar leite manual livre BPA acompanha bico de mamadeira Bombinha Tira Leite Materno",
+      "title_norm": "bomba de tirar leite manual livre bpa acompanha bico de mamadeira bombinha tira leite materno",
+      "url": "https://shopee.com.br/product/836573548/18099353977",
+      "affiliate_url": "https://s.shopee.com.br/7KwNpFixhE",
+      "category": "Dimportess",
+      "bucket": "dimportess",
+      "posted_ts": 1787412068,
+      "posted_at": "2026-08-22T15:21:08.826162+00:00",
+      "score": 44.73
+    },
+    {
+      "key": "shopee:22098732526",
+      "marketplace": "shopee",
+      "id": "22098732526",
+      "title": "Kit 2 Mamadeira Infantil Buba 120ml 270ml Anticólica Bpa free",
+      "title_norm": "kit 2 mamadeira infantil buba 120ml 270ml anticolica bpa free",
+      "url": "https://shopee.com.br/product/282106378/22098732526",
+      "affiliate_url": "https://s.shopee.com.br/8fRlPhdszM",
+      "category": "Liovi ",
+      "bucket": "liovi",
+      "posted_ts": 1787411997,
+      "posted_at": "2026-08-22T15:19:57.285492+00:00",
+      "score": 47.73
+    },
+    {
+      "key": "shopee:23799369338",
+      "marketplace": "shopee",
+      "id": "23799369338",
+      "title": "Kit 48 Carrinhos De Metal Fricção Brinquedo Menino Maleta Pista Presente",
+      "title_norm": "kit 48 carrinhos de metal friccao brinquedo menino maleta pista presente",
+      "url": "https://shopee.com.br/product/1377920727/23799369338",
+      "affiliate_url": "https://s.shopee.com.br/7VFntJdpi1",
+      "category": "rcacomercial",
+      "bucket": "rcacomercial",
+      "posted_ts": 1787411933,
+      "posted_at": "2026-08-22T15:18:53.036241+00:00",
+      "score": 106.96
+    },
+    {
+      "key": "shopee:42579853608",
+      "marketplace": "shopee",
+      "id": "42579853608",
+      "title": "Ninho Redutor de Berço Liso e Trocador Portátil Impermeável",
+      "title_norm": "ninho redutor de berco liso e trocador portatil impermeavel",
+      "url": "https://shopee.com.br/product/298372359/42579853608",
+      "affiliate_url": "https://s.shopee.com.br/LmdUOIgYC",
+      "category": "Monzillo ",
+      "bucket": "monzillo",
+      "posted_ts": 1787411868,
+      "posted_at": "2026-08-22T15:17:48.402264+00:00",
+      "score": 117.17
+    },
+    {
+      "key": "shopee:26184218965",
+      "marketplace": "shopee",
+      "id": "26184218965",
+      "title": "SUMIKKO 50 e 100 unidades Infantil Calça Fraldas Ajustável total max Baby P/M/G/XG/XXG/XXXG",
+      "title_norm": "sumikko 50 e 100 unidades infantil calca fraldas ajustavel total max baby p m g xg xxg xxxg",
+      "url": "https://shopee.com.br/product/1509457194/26184218965",
+      "affiliate_url": "https://s.shopee.com.br/30nNOzOszI",
+      "category": "BE_LOVE.br",
+      "bucket": "fraldas",
+      "posted_ts": 1787411804,
+      "posted_at": "2026-08-22T15:16:44.194948+00:00",
+      "score": 139.51
+    },
+    {
       "key": "mercadolivre:MLB5041528061",
       "marketplace": "mercadolivre",
       "id": "MLB5041528061",
@@ -12867,5 +12937,5 @@
       "score": 130.19
     }
   ],
-  "updated_at": "2026-08-22T15:02:14.161634+00:00"
+  "updated_at": "2026-08-22T15:21:08.826176+00:00"
 }
