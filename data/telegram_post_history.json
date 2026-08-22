@@ -1,6 +1,76 @@
 {
   "posts": [
     {
+      "key": "shopee:18999562267",
+      "marketplace": "shopee",
+      "id": "18999562267",
+      "title": "Leitor De Cartão Usb 3.0 Adaptador Micro Sd/sdxc 5gbps Envio Imediato",
+      "title_norm": "leitor de cartao usb 3 0 adaptador micro sd sdxc 5gbps envio imediato",
+      "url": "https://shopee.com.br/product/347409100/18999562267",
+      "affiliate_url": "https://s.shopee.com.br/qit5UpbuO",
+      "category": "TG HOME SHOP",
+      "bucket": "tg_home_shop",
+      "posted_ts": 1787426461,
+      "posted_at": "2026-08-22T19:21:01.093792+00:00",
+      "score": 64.98
+    },
+    {
+      "key": "shopee:41352394185",
+      "marketplace": "shopee",
+      "id": "41352394185",
+      "title": "8 Em 1 USB Hub Expansor Dock Type C TF Leitor SD Áudio Compatível Com MacBook Pro ipad HP",
+      "title_norm": "8 em 1 usb hub expansor dock type c tf leitor sd audio compativel com macbook pro ipad hp",
+      "url": "https://shopee.com.br/product/1006215031/41352394185",
+      "affiliate_url": "https://s.shopee.com.br/W62gsqsaI",
+      "category": "Choice Oficial",
+      "bucket": "choice_oficial",
+      "posted_ts": 1787426397,
+      "posted_at": "2026-08-22T19:19:57.152021+00:00",
+      "score": 99.38
+    },
+    {
+      "key": "shopee:23494197175",
+      "marketplace": "shopee",
+      "id": "23494197175",
+      "title": "Webcam Câmera Computador Full HD 1080x1920p 2MP USB Plug Play Microfone Embutido",
+      "title_norm": "webcam camera computador full hd 1080x1920p 2mp usb plug play microfone embutido",
+      "url": "https://shopee.com.br/product/384064825/23494197175",
+      "affiliate_url": "https://s.shopee.com.br/30nOvlR8aC",
+      "category": "SHOPELXY",
+      "bucket": "shopelxy",
+      "posted_ts": 1787426333,
+      "posted_at": "2026-08-22T19:18:53.176246+00:00",
+      "score": 101.65
+    },
+    {
+      "key": "shopee:56657310104",
+      "marketplace": "shopee",
+      "id": "56657310104",
+      "title": "SATA III 2.5 \"SSD 128GB/240GB/256GB Unidade de estado sólido interna de alta velocidade",
+      "title_norm": "sata iii 2 5 ssd 128gb 240gb 256gb unidade de estado solido interna de alta velocidade",
+      "url": "https://shopee.com.br/product/993120827/56657310104",
+      "affiliate_url": "https://s.shopee.com.br/AAGZSvvWVO",
+      "category": "somnambulist.br",
+      "bucket": "informatica",
+      "posted_ts": 1787426269,
+      "posted_at": "2026-08-22T19:17:49.181939+00:00",
+      "score": 114.91
+    },
+    {
+      "key": "shopee:22398374434",
+      "marketplace": "shopee",
+      "id": "22398374434",
+      "title": "Kit Teclado e Mouse branco Gamer RGB LED USB ABNT2 Profissional com Luz para PC Notebook Promoção",
+      "title_norm": "kit teclado e mouse branco gamer rgb led usb abnt2 profissional com luz para pc notebook promocao",
+      "url": "https://shopee.com.br/product/1447668497/22398374434",
+      "affiliate_url": "https://s.shopee.com.br/4AzL3cPeVG",
+      "category": "MixMania BR",
+      "bucket": "informatica",
+      "posted_ts": 1787426200,
+      "posted_at": "2026-08-22T19:16:40.640705+00:00",
+      "score": 134.52
+    },
+    {
       "key": "shopee:23693891395",
       "marketplace": "shopee",
       "id": "23693891395",
@@ -13175,5 +13245,5 @@
       "score": 130.19
     }
   ],
-  "updated_at": "2026-08-22T18:21:59.902904+00:00"
+  "updated_at": "2026-08-22T19:21:01.093807+00:00"
 }
