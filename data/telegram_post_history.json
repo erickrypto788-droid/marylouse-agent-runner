@@ -1,6 +1,76 @@
 {
   "posts": [
     {
+      "key": "shopee:58206241704",
+      "marketplace": "shopee",
+      "id": "58206241704",
+      "title": "Calça Jeans Plus Size Feminina Jeans Premium com Elastano. 46 do 56",
+      "title_norm": "calca jeans plus size feminina jeans premium com elastano 46 do 56",
+      "url": "https://shopee.com.br/product/1448522917/58206241704",
+      "affiliate_url": "https://s.shopee.com.br/4VcBmps2PT",
+      "category": "TOP JEANS WEAR",
+      "bucket": "top_jeans_wear",
+      "posted_ts": 1787376058,
+      "posted_at": "2026-08-22T05:20:58.825190+00:00",
+      "score": 89.22
+    },
+    {
+      "key": "shopee:22397608775",
+      "marketplace": "shopee",
+      "id": "22397608775",
+      "title": "Jaqueta Feminina Couro Sintético Plus Size",
+      "title_norm": "jaqueta feminina couro sintetico plus size",
+      "url": "https://shopee.com.br/product/326857141/22397608775",
+      "affiliate_url": "https://s.shopee.com.br/BTCcsCvy8",
+      "category": "Galan Modas",
+      "bucket": "galan_modas",
+      "posted_ts": 1787375994,
+      "posted_at": "2026-08-22T05:19:54.859728+00:00",
+      "score": 94.6
+    },
+    {
+      "key": "shopee:22591638181",
+      "marketplace": "shopee",
+      "id": "22591638181",
+      "title": "Calças Jeans Femininas Plus Size Cintura Alta Até o Umbigo Lycra",
+      "title_norm": "calcas jeans femininas plus size cintura alta ate o umbigo lycra",
+      "url": "https://shopee.com.br/product/384125793/22591638181",
+      "affiliate_url": "https://s.shopee.com.br/4LIlaWsXD1",
+      "category": "Vortex Jeans Wear",
+      "bucket": "vortex_jeans_wear",
+      "posted_ts": 1787375930,
+      "posted_at": "2026-08-22T05:18:50.860774+00:00",
+      "score": 110.61
+    },
+    {
+      "key": "shopee:22696701418",
+      "marketplace": "shopee",
+      "id": "22696701418",
+      "title": "Calça Pantalona Plus Size Feminina Elástico Na Cintura Com Bolso Cintura Alta Tecido Duna",
+      "title_norm": "calca pantalona plus size feminina elastico na cintura com bolso cintura alta tecido duna",
+      "url": "https://shopee.com.br/product/869193731/22696701418",
+      "affiliate_url": "https://s.shopee.com.br/50YSNkpzrD",
+      "category": "OxeanJeans",
+      "bucket": "oxeanjeans",
+      "posted_ts": 1787375866,
+      "posted_at": "2026-08-22T05:17:46.883082+00:00",
+      "score": 117.12
+    },
+    {
+      "key": "shopee:58257330060",
+      "marketplace": "shopee",
+      "id": "58257330060",
+      "title": "Vestido Plus Size Soltinho Em Dois Tamanhos e Várias Cores",
+      "title_norm": "vestido plus size soltinho em dois tamanhos e varias cores",
+      "url": "https://shopee.com.br/product/1518048481/58257330060",
+      "affiliate_url": "https://s.shopee.com.br/AUtMPIext8",
+      "category": "augeconceito",
+      "bucket": "moda_feminina",
+      "posted_ts": 1787375802,
+      "posted_at": "2026-08-22T05:16:42.870587+00:00",
+      "score": 119.51
+    },
+    {
       "key": "mercadolivre:MLB6359500600",
       "marketplace": "mercadolivre",
       "id": "MLB6359500600",
@@ -12055,5 +12125,5 @@
       "score": 130.19
     }
   ],
-  "updated_at": "2026-08-22T05:04:38.242315+00:00"
+  "updated_at": "2026-08-22T05:20:58.825204+00:00"
 }
