@@ -1,6 +1,76 @@
 {
   "posts": [
     {
+      "key": "shopee:58214327031",
+      "marketplace": "shopee",
+      "id": "58214327031",
+      "title": "Jogo Stop Brinquedo de Palavras Tabuleiro Educativo Divertido em Família",
+      "title_norm": "jogo stop brinquedo de palavras tabuleiro educativo divertido em familia",
+      "url": "https://shopee.com.br/product/1789924660/58214327031",
+      "affiliate_url": "https://s.shopee.com.br/7pseHvXtFm",
+      "category": "Zé Miniaturas & Brinquedos ",
+      "bucket": "ze_miniaturas_brinquedos",
+      "posted_ts": 1787404916,
+      "posted_at": "2026-08-22T13:21:56.301990+00:00",
+      "score": 107.34
+    },
+    {
+      "key": "shopee:22998920151",
+      "marketplace": "shopee",
+      "id": "22998920151",
+      "title": "Copo com Canudo Hot Wheels - Aventura Sobre Rodas! 1200ml Em Policarbonato + Brinde",
+      "title_norm": "copo com canudo hot wheels aventura sobre rodas 1200ml em policarbonato brinde",
+      "url": "https://shopee.com.br/product/1625539033/22998920151",
+      "affiliate_url": "https://s.shopee.com.br/W62IAKIBA",
+      "category": "MAX STORE VARIEDADES LTDA",
+      "bucket": "max_store_variedades_ltda",
+      "posted_ts": 1787404849,
+      "posted_at": "2026-08-22T13:20:49.590356+00:00",
+      "score": 116.35
+    },
+    {
+      "key": "shopee:23398908978",
+      "marketplace": "shopee",
+      "id": "23398908978",
+      "title": "Brinquedo Caminhão Dinossauro Engolidor 2026 Porta-Carrinhos com 4 Carrinhos de Metal – Kit Infantil🦖🚚",
+      "title_norm": "brinquedo caminhao dinossauro engolidor 2026 porta carrinhos com 4 carrinhos de metal kit infantil",
+      "url": "https://shopee.com.br/product/1634545368/23398908978",
+      "affiliate_url": "https://s.shopee.com.br/9pdifbUwyh",
+      "category": "CANDYSTAR",
+      "bucket": "candystar",
+      "posted_ts": 1787404785,
+      "posted_at": "2026-08-22T13:19:45.500865+00:00",
+      "score": 116.8
+    },
+    {
+      "key": "shopee:58206970260",
+      "marketplace": "shopee",
+      "id": "58206970260",
+      "title": "MEDOOSI Jogo de Desafio de Corda e Nós | Quebra-Cabeça Lógico, Brinquedo Desatar Educativo para Crianças / Infantil",
+      "title_norm": "medoosi jogo de desafio de corda e nos quebra cabeca logico brinquedo desatar educativo para criancas infantil",
+      "url": "https://shopee.com.br/product/1257233492/58206970260",
+      "affiliate_url": "https://s.shopee.com.br/2BEGHERQDs",
+      "category": "MEDOOSI-BR",
+      "bucket": "medoosi_br",
+      "posted_ts": 1787404716,
+      "posted_at": "2026-08-22T13:18:36.225312+00:00",
+      "score": 117.32
+    },
+    {
+      "key": "shopee:19499073421",
+      "marketplace": "shopee",
+      "id": "19499073421",
+      "title": "Bebê Reborn Boneca Realista Girafinha Luxo Em Silicone Pode Dar Banho Envio Imediato",
+      "title_norm": "bebe reborn boneca realista girafinha luxo em silicone pode dar banho envio imediato",
+      "url": "https://shopee.com.br/product/790605924/19499073421",
+      "affiliate_url": "https://s.shopee.com.br/80C4UEXSgc",
+      "category": "Adora ",
+      "bucket": "adora",
+      "posted_ts": 1787404602,
+      "posted_at": "2026-08-22T13:16:42.104005+00:00",
+      "score": 124.32
+    },
+    {
       "key": "shopee:23093824562",
       "marketplace": "shopee",
       "id": "23093824562",
@@ -12713,5 +12783,5 @@
       "score": 130.19
     }
   ],
-  "updated_at": "2026-08-22T12:20:54.883114+00:00"
+  "updated_at": "2026-08-22T13:21:56.302004+00:00"
 }
