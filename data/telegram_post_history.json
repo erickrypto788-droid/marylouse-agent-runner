@@ -1,6 +1,48 @@
 {
   "posts": [
     {
+      "key": "shopee:23599239610",
+      "marketplace": "shopee",
+      "id": "23599239610",
+      "title": "Sandália Feminina Conforto Premium Com Detalhe Dourado Elegante | Casual E Sofisticada GABI",
+      "title_norm": "sandalia feminina conforto premium com detalhe dourado elegante casual e sofisticada gabi",
+      "url": "https://shopee.com.br/product/1648608636/23599239610",
+      "affiliate_url": "https://s.shopee.com.br/4LImz3PpEW",
+      "category": "cravorosa267",
+      "bucket": "calcados",
+      "posted_ts": 1787451534,
+      "posted_at": "2026-08-23T02:18:54.738783+00:00",
+      "score": 118.02
+    },
+    {
+      "key": "shopee:22294416370",
+      "marketplace": "shopee",
+      "id": "22294416370",
+      "title": "Sandália Feminina Asa Delta Rasteira Conforto Medalhas Douradas com Fivela Reveillon",
+      "title_norm": "sandalia feminina asa delta rasteira conforto medalhas douradas com fivela reveillon",
+      "url": "https://shopee.com.br/product/1022219186/22294416370",
+      "affiliate_url": "https://s.shopee.com.br/8KovkPJKPz",
+      "category": "Eudorashoes",
+      "bucket": "calcados",
+      "posted_ts": 1787451470,
+      "posted_at": "2026-08-23T02:17:50.839642+00:00",
+      "score": 126.26
+    },
+    {
+      "key": "shopee:22799040705",
+      "marketplace": "shopee",
+      "id": "22799040705",
+      "title": "Sandália Papete Feminina Ortopédica com Elástico Confortável Moderna com Palmilha Massageadora",
+      "title_norm": "sandalia papete feminina ortopedica com elastico confortavel moderna com palmilha massageadora",
+      "url": "https://shopee.com.br/product/420347720/22799040705",
+      "affiliate_url": "https://s.shopee.com.br/3qMWO8NOk8",
+      "category": "Ploomer Premium",
+      "bucket": "pet",
+      "posted_ts": 1787451400,
+      "posted_at": "2026-08-23T02:16:40.317681+00:00",
+      "score": 128.02
+    },
+    {
       "key": "shopee:23893703937",
       "marketplace": "shopee",
       "id": "23893703937",
@@ -13693,5 +13735,5 @@
       "score": 130.19
     }
   ],
-  "updated_at": "2026-08-23T01:18:51.093390+00:00"
+  "updated_at": "2026-08-23T02:18:54.738794+00:00"
 }
