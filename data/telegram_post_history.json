@@ -1,6 +1,48 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB5331790354",
+      "marketplace": "mercadolivre",
+      "id": "MLB5331790354",
+      "title": "Air fryer Br House Fritadeira ELETRICA AIR FRYER Air Fryer Family preto",
+      "title_norm": "air fryer br house fritadeira eletrica air fryer air fryer family preto",
+      "url": "https://www.mercadolivre.com.br/p/MLB45458466?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB45458466?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Casa e Cozinha",
+      "bucket": "casa_cozinha",
+      "posted_ts": 1787457892,
+      "posted_at": "2026-08-23T04:04:52.856064+00:00",
+      "score": 113.0
+    },
+    {
+      "key": "mercadolivre:MLB5428097608",
+      "marketplace": "mercadolivre",
+      "id": "MLB5428097608",
+      "title": "Rack Para Sala De Estar Rack Para Tv C/ Prateleira Flex Cor Off-white",
+      "title_norm": "rack para sala de estar rack para tv c prateleira flex cor off white",
+      "url": "https://www.mercadolivre.com.br/p/MLB39369998?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB39369998?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Casa e Cozinha",
+      "bucket": "casa_e_cozinha",
+      "posted_ts": 1787457828,
+      "posted_at": "2026-08-23T04:03:48.894853+00:00",
+      "score": 141.15
+    },
+    {
+      "key": "mercadolivre:MLB6738465128",
+      "marketplace": "mercadolivre",
+      "id": "MLB6738465128",
+      "title": "Cadeira Massagem Escritorio Cadeira Escritorio Presidente Cor Âmbar",
+      "title_norm": "cadeira massagem escritorio cadeira escritorio presidente cor ambar",
+      "url": "https://www.mercadolivre.com.br/p/MLB59413555?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB59413555?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Casa e Cozinha",
+      "bucket": "casa_e_cozinha",
+      "posted_ts": 1787457764,
+      "posted_at": "2026-08-23T04:02:44.886548+00:00",
+      "score": 162.06
+    },
+    {
       "key": "mercadolivre:MLB7059191208",
       "marketplace": "mercadolivre",
       "id": "MLB7059191208",
@@ -13805,5 +13847,5 @@
       "score": 130.19
     }
   ],
-  "updated_at": "2026-08-23T03:07:15.881933+00:00"
+  "updated_at": "2026-08-23T04:04:52.856076+00:00"
 }
