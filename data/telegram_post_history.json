@@ -1,6 +1,34 @@
 {
   "posts": [
     {
+      "key": "shopee:23394636497",
+      "marketplace": "shopee",
+      "id": "23394636497",
+      "title": "Bota Botina Segurança Couro Legítimo CA Aprovado Bota EPI Antiderrapante Confortável Leve Unisex",
+      "title_norm": "bota botina seguranca couro legitimo ca aprovado bota epi antiderrapante confortavel leve unisex",
+      "url": "https://shopee.com.br/product/1406953915/23394636497",
+      "affiliate_url": "https://s.shopee.com.br/9fKKb9Fu4o",
+      "category": "VELLUDINE",
+      "bucket": "calcados",
+      "posted_ts": 1787519860,
+      "posted_at": "2026-08-23T21:17:40.130133+00:00",
+      "score": 107.2
+    },
+    {
+      "key": "shopee:23398006332",
+      "marketplace": "shopee",
+      "id": "23398006332",
+      "title": "NEW NOVO TENIS INCRIVEL MODELO PARA REVEILLON TODO BRANCO LINDO DIRETO DA FABRICA PROMOCAO",
+      "title_norm": "new novo tenis incrivel modelo para reveillon todo branco lindo direto da fabrica promocao",
+      "url": "https://shopee.com.br/product/1385382926/23398006332",
+      "affiliate_url": "https://s.shopee.com.br/80C6c54eKI",
+      "category": "WEAR FORCE OFICIAL",
+      "bucket": "calcados",
+      "posted_ts": 1787519796,
+      "posted_at": "2026-08-23T21:16:36.210958+00:00",
+      "score": 109.75
+    },
+    {
       "key": "mercadolivre:MLB7003862824",
       "marketplace": "mercadolivre",
       "id": "MLB7003862824",
@@ -13971,35 +13999,7 @@
       "posted_ts": 1786789002,
       "posted_at": "2026-08-15T10:16:42.844338+00:00",
       "score": 136.27
-    },
-    {
-      "key": "mercadolivre:MLB7150469040",
-      "marketplace": "mercadolivre",
-      "id": "MLB7150469040",
-      "title": "TV Box RBI Smart TV Box 4K PROSB-2000 Preto 5ª Geração Wi-Fi HDMI",
-      "title_norm": "tv box rbi smart tv box 4k prosb 2000 preto 5 geracao wi fi hdmi",
-      "url": "https://www.mercadolivre.com.br/p/MLB59821316?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB59821316?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "category": "Pet",
-      "bucket": "pet",
-      "posted_ts": 1786788221,
-      "posted_at": "2026-08-15T10:03:41.727686+00:00",
-      "score": 113.0
-    },
-    {
-      "key": "mercadolivre:MLB4918382621",
-      "marketplace": "mercadolivre",
-      "id": "MLB4918382621",
-      "title": "Fone Bluetooth Redmi",
-      "title_norm": "fone bluetooth redmi",
-      "url": "https://www.mercadolivre.com.br/p/MLB62010143?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB62010143?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "category": "Informática",
-      "bucket": "celulares",
-      "posted_ts": 1786788141,
-      "posted_at": "2026-08-15T10:02:21.802164+00:00",
-      "score": 114.83
     }
   ],
-  "updated_at": "2026-08-23T21:03:52.665277+00:00"
+  "updated_at": "2026-08-23T21:17:40.130150+00:00"
 }
