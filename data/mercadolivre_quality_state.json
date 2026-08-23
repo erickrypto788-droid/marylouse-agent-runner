@@ -1,6 +1,36 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB7003862824",
+      "product_id": "MLB7003862824",
+      "catalog_product_id": "MLB74184723",
+      "item_id": "MLB7003862824",
+      "url": "https://www.mercadolivre.com.br/p/MLB74184723?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB74184723?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "painel d rossi painel para tv para tv ate 60 cumaru de mdf mdp",
+      "title": "Painel D'Rossi Painel Para TV para TV até 60\" cumaru de mdf/mdp",
+      "category": "Casa e Cozinha",
+      "price": 671.08,
+      "score": 88.53,
+      "posted_ts": 1787519032,
+      "posted_at": "2026-08-23T21:03:52.676589+00:00"
+    },
+    {
+      "key": "mercadolivre:MLB6582939094",
+      "product_id": "MLB6582939094",
+      "catalog_product_id": "MLB67685128",
+      "item_id": "MLB6582939094",
+      "url": "https://www.mercadolivre.com.br/p/MLB67685128?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB67685128?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "jogo panelas grandes conjunto cacarolas 40cm 2 un aluminio",
+      "title": "Jogo Panelas Grandes Conjunto Caçarolas 40cm - 2 Un Alumínio",
+      "category": "Casa e Cozinha",
+      "price": 397.61,
+      "score": 111.0,
+      "posted_ts": 1787518968,
+      "posted_at": "2026-08-23T21:02:48.760550+00:00"
+    },
+    {
       "key": "mercadolivre:MLB4832226667",
       "product_id": "MLB4832226667",
       "catalog_product_id": "MLB74626445",
@@ -916,5 +946,5 @@
       "posted_at": "2026-08-21T22:02:47.217798+00:00"
     }
   ],
-  "updated_at": "2026-08-23T20:06:59.267764+00:00"
+  "updated_at": "2026-08-23T21:03:52.676598+00:00"
 }

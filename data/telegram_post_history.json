@@ -1,6 +1,34 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB7003862824",
+      "marketplace": "mercadolivre",
+      "id": "MLB7003862824",
+      "title": "Painel D'Rossi Painel Para TV para TV até 60\" cumaru de mdf/mdp",
+      "title_norm": "painel d rossi painel para tv para tv ate 60 cumaru de mdf mdp",
+      "url": "https://www.mercadolivre.com.br/p/MLB74184723?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB74184723?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Casa e Cozinha",
+      "bucket": "casa_e_cozinha",
+      "posted_ts": 1787519032,
+      "posted_at": "2026-08-23T21:03:52.665266+00:00",
+      "score": 88.53
+    },
+    {
+      "key": "mercadolivre:MLB6582939094",
+      "marketplace": "mercadolivre",
+      "id": "MLB6582939094",
+      "title": "Jogo Panelas Grandes Conjunto Caçarolas 40cm - 2 Un Alumínio",
+      "title_norm": "jogo panelas grandes conjunto cacarolas 40cm 2 un aluminio",
+      "url": "https://www.mercadolivre.com.br/p/MLB67685128?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB67685128?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Casa e Cozinha",
+      "bucket": "casa_cozinha",
+      "posted_ts": 1787518968,
+      "posted_at": "2026-08-23T21:02:48.748892+00:00",
+      "score": 111.0
+    },
+    {
       "key": "shopee:22093941249",
       "marketplace": "shopee",
       "id": "22093941249",
@@ -13971,35 +13999,7 @@
       "posted_ts": 1786788141,
       "posted_at": "2026-08-15T10:02:21.802164+00:00",
       "score": 114.83
-    },
-    {
-      "key": "shopee:23398852310",
-      "marketplace": "shopee",
-      "id": "23398852310",
-      "title": "TOMI MITO Bolsa Feminina com Alça Lateral Transversal de Ombro de Couro PU T304",
-      "title_norm": "tomi mito bolsa feminina com alca lateral transversal de ombro de couro pu t304",
-      "url": "https://shopee.com.br/product/1468415010/23398852310",
-      "affiliate_url": "https://s.shopee.com.br/3g2ttXtXuW",
-      "category": "Amy.Store",
-      "bucket": "bolsas",
-      "posted_ts": 1786785600,
-      "posted_at": "2026-08-15T09:20:00.658430+00:00",
-      "score": 119.75
-    },
-    {
-      "key": "shopee:58206781154",
-      "marketplace": "shopee",
-      "id": "58206781154",
-      "title": "SPOETRY Bolsa Feminina Casual de Nylon Nova Grande Ombro Tote",
-      "title_norm": "spoetry bolsa feminina casual de nylon nova grande ombro tote",
-      "url": "https://shopee.com.br/product/1669666744/58206781154",
-      "affiliate_url": "https://s.shopee.com.br/9pdXEsWLQG",
-      "category": "JESDA-05",
-      "bucket": "bolsas",
-      "posted_ts": 1786785531,
-      "posted_at": "2026-08-15T09:18:51.656706+00:00",
-      "score": 125.16
     }
   ],
-  "updated_at": "2026-08-23T20:20:53.481991+00:00"
+  "updated_at": "2026-08-23T21:03:52.665277+00:00"
 }
