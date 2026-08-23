@@ -1,6 +1,20 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB4355666141",
+      "marketplace": "mercadolivre",
+      "id": "MLB4355666141",
+      "title": "Roteador Wifi Ac 1200 2 Flex",
+      "title_norm": "roteador wifi ac 1200 2 flex",
+      "url": "https://www.mercadolivre.com.br/p/MLB47353377?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB47353377?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Informática",
+      "bucket": "informatica",
+      "posted_ts": 1787479355,
+      "posted_at": "2026-08-23T10:02:35.700768+00:00",
+      "score": 88.0
+    },
+    {
       "key": "shopee:22997757609",
       "marketplace": "shopee",
       "id": "22997757609",
@@ -13985,21 +13999,7 @@
       "posted_ts": 1786745023,
       "posted_at": "2026-08-14T22:03:43.003266+00:00",
       "score": 86.0
-    },
-    {
-      "key": "mercadolivre:MLB7372384956",
-      "marketplace": "mercadolivre",
-      "id": "MLB7372384956",
-      "title": "Amarelo escova limpeza mamadeira kit para limpeza de mamadeira kit limpeza mamadeira viagem kit limpeza bebe escova mamadeira portatil escova bico canudo secador higiene infantil acessorios bebe",
-      "title_norm": "amarelo escova limpeza mamadeira kit para limpeza de mamadeira kit limpeza mamadeira viagem kit limpeza bebe escova mamadeira portatil escova bico canudo secador higiene infantil acessorios bebe",
-      "url": "https://www.mercadolivre.com.br/p/MLB75043057?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB75043057?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "category": "Mãe e Bebê",
-      "bucket": "beleza",
-      "posted_ts": 1786744958,
-      "posted_at": "2026-08-14T22:02:38.909216+00:00",
-      "score": 192.77
     }
   ],
-  "updated_at": "2026-08-23T09:21:09.370059+00:00"
+  "updated_at": "2026-08-23T10:02:35.700782+00:00"
 }
