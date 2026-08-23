@@ -1,6 +1,20 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB7158074090",
+      "marketplace": "mercadolivre",
+      "id": "MLB7158074090",
+      "title": "Liquidificador portátil, Mini liquidificador recarregável USB, Liquidificador",
+      "title_norm": "liquidificador portatil mini liquidificador recarregavel usb liquidificador",
+      "url": "https://www.mercadolivre.com.br/p/MLB38338044?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB38338044?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Casa e Cozinha",
+      "bucket": "casa_cozinha",
+      "posted_ts": 1787472164,
+      "posted_at": "2026-08-23T08:02:44.646065+00:00",
+      "score": 113.0
+    },
+    {
       "key": "shopee:23798855725",
       "marketplace": "shopee",
       "id": "23798855725",
@@ -13985,21 +13999,7 @@
       "posted_ts": 1786738607,
       "posted_at": "2026-08-14T20:16:47.737048+00:00",
       "score": 130.52
-    },
-    {
-      "key": "mercadolivre:MLB7395731398",
-      "marketplace": "mercadolivre",
-      "id": "MLB7395731398",
-      "title": "Balança Digital De Precisão 10kg Balança Digital Cozinha Balança Digital Balança Digital Plastico Balança Dieta Fitness EcomVit",
-      "title_norm": "balanca digital de precisao 10kg balanca digital cozinha balanca digital balanca digital plastico balanca dieta fitness ecomvit",
-      "url": "https://www.mercadolivre.com.br/p/MLB76866122?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB76866122?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "category": "Esportes",
-      "bucket": "esportes",
-      "posted_ts": 1786737865,
-      "posted_at": "2026-08-14T20:04:25.719843+00:00",
-      "score": 83.86
     }
   ],
-  "updated_at": "2026-08-23T07:21:24.530598+00:00"
+  "updated_at": "2026-08-23T08:02:44.646079+00:00"
 }
