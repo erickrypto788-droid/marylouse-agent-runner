@@ -1,6 +1,48 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB4623864041",
+      "marketplace": "mercadolivre",
+      "id": "MLB4623864041",
+      "title": "Condicionador Infantil 250ml Buba Care",
+      "title_norm": "condicionador infantil 250ml buba care",
+      "url": "https://www.mercadolivre.com.br/p/MLB29684586?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB29684586?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Beleza",
+      "bucket": "beleza",
+      "posted_ts": 1787512139,
+      "posted_at": "2026-08-23T19:08:59.228007+00:00",
+      "score": 88.0
+    },
+    {
+      "key": "mercadolivre:MLB5118569459",
+      "marketplace": "mercadolivre",
+      "id": "MLB5118569459",
+      "title": "Arroz Motigome 1kg",
+      "title_norm": "arroz motigome 1kg",
+      "url": "https://www.mercadolivre.com.br/p/MLB21407698?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB21407698?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Supermercados",
+      "bucket": "supermercados",
+      "posted_ts": 1787512074,
+      "posted_at": "2026-08-23T19:07:54.770070+00:00",
+      "score": 106.01
+    },
+    {
+      "key": "mercadolivre:MLB4219197703",
+      "marketplace": "mercadolivre",
+      "id": "MLB4219197703",
+      "title": "Azeite Oliva Extra Virgem Português Vila Oliva 500ml (3 Un)",
+      "title_norm": "azeite oliva extra virgem portugues vila oliva 500ml 3 un",
+      "url": "https://www.mercadolivre.com.br/p/MLB34684493?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB34684493?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Supermercados",
+      "bucket": "supermercado",
+      "posted_ts": 1787512009,
+      "posted_at": "2026-08-23T19:06:49.891138+00:00",
+      "score": 138.07
+    },
+    {
       "key": "shopee:58202309493",
       "marketplace": "shopee",
       "id": "58202309493",
@@ -13957,49 +13999,7 @@
       "posted_ts": 1786778201,
       "posted_at": "2026-08-15T07:16:41.083201+00:00",
       "score": 139.92
-    },
-    {
-      "key": "shopee:22998920151",
-      "marketplace": "shopee",
-      "id": "22998920151",
-      "title": "Copo com Canudo Hot Wheels - Aventura Sobre Rodas! Personalizado 1200ml Em Policarbonato + Brinde",
-      "title_norm": "copo com canudo hot wheels aventura sobre rodas personalizado 1200ml em policarbonato brinde",
-      "url": "https://shopee.com.br/product/1625539033/22998920151",
-      "affiliate_url": "https://s.shopee.com.br/80Bsr9EIhK",
-      "category": "MAX STORE VARIEDADES LTDA",
-      "bucket": "max_store_variedades_ltda",
-      "posted_ts": 1786774863,
-      "posted_at": "2026-08-15T06:21:03.434454+00:00",
-      "score": 115.95
-    },
-    {
-      "key": "shopee:58206970260",
-      "marketplace": "shopee",
-      "id": "58206970260",
-      "title": "MEDOOSI Jogo de Desafio de Corda e Nós | Quebra-Cabeça Lógico, Brinquedo Desatar Educativo para Crianças / Infantil",
-      "title_norm": "medoosi jogo de desafio de corda e nos quebra cabeca logico brinquedo desatar educativo para criancas infantil",
-      "url": "https://shopee.com.br/product/1257233492/58206970260",
-      "affiliate_url": "https://s.shopee.com.br/qiiJysmZN",
-      "category": "MEDOOSI-BR",
-      "bucket": "medoosi_br",
-      "posted_ts": 1786774799,
-      "posted_at": "2026-08-15T06:19:59.303562+00:00",
-      "score": 117.22
-    },
-    {
-      "key": "shopee:58203876031",
-      "marketplace": "shopee",
-      "id": "58203876031",
-      "title": "Kit com 40 Carrinhos de Fricção Coloridos + Caixa Organizadora | Presente Infantil",
-      "title_norm": "kit com 40 carrinhos de friccao coloridos caixa organizadora presente infantil",
-      "url": "https://shopee.com.br/product/390180328/58203876031",
-      "affiliate_url": "https://s.shopee.com.br/AAGNR863Hm",
-      "category": "Sholovi Oficial",
-      "bucket": "sholovi_oficial",
-      "posted_ts": 1786774735,
-      "posted_at": "2026-08-15T06:18:55.213980+00:00",
-      "score": 119.48
     }
   ],
-  "updated_at": "2026-08-23T18:21:04.308123+00:00"
+  "updated_at": "2026-08-23T19:08:59.228019+00:00"
 }
