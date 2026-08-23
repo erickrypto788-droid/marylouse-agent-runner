@@ -1,6 +1,20 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB5495982148",
+      "marketplace": "mercadolivre",
+      "id": "MLB5495982148",
+      "title": "Barbeador Costas Masculino Traseiro Dobrável Aparador Pelos",
+      "title_norm": "barbeador costas masculino traseiro dobravel aparador pelos",
+      "url": "https://www.mercadolivre.com.br/p/MLB51434487?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB51434487?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Beleza",
+      "bucket": "beleza",
+      "posted_ts": 1787468558,
+      "posted_at": "2026-08-23T07:02:38.342061+00:00",
+      "score": 162.62
+    },
+    {
       "key": "shopee:25293647491",
       "marketplace": "shopee",
       "id": "25293647491",
@@ -13985,21 +13999,7 @@
       "posted_ts": 1786731466,
       "posted_at": "2026-08-14T18:17:46.214216+00:00",
       "score": 101.45
-    },
-    {
-      "key": "shopee:22098162297",
-      "marketplace": "shopee",
-      "id": "22098162297",
-      "title": "Console Portátil R36S + de 15.000 Jogos Vídeo Game 64g Linux Tela IPS 3.5 Polegadas",
-      "title_norm": "console portatil r36s de 15 000 jogos video game 64g linux tela ips 3 5 polegadas",
-      "url": "https://shopee.com.br/product/1127030290/22098162297",
-      "affiliate_url": "https://s.shopee.com.br/1126OQudAk",
-      "category": "JIMMY.STORE",
-      "bucket": "jimmy_store",
-      "posted_ts": 1786731395,
-      "posted_at": "2026-08-14T18:16:35.077721+00:00",
-      "score": 117.98
     }
   ],
-  "updated_at": "2026-08-23T06:21:06.552268+00:00"
+  "updated_at": "2026-08-23T07:02:38.342081+00:00"
 }
