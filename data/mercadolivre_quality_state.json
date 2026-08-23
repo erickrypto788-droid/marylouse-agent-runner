@@ -1,6 +1,66 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB4832226667",
+      "product_id": "MLB4832226667",
+      "catalog_product_id": "MLB74626445",
+      "item_id": "MLB4832226667",
+      "url": "https://www.mercadolivre.com.br/p/MLB74626445?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB74626445?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "saida praia saia feminina texturizada moda verao tendencias amarelo p",
+      "title": "Saída Praia Saia Feminina Texturizada Moda Verão Tendências Amarelo P",
+      "category": "Moda Feminina",
+      "price": 55.71,
+      "score": 79.13,
+      "posted_ts": 1787515619,
+      "posted_at": "2026-08-23T20:06:59.267750+00:00"
+    },
+    {
+      "key": "mercadolivre:MLB3957584779",
+      "product_id": "MLB3957584779",
+      "catalog_product_id": "MLB45621460",
+      "item_id": "MLB3957584779",
+      "url": "https://www.mercadolivre.com.br/p/MLB45621460?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB45621460?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "tecido suplex liso amarelo de 5 metros para moda fitness",
+      "title": "Tecido Suplex Liso Amarelo de 5 Metros para Moda Fitness",
+      "category": "Esportes",
+      "price": 157.79,
+      "score": 88.0,
+      "posted_ts": 1787515555,
+      "posted_at": "2026-08-23T20:05:55.204184+00:00"
+    },
+    {
+      "key": "mercadolivre:MLB4812793017",
+      "product_id": "MLB4812793017",
+      "catalog_product_id": "MLB74520688",
+      "item_id": "MLB4812793017",
+      "url": "https://www.mercadolivre.com.br/p/MLB74520688?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB74520688?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "conjunto feminino shorts saia e blusa elegante festa balada cor conjunto feminino shorts saia preto",
+      "title": "Conjunto Feminino Shorts Saia E Blusa Elegante Festa Balada Cor Conjunto Feminino Shorts Saia Preto",
+      "category": "Moda Feminina",
+      "price": 167.93,
+      "score": 135.0,
+      "posted_ts": 1787515491,
+      "posted_at": "2026-08-23T20:04:51.149431+00:00"
+    },
+    {
+      "key": "mercadolivre:MLB6952730542",
+      "product_id": "MLB6952730542",
+      "catalog_product_id": "MLB73193896",
+      "item_id": "MLB6952730542",
+      "url": "https://www.mercadolivre.com.br/p/MLB73193896?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB73193896?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "regata feminina modeladora compressao alta sustentacao slim cor preto tamanho m",
+      "title": "Regata Feminina Modeladora Compressão Alta Sustentação Slim Cor Preto Tamanho M",
+      "category": "Moda Feminina",
+      "price": 97.93,
+      "score": 144.05,
+      "posted_ts": 1787515425,
+      "posted_at": "2026-08-23T20:03:45.989540+00:00"
+    },
+    {
       "key": "mercadolivre:MLB4623864041",
       "product_id": "MLB4623864041",
       "catalog_product_id": "MLB29684586",
@@ -856,5 +916,5 @@
       "posted_at": "2026-08-21T22:02:47.217798+00:00"
     }
   ],
-  "updated_at": "2026-08-23T19:08:59.241328+00:00"
+  "updated_at": "2026-08-23T20:06:59.267764+00:00"
 }
