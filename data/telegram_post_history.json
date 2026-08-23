@@ -1,6 +1,62 @@
 {
   "posts": [
     {
+      "key": "shopee:21897737849",
+      "marketplace": "shopee",
+      "id": "21897737849",
+      "title": "Micro-ondas Philco 25L Função Tira Odor PM27",
+      "title_norm": "micro ondas philco 25l funcao tira odor pm27",
+      "url": "https://shopee.com.br/product/811034337/21897737849",
+      "affiliate_url": "https://s.shopee.com.br/3qMWaV3oWc",
+      "category": "Philco Oficial",
+      "bucket": "philco_oficial",
+      "posted_ts": 1787462395,
+      "posted_at": "2026-08-23T05:19:55.499592+00:00",
+      "score": 81.61
+    },
+    {
+      "key": "shopee:23497309877",
+      "marketplace": "shopee",
+      "id": "23497309877",
+      "title": "Espremedor Elétrico Laranja Limão Frutas Fazer Sucos Recarregável Usb Cozinha",
+      "title_norm": "espremedor eletrico laranja limao frutas fazer sucos recarregavel usb cozinha",
+      "url": "https://shopee.com.br/product/807597901/23497309877",
+      "affiliate_url": "https://s.shopee.com.br/AAGa88SZaX",
+      "category": "BIG MO",
+      "bucket": "big_mo",
+      "posted_ts": 1787462331,
+      "posted_at": "2026-08-23T05:18:51.491230+00:00",
+      "score": 125.62
+    },
+    {
+      "key": "shopee:20697354172",
+      "marketplace": "shopee",
+      "id": "20697354172",
+      "title": "Cafeteira Italiana Premium 6 Xícaras De Alumínio",
+      "title_norm": "cafeteira italiana premium 6 xicaras de aluminio",
+      "url": "https://shopee.com.br/product/408653169/20697354172",
+      "affiliate_url": "https://s.shopee.com.br/gPUog7CvU",
+      "category": "SELLNEEDS",
+      "bucket": "casa_cozinha",
+      "posted_ts": 1787462265,
+      "posted_at": "2026-08-23T05:17:45.725677+00:00",
+      "score": 126.98
+    },
+    {
+      "key": "shopee:19098205730",
+      "marketplace": "shopee",
+      "id": "19098205730",
+      "title": "Gaabor Aspirador de pó portátil 2 em 1 com fio e haste de pressão sucção forte de 16000Pa dust off GVCW-M15A",
+      "title_norm": "gaabor aspirador de po portatil 2 em 1 com fio e haste de pressao succao forte de 16000pa dust off gvcw m15a",
+      "url": "https://shopee.com.br/product/1541348350/19098205730",
+      "affiliate_url": "https://s.shopee.com.br/1BLlPb9QdG",
+      "category": "DOMUS STORE_",
+      "bucket": "casa_cozinha",
+      "posted_ts": 1787462198,
+      "posted_at": "2026-08-23T05:16:38.184863+00:00",
+      "score": 131.63
+    },
+    {
       "key": "mercadolivre:MLB6512536586",
       "marketplace": "mercadolivre",
       "id": "MLB6512536586",
@@ -13931,5 +13987,5 @@
       "score": 130.19
     }
   ],
-  "updated_at": "2026-08-23T05:03:11.929440+00:00"
+  "updated_at": "2026-08-23T05:19:55.499605+00:00"
 }
