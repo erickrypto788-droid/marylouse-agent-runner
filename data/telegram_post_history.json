@@ -1,6 +1,62 @@
 {
   "posts": [
     {
+      "key": "shopee:22793112239",
+      "marketplace": "shopee",
+      "id": "22793112239",
+      "title": "Mochila Notebook Escolar Executiva Masculina Feminina Bolsa Resistente",
+      "title_norm": "mochila notebook escolar executiva masculina feminina bolsa resistente",
+      "url": "https://shopee.com.br/product/404962557/22793112239",
+      "affiliate_url": "https://s.shopee.com.br/9V0tnl3bcR",
+      "category": "beleza bolsa",
+      "bucket": "informatica",
+      "posted_ts": 1787487599,
+      "posted_at": "2026-08-23T12:19:59.058012+00:00",
+      "score": 114.45
+    },
+    {
+      "key": "shopee:21099546181",
+      "marketplace": "shopee",
+      "id": "21099546181",
+      "title": "Bolsa Feminina Pequena de Ombro Impermeável, Mini Tiracolo de Couro para Trabalho e Festa",
+      "title_norm": "bolsa feminina pequena de ombro impermeavel mini tiracolo de couro para trabalho e festa",
+      "url": "https://shopee.com.br/product/1198407784/21099546181",
+      "affiliate_url": "https://s.shopee.com.br/3qMVivlwqk",
+      "category": "Romantic Crown.02",
+      "bucket": "bolsas",
+      "posted_ts": 1787487526,
+      "posted_at": "2026-08-23T12:18:46.526746+00:00",
+      "score": 114.97
+    },
+    {
+      "key": "shopee:22693059376",
+      "marketplace": "shopee",
+      "id": "22693059376",
+      "title": "Mochila Feminina para Viagem Casual à Prova d'Água em Oxford, Se Torna Bolsa de Mão Alex",
+      "title_norm": "mochila feminina para viagem casual a prova d agua em oxford se torna bolsa de mao alex",
+      "url": "https://shopee.com.br/product/400311012/22693059376",
+      "affiliate_url": "https://s.shopee.com.br/5q7a6beKt5",
+      "category": "Marisa.store",
+      "bucket": "bolsas",
+      "posted_ts": 1787487462,
+      "posted_at": "2026-08-23T12:17:42.277506+00:00",
+      "score": 115.19
+    },
+    {
+      "key": "shopee:58209895415",
+      "marketplace": "shopee",
+      "id": "58209895415",
+      "title": "Mochila de Viagem Masculina e Feminina Impermeável e Reforçada com Compartimento para Notebook",
+      "title_norm": "mochila de viagem masculina e feminina impermeavel e reforcada com compartimento para notebook",
+      "url": "https://shopee.com.br/product/1789754785/58209895415",
+      "affiliate_url": "https://s.shopee.com.br/7KwNtMYcqO",
+      "category": "Solperk",
+      "bucket": "informatica",
+      "posted_ts": 1787487397,
+      "posted_at": "2026-08-23T12:16:37.947285+00:00",
+      "score": 135.0
+    },
+    {
       "key": "mercadolivre:MLB3900697873",
       "marketplace": "mercadolivre",
       "id": "MLB3900697873",
@@ -13943,63 +13999,7 @@
       "posted_ts": 1786756666,
       "posted_at": "2026-08-15T01:17:46.703925+00:00",
       "score": 139.27
-    },
-    {
-      "key": "shopee:18499853587",
-      "marketplace": "shopee",
-      "id": "18499853587",
-      "title": "Carregador Portátil 5000Mah Sem fio Para iPhone Indução Bateria Carga",
-      "title_norm": "carregador portatil 5000mah sem fio para iphone inducao bateria carga",
-      "url": "https://shopee.com.br/product/1103946075/18499853587",
-      "affiliate_url": "https://s.shopee.com.br/qihzNTSTX",
-      "category": "JX VERDE",
-      "bucket": "celulares",
-      "posted_ts": 1786756602,
-      "posted_at": "2026-08-15T01:16:42.679212+00:00",
-      "score": 139.95
-    },
-    {
-      "key": "mercadolivre:MLB4266241495",
-      "marketplace": "mercadolivre",
-      "id": "MLB4266241495",
-      "title": "Absorvente Mulher Ativa Com Abas Kit 80 Pacotes Gel Super Absorvente",
-      "title_norm": "absorvente mulher ativa com abas kit 80 pacotes gel super absorvente",
-      "url": "https://www.mercadolivre.com.br/p/MLB43806010?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB43806010?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "category": "Moda Feminina",
-      "bucket": "moda_feminina",
-      "posted_ts": 1786756184,
-      "posted_at": "2026-08-15T01:09:44.641080+00:00",
-      "score": 88.0
-    },
-    {
-      "key": "mercadolivre:MLB3667109301",
-      "marketplace": "mercadolivre",
-      "id": "MLB3667109301",
-      "title": "Shampoo Infantil 400ml Buba Care",
-      "title_norm": "shampoo infantil 400ml buba care",
-      "url": "https://www.mercadolivre.com.br/p/MLB29671809?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB29671809?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "category": "Beleza",
-      "bucket": "beleza",
-      "posted_ts": 1786756119,
-      "posted_at": "2026-08-15T01:08:39.565764+00:00",
-      "score": 88.0
-    },
-    {
-      "key": "mercadolivre:MLB6660297382",
-      "marketplace": "mercadolivre",
-      "id": "MLB6660297382",
-      "title": "Preparo Essência Amaciante Roupas Concentrado Perfume",
-      "title_norm": "preparo essencia amaciante roupas concentrado perfume",
-      "url": "https://www.mercadolivre.com.br/p/MLB67844007?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB67844007?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "category": "Supermercados",
-      "bucket": "beleza",
-      "posted_ts": 1786756055,
-      "posted_at": "2026-08-15T01:07:35.345585+00:00",
-      "score": 114.0
     }
   ],
-  "updated_at": "2026-08-23T12:04:16.000975+00:00"
+  "updated_at": "2026-08-23T12:19:59.058033+00:00"
 }
