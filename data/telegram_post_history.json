@@ -1,6 +1,76 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB7059191208",
+      "marketplace": "mercadolivre",
+      "id": "MLB7059191208",
+      "title": "Boneca Sophia Deluxe com Roupa Academia Unicórnio 24cm Sunny",
+      "title_norm": "boneca sophia deluxe com roupa academia unicornio 24cm sunny",
+      "url": "https://www.mercadolivre.com.br/p/MLB38422370?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB38422370?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Esportes",
+      "bucket": "esportes",
+      "posted_ts": 1787454435,
+      "posted_at": "2026-08-23T03:07:15.881920+00:00",
+      "score": 88.0
+    },
+    {
+      "key": "mercadolivre:MLB6908437380",
+      "marketplace": "mercadolivre",
+      "id": "MLB6908437380",
+      "title": "Kit 7 Shorts Feminino Modelador Selene Levanta Bumbum Cor Bege Tamanho M",
+      "title_norm": "kit 7 shorts feminino modelador selene levanta bumbum cor bege tamanho m",
+      "url": "https://www.mercadolivre.com.br/p/MLB72674383?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB72674383?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Moda Feminina",
+      "bucket": "moda_feminina",
+      "posted_ts": 1787454371,
+      "posted_at": "2026-08-23T03:06:11.940128+00:00",
+      "score": 97.67
+    },
+    {
+      "key": "mercadolivre:MLB5941366026",
+      "marketplace": "mercadolivre",
+      "id": "MLB5941366026",
+      "title": "Shorts Feminino Sem Costura Loba Plus Size Redutor Tamanho XXG Sortido",
+      "title_norm": "shorts feminino sem costura loba plus size redutor tamanho xxg sortido",
+      "url": "https://www.mercadolivre.com.br/p/MLB62222654?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB62222654?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Moda Feminina",
+      "bucket": "moda_feminina",
+      "posted_ts": 1787454308,
+      "posted_at": "2026-08-23T03:05:08.047062+00:00",
+      "score": 100.54
+    },
+    {
+      "key": "mercadolivre:MLB4637663771",
+      "marketplace": "mercadolivre",
+      "id": "MLB4637663771",
+      "title": "Blusa Fitness Feminina Ausare Para Academia de Poliamida Dry Fit",
+      "title_norm": "blusa fitness feminina ausare para academia de poliamida dry fit",
+      "url": "https://www.mercadolivre.com.br/p/MLB68415141?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB68415141?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Esportes",
+      "bucket": "esportes",
+      "posted_ts": 1787454244,
+      "posted_at": "2026-08-23T03:04:04.097299+00:00",
+      "score": 155.15
+    },
+    {
+      "key": "mercadolivre:MLB4663936327",
+      "marketplace": "mercadolivre",
+      "id": "MLB4663936327",
+      "title": "Calça Legging Feminina Ausare de Compressão Média com UV50+ e Cós Alto para Academia",
+      "title_norm": "calca legging feminina ausare de compressao media com uv50 e cos alto para academia",
+      "url": "https://www.mercadolivre.com.br/p/MLB69276350?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB69276350?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Moda Feminina",
+      "bucket": "moda_feminina",
+      "posted_ts": 1787454180,
+      "posted_at": "2026-08-23T03:03:00.040538+00:00",
+      "score": 168.67
+    },
+    {
       "key": "shopee:23599239610",
       "marketplace": "shopee",
       "id": "23599239610",
@@ -13735,5 +13805,5 @@
       "score": 130.19
     }
   ],
-  "updated_at": "2026-08-23T02:18:54.738794+00:00"
+  "updated_at": "2026-08-23T03:07:15.881933+00:00"
 }
