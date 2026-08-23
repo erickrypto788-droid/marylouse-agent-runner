@@ -1,6 +1,34 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB4864941673",
+      "marketplace": "mercadolivre",
+      "id": "MLB4864941673",
+      "title": "Babá Eletrônica Hellobaby Hb66pro Monitor Bebê 3.2 White",
+      "title_norm": "baba eletronica hellobaby hb66pro monitor bebe 3 2 white",
+      "url": "https://www.mercadolivre.com.br/p/MLB51893724?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB51893724?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Informática",
+      "bucket": "informatica",
+      "posted_ts": 1787501027,
+      "posted_at": "2026-08-23T16:03:47.179346+00:00",
+      "score": 86.0
+    },
+    {
+      "key": "mercadolivre:MLB7284866408",
+      "marketplace": "mercadolivre",
+      "id": "MLB7284866408",
+      "title": "Tchauzinho, Fralda! - Melhoramentos",
+      "title_norm": "tchauzinho fralda melhoramentos",
+      "url": "https://www.mercadolivre.com.br/p/MLB40540370?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB40540370?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Mãe e Bebê",
+      "bucket": "fraldas",
+      "posted_ts": 1787500958,
+      "posted_at": "2026-08-23T16:02:38.151299+00:00",
+      "score": 114.0
+    },
+    {
       "key": "shopee:22699461893",
       "marketplace": "shopee",
       "id": "22699461893",
@@ -13971,35 +13999,7 @@
       "posted_ts": 1786764058,
       "posted_at": "2026-08-15T03:20:58.127152+00:00",
       "score": 98.01
-    },
-    {
-      "key": "shopee:23994387054",
-      "marketplace": "shopee",
-      "id": "23994387054",
-      "title": "Kit Dupla Renovadores Faciais Kokeshi Pele Porcelana Olhos Gueixa",
-      "title_norm": "kit dupla renovadores faciais kokeshi pele porcelana olhos gueixa",
-      "url": "https://shopee.com.br/product/395166866/23994387054",
-      "affiliate_url": "https://s.shopee.com.br/904Pqd3Cqf",
-      "category": "KOKESHI OFICIAL",
-      "bucket": "kokeshi_oficial",
-      "posted_ts": 1786763994,
-      "posted_at": "2026-08-15T03:19:54.198532+00:00",
-      "score": 98.01
-    },
-    {
-      "key": "shopee:18597746989",
-      "marketplace": "shopee",
-      "id": "18597746989",
-      "title": "Prancha Triondas Ondulador Formador Triplo 22mm Modelador de Cachos Onda Cabelo Cerâmica Para Longo E Curto 200",
-      "title_norm": "prancha triondas ondulador formador triplo 22mm modelador de cachos onda cabelo ceramica para longo e curto 200",
-      "url": "https://shopee.com.br/product/1060793149/18597746989",
-      "affiliate_url": "https://s.shopee.com.br/4AzA5k8PJL",
-      "category": "Pinduoduo Store",
-      "bucket": "pinduoduo_store",
-      "posted_ts": 1786763930,
-      "posted_at": "2026-08-15T03:18:50.306456+00:00",
-      "score": 107.2
     }
   ],
-  "updated_at": "2026-08-23T15:20:59.794828+00:00"
+  "updated_at": "2026-08-23T16:03:47.179365+00:00"
 }
