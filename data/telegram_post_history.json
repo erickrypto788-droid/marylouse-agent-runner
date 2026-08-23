@@ -1,6 +1,34 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB4694661245",
+      "marketplace": "mercadolivre",
+      "id": "MLB4694661245",
+      "title": "Comedouro Elevado Duplo Ração Gato Porcelana Acrilico 190ml Porta Racao Gato Comedouro Rosa",
+      "title_norm": "comedouro elevado duplo racao gato porcelana acrilico 190ml porta racao gato comedouro rosa",
+      "url": "https://www.mercadolivre.com.br/p/MLB67529462?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB67529462?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Pet",
+      "bucket": "pet",
+      "posted_ts": 1787497397,
+      "posted_at": "2026-08-23T15:03:17.717992+00:00",
+      "score": 146.91
+    },
+    {
+      "key": "mercadolivre:MLB4719617285",
+      "marketplace": "mercadolivre",
+      "id": "MLB4719617285",
+      "title": "Ração Gato Estimacat Premium Adulto Sabor Carne 15kg",
+      "title_norm": "racao gato estimacat premium adulto sabor carne 15kg",
+      "url": "https://www.mercadolivre.com.br/p/MLB66541712?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB66541712?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Pet",
+      "bucket": "pet",
+      "posted_ts": 1787497333,
+      "posted_at": "2026-08-23T15:02:13.774511+00:00",
+      "score": 154.83
+    },
+    {
       "key": "shopee:54052225033",
       "marketplace": "shopee",
       "id": "54052225033",
@@ -13971,35 +13999,7 @@
       "posted_ts": 1786760388,
       "posted_at": "2026-08-15T02:19:48.843690+00:00",
       "score": 88.7
-    },
-    {
-      "key": "shopee:21765031787",
-      "marketplace": "shopee",
-      "id": "21765031787",
-      "title": "Pipoqueira Elétrica Sem Óleo 1200W Máquina de Pipoca 110V / 220V",
-      "title_norm": "pipoqueira eletrica sem oleo 1200w maquina de pipoca 110v 220v",
-      "url": "https://shopee.com.br/product/611978835/21765031787",
-      "affiliate_url": "https://s.shopee.com.br/7psSOMnOTY",
-      "category": "LI_SHOP",
-      "bucket": "li_shop",
-      "posted_ts": 1786760324,
-      "posted_at": "2026-08-15T02:18:44.830918+00:00",
-      "score": 110.75
-    },
-    {
-      "key": "shopee:20298661096",
-      "marketplace": "shopee",
-      "id": "20298661096",
-      "title": "Aspirador de Pó Vertical Britânia 2 em 1 1200W BAS1200C",
-      "title_norm": "aspirador de po vertical britania 2 em 1 1200w bas1200c",
-      "url": "https://shopee.com.br/product/811879342/20298661096",
-      "affiliate_url": "https://s.shopee.com.br/8V89BagFYi",
-      "category": "Britânia Oficial",
-      "bucket": "casa_cozinha",
-      "posted_ts": 1786760260,
-      "posted_at": "2026-08-15T02:17:40.854711+00:00",
-      "score": 118.65
     }
   ],
-  "updated_at": "2026-08-23T14:18:52.930504+00:00"
+  "updated_at": "2026-08-23T15:03:17.718005+00:00"
 }
