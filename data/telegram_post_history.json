@@ -1,6 +1,48 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB6978080348",
+      "marketplace": "mercadolivre",
+      "id": "MLB6978080348",
+      "title": "Impressora Etiquetas Monocromática Toledo Prix IT400M USB",
+      "title_norm": "impressora etiquetas monocromatica toledo prix it400m usb",
+      "url": "https://www.mercadolivre.com.br/p/MLB46173110?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB46173110?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Informática",
+      "bucket": "informatica",
+      "posted_ts": 1787504684,
+      "posted_at": "2026-08-23T17:04:44.204985+00:00",
+      "score": 86.0
+    },
+    {
+      "key": "mercadolivre:MLB5201599262",
+      "marketplace": "mercadolivre",
+      "id": "MLB5201599262",
+      "title": "Ribbon Resina Mastercorp 110x300 Para Impressora Etiquetas BOPP Vinil",
+      "title_norm": "ribbon resina mastercorp 110x300 para impressora etiquetas bopp vinil",
+      "url": "https://www.mercadolivre.com.br/p/MLB44215301?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB44215301?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Informática",
+      "bucket": "informatica",
+      "posted_ts": 1787504620,
+      "posted_at": "2026-08-23T17:03:40.197270+00:00",
+      "score": 95.67
+    },
+    {
+      "key": "mercadolivre:MLB3929416863",
+      "marketplace": "mercadolivre",
+      "id": "MLB3929416863",
+      "title": "Impressora Etiquetas Logistica Código De Barras Usb",
+      "title_norm": "impressora etiquetas logistica codigo de barras usb",
+      "url": "https://www.mercadolivre.com.br/p/MLB39019401?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB39019401?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Informática",
+      "bucket": "informatica",
+      "posted_ts": 1787504556,
+      "posted_at": "2026-08-23T17:02:36.151334+00:00",
+      "score": 110.48
+    },
+    {
       "key": "shopee:43667445132",
       "marketplace": "shopee",
       "id": "43667445132",
@@ -13957,49 +13999,7 @@
       "posted_ts": 1786770297,
       "posted_at": "2026-08-15T05:04:57.511539+00:00",
       "score": 61.0
-    },
-    {
-      "key": "mercadolivre:MLB6815537068",
-      "marketplace": "mercadolivre",
-      "id": "MLB6815537068",
-      "title": "Bike Spinning Ergométrica Cor Preto",
-      "title_norm": "bike spinning ergometrica cor preto",
-      "url": "https://www.mercadolivre.com.br/p/MLB36405300?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB36405300?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "category": "Esportes",
-      "bucket": "esportes",
-      "posted_ts": 1786770230,
-      "posted_at": "2026-08-15T05:03:50.977555+00:00",
-      "score": 83.0
-    },
-    {
-      "key": "mercadolivre:MLB7413449820",
-      "marketplace": "mercadolivre",
-      "id": "MLB7413449820",
-      "title": "Prateado corda de aço corda cross corda pular 3m corda ajustavel corda pular fitness corda crossfit corda pular profissional treino exercicio emagrecimento academia casa ginastica velocidade agilidade",
-      "title_norm": "prateado corda de aco corda cross corda pular 3m corda ajustavel corda pular fitness corda crossfit corda pular profissional treino exercicio emagrecimento academia casa ginastica velocidade agilidade",
-      "url": "https://www.mercadolivre.com.br/p/MLB75079191?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB75079191?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "category": "Esportes",
-      "bucket": "esportes",
-      "posted_ts": 1786770152,
-      "posted_at": "2026-08-15T05:02:32.291014+00:00",
-      "score": 146.9
-    },
-    {
-      "key": "shopee:21639028953",
-      "marketplace": "shopee",
-      "id": "21639028953",
-      "title": "Kidstep Tenis Infantil Feminino Casual Preto Com Pink",
-      "title_norm": "kidstep tenis infantil feminino casual preto com pink",
-      "url": "https://shopee.com.br/product/376576138/21639028953",
-      "affiliate_url": "https://s.shopee.com.br/AUtDhVZDBa",
-      "category": "KidstepCalcados",
-      "bucket": "calcados",
-      "posted_ts": 1786767663,
-      "posted_at": "2026-08-15T04:21:03.026618+00:00",
-      "score": 111.39
     }
   ],
-  "updated_at": "2026-08-23T16:21:02.619920+00:00"
+  "updated_at": "2026-08-23T17:04:44.205000+00:00"
 }
