@@ -1,6 +1,34 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB4455480129",
+      "marketplace": "mercadolivre",
+      "id": "MLB4455480129",
+      "title": "Soundbar Samsung Hw-b400f + Soundbar Hw-b400f Preto",
+      "title_norm": "soundbar samsung hw b400f soundbar hw b400f preto",
+      "url": "https://www.mercadolivre.com.br/p/MLB65128982?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB65128982?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Informática",
+      "bucket": "informatica",
+      "posted_ts": 1787483024,
+      "posted_at": "2026-08-23T11:03:44.867263+00:00",
+      "score": 104.0
+    },
+    {
+      "key": "mercadolivre:MLB4455473269",
+      "marketplace": "mercadolivre",
+      "id": "MLB4455473269",
+      "title": "Soundbar Samsung Hw-b450f + Soundbar Hw-b400f",
+      "title_norm": "soundbar samsung hw b450f soundbar hw b400f",
+      "url": "https://www.mercadolivre.com.br/p/MLB65128496?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB65128496?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Informática",
+      "bucket": "informatica",
+      "posted_ts": 1787482951,
+      "posted_at": "2026-08-23T11:02:31.263074+00:00",
+      "score": 104.0
+    },
+    {
       "key": "shopee:23693177961",
       "marketplace": "shopee",
       "id": "23693177961",
@@ -13971,35 +13999,7 @@
       "posted_ts": 1786749399,
       "posted_at": "2026-08-14T23:16:39.251664+00:00",
       "score": 123.97
-    },
-    {
-      "key": "mercadolivre:MLB4856179667",
-      "marketplace": "mercadolivre",
-      "id": "MLB4856179667",
-      "title": "Mini Impressora Niimbot B1 etiqueta Bluetooth Cor Prateado impressora etiquetas adesivas",
-      "title_norm": "mini impressora niimbot b1 etiqueta bluetooth cor prateado impressora etiquetas adesivas",
-      "url": "https://www.mercadolivre.com.br/p/MLB57578486?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB57578486?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "category": "Informática",
-      "bucket": "informatica",
-      "posted_ts": 1786748559,
-      "posted_at": "2026-08-14T23:02:39.362028+00:00",
-      "score": 157.47
-    },
-    {
-      "key": "shopee:54709724279",
-      "marketplace": "shopee",
-      "id": "54709724279",
-      "title": "Vestido Midi Feminino Alfaiataria Amarração Lateral Elegante Social Casamento Festa Formatura P M G GG G1 G2 Plus Size",
-      "title_norm": "vestido midi feminino alfaiataria amarracao lateral elegante social casamento festa formatura p m g gg g1 g2 plus size",
-      "url": "https://shopee.com.br/product/368500901/54709724279",
-      "affiliate_url": "https://s.shopee.com.br/AKZlhwb33A",
-      "category": "N.A MULTIMARCAS",
-      "bucket": "pet",
-      "posted_ts": 1786746075,
-      "posted_at": "2026-08-14T22:21:15.139365+00:00",
-      "score": 110.02
     }
   ],
-  "updated_at": "2026-08-23T10:21:13.399231+00:00"
+  "updated_at": "2026-08-23T11:03:44.867284+00:00"
 }

@@ -1,6 +1,36 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB4455480129",
+      "product_id": "MLB4455480129",
+      "catalog_product_id": "MLB65128982",
+      "item_id": "MLB4455480129",
+      "url": "https://www.mercadolivre.com.br/p/MLB65128982?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB65128982?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "soundbar samsung hw b400f soundbar hw b400f preto",
+      "title": "Soundbar Samsung Hw-b400f + Soundbar Hw-b400f Preto",
+      "category": "Informática",
+      "price": 2398.0,
+      "score": 104.0,
+      "posted_ts": 1787483024,
+      "posted_at": "2026-08-23T11:03:44.881657+00:00"
+    },
+    {
+      "key": "mercadolivre:MLB4455473269",
+      "product_id": "MLB4455473269",
+      "catalog_product_id": "MLB65128496",
+      "item_id": "MLB4455473269",
+      "url": "https://www.mercadolivre.com.br/p/MLB65128496?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB65128496?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "soundbar samsung hw b450f soundbar hw b400f",
+      "title": "Soundbar Samsung Hw-b450f + Soundbar Hw-b400f",
+      "category": "Informática",
+      "price": 3348.0,
+      "score": 104.0,
+      "posted_ts": 1787482951,
+      "posted_at": "2026-08-23T11:02:31.277311+00:00"
+    },
+    {
       "key": "mercadolivre:MLB4355666141",
       "product_id": "MLB4355666141",
       "catalog_product_id": "MLB47353377",
@@ -631,5 +661,5 @@
       "posted_at": "2026-08-21T22:02:47.217798+00:00"
     }
   ],
-  "updated_at": "2026-08-23T10:02:35.715712+00:00"
+  "updated_at": "2026-08-23T11:03:44.881674+00:00"
 }
