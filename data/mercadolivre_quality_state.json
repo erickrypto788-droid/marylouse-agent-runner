@@ -1,6 +1,36 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB3900697873",
+      "product_id": "MLB3900697873",
+      "catalog_product_id": "MLB41629336",
+      "item_id": "MLB3900697873",
+      "url": "https://www.mercadolivre.com.br/p/MLB41629336?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB41629336?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "smartphone xiaomi redmi 13 cor azul marinho",
+      "title": "Smartphone Xiaomi Redmi 13 Cor Azul-marinho",
+      "category": "Informática",
+      "price": 1337.4,
+      "score": 127.0,
+      "posted_ts": 1787486656,
+      "posted_at": "2026-08-23T12:04:16.014012+00:00"
+    },
+    {
+      "key": "mercadolivre:MLB6834381736",
+      "product_id": "MLB6834381736",
+      "catalog_product_id": "MLB61421090",
+      "item_id": "MLB6834381736",
+      "url": "https://www.mercadolivre.com.br/p/MLB61421090?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB61421090?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "smartphone xiaomi redmi 15c 256gb global azul",
+      "title": "Smartphone Xiaomi Redmi 15c 256gb Global Azul",
+      "category": "Informática",
+      "price": 1229.0,
+      "score": 127.0,
+      "posted_ts": 1787486588,
+      "posted_at": "2026-08-23T12:03:08.473190+00:00"
+    },
+    {
       "key": "mercadolivre:MLB4455480129",
       "product_id": "MLB4455480129",
       "catalog_product_id": "MLB65128982",
@@ -661,5 +691,5 @@
       "posted_at": "2026-08-21T22:02:47.217798+00:00"
     }
   ],
-  "updated_at": "2026-08-23T11:03:44.881674+00:00"
+  "updated_at": "2026-08-23T12:04:16.014021+00:00"
 }

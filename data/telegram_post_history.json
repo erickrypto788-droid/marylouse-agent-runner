@@ -1,6 +1,34 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB3900697873",
+      "marketplace": "mercadolivre",
+      "id": "MLB3900697873",
+      "title": "Smartphone Xiaomi Redmi 13 Cor Azul-marinho",
+      "title_norm": "smartphone xiaomi redmi 13 cor azul marinho",
+      "url": "https://www.mercadolivre.com.br/p/MLB41629336?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB41629336?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Informática",
+      "bucket": "celulares",
+      "posted_ts": 1787486656,
+      "posted_at": "2026-08-23T12:04:16.000961+00:00",
+      "score": 127.0
+    },
+    {
+      "key": "mercadolivre:MLB6834381736",
+      "marketplace": "mercadolivre",
+      "id": "MLB6834381736",
+      "title": "Smartphone Xiaomi Redmi 15c 256gb Global Azul",
+      "title_norm": "smartphone xiaomi redmi 15c 256gb global azul",
+      "url": "https://www.mercadolivre.com.br/p/MLB61421090?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB61421090?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Informática",
+      "bucket": "celulares",
+      "posted_ts": 1787486588,
+      "posted_at": "2026-08-23T12:03:08.459722+00:00",
+      "score": 127.0
+    },
+    {
       "key": "shopee:21032149959",
       "marketplace": "shopee",
       "id": "21032149959",
@@ -13971,35 +13999,7 @@
       "posted_ts": 1786756055,
       "posted_at": "2026-08-15T01:07:35.345585+00:00",
       "score": 114.0
-    },
-    {
-      "key": "mercadolivre:MLB5827152542",
-      "marketplace": "mercadolivre",
-      "id": "MLB5827152542",
-      "title": "Amaciante Roupas Macias Sensiv Titila 5l",
-      "title_norm": "amaciante roupas macias sensiv titila 5l",
-      "url": "https://www.mercadolivre.com.br/p/MLB60416491?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB60416491?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "category": "Supermercados",
-      "bucket": "supermercado",
-      "posted_ts": 1786755990,
-      "posted_at": "2026-08-15T01:06:30.540789+00:00",
-      "score": 134.85
-    },
-    {
-      "key": "shopee:58255239538",
-      "marketplace": "shopee",
-      "id": "58255239538",
-      "title": "BABUCHE PLATAFORMA ALTA NUVEM MACIA 100 % DECORADA COM BÓTONS PINGENTES EM ABS CONFORTÁVEL",
-      "title_norm": "babuche plataforma alta nuvem macia 100 decorada com botons pingentes em abs confortavel",
-      "url": "https://shopee.com.br/product/1509055233/58255239538",
-      "affiliate_url": "https://s.shopee.com.br/904MrD5HgO",
-      "category": "X&M Variedades",
-      "bucket": "x_m_variedades",
-      "posted_ts": 1786753129,
-      "posted_at": "2026-08-15T00:18:49.330666+00:00",
-      "score": 102.84
     }
   ],
-  "updated_at": "2026-08-23T11:21:19.520118+00:00"
+  "updated_at": "2026-08-23T12:04:16.000975+00:00"
 }
