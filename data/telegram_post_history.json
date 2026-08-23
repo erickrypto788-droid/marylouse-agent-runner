@@ -1,6 +1,48 @@
 {
   "posts": [
     {
+      "key": "shopee:23893703937",
+      "marketplace": "shopee",
+      "id": "23893703937",
+      "title": "Babuche Adulto Masculino E Feminino Personalizado",
+      "title_norm": "babuche adulto masculino e feminino personalizado",
+      "url": "https://shopee.com.br/product/1464624047/23893703937",
+      "affiliate_url": "https://s.shopee.com.br/5VUkJ5A4CY",
+      "category": "Passinhos Mágicos ",
+      "bucket": "passinhos_magicos",
+      "posted_ts": 1787447931,
+      "posted_at": "2026-08-23T01:18:51.093378+00:00",
+      "score": 99.93
+    },
+    {
+      "key": "shopee:58257600358",
+      "marketplace": "shopee",
+      "id": "58257600358",
+      "title": "Sapatenis Tenis kinit masculino  Palmilhas P.U GEL Estiloso para todas ocasiões",
+      "title_norm": "sapatenis tenis kinit masculino palmilhas p u gel estiloso para todas ocasioes",
+      "url": "https://shopee.com.br/product/1783515830/58257600358",
+      "affiliate_url": "https://s.shopee.com.br/8fRm4ttbzP",
+      "category": "IG Ferreira Calçados",
+      "bucket": "calcados",
+      "posted_ts": 1787447866,
+      "posted_at": "2026-08-23T01:17:46.997222+00:00",
+      "score": 110.97
+    },
+    {
+      "key": "shopee:43981426348",
+      "marketplace": "shopee",
+      "id": "43981426348",
+      "title": "Tenis Masculino Escolar Academia Corrida Original FREEDOM Corrida Caminhada Lançamento EXCLUSIVO CINZA GRAVITE e LARANJA",
+      "title_norm": "tenis masculino escolar academia corrida original freedom corrida caminhada lancamento exclusivo cinza gravite e laranja",
+      "url": "https://shopee.com.br/product/387523771/43981426348",
+      "affiliate_url": "https://s.shopee.com.br/6AkPq1A8lv",
+      "category": "Cirandinha Shoes",
+      "bucket": "calcados",
+      "posted_ts": 1787447802,
+      "posted_at": "2026-08-23T01:16:42.788500+00:00",
+      "score": 125.26
+    },
+    {
       "key": "mercadolivre:MLB6711242070",
       "marketplace": "mercadolivre",
       "id": "MLB6711242070",
@@ -13651,5 +13693,5 @@
       "score": 130.19
     }
   ],
-  "updated_at": "2026-08-23T01:07:21.104510+00:00"
+  "updated_at": "2026-08-23T01:18:51.093390+00:00"
 }
