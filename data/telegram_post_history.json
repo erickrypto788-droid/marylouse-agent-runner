@@ -1,6 +1,76 @@
 {
   "posts": [
     {
+      "key": "shopee:21169786825",
+      "marketplace": "shopee",
+      "id": "21169786825",
+      "title": "Fone De Ouvido Sem Fio E6s Bluetooth 5.0 Tws Com Tela LED Digital",
+      "title_norm": "fone de ouvido sem fio e6s bluetooth 5 0 tws com tela led digital",
+      "url": "https://shopee.com.br/product/874603044/21169786825",
+      "affiliate_url": "https://s.shopee.com.br/20usGtNlDh",
+      "category": "SUPER CHETO",
+      "bucket": "super_cheto",
+      "posted_ts": 1787458853,
+      "posted_at": "2026-08-23T04:20:53.721587+00:00",
+      "score": 51.87
+    },
+    {
+      "key": "shopee:43781714813",
+      "marketplace": "shopee",
+      "id": "43781714813",
+      "title": "Fone De Ouvido Inpods 13 Bluetooth Sem Fio Com Microfone Fones esportivos Adequado Branco",
+      "title_norm": "fone de ouvido inpods 13 bluetooth sem fio com microfone fones esportivos adequado branco",
+      "url": "https://shopee.com.br/product/1378634997/43781714813",
+      "affiliate_url": "https://s.shopee.com.br/8KovoWzeMk",
+      "category": "LOJA_DO_POVO.br",
+      "bucket": "loja_do_povo_br",
+      "posted_ts": 1787458789,
+      "posted_at": "2026-08-23T04:19:49.753899+00:00",
+      "score": 101.79
+    },
+    {
+      "key": "shopee:58255641529",
+      "marketplace": "shopee",
+      "id": "58255641529",
+      "title": "Fone Pro Sem Fio Som HiFi 8D Pop-Up Automático Toque Inteligente Bateria 5–7h Bluetooth Universal",
+      "title_norm": "fone pro sem fio som hifi 8d pop up automatico toque inteligente bateria 5 7h bluetooth universal",
+      "url": "https://shopee.com.br/product/1620481153/58255641529",
+      "affiliate_url": "https://s.shopee.com.br/2BEITCN7si",
+      "category": "Achados&Pedidos",
+      "bucket": "achados_pedidos",
+      "posted_ts": 1787458725,
+      "posted_at": "2026-08-23T04:18:45.747845+00:00",
+      "score": 102.27
+    },
+    {
+      "key": "shopee:58255159172",
+      "marketplace": "shopee",
+      "id": "58255159172",
+      "title": "Fones de ouvido sem fio Bluetooth compactos Xiaomi Redmi Airdots com Estojo Recarregável",
+      "title_norm": "fones de ouvido sem fio bluetooth compactos xiaomi redmi airdots com estojo recarregavel",
+      "url": "https://shopee.com.br/product/1382685526/58255159172",
+      "affiliate_url": "https://s.shopee.com.br/AKa0CCs2J4",
+      "category": "YNC COMERCIO LTDA",
+      "bucket": "celulares",
+      "posted_ts": 1787458661,
+      "posted_at": "2026-08-23T04:17:41.777918+00:00",
+      "score": 138.52
+    },
+    {
+      "key": "shopee:23399043568",
+      "marketplace": "shopee",
+      "id": "23399043568",
+      "title": "Fone Bluetooth Pro5 Premium | Imersão Total c Cancelamento Ruído Qualidade Superior p iPhoneAndroid",
+      "title_norm": "fone bluetooth pro5 premium imersao total c cancelamento ruido qualidade superior p iphoneandroid",
+      "url": "https://shopee.com.br/product/976285267/23399043568",
+      "affiliate_url": "https://s.shopee.com.br/AAGZztsfe1",
+      "category": "TOP SELECAO",
+      "bucket": "celulares",
+      "posted_ts": 1787458597,
+      "posted_at": "2026-08-23T04:16:37.798694+00:00",
+      "score": 139.27
+    },
+    {
       "key": "mercadolivre:MLB5331790354",
       "marketplace": "mercadolivre",
       "id": "MLB5331790354",
@@ -13847,5 +13917,5 @@
       "score": 130.19
     }
   ],
-  "updated_at": "2026-08-23T04:04:52.856076+00:00"
+  "updated_at": "2026-08-23T04:20:53.721599+00:00"
 }
