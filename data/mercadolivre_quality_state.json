@@ -1,6 +1,51 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB6711242070",
+      "product_id": "MLB6711242070",
+      "catalog_product_id": "MLB68578906",
+      "item_id": "MLB6711242070",
+      "url": "https://www.mercadolivre.com.br/p/MLB68578906?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB68578906?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "bepantol baby pomada assadura bebe hipoalergenica 200g",
+      "title": "Bepantol Baby Pomada Assadura Bebe Hipoalergênica, 200g",
+      "category": "Mãe e Bebê",
+      "price": 109.9,
+      "score": 89.0,
+      "posted_ts": 1787447241,
+      "posted_at": "2026-08-23T01:07:21.117355+00:00"
+    },
+    {
+      "key": "mercadolivre:MLB2824485824",
+      "product_id": "MLB2824485824",
+      "catalog_product_id": "MLB19638787",
+      "item_id": "MLB2824485824",
+      "url": "https://www.mercadolivre.com.br/p/MLB19638787?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB19638787?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "creme dental ozonizado philozon 90g",
+      "title": "Creme Dental Ozonizado Philozon 90g",
+      "category": "Supermercados",
+      "price": 33.9,
+      "score": 90.54,
+      "posted_ts": 1787447177,
+      "posted_at": "2026-08-23T01:06:17.109654+00:00"
+    },
+    {
+      "key": "mercadolivre:MLB4189107767",
+      "product_id": "MLB4189107767",
+      "catalog_product_id": "MLB54332454",
+      "item_id": "MLB4189107767",
+      "url": "https://www.mercadolivre.com.br/p/MLB54332454?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB54332454?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "azeite oliva extra virgem italiano 500ml mercatto",
+      "title": "Azeite Oliva Extra Virgem Italiano 500ml Mercatto",
+      "category": "Supermercados",
+      "price": 46.68,
+      "score": 135.18,
+      "posted_ts": 1787447111,
+      "posted_at": "2026-08-23T01:05:11.741462+00:00"
+    },
+    {
       "key": "mercadolivre:MLB7304557416",
       "product_id": "MLB7304557416",
       "catalog_product_id": "MLB76169813",
@@ -389,37 +434,7 @@
       "score": 99.38,
       "posted_ts": 1787349767,
       "posted_at": "2026-08-21T22:02:47.217798+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB4919350217",
-      "product_id": "MLB4919350217",
-      "catalog_product_id": "MLB19198314",
-      "item_id": "MLB4919350217",
-      "url": "https://www.mercadolivre.com.br/p/MLB19198314?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB19198314?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "tchau chupeta",
-      "title": "Tchau, Chupeta",
-      "category": "Mãe e Bebê",
-      "price": 89.7,
-      "score": 89.0,
-      "posted_ts": 1787263691,
-      "posted_at": "2026-08-20T22:08:11.904819+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB7173723934",
-      "product_id": "MLB7173723934",
-      "catalog_product_id": "MLB21853434",
-      "item_id": "MLB7173723934",
-      "url": "https://www.mercadolivre.com.br/p/MLB21853434?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB21853434?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "fralda pampers pants ajuste total xxg com 120un",
-      "title": "Fralda Pampers Pants Ajuste Total Xxg Com 120un",
-      "category": "Mãe e Bebê",
-      "price": 349.0,
-      "score": 112.0,
-      "posted_ts": 1787263622,
-      "posted_at": "2026-08-20T22:07:02.857510+00:00"
     }
   ],
-  "updated_at": "2026-08-22T21:02:21.943322+00:00"
+  "updated_at": "2026-08-23T01:07:21.117366+00:00"
 }

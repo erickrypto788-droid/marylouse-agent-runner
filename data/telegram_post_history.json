@@ -1,6 +1,48 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB6711242070",
+      "marketplace": "mercadolivre",
+      "id": "MLB6711242070",
+      "title": "Bepantol Baby Pomada Assadura Bebe Hipoalergênica, 200g",
+      "title_norm": "bepantol baby pomada assadura bebe hipoalergenica 200g",
+      "url": "https://www.mercadolivre.com.br/p/MLB68578906?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB68578906?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Mãe e Bebê",
+      "bucket": "mae_e_bebe",
+      "posted_ts": 1787447241,
+      "posted_at": "2026-08-23T01:07:21.104492+00:00",
+      "score": 89.0
+    },
+    {
+      "key": "mercadolivre:MLB2824485824",
+      "marketplace": "mercadolivre",
+      "id": "MLB2824485824",
+      "title": "Creme Dental Ozonizado Philozon 90g",
+      "title_norm": "creme dental ozonizado philozon 90g",
+      "url": "https://www.mercadolivre.com.br/p/MLB19638787?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB19638787?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Supermercados",
+      "bucket": "supermercados",
+      "posted_ts": 1787447177,
+      "posted_at": "2026-08-23T01:06:17.097018+00:00",
+      "score": 90.54
+    },
+    {
+      "key": "mercadolivre:MLB4189107767",
+      "marketplace": "mercadolivre",
+      "id": "MLB4189107767",
+      "title": "Azeite Oliva Extra Virgem Italiano 500ml Mercatto",
+      "title_norm": "azeite oliva extra virgem italiano 500ml mercatto",
+      "url": "https://www.mercadolivre.com.br/p/MLB54332454?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB54332454?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Supermercados",
+      "bucket": "supermercado",
+      "posted_ts": 1787447111,
+      "posted_at": "2026-08-23T01:05:11.728204+00:00",
+      "score": 135.18
+    },
+    {
       "key": "shopee:58254354411",
       "marketplace": "shopee",
       "id": "58254354411",
@@ -13609,5 +13651,5 @@
       "score": 130.19
     }
   ],
-  "updated_at": "2026-08-23T00:20:16.965263+00:00"
+  "updated_at": "2026-08-23T01:07:21.104510+00:00"
 }
