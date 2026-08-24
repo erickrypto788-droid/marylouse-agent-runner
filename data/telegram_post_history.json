@@ -1,6 +1,48 @@
 {
   "posts": [
     {
+      "key": "shopee:23099137392",
+      "marketplace": "shopee",
+      "id": "23099137392",
+      "title": "Protetor Solar Facial FPS 60 Antioleosidade com Base Efeito Matte Sunless 40g Envio Imediato",
+      "title_norm": "protetor solar facial fps 60 antioleosidade com base efeito matte sunless 40g envio imediato",
+      "url": "https://shopee.com.br/product/1533394801/23099137392",
+      "affiliate_url": "https://s.shopee.com.br/1qbTXExaqp",
+      "category": "LaVitta Health",
+      "bucket": "lavitta_health",
+      "posted_ts": 1787534334,
+      "posted_at": "2026-08-24T01:18:54.024691+00:00",
+      "score": 94.02
+    },
+    {
+      "key": "shopee:58264684239",
+      "marketplace": "shopee",
+      "id": "58264684239",
+      "title": "Kit Clareador Facial - Sabonete Líquido + Protetor Solar Clareador 70 FPS + Sérum Multicorretivo Clareador",
+      "title_norm": "kit clareador facial sabonete liquido protetor solar clareador 70 fps serum multicorretivo clareador",
+      "url": "https://shopee.com.br/product/1860098702/58264684239",
+      "affiliate_url": "https://s.shopee.com.br/9pdjneIkz2",
+      "category": "Hidrabene ",
+      "bucket": "supermercado",
+      "posted_ts": 1787534269,
+      "posted_at": "2026-08-24T01:17:49.971172+00:00",
+      "score": 109.56
+    },
+    {
+      "key": "shopee:20599198575",
+      "marketplace": "shopee",
+      "id": "20599198575",
+      "title": "Chapinha Prancha Cabelo Profissional Nano Titanium 450F BIVOLT",
+      "title_norm": "chapinha prancha cabelo profissional nano titanium 450f bivolt",
+      "url": "https://shopee.com.br/product/391739739/20599198575",
+      "affiliate_url": "https://s.shopee.com.br/60R2UtQ8I1",
+      "category": "ANJ.GG store",
+      "bucket": "beleza",
+      "posted_ts": 1787534201,
+      "posted_at": "2026-08-24T01:16:41.387531+00:00",
+      "score": 139.66
+    },
+    {
       "key": "mercadolivre:MLB4750057565",
       "marketplace": "mercadolivre",
       "id": "MLB4750057565",
@@ -13957,49 +13999,7 @@
       "posted_ts": 1786799856,
       "posted_at": "2026-08-15T13:17:36.839630+00:00",
       "score": 135.76
-    },
-    {
-      "key": "shopee:22893392542",
-      "marketplace": "shopee",
-      "id": "22893392542",
-      "title": "Filtro Coador De Café Inox 103 - Com Pegador em Silicone - Peneira Aço Reutilizável  - CH",
-      "title_norm": "filtro coador de cafe inox 103 com pegador em silicone peneira aco reutilizavel ch",
-      "url": "https://shopee.com.br/product/1367299138/22893392542",
-      "affiliate_url": "https://s.shopee.com.br/5ArhwmXBKs",
-      "category": "Chaicommerce",
-      "bucket": "chaicommerce",
-      "posted_ts": 1786799792,
-      "posted_at": "2026-08-15T13:16:32.860997+00:00",
-      "score": 135.76
-    },
-    {
-      "key": "mercadolivre:MLB3001466030",
-      "marketplace": "mercadolivre",
-      "id": "MLB3001466030",
-      "title": "Aparelho Monitor Pressão Arterial Portátil Pulso Omron",
-      "title_norm": "aparelho monitor pressao arterial portatil pulso omron",
-      "url": "https://www.mercadolivre.com.br/p/MLB22958206?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB22958206?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "category": "Informática",
-      "bucket": "saude",
-      "posted_ts": 1786798933,
-      "posted_at": "2026-08-15T13:02:13.918865+00:00",
-      "score": 88.0
-    },
-    {
-      "key": "shopee:51102460198",
-      "marketplace": "shopee",
-      "id": "51102460198",
-      "title": "Mesa Escrivaninha Gamer para Computador PC Athenas com Nicho CPU Home Office Setup para 2 Monitores",
-      "title_norm": "mesa escrivaninha gamer para computador pc athenas com nicho cpu home office setup para 2 monitores",
-      "url": "https://shopee.com.br/product/402598512/51102460198",
-      "affiliate_url": "https://s.shopee.com.br/qiiihl5nC",
-      "category": "Max Do Brasil",
-      "bucket": "max_do_brasil",
-      "posted_ts": 1786796453,
-      "posted_at": "2026-08-15T12:20:53.501840+00:00",
-      "score": 97.83
     }
   ],
-  "updated_at": "2026-08-24T01:02:34.082391+00:00"
+  "updated_at": "2026-08-24T01:18:54.024705+00:00"
 }
