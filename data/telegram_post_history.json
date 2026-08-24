@@ -1,6 +1,48 @@
 {
   "posts": [
     {
+      "key": "shopee:23699380722",
+      "marketplace": "shopee",
+      "id": "23699380722",
+      "title": "mega promoção queima de estoque Sandália Saltinho 4 cm Tira de Strass Brilho Nó Calce Fácil l elegante dia a dia",
+      "title_norm": "mega promocao queima de estoque sandalia saltinho 4 cm tira de strass brilho no calce facil l elegante dia a dia",
+      "url": "https://shopee.com.br/product/1718568808/23699380722",
+      "affiliate_url": "https://s.shopee.com.br/2gAbeoMA3U",
+      "category": "AllureCalçados",
+      "bucket": "calcados",
+      "posted_ts": 1787595537,
+      "posted_at": "2026-08-24T18:18:57.170638+00:00",
+      "score": 100.85
+    },
+    {
+      "key": "shopee:23393830955",
+      "marketplace": "shopee",
+      "id": "23393830955",
+      "title": "Sapato GiGiL Feminino Scarpin Slingback Bico Fino Salto Fino Verniz Onça Clássico Elegante",
+      "title_norm": "sapato gigil feminino scarpin slingback bico fino salto fino verniz onca classico elegante",
+      "url": "https://shopee.com.br/product/387348115/23393830955",
+      "affiliate_url": "https://s.shopee.com.br/30nS3QKtNa",
+      "category": "GiGiL",
+      "bucket": "calcados",
+      "posted_ts": 1787595472,
+      "posted_at": "2026-08-24T18:17:52.903837+00:00",
+      "score": 113.78
+    },
+    {
+      "key": "shopee:23494198405",
+      "marketplace": "shopee",
+      "id": "23494198405",
+      "title": "Papete feminina Pérolas de strass de luxo sandália diferente feminina com fivela",
+      "title_norm": "papete feminina perolas de strass de luxo sandalia diferente feminina com fivela",
+      "url": "https://shopee.com.br/product/563080140/23494198405",
+      "affiliate_url": "https://s.shopee.com.br/5LBMpiToX9",
+      "category": "Meijile Loja especializada",
+      "bucket": "pet",
+      "posted_ts": 1787595408,
+      "posted_at": "2026-08-24T18:16:48.687867+00:00",
+      "score": 118.98
+    },
+    {
       "key": "mercadolivre:MLB4828628335",
       "marketplace": "mercadolivre",
       "id": "MLB4828628335",
@@ -13957,49 +13999,7 @@
       "posted_ts": 1786852957,
       "posted_at": "2026-08-16T04:02:37.677850+00:00",
       "score": 127.0
-    },
-    {
-      "key": "mercadolivre:MLB4455480129",
-      "marketplace": "mercadolivre",
-      "id": "MLB4455480129",
-      "title": "Soundbar Samsung Hw-b400f + Soundbar Hw-b400f Preto",
-      "title_norm": "soundbar samsung hw b400f soundbar hw b400f preto",
-      "url": "https://www.mercadolivre.com.br/p/MLB65128982?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB65128982?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "category": "Informática",
-      "bucket": "informatica",
-      "posted_ts": 1786849418,
-      "posted_at": "2026-08-16T03:03:38.670844+00:00",
-      "score": 104.0
-    },
-    {
-      "key": "mercadolivre:MLB4455473269",
-      "marketplace": "mercadolivre",
-      "id": "MLB4455473269",
-      "title": "Soundbar Samsung Hw-b450f + Soundbar Hw-b400f",
-      "title_norm": "soundbar samsung hw b450f soundbar hw b400f",
-      "url": "https://www.mercadolivre.com.br/p/MLB65128496?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB65128496?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "category": "Informática",
-      "bucket": "informatica",
-      "posted_ts": 1786849354,
-      "posted_at": "2026-08-16T03:02:34.530165+00:00",
-      "score": 104.0
-    },
-    {
-      "key": "shopee:23693177961",
-      "marketplace": "shopee",
-      "id": "23693177961",
-      "title": "Aparelho Medidor De Glicose G-tech Vita Kit 10tiras+10lancet",
-      "title_norm": "aparelho medidor de glicose g tech vita kit 10tiras 10lancet",
-      "url": "https://shopee.com.br/product/1251321262/23693177961",
-      "affiliate_url": "https://s.shopee.com.br/6AkEjuEfAO",
-      "category": "Multimix Saúde Online",
-      "bucket": "multimix_saude_online",
-      "posted_ts": 1786846923,
-      "posted_at": "2026-08-16T02:22:03.056187+00:00",
-      "score": 101.48
     }
   ],
-  "updated_at": "2026-08-24T18:06:29.765543+00:00"
+  "updated_at": "2026-08-24T18:18:57.170652+00:00"
 }
