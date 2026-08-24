@@ -1,6 +1,20 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB4750057565",
+      "marketplace": "mercadolivre",
+      "id": "MLB4750057565",
+      "title": "Fritadeira Air Fryer Mondial Oven Digital 127v",
+      "title_norm": "fritadeira air fryer mondial oven digital 127v",
+      "url": "https://www.mercadolivre.com.br/p/MLB54083722?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB54083722?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Casa e Cozinha",
+      "bucket": "casa_cozinha",
+      "posted_ts": 1787533354,
+      "posted_at": "2026-08-24T01:02:34.082378+00:00",
+      "score": 124.0
+    },
+    {
       "key": "shopee:23598810107",
       "marketplace": "shopee",
       "id": "23598810107",
@@ -13985,21 +13999,7 @@
       "posted_ts": 1786796453,
       "posted_at": "2026-08-15T12:20:53.501840+00:00",
       "score": 97.83
-    },
-    {
-      "key": "shopee:41352394185",
-      "marketplace": "shopee",
-      "id": "41352394185",
-      "title": "8 Em 1 USB Hub Expansor Dock Type C TF Leitor SD Áudio Compatível Com MacBook Pro ipad HP",
-      "title_norm": "8 em 1 usb hub expansor dock type c tf leitor sd audio compativel com macbook pro ipad hp",
-      "url": "https://shopee.com.br/product/1006215031/41352394185",
-      "affiliate_url": "https://s.shopee.com.br/8V89qnM6Er",
-      "category": "Choice Oficial",
-      "bucket": "choice_oficial",
-      "posted_ts": 1786796389,
-      "posted_at": "2026-08-15T12:19:49.446113+00:00",
-      "score": 99.01
     }
   ],
-  "updated_at": "2026-08-24T00:21:04.890848+00:00"
+  "updated_at": "2026-08-24T01:02:34.082391+00:00"
 }
