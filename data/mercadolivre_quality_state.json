@@ -1,6 +1,36 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB5653921846",
+      "product_id": "MLB5653921846",
+      "catalog_product_id": "MLB45798788",
+      "item_id": "MLB5653921846",
+      "url": "https://www.mercadolivre.com.br/p/MLB45798788?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB45798788?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "monitor 24 polegadas 1920x1200px vga hdmi 5ms rapido",
+      "title": "Monitor 24 Polegadas 1920x1200px Vga Hdmi 5ms Rápido",
+      "category": "Informática",
+      "price": 565.0,
+      "score": 86.0,
+      "posted_ts": 1787544218,
+      "posted_at": "2026-08-24T04:03:38.603039+00:00"
+    },
+    {
+      "key": "mercadolivre:MLB4353924282",
+      "product_id": "MLB4353924282",
+      "catalog_product_id": "MLB29479675",
+      "item_id": "MLB4353924282",
+      "url": "https://www.mercadolivre.com.br/p/MLB29479675?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB29479675?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "mesa computador escrivaninha notebook gamer cor branco ajl",
+      "title": "Mesa Computador Escrivaninha Notebook Gamer cor branco AJL",
+      "category": "Informática",
+      "price": 267.2,
+      "score": 113.0,
+      "posted_ts": 1787544154,
+      "posted_at": "2026-08-24T04:02:34.574749+00:00"
+    },
+    {
       "key": "mercadolivre:MLB5675473594",
       "product_id": "MLB5675473594",
       "catalog_product_id": "MLB21865416",
@@ -974,37 +1004,7 @@
       "score": 120.93,
       "posted_ts": 1787371487,
       "posted_at": "2026-08-22T04:04:47.261968+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB7395731398",
-      "product_id": "MLB7395731398",
-      "catalog_product_id": "MLB76866122",
-      "item_id": "MLB7395731398",
-      "url": "https://www.mercadolivre.com.br/p/MLB76866122?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB76866122?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "balanca digital de precisao 10kg balanca digital cozinha balanca digital balanca digital plastico balanca dieta fitness ecomvit",
-      "title": "Balança Digital De Precisão 10kg Balança Digital Cozinha Balança Digital Balança Digital Plastico Balança Dieta Fitness EcomVit",
-      "category": "Esportes",
-      "price": 19.96,
-      "score": 83.86,
-      "posted_ts": 1787367865,
-      "posted_at": "2026-08-22T03:04:25.249276+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB7193068554",
-      "product_id": "MLB7193068554",
-      "catalog_product_id": "MLB64282130",
-      "item_id": "MLB7193068554",
-      "url": "https://www.mercadolivre.com.br/p/MLB64282130?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB64282130?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "aparelho monitor pressao arterial automatico digital braco",
-      "title": "Aparelho Monitor Pressão Arterial Automático Digital Braço",
-      "category": "Informática",
-      "price": 81.85,
-      "score": 97.14,
-      "posted_ts": 1787367774,
-      "posted_at": "2026-08-22T03:02:54.377017+00:00"
     }
   ],
-  "updated_at": "2026-08-24T03:02:41.265926+00:00"
+  "updated_at": "2026-08-24T04:03:38.603063+00:00"
 }

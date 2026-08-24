@@ -1,6 +1,34 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB5653921846",
+      "marketplace": "mercadolivre",
+      "id": "MLB5653921846",
+      "title": "Monitor 24 Polegadas 1920x1200px Vga Hdmi 5ms Rápido",
+      "title_norm": "monitor 24 polegadas 1920x1200px vga hdmi 5ms rapido",
+      "url": "https://www.mercadolivre.com.br/p/MLB45798788?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB45798788?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Informática",
+      "bucket": "informatica",
+      "posted_ts": 1787544218,
+      "posted_at": "2026-08-24T04:03:38.593290+00:00",
+      "score": 86.0
+    },
+    {
+      "key": "mercadolivre:MLB4353924282",
+      "marketplace": "mercadolivre",
+      "id": "MLB4353924282",
+      "title": "Mesa Computador Escrivaninha Notebook Gamer cor branco AJL",
+      "title_norm": "mesa computador escrivaninha notebook gamer cor branco ajl",
+      "url": "https://www.mercadolivre.com.br/p/MLB29479675?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB29479675?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Informática",
+      "bucket": "informatica",
+      "posted_ts": 1787544154,
+      "posted_at": "2026-08-24T04:02:34.564466+00:00",
+      "score": 113.0
+    },
+    {
       "key": "shopee:52352168399",
       "marketplace": "shopee",
       "id": "52352168399",
@@ -13971,35 +13999,7 @@
       "posted_ts": 1786807306,
       "posted_at": "2026-08-15T15:21:46.202169+00:00",
       "score": 122.01
-    },
-    {
-      "key": "shopee:22698322663",
-      "marketplace": "shopee",
-      "id": "22698322663",
-      "title": "Conjunto Segunda Pele Térmica Flanelado Frio Intenso Preto Proteção Uv+50 Masculino Feminino Unissex",
-      "title_norm": "conjunto segunda pele termica flanelado frio intenso preto protecao uv 50 masculino feminino unissex",
-      "url": "https://shopee.com.br/product/1447721952/22698322663",
-      "affiliate_url": "https://s.shopee.com.br/19bvXM1DU",
-      "category": "Inoveecomm",
-      "bucket": "inoveecomm",
-      "posted_ts": 1786807182,
-      "posted_at": "2026-08-15T15:19:42.069557+00:00",
-      "score": 125.52
-    },
-    {
-      "key": "shopee:22699153602",
-      "marketplace": "shopee",
-      "id": "22699153602",
-      "title": "Blusa Feminina Novas Cores Manga 3/4 Evangelica Moda Social",
-      "title_norm": "blusa feminina novas cores manga 3 4 evangelica moda social",
-      "url": "https://shopee.com.br/product/1459254223/22699153602",
-      "affiliate_url": "https://s.shopee.com.br/4LIYQgSSKX",
-      "category": "Melia Fashion",
-      "bucket": "moda_feminina",
-      "posted_ts": 1786807118,
-      "posted_at": "2026-08-15T15:18:38.008190+00:00",
-      "score": 126.3
     }
   ],
-  "updated_at": "2026-08-24T03:21:11.008120+00:00"
+  "updated_at": "2026-08-24T04:03:38.593305+00:00"
 }
