@@ -1,6 +1,20 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB7483969764",
+      "marketplace": "mercadolivre",
+      "id": "MLB7483969764",
+      "title": "Ssd Nvme Kingston 1tb Nv3 M.2 2280 Pcie 4.0 Nf-e Cor Ssd Nvme M.2 2280 Kingston 1tb",
+      "title_norm": "ssd nvme kingston 1tb nv3 m 2 2280 pcie 4 0 nf e cor ssd nvme m 2 2280 kingston 1tb",
+      "url": "https://www.mercadolivre.com.br/p/MLB50957106?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB50957106?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Informática",
+      "bucket": "informatica",
+      "posted_ts": 1787608966,
+      "posted_at": "2026-08-24T22:02:46.278921+00:00",
+      "score": 111.0
+    },
+    {
       "key": "shopee:58256213399",
       "marketplace": "shopee",
       "id": "58256213399",
@@ -13985,21 +13999,7 @@
       "posted_ts": 1786864736,
       "posted_at": "2026-08-16T07:18:56.275564+00:00",
       "score": 101.8
-    },
-    {
-      "key": "shopee:22598546057",
-      "marketplace": "shopee",
-      "id": "22598546057",
-      "title": "Kit  Cortador De Unha Manicure Portatil Estojo Pinca Tesoura C/Organizador de couro de luxo",
-      "title_norm": "kit cortador de unha manicure portatil estojo pinca tesoura c organizador de couro de luxo",
-      "url": "https://shopee.com.br/product/1418889002/22598546057",
-      "affiliate_url": "https://s.shopee.com.br/9ANruJ80p7",
-      "category": "LUCK FASHION",
-      "bucket": "luck_fashion",
-      "posted_ts": 1786864668,
-      "posted_at": "2026-08-16T07:17:48.703059+00:00",
-      "score": 103.19
     }
   ],
-  "updated_at": "2026-08-24T21:21:45.050729+00:00"
+  "updated_at": "2026-08-24T22:02:46.278938+00:00"
 }
