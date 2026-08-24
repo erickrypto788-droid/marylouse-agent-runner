@@ -1,6 +1,36 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB4828628335",
+      "product_id": "MLB4828628335",
+      "catalog_product_id": "MLB44823770",
+      "item_id": "MLB4828628335",
+      "url": "https://www.mercadolivre.com.br/p/MLB44823770?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB44823770?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "perfume masculino amodil fonte verde perfume masculino 100ml",
+      "title": "Perfume masculino Amodil Fonte Verde Perfume masculino 100ml",
+      "category": "Beleza",
+      "price": 400.0,
+      "score": 111.0,
+      "posted_ts": 1787594789,
+      "posted_at": "2026-08-24T18:06:29.781534+00:00"
+    },
+    {
+      "key": "mercadolivre:MLB5041531745",
+      "product_id": "MLB5041531745",
+      "catalog_product_id": "MLB74370100",
+      "item_id": "MLB5041531745",
+      "url": "https://www.mercadolivre.com.br/p/MLB74370100?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB74370100?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "chapinha cabelo profissional 450f slim bivolt titanium",
+      "title": "Chapinha Cabelo Profissional 450f Slim Bivolt, Titanium",
+      "category": "Beleza",
+      "price": 139.98,
+      "score": 113.0,
+      "posted_ts": 1787594665,
+      "posted_at": "2026-08-24T18:04:25.787834+00:00"
+    },
+    {
       "key": "mercadolivre:MLB5355035490",
       "product_id": "MLB5355035490",
       "catalog_product_id": "MLB48409016",
@@ -869,67 +899,7 @@
       "score": 155.13,
       "posted_ts": 1787428954,
       "posted_at": "2026-08-22T20:02:34.305043+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB3885192245",
-      "product_id": "MLB3885192245",
-      "catalog_product_id": "MLB34729625",
-      "item_id": "MLB3885192245",
-      "url": "https://www.mercadolivre.com.br/p/MLB34729625?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB34729625?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "celular samsung galaxy a55 5g cor azul celeste",
-      "title": "Celular Samsung Galaxy A55 5g Cor Azul-celeste",
-      "category": "Informática",
-      "price": 3099.0,
-      "score": 124.0,
-      "posted_ts": 1787421806,
-      "posted_at": "2026-08-22T18:03:26.620843+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB4313231503",
-      "product_id": "MLB4313231503",
-      "catalog_product_id": "MLB59103594",
-      "item_id": "MLB4313231503",
-      "url": "https://www.mercadolivre.com.br/p/MLB59103594?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB59103594?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "smartphone xiaomi 15t 5g 12 12gb ram 512gb cinza",
-      "title": "Smartphone Xiaomi 15t 5g 12+12gb Ram + 512gb, Cinza",
-      "category": "Informática",
-      "price": 4039.9,
-      "score": 169.97,
-      "posted_ts": 1787421736,
-      "posted_at": "2026-08-22T18:02:16.316095+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB7150469040",
-      "product_id": "MLB7150469040",
-      "catalog_product_id": "MLB59821316",
-      "item_id": "MLB7150469040",
-      "url": "https://www.mercadolivre.com.br/p/MLB59821316?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB59821316?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "tv box rbi smart tv box 4k prosb 2000 preto 5 geracao wi fi hdmi",
-      "title": "TV Box RBI Smart TV Box 4K PROSB-2000 Preto 5ª Geração Wi-Fi HDMI",
-      "category": "Pet",
-      "price": 176.9,
-      "score": 113.0,
-      "posted_ts": 1787418212,
-      "posted_at": "2026-08-22T17:03:32.220743+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB4918382621",
-      "product_id": "MLB4918382621",
-      "catalog_product_id": "MLB62010143",
-      "item_id": "MLB4918382621",
-      "url": "https://www.mercadolivre.com.br/p/MLB62010143?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB62010143?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "fone bluetooth redmi",
-      "title": "Fone Bluetooth Redmi",
-      "category": "Informática",
-      "price": 25.65,
-      "score": 114.83,
-      "posted_ts": 1787418147,
-      "posted_at": "2026-08-22T17:02:27.887371+00:00"
     }
   ],
-  "updated_at": "2026-08-24T15:03:58.906422+00:00"
+  "updated_at": "2026-08-24T18:06:29.781546+00:00"
 }

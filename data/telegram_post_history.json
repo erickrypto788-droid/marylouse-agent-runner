@@ -1,6 +1,34 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB4828628335",
+      "marketplace": "mercadolivre",
+      "id": "MLB4828628335",
+      "title": "Perfume masculino Amodil Fonte Verde Perfume masculino 100ml",
+      "title_norm": "perfume masculino amodil fonte verde perfume masculino 100ml",
+      "url": "https://www.mercadolivre.com.br/p/MLB44823770?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB44823770?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Beleza",
+      "bucket": "beleza",
+      "posted_ts": 1787594789,
+      "posted_at": "2026-08-24T18:06:29.765527+00:00",
+      "score": 111.0
+    },
+    {
+      "key": "mercadolivre:MLB5041531745",
+      "marketplace": "mercadolivre",
+      "id": "MLB5041531745",
+      "title": "Chapinha Cabelo Profissional 450f Slim Bivolt, Titanium",
+      "title_norm": "chapinha cabelo profissional 450f slim bivolt titanium",
+      "url": "https://www.mercadolivre.com.br/p/MLB74370100?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB74370100?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Beleza",
+      "bucket": "beleza",
+      "posted_ts": 1787594665,
+      "posted_at": "2026-08-24T18:04:25.771709+00:00",
+      "score": 113.0
+    },
+    {
       "key": "shopee:23994838925",
       "marketplace": "shopee",
       "id": "23994838925",
@@ -13971,35 +13999,7 @@
       "posted_ts": 1786846923,
       "posted_at": "2026-08-16T02:22:03.056187+00:00",
       "score": 101.48
-    },
-    {
-      "key": "shopee:43754234043",
-      "marketplace": "shopee",
-      "id": "43754234043",
-      "title": "Medidor Pressão Digital De Pulso Com Voz Monitor Inteligente Aparelho De Pressão",
-      "title_norm": "medidor pressao digital de pulso com voz monitor inteligente aparelho de pressao",
-      "url": "https://shopee.com.br/product/1259086167/43754234043",
-      "affiliate_url": "https://s.shopee.com.br/8pl1B5b9q6",
-      "category": "Cherrygo1.br",
-      "bucket": "cherrygo1_br",
-      "posted_ts": 1786846859,
-      "posted_at": "2026-08-16T02:20:59.059511+00:00",
-      "score": 106.69
-    },
-    {
-      "key": "shopee:28891024500",
-      "marketplace": "shopee",
-      "id": "28891024500",
-      "title": "Balança Corporal Transparente Quadrada Digital Até 180kg Com Vidro Temperado Premium",
-      "title_norm": "balanca corporal transparente quadrada digital ate 180kg com vidro temperado premium",
-      "url": "https://shopee.com.br/product/943206066/28891024500",
-      "affiliate_url": "https://s.shopee.com.br/9pdX6e0lz0",
-      "category": "Onive",
-      "bucket": "onive",
-      "posted_ts": 1786846794,
-      "posted_at": "2026-08-16T02:19:54.853577+00:00",
-      "score": 118.26
     }
   ],
-  "updated_at": "2026-08-24T17:18:34.226751+00:00"
+  "updated_at": "2026-08-24T18:06:29.765543+00:00"
 }
