@@ -1,6 +1,48 @@
 {
   "posts": [
     {
+      "key": "shopee:19198016301",
+      "marketplace": "shopee",
+      "id": "19198016301",
+      "title": "Mochila Moda Laptop Viagem Escolar Resistente À água Executiva Notebook Impermeável Viral",
+      "title_norm": "mochila moda laptop viagem escolar resistente a agua executiva notebook impermeavel viral",
+      "url": "https://shopee.com.br/product/222975446/19198016301",
+      "affiliate_url": "https://s.shopee.com.br/20uu8IFC5H",
+      "category": "Luxor Comercial",
+      "bucket": "informatica",
+      "posted_ts": 1787555968,
+      "posted_at": "2026-08-24T07:19:28.276111+00:00",
+      "score": 108.78
+    },
+    {
+      "key": "shopee:23893335036",
+      "marketplace": "shopee",
+      "id": "23893335036",
+      "title": "JAMI JAMI Bolsa Mochila Feminina Grande De Ombro Com Alça Transversal De Couro PU TM9034",
+      "title_norm": "jami jami bolsa mochila feminina grande de ombro com alca transversal de couro pu tm9034",
+      "url": "https://shopee.com.br/product/452872883/23893335036",
+      "affiliate_url": "https://s.shopee.com.br/4LIoua235Z",
+      "category": "Jami Ling",
+      "bucket": "bolsas",
+      "posted_ts": 1787555900,
+      "posted_at": "2026-08-24T07:18:20.206095+00:00",
+      "score": 112.88
+    },
+    {
+      "key": "shopee:58255989668",
+      "marketplace": "shopee",
+      "id": "58255989668",
+      "title": "Bolsa De Moda Simples Ombro De Veludo Feminina Novo Estilo",
+      "title_norm": "bolsa de moda simples ombro de veludo feminina novo estilo",
+      "url": "https://shopee.com.br/product/1725099888/58255989668",
+      "affiliate_url": "https://s.shopee.com.br/2LXkWu9O8B",
+      "category": "hui3hui3",
+      "bucket": "bolsas",
+      "posted_ts": 1787555828,
+      "posted_at": "2026-08-24T07:17:08.797792+00:00",
+      "score": 112.93
+    },
+    {
       "key": "shopee:56355588517",
       "marketplace": "shopee",
       "id": "56355588517",
@@ -13957,49 +13999,7 @@
       "posted_ts": 1786820741,
       "posted_at": "2026-08-15T19:05:41.165668+00:00",
       "score": 155.15
-    },
-    {
-      "key": "mercadolivre:MLB4663936327",
-      "marketplace": "mercadolivre",
-      "id": "MLB4663936327",
-      "title": "Calça Legging Feminina Ausare de Compressão Média com UV50+ e Cós Alto para Academia",
-      "title_norm": "calca legging feminina ausare de compressao media com uv50 e cos alto para academia",
-      "url": "https://www.mercadolivre.com.br/p/MLB69276350?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB69276350?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "category": "Moda Feminina",
-      "bucket": "moda_feminina",
-      "posted_ts": 1786820673,
-      "posted_at": "2026-08-15T19:04:33.610488+00:00",
-      "score": 168.67
-    },
-    {
-      "key": "shopee:23893703937",
-      "marketplace": "shopee",
-      "id": "23893703937",
-      "title": "Babuche Adulto Masculino E Feminino Personalizado",
-      "title_norm": "babuche adulto masculino e feminino personalizado",
-      "url": "https://shopee.com.br/product/1464624047/23893703937",
-      "affiliate_url": "https://s.shopee.com.br/6pzwGRytMu",
-      "category": "Passinhos Mágicos ",
-      "bucket": "passinhos_magicos",
-      "posted_ts": 1786817920,
-      "posted_at": "2026-08-15T18:18:40.168354+00:00",
-      "score": 99.93
-    },
-    {
-      "key": "shopee:23394636497",
-      "marketplace": "shopee",
-      "id": "23394636497",
-      "title": "Bota Botina Segurança Couro Legítimo CA Aprovado Bota EPI Antiderrapante Confortável Leve Unisex",
-      "title_norm": "bota botina seguranca couro legitimo ca aprovado bota epi antiderrapante confortavel leve unisex",
-      "url": "https://shopee.com.br/product/1406953915/23394636497",
-      "affiliate_url": "https://s.shopee.com.br/8pl0e7vXYl",
-      "category": "VELLUDINE",
-      "bucket": "calcados",
-      "posted_ts": 1786817856,
-      "posted_at": "2026-08-15T18:17:36.154596+00:00",
-      "score": 107.26
     }
   ],
-  "updated_at": "2026-08-24T06:20:55.065108+00:00"
+  "updated_at": "2026-08-24T07:19:28.276121+00:00"
 }
