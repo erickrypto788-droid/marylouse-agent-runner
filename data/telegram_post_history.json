@@ -1,6 +1,20 @@
 {
   "posts": [
     {
+      "key": "shopee:55913136538",
+      "marketplace": "shopee",
+      "id": "55913136538",
+      "title": "Jogo Grand Theft Auto VI Edição Standard - PS5",
+      "title_norm": "jogo grand theft auto vi edicao standard ps5",
+      "url": "https://shopee.com.br/product/413072701/55913136538",
+      "affiliate_url": "https://s.shopee.com.br/4VcEBAlxoz",
+      "category": "Webfones Express",
+      "bucket": "webfones_express",
+      "posted_ts": 1787573802,
+      "posted_at": "2026-08-24T12:16:42.613569+00:00",
+      "score": 20.5
+    },
+    {
       "key": "shopee:23494418394",
       "marketplace": "shopee",
       "id": "23494418394",
@@ -13985,21 +13999,7 @@
       "posted_ts": 1786832198,
       "posted_at": "2026-08-15T22:16:38.566059+00:00",
       "score": 160.52
-    },
-    {
-      "key": "mercadolivre:MLB6827581422",
-      "marketplace": "mercadolivre",
-      "id": "MLB6827581422",
-      "title": "Prancha Esteira Ergometrica Kikos E600ix Preto",
-      "title_norm": "prancha esteira ergometrica kikos e600ix preto",
-      "url": "https://www.mercadolivre.com.br/p/MLB70114350?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB70114350?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "category": "Esportes",
-      "bucket": "esportes",
-      "posted_ts": 1786831353,
-      "posted_at": "2026-08-15T22:02:33.670100+00:00",
-      "score": 120.27
     }
   ],
-  "updated_at": "2026-08-24T11:21:08.524676+00:00"
+  "updated_at": "2026-08-24T12:16:42.613582+00:00"
 }
