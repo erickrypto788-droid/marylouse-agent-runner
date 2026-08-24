@@ -1,6 +1,21 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB4302548173",
+      "product_id": "MLB4302548173",
+      "catalog_product_id": "MLB44164135",
+      "item_id": "MLB4302548173",
+      "url": "https://www.mercadolivre.com.br/p/MLB44164135?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB44164135?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "comedouro automatico racao aquario terrario peixe tartaruga",
+      "title": "Comedouro Automático Ração Aquário Terrario Peixe Tartaruga",
+      "category": "Pet",
+      "price": 117.85,
+      "score": 137.09,
+      "posted_ts": 1787562161,
+      "posted_at": "2026-08-24T09:02:41.498574+00:00"
+    },
+    {
       "key": "mercadolivre:MLB6632460608",
       "product_id": "MLB6632460608",
       "catalog_product_id": "MLB62814199",
@@ -899,67 +914,7 @@
       "score": 113.0,
       "posted_ts": 1787389416,
       "posted_at": "2026-08-22T09:03:36.859773+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB4266241495",
-      "product_id": "MLB4266241495",
-      "catalog_product_id": "MLB43806010",
-      "item_id": "MLB4266241495",
-      "url": "https://www.mercadolivre.com.br/p/MLB43806010?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB43806010?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "absorvente mulher ativa com abas kit 80 pacotes gel super absorvente",
-      "title": "Absorvente Mulher Ativa Com Abas Kit 80 Pacotes Gel Super Absorvente",
-      "category": "Moda Feminina",
-      "price": 189.15,
-      "score": 88.0,
-      "posted_ts": 1787386122,
-      "posted_at": "2026-08-22T08:08:42.861999+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB5807012940",
-      "product_id": "MLB5807012940",
-      "catalog_product_id": "MLB20572035",
-      "item_id": "MLB5807012940",
-      "url": "https://www.mercadolivre.com.br/p/MLB20572035?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB20572035?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "creme dental 50 gr bioxtra",
-      "title": "Creme Dental 50 Gr - Bioxtra",
-      "category": "Supermercados",
-      "price": 81.9,
-      "score": 89.0,
-      "posted_ts": 1787386053,
-      "posted_at": "2026-08-22T08:07:33.679952+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB5827798066",
-      "product_id": "MLB5827798066",
-      "catalog_product_id": "MLB47658528",
-      "item_id": "MLB5827798066",
-      "url": "https://www.mercadolivre.com.br/p/MLB47658528?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB47658528?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "kit papel toalha interfolha supremo e papel toalha mili",
-      "title": "Kit Papel Toalha Interfolha Supremo E Papel Toalha Mili",
-      "category": "Supermercados",
-      "price": 105.45,
-      "score": 98.67,
-      "posted_ts": 1787385985,
-      "posted_at": "2026-08-22T08:06:25.468570+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB6660297382",
-      "product_id": "MLB6660297382",
-      "catalog_product_id": "MLB67844007",
-      "item_id": "MLB6660297382",
-      "url": "https://www.mercadolivre.com.br/p/MLB67844007?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB67844007?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "preparo essencia amaciante roupas concentrado perfume",
-      "title": "Preparo Essência Amaciante Roupas Concentrado Perfume",
-      "category": "Supermercados",
-      "price": 135.9,
-      "score": 114.0,
-      "posted_ts": 1787385915,
-      "posted_at": "2026-08-22T08:05:15.130705+00:00"
     }
   ],
-  "updated_at": "2026-08-24T08:02:18.924173+00:00"
+  "updated_at": "2026-08-24T09:02:41.498585+00:00"
 }

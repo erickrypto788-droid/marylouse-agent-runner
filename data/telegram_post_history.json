@@ -1,6 +1,20 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB4302548173",
+      "marketplace": "mercadolivre",
+      "id": "MLB4302548173",
+      "title": "Comedouro Automático Ração Aquário Terrario Peixe Tartaruga",
+      "title_norm": "comedouro automatico racao aquario terrario peixe tartaruga",
+      "url": "https://www.mercadolivre.com.br/p/MLB44164135?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB44164135?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Pet",
+      "bucket": "pet",
+      "posted_ts": 1787562161,
+      "posted_at": "2026-08-24T09:02:41.484660+00:00",
+      "score": 137.09
+    },
+    {
       "key": "shopee:18077247106",
       "marketplace": "shopee",
       "id": "18077247106",
@@ -13985,21 +13999,7 @@
       "posted_ts": 1786824178,
       "posted_at": "2026-08-15T20:02:58.965794+00:00",
       "score": 162.06
-    },
-    {
-      "key": "shopee:23599239610",
-      "marketplace": "shopee",
-      "id": "23599239610",
-      "title": "Sandália Feminina Conforto Premium Com Detalhe Dourado Elegante | Casual E Sofisticada GABI",
-      "title_norm": "sandalia feminina conforto premium com detalhe dourado elegante casual e sofisticada gabi",
-      "url": "https://shopee.com.br/product/1648608636/23599239610",
-      "affiliate_url": "https://s.shopee.com.br/9pdWdnNk6Y",
-      "category": "cravorosa267",
-      "bucket": "calcados",
-      "posted_ts": 1786821526,
-      "posted_at": "2026-08-15T19:18:46.804808+00:00",
-      "score": 116.72
     }
   ],
-  "updated_at": "2026-08-24T08:21:15.966299+00:00"
+  "updated_at": "2026-08-24T09:02:41.484690+00:00"
 }
