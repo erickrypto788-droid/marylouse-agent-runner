@@ -1,6 +1,66 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB4087393645",
+      "product_id": "MLB4087393645",
+      "catalog_product_id": "MLB51007372",
+      "item_id": "MLB4087393645",
+      "url": "https://www.mercadolivre.com.br/p/MLB51007372?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB51007372?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "tecido suplex liso bege 1 65m poliester elastano moda fitness bras tecidos",
+      "title": "Tecido Suplex Liso Bege 1.65m Poliéster Elastano Moda Fitness Brás Tecidos",
+      "category": "Esportes",
+      "price": 500.0,
+      "score": 86.0,
+      "posted_ts": 1787580414,
+      "posted_at": "2026-08-24T14:06:54.671866+00:00"
+    },
+    {
+      "key": "mercadolivre:MLB5120190903",
+      "product_id": "MLB5120190903",
+      "catalog_product_id": "MLB77976379",
+      "item_id": "MLB5120190903",
+      "url": "https://www.mercadolivre.com.br/p/MLB77976379?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB77976379?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "tecido paete tribal africano 1 30x1 50m vestido feminino cor preto",
+      "title": "Tecido Paetê Tribal Africano 1,30x1,50m Vestido Feminino Cor Preto",
+      "category": "Moda Feminina",
+      "price": 305.0,
+      "score": 86.0,
+      "posted_ts": 1787580349,
+      "posted_at": "2026-08-24T14:05:49.692449+00:00"
+    },
+    {
+      "key": "mercadolivre:MLB4712632217",
+      "product_id": "MLB4712632217",
+      "catalog_product_id": "MLB66992733",
+      "item_id": "MLB4712632217",
+      "url": "https://www.mercadolivre.com.br/p/MLB66992733?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB66992733?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "meia calca feminina termica plus size",
+      "title": "Meia Calça Feminina Térmica Plus Size",
+      "category": "Moda Feminina",
+      "price": 79.9,
+      "score": 88.0,
+      "posted_ts": 1787580284,
+      "posted_at": "2026-08-24T14:04:44.925105+00:00"
+    },
+    {
+      "key": "mercadolivre:MLB5049841699",
+      "product_id": "MLB5049841699",
+      "catalog_product_id": "MLB59779508",
+      "item_id": "MLB5049841699",
+      "url": "https://www.mercadolivre.com.br/p/MLB59779508?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB59779508?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "camiseta feminina modeladora",
+      "title": "Camiseta feminina modeladora",
+      "category": "Moda Feminina",
+      "price": 280.0,
+      "score": 88.0,
+      "posted_ts": 1787580220,
+      "posted_at": "2026-08-24T14:03:40.745631+00:00"
+    },
+    {
       "key": "mercadolivre:MLB7469746398",
       "product_id": "MLB7469746398",
       "catalog_product_id": "MLB50178919",
@@ -871,5 +931,5 @@
       "posted_at": "2026-08-22T15:02:14.174852+00:00"
     }
   ],
-  "updated_at": "2026-08-24T13:08:45.791041+00:00"
+  "updated_at": "2026-08-24T14:06:54.671877+00:00"
 }
