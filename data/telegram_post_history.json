@@ -1,6 +1,20 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB4313106591",
+      "marketplace": "mercadolivre",
+      "id": "MLB4313106591",
+      "title": "Smartphone xiaomi Poco C85 6gb ram + 128gb, Preto",
+      "title_norm": "smartphone xiaomi poco c85 6gb ram 128gb preto",
+      "url": "https://www.mercadolivre.com.br/p/MLB56425611?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB56425611?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Informática",
+      "bucket": "celulares",
+      "posted_ts": 1787551359,
+      "posted_at": "2026-08-24T06:02:39.041263+00:00",
+      "score": 127.0
+    },
+    {
       "key": "shopee:23292979767",
       "marketplace": "shopee",
       "id": "23292979767",
@@ -13985,21 +13999,7 @@
       "posted_ts": 1786814463,
       "posted_at": "2026-08-15T17:21:03.253791+00:00",
       "score": 104.35
-    },
-    {
-      "key": "shopee:58254166972",
-      "marketplace": "shopee",
-      "id": "58254166972",
-      "title": "Blusa Antonella Plus Size G1 e G2 Cropped Halter Frente Única Top das Blogueiras Zero Transparência Frente Dupla",
-      "title_norm": "blusa antonella plus size g1 e g2 cropped halter frente unica top das blogueiras zero transparencia frente dupla",
-      "url": "https://shopee.com.br/product/1651898003/58254166972",
-      "affiliate_url": "https://s.shopee.com.br/6L3cwauwzl",
-      "category": "MILARA MODA FEMININA",
-      "bucket": "moda_feminina",
-      "posted_ts": 1786814399,
-      "posted_at": "2026-08-15T17:19:59.058232+00:00",
-      "score": 106.05
     }
   ],
-  "updated_at": "2026-08-24T05:20:58.598584+00:00"
+  "updated_at": "2026-08-24T06:02:39.041279+00:00"
 }
