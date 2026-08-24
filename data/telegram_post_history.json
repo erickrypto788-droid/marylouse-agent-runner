@@ -1,6 +1,62 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB7469746398",
+      "marketplace": "mercadolivre",
+      "id": "MLB7469746398",
+      "title": "Kaisasa Shampoo Tonalizante Para Cobrir Cabelo Cinzento，shampoo cabelo branco，shampoo barba，shampoo redutor grisalhos，shampoo tonalizante preto，hair dye shampoo，black hair dye，500ml-Preto",
+      "title_norm": "kaisasa shampoo tonalizante para cobrir cabelo cinzento shampoo cabelo branco shampoo barba shampoo redutor grisalhos shampoo tonalizante preto hair dye shampoo black hair dye 500ml preto",
+      "url": "https://www.mercadolivre.com.br/p/MLB50178919?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB50178919?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Beleza",
+      "bucket": "beleza",
+      "posted_ts": 1787576925,
+      "posted_at": "2026-08-24T13:08:45.777040+00:00",
+      "score": 88.0
+    },
+    {
+      "key": "mercadolivre:MLB6302363224",
+      "marketplace": "mercadolivre",
+      "id": "MLB6302363224",
+      "title": "35 Escova Dental + 35 Porta Escova Dental + 35 Creme Dental Sortidas",
+      "title_norm": "35 escova dental 35 porta escova dental 35 creme dental sortidas",
+      "url": "https://www.mercadolivre.com.br/p/MLB65932271?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB65932271?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Supermercados",
+      "bucket": "supermercados",
+      "posted_ts": 1787576852,
+      "posted_at": "2026-08-24T13:07:32.206239+00:00",
+      "score": 89.0
+    },
+    {
+      "key": "mercadolivre:MLB5532475634",
+      "marketplace": "mercadolivre",
+      "id": "MLB5532475634",
+      "title": "Miniatura Creme Dental 15g",
+      "title_norm": "miniatura creme dental 15g",
+      "url": "https://www.mercadolivre.com.br/p/MLB53217462?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB53217462?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Supermercados",
+      "bucket": "supermercados",
+      "posted_ts": 1787576784,
+      "posted_at": "2026-08-24T13:06:24.916157+00:00",
+      "score": 89.0
+    },
+    {
+      "key": "mercadolivre:MLB6428938830",
+      "marketplace": "mercadolivre",
+      "id": "MLB6428938830",
+      "title": "Fralda Pampers Supersec M 30 Unidades",
+      "title_norm": "fralda pampers supersec m 30 unidades",
+      "url": "https://www.mercadolivre.com.br/p/MLB36175310?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB36175310?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Mãe e Bebê",
+      "bucket": "fraldas",
+      "posted_ts": 1787576720,
+      "posted_at": "2026-08-24T13:05:20.960441+00:00",
+      "score": 130.0
+    },
+    {
       "key": "shopee:55913136538",
       "marketplace": "shopee",
       "id": "55913136538",
@@ -13943,63 +13999,7 @@
       "posted_ts": 1786832461,
       "posted_at": "2026-08-15T22:21:01.563754+00:00",
       "score": 105.25
-    },
-    {
-      "key": "shopee:58211381206",
-      "marketplace": "shopee",
-      "id": "58211381206",
-      "title": "Corretivo Líquido Under Eye 10 ML - Ruby Kisses",
-      "title_norm": "corretivo liquido under eye 10 ml ruby kisses",
-      "url": "https://shopee.com.br/product/1126064857/58211381206",
-      "affiliate_url": "https://s.shopee.com.br/5fnxsVBDnM",
-      "category": "VICTORIA BAZAR EIRELI",
-      "bucket": "victoria_bazar_eireli",
-      "posted_ts": 1786832397,
-      "posted_at": "2026-08-15T22:19:57.304001+00:00",
-      "score": 125.76
-    },
-    {
-      "key": "shopee:23098851500",
-      "marketplace": "shopee",
-      "id": "23098851500",
-      "title": "Kit Body Splash Dolce + Florata Red 200ml Feminino.",
-      "title_norm": "kit body splash dolce florata red 200ml feminino",
-      "url": "https://shopee.com.br/product/1617566398/23098851500",
-      "affiliate_url": "https://s.shopee.com.br/2LXVuN6WCW",
-      "category": "Ambar.cosmeticos",
-      "bucket": "ambar_cosmeticos",
-      "posted_ts": 1786832331,
-      "posted_at": "2026-08-15T22:18:51.029882+00:00",
-      "score": 128.52
-    },
-    {
-      "key": "shopee:22798465103",
-      "marketplace": "shopee",
-      "id": "22798465103",
-      "title": "Perfume Attracione Feminino by Attracione Woman Mulher",
-      "title_norm": "perfume attracione feminino by attracione woman mulher",
-      "url": "https://shopee.com.br/product/1266325318/22798465103",
-      "affiliate_url": "https://s.shopee.com.br/1VyOuq9gtT",
-      "category": "Attracione Men & Attracione",
-      "bucket": "beleza",
-      "posted_ts": 1786832263,
-      "posted_at": "2026-08-15T22:17:43.191193+00:00",
-      "score": 152.54
-    },
-    {
-      "key": "shopee:21897981294",
-      "marketplace": "shopee",
-      "id": "21897981294",
-      "title": "Attracione Men (Perfume Masculino com Feromônios Ativados)",
-      "title_norm": "attracione men perfume masculino com feromonios ativados",
-      "url": "https://shopee.com.br/product/1266325318/21897981294",
-      "affiliate_url": "https://s.shopee.com.br/80Btv4v3Mt",
-      "category": "Attracione Men & Attracione",
-      "bucket": "beleza",
-      "posted_ts": 1786832198,
-      "posted_at": "2026-08-15T22:16:38.566059+00:00",
-      "score": 160.52
     }
   ],
-  "updated_at": "2026-08-24T12:16:42.613582+00:00"
+  "updated_at": "2026-08-24T13:08:45.777053+00:00"
 }
