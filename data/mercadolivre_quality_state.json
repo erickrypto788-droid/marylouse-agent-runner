@@ -1,6 +1,21 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB5355035490",
+      "product_id": "MLB5355035490",
+      "catalog_product_id": "MLB48409016",
+      "item_id": "MLB5355035490",
+      "url": "https://www.mercadolivre.com.br/p/MLB48409016?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB48409016?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "cama box solteiro colchao molas ensacadas orthoflex memor",
+      "title": "Cama Box Solteiro: Colchão Molas Ensacadas Orthoflex Memor",
+      "category": "Casa e Cozinha",
+      "price": 1245.42,
+      "score": 75.67,
+      "posted_ts": 1787583838,
+      "posted_at": "2026-08-24T15:03:58.906412+00:00"
+    },
+    {
       "key": "mercadolivre:MLB4087393645",
       "product_id": "MLB4087393645",
       "catalog_product_id": "MLB51007372",
@@ -914,22 +929,7 @@
       "score": 114.83,
       "posted_ts": 1787418147,
       "posted_at": "2026-08-22T17:02:27.887371+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB5041528061",
-      "product_id": "MLB5041528061",
-      "catalog_product_id": "MLB43810473",
-      "item_id": "MLB5041528061",
-      "url": "https://www.mercadolivre.com.br/p/MLB43810473?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB43810473?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "kit ferramentas informatica cor preto",
-      "title": "Kit Ferramentas Informatica Cor Preto",
-      "category": "Ferramentas",
-      "price": 127.5,
-      "score": 88.0,
-      "posted_ts": 1787410934,
-      "posted_at": "2026-08-22T15:02:14.174852+00:00"
     }
   ],
-  "updated_at": "2026-08-24T14:06:54.671877+00:00"
+  "updated_at": "2026-08-24T15:03:58.906422+00:00"
 }
