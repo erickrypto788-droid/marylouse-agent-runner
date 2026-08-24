@@ -1,6 +1,36 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB4139317597",
+      "product_id": "MLB4139317597",
+      "catalog_product_id": "MLB23649057",
+      "item_id": "MLB4139317597",
+      "url": "https://www.mercadolivre.com.br/p/MLB23649057?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB23649057?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "furadeira parafusadeira imp c parafusadeira imp dlx2336syx",
+      "title": "Furadeira Parafusadeira Imp C/ Parafusadeira Imp Dlx2336syx",
+      "category": "Ferramentas",
+      "price": 1659.5,
+      "score": 108.0,
+      "posted_ts": 1787605426,
+      "posted_at": "2026-08-24T21:03:46.549783+00:00"
+    },
+    {
+      "key": "mercadolivre:MLB5183821060",
+      "product_id": "MLB5183821060",
+      "catalog_product_id": "MLB19765397",
+      "item_id": "MLB5183821060",
+      "url": "https://www.mercadolivre.com.br/p/MLB19765397?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB19765397?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "combo furadeira parafusadeira df333d parafusadeira de impacto td110d 12v clx224sax",
+      "title": "Combo Furadeira Parafusadeira DF333D + Parafusadeira de Impacto TD110D 12V - CLX224SAX",
+      "category": "Ferramentas",
+      "price": 1213.0,
+      "score": 111.0,
+      "posted_ts": 1787605362,
+      "posted_at": "2026-08-24T21:02:42.399168+00:00"
+    },
+    {
       "key": "mercadolivre:MLB4828628335",
       "product_id": "MLB4828628335",
       "catalog_product_id": "MLB44823770",
@@ -869,37 +899,7 @@
       "score": 135.18,
       "posted_ts": 1787447111,
       "posted_at": "2026-08-23T01:05:11.741462+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB7304557416",
-      "product_id": "MLB7304557416",
-      "catalog_product_id": "MLB76169813",
-      "item_id": "MLB7304557416",
-      "url": "https://www.mercadolivre.com.br/p/MLB76169813?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB76169813?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "comedouro dispenser de racao automatico 8l para caes gatos cor comedouro automatico rosa",
-      "title": "Comedouro Dispenser De Ração Automático 8l Para Cães Gatos Cor Comedouro Automatico Rosa",
-      "category": "Pet",
-      "price": 42.88,
-      "score": 138.47,
-      "posted_ts": 1787432541,
-      "posted_at": "2026-08-22T21:02:21.943312+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB6290574990",
-      "product_id": "MLB6290574990",
-      "catalog_product_id": "MLB22958206",
-      "item_id": "MLB6290574990",
-      "url": "https://www.mercadolivre.com.br/p/MLB22958206?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB22958206?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "aparelho monitor pressao arterial portatil pulso omron",
-      "title": "Aparelho Monitor Pressão Arterial Portátil Pulso Omron",
-      "category": "Informática",
-      "price": 159.05,
-      "score": 155.13,
-      "posted_ts": 1787428954,
-      "posted_at": "2026-08-22T20:02:34.305043+00:00"
     }
   ],
-  "updated_at": "2026-08-24T18:06:29.781546+00:00"
+  "updated_at": "2026-08-24T21:03:46.549792+00:00"
 }

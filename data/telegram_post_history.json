@@ -1,6 +1,34 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB4139317597",
+      "marketplace": "mercadolivre",
+      "id": "MLB4139317597",
+      "title": "Furadeira Parafusadeira Imp C/ Parafusadeira Imp Dlx2336syx",
+      "title_norm": "furadeira parafusadeira imp c parafusadeira imp dlx2336syx",
+      "url": "https://www.mercadolivre.com.br/p/MLB23649057?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB23649057?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Ferramentas",
+      "bucket": "ferramentas",
+      "posted_ts": 1787605426,
+      "posted_at": "2026-08-24T21:03:46.536454+00:00",
+      "score": 108.0
+    },
+    {
+      "key": "mercadolivre:MLB5183821060",
+      "marketplace": "mercadolivre",
+      "id": "MLB5183821060",
+      "title": "Combo Furadeira Parafusadeira DF333D + Parafusadeira de Impacto TD110D 12V - CLX224SAX",
+      "title_norm": "combo furadeira parafusadeira df333d parafusadeira de impacto td110d 12v clx224sax",
+      "url": "https://www.mercadolivre.com.br/p/MLB19765397?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB19765397?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Ferramentas",
+      "bucket": "ferramentas",
+      "posted_ts": 1787605362,
+      "posted_at": "2026-08-24T21:02:42.384921+00:00",
+      "score": 111.0
+    },
+    {
       "key": "shopee:22197514607",
       "marketplace": "shopee",
       "id": "22197514607",
@@ -13971,35 +13999,7 @@
       "posted_ts": 1786861062,
       "posted_at": "2026-08-16T06:17:42.732096+00:00",
       "score": 123.97
-    },
-    {
-      "key": "shopee:22799125551",
-      "marketplace": "shopee",
-      "id": "22799125551",
-      "title": "Mochila Masculina Esportiva Impermeável para Notebook, Mochila Escolar de Viagem e Trabalho",
-      "title_norm": "mochila masculina esportiva impermeavel para notebook mochila escolar de viagem e trabalho",
-      "url": "https://shopee.com.br/product/1658947107/22799125551",
-      "affiliate_url": "https://s.shopee.com.br/7VFcexCqOO",
-      "category": "RON CHANG",
-      "bucket": "informatica",
-      "posted_ts": 1786860998,
-      "posted_at": "2026-08-16T06:16:38.783007+00:00",
-      "score": 126.44
-    },
-    {
-      "key": "mercadolivre:MLB7197070408",
-      "marketplace": "mercadolivre",
-      "id": "MLB7197070408",
-      "title": "Monitor Pressão Omron 7122: Saúde No Seu Braço",
-      "title_norm": "monitor pressao omron 7122 saude no seu braco",
-      "url": "https://www.mercadolivre.com.br/p/MLB75425217?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB75425217?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "category": "Informática",
-      "bucket": "informatica",
-      "posted_ts": 1786860227,
-      "posted_at": "2026-08-16T06:03:47.600613+00:00",
-      "score": 88.0
     }
   ],
-  "updated_at": "2026-08-24T20:21:07.450236+00:00"
+  "updated_at": "2026-08-24T21:03:46.536467+00:00"
 }
