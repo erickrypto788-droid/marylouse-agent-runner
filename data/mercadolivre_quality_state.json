@@ -1,6 +1,21 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB6632460608",
+      "product_id": "MLB6632460608",
+      "catalog_product_id": "MLB62814199",
+      "item_id": "MLB6632460608",
+      "url": "https://www.mercadolivre.com.br/p/MLB62814199?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB62814199?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "monitor de pressao arterial de braco monitor pressao arterial hc10014 muinaifte cor blanco",
+      "title": "Monitor De Pressão Arterial De Braço Monitor pressao arterial HC10014 MUINAIFTE Cor Blanco",
+      "category": "Informática",
+      "price": 127.48,
+      "score": 119.5,
+      "posted_ts": 1787558538,
+      "posted_at": "2026-08-24T08:02:18.924162+00:00"
+    },
+    {
       "key": "mercadolivre:MLB4313106591",
       "product_id": "MLB4313106591",
       "catalog_product_id": "MLB56425611",
@@ -946,5 +961,5 @@
       "posted_at": "2026-08-22T08:05:15.130705+00:00"
     }
   ],
-  "updated_at": "2026-08-24T06:02:39.056382+00:00"
+  "updated_at": "2026-08-24T08:02:18.924173+00:00"
 }

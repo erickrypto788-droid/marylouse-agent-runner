@@ -1,6 +1,20 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB6632460608",
+      "marketplace": "mercadolivre",
+      "id": "MLB6632460608",
+      "title": "Monitor De Pressão Arterial De Braço Monitor pressao arterial HC10014 MUINAIFTE Cor Blanco",
+      "title_norm": "monitor de pressao arterial de braco monitor pressao arterial hc10014 muinaifte cor blanco",
+      "url": "https://www.mercadolivre.com.br/p/MLB62814199?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB62814199?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Informática",
+      "bucket": "saude",
+      "posted_ts": 1787558538,
+      "posted_at": "2026-08-24T08:02:18.910389+00:00",
+      "score": 119.5
+    },
+    {
       "key": "shopee:19198016301",
       "marketplace": "shopee",
       "id": "19198016301",
@@ -13985,21 +13999,7 @@
       "posted_ts": 1786820805,
       "posted_at": "2026-08-15T19:06:45.244559+00:00",
       "score": 100.54
-    },
-    {
-      "key": "mercadolivre:MLB4637663771",
-      "marketplace": "mercadolivre",
-      "id": "MLB4637663771",
-      "title": "Blusa Fitness Feminina Ausare Para Academia de Poliamida Dry Fit",
-      "title_norm": "blusa fitness feminina ausare para academia de poliamida dry fit",
-      "url": "https://www.mercadolivre.com.br/p/MLB68415141?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB68415141?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "category": "Esportes",
-      "bucket": "esportes",
-      "posted_ts": 1786820741,
-      "posted_at": "2026-08-15T19:05:41.165668+00:00",
-      "score": 155.15
     }
   ],
-  "updated_at": "2026-08-24T07:19:28.276121+00:00"
+  "updated_at": "2026-08-24T08:02:18.910413+00:00"
 }
