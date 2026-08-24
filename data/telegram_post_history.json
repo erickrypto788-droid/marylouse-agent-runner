@@ -1,6 +1,20 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB5675473594",
+      "marketplace": "mercadolivre",
+      "id": "MLB5675473594",
+      "title": "Combo Parafusadeira Furadeira de Impacto 13mm + Parafusadeira de Impacto 6,3mm DEWALT DCK276D2",
+      "title_norm": "combo parafusadeira furadeira de impacto 13mm parafusadeira de impacto 6 3mm dewalt dck276d2",
+      "url": "https://www.mercadolivre.com.br/p/MLB21865416?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB21865416?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Ferramentas",
+      "bucket": "ferramentas",
+      "posted_ts": 1787540561,
+      "posted_at": "2026-08-24T03:02:41.254338+00:00",
+      "score": 124.0
+    },
+    {
       "key": "shopee:44809598956",
       "marketplace": "shopee",
       "id": "44809598956",
@@ -13985,21 +13999,7 @@
       "posted_ts": 1786803455,
       "posted_at": "2026-08-15T14:17:35.635180+00:00",
       "score": 86.08
-    },
-    {
-      "key": "shopee:21266419111",
-      "marketplace": "shopee",
-      "id": "21266419111",
-      "title": "Video game Stick 10mil 2 Controles Sem Fio Console Original Portatil Jogos Retro Antigo",
-      "title_norm": "video game stick 10mil 2 controles sem fio console original portatil jogos retro antigo",
-      "url": "https://shopee.com.br/product/362859393/21266419111",
-      "affiliate_url": "https://s.shopee.com.br/8fRaBKvdsc",
-      "category": "ALFA MERCEARIA.BR",
-      "bucket": "alfa_mercearia_br",
-      "posted_ts": 1786803391,
-      "posted_at": "2026-08-15T14:16:31.742698+00:00",
-      "score": 97.12
     }
   ],
-  "updated_at": "2026-08-24T02:21:12.679694+00:00"
+  "updated_at": "2026-08-24T03:02:41.254351+00:00"
 }

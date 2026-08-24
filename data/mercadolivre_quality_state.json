@@ -1,6 +1,21 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB5675473594",
+      "product_id": "MLB5675473594",
+      "catalog_product_id": "MLB21865416",
+      "item_id": "MLB5675473594",
+      "url": "https://www.mercadolivre.com.br/p/MLB21865416?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB21865416?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "combo parafusadeira furadeira de impacto 13mm parafusadeira de impacto 6 3mm dewalt dck276d2",
+      "title": "Combo Parafusadeira Furadeira de Impacto 13mm + Parafusadeira de Impacto 6,3mm DEWALT DCK276D2",
+      "category": "Ferramentas",
+      "price": 1599.0,
+      "score": 124.0,
+      "posted_ts": 1787540561,
+      "posted_at": "2026-08-24T03:02:41.265917+00:00"
+    },
+    {
       "key": "mercadolivre:MLB4750057565",
       "product_id": "MLB4750057565",
       "catalog_product_id": "MLB54083722",
@@ -991,5 +1006,5 @@
       "posted_at": "2026-08-22T03:02:54.377017+00:00"
     }
   ],
-  "updated_at": "2026-08-24T01:02:34.097657+00:00"
+  "updated_at": "2026-08-24T03:02:41.265926+00:00"
 }
