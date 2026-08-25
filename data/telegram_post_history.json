@@ -1,6 +1,34 @@
 {
   "posts": [
     {
+      "key": "shopee:58211149676",
+      "marketplace": "shopee",
+      "id": "58211149676",
+      "title": "tenis Unissex Old Knu Feminino Masculino Branco Preto Promoção envio imediato.",
+      "title_norm": "tenis unissex old knu feminino masculino branco preto promocao envio imediato",
+      "url": "https://shopee.com.br/product/1330875176/58211149676",
+      "affiliate_url": "https://s.shopee.com.br/7KwSPYcvJ9",
+      "category": "Vnshoes",
+      "bucket": "calcados",
+      "posted_ts": 1787660264,
+      "posted_at": "2026-08-25T12:17:44.032247+00:00",
+      "score": 98.66
+    },
+    {
+      "key": "shopee:20198028410",
+      "marketplace": "shopee",
+      "id": "20198028410",
+      "title": "Bota CAT Coturno Preto Palmilha Gel Ortopédica Couro Masculino Promoção Envio Rápido",
+      "title_norm": "bota cat coturno preto palmilha gel ortopedica couro masculino promocao envio rapido",
+      "url": "https://shopee.com.br/product/391757444/20198028410",
+      "affiliate_url": "https://s.shopee.com.br/4AzQdk2B4Z",
+      "category": "ELITE SHOES ",
+      "bucket": "calcados",
+      "posted_ts": 1787660199,
+      "posted_at": "2026-08-25T12:16:39.825871+00:00",
+      "score": 99.71
+    },
+    {
       "key": "shopee:58212070015",
       "marketplace": "shopee",
       "id": "58212070015",
@@ -13971,35 +13999,7 @@
       "posted_ts": 1786904330,
       "posted_at": "2026-08-16T18:18:50.446345+00:00",
       "score": 100.59
-    },
-    {
-      "key": "shopee:20599198575",
-      "marketplace": "shopee",
-      "id": "20599198575",
-      "title": "Chapinha Prancha Cabelo Profissional Nano Titanium 450F BIVOLT",
-      "title_norm": "chapinha prancha cabelo profissional nano titanium 450f bivolt",
-      "url": "https://shopee.com.br/product/391739739/20599198575",
-      "affiliate_url": "https://s.shopee.com.br/8Kole6JspK",
-      "category": "ANJ.GG store",
-      "bucket": "beleza",
-      "posted_ts": 1786904266,
-      "posted_at": "2026-08-16T18:17:46.130803+00:00",
-      "score": 135.82
-    },
-    {
-      "key": "shopee:55050251437",
-      "marketplace": "shopee",
-      "id": "55050251437",
-      "title": "KIT BODY SPLASH MASCULINO BARBARIUS E MIDTOWN 200ML - PRIMACIAL PERFUME FRESCO AMADEIRADO",
-      "title_norm": "kit body splash masculino barbarius e midtown 200ml primacial perfume fresco amadeirado",
-      "url": "https://shopee.com.br/product/1295467768/55050251437",
-      "affiliate_url": "https://s.shopee.com.br/8V8AVzt9Lw",
-      "category": "Primacial",
-      "bucket": "beleza",
-      "posted_ts": 1786904198,
-      "posted_at": "2026-08-16T18:16:38.186003+00:00",
-      "score": 135.85
     }
   ],
-  "updated_at": "2026-08-25T11:19:56.565316+00:00"
+  "updated_at": "2026-08-25T12:17:44.032271+00:00"
 }
