@@ -1,6 +1,36 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB5026800457",
+      "product_id": "MLB5026800457",
+      "catalog_product_id": "MLB20643765",
+      "item_id": "MLB5026800457",
+      "url": "https://www.mercadolivre.com.br/p/MLB20643765?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB20643765?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "carregador iphone tipo usb c cor branco",
+      "title": "Carregador iPhone Tipo USB-C Cor Branco",
+      "category": "Informática",
+      "price": 349.99,
+      "score": 127.0,
+      "posted_ts": 1787616240,
+      "posted_at": "2026-08-25T00:04:00.469817+00:00"
+    },
+    {
+      "key": "mercadolivre:MLB4777552385",
+      "product_id": "MLB4777552385",
+      "catalog_product_id": "MLB47815788",
+      "item_id": "MLB4777552385",
+      "url": "https://www.mercadolivre.com.br/p/MLB47815788?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB47815788?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "smartphone xiaomi redmi 14c 4g 256gb ram 4gb preto",
+      "title": "Smartphone Xiaomi Redmi 14c 4g 256gb Ram 4gb Preto",
+      "category": "Informática",
+      "price": 840.0,
+      "score": 127.0,
+      "posted_ts": 1787616176,
+      "posted_at": "2026-08-25T00:02:56.197753+00:00"
+    },
+    {
       "key": "mercadolivre:MLB7483969764",
       "product_id": "MLB7483969764",
       "catalog_product_id": "MLB50957106",
@@ -916,5 +946,5 @@
       "posted_at": "2026-08-23T01:05:11.741462+00:00"
     }
   ],
-  "updated_at": "2026-08-24T22:02:46.290293+00:00"
+  "updated_at": "2026-08-25T00:04:00.469830+00:00"
 }

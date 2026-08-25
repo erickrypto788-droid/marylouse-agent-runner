@@ -1,6 +1,34 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB5026800457",
+      "marketplace": "mercadolivre",
+      "id": "MLB5026800457",
+      "title": "Carregador iPhone Tipo USB-C Cor Branco",
+      "title_norm": "carregador iphone tipo usb c cor branco",
+      "url": "https://www.mercadolivre.com.br/p/MLB20643765?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB20643765?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Informática",
+      "bucket": "celulares",
+      "posted_ts": 1787616240,
+      "posted_at": "2026-08-25T00:04:00.455874+00:00",
+      "score": 127.0
+    },
+    {
+      "key": "mercadolivre:MLB4777552385",
+      "marketplace": "mercadolivre",
+      "id": "MLB4777552385",
+      "title": "Smartphone Xiaomi Redmi 14c 4g 256gb Ram 4gb Preto",
+      "title_norm": "smartphone xiaomi redmi 14c 4g 256gb ram 4gb preto",
+      "url": "https://www.mercadolivre.com.br/p/MLB47815788?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB47815788?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Informática",
+      "bucket": "celulares",
+      "posted_ts": 1787616176,
+      "posted_at": "2026-08-25T00:02:56.183885+00:00",
+      "score": 127.0
+    },
+    {
       "key": "shopee:20298322054",
       "marketplace": "shopee",
       "id": "20298322054",
@@ -13971,35 +13999,7 @@
       "posted_ts": 1786871799,
       "posted_at": "2026-08-16T09:16:39.836261+00:00",
       "score": 118.26
-    },
-    {
-      "key": "mercadolivre:MLB4864941673",
-      "marketplace": "mercadolivre",
-      "id": "MLB4864941673",
-      "title": "Babá Eletrônica Hellobaby Hb66pro Monitor Bebê 3.2 White",
-      "title_norm": "baba eletronica hellobaby hb66pro monitor bebe 3 2 white",
-      "url": "https://www.mercadolivre.com.br/p/MLB51893724?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB51893724?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "category": "Informática",
-      "bucket": "informatica",
-      "posted_ts": 1786871021,
-      "posted_at": "2026-08-16T09:03:41.839027+00:00",
-      "score": 86.0
-    },
-    {
-      "key": "mercadolivre:MLB7284866408",
-      "marketplace": "mercadolivre",
-      "id": "MLB7284866408",
-      "title": "Tchauzinho, Fralda! - Melhoramentos",
-      "title_norm": "tchauzinho fralda melhoramentos",
-      "url": "https://www.mercadolivre.com.br/p/MLB40540370?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB40540370?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "category": "Mãe e Bebê",
-      "bucket": "fraldas",
-      "posted_ts": 1786870953,
-      "posted_at": "2026-08-16T09:02:33.898348+00:00",
-      "score": 114.0
     }
   ],
-  "updated_at": "2026-08-24T23:21:18.012122+00:00"
+  "updated_at": "2026-08-25T00:04:00.455890+00:00"
 }
