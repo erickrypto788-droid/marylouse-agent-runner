@@ -1,6 +1,34 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB5297261932",
+      "marketplace": "mercadolivre",
+      "id": "MLB5297261932",
+      "title": "Brinquedo Lider Kit Ferramentas - 2381",
+      "title_norm": "brinquedo lider kit ferramentas 2381",
+      "url": "https://www.mercadolivre.com.br/p/MLB45785598?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB45785598?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Ferramentas",
+      "bucket": "ferramentas",
+      "posted_ts": 1787673831,
+      "posted_at": "2026-08-25T16:03:51.518371+00:00",
+      "score": 88.0
+    },
+    {
+      "key": "mercadolivre:MLB6149389980",
+      "marketplace": "mercadolivre",
+      "id": "MLB6149389980",
+      "title": "Kit Furadeira e Parafusadeira com Parafusadeira Dewalt Modelo DCK200ME2GT 2 Baterias 20V",
+      "title_norm": "kit furadeira e parafusadeira com parafusadeira dewalt modelo dck200me2gt 2 baterias 20v",
+      "url": "https://www.mercadolivre.com.br/p/MLB37180897?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB37180897?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Ferramentas",
+      "bucket": "ferramentas",
+      "posted_ts": 1787673765,
+      "posted_at": "2026-08-25T16:02:45.633810+00:00",
+      "score": 109.0
+    },
+    {
       "key": "shopee:58206298219",
       "marketplace": "shopee",
       "id": "58206298219",
@@ -13971,35 +13999,7 @@
       "posted_ts": 1786911653,
       "posted_at": "2026-08-16T20:20:53.722087+00:00",
       "score": 113.59
-    },
-    {
-      "key": "shopee:58251614514",
-      "marketplace": "shopee",
-      "id": "58251614514",
-      "title": "Belifou Glitter Garrafa Térmica Portátil De 800 Ml Com Isolamento Duplo Adequada Para Academia",
-      "title_norm": "belifou glitter garrafa termica portatil de 800 ml com isolamento duplo adequada para academia",
-      "url": "https://shopee.com.br/product/1224363395/58251614514",
-      "affiliate_url": "https://s.shopee.com.br/qikqYn4tj",
-      "category": "Belifou Talheres",
-      "bucket": "belifou_talheres",
-      "posted_ts": 1786911589,
-      "posted_at": "2026-08-16T20:19:49.703549+00:00",
-      "score": 113.61
-    },
-    {
-      "key": "shopee:22736025276",
-      "marketplace": "shopee",
-      "id": "22736025276",
-      "title": "Whey Blend Protein Concentrado e Isolado 900g Soldiers Nutrition Suplemento Proteína Muscular Recuperação",
-      "title_norm": "whey blend protein concentrado e isolado 900g soldiers nutrition suplemento proteina muscular recuperacao",
-      "url": "https://shopee.com.br/product/347988064/22736025276",
-      "affiliate_url": "https://s.shopee.com.br/9fK9MnJZhc",
-      "category": "Soldiers Nutrition",
-      "bucket": "pet",
-      "posted_ts": 1786911525,
-      "posted_at": "2026-08-16T20:18:45.724007+00:00",
-      "score": 114.37
     }
   ],
-  "updated_at": "2026-08-25T15:22:47.631314+00:00"
+  "updated_at": "2026-08-25T16:03:51.518385+00:00"
 }
