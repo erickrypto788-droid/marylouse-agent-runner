@@ -1,6 +1,36 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB7038340852",
+      "product_id": "MLB7038340852",
+      "catalog_product_id": "MLB61698753",
+      "item_id": "MLB7038340852",
+      "url": "https://www.mercadolivre.com.br/p/MLB61698753?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB61698753?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "smartphone samsung galaxy a56 5g preto 256gb",
+      "title": "Smartphone Samsung Galaxy A56 5g Preto 256gb",
+      "category": "Informática",
+      "price": 2969.0,
+      "score": 124.0,
+      "posted_ts": 1787688222,
+      "posted_at": "2026-08-25T20:03:42.953925+00:00"
+    },
+    {
+      "key": "mercadolivre:MLB7238539878",
+      "product_id": "MLB7238539878",
+      "catalog_product_id": "MLB39444837",
+      "item_id": "MLB7238539878",
+      "url": "https://www.mercadolivre.com.br/p/MLB39444837?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB39444837?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "smartphone samsung galaxy s23 ultra 512gb creme",
+      "title": "Smartphone Samsung Galaxy S23 Ultra 512gb Creme",
+      "category": "Informática",
+      "price": 5999.0,
+      "score": 124.0,
+      "posted_ts": 1787688158,
+      "posted_at": "2026-08-25T20:02:38.927379+00:00"
+    },
+    {
       "key": "mercadolivre:MLB7226098148",
       "product_id": "MLB7226098148",
       "catalog_product_id": "MLB68059006",
@@ -719,52 +749,7 @@
       "score": 144.05,
       "posted_ts": 1787515425,
       "posted_at": "2026-08-23T20:03:45.989540+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB4623864041",
-      "product_id": "MLB4623864041",
-      "catalog_product_id": "MLB29684586",
-      "item_id": "MLB4623864041",
-      "url": "https://www.mercadolivre.com.br/p/MLB29684586?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB29684586?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "condicionador infantil 250ml buba care",
-      "title": "Condicionador Infantil 250ml Buba Care",
-      "category": "Beleza",
-      "price": 41.5,
-      "score": 88.0,
-      "posted_ts": 1787512139,
-      "posted_at": "2026-08-23T19:08:59.241319+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB5118569459",
-      "product_id": "MLB5118569459",
-      "catalog_product_id": "MLB21407698",
-      "item_id": "MLB5118569459",
-      "url": "https://www.mercadolivre.com.br/p/MLB21407698?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB21407698?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "arroz motigome 1kg",
-      "title": "Arroz Motigome 1kg",
-      "category": "Supermercados",
-      "price": 36.4,
-      "score": 106.01,
-      "posted_ts": 1787512074,
-      "posted_at": "2026-08-23T19:07:54.783290+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB4219197703",
-      "product_id": "MLB4219197703",
-      "catalog_product_id": "MLB34684493",
-      "item_id": "MLB4219197703",
-      "url": "https://www.mercadolivre.com.br/p/MLB34684493?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB34684493?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "azeite oliva extra virgem portugues vila oliva 500ml 3 un",
-      "title": "Azeite Oliva Extra Virgem Português Vila Oliva 500ml (3 Un)",
-      "category": "Supermercados",
-      "price": 136.0,
-      "score": 138.07,
-      "posted_ts": 1787512009,
-      "posted_at": "2026-08-23T19:06:49.904943+00:00"
     }
   ],
-  "updated_at": "2026-08-25T18:03:00.929960+00:00"
+  "updated_at": "2026-08-25T20:03:42.953947+00:00"
 }
