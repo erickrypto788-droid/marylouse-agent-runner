@@ -1,6 +1,48 @@
 {
   "posts": [
     {
+      "key": "shopee:11298889483",
+      "marketplace": "shopee",
+      "id": "11298889483",
+      "title": "Kit chinelo Luiza Liz e necessaire bolsa de mão pequena kit dia a dia blogueira",
+      "title_norm": "kit chinelo luiza liz e necessaire bolsa de mao pequena kit dia a dia blogueira",
+      "url": "https://shopee.com.br/product/333046879/11298889483",
+      "affiliate_url": "https://s.shopee.com.br/7KwT4lNAkF",
+      "category": "Luiza Liz calçados",
+      "bucket": "calcados",
+      "posted_ts": 1787696329,
+      "posted_at": "2026-08-25T22:18:49.100004+00:00",
+      "score": 92.66
+    },
+    {
+      "key": "shopee:22196157275",
+      "marketplace": "shopee",
+      "id": "22196157275",
+      "title": "Bolsa Feminina Esportiva e Viagem Grande com Alça de Ombro  JORGE",
+      "title_norm": "bolsa feminina esportiva e viagem grande com alca de ombro jorge",
+      "url": "https://shopee.com.br/product/410705973/22196157275",
+      "affiliate_url": "https://s.shopee.com.br/1Vyg82eyq0",
+      "category": "Jorge.store",
+      "bucket": "bolsas",
+      "posted_ts": 1787696264,
+      "posted_at": "2026-08-25T22:17:44.975325+00:00",
+      "score": 106.99
+    },
+    {
+      "key": "shopee:23593847901",
+      "marketplace": "shopee",
+      "id": "23593847901",
+      "title": "Mochila Bolsa Viagem Resistente Coreana Masculina Feminina Colorida",
+      "title_norm": "mochila bolsa viagem resistente coreana masculina feminina colorida",
+      "url": "https://shopee.com.br/product/1127030290/23593847901",
+      "affiliate_url": "https://s.shopee.com.br/5LBOh5MGIu",
+      "category": "JIMMY.STORE",
+      "bucket": "bolsas",
+      "posted_ts": 1787696201,
+      "posted_at": "2026-08-25T22:16:41.074079+00:00",
+      "score": 107.69
+    },
+    {
       "key": "mercadolivre:MLB7197070408",
       "marketplace": "mercadolivre",
       "id": "MLB7197070408",
@@ -13957,49 +13999,7 @@
       "posted_ts": 1786940332,
       "posted_at": "2026-08-17T04:18:52.084097+00:00",
       "score": 93.47
-    },
-    {
-      "key": "shopee:41580470160",
-      "marketplace": "shopee",
-      "id": "41580470160",
-      "title": "SSD de alta velocidade SATA III de 2.5 polegadas 60-256 GB PC/Laptop integrado",
-      "title_norm": "ssd de alta velocidade sata iii de 2 5 polegadas 60 256 gb pc laptop integrado",
-      "url": "https://shopee.com.br/product/706212348/41580470160",
-      "affiliate_url": "https://s.shopee.com.br/W5uumwAQ6",
-      "category": "gaotengyu.br",
-      "bucket": "informatica",
-      "posted_ts": 1786940267,
-      "posted_at": "2026-08-17T04:17:47.834005+00:00",
-      "score": 129.75
-    },
-    {
-      "key": "shopee:26831733224",
-      "marketplace": "shopee",
-      "id": "26831733224",
-      "title": "Monitor Gamer ARZOPA M1RC, 27\" 2K QHD 180Hz IPS, 1ms, 115% sRGB, USB-C, HDMI, Display Port",
-      "title_norm": "monitor gamer arzopa m1rc 27 2k qhd 180hz ips 1ms 115 srgb usb c hdmi display port",
-      "url": "https://shopee.com.br/product/1479426456/26831733224",
-      "affiliate_url": "https://s.shopee.com.br/2qTph4j1Qi",
-      "category": "ARZOPA Official Store",
-      "bucket": "informatica",
-      "posted_ts": 1786940203,
-      "posted_at": "2026-08-17T04:16:43.633799+00:00",
-      "score": 131.28
-    },
-    {
-      "key": "shopee:18598052887",
-      "marketplace": "shopee",
-      "id": "18598052887",
-      "title": "Estojo De Lápis Escolar Juvenil Box Jumbo Nylon Táctico Grande Com Divisória",
-      "title_norm": "estojo de lapis escolar juvenil box jumbo nylon tactico grande com divisoria",
-      "url": "https://shopee.com.br/product/1384480317/18598052887",
-      "affiliate_url": "https://s.shopee.com.br/LmUeMYUYJ",
-      "category": "ÓTIMO DIVERSOS",
-      "bucket": "otimo_diversos",
-      "posted_ts": 1786933315,
-      "posted_at": "2026-08-17T02:21:55.418998+00:00",
-      "score": 91.66
     }
   ],
-  "updated_at": "2026-08-25T22:02:28.874725+00:00"
+  "updated_at": "2026-08-25T22:18:49.100018+00:00"
 }
