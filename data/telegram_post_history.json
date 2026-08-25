@@ -1,6 +1,48 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB4795061481",
+      "marketplace": "mercadolivre",
+      "id": "MLB4795061481",
+      "title": "Molde Calça Legging Feminina Digital Pp-p-m-g-gg",
+      "title_norm": "molde calca legging feminina digital pp p m g gg",
+      "url": "https://www.mercadolivre.com.br/p/MLB74011420?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB74011420?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Moda Feminina",
+      "bucket": "moda_feminina",
+      "posted_ts": 1787652341,
+      "posted_at": "2026-08-25T10:05:41.817333+00:00",
+      "score": 88.0
+    },
+    {
+      "key": "mercadolivre:MLB7083949146",
+      "marketplace": "mercadolivre",
+      "id": "MLB7083949146",
+      "title": "Molde Calça Feminina Moletom Impresso P/m/g/gg/xg",
+      "title_norm": "molde calca feminina moletom impresso p m g gg xg",
+      "url": "https://www.mercadolivre.com.br/p/MLB74893563?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB74893563?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Moda Feminina",
+      "bucket": "moda_feminina",
+      "posted_ts": 1787652277,
+      "posted_at": "2026-08-25T10:04:37.767176+00:00",
+      "score": 88.0
+    },
+    {
+      "key": "mercadolivre:MLB7277437264",
+      "marketplace": "mercadolivre",
+      "id": "MLB7277437264",
+      "title": "10 Pçs Pérola Strass Broche Pinos Para Camisa Feminina Botõe",
+      "title_norm": "10 pcs perola strass broche pinos para camisa feminina botoe",
+      "url": "https://www.mercadolivre.com.br/p/MLB75880795?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB75880795?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Moda Feminina",
+      "bucket": "moda_feminina",
+      "posted_ts": 1787652209,
+      "posted_at": "2026-08-25T10:03:29.508861+00:00",
+      "score": 94.62
+    },
+    {
       "key": "shopee:22094702926",
       "marketplace": "shopee",
       "id": "22094702926",
@@ -13957,49 +13999,7 @@
       "posted_ts": 1786899755,
       "posted_at": "2026-08-16T17:02:35.868106+00:00",
       "score": 108.0
-    },
-    {
-      "key": "shopee:22494456015",
-      "marketplace": "shopee",
-      "id": "22494456015",
-      "title": "Fone de ouvido Bluetooth Sem Fio Headphone Bluetooth Recarregável P9 Air Top Casual Esportivo",
-      "title_norm": "fone de ouvido bluetooth sem fio headphone bluetooth recarregavel p9 air top casual esportivo",
-      "url": "https://shopee.com.br/product/1396355892/22494456015",
-      "affiliate_url": "https://s.shopee.com.br/3qMM9bNB3b",
-      "category": "TOP LOJA ELETRONICO",
-      "bucket": "top_loja_eletronico",
-      "posted_ts": 1786897267,
-      "posted_at": "2026-08-16T16:21:07.097251+00:00",
-      "score": 99.45
-    },
-    {
-      "key": "shopee:20607193834",
-      "marketplace": "shopee",
-      "id": "20607193834",
-      "title": "CARREGADOR PORTÁTIL POWER BANK UNIVERSAL 10.000MAH E 5.000MAH",
-      "title_norm": "carregador portatil power bank universal 10 000mah e 5 000mah",
-      "url": "https://shopee.com.br/product/238078335/20607193834",
-      "affiliate_url": "https://s.shopee.com.br/1qbHlvQFqL",
-      "category": "LUFEE ACESSÓRIOS",
-      "bucket": "lufee_acessorios",
-      "posted_ts": 1786897202,
-      "posted_at": "2026-08-16T16:20:02.830512+00:00",
-      "score": 126.29
-    },
-    {
-      "key": "shopee:58203749906",
-      "marketplace": "shopee",
-      "id": "58203749906",
-      "title": "2026 Novo Q71 Fones de ouvido Bluetooth sem fio OWS fones de ouvido esportivos com clipe",
-      "title_norm": "2026 novo q71 fones de ouvido bluetooth sem fio ows fones de ouvido esportivos com clipe",
-      "url": "https://shopee.com.br/product/1566977006/58203749906",
-      "affiliate_url": "https://s.shopee.com.br/1BLayhXKTL",
-      "category": "LUNANA Shop",
-      "bucket": "lunana_shop",
-      "posted_ts": 1786897138,
-      "posted_at": "2026-08-16T16:18:58.637166+00:00",
-      "score": 126.77
     }
   ],
-  "updated_at": "2026-08-25T09:21:20.826375+00:00"
+  "updated_at": "2026-08-25T10:05:41.817349+00:00"
 }
