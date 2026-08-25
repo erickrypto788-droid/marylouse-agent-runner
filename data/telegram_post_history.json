@@ -1,6 +1,20 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB4974714813",
+      "marketplace": "mercadolivre",
+      "id": "MLB4974714813",
+      "title": "Ração Gato Estimacat Premium Filhote Sabor Frango 10kg",
+      "title_norm": "racao gato estimacat premium filhote sabor frango 10kg",
+      "url": "https://www.mercadolivre.com.br/p/MLB66844874?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB66844874?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Pet",
+      "bucket": "pet",
+      "posted_ts": 1787698950,
+      "posted_at": "2026-08-25T23:02:30.395011+00:00",
+      "score": 154.83
+    },
+    {
       "key": "shopee:11298889483",
       "marketplace": "shopee",
       "id": "11298889483",
@@ -13985,21 +13999,7 @@
       "posted_ts": 1786940402,
       "posted_at": "2026-08-17T04:20:02.136344+00:00",
       "score": 92.13
-    },
-    {
-      "key": "shopee:22995022125",
-      "marketplace": "shopee",
-      "id": "22995022125",
-      "title": "Repetidor Wifi 1200m 6 Antenas 3 in 1 functios 2.4g Roteador Amplificador De Sinal e Modem 300MBPS",
-      "title_norm": "repetidor wifi 1200m 6 antenas 3 in 1 functios 2 4g roteador amplificador de sinal e modem 300mbps",
-      "url": "https://shopee.com.br/product/1607476642/22995022125",
-      "affiliate_url": "https://s.shopee.com.br/1Lf1uK205N",
-      "category": "LM TECH STORE",
-      "bucket": "pet",
-      "posted_ts": 1786940332,
-      "posted_at": "2026-08-17T04:18:52.084097+00:00",
-      "score": 93.47
     }
   ],
-  "updated_at": "2026-08-25T22:18:49.100018+00:00"
+  "updated_at": "2026-08-25T23:02:30.395037+00:00"
 }

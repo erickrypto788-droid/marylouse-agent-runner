@@ -1,6 +1,21 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB4974714813",
+      "product_id": "MLB4974714813",
+      "catalog_product_id": "MLB66844874",
+      "item_id": "MLB4974714813",
+      "url": "https://www.mercadolivre.com.br/p/MLB66844874?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB66844874?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "racao gato estimacat premium filhote sabor frango 10kg",
+      "title": "Ração Gato Estimacat Premium Filhote Sabor Frango 10kg",
+      "category": "Pet",
+      "price": 253.07,
+      "score": 154.83,
+      "posted_ts": 1787698950,
+      "posted_at": "2026-08-25T23:02:30.410125+00:00"
+    },
+    {
       "key": "mercadolivre:MLB7197070408",
       "product_id": "MLB7197070408",
       "catalog_product_id": "MLB75425217",
@@ -676,5 +691,5 @@
       "posted_at": "2026-08-23T23:02:38.126188+00:00"
     }
   ],
-  "updated_at": "2026-08-25T22:02:28.888118+00:00"
+  "updated_at": "2026-08-25T23:02:30.410137+00:00"
 }
