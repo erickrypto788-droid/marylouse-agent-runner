@@ -1,6 +1,48 @@
 {
   "posts": [
     {
+      "key": "shopee:58253268558",
+      "marketplace": "shopee",
+      "id": "58253268558",
+      "title": "Kit Monitor Medidor Glicose G-tech Vita Ultra Cinza-escuro",
+      "title_norm": "kit monitor medidor glicose g tech vita ultra cinza escuro",
+      "url": "https://shopee.com.br/product/343813983/58253268558",
+      "affiliate_url": "https://s.shopee.com.br/2LXmzL1yOb",
+      "category": "Shoplandia Oficial",
+      "bucket": "shoplandia_oficial",
+      "posted_ts": 1787689140,
+      "posted_at": "2026-08-25T20:19:00.123950+00:00",
+      "score": 44.03
+    },
+    {
+      "key": "shopee:22994959649",
+      "marketplace": "shopee",
+      "id": "22994959649",
+      "title": "Kit Hospitalar Doméstico Completo: Medidor de Pressão, Termômetro Infravermelho e Oxímetro",
+      "title_norm": "kit hospitalar domestico completo medidor de pressao termometro infravermelho e oximetro",
+      "url": "https://shopee.com.br/product/1242067486/22994959649",
+      "affiliate_url": "https://s.shopee.com.br/AKa4W2Oa6h",
+      "category": "Rossi Stores",
+      "bucket": "saude",
+      "posted_ts": 1787689075,
+      "posted_at": "2026-08-25T20:17:55.839971+00:00",
+      "score": 101.66
+    },
+    {
+      "key": "shopee:20999578899",
+      "marketplace": "shopee",
+      "id": "20999578899",
+      "title": "Inalador Ultrassônico Portátil Nebulizador USB Pilha Sem Fio - Pronta Entrega",
+      "title_norm": "inalador ultrassonico portatil nebulizador usb pilha sem fio pronta entrega",
+      "url": "https://shopee.com.br/product/1441056601/20999578899",
+      "affiliate_url": "https://s.shopee.com.br/5foExSc5Jv",
+      "category": "LDK IMPORTS",
+      "bucket": "saude",
+      "posted_ts": 1787689006,
+      "posted_at": "2026-08-25T20:16:46.058395+00:00",
+      "score": 120.29
+    },
+    {
       "key": "mercadolivre:MLB7038340852",
       "marketplace": "mercadolivre",
       "id": "MLB7038340852",
@@ -13957,49 +13999,7 @@
       "posted_ts": 1786929662,
       "posted_at": "2026-08-17T01:21:02.779007+00:00",
       "score": 87.79
-    },
-    {
-      "key": "shopee:23892786171",
-      "marketplace": "shopee",
-      "id": "23892786171",
-      "title": "Mochila de Ombro Transversal Compacta Unilateral USB Trava de Código Á prova d'água",
-      "title_norm": "mochila de ombro transversal compacta unilateral usb trava de codigo a prova d agua",
-      "url": "https://shopee.com.br/product/400262096/23892786171",
-      "affiliate_url": "https://s.shopee.com.br/8fRcVYvdvo",
-      "category": "Yobel.Loja",
-      "bucket": "bolsas",
-      "posted_ts": 1786929598,
-      "posted_at": "2026-08-17T01:19:58.647928+00:00",
-      "score": 91.93
-    },
-    {
-      "key": "shopee:22293608459",
-      "marketplace": "shopee",
-      "id": "22293608459",
-      "title": "Carteira Masculina de Couro Luxo Cor Preta Premium Couro Fino Presente Homem com caixa ITIRU Presente Dia Dos Pais",
-      "title_norm": "carteira masculina de couro luxo cor preta premium couro fino presente homem com caixa itiru presente dia dos pais",
-      "url": "https://shopee.com.br/product/372191157/22293608459",
-      "affiliate_url": "https://s.shopee.com.br/1VyRyOZzLa",
-      "category": "Solara Shop",
-      "bucket": "solara_shop",
-      "posted_ts": 1786929534,
-      "posted_at": "2026-08-17T01:18:54.494854+00:00",
-      "score": 93.35
-    },
-    {
-      "key": "shopee:23892712301",
-      "marketplace": "shopee",
-      "id": "23892712301",
-      "title": "Mochila Couro Masculina Reforçada Para Notebook Escolar Excecultivo Social",
-      "title_norm": "mochila couro masculina reforcada para notebook escolar excecultivo social",
-      "url": "https://shopee.com.br/product/379659209/23892712301",
-      "affiliate_url": "https://s.shopee.com.br/6VN7va3tKB",
-      "category": "magiaworld",
-      "bucket": "informatica",
-      "posted_ts": 1786929470,
-      "posted_at": "2026-08-17T01:17:50.278254+00:00",
-      "score": 118.42
     }
   ],
-  "updated_at": "2026-08-25T20:03:42.935883+00:00"
+  "updated_at": "2026-08-25T20:19:00.123963+00:00"
 }
