@@ -1,6 +1,21 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB7226098148",
+      "product_id": "MLB7226098148",
+      "catalog_product_id": "MLB68059006",
+      "item_id": "MLB7226098148",
+      "url": "https://www.mercadolivre.com.br/p/MLB68059006?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB68059006?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "fone bluetooth esportivo 320mah fone sem fio fone academia preto",
+      "title": "Fone Bluetooth Esportivo 320mah Fone Sem Fio Fone Academia Preto",
+      "category": "Esportes",
+      "price": 51.56,
+      "score": 119.89,
+      "posted_ts": 1787680980,
+      "posted_at": "2026-08-25T18:03:00.929948+00:00"
+    },
+    {
       "key": "mercadolivre:MLB4036053887",
       "product_id": "MLB4036053887",
       "catalog_product_id": "MLB24522367",
@@ -749,22 +764,7 @@
       "score": 138.07,
       "posted_ts": 1787512009,
       "posted_at": "2026-08-23T19:06:49.904943+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB6194259162",
-      "product_id": "MLB6194259162",
-      "catalog_product_id": "MLB26008929",
-      "item_id": "MLB6194259162",
-      "url": "https://www.mercadolivre.com.br/p/MLB26008929?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB26008929?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "cadeira gamer profissional ergonomica giratoria vermelha para escritorio",
-      "title": "Cadeira Gamer Profissional Ergonômica Giratória Vermelha para Escritório",
-      "category": "Casa e Cozinha",
-      "price": 900.0,
-      "score": 86.0,
-      "posted_ts": 1787508138,
-      "posted_at": "2026-08-23T18:02:18.761391+00:00"
     }
   ],
-  "updated_at": "2026-08-25T17:07:01.109968+00:00"
+  "updated_at": "2026-08-25T18:03:00.929960+00:00"
 }

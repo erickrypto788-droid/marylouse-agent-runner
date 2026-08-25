@@ -1,6 +1,20 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB7226098148",
+      "marketplace": "mercadolivre",
+      "id": "MLB7226098148",
+      "title": "Fone Bluetooth Esportivo 320mah Fone Sem Fio Fone Academia Preto",
+      "title_norm": "fone bluetooth esportivo 320mah fone sem fio fone academia preto",
+      "url": "https://www.mercadolivre.com.br/p/MLB68059006?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB68059006?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Esportes",
+      "bucket": "esportes",
+      "posted_ts": 1787680980,
+      "posted_at": "2026-08-25T18:03:00.915594+00:00",
+      "score": 119.89
+    },
+    {
       "key": "shopee:12413869764",
       "marketplace": "shopee",
       "id": "12413869764",
@@ -13985,21 +13999,7 @@
       "posted_ts": 1786918789,
       "posted_at": "2026-08-16T22:19:49.526163+00:00",
       "score": 87.65
-    },
-    {
-      "key": "shopee:23292979767",
-      "marketplace": "shopee",
-      "id": "23292979767",
-      "title": "Balança Corporal Digital Banheiro Academia Crossfit Casa Suporta 180kg Vidro",
-      "title_norm": "balanca corporal digital banheiro academia crossfit casa suporta 180kg vidro",
-      "url": "https://shopee.com.br/product/987105961/23292979767",
-      "affiliate_url": "https://s.shopee.com.br/1qbIAdjVGd",
-      "category": "Virtualshopsp02",
-      "bucket": "virtualshopsp02",
-      "posted_ts": 1786918725,
-      "posted_at": "2026-08-16T22:18:45.335488+00:00",
-      "score": 89.05
     }
   ],
-  "updated_at": "2026-08-25T17:23:12.602438+00:00"
+  "updated_at": "2026-08-25T18:03:00.915610+00:00"
 }
