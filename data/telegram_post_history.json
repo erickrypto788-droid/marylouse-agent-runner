@@ -1,6 +1,20 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB7441005040",
+      "marketplace": "mercadolivre",
+      "id": "MLB7441005040",
+      "title": "Ração Cachorro Bravo Cordeiro E Arroz 10.1kg",
+      "title_norm": "racao cachorro bravo cordeiro e arroz 10 1kg",
+      "url": "https://www.mercadolivre.com.br/p/MLB31341013?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB31341013?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Supermercados",
+      "bucket": "pet",
+      "posted_ts": 1787626943,
+      "posted_at": "2026-08-25T03:02:23.913424+00:00",
+      "score": 114.0
+    },
+    {
       "key": "shopee:23498386191",
       "marketplace": "shopee",
       "id": "23498386191",
@@ -13985,21 +13999,7 @@
       "posted_ts": 1786879140,
       "posted_at": "2026-08-16T11:19:00.715248+00:00",
       "score": 115.46
-    },
-    {
-      "key": "shopee:22096426333",
-      "marketplace": "shopee",
-      "id": "22096426333",
-      "title": "Calça Mom Jeans Cintura Alta Feminina Levanta Bumbum",
-      "title_norm": "calca mom jeans cintura alta feminina levanta bumbum",
-      "url": "https://shopee.com.br/product/869193731/22096426333",
-      "affiliate_url": "https://s.shopee.com.br/6VN6ztAF2I",
-      "category": "OxeanJeans",
-      "bucket": "oxeanjeans",
-      "posted_ts": 1786879068,
-      "posted_at": "2026-08-16T11:17:48.965326+00:00",
-      "score": 116.69
     }
   ],
-  "updated_at": "2026-08-25T02:20:52.854494+00:00"
+  "updated_at": "2026-08-25T03:02:23.913438+00:00"
 }
