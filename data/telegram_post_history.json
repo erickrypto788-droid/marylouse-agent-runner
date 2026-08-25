@@ -1,6 +1,20 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB4036053887",
+      "marketplace": "mercadolivre",
+      "id": "MLB4036053887",
+      "title": "SSD Nvme Asgard AN4 1tb Gen4",
+      "title_norm": "ssd nvme asgard an4 1tb gen4",
+      "url": "https://www.mercadolivre.com.br/p/MLB24522367?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB24522367?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Informática",
+      "bucket": "informatica",
+      "posted_ts": 1787677621,
+      "posted_at": "2026-08-25T17:07:01.095170+00:00",
+      "score": 111.0
+    },
+    {
       "key": "shopee:25155478447",
       "marketplace": "shopee",
       "id": "25155478447",
@@ -13985,21 +13999,7 @@
       "posted_ts": 1786915207,
       "posted_at": "2026-08-16T21:20:07.257316+00:00",
       "score": 102.3
-    },
-    {
-      "key": "shopee:58255061423",
-      "marketplace": "shopee",
-      "id": "58255061423",
-      "title": "Expositor para 50 carrinhos Hot Weels Prateleira Brinquedos Coleção Miniaturas Carros Organizador",
-      "title_norm": "expositor para 50 carrinhos hot weels prateleira brinquedos colecao miniaturas carros organizador",
-      "url": "https://shopee.com.br/product/1526528168/58255061423",
-      "affiliate_url": "https://s.shopee.com.br/1gHruDCknH",
-      "category": "Bigarelli Arts MDF",
-      "bucket": "bigarelli_arts_mdf",
-      "posted_ts": 1786915139,
-      "posted_at": "2026-08-16T21:18:59.658152+00:00",
-      "score": 103.11
     }
   ],
-  "updated_at": "2026-08-25T16:21:50.470436+00:00"
+  "updated_at": "2026-08-25T17:07:01.095186+00:00"
 }

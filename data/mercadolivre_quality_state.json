@@ -1,6 +1,21 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB4036053887",
+      "product_id": "MLB4036053887",
+      "catalog_product_id": "MLB24522367",
+      "item_id": "MLB4036053887",
+      "url": "https://www.mercadolivre.com.br/p/MLB24522367?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB24522367?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "ssd nvme asgard an4 1tb gen4",
+      "title": "SSD Nvme Asgard AN4 1tb Gen4",
+      "category": "Informática",
+      "price": 1449.9,
+      "score": 111.0,
+      "posted_ts": 1787677621,
+      "posted_at": "2026-08-25T17:07:01.109958+00:00"
+    },
+    {
       "key": "mercadolivre:MLB5297261932",
       "product_id": "MLB5297261932",
       "catalog_product_id": "MLB45785598",
@@ -749,52 +764,7 @@
       "score": 86.0,
       "posted_ts": 1787508138,
       "posted_at": "2026-08-23T18:02:18.761391+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB6978080348",
-      "product_id": "MLB6978080348",
-      "catalog_product_id": "MLB46173110",
-      "item_id": "MLB6978080348",
-      "url": "https://www.mercadolivre.com.br/p/MLB46173110?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB46173110?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "impressora etiquetas monocromatica toledo prix it400m usb",
-      "title": "Impressora Etiquetas Monocromática Toledo Prix IT400M USB",
-      "category": "Informática",
-      "price": 1135.0,
-      "score": 86.0,
-      "posted_ts": 1787504684,
-      "posted_at": "2026-08-23T17:04:44.216587+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB5201599262",
-      "product_id": "MLB5201599262",
-      "catalog_product_id": "MLB44215301",
-      "item_id": "MLB5201599262",
-      "url": "https://www.mercadolivre.com.br/p/MLB44215301?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB44215301?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "ribbon resina mastercorp 110x300 para impressora etiquetas bopp vinil",
-      "title": "Ribbon Resina Mastercorp 110x300 Para Impressora Etiquetas BOPP Vinil",
-      "category": "Informática",
-      "price": 606.48,
-      "score": 95.67,
-      "posted_ts": 1787504620,
-      "posted_at": "2026-08-23T17:03:40.208828+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB3929416863",
-      "product_id": "MLB3929416863",
-      "catalog_product_id": "MLB39019401",
-      "item_id": "MLB3929416863",
-      "url": "https://www.mercadolivre.com.br/p/MLB39019401?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB39019401?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "impressora etiquetas logistica codigo de barras usb",
-      "title": "Impressora Etiquetas Logistica Código De Barras Usb",
-      "category": "Informática",
-      "price": 565.0,
-      "score": 110.48,
-      "posted_ts": 1787504556,
-      "posted_at": "2026-08-23T17:02:36.163322+00:00"
     }
   ],
-  "updated_at": "2026-08-25T16:03:51.528680+00:00"
+  "updated_at": "2026-08-25T17:07:01.109968+00:00"
 }
