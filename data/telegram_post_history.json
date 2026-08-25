@@ -1,6 +1,34 @@
 {
   "posts": [
     {
+      "key": "shopee:18999841858",
+      "marketplace": "shopee",
+      "id": "18999841858",
+      "title": "TOMI MITO Bolsa Feminina Grande para Escritório e Rotina com Alça de Ombro Bolso Frontal e Zíper B742",
+      "title_norm": "tomi mito bolsa feminina grande para escritorio e rotina com alca de ombro bolso frontal e ziper b742",
+      "url": "https://shopee.com.br/product/1468415010/18999841858",
+      "affiliate_url": "https://s.shopee.com.br/1LfDL4DTAl",
+      "category": "Amy.Store",
+      "bucket": "bolsas",
+      "posted_ts": 1787627859,
+      "posted_at": "2026-08-25T03:17:39.965499+00:00",
+      "score": 110.93
+    },
+    {
+      "key": "shopee:22893701336",
+      "marketplace": "shopee",
+      "id": "22893701336",
+      "title": "Mala Esportiva Academia Unissex Transversal e Mochila",
+      "title_norm": "mala esportiva academia unissex transversal e mochila",
+      "url": "https://shopee.com.br/product/1284795277/22893701336",
+      "affiliate_url": "https://s.shopee.com.br/8V8Mbv7Pe5",
+      "category": "DIVA IMPORT",
+      "bucket": "bolsas",
+      "posted_ts": 1787627796,
+      "posted_at": "2026-08-25T03:16:36.005041+00:00",
+      "score": 111.46
+    },
+    {
       "key": "mercadolivre:MLB7441005040",
       "marketplace": "mercadolivre",
       "id": "MLB7441005040",
@@ -13971,35 +13999,7 @@
       "posted_ts": 1786879269,
       "posted_at": "2026-08-16T11:21:09.001305+00:00",
       "score": 115.1
-    },
-    {
-      "key": "shopee:58205320938",
-      "marketplace": "shopee",
-      "id": "58205320938",
-      "title": "Kit 3 T-Shirt Algodão 30.1 Comfort Confortavel Estilosa Baby Look Casual Básica Urbana",
-      "title_norm": "kit 3 t shirt algodao 30 1 comfort confortavel estilosa baby look casual basica urbana",
-      "url": "https://shopee.com.br/product/1709468100/58205320938",
-      "affiliate_url": "https://s.shopee.com.br/5fo00M90vS",
-      "category": "Gota de ouro ",
-      "bucket": "gota_de_ouro",
-      "posted_ts": 1786879204,
-      "posted_at": "2026-08-16T11:20:04.859107+00:00",
-      "score": 115.35
-    },
-    {
-      "key": "shopee:20298202520",
-      "marketplace": "shopee",
-      "id": "20298202520",
-      "title": "Conjunto Pijama Scrub Enfermagem Hospitalar Unissex Roupa Cirurgica Confortavel Farda Medica Gola V",
-      "title_norm": "conjunto pijama scrub enfermagem hospitalar unissex roupa cirurgica confortavel farda medica gola v",
-      "url": "https://shopee.com.br/product/1463972354/20298202520",
-      "affiliate_url": "https://s.shopee.com.br/3qMLozXJl0",
-      "category": "LS Jalecos",
-      "bucket": "ls_jalecos",
-      "posted_ts": 1786879140,
-      "posted_at": "2026-08-16T11:19:00.715248+00:00",
-      "score": 115.46
     }
   ],
-  "updated_at": "2026-08-25T03:02:23.913438+00:00"
+  "updated_at": "2026-08-25T03:17:39.965513+00:00"
 }
