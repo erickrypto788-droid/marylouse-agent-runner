@@ -1,6 +1,34 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB7119236764",
+      "marketplace": "mercadolivre",
+      "id": "MLB7119236764",
+      "title": "Bike Spinning Bicicleta 6kg Wct Fitness Preta",
+      "title_norm": "bike spinning bicicleta 6kg wct fitness preta",
+      "url": "https://www.mercadolivre.com.br/p/MLB75107533?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB75107533?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Esportes",
+      "bucket": "esportes",
+      "posted_ts": 1787663027,
+      "posted_at": "2026-08-25T13:03:47.054543+00:00",
+      "score": 141.48
+    },
+    {
+      "key": "mercadolivre:MLB4780821021",
+      "marketplace": "mercadolivre",
+      "id": "MLB4780821021",
+      "title": "Esteira Ergométrica Elétrica Dobrável Residencial Com Bluetooth Tela Led 14km/h Jmjn 220v Esteira Ergometrica 120kg",
+      "title_norm": "esteira ergometrica eletrica dobravel residencial com bluetooth tela led 14km h jmjn 220v esteira ergometrica 120kg",
+      "url": "https://www.mercadolivre.com.br/p/MLB73080389?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB73080389?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Esportes",
+      "bucket": "esportes",
+      "posted_ts": 1787662963,
+      "posted_at": "2026-08-25T13:02:43.063134+00:00",
+      "score": 170.47
+    },
+    {
       "key": "shopee:58211149676",
       "marketplace": "shopee",
       "id": "58211149676",
@@ -13971,35 +13999,7 @@
       "posted_ts": 1786904458,
       "posted_at": "2026-08-16T18:20:58.708271+00:00",
       "score": 92.67
-    },
-    {
-      "key": "shopee:22494941454",
-      "marketplace": "shopee",
-      "id": "22494941454",
-      "title": "Kit Facial Kokeshi Completo 3 Passos Hidratação e Colágeno",
-      "title_norm": "kit facial kokeshi completo 3 passos hidratacao e colageno",
-      "url": "https://shopee.com.br/product/395166866/22494941454",
-      "affiliate_url": "https://s.shopee.com.br/60Qqrobltl",
-      "category": "KOKESHI OFICIAL",
-      "bucket": "kokeshi_oficial",
-      "posted_ts": 1786904394,
-      "posted_at": "2026-08-16T18:19:54.536119+00:00",
-      "score": 98.01
-    },
-    {
-      "key": "shopee:58264684239",
-      "marketplace": "shopee",
-      "id": "58264684239",
-      "title": "Kit Clareador Facial - Sabonete Líquido + Protetor Solar Clareador 70 FPS + Sérum Multicorretivo Clareador",
-      "title_norm": "kit clareador facial sabonete liquido protetor solar clareador 70 fps serum multicorretivo clareador",
-      "url": "https://shopee.com.br/product/1860098702/58264684239",
-      "affiliate_url": "https://s.shopee.com.br/9V0j2FSdjA",
-      "category": "Hidrabene ",
-      "bucket": "supermercado",
-      "posted_ts": 1786904330,
-      "posted_at": "2026-08-16T18:18:50.446345+00:00",
-      "score": 100.59
     }
   ],
-  "updated_at": "2026-08-25T12:17:44.032271+00:00"
+  "updated_at": "2026-08-25T13:03:47.054554+00:00"
 }

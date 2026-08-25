@@ -1,6 +1,36 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB7119236764",
+      "product_id": "MLB7119236764",
+      "catalog_product_id": "MLB75107533",
+      "item_id": "MLB7119236764",
+      "url": "https://www.mercadolivre.com.br/p/MLB75107533?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB75107533?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "bike spinning bicicleta 6kg wct fitness preta",
+      "title": "Bike Spinning Bicicleta 6kg Wct Fitness Preta",
+      "category": "Esportes",
+      "price": 699.99,
+      "score": 141.48,
+      "posted_ts": 1787663027,
+      "posted_at": "2026-08-25T13:03:47.066067+00:00"
+    },
+    {
+      "key": "mercadolivre:MLB4780821021",
+      "product_id": "MLB4780821021",
+      "catalog_product_id": "MLB73080389",
+      "item_id": "MLB4780821021",
+      "url": "https://www.mercadolivre.com.br/p/MLB73080389?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB73080389?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "esteira ergometrica eletrica dobravel residencial com bluetooth tela led 14km h jmjn 220v esteira ergometrica 120kg",
+      "title": "Esteira Ergométrica Elétrica Dobrável Residencial Com Bluetooth Tela Led 14km/h Jmjn 220v Esteira Ergometrica 120kg",
+      "category": "Esportes",
+      "price": 1409.8,
+      "score": 170.47,
+      "posted_ts": 1787662963,
+      "posted_at": "2026-08-25T13:02:43.074917+00:00"
+    },
+    {
       "key": "mercadolivre:MLB5486901506",
       "product_id": "MLB5486901506",
       "catalog_product_id": "MLB33380670",
@@ -794,37 +824,7 @@
       "score": 154.83,
       "posted_ts": 1787497333,
       "posted_at": "2026-08-23T15:02:13.788180+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB3900697873",
-      "product_id": "MLB3900697873",
-      "catalog_product_id": "MLB41629336",
-      "item_id": "MLB3900697873",
-      "url": "https://www.mercadolivre.com.br/p/MLB41629336?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB41629336?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "smartphone xiaomi redmi 13 cor azul marinho",
-      "title": "Smartphone Xiaomi Redmi 13 Cor Azul-marinho",
-      "category": "Informática",
-      "price": 1337.4,
-      "score": 127.0,
-      "posted_ts": 1787486656,
-      "posted_at": "2026-08-23T12:04:16.014012+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB6834381736",
-      "product_id": "MLB6834381736",
-      "catalog_product_id": "MLB61421090",
-      "item_id": "MLB6834381736",
-      "url": "https://www.mercadolivre.com.br/p/MLB61421090?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB61421090?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "smartphone xiaomi redmi 15c 256gb global azul",
-      "title": "Smartphone Xiaomi Redmi 15c 256gb Global Azul",
-      "category": "Informática",
-      "price": 1229.0,
-      "score": 127.0,
-      "posted_ts": 1787486588,
-      "posted_at": "2026-08-23T12:03:08.473190+00:00"
     }
   ],
-  "updated_at": "2026-08-25T11:04:52.319080+00:00"
+  "updated_at": "2026-08-25T13:03:47.066075+00:00"
 }
