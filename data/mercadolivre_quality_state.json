@@ -1,6 +1,21 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB7504424512",
+      "product_id": "MLB7504424512",
+      "catalog_product_id": "MLB78331445",
+      "item_id": "MLB7504424512",
+      "url": "https://www.mercadolivre.com.br/p/MLB78331445?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB78331445?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "kit corda pular perpetua speed rope gladius corda crossover para crossfit corda pular profissional para treinos de alta velocidade disponivel para corda pular atacado para academias e atletas",
+      "title": "Kit Corda Pular Perpetua Speed Rope Gladius, Corda Crossover para Crossfit, Corda Pular Profissional para Treinos de Alta Velocidade, Disponível para Corda Pular Atacado para Academias e Atletas",
+      "category": "Esportes",
+      "price": 499.99,
+      "score": 86.0,
+      "posted_ts": 1787727826,
+      "posted_at": "2026-08-26T07:03:46.472804+00:00"
+    },
+    {
       "key": "mercadolivre:MLB5944892036",
       "product_id": "MLB5944892036",
       "catalog_product_id": "MLB47630541",
@@ -689,22 +704,7 @@
       "score": 119.5,
       "posted_ts": 1787558538,
       "posted_at": "2026-08-24T08:02:18.924162+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB4313106591",
-      "product_id": "MLB4313106591",
-      "catalog_product_id": "MLB56425611",
-      "item_id": "MLB4313106591",
-      "url": "https://www.mercadolivre.com.br/p/MLB56425611?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB56425611?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "smartphone xiaomi poco c85 6gb ram 128gb preto",
-      "title": "Smartphone xiaomi Poco C85 6gb ram + 128gb, Preto",
-      "category": "Informática",
-      "price": 716.5,
-      "score": 127.0,
-      "posted_ts": 1787551359,
-      "posted_at": "2026-08-24T06:02:39.056367+00:00"
     }
   ],
-  "updated_at": "2026-08-26T05:04:48.502964+00:00"
+  "updated_at": "2026-08-26T07:03:46.472818+00:00"
 }
