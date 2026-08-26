@@ -1,6 +1,48 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB7517810920",
+      "marketplace": "mercadolivre",
+      "id": "MLB7517810920",
+      "title": "Hidratante Corporal Pessego",
+      "title_norm": "hidratante corporal pessego",
+      "url": "https://www.mercadolivre.com.br/p/MLB76609780?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB76609780?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Beleza",
+      "bucket": "beleza",
+      "posted_ts": 1787774933,
+      "posted_at": "2026-08-26T20:08:53.031966+00:00",
+      "score": 72.67
+    },
+    {
+      "key": "mercadolivre:MLB4158770181",
+      "marketplace": "mercadolivre",
+      "id": "MLB4158770181",
+      "title": "Vinagreen Amaciante Roupas Campos De Lavanda Concentrado 1l",
+      "title_norm": "vinagreen amaciante roupas campos de lavanda concentrado 1l",
+      "url": "https://www.mercadolivre.com.br/p/MLB35007224?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB35007224?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Supermercados",
+      "bucket": "supermercado",
+      "posted_ts": 1787774861,
+      "posted_at": "2026-08-26T20:07:41.916220+00:00",
+      "score": 114.0
+    },
+    {
+      "key": "mercadolivre:MLB5139847721",
+      "marketplace": "mercadolivre",
+      "id": "MLB5139847721",
+      "title": "Fralda Pampers Premium Care Tamanho M 80 Unidades",
+      "title_norm": "fralda pampers premium care tamanho m 80 unidades",
+      "url": "https://www.mercadolivre.com.br/p/MLB23414307?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB23414307?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Mãe e Bebê",
+      "bucket": "fraldas",
+      "posted_ts": 1787774792,
+      "posted_at": "2026-08-26T20:06:32.344670+00:00",
+      "score": 130.0
+    },
+    {
       "key": "shopee:58255185736",
       "marketplace": "shopee",
       "id": "58255185736",
@@ -13957,49 +13999,7 @@
       "posted_ts": 1787011711,
       "posted_at": "2026-08-18T00:08:31.773691+00:00",
       "score": 89.0
-    },
-    {
-      "key": "mercadolivre:MLB4158770181",
-      "marketplace": "mercadolivre",
-      "id": "MLB4158770181",
-      "title": "Vinagreen Amaciante Roupas Campos De Lavanda Concentrado 1l",
-      "title_norm": "vinagreen amaciante roupas campos de lavanda concentrado 1l",
-      "url": "https://www.mercadolivre.com.br/p/MLB35007224?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB35007224?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "category": "Supermercados",
-      "bucket": "supermercado",
-      "posted_ts": 1787011642,
-      "posted_at": "2026-08-18T00:07:22.610378+00:00",
-      "score": 114.0
-    },
-    {
-      "key": "mercadolivre:MLB5731460940",
-      "marketplace": "mercadolivre",
-      "id": "MLB5731460940",
-      "title": "Sabão em pó Ypê Lava Roupas em Pó Tixan Lava Roupas em pó garrafa 2.2 kg",
-      "title_norm": "sabao em po ype lava roupas em po tixan lava roupas em po garrafa 2 2 kg",
-      "url": "https://www.mercadolivre.com.br/p/MLB51325266?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB51325266?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "category": "Supermercados",
-      "bucket": "supermercados",
-      "posted_ts": 1787011574,
-      "posted_at": "2026-08-18T00:06:14.935903+00:00",
-      "score": 119.63
-    },
-    {
-      "key": "mercadolivre:MLB4722507659",
-      "marketplace": "mercadolivre",
-      "id": "MLB4722507659",
-      "title": "Fralda Pampers Pants Ajuste Total Xxxg Com 24un",
-      "title_norm": "fralda pampers pants ajuste total xxxg com 24un",
-      "url": "https://www.mercadolivre.com.br/p/MLB44422333?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB44422333?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "category": "Mãe e Bebê",
-      "bucket": "fraldas",
-      "posted_ts": 1787011510,
-      "posted_at": "2026-08-18T00:05:10.984729+00:00",
-      "score": 153.54
     }
   ],
-  "updated_at": "2026-08-26T19:19:46.893917+00:00"
+  "updated_at": "2026-08-26T20:08:53.031982+00:00"
 }

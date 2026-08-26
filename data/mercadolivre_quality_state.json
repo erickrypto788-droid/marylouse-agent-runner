@@ -1,6 +1,51 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB7517810920",
+      "product_id": "MLB7517810920",
+      "catalog_product_id": "MLB76609780",
+      "item_id": "MLB7517810920",
+      "url": "https://www.mercadolivre.com.br/p/MLB76609780?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB76609780?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "hidratante corporal pessego",
+      "title": "Hidratante Corporal Pessego",
+      "category": "Beleza",
+      "price": 114.0,
+      "score": 72.67,
+      "posted_ts": 1787774933,
+      "posted_at": "2026-08-26T20:08:53.045942+00:00"
+    },
+    {
+      "key": "mercadolivre:MLB4158770181",
+      "product_id": "MLB4158770181",
+      "catalog_product_id": "MLB35007224",
+      "item_id": "MLB4158770181",
+      "url": "https://www.mercadolivre.com.br/p/MLB35007224?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB35007224?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "vinagreen amaciante roupas campos de lavanda concentrado 1l",
+      "title": "Vinagreen Amaciante Roupas Campos De Lavanda Concentrado 1l",
+      "category": "Supermercados",
+      "price": 46.88,
+      "score": 114.0,
+      "posted_ts": 1787774861,
+      "posted_at": "2026-08-26T20:07:41.930193+00:00"
+    },
+    {
+      "key": "mercadolivre:MLB5139847721",
+      "product_id": "MLB5139847721",
+      "catalog_product_id": "MLB23414307",
+      "item_id": "MLB5139847721",
+      "url": "https://www.mercadolivre.com.br/p/MLB23414307?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB23414307?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "fralda pampers premium care tamanho m 80 unidades",
+      "title": "Fralda Pampers Premium Care Tamanho M 80 Unidades",
+      "category": "Mãe e Bebê",
+      "price": 118.9,
+      "score": 130.0,
+      "posted_ts": 1787774792,
+      "posted_at": "2026-08-26T20:06:32.359820+00:00"
+    },
+    {
       "key": "mercadolivre:MLB6194818232",
       "product_id": "MLB6194818232",
       "catalog_product_id": "MLB32106098",
@@ -569,37 +614,7 @@
       "score": 111.0,
       "posted_ts": 1787605362,
       "posted_at": "2026-08-24T21:02:42.399168+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB4828628335",
-      "product_id": "MLB4828628335",
-      "catalog_product_id": "MLB44823770",
-      "item_id": "MLB4828628335",
-      "url": "https://www.mercadolivre.com.br/p/MLB44823770?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB44823770?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "perfume masculino amodil fonte verde perfume masculino 100ml",
-      "title": "Perfume masculino Amodil Fonte Verde Perfume masculino 100ml",
-      "category": "Beleza",
-      "price": 400.0,
-      "score": 111.0,
-      "posted_ts": 1787594789,
-      "posted_at": "2026-08-24T18:06:29.781534+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB5041531745",
-      "product_id": "MLB5041531745",
-      "catalog_product_id": "MLB74370100",
-      "item_id": "MLB5041531745",
-      "url": "https://www.mercadolivre.com.br/p/MLB74370100?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB74370100?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "chapinha cabelo profissional 450f slim bivolt titanium",
-      "title": "Chapinha Cabelo Profissional 450f Slim Bivolt, Titanium",
-      "category": "Beleza",
-      "price": 139.98,
-      "score": 113.0,
-      "posted_ts": 1787594665,
-      "posted_at": "2026-08-24T18:04:25.787834+00:00"
     }
   ],
-  "updated_at": "2026-08-26T16:03:23.515719+00:00"
+  "updated_at": "2026-08-26T20:08:53.045956+00:00"
 }
