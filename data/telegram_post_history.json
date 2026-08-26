@@ -1,6 +1,20 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB7270317740",
+      "marketplace": "mercadolivre",
+      "id": "MLB7270317740",
+      "title": "Jogo Panelas Ipanema 5 Peças Preto Nacional",
+      "title_norm": "jogo panelas ipanema 5 pecas preto nacional",
+      "url": "https://www.mercadolivre.com.br/p/MLB75817439?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB75817439?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Casa e Cozinha",
+      "bucket": "casa_cozinha",
+      "posted_ts": 1787781797,
+      "posted_at": "2026-08-26T22:03:17.385393+00:00",
+      "score": 109.22
+    },
+    {
       "key": "shopee:43904678165",
       "marketplace": "shopee",
       "id": "43904678165",
@@ -13985,21 +13999,7 @@
       "posted_ts": 1787016069,
       "posted_at": "2026-08-18T01:21:09.753504+00:00",
       "score": 97.5
-    },
-    {
-      "key": "shopee:9319243207",
-      "marketplace": "shopee",
-      "id": "9319243207",
-      "title": "Hidratante Creme Facial Pele De Porcelana Kokeshi 30g Milagre do Arroz",
-      "title_norm": "hidratante creme facial pele de porcelana kokeshi 30g milagre do arroz",
-      "url": "https://shopee.com.br/product/395166866/9319243207",
-      "affiliate_url": "https://s.shopee.com.br/3g2woqxxJ6",
-      "category": "KOKESHI OFICIAL",
-      "bucket": "kokeshi_oficial",
-      "posted_ts": 1787016005,
-      "posted_at": "2026-08-18T01:20:05.480949+00:00",
-      "score": 98.01
     }
   ],
-  "updated_at": "2026-08-26T21:21:08.747011+00:00"
+  "updated_at": "2026-08-26T22:03:17.385409+00:00"
 }

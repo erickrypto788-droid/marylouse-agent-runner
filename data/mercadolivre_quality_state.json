@@ -1,6 +1,21 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB7270317740",
+      "product_id": "MLB7270317740",
+      "catalog_product_id": "MLB75817439",
+      "item_id": "MLB7270317740",
+      "url": "https://www.mercadolivre.com.br/p/MLB75817439?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB75817439?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "jogo panelas ipanema 5 pecas preto nacional",
+      "title": "Jogo Panelas Ipanema 5 Peças Preto Nacional",
+      "category": "Casa e Cozinha",
+      "price": 305.9,
+      "score": 109.22,
+      "posted_ts": 1787781797,
+      "posted_at": "2026-08-26T22:03:17.400152+00:00"
+    },
+    {
       "key": "mercadolivre:MLB5697892498",
       "product_id": "MLB5697892498",
       "catalog_product_id": "MLB56081727",
@@ -614,22 +629,7 @@
       "score": 127.0,
       "posted_ts": 1787616176,
       "posted_at": "2026-08-25T00:02:56.197753+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB7483969764",
-      "product_id": "MLB7483969764",
-      "catalog_product_id": "MLB50957106",
-      "item_id": "MLB7483969764",
-      "url": "https://www.mercadolivre.com.br/p/MLB50957106?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB50957106?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "ssd nvme kingston 1tb nv3 m 2 2280 pcie 4 0 nf e cor ssd nvme m 2 2280 kingston 1tb",
-      "title": "Ssd Nvme Kingston 1tb Nv3 M.2 2280 Pcie 4.0 Nf-e Cor Ssd Nvme M.2 2280 Kingston 1tb",
-      "category": "Informática",
-      "price": 1070.0,
-      "score": 111.0,
-      "posted_ts": 1787608966,
-      "posted_at": "2026-08-24T22:02:46.290283+00:00"
     }
   ],
-  "updated_at": "2026-08-26T21:05:19.911355+00:00"
+  "updated_at": "2026-08-26T22:03:17.400167+00:00"
 }
