@@ -1,6 +1,34 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB5134720155",
+      "marketplace": "mercadolivre",
+      "id": "MLB5134720155",
+      "title": "Carregador iPhone 20w Turbo USB-C | Carregador Adaptador Tipo C | Compatível com iPhone 12 13 14 15 16 17 Air Pro e Pro Max, e também com iPad Airpods e Apple | LFH Tech Inno",
+      "title_norm": "carregador iphone 20w turbo usb c carregador adaptador tipo c compativel com iphone 12 13 14 15 16 17 air pro e pro max e tambem com ipad airpods e apple lfh tech inno",
+      "url": "https://www.mercadolivre.com.br/p/MLB66364320?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB66364320?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Informática",
+      "bucket": "celulares",
+      "posted_ts": 1787749541,
+      "posted_at": "2026-08-26T13:05:41.943551+00:00",
+      "score": 168.5
+    },
+    {
+      "key": "mercadolivre:MLB5129093619",
+      "marketplace": "mercadolivre",
+      "id": "MLB5129093619",
+      "title": "celulares smartphones 6.78 Polegadas celular 5g 16GB+512GB Câmera HD 32Mpx+18Mpx Bateria 5000mAh celular baratinho",
+      "title_norm": "celulares smartphones 6 78 polegadas celular 5g 16gb 512gb camera hd 32mpx 18mpx bateria 5000mah celular baratinho",
+      "url": "https://www.mercadolivre.com.br/p/MLB78262248?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB78262248?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Informática",
+      "bucket": "celulares",
+      "posted_ts": 1787749477,
+      "posted_at": "2026-08-26T13:04:37.892227+00:00",
+      "score": 183.67
+    },
+    {
       "key": "shopee:58208153599",
       "marketplace": "shopee",
       "id": "58208153599",
@@ -13971,35 +13999,7 @@
       "posted_ts": 1786990803,
       "posted_at": "2026-08-17T18:20:03.283783+00:00",
       "score": 98.95
-    },
-    {
-      "key": "shopee:58208324168",
-      "marketplace": "shopee",
-      "id": "58208324168",
-      "title": "Trem de Madeira Pedagógico Números Brinquedo Educativo Montessori Encaixe Infantil",
-      "title_norm": "trem de madeira pedagogico numeros brinquedo educativo montessori encaixe infantil",
-      "url": "https://shopee.com.br/product/1649431834/58208324168",
-      "affiliate_url": "https://s.shopee.com.br/3LQ7HnmMRQ",
-      "category": "Brincar é Viver​",
-      "bucket": "brincar_e_viver",
-      "posted_ts": 1786990739,
-      "posted_at": "2026-08-17T18:18:59.416585+00:00",
-      "score": 98.95
-    },
-    {
-      "key": "shopee:22297616098",
-      "marketplace": "shopee",
-      "id": "22297616098",
-      "title": "Triciclo Kemotoca Kendy Menino e Menina Patrulha Canina C/Empurrador Velotrol Proteção Lateral Carrinho de Passeio",
-      "title_norm": "triciclo kemotoca kendy menino e menina patrulha canina c empurrador velotrol protecao lateral carrinho de passeio",
-      "url": "https://shopee.com.br/product/659727139/22297616098",
-      "affiliate_url": "https://s.shopee.com.br/20ujhM92I9",
-      "category": "Big_ecommerce",
-      "bucket": "big_ecommerce",
-      "posted_ts": 1786990675,
-      "posted_at": "2026-08-17T18:17:55.546906+00:00",
-      "score": 100.12
     }
   ],
-  "updated_at": "2026-08-26T12:20:59.246151+00:00"
+  "updated_at": "2026-08-26T13:05:41.943566+00:00"
 }

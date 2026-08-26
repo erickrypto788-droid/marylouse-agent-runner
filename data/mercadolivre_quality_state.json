@@ -1,6 +1,36 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB5134720155",
+      "product_id": "MLB5134720155",
+      "catalog_product_id": "MLB66364320",
+      "item_id": "MLB5134720155",
+      "url": "https://www.mercadolivre.com.br/p/MLB66364320?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB66364320?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "carregador iphone 20w turbo usb c carregador adaptador tipo c compativel com iphone 12 13 14 15 16 17 air pro e pro max e tambem com ipad airpods e apple lfh tech inno",
+      "title": "Carregador iPhone 20w Turbo USB-C | Carregador Adaptador Tipo C | Compatível com iPhone 12 13 14 15 16 17 Air Pro e Pro Max, e também com iPad Airpods e Apple | LFH Tech Inno",
+      "category": "Informática",
+      "price": 126.95,
+      "score": 168.5,
+      "posted_ts": 1787749541,
+      "posted_at": "2026-08-26T13:05:41.955098+00:00"
+    },
+    {
+      "key": "mercadolivre:MLB5129093619",
+      "product_id": "MLB5129093619",
+      "catalog_product_id": "MLB78262248",
+      "item_id": "MLB5129093619",
+      "url": "https://www.mercadolivre.com.br/p/MLB78262248?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB78262248?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "celulares smartphones 6 78 polegadas celular 5g 16gb 512gb camera hd 32mpx 18mpx bateria 5000mah celular baratinho",
+      "title": "celulares smartphones 6.78 Polegadas celular 5g 16GB+512GB Câmera HD 32Mpx+18Mpx Bateria 5000mAh celular baratinho",
+      "category": "Informática",
+      "price": 1660.0,
+      "score": 183.67,
+      "posted_ts": 1787749477,
+      "posted_at": "2026-08-26T13:04:37.903902+00:00"
+    },
+    {
       "key": "mercadolivre:MLB4745902149",
       "product_id": "MLB4745902149",
       "catalog_product_id": "MLB42833702",
@@ -674,22 +704,7 @@
       "score": 89.0,
       "posted_ts": 1787576784,
       "posted_at": "2026-08-24T13:06:24.930787+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB6428938830",
-      "product_id": "MLB6428938830",
-      "catalog_product_id": "MLB36175310",
-      "item_id": "MLB6428938830",
-      "url": "https://www.mercadolivre.com.br/p/MLB36175310?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB36175310?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "fralda pampers supersec m 30 unidades",
-      "title": "Fralda Pampers Supersec M 30 Unidades",
-      "category": "Mãe e Bebê",
-      "price": 39.99,
-      "score": 130.0,
-      "posted_ts": 1787576720,
-      "posted_at": "2026-08-24T13:05:20.975594+00:00"
     }
   ],
-  "updated_at": "2026-08-26T11:02:44.433654+00:00"
+  "updated_at": "2026-08-26T13:05:41.955110+00:00"
 }
