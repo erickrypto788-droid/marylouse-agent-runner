@@ -1,6 +1,34 @@
 {
   "posts": [
     {
+      "key": "shopee:22094228144",
+      "marketplace": "shopee",
+      "id": "22094228144",
+      "title": "TOMI MITO Bolsa Feminina com Alça Lateral Transversal Faixa de Mão de Couro B736",
+      "title_norm": "tomi mito bolsa feminina com alca lateral transversal faixa de mao de couro b736",
+      "url": "https://shopee.com.br/product/1468415010/22094228144",
+      "affiliate_url": "https://s.shopee.com.br/2BEKKbAITq",
+      "category": "Amy.Store",
+      "bucket": "bolsas",
+      "posted_ts": 1787768268,
+      "posted_at": "2026-08-26T18:17:48.652725+00:00",
+      "score": 104.01
+    },
+    {
+      "key": "shopee:20399869941",
+      "marketplace": "shopee",
+      "id": "20399869941",
+      "title": "Bolsa de Praia Feminina Alça de Corda Elegante Grande e Resistente",
+      "title_norm": "bolsa de praia feminina alca de corda elegante grande e resistente",
+      "url": "https://shopee.com.br/product/1448484843/20399869941",
+      "affiliate_url": "https://s.shopee.com.br/7psl063EzQ",
+      "category": "YL.BR.BOLSAS",
+      "bucket": "bolsas",
+      "posted_ts": 1787768204,
+      "posted_at": "2026-08-26T18:16:44.691181+00:00",
+      "score": 105.52
+    },
+    {
       "key": "shopee:23798071706",
       "marketplace": "shopee",
       "id": "23798071706",
@@ -13971,35 +13999,7 @@
       "posted_ts": 1787008801,
       "posted_at": "2026-08-17T23:20:01.983759+00:00",
       "score": 80.89
-    },
-    {
-      "key": "shopee:58202507463",
-      "marketplace": "shopee",
-      "id": "58202507463",
-      "title": "Kit Material Escolar Completo Infantil Volta as Aulas Lápis de Cor Canetinhas Bic Apontador Cola Marca Texto Borracha",
-      "title_norm": "kit material escolar completo infantil volta as aulas lapis de cor canetinhas bic apontador cola marca texto borracha",
-      "url": "https://shopee.com.br/product/260934693/58202507463",
-      "affiliate_url": "https://s.shopee.com.br/2gAPQecfcQ",
-      "category": "ORIGEM_UD",
-      "bucket": "origem_ud",
-      "posted_ts": 1787008729,
-      "posted_at": "2026-08-17T23:18:49.186917+00:00",
-      "score": 82.13
-    },
-    {
-      "key": "shopee:22498860007",
-      "marketplace": "shopee",
-      "id": "22498860007",
-      "title": "Mini Guarda-Chuva Portátil Dobravel UPF50+ Cápsula Ultra Leve com Estojo – Proteção UV",
-      "title_norm": "mini guarda chuva portatil dobravel upf50 capsula ultra leve com estojo protecao uv",
-      "url": "https://shopee.com.br/product/1042165059/22498860007",
-      "affiliate_url": "https://s.shopee.com.br/5VUcCNz6eJ",
-      "category": "SUPERTOFU SHOP",
-      "bucket": "supertofu_shop",
-      "posted_ts": 1787008665,
-      "posted_at": "2026-08-17T23:17:45.040730+00:00",
-      "score": 88.6
     }
   ],
-  "updated_at": "2026-08-26T17:23:14.035135+00:00"
+  "updated_at": "2026-08-26T18:17:48.652738+00:00"
 }
