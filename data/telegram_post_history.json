@@ -1,6 +1,20 @@
 {
   "posts": [
     {
+      "key": "shopee:40873387489",
+      "marketplace": "shopee",
+      "id": "40873387489",
+      "title": "Console PlayStation 5 Slim Digital 825GB",
+      "title_norm": "console playstation 5 slim digital 825gb",
+      "url": "https://shopee.com.br/product/1343318906/40873387489",
+      "affiliate_url": "https://s.shopee.com.br/1qbWrG7dnG",
+      "category": "NegociuN",
+      "bucket": "negociun",
+      "posted_ts": 1787714198,
+      "posted_at": "2026-08-26T03:16:38.193380+00:00",
+      "score": 46.41
+    },
+    {
       "key": "mercadolivre:MLB6442123488",
       "marketplace": "mercadolivre",
       "id": "MLB6442123488",
@@ -13985,21 +13999,7 @@
       "posted_ts": 1786954813,
       "posted_at": "2026-08-17T08:20:13.625124+00:00",
       "score": 100.16
-    },
-    {
-      "key": "shopee:23092483428",
-      "marketplace": "shopee",
-      "id": "23092483428",
-      "title": "Calça Sarja Masculino Alfaiataria Esporte Fino com Elastano",
-      "title_norm": "calca sarja masculino alfaiataria esporte fino com elastano",
-      "url": "https://shopee.com.br/product/712776638/23092483428",
-      "affiliate_url": "https://s.shopee.com.br/8fRcyP3jpD",
-      "category": "Clim Colld Camisetas",
-      "bucket": "clim_colld_camisetas",
-      "posted_ts": 1786954745,
-      "posted_at": "2026-08-17T08:19:05.989348+00:00",
-      "score": 100.44
     }
   ],
-  "updated_at": "2026-08-26T03:11:15.928524+00:00"
+  "updated_at": "2026-08-26T03:16:38.193399+00:00"
 }
