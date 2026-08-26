@@ -1,6 +1,51 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB5697892498",
+      "product_id": "MLB5697892498",
+      "catalog_product_id": "MLB56081727",
+      "item_id": "MLB5697892498",
+      "url": "https://www.mercadolivre.com.br/p/MLB56081727?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB56081727?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "body modelador nayane short feminino cor cristal tamanho eg",
+      "title": "Body Modelador Nayane Short Feminino Cor Cristal Tamanho EG",
+      "category": "Moda Feminina",
+      "price": 151.7,
+      "score": 88.0,
+      "posted_ts": 1787778319,
+      "posted_at": "2026-08-26T21:05:19.911336+00:00"
+    },
+    {
+      "key": "mercadolivre:MLB5747632298",
+      "product_id": "MLB5747632298",
+      "catalog_product_id": "MLB58174814",
+      "item_id": "MLB5747632298",
+      "url": "https://www.mercadolivre.com.br/p/MLB58174814?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB58174814?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "calca legging redutora miracle belt cor preto tamanho pp",
+      "title": "Calça Legging Redutora Miracle Belt Cor Preto Tamanho Pp",
+      "category": "Moda Feminina",
+      "price": 279.9,
+      "score": 88.0,
+      "posted_ts": 1787778255,
+      "posted_at": "2026-08-26T21:04:15.945296+00:00"
+    },
+    {
+      "key": "mercadolivre:MLB7079122650",
+      "product_id": "MLB7079122650",
+      "catalog_product_id": "MLB74851412",
+      "item_id": "MLB7079122650",
+      "url": "https://www.mercadolivre.com.br/p/MLB74851412?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB74851412?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "conjunto feminino alfaiataria bermuda blusa elegante peplum conjunto feminino shorts e blusa peplum",
+      "title": "Conjunto Feminino Alfaiataria Bermuda Blusa Elegante Peplum Conjunto Feminino Shorts E Blusa Peplum",
+      "category": "Moda Feminina",
+      "price": 151.28,
+      "score": 128.73,
+      "posted_ts": 1787778191,
+      "posted_at": "2026-08-26T21:03:11.897410+00:00"
+    },
+    {
       "key": "mercadolivre:MLB7517810920",
       "product_id": "MLB7517810920",
       "catalog_product_id": "MLB76609780",
@@ -584,37 +629,7 @@
       "score": 111.0,
       "posted_ts": 1787608966,
       "posted_at": "2026-08-24T22:02:46.290283+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB4139317597",
-      "product_id": "MLB4139317597",
-      "catalog_product_id": "MLB23649057",
-      "item_id": "MLB4139317597",
-      "url": "https://www.mercadolivre.com.br/p/MLB23649057?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB23649057?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "furadeira parafusadeira imp c parafusadeira imp dlx2336syx",
-      "title": "Furadeira Parafusadeira Imp C/ Parafusadeira Imp Dlx2336syx",
-      "category": "Ferramentas",
-      "price": 1659.5,
-      "score": 108.0,
-      "posted_ts": 1787605426,
-      "posted_at": "2026-08-24T21:03:46.549783+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB5183821060",
-      "product_id": "MLB5183821060",
-      "catalog_product_id": "MLB19765397",
-      "item_id": "MLB5183821060",
-      "url": "https://www.mercadolivre.com.br/p/MLB19765397?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB19765397?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "combo furadeira parafusadeira df333d parafusadeira de impacto td110d 12v clx224sax",
-      "title": "Combo Furadeira Parafusadeira DF333D + Parafusadeira de Impacto TD110D 12V - CLX224SAX",
-      "category": "Ferramentas",
-      "price": 1213.0,
-      "score": 111.0,
-      "posted_ts": 1787605362,
-      "posted_at": "2026-08-24T21:02:42.399168+00:00"
     }
   ],
-  "updated_at": "2026-08-26T20:08:53.045956+00:00"
+  "updated_at": "2026-08-26T21:05:19.911355+00:00"
 }
