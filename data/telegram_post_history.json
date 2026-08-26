@@ -1,6 +1,20 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB6194818232",
+      "marketplace": "mercadolivre",
+      "id": "MLB6194818232",
+      "title": "Ração Premier Pet Vitta Natural Ração Cachorro Adulto 15k",
+      "title_norm": "racao premier pet vitta natural racao cachorro adulto 15k",
+      "url": "https://www.mercadolivre.com.br/p/MLB32106098?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB32106098?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Pet",
+      "bucket": "pet",
+      "posted_ts": 1787760203,
+      "posted_at": "2026-08-26T16:03:23.500695+00:00",
+      "score": 129.0
+    },
+    {
       "key": "shopee:58205072200",
       "marketplace": "shopee",
       "id": "58205072200",
@@ -13985,21 +13999,7 @@
       "posted_ts": 1786998048,
       "posted_at": "2026-08-17T20:20:48.601211+00:00",
       "score": 97.13
-    },
-    {
-      "key": "shopee:23799188673",
-      "marketplace": "shopee",
-      "id": "23799188673",
-      "title": "kit 1400 Toalhas Umedecidas Bebê Limpinho Premium",
-      "title_norm": "kit 1400 toalhas umedecidas bebe limpinho premium",
-      "url": "https://shopee.com.br/product/1045085918/23799188673",
-      "affiliate_url": "https://s.shopee.com.br/gPKqbqbFm",
-      "category": "Droga Clara",
-      "bucket": "droga_clara",
-      "posted_ts": 1786997941,
-      "posted_at": "2026-08-17T20:19:01.509284+00:00",
-      "score": 97.62
     }
   ],
-  "updated_at": "2026-08-26T14:21:12.039647+00:00"
+  "updated_at": "2026-08-26T16:03:23.500711+00:00"
 }
