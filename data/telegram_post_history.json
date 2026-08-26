@@ -1,6 +1,20 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB7209542710",
+      "marketplace": "mercadolivre",
+      "id": "MLB7209542710",
+      "title": "Calça Legging Fitness Feminina Ausare com Proteção UV 50+ para Academia, Yoga e Pilates",
+      "title_norm": "calca legging fitness feminina ausare com protecao uv 50 para academia yoga e pilates",
+      "url": "https://www.mercadolivre.com.br/p/MLB69276346?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB69276346?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Moda Feminina",
+      "bucket": "moda_feminina",
+      "posted_ts": 1787717025,
+      "posted_at": "2026-08-26T04:03:45.694164+00:00",
+      "score": 88.0
+    },
+    {
       "key": "shopee:40873387489",
       "marketplace": "shopee",
       "id": "40873387489",
@@ -13985,21 +13999,7 @@
       "posted_ts": 1786954883,
       "posted_at": "2026-08-17T08:21:23.467348+00:00",
       "score": 99.77
-    },
-    {
-      "key": "shopee:13443602897",
-      "marketplace": "shopee",
-      "id": "13443602897",
-      "title": "Kit 10 Cuecas Boxer Roupas Masculinas",
-      "title_norm": "kit 10 cuecas boxer roupas masculinas",
-      "url": "https://shopee.com.br/product/573714944/13443602897",
-      "affiliate_url": "https://s.shopee.com.br/30nEtZd4pw",
-      "category": "STOREMODASJF",
-      "bucket": "storemodasjf",
-      "posted_ts": 1786954813,
-      "posted_at": "2026-08-17T08:20:13.625124+00:00",
-      "score": 100.16
     }
   ],
-  "updated_at": "2026-08-26T03:16:38.193399+00:00"
+  "updated_at": "2026-08-26T04:03:45.694180+00:00"
 }
