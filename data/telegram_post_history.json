@@ -1,6 +1,20 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB4745902149",
+      "marketplace": "mercadolivre",
+      "id": "MLB4745902149",
+      "title": "Roteador Wifi 6 Dual Band Flt - X3000",
+      "title_norm": "roteador wifi 6 dual band flt x3000",
+      "url": "https://www.mercadolivre.com.br/p/MLB42833702?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB42833702?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Informática",
+      "bucket": "informatica",
+      "posted_ts": 1787742164,
+      "posted_at": "2026-08-26T11:02:44.418146+00:00",
+      "score": 86.0
+    },
+    {
       "key": "shopee:58254696881",
       "marketplace": "shopee",
       "id": "58254696881",
@@ -13985,21 +13999,7 @@
       "posted_ts": 1786980012,
       "posted_at": "2026-08-17T15:20:12.875491+00:00",
       "score": 101.07
-    },
-    {
-      "key": "shopee:23994836650",
-      "marketplace": "shopee",
-      "id": "23994836650",
-      "title": "Kit 4 Peças Conjunto Infantil Bebê Menino Verão Algodão Promoção 2 Camisas 2 Shorts Envio Sortido",
-      "title_norm": "kit 4 pecas conjunto infantil bebe menino verao algodao promocao 2 camisas 2 shorts envio sortido",
-      "url": "https://shopee.com.br/product/1253552940/23994836650",
-      "affiliate_url": "https://s.shopee.com.br/4LIeHHNnD7",
-      "category": "Rosa Azul K",
-      "bucket": "rosa_azul_k",
-      "posted_ts": 1786979948,
-      "posted_at": "2026-08-17T15:19:08.855141+00:00",
-      "score": 101.53
     }
   ],
-  "updated_at": "2026-08-26T10:20:12.894503+00:00"
+  "updated_at": "2026-08-26T11:02:44.418166+00:00"
 }

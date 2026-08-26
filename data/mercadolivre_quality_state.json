@@ -1,6 +1,21 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB4745902149",
+      "product_id": "MLB4745902149",
+      "catalog_product_id": "MLB42833702",
+      "item_id": "MLB4745902149",
+      "url": "https://www.mercadolivre.com.br/p/MLB42833702?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB42833702?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "roteador wifi 6 dual band flt x3000",
+      "title": "Roteador Wifi 6 Dual Band Flt - X3000",
+      "category": "Informática",
+      "price": 349.0,
+      "score": 86.0,
+      "posted_ts": 1787742164,
+      "posted_at": "2026-08-26T11:02:44.433637+00:00"
+    },
+    {
       "key": "mercadolivre:MLB7504424512",
       "product_id": "MLB7504424512",
       "catalog_product_id": "MLB78331445",
@@ -674,37 +689,7 @@
       "score": 130.0,
       "posted_ts": 1787576720,
       "posted_at": "2026-08-24T13:05:20.975594+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB4302548173",
-      "product_id": "MLB4302548173",
-      "catalog_product_id": "MLB44164135",
-      "item_id": "MLB4302548173",
-      "url": "https://www.mercadolivre.com.br/p/MLB44164135?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB44164135?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "comedouro automatico racao aquario terrario peixe tartaruga",
-      "title": "Comedouro Automático Ração Aquário Terrario Peixe Tartaruga",
-      "category": "Pet",
-      "price": 117.85,
-      "score": 137.09,
-      "posted_ts": 1787562161,
-      "posted_at": "2026-08-24T09:02:41.498574+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB6632460608",
-      "product_id": "MLB6632460608",
-      "catalog_product_id": "MLB62814199",
-      "item_id": "MLB6632460608",
-      "url": "https://www.mercadolivre.com.br/p/MLB62814199?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB62814199?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "monitor de pressao arterial de braco monitor pressao arterial hc10014 muinaifte cor blanco",
-      "title": "Monitor De Pressão Arterial De Braço Monitor pressao arterial HC10014 MUINAIFTE Cor Blanco",
-      "category": "Informática",
-      "price": 127.48,
-      "score": 119.5,
-      "posted_ts": 1787558538,
-      "posted_at": "2026-08-24T08:02:18.924162+00:00"
     }
   ],
-  "updated_at": "2026-08-26T07:03:46.472818+00:00"
+  "updated_at": "2026-08-26T11:02:44.433654+00:00"
 }
