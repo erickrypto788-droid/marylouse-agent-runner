@@ -1,6 +1,36 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB5944892036",
+      "product_id": "MLB5944892036",
+      "catalog_product_id": "MLB47630541",
+      "item_id": "MLB5944892036",
+      "url": "https://www.mercadolivre.com.br/p/MLB47630541?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB47630541?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "jogo panelas tramontina antiaderente aluminio monaco inducao",
+      "title": "Jogo Panelas Tramontina Antiaderente Alumínio Monaco Indução",
+      "category": "Casa e Cozinha",
+      "price": 737.0,
+      "score": 127.0,
+      "posted_ts": 1787720688,
+      "posted_at": "2026-08-26T05:04:48.502953+00:00"
+    },
+    {
+      "key": "mercadolivre:MLB6218013518",
+      "product_id": "MLB6218013518",
+      "catalog_product_id": "MLB39387638",
+      "item_id": "MLB6218013518",
+      "url": "https://www.mercadolivre.com.br/p/MLB39387638?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB39387638?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "jogo panelas tramontina coimbra 5pcs preto antiaderente",
+      "title": "Jogo Panelas Tramontina Coimbra 5pçs Preto Antiaderente",
+      "category": "Casa e Cozinha",
+      "price": 213.89,
+      "score": 129.0,
+      "posted_ts": 1787720618,
+      "posted_at": "2026-08-26T05:03:38.843079+00:00"
+    },
+    {
       "key": "mercadolivre:MLB7209542710",
       "product_id": "MLB7209542710",
       "catalog_product_id": "MLB69276346",
@@ -676,5 +706,5 @@
       "posted_at": "2026-08-24T06:02:39.056367+00:00"
     }
   ],
-  "updated_at": "2026-08-26T04:03:45.708784+00:00"
+  "updated_at": "2026-08-26T05:04:48.502964+00:00"
 }
