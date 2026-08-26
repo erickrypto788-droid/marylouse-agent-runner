@@ -1,6 +1,34 @@
 {
   "posts": [
     {
+      "key": "shopee:20199249608",
+      "marketplace": "shopee",
+      "id": "20199249608",
+      "title": "Tenis Sapatilha Masculino Casual Aquatico de Trilha Impermeável Com Solado Costurado E Elastico Ajustável",
+      "title_norm": "tenis sapatilha masculino casual aquatico de trilha impermeavel com solado costurado e elastico ajustavel",
+      "url": "https://shopee.com.br/product/1246015756/20199249608",
+      "affiliate_url": "https://s.shopee.com.br/904heuCIar",
+      "category": "ShopShooes",
+      "bucket": "calcados",
+      "posted_ts": 1787728671,
+      "posted_at": "2026-08-26T07:17:51.055027+00:00",
+      "score": 97.89
+    },
+    {
+      "key": "shopee:22633334599",
+      "marketplace": "shopee",
+      "id": "22633334599",
+      "title": "Bota Masculina Botina Chelsea Otimizada Confortável",
+      "title_norm": "bota masculina botina chelsea otimizada confortavel",
+      "url": "https://shopee.com.br/product/325090428/22633334599",
+      "affiliate_url": "https://s.shopee.com.br/2gAcqz7t7O",
+      "category": "Extreme Automotivo",
+      "bucket": "calcados",
+      "posted_ts": 1787728603,
+      "posted_at": "2026-08-26T07:16:43.351492+00:00",
+      "score": 109.82
+    },
+    {
       "key": "mercadolivre:MLB7504424512",
       "marketplace": "mercadolivre",
       "id": "MLB7504424512",
@@ -13971,35 +13999,7 @@
       "posted_ts": 1786972740,
       "posted_at": "2026-08-17T13:19:00.316496+00:00",
       "score": 74.02
-    },
-    {
-      "key": "shopee:19975160032",
-      "marketplace": "shopee",
-      "id": "19975160032",
-      "title": "Panela De Pressão Fechamento Externo Antiaderente 4,5L Nacional",
-      "title_norm": "panela de pressao fechamento externo antiaderente 4 5l nacional",
-      "url": "https://shopee.com.br/product/359066629/19975160032",
-      "affiliate_url": "https://s.shopee.com.br/AUtG9xw7gX",
-      "category": "Alumínio Nacional",
-      "bucket": "casa_cozinha",
-      "posted_ts": 1786972676,
-      "posted_at": "2026-08-17T13:17:56.332431+00:00",
-      "score": 105.27
-    },
-    {
-      "key": "shopee:58252890418",
-      "marketplace": "shopee",
-      "id": "58252890418",
-      "title": "Aspirador De Pó Para Carro casa e cantos Soprador De Poeira Sem Fio Recarregável De Alta Potência",
-      "title_norm": "aspirador de po para carro casa e cantos soprador de poeira sem fio recarregavel de alta potencia",
-      "url": "https://shopee.com.br/product/1242940533/58252890418",
-      "affiliate_url": "https://s.shopee.com.br/5q7RvnQVrl",
-      "category": "Kero Kero LTDA",
-      "bucket": "casa_cozinha",
-      "posted_ts": 1786972604,
-      "posted_at": "2026-08-17T13:16:44.066962+00:00",
-      "score": 128.1
     }
   ],
-  "updated_at": "2026-08-26T07:03:46.462971+00:00"
+  "updated_at": "2026-08-26T07:17:51.055041+00:00"
 }
