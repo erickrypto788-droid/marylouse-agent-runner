@@ -1,6 +1,20 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB4871337061",
+      "marketplace": "mercadolivre",
+      "id": "MLB4871337061",
+      "title": "Quatree gourmet ração cachorro filhotes Premium 20kg",
+      "title_norm": "quatree gourmet racao cachorro filhotes premium 20kg",
+      "url": "https://www.mercadolivre.com.br/p/MLB36069603?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB36069603?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Pet",
+      "bucket": "pet",
+      "posted_ts": 1787821360,
+      "posted_at": "2026-08-27T09:02:40.488561+00:00",
+      "score": 113.0
+    },
+    {
       "key": "shopee:23893782668",
       "marketplace": "shopee",
       "id": "23893782668",
@@ -13985,21 +13999,7 @@
       "posted_ts": 1787050937,
       "posted_at": "2026-08-18T11:02:17.077864+00:00",
       "score": 124.0
-    },
-    {
-      "key": "shopee:22997581085",
-      "marketplace": "shopee",
-      "id": "22997581085",
-      "title": "Protetor Solar Facial Acnezil FPS 30 Oil Control 60g",
-      "title_norm": "protetor solar facial acnezil fps 30 oil control 60g",
-      "url": "https://shopee.com.br/product/1045085918/22997581085",
-      "affiliate_url": "https://s.shopee.com.br/70JPO4SrM9",
-      "category": "Droga Clara",
-      "bucket": "droga_clara",
-      "posted_ts": 1787048474,
-      "posted_at": "2026-08-18T10:21:14.715727+00:00",
-      "score": 70.29
     }
   ],
-  "updated_at": "2026-08-27T08:21:43.475789+00:00"
+  "updated_at": "2026-08-27T09:02:40.488575+00:00"
 }

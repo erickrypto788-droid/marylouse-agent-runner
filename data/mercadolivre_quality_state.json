@@ -1,6 +1,21 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB4871337061",
+      "product_id": "MLB4871337061",
+      "catalog_product_id": "MLB36069603",
+      "item_id": "MLB4871337061",
+      "url": "https://www.mercadolivre.com.br/p/MLB36069603?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB36069603?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "quatree gourmet racao cachorro filhotes premium 20kg",
+      "title": "Quatree gourmet ração cachorro filhotes Premium 20kg",
+      "category": "Pet",
+      "price": 243.0,
+      "score": 113.0,
+      "posted_ts": 1787821360,
+      "posted_at": "2026-08-27T09:02:40.502504+00:00"
+    },
+    {
       "key": "mercadolivre:MLB7426398952",
       "product_id": "MLB7426398952",
       "catalog_product_id": "MLB77446522",
@@ -554,67 +569,7 @@
       "score": 94.62,
       "posted_ts": 1787652209,
       "posted_at": "2026-08-25T10:03:29.524092+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB6825867960",
-      "product_id": "MLB6825867960",
-      "catalog_product_id": "MLB68094806",
-      "item_id": "MLB6825867960",
-      "url": "https://www.mercadolivre.com.br/p/MLB68094806?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB68094806?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "condicionador infantil lowell mirtilinho 240ml",
-      "title": "Condicionador Infantil Lowell Mirtilinho 240ml",
-      "category": "Beleza",
-      "price": 77.5,
-      "score": 88.0,
-      "posted_ts": 1787641789,
-      "posted_at": "2026-08-25T07:09:49.783559+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB3667109301",
-      "product_id": "MLB3667109301",
-      "catalog_product_id": "MLB29671809",
-      "item_id": "MLB3667109301",
-      "url": "https://www.mercadolivre.com.br/p/MLB29671809?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB29671809?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "shampoo infantil 400ml buba care",
-      "title": "Shampoo Infantil 400ml Buba Care",
-      "category": "Beleza",
-      "price": 42.0,
-      "score": 88.0,
-      "posted_ts": 1787641720,
-      "posted_at": "2026-08-25T07:08:40.456078+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB6581237526",
-      "product_id": "MLB6581237526",
-      "catalog_product_id": "MLB61910184",
-      "item_id": "MLB6581237526",
-      "url": "https://www.mercadolivre.com.br/p/MLB61910184?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB61910184?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "100 saco de lixo 60l preto saco lixo resistente reforcado",
-      "title": "100 Saco De Lixo 60l Preto Saco Lixo Resistente Reforçado",
-      "category": "Supermercados",
-      "price": 45.6,
-      "score": 89.0,
-      "posted_ts": 1787641652,
-      "posted_at": "2026-08-25T07:07:32.395752+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB5731460940",
-      "product_id": "MLB5731460940",
-      "catalog_product_id": "MLB51325266",
-      "item_id": "MLB5731460940",
-      "url": "https://www.mercadolivre.com.br/p/MLB51325266?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB51325266?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "sabao em po ype lava roupas em po tixan lava roupas em po garrafa 2 2 kg",
-      "title": "Sabão em pó Ypê Lava Roupas em Pó Tixan Lava Roupas em pó garrafa 2.2 kg",
-      "category": "Supermercados",
-      "price": 27.94,
-      "score": 119.63,
-      "posted_ts": 1787641582,
-      "posted_at": "2026-08-25T07:06:22.843077+00:00"
     }
   ],
-  "updated_at": "2026-08-27T06:02:50.117607+00:00"
+  "updated_at": "2026-08-27T09:02:40.502514+00:00"
 }
