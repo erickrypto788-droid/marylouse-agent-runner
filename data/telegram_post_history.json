@@ -1,6 +1,20 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB5095655201",
+      "marketplace": "mercadolivre",
+      "id": "MLB5095655201",
+      "title": "Impressora Etiquetas Código Barras + 1.000 Etiquetas Cor Branco",
+      "title_norm": "impressora etiquetas codigo barras 1 000 etiquetas cor branco",
+      "url": "https://www.mercadolivre.com.br/p/MLB50110319?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB50110319?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Informática",
+      "bucket": "informatica",
+      "posted_ts": 1787828539,
+      "posted_at": "2026-08-27T11:02:19.471286+00:00",
+      "score": 86.0
+    },
+    {
       "key": "shopee:41478733625",
       "marketplace": "shopee",
       "id": "41478733625",
@@ -13985,21 +13999,7 @@
       "posted_ts": 1787055670,
       "posted_at": "2026-08-18T12:21:10.554679+00:00",
       "score": 106.24
-    },
-    {
-      "key": "shopee:23198212585",
-      "marketplace": "shopee",
-      "id": "23198212585",
-      "title": "Whey Ultra Protein Concentrado Pote 900g - FTW",
-      "title_norm": "whey ultra protein concentrado pote 900g ftw",
-      "url": "https://shopee.com.br/product/1397772996/23198212585",
-      "affiliate_url": "https://s.shopee.com.br/5LBCreM8wq",
-      "category": "Loja Oficial FTW",
-      "bucket": "loja_oficial_ftw",
-      "posted_ts": 1787055606,
-      "posted_at": "2026-08-18T12:20:06.296482+00:00",
-      "score": 106.57
     }
   ],
-  "updated_at": "2026-08-27T10:21:08.360956+00:00"
+  "updated_at": "2026-08-27T11:02:19.471302+00:00"
 }
