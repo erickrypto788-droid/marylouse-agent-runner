@@ -1,6 +1,48 @@
 {
   "posts": [
     {
+      "key": "shopee:23994721900",
+      "marketplace": "shopee",
+      "id": "23994721900",
+      "title": "Calça Wid Leg Cargo  Modeladora Blogueira Moda",
+      "title_norm": "calca wid leg cargo modeladora blogueira moda",
+      "url": "https://shopee.com.br/product/1366727315/23994721900",
+      "affiliate_url": "https://s.shopee.com.br/7KwUw8Fl0O",
+      "category": "Princess Jeans Ltda",
+      "bucket": "princess_jeans_ltda",
+      "posted_ts": 1787797126,
+      "posted_at": "2026-08-27T02:18:46.223968+00:00",
+      "score": 44.16
+    },
+    {
+      "key": "shopee:22499197520",
+      "marketplace": "shopee",
+      "id": "22499197520",
+      "title": "Calça Alfaiataria Feminina Com Bolso Social Com Ziper Plus Size P ao G3 PROMOÇÃO",
+      "title_norm": "calca alfaiataria feminina com bolso social com ziper plus size p ao g3 promocao",
+      "url": "https://shopee.com.br/product/1613894948/22499197520",
+      "affiliate_url": "https://s.shopee.com.br/40g1dbJwne",
+      "category": "LUNAVELLA OFICIAL",
+      "bucket": "lunavella_oficial",
+      "posted_ts": 1787797062,
+      "posted_at": "2026-08-27T02:17:42.228253+00:00",
+      "score": 46.09
+    },
+    {
+      "key": "shopee:21097736365",
+      "marketplace": "shopee",
+      "id": "21097736365",
+      "title": "Vestido rodado Plus Size manga fler  com a faixa  Suplex Digital 44/46/48/50/52 g gg g1 g2",
+      "title_norm": "vestido rodado plus size manga fler com a faixa suplex digital 44 46 48 50 52 g gg g1 g2",
+      "url": "https://shopee.com.br/product/1314293823/21097736365",
+      "affiliate_url": "https://s.shopee.com.br/80CBb7qNWd",
+      "category": "JOYCE MODAS12",
+      "bucket": "moda_feminina",
+      "posted_ts": 1787796998,
+      "posted_at": "2026-08-27T02:16:38.250685+00:00",
+      "score": 57.65
+    },
+    {
       "key": "shopee:22097368520",
       "marketplace": "shopee",
       "id": "22097368520",
@@ -13957,49 +13999,7 @@
       "posted_ts": 1787032947,
       "posted_at": "2026-08-18T06:02:27.941549+00:00",
       "score": 113.0
-    },
-    {
-      "key": "shopee:23898940980",
-      "marketplace": "shopee",
-      "id": "23898940980",
-      "title": "Kit 3 Shorts 2 em 1 DryFit  Plus Size Original Elastano Academia Esporte Treino Masculino",
-      "title_norm": "kit 3 shorts 2 em 1 dryfit plus size original elastano academia esporte treino masculino",
-      "url": "https://shopee.com.br/product/254876736/23898940980",
-      "affiliate_url": "https://s.shopee.com.br/AUtIYIlIxK",
-      "category": "ELLO TÊXTIL",
-      "bucket": "ello_textil",
-      "posted_ts": 1787030459,
-      "posted_at": "2026-08-18T05:20:59.480034+00:00",
-      "score": 60.7
-    },
-    {
-      "key": "shopee:58256061886",
-      "marketplace": "shopee",
-      "id": "58256061886",
-      "title": "Body Feminino Plus Size Decote V Manga tule Elegante Festa",
-      "title_norm": "body feminino plus size decote v manga tule elegante festa",
-      "url": "https://shopee.com.br/product/1026887169/58256061886",
-      "affiliate_url": "https://s.shopee.com.br/1gHu24EjtL",
-      "category": "Chicmodasa",
-      "bucket": "chicmodasa",
-      "posted_ts": 1787030395,
-      "posted_at": "2026-08-18T05:19:55.374311+00:00",
-      "score": 63.07
-    },
-    {
-      "key": "shopee:58212070015",
-      "marketplace": "shopee",
-      "id": "58212070015",
-      "title": "Calça feminina plus size wide leg jeans",
-      "title_norm": "calca feminina plus size wide leg jeans",
-      "url": "https://shopee.com.br/product/1350883560/58212070015",
-      "affiliate_url": "https://s.shopee.com.br/8pl4ZEreKq",
-      "category": "Magnata Conceito",
-      "bucket": "magnata_conceito",
-      "posted_ts": 1787030331,
-      "posted_at": "2026-08-18T05:18:51.172729+00:00",
-      "score": 63.12
     }
   ],
-  "updated_at": "2026-08-27T01:21:04.182296+00:00"
+  "updated_at": "2026-08-27T02:18:46.223984+00:00"
 }
