@@ -1,6 +1,21 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB7521086514",
+      "product_id": "MLB7521086514",
+      "catalog_product_id": "MLB76143422",
+      "item_id": "MLB7521086514",
+      "url": "https://www.mercadolivre.com.br/p/MLB76143422?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB76143422?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "mini impressora termica bluetooth okshop impressora termica portatil okshop mini impressora termica portatil impressora termica bluetooth mini impressora termica portatil",
+      "title": "Mini impressora térmica Bluetooth OKSHOP Impressora térmica portátil OKSHOP Mini impressora térmica portátil Impressora térmica Bluetooth Mini impressora térmica portátil",
+      "category": "Informática",
+      "price": 999.0,
+      "score": 86.0,
+      "posted_ts": 1787803354,
+      "posted_at": "2026-08-27T04:02:34.382335+00:00"
+    },
+    {
       "key": "mercadolivre:MLB7270317740",
       "product_id": "MLB7270317740",
       "catalog_product_id": "MLB75817439",
@@ -584,52 +599,7 @@
       "score": 119.63,
       "posted_ts": 1787641582,
       "posted_at": "2026-08-25T07:06:22.843077+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB7441005040",
-      "product_id": "MLB7441005040",
-      "catalog_product_id": "MLB31341013",
-      "item_id": "MLB7441005040",
-      "url": "https://www.mercadolivre.com.br/p/MLB31341013?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB31341013?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "racao cachorro bravo cordeiro e arroz 10 1kg",
-      "title": "Ração Cachorro Bravo Cordeiro E Arroz 10.1kg",
-      "category": "Supermercados",
-      "price": 115.0,
-      "score": 114.0,
-      "posted_ts": 1787626943,
-      "posted_at": "2026-08-25T03:02:23.928300+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB5026800457",
-      "product_id": "MLB5026800457",
-      "catalog_product_id": "MLB20643765",
-      "item_id": "MLB5026800457",
-      "url": "https://www.mercadolivre.com.br/p/MLB20643765?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB20643765?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "carregador iphone tipo usb c cor branco",
-      "title": "Carregador iPhone Tipo USB-C Cor Branco",
-      "category": "Informática",
-      "price": 349.99,
-      "score": 127.0,
-      "posted_ts": 1787616240,
-      "posted_at": "2026-08-25T00:04:00.469817+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB4777552385",
-      "product_id": "MLB4777552385",
-      "catalog_product_id": "MLB47815788",
-      "item_id": "MLB4777552385",
-      "url": "https://www.mercadolivre.com.br/p/MLB47815788?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB47815788?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "smartphone xiaomi redmi 14c 4g 256gb ram 4gb preto",
-      "title": "Smartphone Xiaomi Redmi 14c 4g 256gb Ram 4gb Preto",
-      "category": "Informática",
-      "price": 840.0,
-      "score": 127.0,
-      "posted_ts": 1787616176,
-      "posted_at": "2026-08-25T00:02:56.197753+00:00"
     }
   ],
-  "updated_at": "2026-08-26T22:03:17.400167+00:00"
+  "updated_at": "2026-08-27T04:02:34.382351+00:00"
 }

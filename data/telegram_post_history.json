@@ -1,6 +1,20 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB7521086514",
+      "marketplace": "mercadolivre",
+      "id": "MLB7521086514",
+      "title": "Mini impressora térmica Bluetooth OKSHOP Impressora térmica portátil OKSHOP Mini impressora térmica portátil Impressora térmica Bluetooth Mini impressora térmica portátil",
+      "title_norm": "mini impressora termica bluetooth okshop impressora termica portatil okshop mini impressora termica portatil impressora termica bluetooth mini impressora termica portatil",
+      "url": "https://www.mercadolivre.com.br/p/MLB76143422?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB76143422?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Informática",
+      "bucket": "informatica",
+      "posted_ts": 1787803354,
+      "posted_at": "2026-08-27T04:02:34.367161+00:00",
+      "score": 86.0
+    },
+    {
       "key": "shopee:18619870711",
       "marketplace": "shopee",
       "id": "18619870711",
@@ -13985,21 +13999,7 @@
       "posted_ts": 1787037460,
       "posted_at": "2026-08-18T07:17:40.344900+00:00",
       "score": 102.32
-    },
-    {
-      "key": "shopee:22598314126",
-      "marketplace": "shopee",
-      "id": "22598314126",
-      "title": "Bota Botina Feminina Texana Macia Country Cowboy Bico Quadrado Confortável Zíper E Rebites",
-      "title_norm": "bota botina feminina texana macia country cowboy bico quadrado confortavel ziper e rebites",
-      "url": "https://shopee.com.br/product/1318905115/22598314126",
-      "affiliate_url": "https://s.shopee.com.br/4LIe0ns7vu",
-      "category": "F_MIX",
-      "bucket": "calcados",
-      "posted_ts": 1787037393,
-      "posted_at": "2026-08-18T07:16:33.285021+00:00",
-      "score": 107.25
     }
   ],
-  "updated_at": "2026-08-27T03:18:51.297463+00:00"
+  "updated_at": "2026-08-27T04:02:34.367179+00:00"
 }
