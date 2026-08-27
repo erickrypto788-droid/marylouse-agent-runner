@@ -1,6 +1,48 @@
 {
   "posts": [
     {
+      "key": "shopee:19499177687",
+      "marketplace": "shopee",
+      "id": "19499177687",
+      "title": "Cafeteira Elétrica Britânia 250ml 450W Preto Duo Coffee",
+      "title_norm": "cafeteira eletrica britania 250ml 450w preto duo coffee",
+      "url": "https://shopee.com.br/product/811879342/19499177687",
+      "affiliate_url": "https://s.shopee.com.br/8AVcC9QSEc",
+      "category": "Britânia Oficial",
+      "bucket": "casa_cozinha",
+      "posted_ts": 1787811538,
+      "posted_at": "2026-08-27T06:18:58.399178+00:00",
+      "score": 76.56
+    },
+    {
+      "key": "shopee:58206103491",
+      "marketplace": "shopee",
+      "id": "58206103491",
+      "title": "Coletor Sugador Aspirador De Pó para Unha GEL Fibra Bivolt super potente envio rápido Modelo Oval",
+      "title_norm": "coletor sugador aspirador de po para unha gel fibra bivolt super potente envio rapido modelo oval",
+      "url": "https://shopee.com.br/product/598500017/58206103491",
+      "affiliate_url": "https://s.shopee.com.br/70Jeo0ZQuT",
+      "category": "Mari Rosa Acessórios ",
+      "bucket": "casa_cozinha",
+      "posted_ts": 1787811474,
+      "posted_at": "2026-08-27T06:17:54.304045+00:00",
+      "score": 83.54
+    },
+    {
+      "key": "shopee:23899250598",
+      "marketplace": "shopee",
+      "id": "23899250598",
+      "title": "Pipoqueira Máquina De Fazer Pipoca Elétrica Ar Quente Profissional Sem Óleo Rápida",
+      "title_norm": "pipoqueira maquina de fazer pipoca eletrica ar quente profissional sem oleo rapida",
+      "url": "https://shopee.com.br/product/1661007426/23899250598",
+      "affiliate_url": "https://s.shopee.com.br/5LBQowoVa7",
+      "category": "Invention Hunters",
+      "bucket": "invention_hunters",
+      "posted_ts": 1787811407,
+      "posted_at": "2026-08-27T06:16:47.087687+00:00",
+      "score": 91.8
+    },
+    {
       "key": "mercadolivre:MLB7426398952",
       "marketplace": "mercadolivre",
       "id": "MLB7426398952",
@@ -13957,49 +13999,7 @@
       "posted_ts": 1787044602,
       "posted_at": "2026-08-18T09:16:42.362648+00:00",
       "score": 102.16
-    },
-    {
-      "key": "mercadolivre:MLB4036053887",
-      "marketplace": "mercadolivre",
-      "id": "MLB4036053887",
-      "title": "SSD Nvme Asgard AN4 1tb Gen4",
-      "title_norm": "ssd nvme asgard an4 1tb gen4",
-      "url": "https://www.mercadolivre.com.br/p/MLB24522367?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB24522367?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "category": "Informática",
-      "bucket": "informatica",
-      "posted_ts": 1787043766,
-      "posted_at": "2026-08-18T09:02:46.793233+00:00",
-      "score": 111.0
-    },
-    {
-      "key": "shopee:21798200941",
-      "marketplace": "shopee",
-      "id": "21798200941",
-      "title": "Fone P47 Headphone Sem Fio Estéreo Redução de Ruídos Bluetooth 5.0 Universal",
-      "title_norm": "fone p47 headphone sem fio estereo reducao de ruidos bluetooth 5 0 universal",
-      "url": "https://shopee.com.br/product/1396355892/21798200941",
-      "affiliate_url": "https://s.shopee.com.br/9V0lYpVnq7",
-      "category": "TOP LOJA ELETRONICO",
-      "bucket": "top_loja_eletronico",
-      "posted_ts": 1787041287,
-      "posted_at": "2026-08-18T08:21:27.528905+00:00",
-      "score": 75.6
-    },
-    {
-      "key": "shopee:58201417897",
-      "marketplace": "shopee",
-      "id": "58201417897",
-      "title": "Cabo 4 em 1 Universal Carregador Rápido USB Tipo-C e Lightning Carregamento Turbo",
-      "title_norm": "cabo 4 em 1 universal carregador rapido usb tipo c e lightning carregamento turbo",
-      "url": "https://shopee.com.br/product/676702088/58201417897",
-      "affiliate_url": "https://s.shopee.com.br/6VN9zJhDvB",
-      "category": "Dobest Comercio de Variedade",
-      "bucket": "dobest_comercio_de_variedade",
-      "posted_ts": 1787041217,
-      "posted_at": "2026-08-18T08:20:17.995214+00:00",
-      "score": 77.27
     }
   ],
-  "updated_at": "2026-08-27T06:02:50.106128+00:00"
+  "updated_at": "2026-08-27T06:18:58.399195+00:00"
 }
