@@ -1,6 +1,20 @@
 {
   "posts": [
     {
+      "key": "shopee:58211958915",
+      "marketplace": "shopee",
+      "id": "58211958915",
+      "title": "Mala Academia Estampada Feminina Masculina Fit Esporte Mala Malinha Academia Unissex Sport Bolsa Transversal Regulável",
+      "title_norm": "mala academia estampada feminina masculina fit esporte mala malinha academia unissex sport bolsa transversal regulavel",
+      "url": "https://shopee.com.br/product/418515840/58211958915",
+      "affiliate_url": "https://s.shopee.com.br/5As19bLkq8",
+      "category": "hellena Manu",
+      "bucket": "bolsas",
+      "posted_ts": 1787840205,
+      "posted_at": "2026-08-27T14:16:45.067647+00:00",
+      "score": 35.62
+    },
+    {
       "key": "shopee:18697985049",
       "marketplace": "shopee",
       "id": "18697985049",
@@ -13985,21 +13999,7 @@
       "posted_ts": 1787066312,
       "posted_at": "2026-08-18T15:18:32.300619+00:00",
       "score": 125.01
-    },
-    {
-      "key": "shopee:58253268558",
-      "marketplace": "shopee",
-      "id": "58253268558",
-      "title": "Kit Monitor Medidor Glicose G-tech Vita Ultra Cinza-escuro",
-      "title_norm": "kit monitor medidor glicose g tech vita ultra cinza escuro",
-      "url": "https://shopee.com.br/product/343813983/58253268558",
-      "affiliate_url": "https://s.shopee.com.br/2qTs1IIh7N",
-      "category": "Shoplandia Oficial",
-      "bucket": "shoplandia_oficial",
-      "posted_ts": 1787062855,
-      "posted_at": "2026-08-18T14:20:55.701143+00:00",
-      "score": 43.69
     }
   ],
-  "updated_at": "2026-08-27T13:18:01.606851+00:00"
+  "updated_at": "2026-08-27T14:16:45.067661+00:00"
 }
