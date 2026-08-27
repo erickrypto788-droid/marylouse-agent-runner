@@ -1,6 +1,34 @@
 {
   "posts": [
     {
+      "key": "shopee:23999517864",
+      "marketplace": "shopee",
+      "id": "23999517864",
+      "title": "Medidor De Glicose+100 Lancetas+100 Tiras On Call Plus Ii Cor Azul",
+      "title_norm": "medidor de glicose 100 lancetas 100 tiras on call plus ii cor azul",
+      "url": "https://shopee.com.br/product/1516740718/23999517864",
+      "affiliate_url": "https://s.shopee.com.br/7psm88i6zI",
+      "category": "Infotop21",
+      "bucket": "infotop21",
+      "posted_ts": 1787829470,
+      "posted_at": "2026-08-27T11:17:50.743716+00:00",
+      "score": 38.57
+    },
+    {
+      "key": "shopee:23893497572",
+      "marketplace": "shopee",
+      "id": "23893497572",
+      "title": "Oxímetro Infantil Neonatal Pediátrico De Dedo Digital Crianças Medidor Oxigênio Recarregável Pulse Yihan",
+      "title_norm": "oximetro infantil neonatal pediatrico de dedo digital criancas medidor oxigenio recarregavel pulse yihan",
+      "url": "https://shopee.com.br/product/696313634/23893497572",
+      "affiliate_url": "https://s.shopee.com.br/2BEPNiustY",
+      "category": "Yihan.store",
+      "bucket": "saude",
+      "posted_ts": 1787829398,
+      "posted_at": "2026-08-27T11:16:38.250694+00:00",
+      "score": 101.11
+    },
+    {
       "key": "mercadolivre:MLB5095655201",
       "marketplace": "mercadolivre",
       "id": "MLB5095655201",
@@ -13971,35 +13999,7 @@
       "posted_ts": 1787059069,
       "posted_at": "2026-08-18T13:17:49.075438+00:00",
       "score": 97.76
-    },
-    {
-      "key": "shopee:18107139730",
-      "marketplace": "shopee",
-      "id": "18107139730",
-      "title": "Toy Story Jessie Woody Vocal Brinquedos Bonecas Figuras De Ação Modelo Para Presente De Aniversário Das Crianças",
-      "title_norm": "toy story jessie woody vocal brinquedos bonecas figuras de acao modelo para presente de aniversario das criancas",
-      "url": "https://shopee.com.br/product/594643039/18107139730",
-      "affiliate_url": "https://s.shopee.com.br/20ukxdskDS",
-      "category": "JINNStore.br",
-      "bucket": "jinnstore_br",
-      "posted_ts": 1787059000,
-      "posted_at": "2026-08-18T13:16:40.623163+00:00",
-      "score": 99.94
-    },
-    {
-      "key": "shopee:23998684746",
-      "marketplace": "shopee",
-      "id": "23998684746",
-      "title": "Kit de Halteres Treino 20 Kg Bonafit 3 em 1 Musculação Ajustável Segurança e Durabilidade + Ebook",
-      "title_norm": "kit de halteres treino 20 kg bonafit 3 em 1 musculacao ajustavel seguranca e durabilidade ebook",
-      "url": "https://shopee.com.br/product/405481102/23998684746",
-      "affiliate_url": "https://s.shopee.com.br/2gARgkA1T6",
-      "category": "aheadsports",
-      "bucket": "aheadsports",
-      "posted_ts": 1787055670,
-      "posted_at": "2026-08-18T12:21:10.554679+00:00",
-      "score": 106.24
     }
   ],
-  "updated_at": "2026-08-27T11:02:19.471302+00:00"
+  "updated_at": "2026-08-27T11:17:50.743731+00:00"
 }
