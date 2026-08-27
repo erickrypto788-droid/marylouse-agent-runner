@@ -1,6 +1,20 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB7426398952",
+      "marketplace": "mercadolivre",
+      "id": "MLB7426398952",
+      "title": "Ulefone Note 18 Ultra 256GB 6GB RAM Celular 5G 5450mAh Câmera 50MP Branco",
+      "title_norm": "ulefone note 18 ultra 256gb 6gb ram celular 5g 5450mah camera 50mp branco",
+      "url": "https://www.mercadolivre.com.br/p/MLB77446522?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB77446522?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Informática",
+      "bucket": "celulares",
+      "posted_ts": 1787810570,
+      "posted_at": "2026-08-27T06:02:50.106107+00:00",
+      "score": 108.0
+    },
+    {
       "key": "shopee:23694031516",
       "marketplace": "shopee",
       "id": "23694031516",
@@ -13985,21 +13999,7 @@
       "posted_ts": 1787041217,
       "posted_at": "2026-08-18T08:20:17.995214+00:00",
       "score": 77.27
-    },
-    {
-      "key": "shopee:58205140425",
-      "marketplace": "shopee",
-      "id": "58205140425",
-      "title": "Película De Privacidade 3D Vidro Temperado Anti-Spy  Compatível Samsung A07 A17 A37 A57",
-      "title_norm": "pelicula de privacidade 3d vidro temperado anti spy compativel samsung a07 a17 a37 a57",
-      "url": "https://shopee.com.br/product/1240425443/58205140425",
-      "affiliate_url": "https://s.shopee.com.br/19gFMxEpD",
-      "category": "TopToki",
-      "bucket": "toptoki",
-      "posted_ts": 1787041149,
-      "posted_at": "2026-08-18T08:19:09.033273+00:00",
-      "score": 77.91
     }
   ],
-  "updated_at": "2026-08-27T05:18:51.204114+00:00"
+  "updated_at": "2026-08-27T06:02:50.106128+00:00"
 }
