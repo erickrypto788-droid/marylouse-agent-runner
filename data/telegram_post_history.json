@@ -1,6 +1,34 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB7420274710",
+      "marketplace": "mercadolivre",
+      "id": "MLB7420274710",
+      "title": "Xiaomi Redmi Note 15",
+      "title_norm": "xiaomi redmi note 15",
+      "url": "https://www.mercadolivre.com.br/p/MLB74419020?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB74419020?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Informática",
+      "bucket": "celulares",
+      "posted_ts": 1787871831,
+      "posted_at": "2026-08-27T23:03:51.194748+00:00",
+      "score": 124.0
+    },
+    {
+      "key": "mercadolivre:MLB5919313906",
+      "marketplace": "mercadolivre",
+      "id": "MLB5919313906",
+      "title": "Carregador Portátil 20000mAh Bahrein Power Bank Universal Power Bank Carga Rápida Com Display Bahrein Compatível Com Todos Celulares Iphone Android IOS apple xiaomi Samsung Motorola",
+      "title_norm": "carregador portatil 20000mah bahrein power bank universal power bank carga rapida com display bahrein compativel com todos celulares iphone android ios apple xiaomi samsung motorola",
+      "url": "https://www.mercadolivre.com.br/p/MLB24099360?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB24099360?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Informática",
+      "bucket": "celulares",
+      "posted_ts": 1787871766,
+      "posted_at": "2026-08-27T23:02:46.979325+00:00",
+      "score": 149.86
+    },
+    {
       "key": "shopee:57008381938",
       "marketplace": "shopee",
       "id": "57008381938",
@@ -13971,35 +13999,7 @@
       "posted_ts": 1787087005,
       "posted_at": "2026-08-18T21:03:25.190029+00:00",
       "score": 86.0
-    },
-    {
-      "key": "shopee:23299157212",
-      "marketplace": "shopee",
-      "id": "23299157212",
-      "title": "Kit Explosão de Azeite de Oliva | bn.Cachos",
-      "title_norm": "kit explosao de azeite de oliva bn cachos",
-      "url": "https://shopee.com.br/product/1202663615/23299157212",
-      "affiliate_url": "https://s.shopee.com.br/4fvWbO8UZq",
-      "category": "bn.Cachos",
-      "bucket": "supermercado",
-      "posted_ts": 1787084456,
-      "posted_at": "2026-08-18T20:20:56.508909+00:00",
-      "score": 92.46
-    },
-    {
-      "key": "shopee:5083234596",
-      "marketplace": "shopee",
-      "id": "5083234596",
-      "title": "Manicrem Pasta De Amendoim Integral 100% Amendoim - 1kg",
-      "title_norm": "manicrem pasta de amendoim integral 100 amendoim 1kg",
-      "url": "https://shopee.com.br/product/409969707/5083234596",
-      "affiliate_url": "https://s.shopee.com.br/8pl5Z2jpYM",
-      "category": "MUNDO MANI",
-      "bucket": "mundo_mani",
-      "posted_ts": 1787084392,
-      "posted_at": "2026-08-18T20:19:52.561767+00:00",
-      "score": 93.84
     }
   ],
-  "updated_at": "2026-08-27T22:20:30.938910+00:00"
+  "updated_at": "2026-08-27T23:03:51.194763+00:00"
 }
