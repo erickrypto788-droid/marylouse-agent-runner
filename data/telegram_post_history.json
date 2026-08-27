@@ -1,6 +1,34 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB5709004240",
+      "marketplace": "mercadolivre",
+      "id": "MLB5709004240",
+      "title": "Detergente Sabão Lava Louça Pastilha + Lava Máquina Unik",
+      "title_norm": "detergente sabao lava louca pastilha lava maquina unik",
+      "url": "https://www.mercadolivre.com.br/p/MLB56414429?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB56414429?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Supermercados",
+      "bucket": "supermercado",
+      "posted_ts": 1787836064,
+      "posted_at": "2026-08-27T13:07:44.361093+00:00",
+      "score": 118.39
+    },
+    {
+      "key": "mercadolivre:MLB3814512618",
+      "marketplace": "mercadolivre",
+      "id": "MLB3814512618",
+      "title": "Fralda Huggies Tripla Proteção G 36 unidades",
+      "title_norm": "fralda huggies tripla protecao g 36 unidades",
+      "url": "https://www.mercadolivre.com.br/p/MLB17336422?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB17336422?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Mãe e Bebê",
+      "bucket": "fraldas",
+      "posted_ts": 1787835999,
+      "posted_at": "2026-08-27T13:06:39.779676+00:00",
+      "score": 130.0
+    },
+    {
       "key": "shopee:58214792830",
       "marketplace": "shopee",
       "id": "58214792830",
@@ -13971,35 +13999,7 @@
       "posted_ts": 1787062727,
       "posted_at": "2026-08-18T14:18:47.804224+00:00",
       "score": 92.53
-    },
-    {
-      "key": "shopee:22994959649",
-      "marketplace": "shopee",
-      "id": "22994959649",
-      "title": "Kit Hospitalar Doméstico Completo: Medidor de Pressão, Termômetro Infravermelho e Oxímetro",
-      "title_norm": "kit hospitalar domestico completo medidor de pressao termometro infravermelho e oximetro",
-      "url": "https://shopee.com.br/product/1242067486/22994959649",
-      "affiliate_url": "https://s.shopee.com.br/9ANvYvqFlE",
-      "category": "Rossi Stores",
-      "bucket": "saude",
-      "posted_ts": 1787062663,
-      "posted_at": "2026-08-18T14:17:43.830838+00:00",
-      "score": 117.82
-    },
-    {
-      "key": "shopee:20999578899",
-      "marketplace": "shopee",
-      "id": "20999578899",
-      "title": "Inalador Ultrassônico Portátil Nebulizador USB Pilha Sem Fio - Pronta Entrega",
-      "title_norm": "inalador ultrassonico portatil nebulizador usb pilha sem fio pronta entrega",
-      "url": "https://shopee.com.br/product/1441056601/20999578899",
-      "affiliate_url": "https://s.shopee.com.br/2BE9xmWmRd",
-      "category": "LDK IMPORTS",
-      "bucket": "saude",
-      "posted_ts": 1787062599,
-      "posted_at": "2026-08-18T14:16:39.824346+00:00",
-      "score": 118.79
     }
   ],
-  "updated_at": "2026-08-27T12:22:02.345783+00:00"
+  "updated_at": "2026-08-27T13:07:44.361114+00:00"
 }
