@@ -1,6 +1,34 @@
 {
   "posts": [
     {
+      "key": "shopee:57008381938",
+      "marketplace": "shopee",
+      "id": "57008381938",
+      "title": "Tênis De Corrida Profissional Ultraleve Com Placa De Carbono De Sola Completa Para Maratona , Masculino E Feminino",
+      "title_norm": "tenis de corrida profissional ultraleve com placa de carbono de sola completa para maratona masculino e feminino",
+      "url": "https://shopee.com.br/product/863968451/57008381938",
+      "affiliate_url": "https://s.shopee.com.br/6L3xsXBCfL",
+      "category": "NBGAGA Oficial Loja.br",
+      "bucket": "calcados",
+      "posted_ts": 1787869230,
+      "posted_at": "2026-08-27T22:20:30.938893+00:00",
+      "score": 97.35
+    },
+    {
+      "key": "shopee:22698875511",
+      "marketplace": "shopee",
+      "id": "22698875511",
+      "title": "Sapatênis Masculino com Calce Fácil e Palmilha Confortável para o Dia a Dia",
+      "title_norm": "sapatenis masculino com calce facil e palmilha confortavel para o dia a dia",
+      "url": "https://shopee.com.br/product/1175964027/22698875511",
+      "affiliate_url": "https://s.shopee.com.br/3LQMEttMcI",
+      "category": "analizshoes",
+      "bucket": "calcados",
+      "posted_ts": 1787869106,
+      "posted_at": "2026-08-27T22:18:26.809421+00:00",
+      "score": 106.4
+    },
+    {
       "key": "shopee:43461643565",
       "marketplace": "shopee",
       "id": "43461643565",
@@ -13971,35 +13999,7 @@
       "posted_ts": 1787084392,
       "posted_at": "2026-08-18T20:19:52.561767+00:00",
       "score": 93.84
-    },
-    {
-      "key": "shopee:40578847143",
-      "marketplace": "shopee",
-      "id": "40578847143",
-      "title": "Kit com 2 Formas de Silicone Moldes Variados para Chocolate Gelatina Balas de Goma e Creatina",
-      "title_norm": "kit com 2 formas de silicone moldes variados para chocolate gelatina balas de goma e creatina",
-      "url": "https://shopee.com.br/product/325369388/40578847143",
-      "affiliate_url": "https://s.shopee.com.br/W5xdjSp3w",
-      "category": "Point Mix",
-      "bucket": "point_mix",
-      "posted_ts": 1787084328,
-      "posted_at": "2026-08-18T20:18:48.529686+00:00",
-      "score": 94.58
-    },
-    {
-      "key": "shopee:19998102356",
-      "marketplace": "shopee",
-      "id": "19998102356",
-      "title": "Panela Elétrica Britânia 2L 5 Temperaturas 650W BPE02A",
-      "title_norm": "panela eletrica britania 2l 5 temperaturas 650w bpe02a",
-      "url": "https://shopee.com.br/product/811879342/19998102356",
-      "affiliate_url": "https://s.shopee.com.br/3VjZDFHOyM",
-      "category": "Britânia Oficial",
-      "bucket": "casa_cozinha",
-      "posted_ts": 1787084264,
-      "posted_at": "2026-08-18T20:17:44.507285+00:00",
-      "score": 95.69
     }
   ],
-  "updated_at": "2026-08-27T21:16:44.131743+00:00"
+  "updated_at": "2026-08-27T22:20:30.938910+00:00"
 }
