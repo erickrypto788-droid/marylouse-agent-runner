@@ -1,6 +1,20 @@
 {
   "posts": [
     {
+      "key": "shopee:43461643565",
+      "marketplace": "shopee",
+      "id": "43461643565",
+      "title": "Kit 4 Blusa Plus Size Camiseta Dry Fit Roupa de Academia Feminina Long Line Tapa Bumbum Curvy +",
+      "title_norm": "kit 4 blusa plus size camiseta dry fit roupa de academia feminina long line tapa bumbum curvy",
+      "url": "https://shopee.com.br/product/777798362/43461643565",
+      "affiliate_url": "https://s.shopee.com.br/7psmnLFMnv",
+      "category": "Mais Curvas Moda Feminina",
+      "bucket": "mais_curvas_moda_feminina",
+      "posted_ts": 1787865404,
+      "posted_at": "2026-08-27T21:16:44.131726+00:00",
+      "score": 105.31
+    },
+    {
       "key": "shopee:22795957748",
       "marketplace": "shopee",
       "id": "22795957748",
@@ -13985,21 +13999,7 @@
       "posted_ts": 1787084264,
       "posted_at": "2026-08-18T20:17:44.507285+00:00",
       "score": 95.69
-    },
-    {
-      "key": "shopee:22398848141",
-      "marketplace": "shopee",
-      "id": "22398848141",
-      "title": "Kit 2 Porta Leite em Pó Para Bebê + Colher de Silicone",
-      "title_norm": "kit 2 porta leite em po para bebe colher de silicone",
-      "url": "https://shopee.com.br/product/404249674/22398848141",
-      "affiliate_url": "https://s.shopee.com.br/8AVNVWpBds",
-      "category": "CHLOE01",
-      "bucket": "chloe01",
-      "posted_ts": 1787084200,
-      "posted_at": "2026-08-18T20:16:40.515842+00:00",
-      "score": 97.22
     }
   ],
-  "updated_at": "2026-08-27T20:21:29.557406+00:00"
+  "updated_at": "2026-08-27T21:16:44.131743+00:00"
 }
