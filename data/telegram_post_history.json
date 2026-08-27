@@ -1,6 +1,34 @@
 {
   "posts": [
     {
+      "key": "shopee:8333126075",
+      "marketplace": "shopee",
+      "id": "8333126075",
+      "title": "Bota Feminina Coturno Tratorado Blogueira Confortavel PROMOÇÃO PREÇO DE FABRICA",
+      "title_norm": "bota feminina coturno tratorado blogueira confortavel promocao preco de fabrica",
+      "url": "https://shopee.com.br/product/406280749/8333126075",
+      "affiliate_url": "https://s.shopee.com.br/7KwWKfUuLn",
+      "category": "Oadsey",
+      "bucket": "calcados",
+      "posted_ts": 1787872700,
+      "posted_at": "2026-08-27T23:18:20.639209+00:00",
+      "score": 98.7
+    },
+    {
+      "key": "shopee:23694435102",
+      "marketplace": "shopee",
+      "id": "23694435102",
+      "title": "Sandália Rasteira Feminina com Nó Bico Quadrado Confortável e Elegante para Dia a Dia",
+      "title_norm": "sandalia rasteira feminina com no bico quadrado confortavel e elegante para dia a dia",
+      "url": "https://shopee.com.br/product/1482605304/23694435102",
+      "affiliate_url": "https://s.shopee.com.br/1qbYWGfSrH",
+      "category": "GOIS E MORAIS",
+      "bucket": "calcados",
+      "posted_ts": 1787872636,
+      "posted_at": "2026-08-27T23:17:16.468518+00:00",
+      "score": 109.8
+    },
+    {
       "key": "mercadolivre:MLB7420274710",
       "marketplace": "mercadolivre",
       "id": "MLB7420274710",
@@ -13971,35 +13999,7 @@
       "posted_ts": 1787091475,
       "posted_at": "2026-08-18T22:17:55.059501+00:00",
       "score": 101.44
-    },
-    {
-      "key": "shopee:42829202045",
-      "marketplace": "shopee",
-      "id": "42829202045",
-      "title": "Conjunto Com 1 ou 2 Body Tule Feminino Manga Longa Transparente",
-      "title_norm": "conjunto com 1 ou 2 body tule feminino manga longa transparente",
-      "url": "https://shopee.com.br/product/439288467/42829202045",
-      "affiliate_url": "https://s.shopee.com.br/W5xlyOWAh",
-      "category": "Fabrica_da_moda",
-      "bucket": "fabrica_da_moda",
-      "posted_ts": 1787091407,
-      "posted_at": "2026-08-18T22:16:47.402978+00:00",
-      "score": 103.19
-    },
-    {
-      "key": "mercadolivre:MLB3845821781",
-      "marketplace": "mercadolivre",
-      "id": "MLB3845821781",
-      "title": "Armário Organizador Cozinha Balcão Microondas Jet - Cinza",
-      "title_norm": "armario organizador cozinha balcao microondas jet cinza",
-      "url": "https://www.mercadolivre.com.br/p/MLB38279289?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB38279289?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "category": "Casa e Cozinha",
-      "bucket": "casa_e_cozinha",
-      "posted_ts": 1787087005,
-      "posted_at": "2026-08-18T21:03:25.190029+00:00",
-      "score": 86.0
     }
   ],
-  "updated_at": "2026-08-27T23:03:51.194763+00:00"
+  "updated_at": "2026-08-27T23:18:20.639222+00:00"
 }
