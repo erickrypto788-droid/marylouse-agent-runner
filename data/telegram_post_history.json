@@ -1,6 +1,48 @@
 {
   "posts": [
     {
+      "key": "shopee:18619870711",
+      "marketplace": "shopee",
+      "id": "18619870711",
+      "title": "Bota Masculina Caterpillar em Lona Reforçada Promoção",
+      "title_norm": "bota masculina caterpillar em lona reforcada promocao",
+      "url": "https://shopee.com.br/product/378772460/18619870711",
+      "affiliate_url": "https://s.shopee.com.br/8Kp2C5f0K5",
+      "category": "By MP Fashion",
+      "bucket": "calcados",
+      "posted_ts": 1787800731,
+      "posted_at": "2026-08-27T03:18:51.297450+00:00",
+      "score": 93.77
+    },
+    {
+      "key": "shopee:23397486866",
+      "marketplace": "shopee",
+      "id": "23397486866",
+      "title": "Tênis Masculino Esportivo DM DAMANDO Para Treino Crossfit Caminhada",
+      "title_norm": "tenis masculino esportivo dm damando para treino crossfit caminhada",
+      "url": "https://shopee.com.br/product/319037999/23397486866",
+      "affiliate_url": "https://s.shopee.com.br/5VUqoscWXQ",
+      "category": "DM DAMANDO",
+      "bucket": "calcados",
+      "posted_ts": 1787800667,
+      "posted_at": "2026-08-27T03:17:47.300260+00:00",
+      "score": 95.52
+    },
+    {
+      "key": "shopee:18910553978",
+      "marketplace": "shopee",
+      "id": "18910553978",
+      "title": "Botina De Segurança BICO PVC Em COURO Para Trabalho Atacado de EPI Resistente Serviços Gerais",
+      "title_norm": "botina de seguranca bico pvc em couro para trabalho atacado de epi resistente servicos gerais",
+      "url": "https://shopee.com.br/product/617617904/18910553978",
+      "affiliate_url": "https://s.shopee.com.br/80CBnTgH03",
+      "category": "EAGLE EPI",
+      "bucket": "eagle_epi",
+      "posted_ts": 1787800598,
+      "posted_at": "2026-08-27T03:16:38.571305+00:00",
+      "score": 95.89
+    },
+    {
       "key": "shopee:23994721900",
       "marketplace": "shopee",
       "id": "23994721900",
@@ -13957,49 +13999,7 @@
       "posted_ts": 1787037393,
       "posted_at": "2026-08-18T07:16:33.285021+00:00",
       "score": 107.25
-    },
-    {
-      "key": "shopee:58211149676",
-      "marketplace": "shopee",
-      "id": "58211149676",
-      "title": "tenis Unissex Old Knu Feminino Masculino Branco Preto Promoção envio imediato.",
-      "title_norm": "tenis unissex old knu feminino masculino branco preto promocao envio imediato",
-      "url": "https://shopee.com.br/product/1330875176/58211149676",
-      "affiliate_url": "https://s.shopee.com.br/9ANv1xtF4t",
-      "category": "Vnshoes",
-      "bucket": "calcados",
-      "posted_ts": 1787033863,
-      "posted_at": "2026-08-18T06:17:43.250088+00:00",
-      "score": 96.73
-    },
-    {
-      "key": "shopee:20199249608",
-      "marketplace": "shopee",
-      "id": "20199249608",
-      "title": "Tenis Sapatilha Masculino Casual Aquatico de Trilha Impermeável Com Solado Costurado E Elastico Ajustável",
-      "title_norm": "tenis sapatilha masculino casual aquatico de trilha impermeavel com solado costurado e elastico ajustavel",
-      "url": "https://shopee.com.br/product/1246015756/20199249608",
-      "affiliate_url": "https://s.shopee.com.br/AKZsQ6oniE",
-      "category": "ShopShooes",
-      "bucket": "calcados",
-      "posted_ts": 1787033799,
-      "posted_at": "2026-08-18T06:16:39.162351+00:00",
-      "score": 97.85
-    },
-    {
-      "key": "mercadolivre:MLB7275710400",
-      "marketplace": "mercadolivre",
-      "id": "MLB7275710400",
-      "title": "Escova Secadora Profissional",
-      "title_norm": "escova secadora profissional",
-      "url": "https://www.mercadolivre.com.br/p/MLB37914551?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB37914551?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "category": "Beleza",
-      "bucket": "beleza",
-      "posted_ts": 1787032947,
-      "posted_at": "2026-08-18T06:02:27.941549+00:00",
-      "score": 113.0
     }
   ],
-  "updated_at": "2026-08-27T02:18:46.223984+00:00"
+  "updated_at": "2026-08-27T03:18:51.297463+00:00"
 }
