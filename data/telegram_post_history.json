@@ -1,6 +1,48 @@
 {
   "posts": [
     {
+      "key": "shopee:56512382371",
+      "marketplace": "shopee",
+      "id": "56512382371",
+      "title": "Necessaire Organizador Cosmético Maquiagem Feminino Para Viagem Em Alto Qualidade 884",
+      "title_norm": "necessaire organizador cosmetico maquiagem feminino para viagem em alto qualidade 884",
+      "url": "https://shopee.com.br/product/1414811075/56512382371",
+      "affiliate_url": "https://s.shopee.com.br/AUtXRIPKcj",
+      "category": "b2comercio",
+      "bucket": "beleza",
+      "posted_ts": 1787908737,
+      "posted_at": "2026-08-28T09:18:57.391546+00:00",
+      "score": 41.88
+    },
+    {
+      "key": "shopee:22391919981",
+      "marketplace": "shopee",
+      "id": "22391919981",
+      "title": "Mochila 2023 bolsa Viagem Resistente a Água Style Premium Executiva Envio imediato",
+      "title_norm": "mochila 2023 bolsa viagem resistente a agua style premium executiva envio imediato",
+      "url": "https://shopee.com.br/product/691323218/22391919981",
+      "affiliate_url": "https://s.shopee.com.br/7Ad5TAOp1D",
+      "category": "ULTRA TECH COMERCIAL LTDA",
+      "bucket": "bolsas",
+      "posted_ts": 1787908669,
+      "posted_at": "2026-08-28T09:17:49.940557+00:00",
+      "score": 100.25
+    },
+    {
+      "key": "shopee:23993570865",
+      "marketplace": "shopee",
+      "id": "23993570865",
+      "title": "Mochila feminina casual e versátil leve e à prova d'água com grande capacidade para estudantes",
+      "title_norm": "mochila feminina casual e versatil leve e a prova d agua com grande capacidade para estudantes",
+      "url": "https://shopee.com.br/product/404648195/23993570865",
+      "affiliate_url": "https://s.shopee.com.br/BTL8IyL7K",
+      "category": "S.X.Z.SHOP.BRAZIL",
+      "bucket": "bolsas",
+      "posted_ts": 1787908601,
+      "posted_at": "2026-08-28T09:16:41.907869+00:00",
+      "score": 101.69
+    },
+    {
       "key": "shopee:23993408966",
       "marketplace": "shopee",
       "id": "23993408966",
@@ -13957,49 +13999,7 @@
       "posted_ts": 1787126541,
       "posted_at": "2026-08-19T08:02:21.261776+00:00",
       "score": 113.0
-    },
-    {
-      "key": "shopee:58208327100",
-      "marketplace": "shopee",
-      "id": "58208327100",
-      "title": "Creatina Monohidratada DUX Nutrition 100% Pura Original Academia – Hipertrofia",
-      "title_norm": "creatina monohidratada dux nutrition 100 pura original academia hipertrofia",
-      "url": "https://shopee.com.br/product/1593899060/58208327100",
-      "affiliate_url": "https://s.shopee.com.br/3B6iHfUFse",
-      "category": "Aplhavita",
-      "bucket": "aplhavita",
-      "posted_ts": 1787124080,
-      "posted_at": "2026-08-19T07:21:20.572238+00:00",
-      "score": 101.44
-    },
-    {
-      "key": "shopee:23994304552",
-      "marketplace": "shopee",
-      "id": "23994304552",
-      "title": "Bola de Futsal Topper Original E Bomba Slick Gold Original Resistente Futebol de Salão Oficial",
-      "title_norm": "bola de futsal topper original e bomba slick gold original resistente futebol de salao oficial",
-      "url": "https://shopee.com.br/product/1598096338/23994304552",
-      "affiliate_url": "https://s.shopee.com.br/LmYAkGIEc",
-      "category": "RTH Shop",
-      "bucket": "rth_shop",
-      "posted_ts": 1787124009,
-      "posted_at": "2026-08-19T07:20:09.915851+00:00",
-      "score": 101.47
-    },
-    {
-      "key": "shopee:29842873054",
-      "marketplace": "shopee",
-      "id": "29842873054",
-      "title": "Whey Protein Concentrado 1kg Refil - FTW",
-      "title_norm": "whey protein concentrado 1kg refil ftw",
-      "url": "https://shopee.com.br/product/1397772996/29842873054",
-      "affiliate_url": "https://s.shopee.com.br/7VFihut8Ph",
-      "category": "Loja Oficial FTW",
-      "bucket": "loja_oficial_ftw",
-      "posted_ts": 1787123942,
-      "posted_at": "2026-08-19T07:19:02.914634+00:00",
-      "score": 103.34
     }
   ],
-  "updated_at": "2026-08-28T08:21:26.747369+00:00"
+  "updated_at": "2026-08-28T09:18:57.391563+00:00"
 }
