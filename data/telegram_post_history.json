@@ -1,6 +1,20 @@
 {
   "posts": [
     {
+      "key": "shopee:19197658752",
+      "marketplace": "shopee",
+      "id": "19197658752",
+      "title": "Mochila Grande Masculina Feminina De Viagem Bolsa Academia",
+      "title_norm": "mochila grande masculina feminina de viagem bolsa academia",
+      "url": "https://shopee.com.br/product/222975446/19197658752",
+      "affiliate_url": "https://s.shopee.com.br/4AzTxlPYs2",
+      "category": "Luxor Comercial",
+      "bucket": "bolsas",
+      "posted_ts": 1787912196,
+      "posted_at": "2026-08-28T10:16:36.543952+00:00",
+      "score": 92.95
+    },
+    {
       "key": "shopee:56512382371",
       "marketplace": "shopee",
       "id": "56512382371",
@@ -13985,21 +13999,7 @@
       "posted_ts": 1787127404,
       "posted_at": "2026-08-19T08:16:44.899694+00:00",
       "score": 92.01
-    },
-    {
-      "key": "mercadolivre:MLB4342761455",
-      "marketplace": "mercadolivre",
-      "id": "MLB4342761455",
-      "title": "Ração Cachorro Selection Adultos Pequenos 10,1kg Harmony",
-      "title_norm": "racao cachorro selection adultos pequenos 10 1kg harmony",
-      "url": "https://www.mercadolivre.com.br/p/MLB49735840?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB49735840?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "category": "Pet",
-      "bucket": "pet",
-      "posted_ts": 1787126541,
-      "posted_at": "2026-08-19T08:02:21.261776+00:00",
-      "score": 113.0
     }
   ],
-  "updated_at": "2026-08-28T09:18:57.391563+00:00"
+  "updated_at": "2026-08-28T10:16:36.543966+00:00"
 }
