@@ -1,6 +1,48 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB4664227033",
+      "marketplace": "mercadolivre",
+      "id": "MLB4664227033",
+      "title": "Condicionador Jaborandi - 300 Ml Condicionador Jaborandi 30",
+      "title_norm": "condicionador jaborandi 300 ml condicionador jaborandi 30",
+      "url": "https://www.mercadolivre.com.br/p/MLB59913750?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB59913750?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Beleza",
+      "bucket": "beleza",
+      "posted_ts": 1787897245,
+      "posted_at": "2026-08-28T06:07:25.500408+00:00",
+      "score": 79.13
+    },
+    {
+      "key": "mercadolivre:MLB7203056478",
+      "marketplace": "mercadolivre",
+      "id": "MLB7203056478",
+      "title": "Amaciante Triex Amaciante Max Blue em frasco 5 L",
+      "title_norm": "amaciante triex amaciante max blue em frasco 5 l",
+      "url": "https://www.mercadolivre.com.br/p/MLB35613935?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB35613935?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Supermercados",
+      "bucket": "supermercado",
+      "posted_ts": 1787897181,
+      "posted_at": "2026-08-28T06:06:21.029108+00:00",
+      "score": 103.68
+    },
+    {
+      "key": "mercadolivre:MLB4746828969",
+      "marketplace": "mercadolivre",
+      "id": "MLB4746828969",
+      "title": "Fralda Pampers Pants Ajuste Total XXG 60 Unidades",
+      "title_norm": "fralda pampers pants ajuste total xxg 60 unidades",
+      "url": "https://www.mercadolivre.com.br/p/MLB18715385?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB18715385?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Mãe e Bebê",
+      "bucket": "fraldas",
+      "posted_ts": 1787897117,
+      "posted_at": "2026-08-28T06:05:17.037764+00:00",
+      "score": 130.0
+    },
+    {
       "key": "shopee:58253140272",
       "marketplace": "shopee",
       "id": "58253140272",
@@ -13957,49 +13999,7 @@
       "posted_ts": 1787113119,
       "posted_at": "2026-08-19T04:18:39.127428+00:00",
       "score": 70.92
-    },
-    {
-      "key": "shopee:22792891006",
-      "marketplace": "shopee",
-      "id": "22792891006",
-      "title": "Cafeteira Philco 15 Cafezinhos 550W 600ml PCFE01",
-      "title_norm": "cafeteira philco 15 cafezinhos 550w 600ml pcfe01",
-      "url": "https://shopee.com.br/product/811034337/22792891006",
-      "affiliate_url": "https://s.shopee.com.br/1BLexuRtO1",
-      "category": "Philco Oficial",
-      "bucket": "casa_cozinha",
-      "posted_ts": 1787113055,
-      "posted_at": "2026-08-19T04:17:35.211611+00:00",
-      "score": 90.54
-    },
-    {
-      "key": "shopee:18299266586",
-      "marketplace": "shopee",
-      "id": "18299266586",
-      "title": "Aspirador de Pó 2 em 1 Limpeza Portátil Sem Fio Multifuncional Para Limpeza De Casa Manual",
-      "title_norm": "aspirador de po 2 em 1 limpeza portatil sem fio multifuncional para limpeza de casa manual",
-      "url": "https://shopee.com.br/product/465639879/18299266586",
-      "affiliate_url": "https://s.shopee.com.br/112ElbWvVQ",
-      "category": "T&TBem_vindo.br",
-      "bucket": "casa_cozinha",
-      "posted_ts": 1787112991,
-      "posted_at": "2026-08-19T04:16:31.317444+00:00",
-      "score": 92.05
-    },
-    {
-      "key": "shopee:18799617679",
-      "marketplace": "shopee",
-      "id": "18799617679",
-      "title": "KIT 2 CABOS TIPO-C ULTRA RÁPIDO ORIGINAL INOVA Compatível com Diversas Marcas",
-      "title_norm": "kit 2 cabos tipo c ultra rapido original inova compativel com diversas marcas",
-      "url": "https://shopee.com.br/product/583550828/18799617679",
-      "affiliate_url": "https://s.shopee.com.br/BT7hxG7T5",
-      "category": "𝑨𝒏𝒚𝑾𝒊𝒍𝒍𝒊'𝒔 𝑺𝒕𝒐𝒓𝒆",
-      "bucket": "outros",
-      "posted_ts": 1787109530,
-      "posted_at": "2026-08-19T03:18:50.411904+00:00",
-      "score": 67.27
     }
   ],
-  "updated_at": "2026-08-28T05:21:06.448524+00:00"
+  "updated_at": "2026-08-28T06:07:25.500418+00:00"
 }
