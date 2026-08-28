@@ -1,6 +1,20 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB7526272332",
+      "marketplace": "mercadolivre",
+      "id": "MLB7526272332",
+      "title": "Ração Gato Castrado Life Special Robustus 10,1kg",
+      "title_norm": "racao gato castrado life special robustus 10 1kg",
+      "url": "https://www.mercadolivre.com.br/p/MLB75981402?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB75981402?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Pet",
+      "bucket": "pet",
+      "posted_ts": 1787943763,
+      "posted_at": "2026-08-28T19:02:43.364412+00:00",
+      "score": 113.0
+    },
+    {
       "key": "shopee:22394224925",
       "marketplace": "shopee",
       "id": "22394224925",
@@ -13985,21 +13999,7 @@
       "posted_ts": 1787149077,
       "posted_at": "2026-08-19T14:17:57.900713+00:00",
       "score": 77.03
-    },
-    {
-      "key": "shopee:46662348294",
-      "marketplace": "shopee",
-      "id": "46662348294",
-      "title": "Monitor Gamer Acer KG243Y 23.8\" Full HD 144Hz IPS HDMI P1bip - Preto - Bivolt",
-      "title_norm": "monitor gamer acer kg243y 23 8 full hd 144hz ips hdmi p1bip preto bivolt",
-      "url": "https://shopee.com.br/product/344381236/46662348294",
-      "affiliate_url": "https://s.shopee.com.br/5q7VBiFyCM",
-      "category": "TNTinfoLoja",
-      "bucket": "informatica",
-      "posted_ts": 1787149013,
-      "posted_at": "2026-08-19T14:16:53.685728+00:00",
-      "score": 122.62
     }
   ],
-  "updated_at": "2026-08-28T18:18:51.815185+00:00"
+  "updated_at": "2026-08-28T19:02:43.364427+00:00"
 }

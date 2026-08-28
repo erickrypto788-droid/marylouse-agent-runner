@@ -1,6 +1,21 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB7526272332",
+      "product_id": "MLB7526272332",
+      "catalog_product_id": "MLB75981402",
+      "item_id": "MLB7526272332",
+      "url": "https://www.mercadolivre.com.br/p/MLB75981402?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB75981402?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "racao gato castrado life special robustus 10 1kg",
+      "title": "Ração Gato Castrado Life Special Robustus 10,1kg",
+      "category": "Pet",
+      "price": 171.5,
+      "score": 113.0,
+      "posted_ts": 1787943763,
+      "posted_at": "2026-08-28T19:02:43.376455+00:00"
+    },
+    {
       "key": "mercadolivre:MLB5020657947",
       "product_id": "MLB5020657947",
       "catalog_product_id": "MLB48332910",
@@ -331,5 +346,5 @@
       "posted_at": "2026-08-26T20:06:32.359820+00:00"
     }
   ],
-  "updated_at": "2026-08-28T16:03:58.213524+00:00"
+  "updated_at": "2026-08-28T19:02:43.376469+00:00"
 }
