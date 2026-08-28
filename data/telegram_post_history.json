@@ -1,6 +1,34 @@
 {
   "posts": [
     {
+      "key": "shopee:22394224925",
+      "marketplace": "shopee",
+      "id": "22394224925",
+      "title": "Bota Social Masculina Zíper Lateral Alta Durabilidade Forro Macio Acabamento Premium",
+      "title_norm": "bota social masculina ziper lateral alta durabilidade forro macio acabamento premium",
+      "url": "https://shopee.com.br/product/1484288001/22394224925",
+      "affiliate_url": "https://s.shopee.com.br/gPdelTVll",
+      "category": "Sra Sampaio Concept",
+      "bucket": "calcados",
+      "posted_ts": 1787941131,
+      "posted_at": "2026-08-28T18:18:51.815169+00:00",
+      "score": 92.81
+    },
+    {
+      "key": "shopee:22395044322",
+      "marketplace": "shopee",
+      "id": "22395044322",
+      "title": "Sapatênis Rayon Masculino Premium Tênis Casual Urbano Sola Alta Sneakers Lançamento Envio Imediato",
+      "title_norm": "sapatenis rayon masculino premium tenis casual urbano sola alta sneakers lancamento envio imediato",
+      "url": "https://shopee.com.br/product/1594564722/22395044322",
+      "affiliate_url": "https://s.shopee.com.br/5LBTDL35FY",
+      "category": "JHS FOOTWEAR",
+      "bucket": "calcados",
+      "posted_ts": 1787941067,
+      "posted_at": "2026-08-28T18:17:47.623273+00:00",
+      "score": 94.63
+    },
+    {
       "key": "shopee:58252602711",
       "marketplace": "shopee",
       "id": "58252602711",
@@ -13971,35 +13999,7 @@
       "posted_ts": 1787149013,
       "posted_at": "2026-08-19T14:16:53.685728+00:00",
       "score": 122.62
-    },
-    {
-      "key": "shopee:23291332188",
-      "marketplace": "shopee",
-      "id": "23291332188",
-      "title": "Kit 12 Marca Texto (6 Neon + 6 pastel) Caneta marca texto Masterprint",
-      "title_norm": "kit 12 marca texto 6 neon 6 pastel caneta marca texto masterprint",
-      "url": "https://shopee.com.br/product/999239250/23291332188",
-      "affiliate_url": "https://s.shopee.com.br/30nIU5Rjji",
-      "category": "Draw Papelaria",
-      "bucket": "draw_papelaria",
-      "posted_ts": 1787145652,
-      "posted_at": "2026-08-19T13:20:52.624784+00:00",
-      "score": 55.16
-    },
-    {
-      "key": "shopee:22296074563",
-      "marketplace": "shopee",
-      "id": "22296074563",
-      "title": "Mini Agenda para Controle de Vendas - 100 folhas",
-      "title_norm": "mini agenda para controle de vendas 100 folhas",
-      "url": "https://shopee.com.br/product/381994104/22296074563",
-      "affiliate_url": "https://s.shopee.com.br/8Koq6AmsS0",
-      "category": "Mimo Personalizados Oficial",
-      "bucket": "mimo_personalizados_oficial",
-      "posted_ts": 1787145588,
-      "posted_at": "2026-08-19T13:19:48.749834+00:00",
-      "score": 56.28
     }
   ],
-  "updated_at": "2026-08-28T17:16:39.851480+00:00"
+  "updated_at": "2026-08-28T18:18:51.815185+00:00"
 }
