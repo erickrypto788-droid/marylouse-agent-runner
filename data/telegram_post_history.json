@@ -1,6 +1,34 @@
 {
   "posts": [
     {
+      "key": "shopee:23597334946",
+      "marketplace": "shopee",
+      "id": "23597334946",
+      "title": "Liquidificador Britânia BLQE01 2 copos 2,6L 900W",
+      "title_norm": "liquidificador britania blqe01 2 copos 2 6l 900w",
+      "url": "https://shopee.com.br/product/811879342/23597334946",
+      "affiliate_url": "https://s.shopee.com.br/gPcWgBZoM",
+      "category": "Britânia Oficial",
+      "bucket": "casa_cozinha",
+      "posted_ts": 1787879894,
+      "posted_at": "2026-08-28T01:18:14.759399+00:00",
+      "score": 98.24
+    },
+    {
+      "key": "shopee:58257043096",
+      "marketplace": "shopee",
+      "id": "58257043096",
+      "title": "Liquidificador Triturador Compacto para suco com Led - suco e frutas Bivolt 600ml   novo ZZJ",
+      "title_norm": "liquidificador triturador compacto para suco com led suco e frutas bivolt 600ml novo zzj",
+      "url": "https://shopee.com.br/product/1671644940/58257043096",
+      "affiliate_url": "https://s.shopee.com.br/30nXIy2h4y",
+      "category": "CAI STORE ELETRONICOS",
+      "bucket": "casa_cozinha",
+      "posted_ts": 1787879822,
+      "posted_at": "2026-08-28T01:17:02.669351+00:00",
+      "score": 108.57
+    },
+    {
       "key": "shopee:45754796089",
       "marketplace": "shopee",
       "id": "45754796089",
@@ -13971,35 +13999,7 @@
       "posted_ts": 1787095072,
       "posted_at": "2026-08-18T23:17:52.424077+00:00",
       "score": 93.68
-    },
-    {
-      "key": "shopee:40727316477",
-      "marketplace": "shopee",
-      "id": "40727316477",
-      "title": "Kit Bermuda Short Mole + Camiseta PRETA PARIS MINIMALIST kit Basico Algodão Malha Premium",
-      "title_norm": "kit bermuda short mole camiseta preta paris minimalist kit basico algodao malha premium",
-      "url": "https://shopee.com.br/product/368328709/40727316477",
-      "affiliate_url": "https://s.shopee.com.br/6fgbBQLMiY",
-      "category": "ShopeRose",
-      "bucket": "shoperose",
-      "posted_ts": 1787095005,
-      "posted_at": "2026-08-18T23:16:45.004230+00:00",
-      "score": 109.76
-    },
-    {
-      "key": "shopee:22293752341",
-      "marketplace": "shopee",
-      "id": "22293752341",
-      "title": "kit 03 short dool pijaminhas coloridos roupa de dormir",
-      "title_norm": "kit 03 short dool pijaminhas coloridos roupa de dormir",
-      "url": "https://shopee.com.br/product/462522142/22293752341",
-      "affiliate_url": "https://s.shopee.com.br/1gHttpRMXa",
-      "category": "HELENA BORDEAUX MODA FITNESS",
-      "bucket": "helena_bordeaux_moda_fitness",
-      "posted_ts": 1787091673,
-      "posted_at": "2026-08-18T22:21:13.758705+00:00",
-      "score": 95.12
     }
   ],
-  "updated_at": "2026-08-28T00:18:57.320734+00:00"
+  "updated_at": "2026-08-28T01:18:14.759413+00:00"
 }
