@@ -1,6 +1,21 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB4949684225",
+      "product_id": "MLB4949684225",
+      "catalog_product_id": "MLB75635951",
+      "item_id": "MLB4949684225",
+      "url": "https://www.mercadolivre.com.br/p/MLB75635951?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB75635951?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "fralda geriatrica prevent care tamanho fralda geriatrica prevent care m c 50",
+      "title": "Fralda Geriatrica Prevent Care Tamanho FRALDA GERIATRICA PREVENT CARE M C/50",
+      "category": "Mãe e Bebê",
+      "price": 112.9,
+      "score": 114.0,
+      "posted_ts": 1787886178,
+      "posted_at": "2026-08-28T03:02:58.458512+00:00"
+    },
+    {
       "key": "mercadolivre:MLB4342761455",
       "product_id": "MLB4342761455",
       "catalog_product_id": "MLB49735840",
@@ -436,5 +451,5 @@
       "posted_at": "2026-08-26T03:06:52.339339+00:00"
     }
   ],
-  "updated_at": "2026-08-28T02:03:41.496150+00:00"
+  "updated_at": "2026-08-28T03:02:58.458521+00:00"
 }

@@ -1,6 +1,20 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB4949684225",
+      "marketplace": "mercadolivre",
+      "id": "MLB4949684225",
+      "title": "Fralda Geriatrica Prevent Care Tamanho FRALDA GERIATRICA PREVENT CARE M C/50",
+      "title_norm": "fralda geriatrica prevent care tamanho fralda geriatrica prevent care m c 50",
+      "url": "https://www.mercadolivre.com.br/p/MLB75635951?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB75635951?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Mãe e Bebê",
+      "bucket": "fraldas",
+      "posted_ts": 1787886178,
+      "posted_at": "2026-08-28T03:02:58.444896+00:00",
+      "score": 114.0
+    },
+    {
       "key": "shopee:52054081014",
       "marketplace": "shopee",
       "id": "52054081014",
@@ -13985,21 +13999,7 @@
       "posted_ts": 1787098858,
       "posted_at": "2026-08-19T00:20:58.194555+00:00",
       "score": 57.67
-    },
-    {
-      "key": "shopee:55957074597",
-      "marketplace": "shopee",
-      "id": "55957074597",
-      "title": "Kit 2 Camisas Fitness Plus Size Alongadas Tapa Bumbum em  Premium",
-      "title_norm": "kit 2 camisas fitness plus size alongadas tapa bumbum em premium",
-      "url": "https://shopee.com.br/product/1464110755/55957074597",
-      "affiliate_url": "https://s.shopee.com.br/1qbKENE6YM",
-      "category": "Flexicom",
-      "bucket": "flexicom",
-      "posted_ts": 1787098793,
-      "posted_at": "2026-08-19T00:19:53.984901+00:00",
-      "score": 58.48
     }
   ],
-  "updated_at": "2026-08-28T02:21:11.562066+00:00"
+  "updated_at": "2026-08-28T03:02:58.444909+00:00"
 }
