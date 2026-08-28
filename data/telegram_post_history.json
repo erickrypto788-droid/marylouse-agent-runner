@@ -1,6 +1,48 @@
 {
   "posts": [
     {
+      "key": "shopee:23598236187",
+      "marketplace": "shopee",
+      "id": "23598236187",
+      "title": "Air Fryer Kitchen Art 16L 4 em 1 com Espeto Rotisserie KAF16A",
+      "title_norm": "air fryer kitchen art 16l 4 em 1 com espeto rotisserie kaf16a",
+      "url": "https://shopee.com.br/product/811034337/23598236187",
+      "affiliate_url": "https://s.shopee.com.br/gPcWg7S5C",
+      "category": "Philco Oficial",
+      "bucket": "casa_cozinha",
+      "posted_ts": 1787951929,
+      "posted_at": "2026-08-28T21:18:49.775685+00:00",
+      "score": 77.35
+    },
+    {
+      "key": "shopee:22193502150",
+      "marketplace": "shopee",
+      "id": "22193502150",
+      "title": "Mini elétrica antiaderente máquina de cozimento de bolo quiche/forno/máquina de ovo mini ferro 110V",
+      "title_norm": "mini eletrica antiaderente maquina de cozimento de bolo quiche forno maquina de ovo mini ferro 110v",
+      "url": "https://shopee.com.br/product/1371984973/22193502150",
+      "affiliate_url": "https://s.shopee.com.br/4VcMQ71lKn",
+      "category": "VIVA.SHOP",
+      "bucket": "viva_shop",
+      "posted_ts": 1787951865,
+      "posted_at": "2026-08-28T21:17:45.759871+00:00",
+      "score": 105.2
+    },
+    {
+      "key": "shopee:42565175368",
+      "marketplace": "shopee",
+      "id": "42565175368",
+      "title": "Aspirador de Pó Robô WAP Robot W100 3 em 1 Antiqueda Bivolt 17W",
+      "title_norm": "aspirador de po robo wap robot w100 3 em 1 antiqueda bivolt 17w",
+      "url": "https://shopee.com.br/product/359168917/42565175368",
+      "affiliate_url": "https://s.shopee.com.br/60RACrn7Fn",
+      "category": "LOI BRASIL",
+      "bucket": "casa_cozinha",
+      "posted_ts": 1787951801,
+      "posted_at": "2026-08-28T21:16:41.685720+00:00",
+      "score": 145.22
+    },
+    {
       "key": "shopee:20698075298",
       "marketplace": "shopee",
       "id": "20698075298",
@@ -13957,49 +13999,7 @@
       "posted_ts": 1787152811,
       "posted_at": "2026-08-19T15:20:11.464187+00:00",
       "score": 87.7
-    },
-    {
-      "key": "shopee:23095934785",
-      "marketplace": "shopee",
-      "id": "23095934785",
-      "title": "Quinoa Branca em Grãos 1Kg - P&P",
-      "title_norm": "quinoa branca em graos 1kg p p",
-      "url": "https://shopee.com.br/product/394192376/23095934785",
-      "affiliate_url": "https://s.shopee.com.br/2qTtgK3JT6",
-      "category": "P&P FIT",
-      "bucket": "p_p_fit",
-      "posted_ts": 1787152747,
-      "posted_at": "2026-08-19T15:19:07.524157+00:00",
-      "score": 89.65
-    },
-    {
-      "key": "shopee:3775644666",
-      "marketplace": "shopee",
-      "id": "3775644666",
-      "title": "Chocolate Moranguete 468g C/36 Unidades 13g Bel",
-      "title_norm": "chocolate moranguete 468g c 36 unidades 13g bel",
-      "url": "https://shopee.com.br/product/318555124/3775644666",
-      "affiliate_url": "https://s.shopee.com.br/AKZs5VlTX2",
-      "category": "Mania Pingo de Mel",
-      "bucket": "mania_pingo_de_mel",
-      "posted_ts": 1787152683,
-      "posted_at": "2026-08-19T15:18:03.472923+00:00",
-      "score": 89.84
-    },
-    {
-      "key": "shopee:22897368722",
-      "marketplace": "shopee",
-      "id": "22897368722",
-      "title": "Chocolate Twix Original 30 Unidades de 15g",
-      "title_norm": "chocolate twix original 30 unidades de 15g",
-      "url": "https://shopee.com.br/product/1196970617/22897368722",
-      "affiliate_url": "https://s.shopee.com.br/60QvS8iSTe",
-      "category": "M&M's Oficial",
-      "bucket": "m_m_s_oficial",
-      "posted_ts": 1787152612,
-      "posted_at": "2026-08-19T15:16:52.798352+00:00",
-      "score": 95.72
     }
   ],
-  "updated_at": "2026-08-28T20:17:46.995563+00:00"
+  "updated_at": "2026-08-28T21:18:49.775705+00:00"
 }
