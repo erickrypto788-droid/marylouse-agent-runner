@@ -1,6 +1,20 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB4631396421",
+      "marketplace": "mercadolivre",
+      "id": "MLB4631396421",
+      "title": "Papel Higiênico Folha Dupla 2000m - 8x250m",
+      "title_norm": "papel higienico folha dupla 2000m 8x250m",
+      "url": "https://www.mercadolivre.com.br/p/MLB68485778?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB68485778?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Supermercados",
+      "bucket": "supermercado",
+      "posted_ts": 1787958376,
+      "posted_at": "2026-08-28T23:06:16.866421+00:00",
+      "score": 103.67
+    },
+    {
       "key": "shopee:19299247231",
       "marketplace": "shopee",
       "id": "19299247231",
@@ -13985,21 +13999,7 @@
       "posted_ts": 1787160115,
       "posted_at": "2026-08-19T17:21:55.100347+00:00",
       "score": 92.69
-    },
-    {
-      "key": "shopee:57411045089",
-      "marketplace": "shopee",
-      "id": "57411045089",
-      "title": "Vestido Midi Feminino Malha Suplex Moda Camponesa Dia a Dia Confortavel",
-      "title_norm": "vestido midi feminino malha suplex moda camponesa dia a dia confortavel",
-      "url": "https://shopee.com.br/product/1389408941/57411045089",
-      "affiliate_url": "https://s.shopee.com.br/6L3lyyqcoL",
-      "category": "Alliehmodas",
-      "bucket": "moda_feminina",
-      "posted_ts": 1787160051,
-      "posted_at": "2026-08-19T17:20:51.082508+00:00",
-      "score": 95.7
     }
   ],
-  "updated_at": "2026-08-28T22:20:00.963128+00:00"
+  "updated_at": "2026-08-28T23:06:16.866435+00:00"
 }
