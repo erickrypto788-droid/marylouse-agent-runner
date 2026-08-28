@@ -1,6 +1,20 @@
 {
   "posts": [
     {
+      "key": "shopee:58252602711",
+      "marketplace": "shopee",
+      "id": "58252602711",
+      "title": "Blazer Feminino Plus Size Alfaiataria Sem Forro | Botões Dourados Decorativos | Elegante para , Escritório e Casual",
+      "title_norm": "blazer feminino plus size alfaiataria sem forro botoes dourados decorativos elegante para escritorio e casual",
+      "url": "https://shopee.com.br/product/1076483874/58252602711",
+      "affiliate_url": "https://s.shopee.com.br/9pdsVQTFIm",
+      "category": "fannie modas feminina",
+      "bucket": "fannie_modas_feminina",
+      "posted_ts": 1787937399,
+      "posted_at": "2026-08-28T17:16:39.851463+00:00",
+      "score": 102.73
+    },
+    {
       "key": "shopee:23294058392",
       "marketplace": "shopee",
       "id": "23294058392",
@@ -13985,21 +13999,7 @@
       "posted_ts": 1787145588,
       "posted_at": "2026-08-19T13:19:48.749834+00:00",
       "score": 56.28
-    },
-    {
-      "key": "shopee:52763574749",
-      "marketplace": "shopee",
-      "id": "52763574749",
-      "title": "Serviço de garantia, qualidade, pós-venda, caneta 3D de serviço exclusivo",
-      "title_norm": "servico de garantia qualidade pos venda caneta 3d de servico exclusivo",
-      "url": "https://shopee.com.br/product/1662583623/52763574749",
-      "affiliate_url": "https://s.shopee.com.br/8V8F2Bp86Z",
-      "category": "MaxTudo Loja",
-      "bucket": "maxtudo_loja",
-      "posted_ts": 1787145524,
-      "posted_at": "2026-08-19T13:18:44.844991+00:00",
-      "score": 58.26
     }
   ],
-  "updated_at": "2026-08-28T16:20:56.671761+00:00"
+  "updated_at": "2026-08-28T17:16:39.851480+00:00"
 }
