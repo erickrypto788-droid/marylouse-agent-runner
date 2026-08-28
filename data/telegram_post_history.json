@@ -1,6 +1,62 @@
 {
   "posts": [
     {
+      "key": "shopee:58200787725",
+      "marketplace": "shopee",
+      "id": "58200787725",
+      "title": "Kit Oxímetro de Dedo Medidor de Saturação + Termômetro Digital Temperatura",
+      "title_norm": "kit oximetro de dedo medidor de saturacao termometro digital temperatura",
+      "url": "https://shopee.com.br/product/1668898925/58200787725",
+      "affiliate_url": "https://s.shopee.com.br/7Ad6fK1wna",
+      "category": "WEI LI Variedades",
+      "bucket": "pet",
+      "posted_ts": 1787901605,
+      "posted_at": "2026-08-28T07:20:05.930361+00:00",
+      "score": 64.04
+    },
+    {
+      "key": "shopee:15332953662",
+      "marketplace": "shopee",
+      "id": "15332953662",
+      "title": "Inalador GTech Compact DC1 Bivolt",
+      "title_norm": "inalador gtech compact dc1 bivolt",
+      "url": "https://shopee.com.br/product/395200109/15332953662",
+      "affiliate_url": "https://s.shopee.com.br/80CCKRYoXr",
+      "category": "Dama Cosméticos 2",
+      "bucket": "saude",
+      "posted_ts": 1787901539,
+      "posted_at": "2026-08-28T07:18:59.045479+00:00",
+      "score": 89.56
+    },
+    {
+      "key": "shopee:22394354579",
+      "marketplace": "shopee",
+      "id": "22394354579",
+      "title": "Nebulizador Inalador Ultrassônico Portátil Usb Bivolt Adulto E Infantil",
+      "title_norm": "nebulizador inalador ultrassonico portatil usb bivolt adulto e infantil",
+      "url": "https://shopee.com.br/product/1611027648/22394354579",
+      "affiliate_url": "https://s.shopee.com.br/gPcvNMQkD",
+      "category": "tceletronicos",
+      "bucket": "saude",
+      "posted_ts": 1787901471,
+      "posted_at": "2026-08-28T07:17:51.340462+00:00",
+      "score": 91.75
+    },
+    {
+      "key": "shopee:23594028887",
+      "marketplace": "shopee",
+      "id": "23594028887",
+      "title": "Mini Balança Digital De Cozinha Alta Precisão 0,1g Até 2000g",
+      "title_norm": "mini balanca digital de cozinha alta precisao 0 1g ate 2000g",
+      "url": "https://shopee.com.br/product/944725778/23594028887",
+      "affiliate_url": "https://s.shopee.com.br/3qMehCJAsk",
+      "category": "Inovar Top",
+      "bucket": "inovar_top",
+      "posted_ts": 1787901402,
+      "posted_at": "2026-08-28T07:16:42.744282+00:00",
+      "score": 116.74
+    },
+    {
       "key": "shopee:18299383775",
       "marketplace": "shopee",
       "id": "18299383775",
@@ -13943,63 +13999,7 @@
       "posted_ts": 1787120330,
       "posted_at": "2026-08-19T06:18:50.492497+00:00",
       "score": 101.11
-    },
-    {
-      "key": "shopee:23498194746",
-      "marketplace": "shopee",
-      "id": "23498194746",
-      "title": "Kit 2 Pares Tênis Infantil Menina Escolar | Para Escola Leve e Resistente 25 ao 36 | COMPRE AGORA!",
-      "title_norm": "kit 2 pares tenis infantil menina escolar para escola leve e resistente 25 ao 36 compre agora",
-      "url": "https://shopee.com.br/product/832004029/23498194746",
-      "affiliate_url": "https://s.shopee.com.br/3qMQH3eJYg",
-      "category": "Piedora",
-      "bucket": "calcados",
-      "posted_ts": 1787120266,
-      "posted_at": "2026-08-19T06:17:46.540063+00:00",
-      "score": 102.32
-    },
-    {
-      "key": "shopee:22094442475",
-      "marketplace": "shopee",
-      "id": "22094442475",
-      "title": "Kit Tênis Infantil Escolar Masculino Calce Fácil Sem Cardaço Confortável Leve",
-      "title_norm": "kit tenis infantil escolar masculino calce facil sem cardaco confortavel leve",
-      "url": "https://shopee.com.br/product/1458530949/22094442475",
-      "affiliate_url": "https://s.shopee.com.br/3g304kewtf",
-      "category": "Starkcalçados",
-      "bucket": "calcados",
-      "posted_ts": 1787120202,
-      "posted_at": "2026-08-19T06:16:42.538324+00:00",
-      "score": 102.66
-    },
-    {
-      "key": "shopee:19598142136",
-      "marketplace": "shopee",
-      "id": "19598142136",
-      "title": "Ollie Protetor Solar em Bastão Com Cor FPS 95",
-      "title_norm": "ollie protetor solar em bastao com cor fps 95",
-      "url": "https://shopee.com.br/product/1423440087/19598142136",
-      "affiliate_url": "https://s.shopee.com.br/gPOR7NJgN",
-      "category": "meuollie",
-      "bucket": "meuollie",
-      "posted_ts": 1787116787,
-      "posted_at": "2026-08-19T05:19:47.393460+00:00",
-      "score": 66.1
-    },
-    {
-      "key": "shopee:27189338384",
-      "marketplace": "shopee",
-      "id": "27189338384",
-      "title": "Principia Kit Peles Sensíveis c/ Gel de Limpeza Gl-02 + Creme Hidratante CH-01 + Protetor Solar PS-01 FPS 60",
-      "title_norm": "principia kit peles sensiveis c gel de limpeza gl 02 creme hidratante ch 01 protetor solar ps 01 fps 60",
-      "url": "https://shopee.com.br/product/373261329/27189338384",
-      "affiliate_url": "https://s.shopee.com.br/9KhMl2qK5r",
-      "category": "Principia Skincare",
-      "bucket": "principia_skincare",
-      "posted_ts": 1787116723,
-      "posted_at": "2026-08-19T05:18:43.310768+00:00",
-      "score": 66.25
     }
   ],
-  "updated_at": "2026-08-28T06:20:59.744002+00:00"
+  "updated_at": "2026-08-28T07:20:05.930376+00:00"
 }
