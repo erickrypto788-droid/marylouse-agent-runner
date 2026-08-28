@@ -1,6 +1,34 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB5020657947",
+      "marketplace": "mercadolivre",
+      "id": "MLB5020657947",
+      "title": "Redmi Note 14s Cor Preto",
+      "title_norm": "redmi note 14s cor preto",
+      "url": "https://www.mercadolivre.com.br/p/MLB48332910?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB48332910?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Informática",
+      "bucket": "celulares",
+      "posted_ts": 1787933038,
+      "posted_at": "2026-08-28T16:03:58.198871+00:00",
+      "score": 108.0
+    },
+    {
+      "key": "mercadolivre:MLB4450293643",
+      "marketplace": "mercadolivre",
+      "id": "MLB4450293643",
+      "title": "Xiaomi POCO Poco X6 5G Dual SIM 256GB/12GB Branco",
+      "title_norm": "xiaomi poco poco x6 5g dual sim 256gb 12gb branco",
+      "url": "https://www.mercadolivre.com.br/p/MLB29728116?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB29728116?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Informática",
+      "bucket": "celulares",
+      "posted_ts": 1787932973,
+      "posted_at": "2026-08-28T16:02:53.874616+00:00",
+      "score": 124.0
+    },
+    {
       "key": "shopee:44410683550",
       "marketplace": "shopee",
       "id": "44410683550",
@@ -13971,35 +13999,7 @@
       "posted_ts": 1787141932,
       "posted_at": "2026-08-19T12:18:52.543059+00:00",
       "score": 30.53
-    },
-    {
-      "key": "shopee:58255185736",
-      "marketplace": "shopee",
-      "id": "58255185736",
-      "title": "Bolsa Peitoral Masculino feminino Impermeável Esportivo Bolsa Bag Motoboy Unissex",
-      "title_norm": "bolsa peitoral masculino feminino impermeavel esportivo bolsa bag motoboy unissex",
-      "url": "https://shopee.com.br/product/1404059055/58255185736",
-      "affiliate_url": "https://s.shopee.com.br/3VjaHAKcpv",
-      "category": "Chique Popular-moda moderna",
-      "bucket": "bolsas",
-      "posted_ts": 1787141868,
-      "posted_at": "2026-08-19T12:17:48.562046+00:00",
-      "score": 42.64
-    },
-    {
-      "key": "shopee:13591503329",
-      "marketplace": "shopee",
-      "id": "13591503329",
-      "title": "Mochila Escolar Reforçada Notebook Impermeável Cabo De Aço",
-      "title_norm": "mochila escolar reforcada notebook impermeavel cabo de aco",
-      "url": "https://shopee.com.br/product/752743341/13591503329",
-      "affiliate_url": "https://s.shopee.com.br/3g30TTFam8",
-      "category": "Fenix Abdon",
-      "bucket": "informatica",
-      "posted_ts": 1787141799,
-      "posted_at": "2026-08-19T12:16:39.559050+00:00",
-      "score": 91.3
     }
   ],
-  "updated_at": "2026-08-28T15:21:16.291764+00:00"
+  "updated_at": "2026-08-28T16:03:58.198889+00:00"
 }
