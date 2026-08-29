@@ -1,6 +1,20 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB5152165069",
+      "marketplace": "mercadolivre",
+      "id": "MLB5152165069",
+      "title": "Modem Roteador Wifi Intelbras Wifiber 121ac Gpon",
+      "title_norm": "modem roteador wifi intelbras wifiber 121ac gpon",
+      "url": "https://www.mercadolivre.com.br/p/MLB16377075?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB16377075?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Informática",
+      "bucket": "informatica",
+      "posted_ts": 1787986968,
+      "posted_at": "2026-08-29T07:02:48.314023+00:00",
+      "score": 86.0
+    },
+    {
       "key": "mercadolivre:MLB5108378397",
       "marketplace": "mercadolivre",
       "id": "MLB5108378397",
@@ -13985,21 +13999,7 @@
       "posted_ts": 1787192197,
       "posted_at": "2026-08-20T02:16:37.104563+00:00",
       "score": 101.55
-    },
-    {
-      "key": "shopee:23893782668",
-      "marketplace": "shopee",
-      "id": "23893782668",
-      "title": "Conjunto Infantil Menino Verão – Camisa com Botões e Gola + Shorts com Elástico",
-      "title_norm": "conjunto infantil menino verao camisa com botoes e gola shorts com elastico",
-      "url": "https://shopee.com.br/product/408027260/23893782668",
-      "affiliate_url": "https://s.shopee.com.br/40frjeaj1v",
-      "category": "Atelier Nobre Bie",
-      "bucket": "atelier_nobre_bie",
-      "posted_ts": 1787188859,
-      "posted_at": "2026-08-20T01:20:59.782376+00:00",
-      "score": 89.22
     }
   ],
-  "updated_at": "2026-08-29T06:02:19.004531+00:00"
+  "updated_at": "2026-08-29T07:02:48.314037+00:00"
 }
