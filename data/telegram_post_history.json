@@ -1,6 +1,48 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB5909017866",
+      "marketplace": "mercadolivre",
+      "id": "MLB5909017866",
+      "title": "Blusa Camisa Feminina Proteção Solar Bike Jetski Pesca Praia Cor Branco Tamanho M",
+      "title_norm": "blusa camisa feminina protecao solar bike jetski pesca praia cor branco tamanho m",
+      "url": "https://www.mercadolivre.com.br/p/MLB61770185?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB61770185?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Moda Feminina",
+      "bucket": "moda_feminina",
+      "posted_ts": 1788023162,
+      "posted_at": "2026-08-29T17:06:02.410390+00:00",
+      "score": 88.0
+    },
+    {
+      "key": "mercadolivre:MLB6902648318",
+      "marketplace": "mercadolivre",
+      "id": "MLB6902648318",
+      "title": "Colete Academia Dry Fit Feminino Leve Cor Preto Tamanho GG",
+      "title_norm": "colete academia dry fit feminino leve cor preto tamanho gg",
+      "url": "https://www.mercadolivre.com.br/p/MLB72244626?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB72244626?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Moda Feminina",
+      "bucket": "moda_feminina",
+      "posted_ts": 1788023097,
+      "posted_at": "2026-08-29T17:04:57.499404+00:00",
+      "score": 105.86
+    },
+    {
+      "key": "mercadolivre:MLB6596282078",
+      "marketplace": "mercadolivre",
+      "id": "MLB6596282078",
+      "title": "Saída Praia Tule Kimono Amarração Short Feminino Verão Laranja M",
+      "title_norm": "saida praia tule kimono amarracao short feminino verao laranja m",
+      "url": "https://www.mercadolivre.com.br/p/MLB67745838?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB67745838?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Moda Feminina",
+      "bucket": "pet",
+      "posted_ts": 1788023032,
+      "posted_at": "2026-08-29T17:03:52.602135+00:00",
+      "score": 113.0
+    },
+    {
       "key": "shopee:22498192456",
       "marketplace": "shopee",
       "id": "22498192456",
@@ -13957,49 +13999,7 @@
       "posted_ts": 1787257012,
       "posted_at": "2026-08-20T20:16:52.204889+00:00",
       "score": 127.02
-    },
-    {
-      "key": "shopee:23698542471",
-      "marketplace": "shopee",
-      "id": "23698542471",
-      "title": "Mini Liquidificador Portátil Copo Caneca 500ml e 450ml Com 10 Lâminas, Tampa, Canudo e Copo Recarregavel",
-      "title_norm": "mini liquidificador portatil copo caneca 500ml e 450ml com 10 laminas tampa canudo e copo recarregavel",
-      "url": "https://shopee.com.br/product/1294737459/23698542471",
-      "affiliate_url": "https://s.shopee.com.br/5VUgiZd0UT",
-      "category": "ANJIN IMPORTS",
-      "bucket": "casa_cozinha",
-      "posted_ts": 1787253464,
-      "posted_at": "2026-08-20T19:17:44.994391+00:00",
-      "score": 89.33
-    },
-    {
-      "key": "shopee:23597334946",
-      "marketplace": "shopee",
-      "id": "23597334946",
-      "title": "Liquidificador Britânia BLQE01 2 copos 2,6L 900W",
-      "title_norm": "liquidificador britania blqe01 2 copos 2 6l 900w",
-      "url": "https://shopee.com.br/product/811879342/23597334946",
-      "affiliate_url": "https://s.shopee.com.br/6AkNVnaT8f",
-      "category": "Britânia Oficial",
-      "bucket": "casa_cozinha",
-      "posted_ts": 1787253395,
-      "posted_at": "2026-08-20T19:16:35.590507+00:00",
-      "score": 98.95
-    },
-    {
-      "key": "shopee:45754796089",
-      "marketplace": "shopee",
-      "id": "45754796089",
-      "title": "Tomada de Carregador para Carro com Dupla Entrada Tipo-C e Duplas USB, 4 Portas, Carregamento Rápido, à Prova d'Água",
-      "title_norm": "tomada de carregador para carro com dupla entrada tipo c e duplas usb 4 portas carregamento rapido a prova d agua",
-      "url": "https://shopee.com.br/product/1006215031/45754796089",
-      "affiliate_url": "https://s.shopee.com.br/3qMSfOphb1",
-      "category": "Choice Oficial",
-      "bucket": "choice_oficial",
-      "posted_ts": 1787249950,
-      "posted_at": "2026-08-20T18:19:10.712233+00:00",
-      "score": 88.57
     }
   ],
-  "updated_at": "2026-08-29T16:19:52.960078+00:00"
+  "updated_at": "2026-08-29T17:06:02.410405+00:00"
 }
