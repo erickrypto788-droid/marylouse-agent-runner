@@ -1,6 +1,21 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB5108378397",
+      "product_id": "MLB5108378397",
+      "catalog_product_id": "MLB77188949",
+      "item_id": "MLB5108378397",
+      "url": "https://www.mercadolivre.com.br/p/MLB77188949?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB77188949?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "kit ferramentas ingco esmerilhadeira martelete 4ah",
+      "title": "Kit Ferramentas Ingco Esmerilhadeira Martelete 4ah",
+      "category": "Ferramentas",
+      "price": 1761.4,
+      "score": 99.38,
+      "posted_ts": 1787983339,
+      "posted_at": "2026-08-29T06:02:19.018358+00:00"
+    },
+    {
       "key": "mercadolivre:MLB4440801288",
       "product_id": "MLB4440801288",
       "catalog_product_id": "MLB32548731",
@@ -254,22 +269,7 @@
       "score": 108.0,
       "posted_ts": 1787810570,
       "posted_at": "2026-08-27T06:02:50.117594+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB7521086514",
-      "product_id": "MLB7521086514",
-      "catalog_product_id": "MLB76143422",
-      "item_id": "MLB7521086514",
-      "url": "https://www.mercadolivre.com.br/p/MLB76143422?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB76143422?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "mini impressora termica bluetooth okshop impressora termica portatil okshop mini impressora termica portatil impressora termica bluetooth mini impressora termica portatil",
-      "title": "Mini impressora térmica Bluetooth OKSHOP Impressora térmica portátil OKSHOP Mini impressora térmica portátil Impressora térmica Bluetooth Mini impressora térmica portátil",
-      "category": "Informática",
-      "price": 999.0,
-      "score": 86.0,
-      "posted_ts": 1787803354,
-      "posted_at": "2026-08-27T04:02:34.382335+00:00"
     }
   ],
-  "updated_at": "2026-08-29T01:03:12.877431+00:00"
+  "updated_at": "2026-08-29T06:02:19.018367+00:00"
 }

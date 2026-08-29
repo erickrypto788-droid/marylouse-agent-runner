@@ -1,6 +1,20 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB5108378397",
+      "marketplace": "mercadolivre",
+      "id": "MLB5108378397",
+      "title": "Kit Ferramentas Ingco Esmerilhadeira Martelete 4ah",
+      "title_norm": "kit ferramentas ingco esmerilhadeira martelete 4ah",
+      "url": "https://www.mercadolivre.com.br/p/MLB77188949?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB77188949?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Ferramentas",
+      "bucket": "ferramentas",
+      "posted_ts": 1787983339,
+      "posted_at": "2026-08-29T06:02:19.004511+00:00",
+      "score": 99.38
+    },
+    {
       "key": "shopee:22817161009",
       "marketplace": "shopee",
       "id": "22817161009",
@@ -13985,21 +13999,7 @@
       "posted_ts": 1787188859,
       "posted_at": "2026-08-20T01:20:59.782376+00:00",
       "score": 89.22
-    },
-    {
-      "key": "shopee:23398046873",
-      "marketplace": "shopee",
-      "id": "23398046873",
-      "title": "Fantasia Vestido Infantil Elsa Frozen COM Acessorios e SEM Acessórios Festa Hallowen Crianças",
-      "title_norm": "fantasia vestido infantil elsa frozen com acessorios e sem acessorios festa hallowen criancas",
-      "url": "https://shopee.com.br/product/744229092/23398046873",
-      "affiliate_url": "https://s.shopee.com.br/9ANxt9Guys",
-      "category": "Espaço Kids ",
-      "bucket": "moda_feminina",
-      "posted_ts": 1787188795,
-      "posted_at": "2026-08-20T01:19:55.623431+00:00",
-      "score": 90.05
     }
   ],
-  "updated_at": "2026-08-29T05:17:56.364100+00:00"
+  "updated_at": "2026-08-29T06:02:19.004531+00:00"
 }
