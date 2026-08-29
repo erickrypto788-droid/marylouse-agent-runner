@@ -1,6 +1,21 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB4440801288",
+      "product_id": "MLB4440801288",
+      "catalog_product_id": "MLB32548731",
+      "item_id": "MLB4440801288",
+      "url": "https://www.mercadolivre.com.br/p/MLB32548731?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB32548731?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "jogo panelas vermelho aluminio fundido usinado javaliaa26a30",
+      "title": "Jogo Panelas Vermelho Alumínio Fundido Usinado Javaliaa26a30",
+      "category": "Casa e Cozinha",
+      "price": 765.1,
+      "score": 111.0,
+      "posted_ts": 1787965392,
+      "posted_at": "2026-08-29T01:03:12.877414+00:00"
+    },
+    {
       "key": "mercadolivre:MLB4631396421",
       "product_id": "MLB4631396421",
       "catalog_product_id": "MLB68485778",
@@ -256,5 +271,5 @@
       "posted_at": "2026-08-27T04:02:34.382335+00:00"
     }
   ],
-  "updated_at": "2026-08-28T23:06:16.880430+00:00"
+  "updated_at": "2026-08-29T01:03:12.877431+00:00"
 }

@@ -1,6 +1,20 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB4440801288",
+      "marketplace": "mercadolivre",
+      "id": "MLB4440801288",
+      "title": "Jogo Panelas Vermelho Alumínio Fundido Usinado Javaliaa26a30",
+      "title_norm": "jogo panelas vermelho aluminio fundido usinado javaliaa26a30",
+      "url": "https://www.mercadolivre.com.br/p/MLB32548731?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB32548731?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Casa e Cozinha",
+      "bucket": "casa_cozinha",
+      "posted_ts": 1787965392,
+      "posted_at": "2026-08-29T01:03:12.861642+00:00",
+      "score": 111.0
+    },
+    {
       "key": "shopee:9987415279",
       "marketplace": "shopee",
       "id": "9987415279",
@@ -13985,21 +13999,7 @@
       "posted_ts": 1787174204,
       "posted_at": "2026-08-19T21:16:44.065319+00:00",
       "score": 94.98
-    },
-    {
-      "key": "shopee:12820428668",
-      "marketplace": "shopee",
-      "id": "12820428668",
-      "title": "Sapatenis Masculino Star Fox Ziper e Cadarço Calce Casual A1",
-      "title_norm": "sapatenis masculino star fox ziper e cadarco calce casual a1",
-      "url": "https://shopee.com.br/product/294355829/12820428668",
-      "affiliate_url": "https://s.shopee.com.br/6AkLz2PHuq",
-      "category": "Star Fox Calçados",
-      "bucket": "calcados",
-      "posted_ts": 1787170673,
-      "posted_at": "2026-08-19T20:17:53.429912+00:00",
-      "score": 88.66
     }
   ],
-  "updated_at": "2026-08-29T00:21:03.112025+00:00"
+  "updated_at": "2026-08-29T01:03:12.861659+00:00"
 }
