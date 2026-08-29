@@ -1,6 +1,21 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB6555948878",
+      "product_id": "MLB6555948878",
+      "catalog_product_id": "MLB22588098",
+      "item_id": "MLB6555948878",
+      "url": "https://www.mercadolivre.com.br/p/MLB22588098?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB22588098?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "racao gato castrado frango 12 anos 500g premier",
+      "title": "Ração Gato Castrado Frango +12 Anos 500g Premier",
+      "category": "Pet",
+      "price": 41.36,
+      "score": 129.0,
+      "posted_ts": 1788004956,
+      "posted_at": "2026-08-29T12:02:36.366083+00:00"
+    },
+    {
       "key": "mercadolivre:MLB7395731398",
       "product_id": "MLB7395731398",
       "catalog_product_id": "MLB76866122",
@@ -271,5 +286,5 @@
       "posted_at": "2026-08-27T13:06:39.791654+00:00"
     }
   ],
-  "updated_at": "2026-08-29T11:03:54.666972+00:00"
+  "updated_at": "2026-08-29T12:02:36.366092+00:00"
 }
