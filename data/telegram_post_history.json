@@ -1,6 +1,20 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB5041528061",
+      "marketplace": "mercadolivre",
+      "id": "MLB5041528061",
+      "title": "Kit Ferramentas Informatica Cor Preto",
+      "title_norm": "kit ferramentas informatica cor preto",
+      "url": "https://www.mercadolivre.com.br/p/MLB43810473?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB43810473?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Ferramentas",
+      "bucket": "ferramentas",
+      "posted_ts": 1788044550,
+      "posted_at": "2026-08-29T23:02:30.406982+00:00",
+      "score": 88.0
+    },
+    {
       "key": "shopee:23699438217",
       "marketplace": "shopee",
       "id": "23699438217",
@@ -13985,21 +13999,7 @@
       "posted_ts": 1787278601,
       "posted_at": "2026-08-21T02:16:41.665849+00:00",
       "score": 92.47
-    },
-    {
-      "key": "shopee:22193520552",
-      "marketplace": "shopee",
-      "id": "22193520552",
-      "title": "KIT 3 LENÇOL PARA BERÇO PORTATIL SIDE BY SIDE SAFETY OU COSCO PLUGGY 100% Algodão",
-      "title_norm": "kit 3 lencol para berco portatil side by side safety ou cosco pluggy 100 algodao",
-      "url": "https://shopee.com.br/product/446109173/22193520552",
-      "affiliate_url": "https://s.shopee.com.br/4Vc9vT8STO",
-      "category": "LOJA DE CASA ",
-      "bucket": "loja_de_casa",
-      "posted_ts": 1787275280,
-      "posted_at": "2026-08-21T01:21:20.495159+00:00",
-      "score": 49.87
     }
   ],
-  "updated_at": "2026-08-29T22:18:57.715598+00:00"
+  "updated_at": "2026-08-29T23:02:30.406998+00:00"
 }
