@@ -1,6 +1,20 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB7513707254",
+      "marketplace": "mercadolivre",
+      "id": "MLB7513707254",
+      "title": "Mini Impressora Niimbot B1 etiqueta Bluetooth Cor Prateado impressora etiquetas adesivas",
+      "title_norm": "mini impressora niimbot b1 etiqueta bluetooth cor prateado impressora etiquetas adesivas",
+      "url": "https://www.mercadolivre.com.br/p/MLB57578486?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB57578486?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Informática",
+      "bucket": "informatica",
+      "posted_ts": 1788012166,
+      "posted_at": "2026-08-29T14:02:46.787808+00:00",
+      "score": 88.0
+    },
+    {
       "key": "shopee:58206241704",
       "marketplace": "shopee",
       "id": "58206241704",
@@ -13985,21 +13999,7 @@
       "posted_ts": 1787235397,
       "posted_at": "2026-08-20T14:16:37.654448+00:00",
       "score": 96.04
-    },
-    {
-      "key": "shopee:23597279828",
-      "marketplace": "shopee",
-      "id": "23597279828",
-      "title": "Pijama Hospitalar Cirúrgico Scrub Feminino Acinturado Varias Cores Tamanhos",
-      "title_norm": "pijama hospitalar cirurgico scrub feminino acinturado varias cores tamanhos",
-      "url": "https://shopee.com.br/product/977457340/23597279828",
-      "affiliate_url": "https://s.shopee.com.br/3B6lTRmrxj",
-      "category": "JR-CONFECÇÕES",
-      "bucket": "jr_confeccoes",
-      "posted_ts": 1787228591,
-      "posted_at": "2026-08-20T12:23:11.015278+00:00",
-      "score": 87.12
     }
   ],
-  "updated_at": "2026-08-29T13:23:02.398934+00:00"
+  "updated_at": "2026-08-29T14:02:46.787822+00:00"
 }

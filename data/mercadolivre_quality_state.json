@@ -1,6 +1,21 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB7513707254",
+      "product_id": "MLB7513707254",
+      "catalog_product_id": "MLB57578486",
+      "item_id": "MLB7513707254",
+      "url": "https://www.mercadolivre.com.br/p/MLB57578486?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB57578486?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "mini impressora niimbot b1 etiqueta bluetooth cor prateado impressora etiquetas adesivas",
+      "title": "Mini Impressora Niimbot B1 etiqueta Bluetooth Cor Prateado impressora etiquetas adesivas",
+      "category": "Informática",
+      "price": 209.99,
+      "score": 88.0,
+      "posted_ts": 1788012166,
+      "posted_at": "2026-08-29T14:02:46.802834+00:00"
+    },
+    {
       "key": "mercadolivre:MLB4552727020",
       "product_id": "MLB4552727020",
       "catalog_product_id": "MLB23076913",
@@ -284,37 +299,7 @@
       "score": 149.86,
       "posted_ts": 1787871766,
       "posted_at": "2026-08-27T23:02:46.993114+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB5709004240",
-      "product_id": "MLB5709004240",
-      "catalog_product_id": "MLB56414429",
-      "item_id": "MLB5709004240",
-      "url": "https://www.mercadolivre.com.br/p/MLB56414429?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB56414429?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "detergente sabao lava louca pastilha lava maquina unik",
-      "title": "Detergente Sabão Lava Louça Pastilha + Lava Máquina Unik",
-      "category": "Supermercados",
-      "price": 41.09,
-      "score": 118.39,
-      "posted_ts": 1787836064,
-      "posted_at": "2026-08-27T13:07:44.372472+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB3814512618",
-      "product_id": "MLB3814512618",
-      "catalog_product_id": "MLB17336422",
-      "item_id": "MLB3814512618",
-      "url": "https://www.mercadolivre.com.br/p/MLB17336422?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB17336422?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "fralda huggies tripla protecao g 36 unidades",
-      "title": "Fralda Huggies Tripla Proteção G 36 unidades",
-      "category": "Mãe e Bebê",
-      "price": 121.99,
-      "score": 130.0,
-      "posted_ts": 1787835999,
-      "posted_at": "2026-08-27T13:06:39.791654+00:00"
     }
   ],
-  "updated_at": "2026-08-29T13:03:48.608027+00:00"
+  "updated_at": "2026-08-29T14:02:46.802843+00:00"
 }
