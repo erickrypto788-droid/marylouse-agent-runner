@@ -1,6 +1,51 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB7413459282",
+      "product_id": "MLB7413459282",
+      "catalog_product_id": "MLB70606708",
+      "item_id": "MLB7413459282",
+      "url": "https://www.mercadolivre.com.br/p/MLB70606708?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB70606708?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "capa esteira ergometrica esteira athletic racer",
+      "title": "Capa Esteira Ergométrica Esteira Athletic Racer",
+      "category": "Esportes",
+      "price": 106.28,
+      "score": 61.0,
+      "posted_ts": 1788033895,
+      "posted_at": "2026-08-29T20:04:55.762702+00:00"
+    },
+    {
+      "key": "mercadolivre:MLB6815537068",
+      "product_id": "MLB6815537068",
+      "catalog_product_id": "MLB36405300",
+      "item_id": "MLB6815537068",
+      "url": "https://www.mercadolivre.com.br/p/MLB36405300?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB36405300?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "bike spinning ergometrica cor preto",
+      "title": "Bike Spinning Ergométrica Cor Preto",
+      "category": "Esportes",
+      "price": 1789.0,
+      "score": 83.0,
+      "posted_ts": 1788033831,
+      "posted_at": "2026-08-29T20:03:51.518507+00:00"
+    },
+    {
+      "key": "mercadolivre:MLB7413449820",
+      "product_id": "MLB7413449820",
+      "catalog_product_id": "MLB75079191",
+      "item_id": "MLB7413449820",
+      "url": "https://www.mercadolivre.com.br/p/MLB75079191?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB75079191?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "prateado corda de aco corda cross corda pular 3m corda ajustavel corda pular fitness corda crossfit corda pular profissional treino exercicio emagrecimento academia casa ginastica velocidade agilidade",
+      "title": "Prateado Corda de Aço Corda Cross Corda Pular 3m Corda Ajustável Corda Pular Fitness Corda Crossfit Corda Pular Profissional Treino Exercício Emagrecimento Academia Casa Ginástica Velocidade Agilidade",
+      "category": "Esportes",
+      "price": 25.74,
+      "score": 149.15,
+      "posted_ts": 1788033760,
+      "posted_at": "2026-08-29T20:02:40.337271+00:00"
+    },
+    {
       "key": "mercadolivre:MLB5909017866",
       "product_id": "MLB5909017866",
       "catalog_product_id": "MLB61770185",
@@ -391,5 +436,5 @@
       "posted_at": "2026-08-27T23:02:46.993114+00:00"
     }
   ],
-  "updated_at": "2026-08-29T17:06:02.423710+00:00"
+  "updated_at": "2026-08-29T20:04:55.762713+00:00"
 }
