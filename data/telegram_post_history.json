@@ -1,6 +1,34 @@
 {
   "posts": [
     {
+      "key": "shopee:22494665073",
+      "marketplace": "shopee",
+      "id": "22494665073",
+      "title": "Botina Bota Segurança Couro Legitimo Com Biqueira Elastico Com CA",
+      "title_norm": "botina bota seguranca couro legitimo com biqueira elastico com ca",
+      "url": "https://shopee.com.br/product/1406953915/22494665073",
+      "affiliate_url": "https://s.shopee.com.br/3qMfQaHSL8",
+      "category": "VELLUDINE",
+      "bucket": "calcados",
+      "posted_ts": 1788013066,
+      "posted_at": "2026-08-29T14:17:46.086804+00:00",
+      "score": 113.05
+    },
+    {
+      "key": "shopee:23599241533",
+      "marketplace": "shopee",
+      "id": "23599241533",
+      "title": "Tênis Masculino Running Academia Esportivo Corrida Caminhada Anti Impacto Respirável Macio Ultra Leve",
+      "title_norm": "tenis masculino running academia esportivo corrida caminhada anti impacto respiravel macio ultra leve",
+      "url": "https://shopee.com.br/product/1638165366/23599241533",
+      "affiliate_url": "https://s.shopee.com.br/W6Emnirnc",
+      "category": "Evox Calçados e Acessórios LTDA",
+      "bucket": "calcados",
+      "posted_ts": 1788012997,
+      "posted_at": "2026-08-29T14:16:37.312879+00:00",
+      "score": 113.94
+    },
+    {
       "key": "mercadolivre:MLB7513707254",
       "marketplace": "mercadolivre",
       "id": "MLB7513707254",
@@ -13971,35 +13999,7 @@
       "posted_ts": 1787235525,
       "posted_at": "2026-08-20T14:18:45.499013+00:00",
       "score": 87.44
-    },
-    {
-      "key": "shopee:20350419516",
-      "marketplace": "shopee",
-      "id": "20350419516",
-      "title": "Kit Sortido 10 ou 4 Peças de Roupas Infantil Menino- 5 Camisetas + 5 Bermudas - Kit 5 Conjuntos de Roupa Verão Masculino",
-      "title_norm": "kit sortido 10 ou 4 pecas de roupas infantil menino 5 camisetas 5 bermudas kit 5 conjuntos de roupa verao masculino",
-      "url": "https://shopee.com.br/product/341167297/20350419516",
-      "affiliate_url": "https://s.shopee.com.br/1VyXccgJct",
-      "category": "Poloinfantil.store",
-      "bucket": "poloinfantil_store",
-      "posted_ts": 1787235461,
-      "posted_at": "2026-08-20T14:17:41.572602+00:00",
-      "score": 88.0
-    },
-    {
-      "key": "shopee:58209320732",
-      "marketplace": "shopee",
-      "id": "58209320732",
-      "title": "Óculos de Leitura Inteligente com Zoom Automático, Uso Diário Masculino e Feminino",
-      "title_norm": "oculos de leitura inteligente com zoom automatico uso diario masculino e feminino",
-      "url": "https://shopee.com.br/product/1690878664/58209320732",
-      "affiliate_url": "https://s.shopee.com.br/4AzIjPPFMf",
-      "category": "Escolha Distinta",
-      "bucket": "escolha_distinta",
-      "posted_ts": 1787235397,
-      "posted_at": "2026-08-20T14:16:37.654448+00:00",
-      "score": 96.04
     }
   ],
-  "updated_at": "2026-08-29T14:02:46.787822+00:00"
+  "updated_at": "2026-08-29T14:17:46.086814+00:00"
 }
