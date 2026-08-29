@@ -1,6 +1,51 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB4266241495",
+      "product_id": "MLB4266241495",
+      "catalog_product_id": "MLB43806010",
+      "item_id": "MLB4266241495",
+      "url": "https://www.mercadolivre.com.br/p/MLB43806010?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB43806010?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "absorvente mulher ativa com abas kit 80 pacotes gel super absorvente",
+      "title": "Absorvente Mulher Ativa Com Abas Kit 80 Pacotes Gel Super Absorvente",
+      "category": "Moda Feminina",
+      "price": 189.15,
+      "score": 88.0,
+      "posted_ts": 1788019724,
+      "posted_at": "2026-08-29T16:08:44.024749+00:00"
+    },
+    {
+      "key": "mercadolivre:MLB5827798066",
+      "product_id": "MLB5827798066",
+      "catalog_product_id": "MLB47658528",
+      "item_id": "MLB5827798066",
+      "url": "https://www.mercadolivre.com.br/p/MLB47658528?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB47658528?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "kit papel toalha interfolha supremo e papel toalha mili",
+      "title": "Kit Papel Toalha Interfolha Supremo E Papel Toalha Mili",
+      "category": "Supermercados",
+      "price": 105.45,
+      "score": 98.67,
+      "posted_ts": 1788019655,
+      "posted_at": "2026-08-29T16:07:35.003675+00:00"
+    },
+    {
+      "key": "mercadolivre:MLB6660297382",
+      "product_id": "MLB6660297382",
+      "catalog_product_id": "MLB67844007",
+      "item_id": "MLB6660297382",
+      "url": "https://www.mercadolivre.com.br/p/MLB67844007?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB67844007?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "preparo essencia amaciante roupas concentrado perfume",
+      "title": "Preparo Essência Amaciante Roupas Concentrado Perfume",
+      "category": "Supermercados",
+      "price": 135.9,
+      "score": 114.0,
+      "posted_ts": 1788019586,
+      "posted_at": "2026-08-29T16:06:26.413108+00:00"
+    },
+    {
       "key": "mercadolivre:MLB7513707254",
       "product_id": "MLB7513707254",
       "catalog_product_id": "MLB57578486",
@@ -301,5 +346,5 @@
       "posted_at": "2026-08-27T23:02:46.993114+00:00"
     }
   ],
-  "updated_at": "2026-08-29T14:02:46.802843+00:00"
+  "updated_at": "2026-08-29T16:08:44.024760+00:00"
 }

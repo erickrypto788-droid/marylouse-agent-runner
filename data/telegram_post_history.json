@@ -1,6 +1,48 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB4266241495",
+      "marketplace": "mercadolivre",
+      "id": "MLB4266241495",
+      "title": "Absorvente Mulher Ativa Com Abas Kit 80 Pacotes Gel Super Absorvente",
+      "title_norm": "absorvente mulher ativa com abas kit 80 pacotes gel super absorvente",
+      "url": "https://www.mercadolivre.com.br/p/MLB43806010?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB43806010?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Moda Feminina",
+      "bucket": "moda_feminina",
+      "posted_ts": 1788019724,
+      "posted_at": "2026-08-29T16:08:44.013417+00:00",
+      "score": 88.0
+    },
+    {
+      "key": "mercadolivre:MLB5827798066",
+      "marketplace": "mercadolivre",
+      "id": "MLB5827798066",
+      "title": "Kit Papel Toalha Interfolha Supremo E Papel Toalha Mili",
+      "title_norm": "kit papel toalha interfolha supremo e papel toalha mili",
+      "url": "https://www.mercadolivre.com.br/p/MLB47658528?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB47658528?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Supermercados",
+      "bucket": "supermercados",
+      "posted_ts": 1788019654,
+      "posted_at": "2026-08-29T16:07:34.993017+00:00",
+      "score": 98.67
+    },
+    {
+      "key": "mercadolivre:MLB6660297382",
+      "marketplace": "mercadolivre",
+      "id": "MLB6660297382",
+      "title": "Preparo Essência Amaciante Roupas Concentrado Perfume",
+      "title_norm": "preparo essencia amaciante roupas concentrado perfume",
+      "url": "https://www.mercadolivre.com.br/p/MLB67844007?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB67844007?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Supermercados",
+      "bucket": "beleza",
+      "posted_ts": 1788019586,
+      "posted_at": "2026-08-29T16:06:26.402161+00:00",
+      "score": 114.0
+    },
+    {
       "key": "shopee:58255239538",
       "marketplace": "shopee",
       "id": "58255239538",
@@ -13957,49 +13999,7 @@
       "posted_ts": 1787246202,
       "posted_at": "2026-08-20T17:16:42.921059+00:00",
       "score": 95.3
-    },
-    {
-      "key": "shopee:57008381938",
-      "marketplace": "shopee",
-      "id": "57008381938",
-      "title": "Tênis De Corrida Profissional Ultraleve Com Placa De Carbono De Sola Completa Para Maratona , Masculino E Feminino",
-      "title_norm": "tenis de corrida profissional ultraleve com placa de carbono de sola completa para maratona masculino e feminino",
-      "url": "https://shopee.com.br/product/863968451/57008381938",
-      "affiliate_url": "https://s.shopee.com.br/4LIj84EMxq",
-      "category": "NBGAGA Oficial Loja.br",
-      "bucket": "calcados",
-      "posted_ts": 1787242672,
-      "posted_at": "2026-08-20T16:17:52.101850+00:00",
-      "score": 85.27
-    },
-    {
-      "key": "shopee:22698875511",
-      "marketplace": "shopee",
-      "id": "22698875511",
-      "title": "Sapatênis Masculino com Calce Fácil e Palmilha Confortável para o Dia a Dia",
-      "title_norm": "sapatenis masculino com calce facil e palmilha confortavel para o dia a dia",
-      "url": "https://shopee.com.br/product/1175964027/22698875511",
-      "affiliate_url": "https://s.shopee.com.br/1VyXkrXoiS",
-      "category": "analizshoes",
-      "bucket": "calcados",
-      "posted_ts": 1787242600,
-      "posted_at": "2026-08-20T16:16:40.605312+00:00",
-      "score": 105.74
-    },
-    {
-      "key": "mercadolivre:MLB6175679804",
-      "marketplace": "mercadolivre",
-      "id": "MLB6175679804",
-      "title": "Carregador Portátil 20000mAh Bahrein Power Bank Universal Power Bank Carga Rápida Com Display Bahrein Compatível Com Todos Celulares Iphone Android IOS apple xiaomi Samsung Motorola",
-      "title_norm": "carregador portatil 20000mah bahrein power bank universal power bank carga rapida com display bahrein compativel com todos celulares iphone android ios apple xiaomi samsung motorola",
-      "url": "https://www.mercadolivre.com.br/p/MLB24099360?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB24099360?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "category": "Informática",
-      "bucket": "celulares",
-      "posted_ts": 1787238172,
-      "posted_at": "2026-08-20T15:02:52.595776+00:00",
-      "score": 114.0
     }
   ],
-  "updated_at": "2026-08-29T15:18:47.169320+00:00"
+  "updated_at": "2026-08-29T16:08:44.013434+00:00"
 }
