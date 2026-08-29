@@ -1,6 +1,36 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB4552727020",
+      "product_id": "MLB4552727020",
+      "catalog_product_id": "MLB23076913",
+      "item_id": "MLB4552727020",
+      "url": "https://www.mercadolivre.com.br/p/MLB23076913?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB23076913?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "monitor bebe wifi infravermelho vision noctura intercom inteligente",
+      "title": "Monitor Bebe Wifi Infravermelho Vision Noctura Intercom Inteligente",
+      "category": "Informática",
+      "price": 1394.0,
+      "score": 86.0,
+      "posted_ts": 1788008628,
+      "posted_at": "2026-08-29T13:03:48.608009+00:00"
+    },
+    {
+      "key": "mercadolivre:MLB7372384956",
+      "product_id": "MLB7372384956",
+      "catalog_product_id": "MLB75043057",
+      "item_id": "MLB7372384956",
+      "url": "https://www.mercadolivre.com.br/p/MLB75043057?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB75043057?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "amarelo escova limpeza mamadeira kit para limpeza de mamadeira kit limpeza mamadeira viagem kit limpeza bebe escova mamadeira portatil escova bico canudo secador higiene infantil acessorios bebe via",
+      "title": "Amarelo Escova Limpeza Mamadeira Kit Para Limpeza De Mamadeira Kit Limpeza Mamadeira Viagem Kit Limpeza Bebê Escova Mamadeira Portátil Escova Bico Canudo Secador Higiene Infantil | Acessórios Bebê Via",
+      "category": "Mãe e Bebê",
+      "price": 53.2,
+      "score": 191.5,
+      "posted_ts": 1788008564,
+      "posted_at": "2026-08-29T13:02:44.354896+00:00"
+    },
+    {
       "key": "mercadolivre:MLB6555948878",
       "product_id": "MLB6555948878",
       "catalog_product_id": "MLB22588098",
@@ -286,5 +316,5 @@
       "posted_at": "2026-08-27T13:06:39.791654+00:00"
     }
   ],
-  "updated_at": "2026-08-29T12:02:36.366092+00:00"
+  "updated_at": "2026-08-29T13:03:48.608027+00:00"
 }

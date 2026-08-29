@@ -1,6 +1,34 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB4552727020",
+      "marketplace": "mercadolivre",
+      "id": "MLB4552727020",
+      "title": "Monitor Bebe Wifi Infravermelho Vision Noctura Intercom Inteligente",
+      "title_norm": "monitor bebe wifi infravermelho vision noctura intercom inteligente",
+      "url": "https://www.mercadolivre.com.br/p/MLB23076913?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB23076913?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Informática",
+      "bucket": "informatica",
+      "posted_ts": 1788008628,
+      "posted_at": "2026-08-29T13:03:48.594154+00:00",
+      "score": 86.0
+    },
+    {
+      "key": "mercadolivre:MLB7372384956",
+      "marketplace": "mercadolivre",
+      "id": "MLB7372384956",
+      "title": "Amarelo Escova Limpeza Mamadeira Kit Para Limpeza De Mamadeira Kit Limpeza Mamadeira Viagem Kit Limpeza Bebê Escova Mamadeira Portátil Escova Bico Canudo Secador Higiene Infantil | Acessórios Bebê Via",
+      "title_norm": "amarelo escova limpeza mamadeira kit para limpeza de mamadeira kit limpeza mamadeira viagem kit limpeza bebe escova mamadeira portatil escova bico canudo secador higiene infantil acessorios bebe via",
+      "url": "https://www.mercadolivre.com.br/p/MLB75043057?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB75043057?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Mãe e Bebê",
+      "bucket": "beleza",
+      "posted_ts": 1788008564,
+      "posted_at": "2026-08-29T13:02:44.339906+00:00",
+      "score": 191.5
+    },
+    {
       "key": "shopee:58250355922",
       "marketplace": "shopee",
       "id": "58250355922",
@@ -13971,35 +13999,7 @@
       "posted_ts": 1787221343,
       "posted_at": "2026-08-20T10:22:23.870428+00:00",
       "score": 83.38
-    },
-    {
-      "key": "shopee:58202241414",
-      "marketplace": "shopee",
-      "id": "58202241414",
-      "title": "YoPRO Chocolate 15g de proteínas 250ml - 12 unidades",
-      "title_norm": "yopro chocolate 15g de proteinas 250ml 12 unidades",
-      "url": "https://shopee.com.br/product/1685471497/58202241414",
-      "affiliate_url": "https://s.shopee.com.br/112GlDz0gQ",
-      "category": "Loja Oficial Danone",
-      "bucket": "loja_oficial_danone",
-      "posted_ts": 1787221271,
-      "posted_at": "2026-08-20T10:21:11.577215+00:00",
-      "score": 83.67
-    },
-    {
-      "key": "shopee:58254638625",
-      "marketplace": "shopee",
-      "id": "58254638625",
-      "title": "1/2/3/4 Boleadores de Doces Brigadeiros Forma Enrolador Modelador de Beijinho Doce arroz",
-      "title_norm": "1 2 3 4 boleadores de doces brigadeiros forma enrolador modelador de beijinho doce arroz",
-      "url": "https://shopee.com.br/product/457528141/58254638625",
-      "affiliate_url": "https://s.shopee.com.br/qiqYv8VpY",
-      "category": "Minhas.Comprinhas.Online",
-      "bucket": "minhas_comprinhas_online",
-      "posted_ts": 1787221201,
-      "posted_at": "2026-08-20T10:20:01.775707+00:00",
-      "score": 83.8
     }
   ],
-  "updated_at": "2026-08-29T12:20:57.622410+00:00"
+  "updated_at": "2026-08-29T13:03:48.594189+00:00"
 }
