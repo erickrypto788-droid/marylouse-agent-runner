@@ -1,6 +1,62 @@
 {
   "posts": [
     {
+      "key": "shopee:58254354411",
+      "marketplace": "shopee",
+      "id": "58254354411",
+      "title": "Camisa Feminina Lisa  Crepinho  Elegante Plus Size  M G GG G1",
+      "title_norm": "camisa feminina lisa crepinho elegante plus size m g gg g1",
+      "url": "https://shopee.com.br/product/1432906492/58254354411",
+      "affiliate_url": "https://s.shopee.com.br/2qU9UyFna4",
+      "category": "Jael Modas",
+      "bucket": "jael_modas",
+      "posted_ts": 1788078023,
+      "posted_at": "2026-08-30T08:20:23.094240+00:00",
+      "score": 98.26
+    },
+    {
+      "key": "shopee:58254166972",
+      "marketplace": "shopee",
+      "id": "58254166972",
+      "title": "Blusa Antonella Plus Size G1 e G2 Cropped Halter Frente Única Top das Blogueiras Zero Transparência Frente Dupla",
+      "title_norm": "blusa antonella plus size g1 e g2 cropped halter frente unica top das blogueiras zero transparencia frente dupla",
+      "url": "https://shopee.com.br/product/1651898003/58254166972",
+      "affiliate_url": "https://s.shopee.com.br/3Vjql2LM9J",
+      "category": "MILARA MODA FEMININA",
+      "bucket": "moda_feminina",
+      "posted_ts": 1788077954,
+      "posted_at": "2026-08-30T08:19:14.852906+00:00",
+      "score": 107.13
+    },
+    {
+      "key": "shopee:58204912754",
+      "marketplace": "shopee",
+      "id": "58204912754",
+      "title": "Meia Calça Fina7D ANTICELULITE Fio  70 Plus Size – Veste do 36 ao 54 | Conforto e Alta Elasticidade",
+      "title_norm": "meia calca fina7d anticelulite fio 70 plus size veste do 36 ao 54 conforto e alta elasticidade",
+      "url": "https://shopee.com.br/product/204026219/58204912754",
+      "affiliate_url": "https://s.shopee.com.br/3B6ztaIvht",
+      "category": "Brenda  Acessórios",
+      "bucket": "brenda_acessorios",
+      "posted_ts": 1788077876,
+      "posted_at": "2026-08-30T08:17:56.897053+00:00",
+      "score": 114.91
+    },
+    {
+      "key": "shopee:18997669654",
+      "marketplace": "shopee",
+      "id": "18997669654",
+      "title": "Conjunto na Alfaiataria Calça  Pantalona + Colete Social Escritório Plus SIze",
+      "title_norm": "conjunto na alfaiataria calca pantalona colete social escritorio plus size",
+      "url": "https://shopee.com.br/product/1239041434/18997669654",
+      "affiliate_url": "https://s.shopee.com.br/60RBGnGjiG",
+      "category": "Elizye Delicato",
+      "bucket": "elizye_delicato",
+      "posted_ts": 1788077807,
+      "posted_at": "2026-08-30T08:16:47.815470+00:00",
+      "score": 116.1
+    },
+    {
       "key": "shopee:22398531446",
       "marketplace": "shopee",
       "id": "22398531446",
@@ -13943,63 +13999,7 @@
       "posted_ts": 1787332791,
       "posted_at": "2026-08-21T17:19:51.569389+00:00",
       "score": 82.62
-    },
-    {
-      "key": "shopee:45205938921",
-      "marketplace": "shopee",
-      "id": "45205938921",
-      "title": "HEROI Kit Academia em Casa 15kg/20kg Halteres Ajustáveis,Inclui Barra Longa e Presilhas de Segurança",
-      "title_norm": "heroi kit academia em casa 15kg 20kg halteres ajustaveis inclui barra longa e presilhas de seguranca",
-      "url": "https://shopee.com.br/product/1615206258/45205938921",
-      "affiliate_url": "https://s.shopee.com.br/2LXf979krg",
-      "category": "TOYA BRASIL",
-      "bucket": "toya_brasil",
-      "posted_ts": 1787332727,
-      "posted_at": "2026-08-21T17:18:47.573271+00:00",
-      "score": 84.68
-    },
-    {
-      "key": "shopee:9987415279",
-      "marketplace": "shopee",
-      "id": "9987415279",
-      "title": "Kit Whey Protein Fusion + Bcaa + Creatina + Shaker",
-      "title_norm": "kit whey protein fusion bcaa creatina shaker",
-      "url": "https://shopee.com.br/product/446247790/9987415279",
-      "affiliate_url": "https://s.shopee.com.br/9pdg4uC05k",
-      "category": "Loja do Suplemento Oficial",
-      "bucket": "loja_do_suplemento_oficial",
-      "posted_ts": 1787332663,
-      "posted_at": "2026-08-21T17:17:43.574065+00:00",
-      "score": 84.84
-    },
-    {
-      "key": "shopee:9511754133",
-      "marketplace": "shopee",
-      "id": "9511754133",
-      "title": "Creatina Max Titanium 300g Pura",
-      "title_norm": "creatina max titanium 300g pura",
-      "url": "https://shopee.com.br/product/338537405/9511754133",
-      "affiliate_url": "https://s.shopee.com.br/5fo8NX32xQ",
-      "category": "Hard Extreme",
-      "bucket": "hard_extreme",
-      "posted_ts": 1787332599,
-      "posted_at": "2026-08-21T17:16:39.565395+00:00",
-      "score": 127.01
-    },
-    {
-      "key": "shopee:23098743324",
-      "marketplace": "shopee",
-      "id": "23098743324",
-      "title": "Kit 10 Calcinhas Importada box Shortinho Infantil menina Estampada ou Kit 4 Calcinhas",
-      "title_norm": "kit 10 calcinhas importada box shortinho infantil menina estampada ou kit 4 calcinhas",
-      "url": "https://shopee.com.br/product/1072928964/23098743324",
-      "affiliate_url": "https://s.shopee.com.br/LmahK5yxh",
-      "category": "LOREN ONLINE STORE",
-      "bucket": "loren_online_store",
-      "posted_ts": 1787329262,
-      "posted_at": "2026-08-21T16:21:02.661673+00:00",
-      "score": 73.76
     }
   ],
-  "updated_at": "2026-08-30T07:21:15.894133+00:00"
+  "updated_at": "2026-08-30T08:20:23.094259+00:00"
 }
