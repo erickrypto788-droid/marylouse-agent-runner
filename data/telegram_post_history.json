@@ -1,6 +1,20 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB6290574990",
+      "marketplace": "mercadolivre",
+      "id": "MLB6290574990",
+      "title": "Aparelho Monitor Pressão Arterial Portátil Pulso Omron",
+      "title_norm": "aparelho monitor pressao arterial portatil pulso omron",
+      "url": "https://www.mercadolivre.com.br/p/MLB22958206?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB22958206?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Informática",
+      "bucket": "saude",
+      "posted_ts": 1788062535,
+      "posted_at": "2026-08-30T04:02:15.610909+00:00",
+      "score": 158.3
+    },
+    {
       "key": "shopee:18999562267",
       "marketplace": "shopee",
       "id": "18999562267",
@@ -13985,21 +13999,7 @@
       "posted_ts": 1787304010,
       "posted_at": "2026-08-21T09:20:10.754755+00:00",
       "score": 76.44
-    },
-    {
-      "key": "shopee:23294058392",
-      "marketplace": "shopee",
-      "id": "23294058392",
-      "title": "Kit 10, 5 Cueca Masculina Box Adulto Microfibra Forro 100% Algodão Cores Variadas",
-      "title_norm": "kit 10 5 cueca masculina box adulto microfibra forro 100 algodao cores variadas",
-      "url": "https://shopee.com.br/product/338978918/23294058392",
-      "affiliate_url": "https://s.shopee.com.br/70JU6cIaI9",
-      "category": "WPM Moda Íntima",
-      "bucket": "wpm_moda_intima",
-      "posted_ts": 1787303942,
-      "posted_at": "2026-08-21T09:19:02.004304+00:00",
-      "score": 77.37
     }
   ],
-  "updated_at": "2026-08-30T03:21:01.032524+00:00"
+  "updated_at": "2026-08-30T04:02:15.610924+00:00"
 }

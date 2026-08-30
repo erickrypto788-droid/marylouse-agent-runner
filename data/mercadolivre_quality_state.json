@@ -1,6 +1,21 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB6290574990",
+      "product_id": "MLB6290574990",
+      "catalog_product_id": "MLB22958206",
+      "item_id": "MLB6290574990",
+      "url": "https://www.mercadolivre.com.br/p/MLB22958206?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB22958206?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "aparelho monitor pressao arterial portatil pulso omron",
+      "title": "Aparelho Monitor Pressão Arterial Portátil Pulso Omron",
+      "category": "Informática",
+      "price": 150.66,
+      "score": 158.3,
+      "posted_ts": 1788062535,
+      "posted_at": "2026-08-30T04:02:15.624697+00:00"
+    },
+    {
       "key": "mercadolivre:MLB7174659716",
       "product_id": "MLB7174659716",
       "catalog_product_id": "MLB59103594",
@@ -419,37 +434,7 @@
       "score": 130.0,
       "posted_ts": 1787897117,
       "posted_at": "2026-08-28T06:05:17.049363+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB4949684225",
-      "product_id": "MLB4949684225",
-      "catalog_product_id": "MLB75635951",
-      "item_id": "MLB4949684225",
-      "url": "https://www.mercadolivre.com.br/p/MLB75635951?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB75635951?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "fralda geriatrica prevent care tamanho fralda geriatrica prevent care m c 50",
-      "title": "Fralda Geriatrica Prevent Care Tamanho FRALDA GERIATRICA PREVENT CARE M C/50",
-      "category": "Mãe e Bebê",
-      "price": 112.9,
-      "score": 114.0,
-      "posted_ts": 1787886178,
-      "posted_at": "2026-08-28T03:02:58.458512+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB4342761455",
-      "product_id": "MLB4342761455",
-      "catalog_product_id": "MLB49735840",
-      "item_id": "MLB4342761455",
-      "url": "https://www.mercadolivre.com.br/p/MLB49735840?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB49735840?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "racao cachorro selection adultos pequenos 10 1kg harmony",
-      "title": "Ração Cachorro Selection Adultos Pequenos 10,1kg Harmony",
-      "category": "Pet",
-      "price": 149.9,
-      "score": 113.0,
-      "posted_ts": 1787882621,
-      "posted_at": "2026-08-28T02:03:41.496137+00:00"
     }
   ],
-  "updated_at": "2026-08-30T02:02:51.078677+00:00"
+  "updated_at": "2026-08-30T04:02:15.624706+00:00"
 }
