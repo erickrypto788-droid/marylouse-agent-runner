@@ -1,6 +1,62 @@
 {
   "posts": [
     {
+      "key": "shopee:21897737849",
+      "marketplace": "shopee",
+      "id": "21897737849",
+      "title": "Micro-ondas Philco 25L Função Tira Odor PM27",
+      "title_norm": "micro ondas philco 25l funcao tira odor pm27",
+      "url": "https://shopee.com.br/product/811034337/21897737849",
+      "affiliate_url": "https://s.shopee.com.br/6L41vt3973",
+      "category": "Philco Oficial",
+      "bucket": "philco_oficial",
+      "posted_ts": 1788092394,
+      "posted_at": "2026-08-30T12:19:54.624740+00:00",
+      "score": 84.68
+    },
+    {
+      "key": "shopee:23497309877",
+      "marketplace": "shopee",
+      "id": "23497309877",
+      "title": "Espremedor Elétrico Laranja Limão Frutas Fazer Sucos Recarregável Usb Cozinha",
+      "title_norm": "espremedor eletrico laranja limao frutas fazer sucos recarregavel usb cozinha",
+      "url": "https://shopee.com.br/product/807597901/23497309877",
+      "affiliate_url": "https://s.shopee.com.br/904oN4qFD1",
+      "category": "BIG MO",
+      "bucket": "big_mo",
+      "posted_ts": 1788092330,
+      "posted_at": "2026-08-30T12:18:50.663817+00:00",
+      "score": 124.46
+    },
+    {
+      "key": "shopee:20697354172",
+      "marketplace": "shopee",
+      "id": "20697354172",
+      "title": "Cafeteira Italiana Premium 6 Xícaras De Alumínio",
+      "title_norm": "cafeteira italiana premium 6 xicaras de aluminio",
+      "url": "https://shopee.com.br/product/408653169/20697354172",
+      "affiliate_url": "https://s.shopee.com.br/9fKTu0heiX",
+      "category": "SELLNEEDS",
+      "bucket": "casa_cozinha",
+      "posted_ts": 1788092266,
+      "posted_at": "2026-08-30T12:17:46.697237+00:00",
+      "score": 125.76
+    },
+    {
+      "key": "shopee:19098205730",
+      "marketplace": "shopee",
+      "id": "19098205730",
+      "title": "Gaabor Aspirador de pó portátil 2 em 1 com fio e haste de pressão sucção forte de 16000Pa dust off GVCW-M15A",
+      "title_norm": "gaabor aspirador de po portatil 2 em 1 com fio e haste de pressao succao forte de 16000pa dust off gvcw m15a",
+      "url": "https://shopee.com.br/product/1541348350/19098205730",
+      "affiliate_url": "https://s.shopee.com.br/1VynRIRWjI",
+      "category": "DOMUS STORE_",
+      "bucket": "casa_cozinha",
+      "posted_ts": 1788092202,
+      "posted_at": "2026-08-30T12:16:42.635273+00:00",
+      "score": 128.38
+    },
+    {
       "key": "mercadolivre:MLB6512536586",
       "marketplace": "mercadolivre",
       "id": "MLB6512536586",
@@ -13943,63 +13999,7 @@
       "posted_ts": 1787357872,
       "posted_at": "2026-08-22T00:17:52.249338+00:00",
       "score": 104.63
-    },
-    {
-      "key": "shopee:52606084679",
-      "marketplace": "shopee",
-      "id": "52606084679",
-      "title": "Mouse Pad Gamer Emborrachado Tamanho Especial 40x40cm Tema Abstrato",
-      "title_norm": "mouse pad gamer emborrachado tamanho especial 40x40cm tema abstrato",
-      "url": "https://shopee.com.br/product/1285432434/52606084679",
-      "affiliate_url": "https://s.shopee.com.br/qit5UcLGo",
-      "category": "MousePadStore",
-      "bucket": "informatica",
-      "posted_ts": 1787357804,
-      "posted_at": "2026-08-22T00:16:44.342930+00:00",
-      "score": 105.25
-    },
-    {
-      "key": "shopee:58210113401",
-      "marketplace": "shopee",
-      "id": "58210113401",
-      "title": "Caderno Pasta Desafio Poupança com 100 Envelopes Modelo Genérico Material Papel",
-      "title_norm": "caderno pasta desafio poupanca com 100 envelopes modelo generico material papel",
-      "url": "https://shopee.com.br/product/1795428032/58210113401",
-      "affiliate_url": "https://s.shopee.com.br/5VUiZxMBNb",
-      "category": "DailyCozy",
-      "bucket": "dailycozy",
-      "posted_ts": 1787354483,
-      "posted_at": "2026-08-21T23:21:23.791141+00:00",
-      "score": 42.93
-    },
-    {
-      "key": "shopee:22299579956",
-      "marketplace": "shopee",
-      "id": "22299579956",
-      "title": "Marcador de texto",
-      "title_norm": "marcador de texto",
-      "url": "https://shopee.com.br/product/1333501739/22299579956",
-      "affiliate_url": "https://s.shopee.com.br/6L3pZURoDu",
-      "category": "Eleakim Personalizado",
-      "bucket": "eleakim_personalizado",
-      "posted_ts": 1787354405,
-      "posted_at": "2026-08-21T23:20:05.804049+00:00",
-      "score": 46.85
-    },
-    {
-      "key": "shopee:19059412759",
-      "marketplace": "shopee",
-      "id": "19059412759",
-      "title": "Cartão Cinza Horlle 1.9 mm (Papelão Holler 1,9mm) para Encadernação e Cartonagem A4 A5 A6 15,5x21,5 16x22 19x27 40x50",
-      "title_norm": "cartao cinza horlle 1 9 mm papelao holler 1 9mm para encadernacao e cartonagem a4 a5 a6 15 5x21 5 16x22 19x27 40x50",
-      "url": "https://shopee.com.br/product/344962067/19059412759",
-      "affiliate_url": "https://s.shopee.com.br/5ArsBLaePp",
-      "category": "Diplomata Papéis",
-      "bucket": "diplomata_papeis",
-      "posted_ts": 1787354341,
-      "posted_at": "2026-08-21T23:19:01.629757+00:00",
-      "score": 47.29
     }
   ],
-  "updated_at": "2026-08-30T12:03:22.541997+00:00"
+  "updated_at": "2026-08-30T12:19:54.624753+00:00"
 }
