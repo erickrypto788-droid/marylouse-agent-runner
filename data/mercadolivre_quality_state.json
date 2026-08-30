@@ -1,6 +1,36 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB4657112471",
+      "product_id": "MLB4657112471",
+      "catalog_product_id": "MLB61421090",
+      "item_id": "MLB4657112471",
+      "url": "https://www.mercadolivre.com.br/p/MLB61421090?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB61421090?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "smartphone xiaomi redmi 15c 256gb global azul",
+      "title": "Smartphone Xiaomi Redmi 15c 256gb Global Azul",
+      "category": "Informática",
+      "price": 1135.0,
+      "score": 127.0,
+      "posted_ts": 1788116619,
+      "posted_at": "2026-08-30T19:03:39.996016+00:00"
+    },
+    {
+      "key": "mercadolivre:MLB3900697873",
+      "product_id": "MLB3900697873",
+      "catalog_product_id": "MLB41629336",
+      "item_id": "MLB3900697873",
+      "url": "https://www.mercadolivre.com.br/p/MLB41629336?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB41629336?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "smartphone xiaomi redmi 13 cor azul marinho",
+      "title": "Smartphone Xiaomi Redmi 13 Cor Azul-marinho",
+      "category": "Informática",
+      "price": 1337.4,
+      "score": 127.0,
+      "posted_ts": 1788116550,
+      "posted_at": "2026-08-30T19:02:30.556577+00:00"
+    },
+    {
       "key": "mercadolivre:MLB4455480129",
       "product_id": "MLB4455480129",
       "catalog_product_id": "MLB65128982",
@@ -614,22 +644,7 @@
       "score": 103.67,
       "posted_ts": 1787958376,
       "posted_at": "2026-08-28T23:06:16.880421+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB7526272332",
-      "product_id": "MLB7526272332",
-      "catalog_product_id": "MLB75981402",
-      "item_id": "MLB7526272332",
-      "url": "https://www.mercadolivre.com.br/p/MLB75981402?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB75981402?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "racao gato castrado life special robustus 10 1kg",
-      "title": "Ração Gato Castrado Life Special Robustus 10,1kg",
-      "category": "Pet",
-      "price": 171.5,
-      "score": 113.0,
-      "posted_ts": 1787943763,
-      "posted_at": "2026-08-28T19:02:43.376455+00:00"
     }
   ],
-  "updated_at": "2026-08-30T18:03:46.774265+00:00"
+  "updated_at": "2026-08-30T19:03:39.996031+00:00"
 }
