@@ -1,6 +1,34 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB6711242070",
+      "marketplace": "mercadolivre",
+      "id": "MLB6711242070",
+      "title": "Bepantol Baby Pomada Assadura Bebe Hipoalergênica, 200g",
+      "title_norm": "bepantol baby pomada assadura bebe hipoalergenica 200g",
+      "url": "https://www.mercadolivre.com.br/p/MLB68578906?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB68578906?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Mãe e Bebê",
+      "bucket": "mae_e_bebe",
+      "posted_ts": 1788080770,
+      "posted_at": "2026-08-30T09:06:10.350661+00:00",
+      "score": 89.0
+    },
+    {
+      "key": "mercadolivre:MLB4189107767",
+      "marketplace": "mercadolivre",
+      "id": "MLB4189107767",
+      "title": "Azeite Oliva Extra Virgem Italiano 500ml Mercatto",
+      "title_norm": "azeite oliva extra virgem italiano 500ml mercatto",
+      "url": "https://www.mercadolivre.com.br/p/MLB54332454?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB54332454?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Supermercados",
+      "bucket": "supermercado",
+      "posted_ts": 1788080701,
+      "posted_at": "2026-08-30T09:05:01.246313+00:00",
+      "score": 111.87
+    },
+    {
       "key": "shopee:58254354411",
       "marketplace": "shopee",
       "id": "58254354411",
@@ -13971,35 +13999,7 @@
       "posted_ts": 1787336211,
       "posted_at": "2026-08-21T18:16:51.463071+00:00",
       "score": 78.61
-    },
-    {
-      "key": "shopee:58251332033",
-      "marketplace": "shopee",
-      "id": "58251332033",
-      "title": "Capa Impermeável Touch Celular - Suporte Bike Moto para Navegação",
-      "title_norm": "capa impermeavel touch celular suporte bike moto para navegacao",
-      "url": "https://shopee.com.br/product/1680975344/58251332033",
-      "affiliate_url": "https://s.shopee.com.br/5VUguw6ZGu",
-      "category": "0kgjmz80zg",
-      "bucket": "celulares",
-      "posted_ts": 1787332855,
-      "posted_at": "2026-08-21T17:20:55.554778+00:00",
-      "score": 81.29
-    },
-    {
-      "key": "shopee:22794534319",
-      "marketplace": "shopee",
-      "id": "22794534319",
-      "title": "Bola De Futebol Elétrica Flutuante Para Crianças Jogos Esportivos Indoor LED Kid Brinquedo Menino",
-      "title_norm": "bola de futebol eletrica flutuante para criancas jogos esportivos indoor led kid brinquedo menino",
-      "url": "https://shopee.com.br/product/1506485965/22794534319",
-      "affiliate_url": "https://s.shopee.com.br/6fgfZN86im",
-      "category": "Raio de Luz Toy",
-      "bucket": "raio_de_luz_toy",
-      "posted_ts": 1787332791,
-      "posted_at": "2026-08-21T17:19:51.569389+00:00",
-      "score": 82.62
     }
   ],
-  "updated_at": "2026-08-30T08:20:23.094259+00:00"
+  "updated_at": "2026-08-30T09:06:10.350672+00:00"
 }

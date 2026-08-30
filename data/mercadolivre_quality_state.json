@@ -1,6 +1,36 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB6711242070",
+      "product_id": "MLB6711242070",
+      "catalog_product_id": "MLB68578906",
+      "item_id": "MLB6711242070",
+      "url": "https://www.mercadolivre.com.br/p/MLB68578906?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB68578906?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "bepantol baby pomada assadura bebe hipoalergenica 200g",
+      "title": "Bepantol Baby Pomada Assadura Bebe Hipoalergênica, 200g",
+      "category": "Mãe e Bebê",
+      "price": 109.9,
+      "score": 89.0,
+      "posted_ts": 1788080770,
+      "posted_at": "2026-08-30T09:06:10.361941+00:00"
+    },
+    {
+      "key": "mercadolivre:MLB4189107767",
+      "product_id": "MLB4189107767",
+      "catalog_product_id": "MLB54332454",
+      "item_id": "MLB4189107767",
+      "url": "https://www.mercadolivre.com.br/p/MLB54332454?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB54332454?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "azeite oliva extra virgem italiano 500ml mercatto",
+      "title": "Azeite Oliva Extra Virgem Italiano 500ml Mercatto",
+      "category": "Supermercados",
+      "price": 58.37,
+      "score": 111.87,
+      "posted_ts": 1788080701,
+      "posted_at": "2026-08-30T09:05:01.258073+00:00"
+    },
+    {
       "key": "mercadolivre:MLB7304556746",
       "product_id": "MLB7304556746",
       "catalog_product_id": "MLB76168566",
@@ -404,52 +434,7 @@
       "score": 124.0,
       "posted_ts": 1787932973,
       "posted_at": "2026-08-28T16:02:53.889512+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB4664227033",
-      "product_id": "MLB4664227033",
-      "catalog_product_id": "MLB59913750",
-      "item_id": "MLB4664227033",
-      "url": "https://www.mercadolivre.com.br/p/MLB59913750?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB59913750?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "condicionador jaborandi 300 ml condicionador jaborandi 30",
-      "title": "Condicionador Jaborandi - 300 Ml Condicionador Jaborandi 30",
-      "category": "Beleza",
-      "price": 50.13,
-      "score": 79.13,
-      "posted_ts": 1787897245,
-      "posted_at": "2026-08-28T06:07:25.511539+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB7203056478",
-      "product_id": "MLB7203056478",
-      "catalog_product_id": "MLB35613935",
-      "item_id": "MLB7203056478",
-      "url": "https://www.mercadolivre.com.br/p/MLB35613935?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB35613935?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "amaciante triex amaciante max blue em frasco 5 l",
-      "title": "Amaciante Triex Amaciante Max Blue em frasco 5 L",
-      "category": "Supermercados",
-      "price": 28.4,
-      "score": 103.68,
-      "posted_ts": 1787897181,
-      "posted_at": "2026-08-28T06:06:21.040443+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB4746828969",
-      "product_id": "MLB4746828969",
-      "catalog_product_id": "MLB18715385",
-      "item_id": "MLB4746828969",
-      "url": "https://www.mercadolivre.com.br/p/MLB18715385?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB18715385?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "fralda pampers pants ajuste total xxg 60 unidades",
-      "title": "Fralda Pampers Pants Ajuste Total XXG 60 Unidades",
-      "category": "Mãe e Bebê",
-      "price": 140.0,
-      "score": 130.0,
-      "posted_ts": 1787897117,
-      "posted_at": "2026-08-28T06:05:17.049363+00:00"
     }
   ],
-  "updated_at": "2026-08-30T05:02:50.393708+00:00"
+  "updated_at": "2026-08-30T09:06:10.361949+00:00"
 }
