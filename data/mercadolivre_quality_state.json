@@ -1,6 +1,81 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB7059191208",
+      "product_id": "MLB7059191208",
+      "catalog_product_id": "MLB38422370",
+      "item_id": "MLB7059191208",
+      "url": "https://www.mercadolivre.com.br/p/MLB38422370?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB38422370?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "boneca sophia deluxe com roupa academia unicornio 24cm sunny",
+      "title": "Boneca Sophia Deluxe com Roupa Academia Unicórnio 24cm Sunny",
+      "category": "Esportes",
+      "price": 156.99,
+      "score": 88.0,
+      "posted_ts": 1788084457,
+      "posted_at": "2026-08-30T10:07:37.970402+00:00"
+    },
+    {
+      "key": "mercadolivre:MLB6908437380",
+      "product_id": "MLB6908437380",
+      "catalog_product_id": "MLB72674383",
+      "item_id": "MLB6908437380",
+      "url": "https://www.mercadolivre.com.br/p/MLB72674383?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB72674383?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "kit 7 shorts feminino modelador selene levanta bumbum cor bege tamanho m",
+      "title": "Kit 7 Shorts Feminino Modelador Selene Levanta Bumbum Cor Bege Tamanho M",
+      "category": "Moda Feminina",
+      "price": 150.09,
+      "score": 97.67,
+      "posted_ts": 1788084389,
+      "posted_at": "2026-08-30T10:06:29.074283+00:00"
+    },
+    {
+      "key": "mercadolivre:MLB5941366026",
+      "product_id": "MLB5941366026",
+      "catalog_product_id": "MLB62222654",
+      "item_id": "MLB5941366026",
+      "url": "https://www.mercadolivre.com.br/p/MLB62222654?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB62222654?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "shorts feminino sem costura loba plus size redutor tamanho xxg sortido",
+      "title": "Shorts Feminino Sem Costura Loba Plus Size Redutor Tamanho XXG Sortido",
+      "category": "Moda Feminina",
+      "price": 145.49,
+      "score": 100.54,
+      "posted_ts": 1788084319,
+      "posted_at": "2026-08-30T10:05:19.232469+00:00"
+    },
+    {
+      "key": "mercadolivre:MLB4637663771",
+      "product_id": "MLB4637663771",
+      "catalog_product_id": "MLB68415141",
+      "item_id": "MLB4637663771",
+      "url": "https://www.mercadolivre.com.br/p/MLB68415141?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB68415141?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "blusa fitness feminina ausare para academia de poliamida dry fit",
+      "title": "Blusa Fitness Feminina Ausare Para Academia de Poliamida Dry Fit",
+      "category": "Esportes",
+      "price": 78.9,
+      "score": 139.69,
+      "posted_ts": 1788084250,
+      "posted_at": "2026-08-30T10:04:10.945451+00:00"
+    },
+    {
+      "key": "mercadolivre:MLB4663936327",
+      "product_id": "MLB4663936327",
+      "catalog_product_id": "MLB69276350",
+      "item_id": "MLB4663936327",
+      "url": "https://www.mercadolivre.com.br/p/MLB69276350?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB69276350?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "calca legging feminina ausare de compressao media com uv50 e cos alto para academia",
+      "title": "Calça Legging Feminina Ausare de Compressão Média com UV50+ e Cós Alto para Academia",
+      "category": "Moda Feminina",
+      "price": 99.9,
+      "score": 183.81,
+      "posted_ts": 1788084182,
+      "posted_at": "2026-08-30T10:03:02.663502+00:00"
+    },
+    {
       "key": "mercadolivre:MLB6711242070",
       "product_id": "MLB6711242070",
       "catalog_product_id": "MLB68578906",
@@ -436,5 +511,5 @@
       "posted_at": "2026-08-28T16:02:53.889512+00:00"
     }
   ],
-  "updated_at": "2026-08-30T09:06:10.361949+00:00"
+  "updated_at": "2026-08-30T10:07:37.970412+00:00"
 }
