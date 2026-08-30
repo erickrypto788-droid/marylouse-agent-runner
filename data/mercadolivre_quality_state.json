@@ -1,6 +1,21 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB7158074090",
+      "product_id": "MLB7158074090",
+      "catalog_product_id": "MLB38338044",
+      "item_id": "MLB7158074090",
+      "url": "https://www.mercadolivre.com.br/p/MLB38338044?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB38338044?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "liquidificador portatil mini liquidificador recarregavel usb liquidificador",
+      "title": "Liquidificador portátil, Mini liquidificador recarregável USB, Liquidificador",
+      "category": "Casa e Cozinha",
+      "price": 98.0,
+      "score": 113.0,
+      "posted_ts": 1788102168,
+      "posted_at": "2026-08-30T15:02:48.145826+00:00"
+    },
+    {
       "key": "mercadolivre:MLB5495982148",
       "product_id": "MLB5495982148",
       "catalog_product_id": "MLB51434487",
@@ -601,5 +616,5 @@
       "posted_at": "2026-08-28T16:02:53.889512+00:00"
     }
   ],
-  "updated_at": "2026-08-30T14:02:44.149311+00:00"
+  "updated_at": "2026-08-30T15:02:48.145846+00:00"
 }
