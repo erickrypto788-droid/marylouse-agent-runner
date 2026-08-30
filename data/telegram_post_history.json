@@ -1,6 +1,34 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB4455480129",
+      "marketplace": "mercadolivre",
+      "id": "MLB4455480129",
+      "title": "Soundbar Samsung Hw-b400f + Soundbar Hw-b400f Preto",
+      "title_norm": "soundbar samsung hw b400f soundbar hw b400f preto",
+      "url": "https://www.mercadolivre.com.br/p/MLB65128982?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB65128982?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Informática",
+      "bucket": "informatica",
+      "posted_ts": 1788113026,
+      "posted_at": "2026-08-30T18:03:46.760931+00:00",
+      "score": 104.0
+    },
+    {
+      "key": "mercadolivre:MLB4455473269",
+      "marketplace": "mercadolivre",
+      "id": "MLB4455473269",
+      "title": "Soundbar Samsung Hw-b450f + Soundbar Hw-b400f",
+      "title_norm": "soundbar samsung hw b450f soundbar hw b400f",
+      "url": "https://www.mercadolivre.com.br/p/MLB65128496?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB65128496?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Informática",
+      "bucket": "informatica",
+      "posted_ts": 1788112962,
+      "posted_at": "2026-08-30T18:02:42.330772+00:00",
+      "score": 104.0
+    },
+    {
       "key": "shopee:23693177961",
       "marketplace": "shopee",
       "id": "23693177961",
@@ -13971,35 +13999,7 @@
       "posted_ts": 1787375866,
       "posted_at": "2026-08-22T05:17:46.883082+00:00",
       "score": 117.12
-    },
-    {
-      "key": "shopee:58257330060",
-      "marketplace": "shopee",
-      "id": "58257330060",
-      "title": "Vestido Plus Size Soltinho Em Dois Tamanhos e Várias Cores",
-      "title_norm": "vestido plus size soltinho em dois tamanhos e varias cores",
-      "url": "https://shopee.com.br/product/1518048481/58257330060",
-      "affiliate_url": "https://s.shopee.com.br/AUtMPIext8",
-      "category": "augeconceito",
-      "bucket": "moda_feminina",
-      "posted_ts": 1787375802,
-      "posted_at": "2026-08-22T05:16:42.870587+00:00",
-      "score": 119.51
-    },
-    {
-      "key": "mercadolivre:MLB6359500600",
-      "marketplace": "mercadolivre",
-      "id": "MLB6359500600",
-      "title": "Owlet Dream Sock | Meia Inteligente Monitor Bebê - Rosa",
-      "title_norm": "owlet dream sock meia inteligente monitor bebe rosa",
-      "url": "https://www.mercadolivre.com.br/p/MLB26685042?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB26685042?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "category": "Informática",
-      "bucket": "informatica",
-      "posted_ts": 1787375078,
-      "posted_at": "2026-08-22T05:04:38.242300+00:00",
-      "score": 83.0
     }
   ],
-  "updated_at": "2026-08-30T17:21:01.802504+00:00"
+  "updated_at": "2026-08-30T18:03:46.760945+00:00"
 }
