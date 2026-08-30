@@ -1,6 +1,20 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB6827581422",
+      "marketplace": "mercadolivre",
+      "id": "MLB6827581422",
+      "title": "Prancha Esteira Ergometrica Kikos E600ix Preto",
+      "title_norm": "prancha esteira ergometrica kikos e600ix preto",
+      "url": "https://www.mercadolivre.com.br/p/MLB70114350?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB70114350?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Esportes",
+      "bucket": "esportes",
+      "posted_ts": 1788094944,
+      "posted_at": "2026-08-30T13:02:24.117467+00:00",
+      "score": 120.27
+    },
+    {
       "key": "shopee:21897737849",
       "marketplace": "shopee",
       "id": "21897737849",
@@ -13985,21 +13999,7 @@
       "posted_ts": 1787357936,
       "posted_at": "2026-08-22T00:18:56.217202+00:00",
       "score": 68.35
-    },
-    {
-      "key": "shopee:22393975400",
-      "marketplace": "shopee",
-      "id": "22393975400",
-      "title": "MousePad Grande Rosa Desk Pad Couro Gamer Office",
-      "title_norm": "mousepad grande rosa desk pad couro gamer office",
-      "url": "https://shopee.com.br/product/500815088/22393975400",
-      "affiliate_url": "https://s.shopee.com.br/4VcBSEONpI",
-      "category": "PrismaCar",
-      "bucket": "informatica",
-      "posted_ts": 1787357872,
-      "posted_at": "2026-08-22T00:17:52.249338+00:00",
-      "score": 104.63
     }
   ],
-  "updated_at": "2026-08-30T12:19:54.624753+00:00"
+  "updated_at": "2026-08-30T13:02:24.117480+00:00"
 }
