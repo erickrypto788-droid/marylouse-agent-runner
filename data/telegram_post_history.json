@@ -1,6 +1,48 @@
 {
   "posts": [
     {
+      "key": "shopee:22693059376",
+      "marketplace": "shopee",
+      "id": "22693059376",
+      "title": "Mochila Feminina para Viagem Casual à Prova d'Água em Oxford, Se Torna Bolsa de Mão Alex",
+      "title_norm": "mochila feminina para viagem casual a prova d agua em oxford se torna bolsa de mao alex",
+      "url": "https://shopee.com.br/product/400311012/22693059376",
+      "affiliate_url": "https://s.shopee.com.br/112W2vVPF9",
+      "category": "Marisa.store",
+      "bucket": "bolsas",
+      "posted_ts": 1788117539,
+      "posted_at": "2026-08-30T19:18:59.985761+00:00",
+      "score": 113.48
+    },
+    {
+      "key": "shopee:21099546181",
+      "marketplace": "shopee",
+      "id": "21099546181",
+      "title": "Bolsa Feminina Pequena de Ombro Impermeável, Mini Tiracolo de Couro para Trabalho e Festa",
+      "title_norm": "bolsa feminina pequena de ombro impermeavel mini tiracolo de couro para trabalho e festa",
+      "url": "https://shopee.com.br/product/1198407784/21099546181",
+      "affiliate_url": "https://s.shopee.com.br/30nbguBq6P",
+      "category": "Romantic Crown.02",
+      "bucket": "bolsas",
+      "posted_ts": 1788117475,
+      "posted_at": "2026-08-30T19:17:55.601960+00:00",
+      "score": 116.72
+    },
+    {
+      "key": "shopee:58209895415",
+      "marketplace": "shopee",
+      "id": "58209895415",
+      "title": "Mochila de Viagem Masculina e Feminina Impermeável e Reforçada com Compartimento para Notebook",
+      "title_norm": "mochila de viagem masculina e feminina impermeavel e reforcada com compartimento para notebook",
+      "url": "https://shopee.com.br/product/1789754785/58209895415",
+      "affiliate_url": "https://s.shopee.com.br/qj5qcW2a4",
+      "category": "Solperk",
+      "bucket": "informatica",
+      "posted_ts": 1788117411,
+      "posted_at": "2026-08-30T19:16:51.473736+00:00",
+      "score": 139.22
+    },
+    {
       "key": "mercadolivre:MLB4657112471",
       "marketplace": "mercadolivre",
       "id": "MLB4657112471",
@@ -13957,49 +13999,7 @@
       "posted_ts": 1787383205,
       "posted_at": "2026-08-22T07:20:05.683519+00:00",
       "score": 102.84
-    },
-    {
-      "key": "shopee:23999314273",
-      "marketplace": "shopee",
-      "id": "23999314273",
-      "title": "Tênis SNEEKS Feminino para Uso Diário Prático e Estiloso Super Promoção",
-      "title_norm": "tenis sneeks feminino para uso diario pratico e estiloso super promocao",
-      "url": "https://shopee.com.br/product/1737398657/23999314273",
-      "affiliate_url": "https://s.shopee.com.br/BTCl7QZUm",
-      "category": "IRON Shop O2x",
-      "bucket": "calcados",
-      "posted_ts": 1787383138,
-      "posted_at": "2026-08-22T07:18:58.505798+00:00",
-      "score": 114.15
-    },
-    {
-      "key": "shopee:23293827748",
-      "marketplace": "shopee",
-      "id": "23293827748",
-      "title": "Bota Feminina GiGiL Cano Longo Enrugado Slouch Bico Fino Salto Bloco Médio Elegante Clássica Casual",
-      "title_norm": "bota feminina gigil cano longo enrugado slouch bico fino salto bloco medio elegante classica casual",
-      "url": "https://shopee.com.br/product/387348115/23293827748",
-      "affiliate_url": "https://s.shopee.com.br/30nO8KSuoc",
-      "category": "GiGiL",
-      "bucket": "calcados",
-      "posted_ts": 1787383068,
-      "posted_at": "2026-08-22T07:17:48.507822+00:00",
-      "score": 120.0
-    },
-    {
-      "key": "shopee:29257433692",
-      "marketplace": "shopee",
-      "id": "29257433692",
-      "title": "Conjunto De 12 Peças De Cadarços Elásticos De Silicone Preguiçosos Sem Amarração Para Tênis , De Corrida E Botas-Confort",
-      "title_norm": "conjunto de 12 pecas de cadarcos elasticos de silicone preguicosos sem amarracao para tenis de corrida e botas confort",
-      "url": "https://shopee.com.br/product/1006215031/29257433692",
-      "affiliate_url": "https://s.shopee.com.br/2LXhGyc8fw",
-      "category": "Choice Oficial",
-      "bucket": "pet",
-      "posted_ts": 1787379525,
-      "posted_at": "2026-08-22T06:18:45.915640+00:00",
-      "score": 59.03
     }
   ],
-  "updated_at": "2026-08-30T19:03:39.983692+00:00"
+  "updated_at": "2026-08-30T19:18:59.985774+00:00"
 }
