@@ -1,6 +1,48 @@
 {
   "posts": [
     {
+      "key": "shopee:22693513091",
+      "marketplace": "shopee",
+      "id": "22693513091",
+      "title": "Bolsa de Ombra Feminina com Alça Ajustável, Bolsa Feminina Elegante com Couro Sintetico Preto, Presente",
+      "title_norm": "bolsa de ombra feminina com alca ajustavel bolsa feminina elegante com couro sintetico preto presente",
+      "url": "https://shopee.com.br/product/1345043704/22693513091",
+      "affiliate_url": "https://s.shopee.com.br/50YdwiXVhT",
+      "category": "Romantic Crown 02",
+      "bucket": "bolsas",
+      "posted_ts": 1788049132,
+      "posted_at": "2026-08-30T00:18:52.865184+00:00",
+      "score": 121.0
+    },
+    {
+      "key": "shopee:23497594302",
+      "marketplace": "shopee",
+      "id": "23497594302",
+      "title": "ROMANTIC CROWN Mochla de Viagem MascuIino e Feminina ImpermeaveI Reforçada Executiva para Notebook",
+      "title_norm": "romantic crown mochla de viagem mascuiino e feminina impermeavei reforcada executiva para notebook",
+      "url": "https://shopee.com.br/product/1198407784/23497594302",
+      "affiliate_url": "https://s.shopee.com.br/2LXsZRfFOb",
+      "category": "Romantic Crown.02",
+      "bucket": "informatica",
+      "posted_ts": 1788049068,
+      "posted_at": "2026-08-30T00:17:48.821376+00:00",
+      "score": 146.0
+    },
+    {
+      "key": "shopee:22497773735",
+      "marketplace": "shopee",
+      "id": "22497773735",
+      "title": "Mochila Vlagem Feminina Masculinas Multifuncional Reforçada Impermeável Expansível Mochila Notebook Antifurto USB",
+      "title_norm": "mochila vlagem feminina masculinas multifuncional reforcada impermeavel expansivel mochila notebook antifurto usb",
+      "url": "https://shopee.com.br/product/1345043704/22497773735",
+      "affiliate_url": "https://s.shopee.com.br/gPeaNlamB",
+      "category": "Romantic Crown 02",
+      "bucket": "informatica",
+      "posted_ts": 1788049004,
+      "posted_at": "2026-08-30T00:16:44.698133+00:00",
+      "score": 146.0
+    },
+    {
       "key": "shopee:21699200208",
       "marketplace": "shopee",
       "id": "21699200208",
@@ -13957,49 +13999,7 @@
       "posted_ts": 1787289403,
       "posted_at": "2026-08-21T05:16:43.269554+00:00",
       "score": 107.7
-    },
-    {
-      "key": "shopee:23699130927",
-      "marketplace": "shopee",
-      "id": "23699130927",
-      "title": "Kit Bloco Adesivo 400 Folhas Canetas Coloridas Marca Texto Ponta Fina Material Escolar Adesivo Fofo",
-      "title_norm": "kit bloco adesivo 400 folhas canetas coloridas marca texto ponta fina material escolar adesivo fofo",
-      "url": "https://shopee.com.br/product/368541019/23699130927",
-      "affiliate_url": "https://s.shopee.com.br/2BEFLXBZBr",
-      "category": "Gamernet",
-      "bucket": "gamernet",
-      "posted_ts": 1787286068,
-      "posted_at": "2026-08-21T04:21:08.210584+00:00",
-      "score": 47.73
-    },
-    {
-      "key": "shopee:54308939353",
-      "marketplace": "shopee",
-      "id": "54308939353",
-      "title": "Kit 2 Moldeira Protetor Bucal Ranger Dos Dentes bruxismo + Estojo",
-      "title_norm": "kit 2 moldeira protetor bucal ranger dos dentes bruxismo estojo",
-      "url": "https://shopee.com.br/product/666678555/54308939353",
-      "affiliate_url": "https://s.shopee.com.br/3LQCjg6v1T",
-      "category": "PRISMART SHOP",
-      "bucket": "prismart_shop",
-      "posted_ts": 1787286004,
-      "posted_at": "2026-08-21T04:20:04.216867+00:00",
-      "score": 48.13
-    },
-    {
-      "key": "shopee:58213071316",
-      "marketplace": "shopee",
-      "id": "58213071316",
-      "title": "Kit Reparo de Pneus Sem Câmara 11 Peças Estojo Portátil com Brocas Aplicadores e Filetes de Borracha",
-      "title_norm": "kit reparo de pneus sem camara 11 pecas estojo portatil com brocas aplicadores e filetes de borracha",
-      "url": "https://shopee.com.br/product/1705618260/58213071316",
-      "affiliate_url": "https://s.shopee.com.br/1VyYYJDtkA",
-      "category": "VidaOutlet",
-      "bucket": "vidaoutlet",
-      "posted_ts": 1787285940,
-      "posted_at": "2026-08-21T04:19:00.341888+00:00",
-      "score": 91.79
     }
   ],
-  "updated_at": "2026-08-29T23:21:09.920798+00:00"
+  "updated_at": "2026-08-30T00:18:52.865199+00:00"
 }
