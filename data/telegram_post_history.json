@@ -1,6 +1,20 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB7304556746",
+      "marketplace": "mercadolivre",
+      "id": "MLB7304556746",
+      "title": "Comedouro Dispenser De Ração Automático 8l Para Cães Gatos Cor Comedouro Automatico Vermelho",
+      "title_norm": "comedouro dispenser de racao automatico 8l para caes gatos cor comedouro automatico vermelho",
+      "url": "https://www.mercadolivre.com.br/p/MLB76168566?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB76168566?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Pet",
+      "bucket": "pet",
+      "posted_ts": 1788066170,
+      "posted_at": "2026-08-30T05:02:50.378951+00:00",
+      "score": 138.47
+    },
+    {
       "key": "shopee:26444120861",
       "marketplace": "shopee",
       "id": "26444120861",
@@ -13985,21 +13999,7 @@
       "posted_ts": 1787318205,
       "posted_at": "2026-08-21T13:16:45.734290+00:00",
       "score": 105.16
-    },
-    {
-      "key": "shopee:58254751043",
-      "marketplace": "shopee",
-      "id": "58254751043",
-      "title": "Bota Texana Feminina Cano Alto Com Bordado Exclusivo Estilo e Praticidade",
-      "title_norm": "bota texana feminina cano alto com bordado exclusivo estilo e praticidade",
-      "url": "https://shopee.com.br/product/1671777207/58254751043",
-      "affiliate_url": "https://s.shopee.com.br/6L3oqA5ywX",
-      "category": "Bella Passo Shoes",
-      "bucket": "calcados",
-      "posted_ts": 1787314675,
-      "posted_at": "2026-08-21T12:17:55.005029+00:00",
-      "score": 59.17
     }
   ],
-  "updated_at": "2026-08-30T04:21:04.624641+00:00"
+  "updated_at": "2026-08-30T05:02:50.378970+00:00"
 }
