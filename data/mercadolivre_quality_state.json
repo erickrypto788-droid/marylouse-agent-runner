@@ -1,6 +1,21 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB7174659716",
+      "product_id": "MLB7174659716",
+      "catalog_product_id": "MLB59103594",
+      "item_id": "MLB7174659716",
+      "url": "https://www.mercadolivre.com.br/p/MLB59103594?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB59103594?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "smartphone xiaomi 15t 5g 12 12gb ram 512gb cinza",
+      "title": "Smartphone Xiaomi 15t 5g 12+12gb Ram + 512gb, Cinza",
+      "category": "Informática",
+      "price": 4509.0,
+      "score": 140.81,
+      "posted_ts": 1788055371,
+      "posted_at": "2026-08-30T02:02:51.078666+00:00"
+    },
+    {
       "key": "mercadolivre:MLB7150469040",
       "product_id": "MLB7150469040",
       "catalog_product_id": "MLB59821316",
@@ -436,5 +451,5 @@
       "posted_at": "2026-08-28T02:03:41.496137+00:00"
     }
   ],
-  "updated_at": "2026-08-30T01:03:49.089375+00:00"
+  "updated_at": "2026-08-30T02:02:51.078677+00:00"
 }

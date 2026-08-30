@@ -1,6 +1,20 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB7174659716",
+      "marketplace": "mercadolivre",
+      "id": "MLB7174659716",
+      "title": "Smartphone Xiaomi 15t 5g 12+12gb Ram + 512gb, Cinza",
+      "title_norm": "smartphone xiaomi 15t 5g 12 12gb ram 512gb cinza",
+      "url": "https://www.mercadolivre.com.br/p/MLB59103594?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB59103594?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Informática",
+      "bucket": "celulares",
+      "posted_ts": 1788055371,
+      "posted_at": "2026-08-30T02:02:51.064419+00:00",
+      "score": 140.81
+    },
+    {
       "key": "shopee:20597347457",
       "marketplace": "shopee",
       "id": "20597347457",
@@ -13985,21 +13999,7 @@
       "posted_ts": 1787293136,
       "posted_at": "2026-08-21T06:18:56.410335+00:00",
       "score": 83.08
-    },
-    {
-      "key": "shopee:23795570314",
-      "marketplace": "shopee",
-      "id": "23795570314",
-      "title": "Máscara Matizadora #todecacho Chocolate 300g",
-      "title_norm": "mascara matizadora todecacho chocolate 300g",
-      "url": "https://shopee.com.br/product/616222685/23795570314",
-      "affiliate_url": "https://s.shopee.com.br/BTB66SHS3",
-      "category": "Salon Line",
-      "bucket": "salon_line",
-      "posted_ts": 1787293072,
-      "posted_at": "2026-08-21T06:17:52.225268+00:00",
-      "score": 86.82
     }
   ],
-  "updated_at": "2026-08-30T01:20:59.154886+00:00"
+  "updated_at": "2026-08-30T02:02:51.064435+00:00"
 }
