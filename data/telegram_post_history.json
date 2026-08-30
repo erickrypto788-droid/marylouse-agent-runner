@@ -1,6 +1,20 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB4355666141",
+      "marketplace": "mercadolivre",
+      "id": "MLB4355666141",
+      "title": "Roteador Wifi Ac 1200 2 Flex",
+      "title_norm": "roteador wifi ac 1200 2 flex",
+      "url": "https://www.mercadolivre.com.br/p/MLB47353377?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB47353377?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Informática",
+      "bucket": "informatica",
+      "posted_ts": 1788109359,
+      "posted_at": "2026-08-30T17:02:39.801324+00:00",
+      "score": 88.0
+    },
+    {
       "key": "shopee:23299120397",
       "marketplace": "shopee",
       "id": "23299120397",
@@ -13985,21 +13999,7 @@
       "posted_ts": 1787372395,
       "posted_at": "2026-08-22T04:19:55.539602+00:00",
       "score": 114.27
-    },
-    {
-      "key": "shopee:58258185784",
-      "marketplace": "shopee",
-      "id": "58258185784",
-      "title": "Kit Com 2 Bermudas Tactel Elastano Masculina Bolso Com Zíper Academia, Treino e Praia",
-      "title_norm": "kit com 2 bermudas tactel elastano masculina bolso com ziper academia treino e praia",
-      "url": "https://shopee.com.br/product/222735813/58258185784",
-      "affiliate_url": "https://s.shopee.com.br/20uqk7luGz",
-      "category": "Zerun Fitness",
-      "bucket": "zerun_fitness",
-      "posted_ts": 1787372331,
-      "posted_at": "2026-08-22T04:18:51.374718+00:00",
-      "score": 119.77
     }
   ],
-  "updated_at": "2026-08-30T16:21:07.988403+00:00"
+  "updated_at": "2026-08-30T17:02:39.801339+00:00"
 }

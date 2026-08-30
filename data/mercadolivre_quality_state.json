@@ -1,6 +1,21 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB4355666141",
+      "product_id": "MLB4355666141",
+      "catalog_product_id": "MLB47353377",
+      "item_id": "MLB4355666141",
+      "url": "https://www.mercadolivre.com.br/p/MLB47353377?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB47353377?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "roteador wifi ac 1200 2 flex",
+      "title": "Roteador Wifi Ac 1200 2 Flex",
+      "category": "Informática",
+      "price": 184.9,
+      "score": 88.0,
+      "posted_ts": 1788109359,
+      "posted_at": "2026-08-30T17:02:39.815430+00:00"
+    },
+    {
       "key": "mercadolivre:MLB7158074090",
       "product_id": "MLB7158074090",
       "catalog_product_id": "MLB38338044",
@@ -584,37 +599,7 @@
       "score": 113.0,
       "posted_ts": 1787943763,
       "posted_at": "2026-08-28T19:02:43.376455+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB5020657947",
-      "product_id": "MLB5020657947",
-      "catalog_product_id": "MLB48332910",
-      "item_id": "MLB5020657947",
-      "url": "https://www.mercadolivre.com.br/p/MLB48332910?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB48332910?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "redmi note 14s cor preto",
-      "title": "Redmi Note 14s Cor Preto",
-      "category": "Informática",
-      "price": 1548.0,
-      "score": 108.0,
-      "posted_ts": 1787933038,
-      "posted_at": "2026-08-28T16:03:58.213508+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB4450293643",
-      "product_id": "MLB4450293643",
-      "catalog_product_id": "MLB29728116",
-      "item_id": "MLB4450293643",
-      "url": "https://www.mercadolivre.com.br/p/MLB29728116?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB29728116?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "xiaomi poco poco x6 5g dual sim 256gb 12gb branco",
-      "title": "Xiaomi POCO Poco X6 5G Dual SIM 256GB/12GB Branco",
-      "category": "Informática",
-      "price": 3500.0,
-      "score": 124.0,
-      "posted_ts": 1787932973,
-      "posted_at": "2026-08-28T16:02:53.889512+00:00"
     }
   ],
-  "updated_at": "2026-08-30T15:02:48.145846+00:00"
+  "updated_at": "2026-08-30T17:02:39.815441+00:00"
 }
