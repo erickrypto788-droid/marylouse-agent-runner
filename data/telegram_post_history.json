@@ -1,6 +1,48 @@
 {
   "posts": [
     {
+      "key": "shopee:23893703937",
+      "marketplace": "shopee",
+      "id": "23893703937",
+      "title": "Babuche Adulto Masculino E Feminino Personalizado",
+      "title_norm": "babuche adulto masculino e feminino personalizado",
+      "url": "https://shopee.com.br/product/1464624047/23893703937",
+      "affiliate_url": "https://s.shopee.com.br/8AVhBBH7n0",
+      "category": "Passinhos Mágicos ",
+      "bucket": "passinhos_magicos",
+      "posted_ts": 1788081537,
+      "posted_at": "2026-08-30T09:18:57.882698+00:00",
+      "score": 99.93
+    },
+    {
+      "key": "shopee:58257600358",
+      "marketplace": "shopee",
+      "id": "58257600358",
+      "title": "Sapatenis Tenis kinit masculino  Palmilhas P.U GEL Estiloso para todas ocasiões",
+      "title_norm": "sapatenis tenis kinit masculino palmilhas p u gel estiloso para todas ocasioes",
+      "url": "https://shopee.com.br/product/1783515830/58257600358",
+      "affiliate_url": "https://s.shopee.com.br/7KwaBeFxzh",
+      "category": "IG Ferreira Calçados",
+      "bucket": "calcados",
+      "posted_ts": 1788081468,
+      "posted_at": "2026-08-30T09:17:48.019975+00:00",
+      "score": 111.35
+    },
+    {
+      "key": "shopee:43981426348",
+      "marketplace": "shopee",
+      "id": "43981426348",
+      "title": "Tenis Masculino Escolar Academia Corrida Original FREEDOM Corrida Caminhada Lançamento EXCLUSIVO CINZA GRAVITE e LARANJA",
+      "title_norm": "tenis masculino escolar academia corrida original freedom corrida caminhada lancamento exclusivo cinza gravite e laranja",
+      "url": "https://shopee.com.br/product/387523771/43981426348",
+      "affiliate_url": "https://s.shopee.com.br/2VrJATbFjw",
+      "category": "Cirandinha Shoes",
+      "bucket": "calcados",
+      "posted_ts": 1788081400,
+      "posted_at": "2026-08-30T09:16:40.664275+00:00",
+      "score": 125.02
+    },
+    {
       "key": "mercadolivre:MLB6711242070",
       "marketplace": "mercadolivre",
       "id": "MLB6711242070",
@@ -13957,49 +13999,7 @@
       "posted_ts": 1787336418,
       "posted_at": "2026-08-21T18:20:18.712499+00:00",
       "score": 67.3
-    },
-    {
-      "key": "shopee:25981346484",
-      "marketplace": "shopee",
-      "id": "25981346484",
-      "title": "Disney100 anos Flying House compatível lego friends city menina Crianças brinquedos educativos blocos de construç",
-      "title_norm": "disney100 anos flying house compativel lego friends city menina criancas brinquedos educativos blocos de construc",
-      "url": "https://shopee.com.br/product/1096685653/25981346484",
-      "affiliate_url": "https://s.shopee.com.br/AKZwjwhLSV",
-      "category": "zmh001.br",
-      "bucket": "zmh001_br",
-      "posted_ts": 1787336346,
-      "posted_at": "2026-08-21T18:19:06.974137+00:00",
-      "score": 67.79
-    },
-    {
-      "key": "shopee:58200625535",
-      "marketplace": "shopee",
-      "id": "58200625535",
-      "title": "Carrinho Controle Remoto Recarregável 4x4 Off Road Recarregável USB 1:18 Brinquedo Infantil Menino",
-      "title_norm": "carrinho controle remoto recarregavel 4x4 off road recarregavel usb 1 18 brinquedo infantil menino",
-      "url": "https://shopee.com.br/product/1537682554/58200625535",
-      "affiliate_url": "https://s.shopee.com.br/LmapZWt8M",
-      "category": "Polibrinq",
-      "bucket": "polibrinq",
-      "posted_ts": 1787336275,
-      "posted_at": "2026-08-21T18:17:55.917205+00:00",
-      "score": 70.85
-    },
-    {
-      "key": "shopee:22598940946",
-      "marketplace": "shopee",
-      "id": "22598940946",
-      "title": "Camiseta Infantil Hot Wheels em tecido Dryfit",
-      "title_norm": "camiseta infantil hot wheels em tecido dryfit",
-      "url": "https://shopee.com.br/product/1634196427/22598940946",
-      "affiliate_url": "https://s.shopee.com.br/8plADToZH1",
-      "category": "StampKids",
-      "bucket": "stampkids",
-      "posted_ts": 1787336211,
-      "posted_at": "2026-08-21T18:16:51.463071+00:00",
-      "score": 78.61
     }
   ],
-  "updated_at": "2026-08-30T09:06:10.350672+00:00"
+  "updated_at": "2026-08-30T09:18:57.882736+00:00"
 }
