@@ -1,6 +1,48 @@
 {
   "posts": [
     {
+      "key": "shopee:23599239610",
+      "marketplace": "shopee",
+      "id": "23599239610",
+      "title": "Sandália Feminina Conforto Premium Com Detalhe Dourado Elegante | Casual E Sofisticada GABI",
+      "title_norm": "sandalia feminina conforto premium com detalhe dourado elegante casual e sofisticada gabi",
+      "url": "https://shopee.com.br/product/1648608636/23599239610",
+      "affiliate_url": "https://s.shopee.com.br/19zWIb3pM",
+      "category": "cravorosa267",
+      "bucket": "calcados",
+      "posted_ts": 1788085243,
+      "posted_at": "2026-08-30T10:20:43.834011+00:00",
+      "score": 118.02
+    },
+    {
+      "key": "shopee:22294416370",
+      "marketplace": "shopee",
+      "id": "22294416370",
+      "title": "Sandália Feminina Asa Delta Rasteira Conforto Medalhas Douradas com Fivela Reveillon",
+      "title_norm": "sandalia feminina asa delta rasteira conforto medalhas douradas com fivela reveillon",
+      "url": "https://shopee.com.br/product/1022219186/22294416370",
+      "affiliate_url": "https://s.shopee.com.br/2VrKUtRXkx",
+      "category": "Eudorashoes",
+      "bucket": "calcados",
+      "posted_ts": 1788085160,
+      "posted_at": "2026-08-30T10:19:20.160753+00:00",
+      "score": 125.9
+    },
+    {
+      "key": "shopee:22799040705",
+      "marketplace": "shopee",
+      "id": "22799040705",
+      "title": "Sandália Papete Feminina Ortopédica com Elástico Confortável Moderna com Palmilha Massageadora",
+      "title_norm": "sandalia papete feminina ortopedica com elastico confortavel moderna com palmilha massageadora",
+      "url": "https://shopee.com.br/product/420347720/22799040705",
+      "affiliate_url": "https://s.shopee.com.br/50YfTU4xsq",
+      "category": "Ploomer Premium",
+      "bucket": "pet",
+      "posted_ts": 1788085004,
+      "posted_at": "2026-08-30T10:16:44.831963+00:00",
+      "score": 128.02
+    },
+    {
       "key": "mercadolivre:MLB7059191208",
       "marketplace": "mercadolivre",
       "id": "MLB7059191208",
@@ -13957,49 +13999,7 @@
       "posted_ts": 1787343612,
       "posted_at": "2026-08-21T20:20:12.953108+00:00",
       "score": 53.72
-    },
-    {
-      "key": "shopee:16389928134",
-      "marketplace": "shopee",
-      "id": "16389928134",
-      "title": "Capa de Bebe Conforto Bebê + Capota Solar + Jogo Protetor de Cinto Serve em Todas as Marcas",
-      "title_norm": "capa de bebe conforto bebe capota solar jogo protetor de cinto serve em todas as marcas",
-      "url": "https://shopee.com.br/product/762363442/16389928134",
-      "affiliate_url": "https://s.shopee.com.br/6q05y2WQaG",
-      "category": "Pinheiro Baby",
-      "bucket": "pinheiro_baby",
-      "posted_ts": 1787343534,
-      "posted_at": "2026-08-21T20:18:54.969900+00:00",
-      "score": 60.68
-    },
-    {
-      "key": "shopee:21399830362",
-      "marketplace": "shopee",
-      "id": "21399830362",
-      "title": "Fraldas Huggies 100 Unidades P M G XG XXG/ 💰 Preço Imperdível",
-      "title_norm": "fraldas huggies 100 unidades p m g xg xxg preco imperdivel",
-      "url": "https://shopee.com.br/product/1507143621/21399830362",
-      "affiliate_url": "https://s.shopee.com.br/6L3o6pfcOb",
-      "category": "recantodasfraldas",
-      "bucket": "fraldas",
-      "posted_ts": 1787343471,
-      "posted_at": "2026-08-21T20:17:51.049428+00:00",
-      "score": 78.67
-    },
-    {
-      "key": "shopee:22597466224",
-      "marketplace": "shopee",
-      "id": "22597466224",
-      "title": "Fraldas Descartáveis Enzzo Baby Pacotão -Atacado RN /P / M/ G/ XG/ XXG - Alta Absorção Confortável .",
-      "title_norm": "fraldas descartaveis enzzo baby pacotao atacado rn p m g xg xxg alta absorcao confortavel",
-      "url": "https://shopee.com.br/product/1081456195/22597466224",
-      "affiliate_url": "https://s.shopee.com.br/3qMUOWLiIX",
-      "category": "NX Distribuidora",
-      "bucket": "fraldas",
-      "posted_ts": 1787343404,
-      "posted_at": "2026-08-21T20:16:44.359852+00:00",
-      "score": 78.71
     }
   ],
-  "updated_at": "2026-08-30T10:07:37.957008+00:00"
+  "updated_at": "2026-08-30T10:20:43.834025+00:00"
 }
