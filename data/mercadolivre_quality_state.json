@@ -1,6 +1,36 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB6491728674",
+      "product_id": "MLB6491728674",
+      "catalog_product_id": "MLB66945649",
+      "item_id": "MLB6491728674",
+      "url": "https://www.mercadolivre.com.br/p/MLB66945649?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB66945649?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "racao gato estimacat premium adulto sabor carne 1kg",
+      "title": "Ração Gato Estimacat Premium Adulto Sabor Carne 1kg",
+      "category": "Pet",
+      "price": 26.36,
+      "score": 119.83,
+      "posted_ts": 1788127398,
+      "posted_at": "2026-08-30T22:03:18.072041+00:00"
+    },
+    {
+      "key": "mercadolivre:MLB4694661245",
+      "product_id": "MLB4694661245",
+      "catalog_product_id": "MLB67529462",
+      "item_id": "MLB4694661245",
+      "url": "https://www.mercadolivre.com.br/p/MLB67529462?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB67529462?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "comedouro elevado duplo racao gato porcelana acrilico 190ml porta racao gato comedouro rosa",
+      "title": "Comedouro Elevado Duplo Ração Gato Porcelana Acrilico 190ml Porta Racao Gato Comedouro Rosa",
+      "category": "Pet",
+      "price": 49.9,
+      "score": 146.91,
+      "posted_ts": 1788127334,
+      "posted_at": "2026-08-30T22:02:14.091637+00:00"
+    },
+    {
       "key": "mercadolivre:MLB4657112471",
       "product_id": "MLB4657112471",
       "catalog_product_id": "MLB61421090",
@@ -646,5 +676,5 @@
       "posted_at": "2026-08-28T23:06:16.880421+00:00"
     }
   ],
-  "updated_at": "2026-08-30T19:03:39.996031+00:00"
+  "updated_at": "2026-08-30T22:03:18.072052+00:00"
 }

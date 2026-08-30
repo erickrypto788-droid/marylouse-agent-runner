@@ -1,6 +1,34 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB6491728674",
+      "marketplace": "mercadolivre",
+      "id": "MLB6491728674",
+      "title": "Ração Gato Estimacat Premium Adulto Sabor Carne 1kg",
+      "title_norm": "racao gato estimacat premium adulto sabor carne 1kg",
+      "url": "https://www.mercadolivre.com.br/p/MLB66945649?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB66945649?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Pet",
+      "bucket": "pet",
+      "posted_ts": 1788127398,
+      "posted_at": "2026-08-30T22:03:18.058307+00:00",
+      "score": 119.83
+    },
+    {
+      "key": "mercadolivre:MLB4694661245",
+      "marketplace": "mercadolivre",
+      "id": "MLB4694661245",
+      "title": "Comedouro Elevado Duplo Ração Gato Porcelana Acrilico 190ml Porta Racao Gato Comedouro Rosa",
+      "title_norm": "comedouro elevado duplo racao gato porcelana acrilico 190ml porta racao gato comedouro rosa",
+      "url": "https://www.mercadolivre.com.br/p/MLB67529462?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB67529462?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Pet",
+      "bucket": "pet",
+      "posted_ts": 1788127334,
+      "posted_at": "2026-08-30T22:02:14.077523+00:00",
+      "score": 146.91
+    },
+    {
       "key": "shopee:18677592848",
       "marketplace": "shopee",
       "id": "18677592848",
@@ -13971,35 +13999,7 @@
       "posted_ts": 1787389654,
       "posted_at": "2026-08-22T09:07:34.130244+00:00",
       "score": 88.0
-    },
-    {
-      "key": "mercadolivre:MLB6965035168",
-      "marketplace": "mercadolivre",
-      "id": "MLB6965035168",
-      "title": "Colete Academia Dry Fit Feminino Leve Cor Branco Tamanho P",
-      "title_norm": "colete academia dry fit feminino leve cor branco tamanho p",
-      "url": "https://www.mercadolivre.com.br/p/MLB73581266?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB73581266?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "category": "Moda Feminina",
-      "bucket": "moda_feminina",
-      "posted_ts": 1787389536,
-      "posted_at": "2026-08-22T09:05:36.100929+00:00",
-      "score": 91.95
-    },
-    {
-      "key": "mercadolivre:MLB6596282078",
-      "marketplace": "mercadolivre",
-      "id": "MLB6596282078",
-      "title": "Saída Praia Tule Kimono Amarração Short Feminino Verão Laranja M",
-      "title_norm": "saida praia tule kimono amarracao short feminino verao laranja m",
-      "url": "https://www.mercadolivre.com.br/p/MLB67745838?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB67745838?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "category": "Moda Feminina",
-      "bucket": "pet",
-      "posted_ts": 1787389416,
-      "posted_at": "2026-08-22T09:03:36.850198+00:00",
-      "score": 113.0
     }
   ],
-  "updated_at": "2026-08-30T21:20:53.459276+00:00"
+  "updated_at": "2026-08-30T22:03:18.058324+00:00"
 }
