@@ -1,6 +1,21 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB7150469040",
+      "product_id": "MLB7150469040",
+      "catalog_product_id": "MLB59821316",
+      "item_id": "MLB7150469040",
+      "url": "https://www.mercadolivre.com.br/p/MLB59821316?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB59821316?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "tv box rbi smart tv box 4k prosb 2000 preto 5 geracao wi fi hdmi",
+      "title": "TV Box RBI Smart TV Box 4K PROSB-2000 Preto 5ª Geração Wi-Fi HDMI",
+      "category": "Pet",
+      "price": 176.9,
+      "score": 113.0,
+      "posted_ts": 1788051829,
+      "posted_at": "2026-08-30T01:03:49.089358+00:00"
+    },
+    {
       "key": "mercadolivre:MLB5041528061",
       "product_id": "MLB5041528061",
       "catalog_product_id": "MLB43810473",
@@ -419,37 +434,7 @@
       "score": 113.0,
       "posted_ts": 1787882621,
       "posted_at": "2026-08-28T02:03:41.496137+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB7420274710",
-      "product_id": "MLB7420274710",
-      "catalog_product_id": "MLB74419020",
-      "item_id": "MLB7420274710",
-      "url": "https://www.mercadolivre.com.br/p/MLB74419020?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB74419020?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "xiaomi redmi note 15",
-      "title": "Xiaomi Redmi Note 15",
-      "category": "Informática",
-      "price": 1611.0,
-      "score": 124.0,
-      "posted_ts": 1787871831,
-      "posted_at": "2026-08-27T23:03:51.207361+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB5919313906",
-      "product_id": "MLB5919313906",
-      "catalog_product_id": "MLB24099360",
-      "item_id": "MLB5919313906",
-      "url": "https://www.mercadolivre.com.br/p/MLB24099360?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB24099360?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "carregador portatil 20000mah bahrein power bank universal power bank carga rapida com display bahrein compativel com todos celulares iphone android ios apple xiaomi samsung motorola",
-      "title": "Carregador Portátil 20000mAh Bahrein Power Bank Universal Power Bank Carga Rápida Com Display Bahrein Compatível Com Todos Celulares Iphone Android IOS apple xiaomi Samsung Motorola",
-      "category": "Informática",
-      "price": 66.9,
-      "score": 149.86,
-      "posted_ts": 1787871766,
-      "posted_at": "2026-08-27T23:02:46.993114+00:00"
     }
   ],
-  "updated_at": "2026-08-29T23:02:30.418405+00:00"
+  "updated_at": "2026-08-30T01:03:49.089375+00:00"
 }

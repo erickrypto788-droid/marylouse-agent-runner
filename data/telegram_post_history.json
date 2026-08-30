@@ -1,6 +1,20 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB7150469040",
+      "marketplace": "mercadolivre",
+      "id": "MLB7150469040",
+      "title": "TV Box RBI Smart TV Box 4K PROSB-2000 Preto 5ª Geração Wi-Fi HDMI",
+      "title_norm": "tv box rbi smart tv box 4k prosb 2000 preto 5 geracao wi fi hdmi",
+      "url": "https://www.mercadolivre.com.br/p/MLB59821316?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB59821316?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Pet",
+      "bucket": "pet",
+      "posted_ts": 1788051829,
+      "posted_at": "2026-08-30T01:03:49.076661+00:00",
+      "score": 113.0
+    },
+    {
       "key": "shopee:22693513091",
       "marketplace": "shopee",
       "id": "22693513091",
@@ -13985,21 +13999,7 @@
       "posted_ts": 1787289467,
       "posted_at": "2026-08-21T05:17:47.638878+00:00",
       "score": 107.14
-    },
-    {
-      "key": "shopee:58252147093",
-      "marketplace": "shopee",
-      "id": "58252147093",
-      "title": "Monitor Gamer Mancer Horizon Z2S, 21.5 Pol, VA, FHD, 1ms, 100Hz, HDMI/VGA, MCR-HZN21S-BL3",
-      "title_norm": "monitor gamer mancer horizon z2s 21 5 pol va fhd 1ms 100hz hdmi vga mcr hzn21s bl3",
-      "url": "https://shopee.com.br/product/627750190/58252147093",
-      "affiliate_url": "https://s.shopee.com.br/9pdgXkXQuQ",
-      "category": "Pichau",
-      "bucket": "informatica",
-      "posted_ts": 1787289403,
-      "posted_at": "2026-08-21T05:16:43.269554+00:00",
-      "score": 107.7
     }
   ],
-  "updated_at": "2026-08-30T00:18:52.865199+00:00"
+  "updated_at": "2026-08-30T01:03:49.076680+00:00"
 }
