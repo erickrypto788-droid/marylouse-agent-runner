@@ -1,6 +1,48 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB5331790354",
+      "marketplace": "mercadolivre",
+      "id": "MLB5331790354",
+      "title": "Air fryer Br House Fritadeira ELETRICA AIR FRYER Air Fryer Family preto",
+      "title_norm": "air fryer br house fritadeira eletrica air fryer air fryer family preto",
+      "url": "https://www.mercadolivre.com.br/p/MLB45458466?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB45458466?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Casa e Cozinha",
+      "bucket": "casa_cozinha",
+      "posted_ts": 1788087951,
+      "posted_at": "2026-08-30T11:05:51.222122+00:00",
+      "score": 113.0
+    },
+    {
+      "key": "mercadolivre:MLB5428097608",
+      "marketplace": "mercadolivre",
+      "id": "MLB5428097608",
+      "title": "Rack Para Sala De Estar Rack Para Tv C/ Prateleira Flex Cor Off-white",
+      "title_norm": "rack para sala de estar rack para tv c prateleira flex cor off white",
+      "url": "https://www.mercadolivre.com.br/p/MLB39369998?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB39369998?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Casa e Cozinha",
+      "bucket": "casa_e_cozinha",
+      "posted_ts": 1788087887,
+      "posted_at": "2026-08-30T11:04:47.012940+00:00",
+      "score": 141.15
+    },
+    {
+      "key": "mercadolivre:MLB6738465128",
+      "marketplace": "mercadolivre",
+      "id": "MLB6738465128",
+      "title": "Cadeira Massagem Escritorio Cadeira Escritorio Presidente Cor Âmbar",
+      "title_norm": "cadeira massagem escritorio cadeira escritorio presidente cor ambar",
+      "url": "https://www.mercadolivre.com.br/p/MLB59413555?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB59413555?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Casa e Cozinha",
+      "bucket": "casa_e_cozinha",
+      "posted_ts": 1788087822,
+      "posted_at": "2026-08-30T11:03:42.799228+00:00",
+      "score": 162.06
+    },
+    {
       "key": "shopee:23599239610",
       "marketplace": "shopee",
       "id": "23599239610",
@@ -13957,49 +13999,7 @@
       "posted_ts": 1787347074,
       "posted_at": "2026-08-21T21:17:54.992952+00:00",
       "score": 91.47
-    },
-    {
-      "key": "shopee:23594069255",
-      "marketplace": "shopee",
-      "id": "23594069255",
-      "title": "Bolsa Transversal Com Alça Regulável Feminina Médio Versátil Moda Crossbody",
-      "title_norm": "bolsa transversal com alca regulavel feminina medio versatil moda crossbody",
-      "url": "https://shopee.com.br/product/1284795277/23594069255",
-      "affiliate_url": "https://s.shopee.com.br/904ac8vUmZ",
-      "category": "DIVA IMPORT",
-      "bucket": "bolsas",
-      "posted_ts": 1787347003,
-      "posted_at": "2026-08-21T21:16:43.326559+00:00",
-      "score": 98.52
-    },
-    {
-      "key": "shopee:19098318298",
-      "marketplace": "shopee",
-      "id": "19098318298",
-      "title": "Berço Co-Bed Balanço Portátil Moises Mosqueteiro Infantil Trava de Segurança Regulável",
-      "title_norm": "berco co bed balanco portatil moises mosqueteiro infantil trava de seguranca regulavel",
-      "url": "https://shopee.com.br/product/461736131/19098318298",
-      "affiliate_url": "https://s.shopee.com.br/40ftKYAMUH",
-      "category": "Versátil Varejo",
-      "bucket": "versatil_varejo",
-      "posted_ts": 1787343676,
-      "posted_at": "2026-08-21T20:21:16.875158+00:00",
-      "score": 49.8
-    },
-    {
-      "key": "shopee:21820451014",
-      "marketplace": "shopee",
-      "id": "21820451014",
-      "title": "Kit 2 Baldes Lenços Umedecidos Fiesta + Refil (1200 Toalhas)",
-      "title_norm": "kit 2 baldes lencos umedecidos fiesta refil 1200 toalhas",
-      "url": "https://shopee.com.br/product/541585641/21820451014",
-      "affiliate_url": "https://s.shopee.com.br/904aY1AhrL",
-      "category": "Maxi Confort",
-      "bucket": "maxi_confort",
-      "posted_ts": 1787343612,
-      "posted_at": "2026-08-21T20:20:12.953108+00:00",
-      "score": 53.72
     }
   ],
-  "updated_at": "2026-08-30T10:20:43.834025+00:00"
+  "updated_at": "2026-08-30T11:05:51.222139+00:00"
 }
