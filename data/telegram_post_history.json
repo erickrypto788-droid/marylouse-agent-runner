@@ -1,6 +1,20 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB5495982148",
+      "marketplace": "mercadolivre",
+      "id": "MLB5495982148",
+      "title": "Barbeador Costas Masculino Traseiro Dobrável Aparador Pelos",
+      "title_norm": "barbeador costas masculino traseiro dobravel aparador pelos",
+      "url": "https://www.mercadolivre.com.br/p/MLB51434487?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB51434487?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Beleza",
+      "bucket": "beleza",
+      "posted_ts": 1788098564,
+      "posted_at": "2026-08-30T14:02:44.135999+00:00",
+      "score": 179.3
+    },
+    {
       "key": "shopee:51815625779",
       "marketplace": "shopee",
       "id": "51815625779",
@@ -13985,21 +13999,7 @@
       "posted_ts": 1787361631,
       "posted_at": "2026-08-22T01:20:31.372945+00:00",
       "score": 81.27
-    },
-    {
-      "key": "shopee:58258457260",
-      "marketplace": "shopee",
-      "id": "58258457260",
-      "title": "Kit Pele de Porcelana com Sérum de Arroz e Olhos de Gueixa Kokeshi",
-      "title_norm": "kit pele de porcelana com serum de arroz e olhos de gueixa kokeshi",
-      "url": "https://shopee.com.br/product/395166866/58258457260",
-      "affiliate_url": "https://s.shopee.com.br/3LQE8CmwP2",
-      "category": "KOKESHI OFICIAL",
-      "bucket": "kokeshi_oficial",
-      "posted_ts": 1787361565,
-      "posted_at": "2026-08-22T01:19:25.017438+00:00",
-      "score": 86.46
     }
   ],
-  "updated_at": "2026-08-30T13:21:01.552942+00:00"
+  "updated_at": "2026-08-30T14:02:44.136019+00:00"
 }
