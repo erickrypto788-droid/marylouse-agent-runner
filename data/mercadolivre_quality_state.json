@@ -1,6 +1,36 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB4864941673",
+      "product_id": "MLB4864941673",
+      "catalog_product_id": "MLB51893724",
+      "item_id": "MLB4864941673",
+      "url": "https://www.mercadolivre.com.br/p/MLB51893724?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB51893724?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "baba eletronica hellobaby hb66pro monitor bebe 3 2 white",
+      "title": "Babá Eletrônica Hellobaby Hb66pro Monitor Bebê 3.2 White",
+      "category": "Informática",
+      "price": 386.56,
+      "score": 86.0,
+      "posted_ts": 1788131008,
+      "posted_at": "2026-08-30T23:03:28.589590+00:00"
+    },
+    {
+      "key": "mercadolivre:MLB6589686808",
+      "product_id": "MLB6589686808",
+      "catalog_product_id": "MLB40540370",
+      "item_id": "MLB6589686808",
+      "url": "https://www.mercadolivre.com.br/p/MLB40540370?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB40540370?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "tchauzinho fralda melhoramentos",
+      "title": "Tchauzinho, Fralda! - Melhoramentos",
+      "category": "Mãe e Bebê",
+      "price": 48.4,
+      "score": 128.8,
+      "posted_ts": 1788130944,
+      "posted_at": "2026-08-30T23:02:24.681992+00:00"
+    },
+    {
       "key": "mercadolivre:MLB6491728674",
       "product_id": "MLB6491728674",
       "catalog_product_id": "MLB66945649",
@@ -676,5 +706,5 @@
       "posted_at": "2026-08-28T23:06:16.880421+00:00"
     }
   ],
-  "updated_at": "2026-08-30T22:03:18.072052+00:00"
+  "updated_at": "2026-08-30T23:03:28.589603+00:00"
 }
