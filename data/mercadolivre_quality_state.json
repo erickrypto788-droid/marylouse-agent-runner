@@ -1,6 +1,36 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB4832226667",
+      "product_id": "MLB4832226667",
+      "catalog_product_id": "MLB74626445",
+      "item_id": "MLB4832226667",
+      "url": "https://www.mercadolivre.com.br/p/MLB74626445?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB74626445?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "saida praia saia feminina texturizada moda verao tendencias amarelo p",
+      "title": "Saída Praia Saia Feminina Texturizada Moda Verão Tendências Amarelo P",
+      "category": "Moda Feminina",
+      "price": 55.71,
+      "score": 79.13,
+      "posted_ts": 1788145473,
+      "posted_at": "2026-08-31T03:04:33.290390+00:00"
+    },
+    {
+      "key": "mercadolivre:MLB6944718148",
+      "product_id": "MLB6944718148",
+      "catalog_product_id": "MLB73198693",
+      "item_id": "MLB6944718148",
+      "url": "https://www.mercadolivre.com.br/p/MLB73198693?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB73198693?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "regata feminina modeladora compressao alta sustentacao slim cor preto tamanho gg",
+      "title": "Regata Feminina Modeladora Compressão Alta Sustentação Slim Cor Preto Tamanho GG",
+      "category": "Moda Feminina",
+      "price": 159.9,
+      "score": 88.0,
+      "posted_ts": 1788145409,
+      "posted_at": "2026-08-31T03:03:29.243040+00:00"
+    },
+    {
       "key": "mercadolivre:MLB4623864041",
       "product_id": "MLB4623864041",
       "catalog_product_id": "MLB29684586",
@@ -751,5 +781,5 @@
       "posted_at": "2026-08-29T06:02:19.018358+00:00"
     }
   ],
-  "updated_at": "2026-08-31T02:06:17.197447+00:00"
+  "updated_at": "2026-08-31T03:04:33.290403+00:00"
 }

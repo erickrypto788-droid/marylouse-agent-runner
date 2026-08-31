@@ -1,6 +1,34 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB4832226667",
+      "marketplace": "mercadolivre",
+      "id": "MLB4832226667",
+      "title": "Saída Praia Saia Feminina Texturizada Moda Verão Tendências Amarelo P",
+      "title_norm": "saida praia saia feminina texturizada moda verao tendencias amarelo p",
+      "url": "https://www.mercadolivre.com.br/p/MLB74626445?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB74626445?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Moda Feminina",
+      "bucket": "moda_feminina",
+      "posted_ts": 1788145473,
+      "posted_at": "2026-08-31T03:04:33.277806+00:00",
+      "score": 79.13
+    },
+    {
+      "key": "mercadolivre:MLB6944718148",
+      "marketplace": "mercadolivre",
+      "id": "MLB6944718148",
+      "title": "Regata Feminina Modeladora Compressão Alta Sustentação Slim Cor Preto Tamanho GG",
+      "title_norm": "regata feminina modeladora compressao alta sustentacao slim cor preto tamanho gg",
+      "url": "https://www.mercadolivre.com.br/p/MLB73198693?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB73198693?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Moda Feminina",
+      "bucket": "moda_feminina",
+      "posted_ts": 1788145409,
+      "posted_at": "2026-08-31T03:03:29.229945+00:00",
+      "score": 88.0
+    },
+    {
       "key": "shopee:20499072504",
       "marketplace": "shopee",
       "id": "20499072504",
@@ -13971,35 +13999,7 @@
       "posted_ts": 1787408398,
       "posted_at": "2026-08-22T14:19:58.580508+00:00",
       "score": 109.07
-    },
-    {
-      "key": "shopee:20697751196",
-      "marketplace": "shopee",
-      "id": "20697751196",
-      "title": "Balança Bioimpedância Digital Profissional Suporta Até 140kg via Bluethooth",
-      "title_norm": "balanca bioimpedancia digital profissional suporta ate 140kg via bluethooth",
-      "url": "https://shopee.com.br/product/511410160/20697751196",
-      "affiliate_url": "https://s.shopee.com.br/AAGZ8L9rkn",
-      "category": "Universo Mix Utilidades",
-      "bucket": "universo_mix_utilidades",
-      "posted_ts": 1787408334,
-      "posted_at": "2026-08-22T14:18:54.412717+00:00",
-      "score": 114.51
-    },
-    {
-      "key": "shopee:22498461397",
-      "marketplace": "shopee",
-      "id": "22498461397",
-      "title": "AIQUE Nebulizador Portátil Mini Inalador Silencioso Ultra-sônico Automático para Adultos e Crianças",
-      "title_norm": "aique nebulizador portatil mini inalador silencioso ultra sonico automatico para adultos e criancas",
-      "url": "https://shopee.com.br/product/733998429/22498461397",
-      "affiliate_url": "https://s.shopee.com.br/1qbNM2GjCT",
-      "category": "TTcomercio",
-      "bucket": "saude",
-      "posted_ts": 1787408270,
-      "posted_at": "2026-08-22T14:17:50.239613+00:00",
-      "score": 139.27
     }
   ],
-  "updated_at": "2026-08-31T02:21:02.055413+00:00"
+  "updated_at": "2026-08-31T03:04:33.277825+00:00"
 }
