@@ -1,6 +1,20 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB4302548173",
+      "marketplace": "mercadolivre",
+      "id": "MLB4302548173",
+      "title": "Comedouro Automático Ração Aquário Terrario Peixe Tartaruga",
+      "title_norm": "comedouro automatico racao aquario terrario peixe tartaruga",
+      "url": "https://www.mercadolivre.com.br/p/MLB44164135?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB44164135?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Pet",
+      "bucket": "pet",
+      "posted_ts": 1788188578,
+      "posted_at": "2026-08-31T15:02:58.254011+00:00",
+      "score": 137.09
+    },
+    {
       "key": "shopee:19198016301",
       "marketplace": "shopee",
       "id": "19198016301",
@@ -13985,21 +13999,7 @@
       "posted_ts": 1787447802,
       "posted_at": "2026-08-23T01:16:42.788500+00:00",
       "score": 125.26
-    },
-    {
-      "key": "mercadolivre:MLB6711242070",
-      "marketplace": "mercadolivre",
-      "id": "MLB6711242070",
-      "title": "Bepantol Baby Pomada Assadura Bebe Hipoalergênica, 200g",
-      "title_norm": "bepantol baby pomada assadura bebe hipoalergenica 200g",
-      "url": "https://www.mercadolivre.com.br/p/MLB68578906?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB68578906?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "category": "Mãe e Bebê",
-      "bucket": "mae_e_bebe",
-      "posted_ts": 1787447241,
-      "posted_at": "2026-08-23T01:07:21.104492+00:00",
-      "score": 89.0
     }
   ],
-  "updated_at": "2026-08-31T14:18:58.751464+00:00"
+  "updated_at": "2026-08-31T15:02:58.254026+00:00"
 }
