@@ -1,6 +1,34 @@
 {
   "posts": [
     {
+      "key": "shopee:55913136538",
+      "marketplace": "shopee",
+      "id": "55913136538",
+      "title": "Jogo Grand Theft Auto VI Edição Standard - PS5",
+      "title_norm": "jogo grand theft auto vi edicao standard ps5",
+      "url": "https://shopee.com.br/product/413072701/55913136538",
+      "affiliate_url": "https://s.shopee.com.br/6Akf3bvtOt",
+      "category": "Webfones Express",
+      "bucket": "webfones_express",
+      "posted_ts": 1788203886,
+      "posted_at": "2026-08-31T19:18:06.612308+00:00",
+      "score": 20.5
+    },
+    {
+      "key": "shopee:23297354301",
+      "marketplace": "shopee",
+      "id": "23297354301",
+      "title": "Playstation 5 - Um Controle - 1 ou 2 Controles Jogo Aleatório + Headset brinde  - SEMI NOVO",
+      "title_norm": "playstation 5 um controle 1 ou 2 controles jogo aleatorio headset brinde semi novo",
+      "url": "https://shopee.com.br/product/544739858/23297354301",
+      "affiliate_url": "https://s.shopee.com.br/8fS02Cde1W",
+      "category": "Agaron",
+      "bucket": "agaron",
+      "posted_ts": 1788203812,
+      "posted_at": "2026-08-31T19:16:52.346506+00:00",
+      "score": 31.35
+    },
+    {
       "key": "mercadolivre:MLB6302363224",
       "marketplace": "mercadolivre",
       "id": "MLB6302363224",
@@ -13971,35 +13999,7 @@
       "posted_ts": 1787465866,
       "posted_at": "2026-08-23T06:17:46.615027+00:00",
       "score": 152.65
-    },
-    {
-      "key": "shopee:21897981294",
-      "marketplace": "shopee",
-      "id": "21897981294",
-      "title": "Attracione Men (Perfume Masculino com Feromônios Ativados)",
-      "title_norm": "attracione men perfume masculino com feromonios ativados",
-      "url": "https://shopee.com.br/product/1266325318/21897981294",
-      "affiliate_url": "https://s.shopee.com.br/1qbOPy6cfT",
-      "category": "Attracione Men & Attracione",
-      "bucket": "beleza",
-      "posted_ts": 1787465800,
-      "posted_at": "2026-08-23T06:16:40.499600+00:00",
-      "score": 160.52
-    },
-    {
-      "key": "mercadolivre:MLB6827581422",
-      "marketplace": "mercadolivre",
-      "id": "MLB6827581422",
-      "title": "Prancha Esteira Ergometrica Kikos E600ix Preto",
-      "title_norm": "prancha esteira ergometrica kikos e600ix preto",
-      "url": "https://www.mercadolivre.com.br/p/MLB70114350?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB70114350?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "category": "Esportes",
-      "bucket": "esportes",
-      "posted_ts": 1787464956,
-      "posted_at": "2026-08-23T06:02:36.462907+00:00",
-      "score": 120.27
     }
   ],
-  "updated_at": "2026-08-31T19:10:16.701057+00:00"
+  "updated_at": "2026-08-31T19:18:06.612325+00:00"
 }
