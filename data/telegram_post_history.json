@@ -1,6 +1,20 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB4313106591",
+      "marketplace": "mercadolivre",
+      "id": "MLB4313106591",
+      "title": "Smartphone xiaomi Poco C85 6gb ram + 128gb, Preto",
+      "title_norm": "smartphone xiaomi poco c85 6gb ram 128gb preto",
+      "url": "https://www.mercadolivre.com.br/p/MLB56425611?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB56425611?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Informática",
+      "bucket": "celulares",
+      "posted_ts": 1788177773,
+      "posted_at": "2026-08-31T12:02:53.820065+00:00",
+      "score": 127.0
+    },
+    {
       "key": "shopee:58255061423",
       "marketplace": "shopee",
       "id": "58255061423",
@@ -13985,21 +13999,7 @@
       "posted_ts": 1787437197,
       "posted_at": "2026-08-22T22:19:57.489724+00:00",
       "score": 116.1
-    },
-    {
-      "key": "shopee:21699229260",
-      "marketplace": "shopee",
-      "id": "21699229260",
-      "title": "Shorts Cinta Modelador Levanta Empina Bumbum Feminina Alta Compressão Shortinho",
-      "title_norm": "shorts cinta modelador levanta empina bumbum feminina alta compressao shortinho",
-      "url": "https://shopee.com.br/product/437985893/21699229260",
-      "affiliate_url": "https://s.shopee.com.br/3VjeSl4LKB",
-      "category": "L # Y MODAS ATACADO",
-      "bucket": "l_y_modas_atacado",
-      "posted_ts": 1787437133,
-      "posted_at": "2026-08-22T22:18:53.496979+00:00",
-      "score": 122.01
     }
   ],
-  "updated_at": "2026-08-31T11:20:57.365890+00:00"
+  "updated_at": "2026-08-31T12:02:53.820078+00:00"
 }
