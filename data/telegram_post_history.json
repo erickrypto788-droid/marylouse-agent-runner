@@ -1,6 +1,48 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB6978080348",
+      "marketplace": "mercadolivre",
+      "id": "MLB6978080348",
+      "title": "Impressora Etiquetas Monocromática Toledo Prix IT400M USB",
+      "title_norm": "impressora etiquetas monocromatica toledo prix it400m usb",
+      "url": "https://www.mercadolivre.com.br/p/MLB46173110?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB46173110?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Informática",
+      "bucket": "informatica",
+      "posted_ts": 1788134757,
+      "posted_at": "2026-08-31T00:05:57.435725+00:00",
+      "score": 86.0
+    },
+    {
+      "key": "mercadolivre:MLB5201599262",
+      "marketplace": "mercadolivre",
+      "id": "MLB5201599262",
+      "title": "Ribbon Resina Mastercorp 110x300 Para Impressora Etiquetas BOPP Vinil",
+      "title_norm": "ribbon resina mastercorp 110x300 para impressora etiquetas bopp vinil",
+      "url": "https://www.mercadolivre.com.br/p/MLB44215301?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB44215301?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Informática",
+      "bucket": "informatica",
+      "posted_ts": 1788134687,
+      "posted_at": "2026-08-31T00:04:47.944723+00:00",
+      "score": 86.0
+    },
+    {
+      "key": "mercadolivre:MLB3929416863",
+      "marketplace": "mercadolivre",
+      "id": "MLB3929416863",
+      "title": "Impressora Etiquetas Logistica Código De Barras Usb",
+      "title_norm": "impressora etiquetas logistica codigo de barras usb",
+      "url": "https://www.mercadolivre.com.br/p/MLB39019401?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB39019401?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Informática",
+      "bucket": "informatica",
+      "posted_ts": 1788134609,
+      "posted_at": "2026-08-31T00:03:29.853648+00:00",
+      "score": 110.48
+    },
+    {
       "key": "shopee:22593915398",
       "marketplace": "shopee",
       "id": "22593915398",
@@ -13957,49 +13999,7 @@
       "posted_ts": 1787397654,
       "posted_at": "2026-08-22T11:20:54.254116+00:00",
       "score": 101.42
-    },
-    {
-      "key": "shopee:21639028953",
-      "marketplace": "shopee",
-      "id": "21639028953",
-      "title": "Kidstep Tenis Infantil Feminino Casual Preto Com Pink",
-      "title_norm": "kidstep tenis infantil feminino casual preto com pink",
-      "url": "https://shopee.com.br/product/376576138/21639028953",
-      "affiliate_url": "https://s.shopee.com.br/5q7Zm0NoHb",
-      "category": "KidstepCalcados",
-      "bucket": "calcados",
-      "posted_ts": 1787397590,
-      "posted_at": "2026-08-22T11:19:50.326687+00:00",
-      "score": 110.39
-    },
-    {
-      "key": "shopee:58207708258",
-      "marketplace": "shopee",
-      "id": "58207708258",
-      "title": "Kit 4 Short Bermuda Infantil Juvenil Tactel Menino Praia Com Bolso Elastano Premium 2 a 16 Anos",
-      "title_norm": "kit 4 short bermuda infantil juvenil tactel menino praia com bolso elastano premium 2 a 16 anos",
-      "url": "https://shopee.com.br/product/424773647/58207708258",
-      "affiliate_url": "https://s.shopee.com.br/AAGYvxtq5D",
-      "category": "EDYBOY",
-      "bucket": "edyboy",
-      "posted_ts": 1787397521,
-      "posted_at": "2026-08-22T11:18:41.676112+00:00",
-      "score": 114.27
-    },
-    {
-      "key": "shopee:23398654174",
-      "marketplace": "shopee",
-      "id": "23398654174",
-      "title": "Calça Jeans Infantil  Wide Leg Cargo Black Juvenil 6 ao 14  ALTO PADRÃO LINHA PREMIUM",
-      "title_norm": "calca jeans infantil wide leg cargo black juvenil 6 ao 14 alto padrao linha premium",
-      "url": "https://shopee.com.br/product/1203275050/23398654174",
-      "affiliate_url": "https://s.shopee.com.br/50YSmTDe41",
-      "category": "MUNDO INFANTIL ",
-      "bucket": "mundo_infantil",
-      "posted_ts": 1787397457,
-      "posted_at": "2026-08-22T11:17:37.745508+00:00",
-      "score": 114.51
     }
   ],
-  "updated_at": "2026-08-30T23:21:03.852948+00:00"
+  "updated_at": "2026-08-31T00:05:57.435743+00:00"
 }
