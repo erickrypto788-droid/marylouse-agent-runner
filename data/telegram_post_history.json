@@ -1,6 +1,20 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB6711607808",
+      "marketplace": "mercadolivre",
+      "id": "MLB6711607808",
+      "title": "Combo Parafusadeira Furadeira de Impacto 13mm + Parafusadeira de Impacto 6,3mm DEWALT DCK276D2",
+      "title_norm": "combo parafusadeira furadeira de impacto 13mm parafusadeira de impacto 6 3mm dewalt dck276d2",
+      "url": "https://www.mercadolivre.com.br/p/MLB21865416?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB21865416?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Ferramentas",
+      "bucket": "ferramentas",
+      "posted_ts": 1788166970,
+      "posted_at": "2026-08-31T09:02:50.567284+00:00",
+      "score": 162.91
+    },
+    {
       "key": "shopee:23099137392",
       "marketplace": "shopee",
       "id": "23099137392",
@@ -13985,21 +13999,7 @@
       "posted_ts": 1787426333,
       "posted_at": "2026-08-22T19:18:53.176246+00:00",
       "score": 101.65
-    },
-    {
-      "key": "shopee:56657310104",
-      "marketplace": "shopee",
-      "id": "56657310104",
-      "title": "SATA III 2.5 \"SSD 128GB/240GB/256GB Unidade de estado sólido interna de alta velocidade",
-      "title_norm": "sata iii 2 5 ssd 128gb 240gb 256gb unidade de estado solido interna de alta velocidade",
-      "url": "https://shopee.com.br/product/993120827/56657310104",
-      "affiliate_url": "https://s.shopee.com.br/AAGZSvvWVO",
-      "category": "somnambulist.br",
-      "bucket": "informatica",
-      "posted_ts": 1787426269,
-      "posted_at": "2026-08-22T19:17:49.181939+00:00",
-      "score": 114.91
     }
   ],
-  "updated_at": "2026-08-31T08:19:27.747575+00:00"
+  "updated_at": "2026-08-31T09:02:50.567305+00:00"
 }
