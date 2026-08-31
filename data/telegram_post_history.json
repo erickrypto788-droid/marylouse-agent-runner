@@ -1,6 +1,20 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB6194259162",
+      "marketplace": "mercadolivre",
+      "id": "MLB6194259162",
+      "title": "Cadeira Gamer Profissional Ergonômica Giratória Vermelha para Escritório",
+      "title_norm": "cadeira gamer profissional ergonomica giratoria vermelha para escritorio",
+      "url": "https://www.mercadolivre.com.br/p/MLB26008929?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB26008929?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Casa e Cozinha",
+      "bucket": "casa_e_cozinha",
+      "posted_ts": 1788138166,
+      "posted_at": "2026-08-31T01:02:46.433658+00:00",
+      "score": 86.0
+    },
+    {
       "key": "shopee:58212496584",
       "marketplace": "shopee",
       "id": "58212496584",
@@ -13985,21 +13999,7 @@
       "posted_ts": 1787400998,
       "posted_at": "2026-08-22T12:16:38.840624+00:00",
       "score": 137.03
-    },
-    {
-      "key": "mercadolivre:MLB7413459282",
-      "marketplace": "mercadolivre",
-      "id": "MLB7413459282",
-      "title": "Capa Esteira Ergométrica Esteira Athletic Racer",
-      "title_norm": "capa esteira ergometrica esteira athletic racer",
-      "url": "https://www.mercadolivre.com.br/p/MLB70606708?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB70606708?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "category": "Esportes",
-      "bucket": "esportes",
-      "posted_ts": 1787400262,
-      "posted_at": "2026-08-22T12:04:22.410902+00:00",
-      "score": 61.0
     }
   ],
-  "updated_at": "2026-08-31T00:18:47.165795+00:00"
+  "updated_at": "2026-08-31T01:02:46.433677+00:00"
 }
