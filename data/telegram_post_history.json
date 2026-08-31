@@ -1,6 +1,62 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB5120190903",
+      "marketplace": "mercadolivre",
+      "id": "MLB5120190903",
+      "title": "Tecido Paetê Tribal Africano 1,30x1,50m Vestido Feminino Cor Preto",
+      "title_norm": "tecido paete tribal africano 1 30x1 50m vestido feminino cor preto",
+      "url": "https://www.mercadolivre.com.br/p/MLB77976379?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB77976379?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Moda Feminina",
+      "bucket": "moda_feminina",
+      "posted_ts": 1788206805,
+      "posted_at": "2026-08-31T20:06:45.428332+00:00",
+      "score": 86.0
+    },
+    {
+      "key": "mercadolivre:MLB3957584779",
+      "marketplace": "mercadolivre",
+      "id": "MLB3957584779",
+      "title": "Tecido Suplex Liso Amarelo de 5 Metros para Moda Fitness",
+      "title_norm": "tecido suplex liso amarelo de 5 metros para moda fitness",
+      "url": "https://www.mercadolivre.com.br/p/MLB45621460?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB45621460?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Esportes",
+      "bucket": "esportes",
+      "posted_ts": 1788206741,
+      "posted_at": "2026-08-31T20:05:41.345962+00:00",
+      "score": 88.0
+    },
+    {
+      "key": "mercadolivre:MLB4712632217",
+      "marketplace": "mercadolivre",
+      "id": "MLB4712632217",
+      "title": "Meia Calça Feminina Térmica Plus Size",
+      "title_norm": "meia calca feminina termica plus size",
+      "url": "https://www.mercadolivre.com.br/p/MLB66992733?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB66992733?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Moda Feminina",
+      "bucket": "moda_feminina",
+      "posted_ts": 1788206677,
+      "posted_at": "2026-08-31T20:04:37.296863+00:00",
+      "score": 88.0
+    },
+    {
+      "key": "mercadolivre:MLB5049841699",
+      "marketplace": "mercadolivre",
+      "id": "MLB5049841699",
+      "title": "Camiseta feminina modeladora",
+      "title_norm": "camiseta feminina modeladora",
+      "url": "https://www.mercadolivre.com.br/p/MLB59779508?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB59779508?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Moda Feminina",
+      "bucket": "moda_feminina",
+      "posted_ts": 1788206613,
+      "posted_at": "2026-08-31T20:03:33.272836+00:00",
+      "score": 88.0
+    },
+    {
       "key": "shopee:55913136538",
       "marketplace": "shopee",
       "id": "55913136538",
@@ -13943,63 +13999,7 @@
       "posted_ts": 1787468558,
       "posted_at": "2026-08-23T07:02:38.342061+00:00",
       "score": 162.62
-    },
-    {
-      "key": "shopee:25293647491",
-      "marketplace": "shopee",
-      "id": "25293647491",
-      "title": "Celimax The Vita A Retinal Shot Tightening Booster 15ml",
-      "title_norm": "celimax the vita a retinal shot tightening booster 15ml",
-      "url": "https://shopee.com.br/product/457864097/25293647491",
-      "affiliate_url": "https://s.shopee.com.br/5VUkdgUiTO",
-      "category": "koksara.kbeauty",
-      "bucket": "koksara_kbeauty",
-      "posted_ts": 1787466066,
-      "posted_at": "2026-08-23T06:21:06.552258+00:00",
-      "score": 105.25
-    },
-    {
-      "key": "shopee:58211381206",
-      "marketplace": "shopee",
-      "id": "58211381206",
-      "title": "Corretivo Líquido Under Eye 10 ML - Ruby Kisses",
-      "title_norm": "corretivo liquido under eye 10 ml ruby kisses",
-      "url": "https://shopee.com.br/product/1126064857/58211381206",
-      "affiliate_url": "https://s.shopee.com.br/8V8MDCJINg",
-      "category": "VICTORIA BAZAR EIRELI",
-      "bucket": "victoria_bazar_eireli",
-      "posted_ts": 1787466002,
-      "posted_at": "2026-08-23T06:20:02.584988+00:00",
-      "score": 125.76
-    },
-    {
-      "key": "shopee:23098851500",
-      "marketplace": "shopee",
-      "id": "23098851500",
-      "title": "Kit Body Splash Dolce + Florata Red 200ml Feminino.",
-      "title_norm": "kit body splash dolce florata red 200ml feminino",
-      "url": "https://shopee.com.br/product/1617566398/23098851500",
-      "affiliate_url": "https://s.shopee.com.br/6VNHpW9W6d",
-      "category": "Ambar.cosmeticos",
-      "bucket": "ambar_cosmeticos",
-      "posted_ts": 1787465935,
-      "posted_at": "2026-08-23T06:18:55.541768+00:00",
-      "score": 128.79
-    },
-    {
-      "key": "shopee:22798465103",
-      "marketplace": "shopee",
-      "id": "22798465103",
-      "title": "Perfume Attracione Feminino by Attracione Woman Mulher",
-      "title_norm": "perfume attracione feminino by attracione woman mulher",
-      "url": "https://shopee.com.br/product/1266325318/22798465103",
-      "affiliate_url": "https://s.shopee.com.br/70JYQR7c5u",
-      "category": "Attracione Men & Attracione",
-      "bucket": "beleza",
-      "posted_ts": 1787465866,
-      "posted_at": "2026-08-23T06:17:46.615027+00:00",
-      "score": 152.65
     }
   ],
-  "updated_at": "2026-08-31T19:18:06.612325+00:00"
+  "updated_at": "2026-08-31T20:06:45.428348+00:00"
 }
