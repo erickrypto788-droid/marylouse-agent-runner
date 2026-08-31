@@ -1,6 +1,20 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB4623864041",
+      "marketplace": "mercadolivre",
+      "id": "MLB4623864041",
+      "title": "Condicionador Infantil 250ml Buba Care",
+      "title_norm": "condicionador infantil 250ml buba care",
+      "url": "https://www.mercadolivre.com.br/p/MLB29684586?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB29684586?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Beleza",
+      "bucket": "beleza",
+      "posted_ts": 1788141977,
+      "posted_at": "2026-08-31T02:06:17.181912+00:00",
+      "score": 88.0
+    },
+    {
       "key": "shopee:20698436405",
       "marketplace": "shopee",
       "id": "20698436405",
@@ -13985,21 +13999,7 @@
       "posted_ts": 1787404716,
       "posted_at": "2026-08-22T13:18:36.225312+00:00",
       "score": 117.32
-    },
-    {
-      "key": "shopee:19499073421",
-      "marketplace": "shopee",
-      "id": "19499073421",
-      "title": "Bebê Reborn Boneca Realista Girafinha Luxo Em Silicone Pode Dar Banho Envio Imediato",
-      "title_norm": "bebe reborn boneca realista girafinha luxo em silicone pode dar banho envio imediato",
-      "url": "https://shopee.com.br/product/790605924/19499073421",
-      "affiliate_url": "https://s.shopee.com.br/80C4UEXSgc",
-      "category": "Adora ",
-      "bucket": "adora",
-      "posted_ts": 1787404602,
-      "posted_at": "2026-08-22T13:16:42.104005+00:00",
-      "score": 124.32
     }
   ],
-  "updated_at": "2026-08-31T01:21:22.951569+00:00"
+  "updated_at": "2026-08-31T02:06:17.181931+00:00"
 }
