@@ -1,6 +1,34 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB7359539976",
+      "marketplace": "mercadolivre",
+      "id": "MLB7359539976",
+      "title": "Bike Spinning Kikos Max-ks5 Preto",
+      "title_norm": "bike spinning kikos max ks5 preto",
+      "url": "https://www.mercadolivre.com.br/p/MLB18603556?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB18603556?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Esportes",
+      "bucket": "esportes",
+      "posted_ts": 1788156312,
+      "posted_at": "2026-08-31T06:05:12.540837+00:00",
+      "score": 84.0
+    },
+    {
+      "key": "mercadolivre:MLB5163519527",
+      "marketplace": "mercadolivre",
+      "id": "MLB5163519527",
+      "title": "Luva Academia Esporte Neoprene Academia Luva Proteção Preto Lisa Unico",
+      "title_norm": "luva academia esporte neoprene academia luva protecao preto lisa unico",
+      "url": "https://www.mercadolivre.com.br/p/MLB64424896?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB64424896?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Esportes",
+      "bucket": "esportes",
+      "posted_ts": 1788156215,
+      "posted_at": "2026-08-31T06:03:35.643288+00:00",
+      "score": 87.61
+    },
+    {
       "key": "shopee:58253347883",
       "marketplace": "shopee",
       "id": "58253347883",
@@ -13971,35 +13999,7 @@
       "posted_ts": 1787418212,
       "posted_at": "2026-08-22T17:03:32.208702+00:00",
       "score": 113.0
-    },
-    {
-      "key": "mercadolivre:MLB4918382621",
-      "marketplace": "mercadolivre",
-      "id": "MLB4918382621",
-      "title": "Fone Bluetooth Redmi",
-      "title_norm": "fone bluetooth redmi",
-      "url": "https://www.mercadolivre.com.br/p/MLB62010143?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB62010143?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "category": "Informática",
-      "bucket": "celulares",
-      "posted_ts": 1787418147,
-      "posted_at": "2026-08-22T17:02:27.874184+00:00",
-      "score": 114.83
-    },
-    {
-      "key": "shopee:22693513091",
-      "marketplace": "shopee",
-      "id": "22693513091",
-      "title": "Bolsa de Ombra Feminina com Alça Ajustável, Bolsa Feminina Elegante com Couro Sintetico Preto, Presente",
-      "title_norm": "bolsa de ombra feminina com alca ajustavel bolsa feminina elegante com couro sintetico preto presente",
-      "url": "https://shopee.com.br/product/1345043704/22693513091",
-      "affiliate_url": "https://s.shopee.com.br/4VcCW9ejfi",
-      "category": "Romantic Crown 02",
-      "bucket": "bolsas",
-      "posted_ts": 1787415531,
-      "posted_at": "2026-08-22T16:18:51.210515+00:00",
-      "score": 121.0
     }
   ],
-  "updated_at": "2026-08-31T05:17:42.762253+00:00"
+  "updated_at": "2026-08-31T06:05:12.540857+00:00"
 }

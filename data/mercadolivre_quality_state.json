@@ -1,6 +1,36 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB7359539976",
+      "product_id": "MLB7359539976",
+      "catalog_product_id": "MLB18603556",
+      "item_id": "MLB7359539976",
+      "url": "https://www.mercadolivre.com.br/p/MLB18603556?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB18603556?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "bike spinning kikos max ks5 preto",
+      "title": "Bike Spinning Kikos Max-ks5 Preto",
+      "category": "Esportes",
+      "price": 2770.0,
+      "score": 84.0,
+      "posted_ts": 1788156312,
+      "posted_at": "2026-08-31T06:05:12.555279+00:00"
+    },
+    {
+      "key": "mercadolivre:MLB5163519527",
+      "product_id": "MLB5163519527",
+      "catalog_product_id": "MLB64424896",
+      "item_id": "MLB5163519527",
+      "url": "https://www.mercadolivre.com.br/p/MLB64424896?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB64424896?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "luva academia esporte neoprene academia luva protecao preto lisa unico",
+      "title": "Luva Academia Esporte Neoprene Academia Luva Proteção Preto Lisa Unico",
+      "category": "Esportes",
+      "price": 19.0,
+      "score": 87.61,
+      "posted_ts": 1788156215,
+      "posted_at": "2026-08-31T06:03:35.657323+00:00"
+    },
+    {
       "key": "mercadolivre:MLB7003862824",
       "product_id": "MLB7003862824",
       "catalog_product_id": "MLB74184723",
@@ -779,22 +809,7 @@
       "score": 86.0,
       "posted_ts": 1787986968,
       "posted_at": "2026-08-29T07:02:48.328054+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB5108378397",
-      "product_id": "MLB5108378397",
-      "catalog_product_id": "MLB77188949",
-      "item_id": "MLB5108378397",
-      "url": "https://www.mercadolivre.com.br/p/MLB77188949?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB77188949?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "kit ferramentas ingco esmerilhadeira martelete 4ah",
-      "title": "Kit Ferramentas Ingco Esmerilhadeira Martelete 4ah",
-      "category": "Ferramentas",
-      "price": 1761.4,
-      "score": 99.38,
-      "posted_ts": 1787983339,
-      "posted_at": "2026-08-29T06:02:19.018358+00:00"
     }
   ],
-  "updated_at": "2026-08-31T04:03:38.664980+00:00"
+  "updated_at": "2026-08-31T06:05:12.555294+00:00"
 }
