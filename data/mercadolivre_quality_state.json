@@ -1,6 +1,36 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB5355035490",
+      "product_id": "MLB5355035490",
+      "catalog_product_id": "MLB48409016",
+      "item_id": "MLB5355035490",
+      "url": "https://www.mercadolivre.com.br/p/MLB48409016?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB48409016?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "cama box solteiro colchao molas ensacadas orthoflex memor",
+      "title": "Cama Box Solteiro: Colchão Molas Ensacadas Orthoflex Memor",
+      "category": "Casa e Cozinha",
+      "price": 1236.86,
+      "score": 75.67,
+      "posted_ts": 1788210247,
+      "posted_at": "2026-08-31T21:04:07.904385+00:00"
+    },
+    {
+      "key": "mercadolivre:MLB5773064424",
+      "product_id": "MLB5773064424",
+      "catalog_product_id": "MLB50493068",
+      "item_id": "MLB5773064424",
+      "url": "https://www.mercadolivre.com.br/p/MLB50493068?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB50493068?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "elgin air fryer fritadeira air fryer",
+      "title": "Elgin Air Fryer Fritadeira Air Fryer",
+      "category": "Casa e Cozinha",
+      "price": 205.0,
+      "score": 129.0,
+      "posted_ts": 1788210177,
+      "posted_at": "2026-08-31T21:02:57.477791+00:00"
+    },
+    {
       "key": "mercadolivre:MLB5120190903",
       "product_id": "MLB5120190903",
       "catalog_product_id": "MLB77976379",
@@ -796,5 +826,5 @@
       "posted_at": "2026-08-29T23:02:30.418394+00:00"
     }
   ],
-  "updated_at": "2026-08-31T20:06:45.441976+00:00"
+  "updated_at": "2026-08-31T21:04:07.904395+00:00"
 }

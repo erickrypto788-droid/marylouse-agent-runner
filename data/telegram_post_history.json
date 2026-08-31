@@ -1,6 +1,34 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB5355035490",
+      "marketplace": "mercadolivre",
+      "id": "MLB5355035490",
+      "title": "Cama Box Solteiro: Colchão Molas Ensacadas Orthoflex Memor",
+      "title_norm": "cama box solteiro colchao molas ensacadas orthoflex memor",
+      "url": "https://www.mercadolivre.com.br/p/MLB48409016?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB48409016?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Casa e Cozinha",
+      "bucket": "casa_e_cozinha",
+      "posted_ts": 1788210247,
+      "posted_at": "2026-08-31T21:04:07.890251+00:00",
+      "score": 75.67
+    },
+    {
+      "key": "mercadolivre:MLB5773064424",
+      "marketplace": "mercadolivre",
+      "id": "MLB5773064424",
+      "title": "Elgin Air Fryer Fritadeira Air Fryer",
+      "title_norm": "elgin air fryer fritadeira air fryer",
+      "url": "https://www.mercadolivre.com.br/p/MLB50493068?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB50493068?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Casa e Cozinha",
+      "bucket": "casa_cozinha",
+      "posted_ts": 1788210177,
+      "posted_at": "2026-08-31T21:02:57.463470+00:00",
+      "score": 129.0
+    },
+    {
       "key": "shopee:22892923302",
       "marketplace": "shopee",
       "id": "22892923302",
@@ -13971,35 +13999,7 @@
       "posted_ts": 1787473002,
       "posted_at": "2026-08-23T08:16:42.263346+00:00",
       "score": 133.01
-    },
-    {
-      "key": "mercadolivre:MLB7158074090",
-      "marketplace": "mercadolivre",
-      "id": "MLB7158074090",
-      "title": "Liquidificador portátil, Mini liquidificador recarregável USB, Liquidificador",
-      "title_norm": "liquidificador portatil mini liquidificador recarregavel usb liquidificador",
-      "url": "https://www.mercadolivre.com.br/p/MLB38338044?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB38338044?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "category": "Casa e Cozinha",
-      "bucket": "casa_cozinha",
-      "posted_ts": 1787472164,
-      "posted_at": "2026-08-23T08:02:44.646065+00:00",
-      "score": 113.0
-    },
-    {
-      "key": "shopee:23798855725",
-      "marketplace": "shopee",
-      "id": "23798855725",
-      "title": "Conjunto Infantil Masculino De Verão - Camisa + Short Dry-Fit Levinho - Tamanho 2 ao 12",
-      "title_norm": "conjunto infantil masculino de verao camisa short dry fit levinho tamanho 2 ao 12",
-      "url": "https://shopee.com.br/product/877098627/23798855725",
-      "affiliate_url": "https://s.shopee.com.br/5ArtmDxhMz",
-      "category": "Moda Kids Virtual",
-      "bucket": "moda_kids_virtual",
-      "posted_ts": 1787469684,
-      "posted_at": "2026-08-23T07:21:24.530578+00:00",
-      "score": 108.93
     }
   ],
-  "updated_at": "2026-08-31T20:21:29.424968+00:00"
+  "updated_at": "2026-08-31T21:04:07.890266+00:00"
 }
