@@ -1,6 +1,48 @@
 {
   "posts": [
     {
+      "key": "shopee:23099137392",
+      "marketplace": "shopee",
+      "id": "23099137392",
+      "title": "Protetor Solar Facial FPS 60 Antioleosidade com Base Efeito Matte Sunless 40g Envio Imediato",
+      "title_norm": "protetor solar facial fps 60 antioleosidade com base efeito matte sunless 40g envio imediato",
+      "url": "https://shopee.com.br/product/1533394801/23099137392",
+      "affiliate_url": "https://s.shopee.com.br/1gIEy0ZK3M",
+      "category": "LaVitta Health",
+      "bucket": "lavitta_health",
+      "posted_ts": 1788164367,
+      "posted_at": "2026-08-31T08:19:27.747557+00:00",
+      "score": 94.62
+    },
+    {
+      "key": "shopee:58264684239",
+      "marketplace": "shopee",
+      "id": "58264684239",
+      "title": "Kit Clareador Facial - Sabonete Líquido + Protetor Solar Clareador 70 FPS + Sérum Multicorretivo Clareador",
+      "title_norm": "kit clareador facial sabonete liquido protetor solar clareador 70 fps serum multicorretivo clareador",
+      "url": "https://shopee.com.br/product/1860098702/58264684239",
+      "affiliate_url": "https://s.shopee.com.br/4AzXQ24qVT",
+      "category": "Hidrabene ",
+      "bucket": "supermercado",
+      "posted_ts": 1788164271,
+      "posted_at": "2026-08-31T08:17:51.649443+00:00",
+      "score": 114.18
+    },
+    {
+      "key": "shopee:20599198575",
+      "marketplace": "shopee",
+      "id": "20599198575",
+      "title": "Chapinha Prancha Cabelo Profissional Nano Titanium 450F BIVOLT",
+      "title_norm": "chapinha prancha cabelo profissional nano titanium 450f bivolt",
+      "url": "https://shopee.com.br/product/391739739/20599198575",
+      "affiliate_url": "https://s.shopee.com.br/80CHFMRMnc",
+      "category": "ANJ.GG store",
+      "bucket": "beleza",
+      "posted_ts": 1788164203,
+      "posted_at": "2026-08-31T08:16:43.899414+00:00",
+      "score": 141.48
+    },
+    {
       "key": "mercadolivre:MLB4750057565",
       "marketplace": "mercadolivre",
       "id": "MLB4750057565",
@@ -13957,49 +13999,7 @@
       "posted_ts": 1787426269,
       "posted_at": "2026-08-22T19:17:49.181939+00:00",
       "score": 114.91
-    },
-    {
-      "key": "shopee:22398374434",
-      "marketplace": "shopee",
-      "id": "22398374434",
-      "title": "Kit Teclado e Mouse branco Gamer RGB LED USB ABNT2 Profissional com Luz para PC Notebook Promoção",
-      "title_norm": "kit teclado e mouse branco gamer rgb led usb abnt2 profissional com luz para pc notebook promocao",
-      "url": "https://shopee.com.br/product/1447668497/22398374434",
-      "affiliate_url": "https://s.shopee.com.br/4AzL3cPeVG",
-      "category": "MixMania BR",
-      "bucket": "informatica",
-      "posted_ts": 1787426200,
-      "posted_at": "2026-08-22T19:16:40.640705+00:00",
-      "score": 134.52
-    },
-    {
-      "key": "shopee:23693891395",
-      "marketplace": "shopee",
-      "id": "23693891395",
-      "title": "Placas Bruxismo Moldeira de Silicone Molde Caseiro Aparelho Protetor Inferior e Superior + ESTOJO",
-      "title_norm": "placas bruxismo moldeira de silicone molde caseiro aparelho protetor inferior e superior estojo",
-      "url": "https://shopee.com.br/product/1321463020/23693891395",
-      "affiliate_url": "https://s.shopee.com.br/2gAYT2Pt8H",
-      "category": "J! Store Ecom",
-      "bucket": "j_store_ecom",
-      "posted_ts": 1787422919,
-      "posted_at": "2026-08-22T18:21:59.902889+00:00",
-      "score": 53.11
-    },
-    {
-      "key": "shopee:49911082623",
-      "marketplace": "shopee",
-      "id": "49911082623",
-      "title": "Kit Presente Caderneta Couro Personalizada + Caneta com Nome Caixa Elegante Presente Brinde Agenda",
-      "title_norm": "kit presente caderneta couro personalizada caneta com nome caixa elegante presente brinde agenda",
-      "url": "https://shopee.com.br/product/243816539/49911082623",
-      "affiliate_url": "https://s.shopee.com.br/2qTyfLXz9w",
-      "category": "Gráfica Vision Art Design",
-      "bucket": "grafica_vision_art_design",
-      "posted_ts": 1787422855,
-      "posted_at": "2026-08-22T18:20:55.831916+00:00",
-      "score": 100.75
     }
   ],
-  "updated_at": "2026-08-31T08:03:05.005279+00:00"
+  "updated_at": "2026-08-31T08:19:27.747575+00:00"
 }
