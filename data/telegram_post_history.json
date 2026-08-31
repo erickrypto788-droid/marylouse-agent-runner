@@ -1,6 +1,48 @@
 {
   "posts": [
     {
+      "key": "shopee:19198016301",
+      "marketplace": "shopee",
+      "id": "19198016301",
+      "title": "Mochila Moda Laptop Viagem Escolar Resistente À água Executiva Notebook Impermeável Viral",
+      "title_norm": "mochila moda laptop viagem escolar resistente a agua executiva notebook impermeavel viral",
+      "url": "https://shopee.com.br/product/222975446/19198016301",
+      "affiliate_url": "https://s.shopee.com.br/AKaCQNoSXd",
+      "category": "Luxor Comercial",
+      "bucket": "informatica",
+      "posted_ts": 1788185938,
+      "posted_at": "2026-08-31T14:18:58.751442+00:00",
+      "score": 109.04
+    },
+    {
+      "key": "shopee:58255989668",
+      "marketplace": "shopee",
+      "id": "58255989668",
+      "title": "Bolsa De Moda Simples Ombro De Veludo Feminina Novo Estilo",
+      "title_norm": "bolsa de moda simples ombro de veludo feminina novo estilo",
+      "url": "https://shopee.com.br/product/1725099888/58255989668",
+      "affiliate_url": "https://s.shopee.com.br/3VjsHp9w5S",
+      "category": "hui3hui3",
+      "bucket": "bolsas",
+      "posted_ts": 1788185874,
+      "posted_at": "2026-08-31T14:17:54.662167+00:00",
+      "score": 116.63
+    },
+    {
+      "key": "shopee:23893335036",
+      "marketplace": "shopee",
+      "id": "23893335036",
+      "title": "JAMI JAMI Bolsa Mochila Feminina Grande De Ombro Com Alça Transversal De Couro PU TM9034",
+      "title_norm": "jami jami bolsa mochila feminina grande de ombro com alca transversal de couro pu tm9034",
+      "url": "https://shopee.com.br/product/452872883/23893335036",
+      "affiliate_url": "https://s.shopee.com.br/4VcPTf1alX",
+      "category": "Jami Ling",
+      "bucket": "bolsas",
+      "posted_ts": 1788185806,
+      "posted_at": "2026-08-31T14:16:46.675922+00:00",
+      "score": 120.03
+    },
+    {
       "key": "shopee:58256236719",
       "marketplace": "shopee",
       "id": "58256236719",
@@ -13957,49 +13999,7 @@
       "posted_ts": 1787447241,
       "posted_at": "2026-08-23T01:07:21.104492+00:00",
       "score": 89.0
-    },
-    {
-      "key": "mercadolivre:MLB2824485824",
-      "marketplace": "mercadolivre",
-      "id": "MLB2824485824",
-      "title": "Creme Dental Ozonizado Philozon 90g",
-      "title_norm": "creme dental ozonizado philozon 90g",
-      "url": "https://www.mercadolivre.com.br/p/MLB19638787?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB19638787?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "category": "Supermercados",
-      "bucket": "supermercados",
-      "posted_ts": 1787447177,
-      "posted_at": "2026-08-23T01:06:17.097018+00:00",
-      "score": 90.54
-    },
-    {
-      "key": "mercadolivre:MLB4189107767",
-      "marketplace": "mercadolivre",
-      "id": "MLB4189107767",
-      "title": "Azeite Oliva Extra Virgem Italiano 500ml Mercatto",
-      "title_norm": "azeite oliva extra virgem italiano 500ml mercatto",
-      "url": "https://www.mercadolivre.com.br/p/MLB54332454?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB54332454?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "category": "Supermercados",
-      "bucket": "supermercado",
-      "posted_ts": 1787447111,
-      "posted_at": "2026-08-23T01:05:11.728204+00:00",
-      "score": 135.18
-    },
-    {
-      "key": "shopee:58254354411",
-      "marketplace": "shopee",
-      "id": "58254354411",
-      "title": "Camisa Feminina Lisa  Crepinho  Elegante Plus Size  M G GG G1",
-      "title_norm": "camisa feminina lisa crepinho elegante plus size m g gg g1",
-      "url": "https://shopee.com.br/product/1432906492/58254354411",
-      "affiliate_url": "https://s.shopee.com.br/9V0t0KIaB7",
-      "category": "Jael Modas",
-      "bucket": "jael_modas",
-      "posted_ts": 1787444416,
-      "posted_at": "2026-08-23T00:20:16.965250+00:00",
-      "score": 103.84
     }
   ],
-  "updated_at": "2026-08-31T13:21:05.291846+00:00"
+  "updated_at": "2026-08-31T14:18:58.751464+00:00"
 }
