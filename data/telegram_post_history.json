@@ -1,6 +1,34 @@
 {
   "posts": [
     {
+      "key": "shopee:58253347883",
+      "marketplace": "shopee",
+      "id": "58253347883",
+      "title": "Bota Feminina Cano Curto Preta Salto Grosso Tratorada Confortável Moda Inverno",
+      "title_norm": "bota feminina cano curto preta salto grosso tratorada confortavel moda inverno",
+      "url": "https://shopee.com.br/product/702625496/58253347883",
+      "affiliate_url": "https://s.shopee.com.br/9fKWILfm6h",
+      "category": "ENCAST CONTRY GIRL",
+      "bucket": "calcados",
+      "posted_ts": 1788153462,
+      "posted_at": "2026-08-31T05:17:42.762239+00:00",
+      "score": 103.82
+    },
+    {
+      "key": "shopee:41672473191",
+      "marketplace": "shopee",
+      "id": "41672473191",
+      "title": "Sandália Feminina Salto Bloco Quadrado Shekinah Tiras Cruzadas Super Leve Confortável Moderna Festa",
+      "title_norm": "sandalia feminina salto bloco quadrado shekinah tiras cruzadas super leve confortavel moderna festa",
+      "url": "https://shopee.com.br/product/375175329/41672473191",
+      "affiliate_url": "https://s.shopee.com.br/3B701pAZK6",
+      "category": "Shekinah Calçados",
+      "bucket": "calcados",
+      "posted_ts": 1788153398,
+      "posted_at": "2026-08-31T05:16:38.700116+00:00",
+      "score": 113.17
+    },
+    {
       "key": "shopee:23394636497",
       "marketplace": "shopee",
       "id": "23394636497",
@@ -13971,35 +13999,7 @@
       "posted_ts": 1787415531,
       "posted_at": "2026-08-22T16:18:51.210515+00:00",
       "score": 121.0
-    },
-    {
-      "key": "shopee:23497594302",
-      "marketplace": "shopee",
-      "id": "23497594302",
-      "title": "ROMANTIC CROWN Mochla de Viagem MascuIino e Feminina ImpermeaveI Reforçada Executiva para Notebook",
-      "title_norm": "romantic crown mochla de viagem mascuiino e feminina impermeavei reforcada executiva para notebook",
-      "url": "https://shopee.com.br/product/1198407784/23497594302",
-      "affiliate_url": "https://s.shopee.com.br/6AkQVDYOI4",
-      "category": "Romantic Crown.02",
-      "bucket": "informatica",
-      "posted_ts": 1787415467,
-      "posted_at": "2026-08-22T16:17:47.208008+00:00",
-      "score": 146.0
-    },
-    {
-      "key": "shopee:22497773735",
-      "marketplace": "shopee",
-      "id": "22497773735",
-      "title": "Mochila Vlagem Feminina Masculinas Multifuncional Reforçada Impermeável Expansível Mochila Notebook Antifurto USB",
-      "title_norm": "mochila vlagem feminina masculinas multifuncional reforcada impermeavel expansivel mochila notebook antifurto usb",
-      "url": "https://shopee.com.br/product/1345043704/22497773735",
-      "affiliate_url": "https://s.shopee.com.br/3Vje89wcMJ",
-      "category": "Romantic Crown 02",
-      "bucket": "informatica",
-      "posted_ts": 1787415403,
-      "posted_at": "2026-08-22T16:16:43.200151+00:00",
-      "score": 146.0
     }
   ],
-  "updated_at": "2026-08-31T04:17:43.414373+00:00"
+  "updated_at": "2026-08-31T05:17:42.762253+00:00"
 }
