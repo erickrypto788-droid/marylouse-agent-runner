@@ -1,6 +1,21 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB7003862824",
+      "product_id": "MLB7003862824",
+      "catalog_product_id": "MLB74184723",
+      "item_id": "MLB7003862824",
+      "url": "https://www.mercadolivre.com.br/p/MLB74184723?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB74184723?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "painel d rossi painel para tv para tv ate 60 cumaru de mdf mdp",
+      "title": "Painel D'Rossi Painel Para TV para TV até 60\" cumaru de mdf/mdp",
+      "category": "Casa e Cozinha",
+      "price": 632.5,
+      "score": 103.52,
+      "posted_ts": 1788149018,
+      "posted_at": "2026-08-31T04:03:38.664963+00:00"
+    },
+    {
       "key": "mercadolivre:MLB4832226667",
       "product_id": "MLB4832226667",
       "catalog_product_id": "MLB74626445",
@@ -781,5 +796,5 @@
       "posted_at": "2026-08-29T06:02:19.018358+00:00"
     }
   ],
-  "updated_at": "2026-08-31T03:04:33.290403+00:00"
+  "updated_at": "2026-08-31T04:03:38.664980+00:00"
 }
