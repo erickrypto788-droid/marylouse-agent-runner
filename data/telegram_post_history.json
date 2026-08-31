@@ -1,6 +1,20 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB4750057565",
+      "marketplace": "mercadolivre",
+      "id": "MLB4750057565",
+      "title": "Fritadeira Air Fryer Mondial Oven Digital 127v",
+      "title_norm": "fritadeira air fryer mondial oven digital 127v",
+      "url": "https://www.mercadolivre.com.br/p/MLB54083722?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB54083722?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Casa e Cozinha",
+      "bucket": "casa_cozinha",
+      "posted_ts": 1788163385,
+      "posted_at": "2026-08-31T08:03:05.005267+00:00",
+      "score": 124.0
+    },
+    {
       "key": "shopee:19699841961",
       "marketplace": "shopee",
       "id": "19699841961",
@@ -13985,21 +13999,7 @@
       "posted_ts": 1787422855,
       "posted_at": "2026-08-22T18:20:55.831916+00:00",
       "score": 100.75
-    },
-    {
-      "key": "shopee:23498951046",
-      "marketplace": "shopee",
-      "id": "23498951046",
-      "title": "kit 10  24 Cores Caneta Marcadora De Cabeça Dupla Oleosa Montagem Artística Para Estudantes Material Escolar su",
-      "title_norm": "kit 10 24 cores caneta marcadora de cabeca dupla oleosa montagem artistica para estudantes material escolar su",
-      "url": "https://shopee.com.br/product/526615488/23498951046",
-      "affiliate_url": "https://s.shopee.com.br/70JWMiGTKy",
-      "category": "Sus.store",
-      "bucket": "sus_store",
-      "posted_ts": 1787422791,
-      "posted_at": "2026-08-22T18:19:51.641096+00:00",
-      "score": 102.08
     }
   ],
-  "updated_at": "2026-08-31T07:20:21.086381+00:00"
+  "updated_at": "2026-08-31T08:03:05.005279+00:00"
 }

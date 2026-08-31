@@ -1,6 +1,21 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB4750057565",
+      "product_id": "MLB4750057565",
+      "catalog_product_id": "MLB54083722",
+      "item_id": "MLB4750057565",
+      "url": "https://www.mercadolivre.com.br/p/MLB54083722?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB54083722?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "fritadeira air fryer mondial oven digital 127v",
+      "title": "Fritadeira Air Fryer Mondial Oven Digital 127v",
+      "category": "Casa e Cozinha",
+      "price": 1800.0,
+      "score": 124.0,
+      "posted_ts": 1788163385,
+      "posted_at": "2026-08-31T08:03:05.016985+00:00"
+    },
+    {
       "key": "mercadolivre:MLB3474477475",
       "product_id": "MLB3474477475",
       "catalog_product_id": "MLB24908965",
@@ -809,22 +824,7 @@
       "score": 97.14,
       "posted_ts": 1788001363,
       "posted_at": "2026-08-29T11:02:43.388416+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB5152165069",
-      "product_id": "MLB5152165069",
-      "catalog_product_id": "MLB16377075",
-      "item_id": "MLB5152165069",
-      "url": "https://www.mercadolivre.com.br/p/MLB16377075?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB16377075?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "modem roteador wifi intelbras wifiber 121ac gpon",
-      "title": "Modem Roteador Wifi Intelbras Wifiber 121ac Gpon",
-      "category": "Informática",
-      "price": 389.99,
-      "score": 86.0,
-      "posted_ts": 1787986968,
-      "posted_at": "2026-08-29T07:02:48.328054+00:00"
     }
   ],
-  "updated_at": "2026-08-31T07:02:37.157946+00:00"
+  "updated_at": "2026-08-31T08:03:05.016994+00:00"
 }
