@@ -1,6 +1,34 @@
 {
   "posts": [
     {
+      "key": "shopee:58254751043",
+      "marketplace": "shopee",
+      "id": "58254751043",
+      "title": "Bota Texana Feminina Cano Alto Com Bordado Exclusivo Estilo e Praticidade",
+      "title_norm": "bota texana feminina cano alto com bordado exclusivo estilo e praticidade",
+      "url": "https://shopee.com.br/product/1671777207/58254751043",
+      "affiliate_url": "https://s.shopee.com.br/7psuhgEMkb",
+      "category": "Bella Passo Shoes",
+      "bucket": "calcados",
+      "posted_ts": 1788293872,
+      "posted_at": "2026-09-01T20:17:52.210259+00:00",
+      "score": 65.15
+    },
+    {
+      "key": "shopee:22598314126",
+      "marketplace": "shopee",
+      "id": "22598314126",
+      "title": "Bota Botina Feminina Texana Macia Country Cowboy Bico Quadrado Confortável Zíper E Rebites",
+      "title_norm": "bota botina feminina texana macia country cowboy bico quadrado confortavel ziper e rebites",
+      "url": "https://shopee.com.br/product/1318905115/22598314126",
+      "affiliate_url": "https://s.shopee.com.br/6fgxJXIo7S",
+      "category": "F_MIX",
+      "bucket": "calcados",
+      "posted_ts": 1788293808,
+      "posted_at": "2026-09-01T20:16:48.164059+00:00",
+      "score": 111.56
+    },
+    {
       "key": "mercadolivre:MLB5149781335",
       "marketplace": "mercadolivre",
       "id": "MLB5149781335",
@@ -13971,35 +13999,7 @@
       "posted_ts": 1787541465,
       "posted_at": "2026-08-24T03:17:45.945966+00:00",
       "score": 118.54
-    },
-    {
-      "key": "shopee:23294866358",
-      "marketplace": "shopee",
-      "id": "23294866358",
-      "title": "Creatina DUX 300g - 100% Pura com SELO CREAPURE Reconhecido pela ANVISA",
-      "title_norm": "creatina dux 300g 100 pura com selo creapure reconhecido pela anvisa",
-      "url": "https://shopee.com.br/product/1082873638/23294866358",
-      "affiliate_url": "https://s.shopee.com.br/5VUm2DffqD",
-      "category": "NT-Wey",
-      "bucket": "nt_wey",
-      "posted_ts": 1787541402,
-      "posted_at": "2026-08-24T03:16:42.004842+00:00",
-      "score": 122.64
-    },
-    {
-      "key": "mercadolivre:MLB5675473594",
-      "marketplace": "mercadolivre",
-      "id": "MLB5675473594",
-      "title": "Combo Parafusadeira Furadeira de Impacto 13mm + Parafusadeira de Impacto 6,3mm DEWALT DCK276D2",
-      "title_norm": "combo parafusadeira furadeira de impacto 13mm parafusadeira de impacto 6 3mm dewalt dck276d2",
-      "url": "https://www.mercadolivre.com.br/p/MLB21865416?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB21865416?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "category": "Ferramentas",
-      "bucket": "ferramentas",
-      "posted_ts": 1787540561,
-      "posted_at": "2026-08-24T03:02:41.254338+00:00",
-      "score": 124.0
     }
   ],
-  "updated_at": "2026-09-01T20:02:27.373445+00:00"
+  "updated_at": "2026-09-01T20:17:52.210275+00:00"
 }
