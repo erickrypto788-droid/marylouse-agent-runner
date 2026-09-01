@@ -1,6 +1,20 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB7226098148",
+      "marketplace": "mercadolivre",
+      "id": "MLB7226098148",
+      "title": "Fone Bluetooth Esportivo 320mah Fone Sem Fio Fone Academia Preto",
+      "title_norm": "fone bluetooth esportivo 320mah fone sem fio fone academia preto",
+      "url": "https://www.mercadolivre.com.br/p/MLB68059006?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB68059006?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Esportes",
+      "bucket": "esportes",
+      "posted_ts": 1788296572,
+      "posted_at": "2026-09-01T21:02:52.698946+00:00",
+      "score": 115.39
+    },
+    {
       "key": "shopee:58254751043",
       "marketplace": "shopee",
       "id": "58254751043",
@@ -13985,21 +13999,7 @@
       "posted_ts": 1787541535,
       "posted_at": "2026-08-24T03:18:55.071614+00:00",
       "score": 116.85
-    },
-    {
-      "key": "shopee:58251614514",
-      "marketplace": "shopee",
-      "id": "58251614514",
-      "title": "Belifou Glitter Garrafa Térmica Portátil De 800 Ml Com Isolamento Duplo Adequada Para Academia",
-      "title_norm": "belifou glitter garrafa termica portatil de 800 ml com isolamento duplo adequada para academia",
-      "url": "https://shopee.com.br/product/1224363395/58251614514",
-      "affiliate_url": "https://s.shopee.com.br/3g37qqiBUC",
-      "category": "Belifou Talheres",
-      "bucket": "belifou_talheres",
-      "posted_ts": 1787541465,
-      "posted_at": "2026-08-24T03:17:45.945966+00:00",
-      "score": 118.54
     }
   ],
-  "updated_at": "2026-09-01T20:17:52.210275+00:00"
+  "updated_at": "2026-09-01T21:02:52.698964+00:00"
 }
