@@ -1,6 +1,20 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB5086206455",
+      "marketplace": "mercadolivre",
+      "id": "MLB5086206455",
+      "title": "Ssd Nvme 1tb Knup - Full Preto",
+      "title_norm": "ssd nvme 1tb knup full preto",
+      "url": "https://www.mercadolivre.com.br/p/MLB55970674?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB55970674?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Informática",
+      "bucket": "informatica",
+      "posted_ts": 1788231759,
+      "posted_at": "2026-09-01T03:02:39.079907+00:00",
+      "score": 111.0
+    },
+    {
       "key": "shopee:17934801158",
       "marketplace": "shopee",
       "id": "17934801158",
@@ -13985,21 +13999,7 @@
       "posted_ts": 1787487526,
       "posted_at": "2026-08-23T12:18:46.526746+00:00",
       "score": 114.97
-    },
-    {
-      "key": "shopee:22693059376",
-      "marketplace": "shopee",
-      "id": "22693059376",
-      "title": "Mochila Feminina para Viagem Casual à Prova d'Água em Oxford, Se Torna Bolsa de Mão Alex",
-      "title_norm": "mochila feminina para viagem casual a prova d agua em oxford se torna bolsa de mao alex",
-      "url": "https://shopee.com.br/product/400311012/22693059376",
-      "affiliate_url": "https://s.shopee.com.br/5q7a6beKt5",
-      "category": "Marisa.store",
-      "bucket": "bolsas",
-      "posted_ts": 1787487462,
-      "posted_at": "2026-08-23T12:17:42.277506+00:00",
-      "score": 115.19
     }
   ],
-  "updated_at": "2026-09-01T02:18:52.822850+00:00"
+  "updated_at": "2026-09-01T03:02:39.079929+00:00"
 }

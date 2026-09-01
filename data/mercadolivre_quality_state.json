@@ -1,6 +1,21 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB5086206455",
+      "product_id": "MLB5086206455",
+      "catalog_product_id": "MLB55970674",
+      "item_id": "MLB5086206455",
+      "url": "https://www.mercadolivre.com.br/p/MLB55970674?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB55970674?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "ssd nvme 1tb knup full preto",
+      "title": "Ssd Nvme 1tb Knup - Full Preto",
+      "category": "Informática",
+      "price": 990.0,
+      "score": 111.0,
+      "posted_ts": 1788231759,
+      "posted_at": "2026-09-01T03:02:39.089845+00:00"
+    },
+    {
       "key": "mercadolivre:MLB4139317597",
       "product_id": "MLB4139317597",
       "catalog_product_id": "MLB23649057",
@@ -841,5 +856,5 @@
       "posted_at": "2026-08-30T04:02:15.624697+00:00"
     }
   ],
-  "updated_at": "2026-09-01T02:04:19.913481+00:00"
+  "updated_at": "2026-09-01T03:02:39.089858+00:00"
 }
