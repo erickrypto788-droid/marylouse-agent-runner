@@ -1,6 +1,36 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB5168613493",
+      "product_id": "MLB5168613493",
+      "catalog_product_id": "MLB47352305",
+      "item_id": "MLB5168613493",
+      "url": "https://www.mercadolivre.com.br/p/MLB47352305?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB47352305?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "celular poco x6",
+      "title": "Celular Poco X6",
+      "category": "Informática",
+      "price": 2100.0,
+      "score": 108.0,
+      "posted_ts": 1788239109,
+      "posted_at": "2026-09-01T05:05:09.888518+00:00"
+    },
+    {
+      "key": "mercadolivre:MLB5026800457",
+      "product_id": "MLB5026800457",
+      "catalog_product_id": "MLB20643765",
+      "item_id": "MLB5026800457",
+      "url": "https://www.mercadolivre.com.br/p/MLB20643765?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB20643765?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "carregador iphone tipo usb c cor branco",
+      "title": "Carregador iPhone Tipo USB-C Cor Branco",
+      "category": "Informática",
+      "price": 349.99,
+      "score": 127.0,
+      "posted_ts": 1788239045,
+      "posted_at": "2026-09-01T05:04:05.472291+00:00"
+    },
+    {
       "key": "mercadolivre:MLB5086206455",
       "product_id": "MLB5086206455",
       "catalog_product_id": "MLB55970674",
@@ -824,37 +854,7 @@
       "score": 111.87,
       "posted_ts": 1788080701,
       "posted_at": "2026-08-30T09:05:01.258073+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB7304556746",
-      "product_id": "MLB7304556746",
-      "catalog_product_id": "MLB76168566",
-      "item_id": "MLB7304556746",
-      "url": "https://www.mercadolivre.com.br/p/MLB76168566?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB76168566?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "comedouro dispenser de racao automatico 8l para caes gatos cor comedouro automatico vermelho",
-      "title": "Comedouro Dispenser De Ração Automático 8l Para Cães Gatos Cor Comedouro Automatico Vermelho",
-      "category": "Pet",
-      "price": 42.88,
-      "score": 138.47,
-      "posted_ts": 1788066170,
-      "posted_at": "2026-08-30T05:02:50.393693+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB6290574990",
-      "product_id": "MLB6290574990",
-      "catalog_product_id": "MLB22958206",
-      "item_id": "MLB6290574990",
-      "url": "https://www.mercadolivre.com.br/p/MLB22958206?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB22958206?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "aparelho monitor pressao arterial portatil pulso omron",
-      "title": "Aparelho Monitor Pressão Arterial Portátil Pulso Omron",
-      "category": "Informática",
-      "price": 150.66,
-      "score": 158.3,
-      "posted_ts": 1788062535,
-      "posted_at": "2026-08-30T04:02:15.624697+00:00"
     }
   ],
-  "updated_at": "2026-09-01T03:02:39.089858+00:00"
+  "updated_at": "2026-09-01T05:05:09.888529+00:00"
 }

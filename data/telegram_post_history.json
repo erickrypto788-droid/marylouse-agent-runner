@@ -1,6 +1,34 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB5168613493",
+      "marketplace": "mercadolivre",
+      "id": "MLB5168613493",
+      "title": "Celular Poco X6",
+      "title_norm": "celular poco x6",
+      "url": "https://www.mercadolivre.com.br/p/MLB47352305?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB47352305?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Informática",
+      "bucket": "celulares",
+      "posted_ts": 1788239109,
+      "posted_at": "2026-09-01T05:05:09.874601+00:00",
+      "score": 108.0
+    },
+    {
+      "key": "mercadolivre:MLB5026800457",
+      "marketplace": "mercadolivre",
+      "id": "MLB5026800457",
+      "title": "Carregador iPhone Tipo USB-C Cor Branco",
+      "title_norm": "carregador iphone tipo usb c cor branco",
+      "url": "https://www.mercadolivre.com.br/p/MLB20643765?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB20643765?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Informática",
+      "bucket": "celulares",
+      "posted_ts": 1788239045,
+      "posted_at": "2026-09-01T05:04:05.457509+00:00",
+      "score": 127.0
+    },
+    {
       "key": "shopee:58263195969",
       "marketplace": "shopee",
       "id": "58263195969",
@@ -13971,35 +13999,7 @@
       "posted_ts": 1787497397,
       "posted_at": "2026-08-23T15:03:17.717992+00:00",
       "score": 146.91
-    },
-    {
-      "key": "mercadolivre:MLB4719617285",
-      "marketplace": "mercadolivre",
-      "id": "MLB4719617285",
-      "title": "Ração Gato Estimacat Premium Adulto Sabor Carne 15kg",
-      "title_norm": "racao gato estimacat premium adulto sabor carne 15kg",
-      "url": "https://www.mercadolivre.com.br/p/MLB66541712?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB66541712?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "category": "Pet",
-      "bucket": "pet",
-      "posted_ts": 1787497333,
-      "posted_at": "2026-08-23T15:02:13.774511+00:00",
-      "score": 154.83
-    },
-    {
-      "key": "shopee:54052225033",
-      "marketplace": "shopee",
-      "id": "54052225033",
-      "title": "32 Peças Kit De Maquiagem Para Crianças Lavável/Conjunto Portátil Meninas",
-      "title_norm": "32 pecas kit de maquiagem para criancas lavavel conjunto portatil meninas",
-      "url": "https://shopee.com.br/product/1480010644/54052225033",
-      "affiliate_url": "https://s.shopee.com.br/4LIjvW36zR",
-      "category": "DJ Super Direct Shop",
-      "bucket": "beleza",
-      "posted_ts": 1787494732,
-      "posted_at": "2026-08-23T14:18:52.930489+00:00",
-      "score": 99.27
     }
   ],
-  "updated_at": "2026-09-01T04:21:06.491747+00:00"
+  "updated_at": "2026-09-01T05:05:09.874615+00:00"
 }
