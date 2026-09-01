@@ -1,6 +1,20 @@
 {
   "posts": [
     {
+      "key": "shopee:22594253216",
+      "marketplace": "shopee",
+      "id": "22594253216",
+      "title": "Base Dock Suporte Duplo de carregamento para 2 Controles Dualsense PS5 Slim Fat PRO",
+      "title_norm": "base dock suporte duplo de carregamento para 2 controles dualsense ps5 slim fat pro",
+      "url": "https://shopee.com.br/product/553989679/22594253216",
+      "affiliate_url": "https://s.shopee.com.br/3g3LPRDR7n",
+      "category": "TVS CONCEITO",
+      "bucket": "tvs_conceito",
+      "posted_ts": 1788275822,
+      "posted_at": "2026-09-01T15:17:02.901726+00:00",
+      "score": 13.93
+    },
+    {
       "key": "shopee:22891548549",
       "marketplace": "shopee",
       "id": "22891548549",
@@ -13985,21 +13999,7 @@
       "posted_ts": 1787527137,
       "posted_at": "2026-08-23T23:18:57.377640+00:00",
       "score": 126.77
-    },
-    {
-      "key": "shopee:22892686035",
-      "marketplace": "shopee",
-      "id": "22892686035",
-      "title": "Fone de Ouvido entrada lightning para Iphone Microfone Bluetooth",
-      "title_norm": "fone de ouvido entrada lightning para iphone microfone bluetooth",
-      "url": "https://shopee.com.br/product/987393610/22892686035",
-      "affiliate_url": "https://s.shopee.com.br/8fRmHGDtOZ",
-      "category": "ZSZ_SHOP",
-      "bucket": "celulares",
-      "posted_ts": 1787527066,
-      "posted_at": "2026-08-23T23:17:46.609996+00:00",
-      "score": 137.03
     }
   ],
-  "updated_at": "2026-09-01T14:21:31.791231+00:00"
+  "updated_at": "2026-09-01T15:17:02.901762+00:00"
 }
