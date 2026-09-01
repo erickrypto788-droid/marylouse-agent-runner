@@ -1,6 +1,36 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB7238539878",
+      "product_id": "MLB7238539878",
+      "catalog_product_id": "MLB39444837",
+      "item_id": "MLB7238539878",
+      "url": "https://www.mercadolivre.com.br/p/MLB39444837?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB39444837?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "smartphone samsung galaxy s23 ultra 512gb creme",
+      "title": "Smartphone Samsung Galaxy S23 Ultra 512gb Creme",
+      "category": "Informática",
+      "price": 5999.0,
+      "score": 124.0,
+      "posted_ts": 1788300237,
+      "posted_at": "2026-09-01T22:03:57.595965+00:00"
+    },
+    {
+      "key": "mercadolivre:MLB5683519902",
+      "product_id": "MLB5683519902",
+      "catalog_product_id": "MLB47306212",
+      "item_id": "MLB5683519902",
+      "url": "https://www.mercadolivre.com.br/p/MLB47306212?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB47306212?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "smartphone xiaomi redmi 12 preto 128 4gb e fone",
+      "title": "Smartphone Xiaomí Redmi 12 Preto 128/4gb + E Fone",
+      "category": "Informática",
+      "price": 899.0,
+      "score": 127.0,
+      "posted_ts": 1788300173,
+      "posted_at": "2026-09-01T22:02:53.657486+00:00"
+    },
+    {
       "key": "mercadolivre:MLB7226098148",
       "product_id": "MLB7226098148",
       "catalog_product_id": "MLB68059006",
@@ -704,37 +734,7 @@
       "score": 128.8,
       "posted_ts": 1788130944,
       "posted_at": "2026-08-30T23:02:24.681992+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB6491728674",
-      "product_id": "MLB6491728674",
-      "catalog_product_id": "MLB66945649",
-      "item_id": "MLB6491728674",
-      "url": "https://www.mercadolivre.com.br/p/MLB66945649?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB66945649?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "racao gato estimacat premium adulto sabor carne 1kg",
-      "title": "Ração Gato Estimacat Premium Adulto Sabor Carne 1kg",
-      "category": "Pet",
-      "price": 26.36,
-      "score": 119.83,
-      "posted_ts": 1788127398,
-      "posted_at": "2026-08-30T22:03:18.072041+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB4694661245",
-      "product_id": "MLB4694661245",
-      "catalog_product_id": "MLB67529462",
-      "item_id": "MLB4694661245",
-      "url": "https://www.mercadolivre.com.br/p/MLB67529462?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB67529462?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "comedouro elevado duplo racao gato porcelana acrilico 190ml porta racao gato comedouro rosa",
-      "title": "Comedouro Elevado Duplo Ração Gato Porcelana Acrilico 190ml Porta Racao Gato Comedouro Rosa",
-      "category": "Pet",
-      "price": 49.9,
-      "score": 146.91,
-      "posted_ts": 1788127334,
-      "posted_at": "2026-08-30T22:02:14.091637+00:00"
     }
   ],
-  "updated_at": "2026-09-01T21:02:52.711882+00:00"
+  "updated_at": "2026-09-01T22:03:57.595987+00:00"
 }

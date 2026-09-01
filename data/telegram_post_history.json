@@ -1,6 +1,34 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB7238539878",
+      "marketplace": "mercadolivre",
+      "id": "MLB7238539878",
+      "title": "Smartphone Samsung Galaxy S23 Ultra 512gb Creme",
+      "title_norm": "smartphone samsung galaxy s23 ultra 512gb creme",
+      "url": "https://www.mercadolivre.com.br/p/MLB39444837?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB39444837?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Informática",
+      "bucket": "celulares",
+      "posted_ts": 1788300237,
+      "posted_at": "2026-09-01T22:03:57.576187+00:00",
+      "score": 124.0
+    },
+    {
+      "key": "mercadolivre:MLB5683519902",
+      "marketplace": "mercadolivre",
+      "id": "MLB5683519902",
+      "title": "Smartphone Xiaomí Redmi 12 Preto 128/4gb + E Fone",
+      "title_norm": "smartphone xiaomi redmi 12 preto 128 4gb e fone",
+      "url": "https://www.mercadolivre.com.br/p/MLB47306212?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB47306212?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Informática",
+      "bucket": "celulares",
+      "posted_ts": 1788300173,
+      "posted_at": "2026-09-01T22:02:53.641417+00:00",
+      "score": 127.0
+    },
+    {
       "key": "shopee:27791019433",
       "marketplace": "shopee",
       "id": "27791019433",
@@ -13971,35 +13999,7 @@
       "posted_ts": 1787545128,
       "posted_at": "2026-08-24T04:18:48.311072+00:00",
       "score": 104.09
-    },
-    {
-      "key": "shopee:23193491200",
-      "marketplace": "shopee",
-      "id": "23193491200",
-      "title": "Boneca Lola Baby Com Chupeta Rosa Menina Brinquedo Infantil Bebê",
-      "title_norm": "boneca lola baby com chupeta rosa menina brinquedo infantil bebe",
-      "url": "https://shopee.com.br/product/769529304/23193491200",
-      "affiliate_url": "https://s.shopee.com.br/AKa1rDLBXg",
-      "category": "Icomprei.com.br",
-      "bucket": "pet",
-      "posted_ts": 1787545064,
-      "posted_at": "2026-08-24T04:17:44.030186+00:00",
-      "score": 104.18
-    },
-    {
-      "key": "shopee:58057297261",
-      "marketplace": "shopee",
-      "id": "58057297261",
-      "title": "Brinquedo De Pelúcia De Banana Com Música Sensor De Movimento , Bicho Macio Para Recém-Nascidos , Aniversário Interativo",
-      "title_norm": "brinquedo de pelucia de banana com musica sensor de movimento bicho macio para recem nascidos aniversario interativo",
-      "url": "https://shopee.com.br/product/1006215031/58057297261",
-      "affiliate_url": "https://s.shopee.com.br/5q7cUwlK2e",
-      "category": "Choice Oficial",
-      "bucket": "choice_oficial",
-      "posted_ts": 1787544999,
-      "posted_at": "2026-08-24T04:16:39.805373+00:00",
-      "score": 107.82
     }
   ],
-  "updated_at": "2026-09-01T21:20:56.850788+00:00"
+  "updated_at": "2026-09-01T22:03:57.576207+00:00"
 }
