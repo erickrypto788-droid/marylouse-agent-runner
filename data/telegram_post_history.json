@@ -1,6 +1,20 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB5141223201",
+      "marketplace": "mercadolivre",
+      "id": "MLB5141223201",
+      "title": "Comedouro Automático 4L Cães e Gatos APP WIFI Bluetooth APP Alimentador Inteligente Comedouro Automático Pet",
+      "title_norm": "comedouro automatico 4l caes e gatos app wifi bluetooth app alimentador inteligente comedouro automatico pet",
+      "url": "https://www.mercadolivre.com.br/p/MLB78396115?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB78396115?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Pet",
+      "bucket": "pet",
+      "posted_ts": 1788249768,
+      "posted_at": "2026-09-01T08:02:48.020107+00:00",
+      "score": 128.8
+    },
+    {
       "key": "shopee:22997757609",
       "marketplace": "shopee",
       "id": "22997757609",
@@ -13985,21 +13999,7 @@
       "posted_ts": 1787501998,
       "posted_at": "2026-08-23T16:19:58.511981+00:00",
       "score": 114.27
-    },
-    {
-      "key": "shopee:22392992790",
-      "marketplace": "shopee",
-      "id": "22392992790",
-      "title": "Batedor Misturador Mixer Elétrico para Bebidas Leite Café Clara de Ovo 2 em 1",
-      "title_norm": "batedor misturador mixer eletrico para bebidas leite cafe clara de ovo 2 em 1",
-      "url": "https://shopee.com.br/product/415175805/22392992790",
-      "affiliate_url": "https://s.shopee.com.br/8fRn4i37GX",
-      "category": "Isabela Top",
-      "bucket": "isabela_top",
-      "posted_ts": 1787501934,
-      "posted_at": "2026-08-23T16:18:54.347886+00:00",
-      "score": 114.77
     }
   ],
-  "updated_at": "2026-09-01T07:23:09.773866+00:00"
+  "updated_at": "2026-09-01T08:02:48.020124+00:00"
 }
