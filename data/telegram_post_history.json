@@ -1,6 +1,48 @@
 {
   "posts": [
     {
+      "key": "shopee:58262677272",
+      "marketplace": "shopee",
+      "id": "58262677272",
+      "title": "Kit Chinelo Feminino Com Pedraria Antiderrapante Confortável Casual Macio Leve Dia a Dia",
+      "title_norm": "kit chinelo feminino com pedraria antiderrapante confortavel casual macio leve dia a dia",
+      "url": "https://shopee.com.br/product/482037365/58262677272",
+      "affiliate_url": "https://s.shopee.com.br/1A22s55yV",
+      "category": "Marianth calçados",
+      "bucket": "calcados",
+      "posted_ts": 1788221933,
+      "posted_at": "2026-09-01T00:18:53.816892+00:00",
+      "score": 76.93
+    },
+    {
+      "key": "shopee:23699380722",
+      "marketplace": "shopee",
+      "id": "23699380722",
+      "title": "mega promoção queima de estoque Sandália Saltinho 4 cm Tira de Strass Brilho Nó Calce Fácil l elegante dia a dia",
+      "title_norm": "mega promocao queima de estoque sandalia saltinho 4 cm tira de strass brilho no calce facil l elegante dia a dia",
+      "url": "https://shopee.com.br/product/1718568808/23699380722",
+      "affiliate_url": "https://s.shopee.com.br/qj92Ot7ld",
+      "category": "AllureCalçados",
+      "bucket": "calcados",
+      "posted_ts": 1788221863,
+      "posted_at": "2026-09-01T00:17:43.989236+00:00",
+      "score": 100.85
+    },
+    {
+      "key": "shopee:23494198405",
+      "marketplace": "shopee",
+      "id": "23494198405",
+      "title": "Papete feminina Pérolas de strass de luxo sandália diferente feminina com fivela",
+      "title_norm": "papete feminina perolas de strass de luxo sandalia diferente feminina com fivela",
+      "url": "https://shopee.com.br/product/563080140/23494198405",
+      "affiliate_url": "https://s.shopee.com.br/8AVjlsn8Tq",
+      "category": "Meijile Loja especializada",
+      "bucket": "pet",
+      "posted_ts": 1788221799,
+      "posted_at": "2026-09-01T00:16:39.652901+00:00",
+      "score": 121.32
+    },
+    {
       "key": "mercadolivre:MLB5167218221",
       "marketplace": "mercadolivre",
       "id": "MLB5167218221",
@@ -13957,49 +13999,7 @@
       "posted_ts": 1787483024,
       "posted_at": "2026-08-23T11:03:44.867263+00:00",
       "score": 104.0
-    },
-    {
-      "key": "mercadolivre:MLB4455473269",
-      "marketplace": "mercadolivre",
-      "id": "MLB4455473269",
-      "title": "Soundbar Samsung Hw-b450f + Soundbar Hw-b400f",
-      "title_norm": "soundbar samsung hw b450f soundbar hw b400f",
-      "url": "https://www.mercadolivre.com.br/p/MLB65128496?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB65128496?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "category": "Informática",
-      "bucket": "informatica",
-      "posted_ts": 1787482951,
-      "posted_at": "2026-08-23T11:02:31.263074+00:00",
-      "score": 104.0
-    },
-    {
-      "key": "shopee:23693177961",
-      "marketplace": "shopee",
-      "id": "23693177961",
-      "title": "Aparelho Medidor De Glicose G-tech Vita Kit 10tiras+10lancet",
-      "title_norm": "aparelho medidor de glicose g tech vita kit 10tiras 10lancet",
-      "url": "https://shopee.com.br/product/1251321262/23693177961",
-      "affiliate_url": "https://s.shopee.com.br/6fgiIJVPi2",
-      "category": "Multimix Saúde Online",
-      "bucket": "multimix_saude_online",
-      "posted_ts": 1787480473,
-      "posted_at": "2026-08-23T10:21:13.399218+00:00",
-      "score": 100.85
-    },
-    {
-      "key": "shopee:43754234043",
-      "marketplace": "shopee",
-      "id": "43754234043",
-      "title": "Medidor Pressão Digital De Pulso Com Voz Monitor Inteligente Aparelho De Pressão",
-      "title_norm": "medidor pressao digital de pulso com voz monitor inteligente aparelho de pressao",
-      "url": "https://shopee.com.br/product/1259086167/43754234043",
-      "affiliate_url": "https://s.shopee.com.br/7psfgS9Zzx",
-      "category": "Cherrygo1.br",
-      "bucket": "cherrygo1_br",
-      "posted_ts": 1787480409,
-      "posted_at": "2026-08-23T10:20:09.233361+00:00",
-      "score": 106.69
     }
   ],
-  "updated_at": "2026-09-01T00:03:39.498126+00:00"
+  "updated_at": "2026-09-01T00:18:53.816905+00:00"
 }
