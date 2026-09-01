@@ -1,6 +1,36 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB4795061481",
+      "product_id": "MLB4795061481",
+      "catalog_product_id": "MLB74011420",
+      "item_id": "MLB4795061481",
+      "url": "https://www.mercadolivre.com.br/p/MLB74011420?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB74011420?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "molde calca legging feminina digital pp p m g gg",
+      "title": "Molde Calça Legging Feminina Digital Pp-p-m-g-gg",
+      "category": "Moda Feminina",
+      "price": 88.9,
+      "score": 88.0,
+      "posted_ts": 1788267850,
+      "posted_at": "2026-09-01T13:04:10.763665+00:00"
+    },
+    {
+      "key": "mercadolivre:MLB7083949146",
+      "product_id": "MLB7083949146",
+      "catalog_product_id": "MLB74893563",
+      "item_id": "MLB7083949146",
+      "url": "https://www.mercadolivre.com.br/p/MLB74893563?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB74893563?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "molde calca feminina moletom impresso p m g gg xg",
+      "title": "Molde Calça Feminina Moletom Impresso P/m/g/gg/xg",
+      "category": "Moda Feminina",
+      "price": 129.9,
+      "score": 88.0,
+      "posted_ts": 1788267786,
+      "posted_at": "2026-09-01T13:03:06.795901+00:00"
+    },
+    {
       "key": "mercadolivre:MLB6825867960",
       "product_id": "MLB6825867960",
       "catalog_product_id": "MLB68094806",
@@ -749,22 +779,7 @@
       "score": 179.3,
       "posted_ts": 1788098564,
       "posted_at": "2026-08-30T14:02:44.149296+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB6827581422",
-      "product_id": "MLB6827581422",
-      "catalog_product_id": "MLB70114350",
-      "item_id": "MLB6827581422",
-      "url": "https://www.mercadolivre.com.br/p/MLB70114350?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB70114350?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "prancha esteira ergometrica kikos e600ix preto",
-      "title": "Prancha Esteira Ergometrica Kikos E600ix Preto",
-      "category": "Esportes",
-      "price": 191.28,
-      "score": 120.27,
-      "posted_ts": 1788094944,
-      "posted_at": "2026-08-30T13:02:24.131402+00:00"
     }
   ],
-  "updated_at": "2026-09-01T12:09:20.054595+00:00"
+  "updated_at": "2026-09-01T13:04:10.763681+00:00"
 }

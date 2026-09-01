@@ -1,6 +1,34 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB4795061481",
+      "marketplace": "mercadolivre",
+      "id": "MLB4795061481",
+      "title": "Molde Calça Legging Feminina Digital Pp-p-m-g-gg",
+      "title_norm": "molde calca legging feminina digital pp p m g gg",
+      "url": "https://www.mercadolivre.com.br/p/MLB74011420?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB74011420?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Moda Feminina",
+      "bucket": "moda_feminina",
+      "posted_ts": 1788267850,
+      "posted_at": "2026-09-01T13:04:10.749159+00:00",
+      "score": 88.0
+    },
+    {
+      "key": "mercadolivre:MLB7083949146",
+      "marketplace": "mercadolivre",
+      "id": "MLB7083949146",
+      "title": "Molde Calça Feminina Moletom Impresso P/m/g/gg/xg",
+      "title_norm": "molde calca feminina moletom impresso p m g gg xg",
+      "url": "https://www.mercadolivre.com.br/p/MLB74893563?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB74893563?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Moda Feminina",
+      "bucket": "moda_feminina",
+      "posted_ts": 1788267786,
+      "posted_at": "2026-09-01T13:03:06.781347+00:00",
+      "score": 88.0
+    },
+    {
       "key": "shopee:22697710023",
       "marketplace": "shopee",
       "id": "22697710023",
@@ -13971,35 +13999,7 @@
       "posted_ts": 1787516389,
       "posted_at": "2026-08-23T20:19:49.538296+00:00",
       "score": 96.95
-    },
-    {
-      "key": "shopee:56361032931",
-      "marketplace": "shopee",
-      "id": "56361032931",
-      "title": "SELAH - BLUSA DE RENDA PLUS SIZE MODA FEMININA TRANSPARENTE",
-      "title_norm": "selah blusa de renda plus size moda feminina transparente",
-      "url": "https://shopee.com.br/product/819749025/56361032931",
-      "affiliate_url": "https://s.shopee.com.br/20us4XcKn0",
-      "category": "CASA DOS CROPPEDS",
-      "bucket": "moda_feminina",
-      "posted_ts": 1787516325,
-      "posted_at": "2026-08-23T20:18:45.498849+00:00",
-      "score": 102.8
-    },
-    {
-      "key": "shopee:22594652569",
-      "marketplace": "shopee",
-      "id": "22594652569",
-      "title": "Vestido Plus size Duna G,GG,G1",
-      "title_norm": "vestido plus size duna g gg g1",
-      "url": "https://shopee.com.br/product/1591632520/22594652569",
-      "affiliate_url": "https://s.shopee.com.br/3g363baSSK",
-      "category": "Smille Fashion",
-      "bucket": "moda_feminina",
-      "posted_ts": 1787516261,
-      "posted_at": "2026-08-23T20:17:41.496438+00:00",
-      "score": 103.71
     }
   ],
-  "updated_at": "2026-09-01T12:21:31.085195+00:00"
+  "updated_at": "2026-09-01T13:04:10.749177+00:00"
 }
