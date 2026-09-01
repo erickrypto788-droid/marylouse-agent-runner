@@ -1,6 +1,62 @@
 {
   "posts": [
     {
+      "key": "shopee:22898980977",
+      "marketplace": "shopee",
+      "id": "22898980977",
+      "title": "Principia Kit Duo c/ 2 Protetores Solares Faciais - PS-01 FPS 60",
+      "title_norm": "principia kit duo c 2 protetores solares faciais ps 01 fps 60",
+      "url": "https://shopee.com.br/product/373261329/22898980977",
+      "affiliate_url": "https://s.shopee.com.br/7AdCmP76C3",
+      "category": "Principia Skincare",
+      "bucket": "principia_skincare",
+      "posted_ts": 1788304792,
+      "posted_at": "2026-09-01T23:19:52.339486+00:00",
+      "score": 63.68
+    },
+    {
+      "key": "shopee:49514800038",
+      "marketplace": "shopee",
+      "id": "49514800038",
+      "title": "Colônia Champs Masculina 100ml (Embalagem Nova) - Jequiti",
+      "title_norm": "colonia champs masculina 100ml embalagem nova jequiti",
+      "url": "https://shopee.com.br/product/282271428/49514800038",
+      "affiliate_url": "https://s.shopee.com.br/4qFJKWOY7G",
+      "category": "Loja do Rei",
+      "bucket": "loja_do_rei",
+      "posted_ts": 1788304728,
+      "posted_at": "2026-09-01T23:18:48.413246+00:00",
+      "score": 66.5
+    },
+    {
+      "key": "shopee:23598844177",
+      "marketplace": "shopee",
+      "id": "23598844177",
+      "title": "GOKOCO Escova Secadora 7 Em 1 GD032 Conjunto De Secador De Cabelo Multifuncional De Alta Velocidade  Para Alisar Enrolar",
+      "title_norm": "gokoco escova secadora 7 em 1 gd032 conjunto de secador de cabelo multifuncional de alta velocidade para alisar enrolar",
+      "url": "https://shopee.com.br/product/1078551010/23598844177",
+      "affiliate_url": "https://s.shopee.com.br/9AOIUUCWMD",
+      "category": "GOKOCO Offical Shop.BR",
+      "bucket": "beleza",
+      "posted_ts": 1788304664,
+      "posted_at": "2026-09-01T23:17:44.273828+00:00",
+      "score": 129.71
+    },
+    {
+      "key": "shopee:40624794433",
+      "marketplace": "shopee",
+      "id": "40624794433",
+      "title": "Escova 5 em 1 Secador, Pente, Modelador, Aumenta volume Profissional 110V E 220V",
+      "title_norm": "escova 5 em 1 secador pente modelador aumenta volume profissional 110v e 220v",
+      "url": "https://shopee.com.br/product/1459307687/40624794433",
+      "affiliate_url": "https://s.shopee.com.br/1BM0xmgyaP",
+      "category": "Link&LinkShop_Brasil",
+      "bucket": "beleza",
+      "posted_ts": 1788304600,
+      "posted_at": "2026-09-01T23:16:40.292060+00:00",
+      "score": 132.55
+    },
+    {
       "key": "shopee:23193886166",
       "marketplace": "shopee",
       "id": "23193886166",
@@ -13943,63 +13999,7 @@
       "posted_ts": 1787552199,
       "posted_at": "2026-08-24T06:16:39.027294+00:00",
       "score": 134.84
-    },
-    {
-      "key": "mercadolivre:MLB4313106591",
-      "marketplace": "mercadolivre",
-      "id": "MLB4313106591",
-      "title": "Smartphone xiaomi Poco C85 6gb ram + 128gb, Preto",
-      "title_norm": "smartphone xiaomi poco c85 6gb ram 128gb preto",
-      "url": "https://www.mercadolivre.com.br/p/MLB56425611?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB56425611?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "category": "Informática",
-      "bucket": "celulares",
-      "posted_ts": 1787551359,
-      "posted_at": "2026-08-24T06:02:39.041263+00:00",
-      "score": 127.0
-    },
-    {
-      "key": "shopee:23292979767",
-      "marketplace": "shopee",
-      "id": "23292979767",
-      "title": "Balança Corporal Digital Banheiro Academia Crossfit Casa Suporta 180kg Vidro",
-      "title_norm": "balanca corporal digital banheiro academia crossfit casa suporta 180kg vidro",
-      "url": "https://shopee.com.br/product/987105961/23292979767",
-      "affiliate_url": "https://s.shopee.com.br/9zxBWjG2m7",
-      "category": "Virtualshopsp02",
-      "bucket": "virtualshopsp02",
-      "posted_ts": 1787548858,
-      "posted_at": "2026-08-24T05:20:58.598565+00:00",
-      "score": 89.15
-    },
-    {
-      "key": "shopee:55004354021",
-      "marketplace": "shopee",
-      "id": "55004354021",
-      "title": "Tira/Fita de Glicemia C/50 Unidades de Tiras - medidor de glicose - Bioland",
-      "title_norm": "tira fita de glicemia c 50 unidades de tiras medidor de glicose bioland",
-      "url": "https://shopee.com.br/product/464285438/55004354021",
-      "affiliate_url": "https://s.shopee.com.br/AAGbj2JoCg",
-      "category": "Lojao Da 25",
-      "bucket": "lojao_da_25",
-      "posted_ts": 1787548794,
-      "posted_at": "2026-08-24T05:19:54.372152+00:00",
-      "score": 89.23
-    },
-    {
-      "key": "shopee:41503878761",
-      "marketplace": "shopee",
-      "id": "41503878761",
-      "title": "Medidor Glicose Diabete Gtech Vita / Ultra Kit Com 1 Aparelho 1 Caneta 10 Tiras 10 Lancetas Completo",
-      "title_norm": "medidor glicose diabete gtech vita ultra kit com 1 aparelho 1 caneta 10 tiras 10 lancetas completo",
-      "url": "https://shopee.com.br/product/961638733/41503878761",
-      "affiliate_url": "https://s.shopee.com.br/AUtS7eIXWi",
-      "category": "ROMALIZ",
-      "bucket": "romaliz",
-      "posted_ts": 1787548730,
-      "posted_at": "2026-08-24T05:18:50.187571+00:00",
-      "score": 99.35
     }
   ],
-  "updated_at": "2026-09-01T22:20:55.451129+00:00"
+  "updated_at": "2026-09-01T23:19:52.339500+00:00"
 }
