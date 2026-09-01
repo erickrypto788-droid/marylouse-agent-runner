@@ -1,6 +1,62 @@
 {
   "posts": [
     {
+      "key": "shopee:58212070015",
+      "marketplace": "shopee",
+      "id": "58212070015",
+      "title": "Calça feminina plus size wide leg jeans",
+      "title_norm": "calca feminina plus size wide leg jeans",
+      "url": "https://shopee.com.br/product/1350883560/58212070015",
+      "affiliate_url": "https://s.shopee.com.br/AAGpLiwabd",
+      "category": "Magnata Conceito",
+      "bucket": "magnata_conceito",
+      "posted_ts": 1788286792,
+      "posted_at": "2026-09-01T18:19:52.205728+00:00",
+      "score": 58.04
+    },
+    {
+      "key": "shopee:58256061886",
+      "marketplace": "shopee",
+      "id": "58256061886",
+      "title": "Body Feminino Plus Size Decote V Manga tule Elegante Festa",
+      "title_norm": "body feminino plus size decote v manga tule elegante festa",
+      "url": "https://shopee.com.br/product/1026887169/58256061886",
+      "affiliate_url": "https://s.shopee.com.br/1qbhQPNuil",
+      "category": "Chicmodasa",
+      "bucket": "chicmodasa",
+      "posted_ts": 1788286728,
+      "posted_at": "2026-09-01T18:18:48.255336+00:00",
+      "score": 61.93
+    },
+    {
+      "key": "shopee:23095731294",
+      "marketplace": "shopee",
+      "id": "23095731294",
+      "title": "Kit 2 Calças Legging Plus Size Suplex Cintura Alta Costura Reforça G1 G2 G3",
+      "title_norm": "kit 2 calcas legging plus size suplex cintura alta costura reforca g1 g2 g3",
+      "url": "https://shopee.com.br/product/356848158/23095731294",
+      "affiliate_url": "https://s.shopee.com.br/BTTRLYetk",
+      "category": "TGL CONFECÇÕES ",
+      "bucket": "moda_feminina",
+      "posted_ts": 1788286664,
+      "posted_at": "2026-09-01T18:17:44.220534+00:00",
+      "score": 74.08
+    },
+    {
+      "key": "shopee:56811562732",
+      "marketplace": "shopee",
+      "id": "56811562732",
+      "title": "Blusa Feminina Plus Size Canelada Gola V Manga Curta Malha Premium do GG ao G3",
+      "title_norm": "blusa feminina plus size canelada gola v manga curta malha premium do gg ao g3",
+      "url": "https://shopee.com.br/product/1287359071/56811562732",
+      "affiliate_url": "https://s.shopee.com.br/7KwdqHbnsP",
+      "category": "ALUAP MODA FEMININA",
+      "bucket": "moda_feminina",
+      "posted_ts": 1788286600,
+      "posted_at": "2026-09-01T18:16:40.349480+00:00",
+      "score": 102.01
+    },
+    {
       "key": "shopee:23498390828",
       "marketplace": "shopee",
       "id": "23498390828",
@@ -13943,63 +13999,7 @@
       "posted_ts": 1787537880,
       "posted_at": "2026-08-24T02:18:00.039453+00:00",
       "score": 108.71
-    },
-    {
-      "key": "shopee:22393665567",
-      "marketplace": "shopee",
-      "id": "22393665567",
-      "title": "Tênis Branco Infantil Leve Macio Confortável Original Envio Imediato",
-      "title_norm": "tenis branco infantil leve macio confortavel original envio imediato",
-      "url": "https://shopee.com.br/product/303419140/22393665567",
-      "affiliate_url": "https://s.shopee.com.br/4LIoZy3Wjg",
-      "category": "Momy Calçados ✅",
-      "bucket": "calcados",
-      "posted_ts": 1787537815,
-      "posted_at": "2026-08-24T02:16:55.847942+00:00",
-      "score": 109.34
-    },
-    {
-      "key": "shopee:23099137392",
-      "marketplace": "shopee",
-      "id": "23099137392",
-      "title": "Protetor Solar Facial FPS 60 Antioleosidade com Base Efeito Matte Sunless 40g Envio Imediato",
-      "title_norm": "protetor solar facial fps 60 antioleosidade com base efeito matte sunless 40g envio imediato",
-      "url": "https://shopee.com.br/product/1533394801/23099137392",
-      "affiliate_url": "https://s.shopee.com.br/1qbTXExaqp",
-      "category": "LaVitta Health",
-      "bucket": "lavitta_health",
-      "posted_ts": 1787534334,
-      "posted_at": "2026-08-24T01:18:54.024691+00:00",
-      "score": 94.02
-    },
-    {
-      "key": "shopee:58264684239",
-      "marketplace": "shopee",
-      "id": "58264684239",
-      "title": "Kit Clareador Facial - Sabonete Líquido + Protetor Solar Clareador 70 FPS + Sérum Multicorretivo Clareador",
-      "title_norm": "kit clareador facial sabonete liquido protetor solar clareador 70 fps serum multicorretivo clareador",
-      "url": "https://shopee.com.br/product/1860098702/58264684239",
-      "affiliate_url": "https://s.shopee.com.br/9pdjneIkz2",
-      "category": "Hidrabene ",
-      "bucket": "supermercado",
-      "posted_ts": 1787534269,
-      "posted_at": "2026-08-24T01:17:49.971172+00:00",
-      "score": 109.56
-    },
-    {
-      "key": "shopee:20599198575",
-      "marketplace": "shopee",
-      "id": "20599198575",
-      "title": "Chapinha Prancha Cabelo Profissional Nano Titanium 450F BIVOLT",
-      "title_norm": "chapinha prancha cabelo profissional nano titanium 450f bivolt",
-      "url": "https://shopee.com.br/product/391739739/20599198575",
-      "affiliate_url": "https://s.shopee.com.br/60R2UtQ8I1",
-      "category": "ANJ.GG store",
-      "bucket": "beleza",
-      "posted_ts": 1787534201,
-      "posted_at": "2026-08-24T01:16:41.387531+00:00",
-      "score": 139.66
     }
   ],
-  "updated_at": "2026-09-01T17:21:03.314699+00:00"
+  "updated_at": "2026-09-01T18:19:52.205741+00:00"
 }
