@@ -1,6 +1,34 @@
 {
   "posts": [
     {
+      "key": "shopee:20198028410",
+      "marketplace": "shopee",
+      "id": "20198028410",
+      "title": "Bota CAT Coturno Preto Palmilha Gel Ortopédica Couro Masculino Promoção Envio Rápido",
+      "title_norm": "bota cat coturno preto palmilha gel ortopedica couro masculino promocao envio rapido",
+      "url": "https://shopee.com.br/product/391757444/20198028410",
+      "affiliate_url": "https://s.shopee.com.br/6fgvv0UOpR",
+      "category": "ELITE SHOES ",
+      "bucket": "calcados",
+      "posted_ts": 1788290277,
+      "posted_at": "2026-09-01T19:17:57.306010+00:00",
+      "score": 100.06
+    },
+    {
+      "key": "shopee:40771440846",
+      "marketplace": "shopee",
+      "id": "40771440846",
+      "title": "TENIS MASCULINO E FEMININO ACADEMIA CAMINHADA TREINO ADAPTION KIEV COM RELÓGIO DIGITAL E MEIA DO 34 AO 45",
+      "title_norm": "tenis masculino e feminino academia caminhada treino adaption kiev com relogio digital e meia do 34 ao 45",
+      "url": "https://shopee.com.br/product/323761608/40771440846",
+      "affiliate_url": "https://s.shopee.com.br/6VNVihHhEg",
+      "category": "Unity Store Shoes",
+      "bucket": "calcados",
+      "posted_ts": 1788290207,
+      "posted_at": "2026-09-01T19:16:47.143387+00:00",
+      "score": 101.75
+    },
+    {
       "key": "mercadolivre:MLB6711565494",
       "marketplace": "mercadolivre",
       "id": "MLB6711565494",
@@ -13971,35 +13999,7 @@
       "posted_ts": 1787538072,
       "posted_at": "2026-08-24T02:21:12.679679+00:00",
       "score": 104.34
-    },
-    {
-      "key": "shopee:18698032904",
-      "marketplace": "shopee",
-      "id": "18698032904",
-      "title": "Vestido Infantil Menina Princesa  Listrado Floral Barrado para Festas  Dia Das Crianças",
-      "title_norm": "vestido infantil menina princesa listrado floral barrado para festas dia das criancas",
-      "url": "https://shopee.com.br/product/615604454/18698032904",
-      "affiliate_url": "https://s.shopee.com.br/4fveyZtBQN",
-      "category": "Florenzza kids",
-      "bucket": "moda_feminina",
-      "posted_ts": 1787538008,
-      "posted_at": "2026-08-24T02:20:08.474726+00:00",
-      "score": 106.3
-    },
-    {
-      "key": "shopee:13558344669",
-      "marketplace": "shopee",
-      "id": "13558344669",
-      "title": "Vestido Infantil Bebê Menina Ariele Roupas Algodão",
-      "title_norm": "vestido infantil bebe menina ariele roupas algodao",
-      "url": "https://shopee.com.br/product/551346239/13558344669",
-      "affiliate_url": "https://s.shopee.com.br/3g37mjwzSH",
-      "category": "Mega Loja do Bebê",
-      "bucket": "moda_feminina",
-      "posted_ts": 1787537944,
-      "posted_at": "2026-08-24T02:19:04.250565+00:00",
-      "score": 106.31
     }
   ],
-  "updated_at": "2026-09-01T19:02:32.944771+00:00"
+  "updated_at": "2026-09-01T19:17:57.306024+00:00"
 }
