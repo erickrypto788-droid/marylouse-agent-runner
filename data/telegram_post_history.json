@@ -1,6 +1,20 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB5454690706",
+      "marketplace": "mercadolivre",
+      "id": "MLB5454690706",
+      "title": "Cadeira Escritório Secretaria Rcp Preto",
+      "title_norm": "cadeira escritorio secretaria rcp preto",
+      "url": "https://www.mercadolivre.com.br/p/MLB22813112?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB22813112?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Casa e Cozinha",
+      "bucket": "casa_e_cozinha",
+      "posted_ts": 1788271429,
+      "posted_at": "2026-09-01T14:03:49.251717+00:00",
+      "score": 98.12
+    },
+    {
       "key": "shopee:43276211812",
       "marketplace": "shopee",
       "id": "43276211812",
@@ -13985,21 +13999,7 @@
       "posted_ts": 1787523402,
       "posted_at": "2026-08-23T22:16:42.176076+00:00",
       "score": 114.51
-    },
-    {
-      "key": "shopee:23394636497",
-      "marketplace": "shopee",
-      "id": "23394636497",
-      "title": "Bota Botina Segurança Couro Legítimo CA Aprovado Bota EPI Antiderrapante Confortável Leve Unisex",
-      "title_norm": "bota botina seguranca couro legitimo ca aprovado bota epi antiderrapante confortavel leve unisex",
-      "url": "https://shopee.com.br/product/1406953915/23394636497",
-      "affiliate_url": "https://s.shopee.com.br/9fKKb9Fu4o",
-      "category": "VELLUDINE",
-      "bucket": "calcados",
-      "posted_ts": 1787519860,
-      "posted_at": "2026-08-23T21:17:40.130133+00:00",
-      "score": 107.2
     }
   ],
-  "updated_at": "2026-09-01T13:21:10.783735+00:00"
+  "updated_at": "2026-09-01T14:03:49.251732+00:00"
 }

@@ -1,6 +1,21 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB5454690706",
+      "product_id": "MLB5454690706",
+      "catalog_product_id": "MLB22813112",
+      "item_id": "MLB5454690706",
+      "url": "https://www.mercadolivre.com.br/p/MLB22813112?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB22813112?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "cadeira escritorio secretaria rcp preto",
+      "title": "Cadeira Escritório Secretaria Rcp Preto",
+      "category": "Casa e Cozinha",
+      "price": 247.17,
+      "score": 98.12,
+      "posted_ts": 1788271429,
+      "posted_at": "2026-09-01T14:03:49.265360+00:00"
+    },
+    {
       "key": "mercadolivre:MLB4795061481",
       "product_id": "MLB4795061481",
       "catalog_product_id": "MLB74011420",
@@ -764,22 +779,7 @@
       "score": 113.0,
       "posted_ts": 1788102168,
       "posted_at": "2026-08-30T15:02:48.145826+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB5495982148",
-      "product_id": "MLB5495982148",
-      "catalog_product_id": "MLB51434487",
-      "item_id": "MLB5495982148",
-      "url": "https://www.mercadolivre.com.br/p/MLB51434487?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB51434487?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "barbeador costas masculino traseiro dobravel aparador pelos",
-      "title": "Barbeador Costas Masculino Traseiro Dobrável Aparador Pelos",
-      "category": "Beleza",
-      "price": 218.0,
-      "score": 179.3,
-      "posted_ts": 1788098564,
-      "posted_at": "2026-08-30T14:02:44.149296+00:00"
     }
   ],
-  "updated_at": "2026-09-01T13:04:10.763681+00:00"
+  "updated_at": "2026-09-01T14:03:49.265369+00:00"
 }
