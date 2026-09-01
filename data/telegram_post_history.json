@@ -1,6 +1,62 @@
 {
   "posts": [
     {
+      "key": "shopee:58256213399",
+      "marketplace": "shopee",
+      "id": "58256213399",
+      "title": "Kit 03 Body Splash Arabe Feminino e Masculino Face Beautiful 200ml",
+      "title_norm": "kit 03 body splash arabe feminino e masculino face beautiful 200ml",
+      "url": "https://shopee.com.br/product/323429761/58256213399",
+      "affiliate_url": "https://s.shopee.com.br/8fS0Z9oG0d",
+      "category": "Shop Tall 2",
+      "bucket": "shop_tall_2",
+      "posted_ts": 1788232800,
+      "posted_at": "2026-09-01T03:20:00.537137+00:00",
+      "score": 79.77
+    },
+    {
+      "key": "shopee:25046330542",
+      "marketplace": "shopee",
+      "id": "25046330542",
+      "title": "Celimax Brightening Pore+ Dark Spot Cream 35ml, 7ml",
+      "title_norm": "celimax brightening pore dark spot cream 35ml 7ml",
+      "url": "https://shopee.com.br/product/457864097/25046330542",
+      "affiliate_url": "https://s.shopee.com.br/70Jma67jX0",
+      "category": "koksara.kbeauty",
+      "bucket": "koksara_kbeauty",
+      "posted_ts": 1788232736,
+      "posted_at": "2026-09-01T03:18:56.582130+00:00",
+      "score": 87.09
+    },
+    {
+      "key": "shopee:57608829881",
+      "marketplace": "shopee",
+      "id": "57608829881",
+      "title": "Kit 2 Perfumes Masculino e Feminino Luxo Presente Casal Premium Elegante Pronta Entrega Brasil",
+      "title_norm": "kit 2 perfumes masculino e feminino luxo presente casal premium elegante pronta entrega brasil",
+      "url": "https://shopee.com.br/product/1582653079/57608829881",
+      "affiliate_url": "https://s.shopee.com.br/9AOHA4mLzg",
+      "category": "Calm And Confort",
+      "bucket": "beleza",
+      "posted_ts": 1788232667,
+      "posted_at": "2026-09-01T03:17:47.631743+00:00",
+      "score": 120.64
+    },
+    {
+      "key": "shopee:58211387990",
+      "marketplace": "shopee",
+      "id": "58211387990",
+      "title": "Perfume Árabe Masculino Asad Bourbon Eau De Parfum 100ML",
+      "title_norm": "perfume arabe masculino asad bourbon eau de parfum 100ml",
+      "url": "https://shopee.com.br/product/1613322786/58211387990",
+      "affiliate_url": "https://s.shopee.com.br/7KwcyhtGU5",
+      "category": "LC_TECH_STORE",
+      "bucket": "beleza",
+      "posted_ts": 1788232599,
+      "posted_at": "2026-09-01T03:16:39.192276+00:00",
+      "score": 121.43
+    },
+    {
       "key": "mercadolivre:MLB5086206455",
       "marketplace": "mercadolivre",
       "id": "MLB5086206455",
@@ -13943,63 +13999,7 @@
       "posted_ts": 1787491127,
       "posted_at": "2026-08-23T13:18:47.974293+00:00",
       "score": 120.72
-    },
-    {
-      "key": "shopee:20897812743",
-      "marketplace": "shopee",
-      "id": "20897812743",
-      "title": "Mochila Faculdade Reforçada Compartimento Para Notebook Escolar Unissex Diversas Cores",
-      "title_norm": "mochila faculdade reforcada compartimento para notebook escolar unissex diversas cores",
-      "url": "https://shopee.com.br/product/1003774706/20897812743",
-      "affiliate_url": "https://s.shopee.com.br/8plBkFDDtR",
-      "category": "Fk Comercial",
-      "bucket": "informatica",
-      "posted_ts": 1787491063,
-      "posted_at": "2026-08-23T13:17:43.939134+00:00",
-      "score": 123.85
-    },
-    {
-      "key": "shopee:22799125551",
-      "marketplace": "shopee",
-      "id": "22799125551",
-      "title": "Mochila Masculina Esportiva Impermeável para Notebook, Mochila Escolar de Viagem e Trabalho",
-      "title_norm": "mochila masculina esportiva impermeavel para notebook mochila escolar de viagem e trabalho",
-      "url": "https://shopee.com.br/product/1658947107/22799125551",
-      "affiliate_url": "https://s.shopee.com.br/7VFpUCMfnn",
-      "category": "RON CHANG",
-      "bucket": "informatica",
-      "posted_ts": 1787490999,
-      "posted_at": "2026-08-23T13:16:39.871125+00:00",
-      "score": 126.44
-    },
-    {
-      "key": "shopee:22793112239",
-      "marketplace": "shopee",
-      "id": "22793112239",
-      "title": "Mochila Notebook Escolar Executiva Masculina Feminina Bolsa Resistente",
-      "title_norm": "mochila notebook escolar executiva masculina feminina bolsa resistente",
-      "url": "https://shopee.com.br/product/404962557/22793112239",
-      "affiliate_url": "https://s.shopee.com.br/9V0tnl3bcR",
-      "category": "beleza bolsa",
-      "bucket": "informatica",
-      "posted_ts": 1787487599,
-      "posted_at": "2026-08-23T12:19:59.058012+00:00",
-      "score": 114.45
-    },
-    {
-      "key": "shopee:21099546181",
-      "marketplace": "shopee",
-      "id": "21099546181",
-      "title": "Bolsa Feminina Pequena de Ombro Impermeável, Mini Tiracolo de Couro para Trabalho e Festa",
-      "title_norm": "bolsa feminina pequena de ombro impermeavel mini tiracolo de couro para trabalho e festa",
-      "url": "https://shopee.com.br/product/1198407784/21099546181",
-      "affiliate_url": "https://s.shopee.com.br/3qMVivlwqk",
-      "category": "Romantic Crown.02",
-      "bucket": "bolsas",
-      "posted_ts": 1787487526,
-      "posted_at": "2026-08-23T12:18:46.526746+00:00",
-      "score": 114.97
     }
   ],
-  "updated_at": "2026-09-01T03:02:39.079929+00:00"
+  "updated_at": "2026-09-01T03:20:00.537159+00:00"
 }
