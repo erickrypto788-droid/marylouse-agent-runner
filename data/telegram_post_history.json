@@ -1,6 +1,34 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB5167218221",
+      "marketplace": "mercadolivre",
+      "id": "MLB5167218221",
+      "title": "Kit Maquina Cortar Cabelo + Maquina Barbeador Recarregavel",
+      "title_norm": "kit maquina cortar cabelo maquina barbeador recarregavel",
+      "url": "https://www.mercadolivre.com.br/p/MLB20624919?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB20624919?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Beleza",
+      "bucket": "beleza",
+      "posted_ts": 1788221019,
+      "posted_at": "2026-09-01T00:03:39.498102+00:00",
+      "score": 113.0
+    },
+    {
+      "key": "mercadolivre:MLB5041531745",
+      "marketplace": "mercadolivre",
+      "id": "MLB5041531745",
+      "title": "Chapinha Cabelo Profissional 450f Slim Bivolt, Titanium",
+      "title_norm": "chapinha cabelo profissional 450f slim bivolt titanium",
+      "url": "https://www.mercadolivre.com.br/p/MLB74370100?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB74370100?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Beleza",
+      "bucket": "beleza",
+      "posted_ts": 1788220946,
+      "posted_at": "2026-09-01T00:02:26.565263+00:00",
+      "score": 113.0
+    },
+    {
       "key": "shopee:23494401704",
       "marketplace": "shopee",
       "id": "23494401704",
@@ -13971,35 +13999,7 @@
       "posted_ts": 1787480409,
       "posted_at": "2026-08-23T10:20:09.233361+00:00",
       "score": 106.69
-    },
-    {
-      "key": "shopee:50602409494",
-      "marketplace": "shopee",
-      "id": "50602409494",
-      "title": "Balança Corporal Transparente Quadrada Digital Até 180kg Com Vidro Temperado Premium - OliverHome",
-      "title_norm": "balanca corporal transparente quadrada digital ate 180kg com vidro temperado premium oliverhome",
-      "url": "https://shopee.com.br/product/1227023039/50602409494",
-      "affiliate_url": "https://s.shopee.com.br/50YUJFXdMq",
-      "category": "Dona Cor",
-      "bucket": "dona_cor",
-      "posted_ts": 1787480345,
-      "posted_at": "2026-08-23T10:19:05.032219+00:00",
-      "score": 114.51
-    },
-    {
-      "key": "shopee:20599334746",
-      "marketplace": "shopee",
-      "id": "20599334746",
-      "title": "Termômetro De Testa Infravermelha Digital",
-      "title_norm": "termometro de testa infravermelha digital",
-      "url": "https://shopee.com.br/product/1312114484/20599334746",
-      "affiliate_url": "https://s.shopee.com.br/AAGaSk4tGB",
-      "category": "HappyShop_",
-      "bucket": "saude",
-      "posted_ts": 1787480273,
-      "posted_at": "2026-08-23T10:17:53.603522+00:00",
-      "score": 145.76
     }
   ],
-  "updated_at": "2026-08-31T23:17:51.600576+00:00"
+  "updated_at": "2026-09-01T00:03:39.498126+00:00"
 }
