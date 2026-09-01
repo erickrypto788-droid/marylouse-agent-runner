@@ -1,6 +1,62 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB6825867960",
+      "marketplace": "mercadolivre",
+      "id": "MLB6825867960",
+      "title": "Condicionador Infantil Lowell Mirtilinho 240ml",
+      "title_norm": "condicionador infantil lowell mirtilinho 240ml",
+      "url": "https://www.mercadolivre.com.br/p/MLB68094806?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB68094806?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Beleza",
+      "bucket": "beleza",
+      "posted_ts": 1788264560,
+      "posted_at": "2026-09-01T12:09:20.039803+00:00",
+      "score": 88.0
+    },
+    {
+      "key": "mercadolivre:MLB5807012940",
+      "marketplace": "mercadolivre",
+      "id": "MLB5807012940",
+      "title": "Creme Dental 50 Gr - Bioxtra",
+      "title_norm": "creme dental 50 gr bioxtra",
+      "url": "https://www.mercadolivre.com.br/p/MLB20572035?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB20572035?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Supermercados",
+      "bucket": "supermercados",
+      "posted_ts": 1788264495,
+      "posted_at": "2026-09-01T12:08:15.988254+00:00",
+      "score": 89.0
+    },
+    {
+      "key": "mercadolivre:MLB4942497243",
+      "marketplace": "mercadolivre",
+      "id": "MLB4942497243",
+      "title": "Papel Higiênico Familiar Folha Dupla 24 Rolos",
+      "title_norm": "papel higienico familiar folha dupla 24 rolos",
+      "url": "https://www.mercadolivre.com.br/p/MLB66453791?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB66453791?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Supermercados",
+      "bucket": "supermercado",
+      "posted_ts": 1788264432,
+      "posted_at": "2026-09-01T12:07:12.054412+00:00",
+      "score": 114.0
+    },
+    {
+      "key": "mercadolivre:MLB5731460940",
+      "marketplace": "mercadolivre",
+      "id": "MLB5731460940",
+      "title": "Sabão em pó Ypê Lava Roupas em Pó Tixan Lava Roupas em pó garrafa 2.2 kg",
+      "title_norm": "sabao em po ype lava roupas em po tixan lava roupas em po garrafa 2 2 kg",
+      "url": "https://www.mercadolivre.com.br/p/MLB51325266?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB51325266?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Supermercados",
+      "bucket": "supermercados",
+      "posted_ts": 1788264360,
+      "posted_at": "2026-09-01T12:06:00.722373+00:00",
+      "score": 119.65
+    },
+    {
       "key": "shopee:22191925108",
       "marketplace": "shopee",
       "id": "22191925108",
@@ -13943,63 +13999,7 @@
       "posted_ts": 1787515425,
       "posted_at": "2026-08-23T20:03:45.976422+00:00",
       "score": 144.05
-    },
-    {
-      "key": "shopee:22992443699",
-      "marketplace": "shopee",
-      "id": "22992443699",
-      "title": "Calça Jeans Masculina Lycra Premium Slim Casual Elegante para o Dia a Dia",
-      "title_norm": "calca jeans masculina lycra premium slim casual elegante para o dia a dia",
-      "url": "https://shopee.com.br/product/1079083566/22992443699",
-      "affiliate_url": "https://s.shopee.com.br/7psgHXDiIz",
-      "category": "New Collection Jeans",
-      "bucket": "new_collection_jeans",
-      "posted_ts": 1787512852,
-      "posted_at": "2026-08-23T19:20:52.450514+00:00",
-      "score": 69.52
-    },
-    {
-      "key": "shopee:22798695078",
-      "marketplace": "shopee",
-      "id": "22798695078",
-      "title": "CAMISA 100% ALGODÃO UNISSEX ESTAMPA PERSONALIZADA LOGO UNIFORME FOTOS ARTS FRASES DA SUA PREFERENCIA",
-      "title_norm": "camisa 100 algodao unissex estampa personalizada logo uniforme fotos arts frases da sua preferencia",
-      "url": "https://shopee.com.br/product/1556141772/22798695078",
-      "affiliate_url": "https://s.shopee.com.br/9fKKSttOlo",
-      "category": "kilipe",
-      "bucket": "kilipe",
-      "posted_ts": 1787512788,
-      "posted_at": "2026-08-23T19:19:48.395027+00:00",
-      "score": 93.61
-    },
-    {
-      "key": "shopee:23793879757",
-      "marketplace": "shopee",
-      "id": "23793879757",
-      "title": "Daily T-shirt Insider",
-      "title_norm": "daily t shirt insider",
-      "url": "https://shopee.com.br/product/1462595809/23793879757",
-      "affiliate_url": "https://s.shopee.com.br/8AVU5SJxhY",
-      "category": "INSIDER",
-      "bucket": "insider",
-      "posted_ts": 1787512724,
-      "posted_at": "2026-08-23T19:18:44.415609+00:00",
-      "score": 106.18
-    },
-    {
-      "key": "shopee:22393516179",
-      "marketplace": "shopee",
-      "id": "22393516179",
-      "title": "Conjunto Infantil Masculino - Camisa + Bermuda Para O Verão 2025",
-      "title_norm": "conjunto infantil masculino camisa bermuda para o verao 2025",
-      "url": "https://shopee.com.br/product/1396316927/22393516179",
-      "affiliate_url": "https://s.shopee.com.br/9KhU4HufRm",
-      "category": "KJ Company",
-      "bucket": "kj_company",
-      "posted_ts": 1787512660,
-      "posted_at": "2026-08-23T19:17:40.467916+00:00",
-      "score": 109.35
     }
   ],
-  "updated_at": "2026-09-01T11:20:58.469167+00:00"
+  "updated_at": "2026-09-01T12:09:20.039826+00:00"
 }
