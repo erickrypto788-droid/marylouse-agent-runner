@@ -1,6 +1,36 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB4139317597",
+      "product_id": "MLB4139317597",
+      "catalog_product_id": "MLB23649057",
+      "item_id": "MLB4139317597",
+      "url": "https://www.mercadolivre.com.br/p/MLB23649057?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB23649057?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "furadeira parafusadeira imp c parafusadeira imp dlx2336syx",
+      "title": "Furadeira Parafusadeira Imp C/ Parafusadeira Imp Dlx2336syx",
+      "category": "Ferramentas",
+      "price": 1659.5,
+      "score": 108.0,
+      "posted_ts": 1788228259,
+      "posted_at": "2026-09-01T02:04:19.913469+00:00"
+    },
+    {
+      "key": "mercadolivre:MLB5183821060",
+      "product_id": "MLB5183821060",
+      "catalog_product_id": "MLB19765397",
+      "item_id": "MLB5183821060",
+      "url": "https://www.mercadolivre.com.br/p/MLB19765397?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB19765397?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "combo furadeira parafusadeira df333d parafusadeira de impacto td110d 12v clx224sax",
+      "title": "Combo Furadeira Parafusadeira DF333D + Parafusadeira de Impacto TD110D 12V - CLX224SAX",
+      "category": "Ferramentas",
+      "price": 1213.0,
+      "score": 111.0,
+      "posted_ts": 1788228188,
+      "posted_at": "2026-09-01T02:03:08.931943+00:00"
+    },
+    {
       "key": "mercadolivre:MLB5167218221",
       "product_id": "MLB5167218221",
       "catalog_product_id": "MLB20624919",
@@ -809,37 +839,7 @@
       "score": 158.3,
       "posted_ts": 1788062535,
       "posted_at": "2026-08-30T04:02:15.624697+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB7174659716",
-      "product_id": "MLB7174659716",
-      "catalog_product_id": "MLB59103594",
-      "item_id": "MLB7174659716",
-      "url": "https://www.mercadolivre.com.br/p/MLB59103594?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB59103594?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "smartphone xiaomi 15t 5g 12 12gb ram 512gb cinza",
-      "title": "Smartphone Xiaomi 15t 5g 12+12gb Ram + 512gb, Cinza",
-      "category": "Informática",
-      "price": 4509.0,
-      "score": 140.81,
-      "posted_ts": 1788055371,
-      "posted_at": "2026-08-30T02:02:51.078666+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB7150469040",
-      "product_id": "MLB7150469040",
-      "catalog_product_id": "MLB59821316",
-      "item_id": "MLB7150469040",
-      "url": "https://www.mercadolivre.com.br/p/MLB59821316?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB59821316?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "tv box rbi smart tv box 4k prosb 2000 preto 5 geracao wi fi hdmi",
-      "title": "TV Box RBI Smart TV Box 4K PROSB-2000 Preto 5ª Geração Wi-Fi HDMI",
-      "category": "Pet",
-      "price": 176.9,
-      "score": 113.0,
-      "posted_ts": 1788051829,
-      "posted_at": "2026-08-30T01:03:49.089358+00:00"
     }
   ],
-  "updated_at": "2026-09-01T00:03:39.514294+00:00"
+  "updated_at": "2026-09-01T02:04:19.913481+00:00"
 }

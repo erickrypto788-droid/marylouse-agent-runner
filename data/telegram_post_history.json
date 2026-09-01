@@ -1,6 +1,34 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB4139317597",
+      "marketplace": "mercadolivre",
+      "id": "MLB4139317597",
+      "title": "Furadeira Parafusadeira Imp C/ Parafusadeira Imp Dlx2336syx",
+      "title_norm": "furadeira parafusadeira imp c parafusadeira imp dlx2336syx",
+      "url": "https://www.mercadolivre.com.br/p/MLB23649057?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB23649057?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Ferramentas",
+      "bucket": "ferramentas",
+      "posted_ts": 1788228259,
+      "posted_at": "2026-09-01T02:04:19.903688+00:00",
+      "score": 108.0
+    },
+    {
+      "key": "mercadolivre:MLB5183821060",
+      "marketplace": "mercadolivre",
+      "id": "MLB5183821060",
+      "title": "Combo Furadeira Parafusadeira DF333D + Parafusadeira de Impacto TD110D 12V - CLX224SAX",
+      "title_norm": "combo furadeira parafusadeira df333d parafusadeira de impacto td110d 12v clx224sax",
+      "url": "https://www.mercadolivre.com.br/p/MLB19765397?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB19765397?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Ferramentas",
+      "bucket": "ferramentas",
+      "posted_ts": 1788228188,
+      "posted_at": "2026-09-01T02:03:08.922158+00:00",
+      "score": 111.0
+    },
+    {
       "key": "shopee:23194677648",
       "marketplace": "shopee",
       "id": "23194677648",
@@ -13971,35 +13999,7 @@
       "posted_ts": 1787486588,
       "posted_at": "2026-08-23T12:03:08.459722+00:00",
       "score": 127.0
-    },
-    {
-      "key": "shopee:21032149959",
-      "marketplace": "shopee",
-      "id": "21032149959",
-      "title": "Kit de 3 Lençol Cercado De Bebê Chiqueirinho com elástico Percal 400 fios berço portátil",
-      "title_norm": "kit de 3 lencol cercado de bebe chiqueirinho com elastico percal 400 fios berco portatil",
-      "url": "https://shopee.com.br/product/367895429/21032149959",
-      "affiliate_url": "https://s.shopee.com.br/6L3rxovTVH",
-      "category": "GRUPO HH BABY Loja 1",
-      "bucket": "grupo_hh_baby_loja_1",
-      "posted_ts": 1787484079,
-      "posted_at": "2026-08-23T11:21:19.520103+00:00",
-      "score": 105.02
-    },
-    {
-      "key": "shopee:23098678815",
-      "marketplace": "shopee",
-      "id": "23098678815",
-      "title": "Berço Portátil Moises Co-bed Com Balanço Mosquiteiro e Cesto Regulagem de Altura",
-      "title_norm": "berco portatil moises co bed com balanco mosquiteiro e cesto regulagem de altura",
-      "url": "https://shopee.com.br/product/1506260557/23098678815",
-      "affiliate_url": "https://s.shopee.com.br/40fxBX4MEq",
-      "category": "Amor de Mãe Shop",
-      "bucket": "amor_de_mae_shop",
-      "posted_ts": 1787484015,
-      "posted_at": "2026-08-23T11:20:15.358642+00:00",
-      "score": 107.79
     }
   ],
-  "updated_at": "2026-09-01T01:20:28.131616+00:00"
+  "updated_at": "2026-09-01T02:04:19.903710+00:00"
 }
