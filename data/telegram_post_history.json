@@ -1,6 +1,20 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB6711565494",
+      "marketplace": "mercadolivre",
+      "id": "MLB6711565494",
+      "title": "Kit Furadeira e Parafusadeira com Parafusadeira Dewalt Modelo DCK200ME2GT 2 Baterias 20V",
+      "title_norm": "kit furadeira e parafusadeira com parafusadeira dewalt modelo dck200me2gt 2 baterias 20v",
+      "url": "https://www.mercadolivre.com.br/p/MLB37180897?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB37180897?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Ferramentas",
+      "bucket": "ferramentas",
+      "posted_ts": 1788289352,
+      "posted_at": "2026-09-01T19:02:32.944751+00:00",
+      "score": 120.17
+    },
+    {
       "key": "shopee:58212070015",
       "marketplace": "shopee",
       "id": "58212070015",
@@ -13985,21 +13999,7 @@
       "posted_ts": 1787537944,
       "posted_at": "2026-08-24T02:19:04.250565+00:00",
       "score": 106.31
-    },
-    {
-      "key": "shopee:22296700159",
-      "marketplace": "shopee",
-      "id": "22296700159",
-      "title": "Conjunto Infantil Menino Verão – Camiseta + Bermuda Confortável | 1 a 12 Anos",
-      "title_norm": "conjunto infantil menino verao camiseta bermuda confortavel 1 a 12 anos",
-      "url": "https://shopee.com.br/product/877098627/22296700159",
-      "affiliate_url": "https://s.shopee.com.br/30nQzW3vaX",
-      "category": "Moda Kids Virtual",
-      "bucket": "moda_kids_virtual",
-      "posted_ts": 1787537880,
-      "posted_at": "2026-08-24T02:18:00.039453+00:00",
-      "score": 108.71
     }
   ],
-  "updated_at": "2026-09-01T18:19:52.205741+00:00"
+  "updated_at": "2026-09-01T19:02:32.944771+00:00"
 }
