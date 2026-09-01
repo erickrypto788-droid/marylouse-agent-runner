@@ -1,6 +1,48 @@
 {
   "posts": [
     {
+      "key": "shopee:17934801158",
+      "marketplace": "shopee",
+      "id": "17934801158",
+      "title": "Micro-ondas Mondial Mo 01 21 B Potencia 1200w 60hz 21 Litros",
+      "title_norm": "micro ondas mondial mo 01 21 b potencia 1200w 60hz 21 litros",
+      "url": "https://shopee.com.br/product/359168917/17934801158",
+      "affiliate_url": "https://s.shopee.com.br/6q0MJg5qiB",
+      "category": "LOI BRASIL",
+      "bucket": "loi_brasil",
+      "posted_ts": 1788229132,
+      "posted_at": "2026-09-01T02:18:52.822834+00:00",
+      "score": 57.88
+    },
+    {
+      "key": "shopee:23392997431",
+      "marketplace": "shopee",
+      "id": "23392997431",
+      "title": "Aspirador de Pó Doméstico 3 em 1 Sem Fio Limpeza Sucção USB",
+      "title_norm": "aspirador de po domestico 3 em 1 sem fio limpeza succao usb",
+      "url": "https://shopee.com.br/product/1232649860/23392997431",
+      "affiliate_url": "https://s.shopee.com.br/5As8Kc7j4W",
+      "category": "SLX 123",
+      "bucket": "casa_cozinha",
+      "posted_ts": 1788229068,
+      "posted_at": "2026-09-01T02:17:48.808378+00:00",
+      "score": 108.13
+    },
+    {
+      "key": "shopee:23293814378",
+      "marketplace": "shopee",
+      "id": "23293814378",
+      "title": "Aspirador De Pó Para Carro Soprador De Poeira Sem Fio Recarregável De Alta Potência Envio imediato",
+      "title_norm": "aspirador de po para carro soprador de poeira sem fio recarregavel de alta potencia envio imediato",
+      "url": "https://shopee.com.br/product/676651970/23293814378",
+      "affiliate_url": "https://s.shopee.com.br/4fvrjh9d5T",
+      "category": "Chenjyacessorios",
+      "bucket": "casa_cozinha",
+      "posted_ts": 1788229004,
+      "posted_at": "2026-09-01T02:16:44.745020+00:00",
+      "score": 137.33
+    },
+    {
       "key": "mercadolivre:MLB4139317597",
       "marketplace": "mercadolivre",
       "id": "MLB4139317597",
@@ -13957,49 +13999,7 @@
       "posted_ts": 1787487462,
       "posted_at": "2026-08-23T12:17:42.277506+00:00",
       "score": 115.19
-    },
-    {
-      "key": "shopee:58209895415",
-      "marketplace": "shopee",
-      "id": "58209895415",
-      "title": "Mochila de Viagem Masculina e Feminina Impermeável e Reforçada com Compartimento para Notebook",
-      "title_norm": "mochila de viagem masculina e feminina impermeavel e reforcada com compartimento para notebook",
-      "url": "https://shopee.com.br/product/1789754785/58209895415",
-      "affiliate_url": "https://s.shopee.com.br/7KwNtMYcqO",
-      "category": "Solperk",
-      "bucket": "informatica",
-      "posted_ts": 1787487397,
-      "posted_at": "2026-08-23T12:16:37.947285+00:00",
-      "score": 135.0
-    },
-    {
-      "key": "mercadolivre:MLB3900697873",
-      "marketplace": "mercadolivre",
-      "id": "MLB3900697873",
-      "title": "Smartphone Xiaomi Redmi 13 Cor Azul-marinho",
-      "title_norm": "smartphone xiaomi redmi 13 cor azul marinho",
-      "url": "https://www.mercadolivre.com.br/p/MLB41629336?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB41629336?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "category": "Informática",
-      "bucket": "celulares",
-      "posted_ts": 1787486656,
-      "posted_at": "2026-08-23T12:04:16.000961+00:00",
-      "score": 127.0
-    },
-    {
-      "key": "mercadolivre:MLB6834381736",
-      "marketplace": "mercadolivre",
-      "id": "MLB6834381736",
-      "title": "Smartphone Xiaomi Redmi 15c 256gb Global Azul",
-      "title_norm": "smartphone xiaomi redmi 15c 256gb global azul",
-      "url": "https://www.mercadolivre.com.br/p/MLB61421090?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB61421090?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "category": "Informática",
-      "bucket": "celulares",
-      "posted_ts": 1787486588,
-      "posted_at": "2026-08-23T12:03:08.459722+00:00",
-      "score": 127.0
     }
   ],
-  "updated_at": "2026-09-01T02:04:19.903710+00:00"
+  "updated_at": "2026-09-01T02:18:52.822850+00:00"
 }
