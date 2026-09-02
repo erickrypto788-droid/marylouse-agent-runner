@@ -1,6 +1,21 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB7197070408",
+      "product_id": "MLB7197070408",
+      "catalog_product_id": "MLB75425217",
+      "item_id": "MLB7197070408",
+      "url": "https://www.mercadolivre.com.br/p/MLB75425217?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB75425217?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "monitor pressao omron 7122 saude no seu braco",
+      "title": "Monitor Pressão Omron 7122: Saúde No Seu Braço",
+      "category": "Informática",
+      "price": 285.0,
+      "score": 88.0,
+      "posted_ts": 1788307350,
+      "posted_at": "2026-09-02T00:02:30.917921+00:00"
+    },
+    {
       "key": "mercadolivre:MLB7238539878",
       "product_id": "MLB7238539878",
       "catalog_product_id": "MLB39444837",
@@ -704,37 +719,7 @@
       "score": 110.48,
       "posted_ts": 1788134609,
       "posted_at": "2026-08-31T00:03:29.865273+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB4864941673",
-      "product_id": "MLB4864941673",
-      "catalog_product_id": "MLB51893724",
-      "item_id": "MLB4864941673",
-      "url": "https://www.mercadolivre.com.br/p/MLB51893724?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB51893724?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "baba eletronica hellobaby hb66pro monitor bebe 3 2 white",
-      "title": "Babá Eletrônica Hellobaby Hb66pro Monitor Bebê 3.2 White",
-      "category": "Informática",
-      "price": 386.56,
-      "score": 86.0,
-      "posted_ts": 1788131008,
-      "posted_at": "2026-08-30T23:03:28.589590+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB6589686808",
-      "product_id": "MLB6589686808",
-      "catalog_product_id": "MLB40540370",
-      "item_id": "MLB6589686808",
-      "url": "https://www.mercadolivre.com.br/p/MLB40540370?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB40540370?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "tchauzinho fralda melhoramentos",
-      "title": "Tchauzinho, Fralda! - Melhoramentos",
-      "category": "Mãe e Bebê",
-      "price": 48.4,
-      "score": 128.8,
-      "posted_ts": 1788130944,
-      "posted_at": "2026-08-30T23:02:24.681992+00:00"
     }
   ],
-  "updated_at": "2026-09-01T22:03:57.595987+00:00"
+  "updated_at": "2026-09-02T00:02:30.917934+00:00"
 }

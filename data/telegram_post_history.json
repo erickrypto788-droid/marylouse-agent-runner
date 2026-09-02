@@ -1,6 +1,20 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB7197070408",
+      "marketplace": "mercadolivre",
+      "id": "MLB7197070408",
+      "title": "Monitor Pressão Omron 7122: Saúde No Seu Braço",
+      "title_norm": "monitor pressao omron 7122 saude no seu braco",
+      "url": "https://www.mercadolivre.com.br/p/MLB75425217?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB75425217?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Informática",
+      "bucket": "informatica",
+      "posted_ts": 1788307350,
+      "posted_at": "2026-09-02T00:02:30.903220+00:00",
+      "score": 88.0
+    },
+    {
       "key": "shopee:22898980977",
       "marketplace": "shopee",
       "id": "22898980977",
@@ -13985,21 +13999,7 @@
       "posted_ts": 1787552263,
       "posted_at": "2026-08-24T06:17:43.033774+00:00",
       "score": 104.27
-    },
-    {
-      "key": "shopee:17882461983",
-      "marketplace": "shopee",
-      "id": "17882461983",
-      "title": "Trocador Plastificado Impermeável Anatômico Americano de Cômoda Para Troca de Fraldas",
-      "title_norm": "trocador plastificado impermeavel anatomico americano de comoda para troca de fraldas",
-      "url": "https://shopee.com.br/product/816564186/17882461983",
-      "affiliate_url": "https://s.shopee.com.br/AAGbn8w49b",
-      "category": "Mainha Baby",
-      "bucket": "fraldas",
-      "posted_ts": 1787552199,
-      "posted_at": "2026-08-24T06:16:39.027294+00:00",
-      "score": 134.84
     }
   ],
-  "updated_at": "2026-09-01T23:19:52.339500+00:00"
+  "updated_at": "2026-09-02T00:02:30.903235+00:00"
 }
