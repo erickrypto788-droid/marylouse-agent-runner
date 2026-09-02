@@ -1,6 +1,20 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB6194818232",
+      "marketplace": "mercadolivre",
+      "id": "MLB6194818232",
+      "title": "Ração Premier Pet Vitta Natural Ração Cachorro Adulto 15k",
+      "title_norm": "racao premier pet vitta natural racao cachorro adulto 15k",
+      "url": "https://www.mercadolivre.com.br/p/MLB32106098?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB32106098?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Pet",
+      "bucket": "pet",
+      "posted_ts": 1788372159,
+      "posted_at": "2026-09-02T18:02:39.431305+00:00",
+      "score": 129.0
+    },
+    {
       "key": "shopee:58206298219",
       "marketplace": "shopee",
       "id": "58206298219",
@@ -13985,21 +13999,7 @@
       "posted_ts": 1787617007,
       "posted_at": "2026-08-25T00:16:47.531562+00:00",
       "score": 107.9
-    },
-    {
-      "key": "mercadolivre:MLB5026800457",
-      "marketplace": "mercadolivre",
-      "id": "MLB5026800457",
-      "title": "Carregador iPhone Tipo USB-C Cor Branco",
-      "title_norm": "carregador iphone tipo usb c cor branco",
-      "url": "https://www.mercadolivre.com.br/p/MLB20643765?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB20643765?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "category": "Informática",
-      "bucket": "celulares",
-      "posted_ts": 1787616240,
-      "posted_at": "2026-08-25T00:04:00.455874+00:00",
-      "score": 127.0
     }
   ],
-  "updated_at": "2026-09-02T17:21:03.095232+00:00"
+  "updated_at": "2026-09-02T18:02:39.431321+00:00"
 }
