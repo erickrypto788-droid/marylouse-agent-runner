@@ -1,6 +1,20 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB4974714813",
+      "marketplace": "mercadolivre",
+      "id": "MLB4974714813",
+      "title": "Ração Gato Estimacat Premium Filhote Sabor Frango 10kg",
+      "title_norm": "racao gato estimacat premium filhote sabor frango 10kg",
+      "url": "https://www.mercadolivre.com.br/p/MLB66844874?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB66844874?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Pet",
+      "bucket": "pet",
+      "posted_ts": 1788310943,
+      "posted_at": "2026-09-02T01:02:23.536413+00:00",
+      "score": 154.83
+    },
+    {
       "key": "shopee:23394401680",
       "marketplace": "shopee",
       "id": "23394401680",
@@ -13985,21 +13999,7 @@
       "posted_ts": 1787555968,
       "posted_at": "2026-08-24T07:19:28.276111+00:00",
       "score": 108.78
-    },
-    {
-      "key": "shopee:23893335036",
-      "marketplace": "shopee",
-      "id": "23893335036",
-      "title": "JAMI JAMI Bolsa Mochila Feminina Grande De Ombro Com Alça Transversal De Couro PU TM9034",
-      "title_norm": "jami jami bolsa mochila feminina grande de ombro com alca transversal de couro pu tm9034",
-      "url": "https://shopee.com.br/product/452872883/23893335036",
-      "affiliate_url": "https://s.shopee.com.br/4LIoua235Z",
-      "category": "Jami Ling",
-      "bucket": "bolsas",
-      "posted_ts": 1787555900,
-      "posted_at": "2026-08-24T07:18:20.206095+00:00",
-      "score": 112.88
     }
   ],
-  "updated_at": "2026-09-02T00:21:04.937051+00:00"
+  "updated_at": "2026-09-02T01:02:23.536428+00:00"
 }
