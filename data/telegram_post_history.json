@@ -1,6 +1,62 @@
 {
   "posts": [
     {
+      "key": "shopee:58253268558",
+      "marketplace": "shopee",
+      "id": "58253268558",
+      "title": "Kit Monitor Medidor Glicose G-tech Vita Ultra Cinza-escuro",
+      "title_norm": "kit monitor medidor glicose g tech vita ultra cinza escuro",
+      "url": "https://shopee.com.br/product/343813983/58253268558",
+      "affiliate_url": "https://s.shopee.com.br/4qFIKisVKl",
+      "category": "Shoplandia Oficial",
+      "bucket": "shoplandia_oficial",
+      "posted_ts": 1788319198,
+      "posted_at": "2026-09-02T03:19:58.866609+00:00",
+      "score": 38.91
+    },
+    {
+      "key": "shopee:58211883899",
+      "marketplace": "shopee",
+      "id": "58211883899",
+      "title": "Kit Medidor De Glicose Accu-chek Active Roche",
+      "title_norm": "kit medidor de glicose accu chek active roche",
+      "url": "https://shopee.com.br/product/1371263778/58211883899",
+      "affiliate_url": "https://s.shopee.com.br/8AVlZ8pzRI",
+      "category": "FARMACIARABELO",
+      "bucket": "farmaciarabelo",
+      "posted_ts": 1788319134,
+      "posted_at": "2026-09-02T03:18:54.882156+00:00",
+      "score": 43.21
+    },
+    {
+      "key": "shopee:22994959649",
+      "marketplace": "shopee",
+      "id": "22994959649",
+      "title": "Kit Hospitalar Doméstico Completo: Medidor de Pressão, Termômetro Infravermelho e Oxímetro",
+      "title_norm": "kit hospitalar domestico completo medidor de pressao termometro infravermelho e oximetro",
+      "url": "https://shopee.com.br/product/1242067486/22994959649",
+      "affiliate_url": "https://s.shopee.com.br/2qUFDL6AZC",
+      "category": "Rossi Stores",
+      "bucket": "saude",
+      "posted_ts": 1788319070,
+      "posted_at": "2026-09-02T03:17:50.815626+00:00",
+      "score": 101.83
+    },
+    {
+      "key": "shopee:20999578899",
+      "marketplace": "shopee",
+      "id": "20999578899",
+      "title": "Inalador Ultrassônico Portátil Nebulizador USB Pilha Sem Fio - Pronta Entrega",
+      "title_norm": "inalador ultrassonico portatil nebulizador usb pilha sem fio pronta entrega",
+      "url": "https://shopee.com.br/product/1441056601/20999578899",
+      "affiliate_url": "https://s.shopee.com.br/AUtf58Js2x",
+      "category": "LDK IMPORTS",
+      "bucket": "saude",
+      "posted_ts": 1788319006,
+      "posted_at": "2026-09-02T03:16:46.445205+00:00",
+      "score": 121.06
+    },
+    {
       "key": "shopee:58204723156",
       "marketplace": "shopee",
       "id": "58204723156",
@@ -13943,63 +13999,7 @@
       "posted_ts": 1787566679,
       "posted_at": "2026-08-24T10:17:59.086352+00:00",
       "score": 129.61
-    },
-    {
-      "key": "shopee:26831733224",
-      "marketplace": "shopee",
-      "id": "26831733224",
-      "title": "Monitor Gamer ARZOPA M1RC, 27\" 2K QHD 180Hz IPS, 1ms, 115% sRGB, USB-C, HDMI, Display Port",
-      "title_norm": "monitor gamer arzopa m1rc 27 2k qhd 180hz ips 1ms 115 srgb usb c hdmi display port",
-      "url": "https://shopee.com.br/product/1479426456/26831733224",
-      "affiliate_url": "https://s.shopee.com.br/5foChMvvvc",
-      "category": "ARZOPA Official Store",
-      "bucket": "informatica",
-      "posted_ts": 1787566612,
-      "posted_at": "2026-08-24T10:16:52.529157+00:00",
-      "score": 131.3
-    },
-    {
-      "key": "shopee:18598052887",
-      "marketplace": "shopee",
-      "id": "18598052887",
-      "title": "Estojo De Lápis Escolar Juvenil Box Jumbo Nylon Táctico Grande Com Divisória",
-      "title_norm": "estojo de lapis escolar juvenil box jumbo nylon tactico grande com divisoria",
-      "url": "https://shopee.com.br/product/1384480317/18598052887",
-      "affiliate_url": "https://s.shopee.com.br/2LXkf7FAgF",
-      "category": "ÓTIMO DIVERSOS",
-      "bucket": "otimo_diversos",
-      "posted_ts": 1787563274,
-      "posted_at": "2026-08-24T09:21:14.540758+00:00",
-      "score": 91.95
-    },
-    {
-      "key": "shopee:23192083562",
-      "marketplace": "shopee",
-      "id": "23192083562",
-      "title": "Papel Offset Opaline Liso 100 Folhas 180g A4 Branco Diplomata Masterprint",
-      "title_norm": "papel offset opaline liso 100 folhas 180g a4 branco diplomata masterprint",
-      "url": "https://shopee.com.br/product/1046010418/23192083562",
-      "affiliate_url": "https://s.shopee.com.br/9zxAWukTKs",
-      "category": "PAPEL.PAPELARIA",
-      "bucket": "papel_papelaria",
-      "posted_ts": 1787563206,
-      "posted_at": "2026-08-24T09:20:06.371466+00:00",
-      "score": 96.33
-    },
-    {
-      "key": "shopee:20798150432",
-      "marketplace": "shopee",
-      "id": "20798150432",
-      "title": "ANA1108 Kit 10 mini pincéis para Maquiagem com estojo bolsa para viagem",
-      "title_norm": "ana1108 kit 10 mini pinceis para maquiagem com estojo bolsa para viagem",
-      "url": "https://shopee.com.br/product/418205294/20798150432",
-      "affiliate_url": "https://s.shopee.com.br/1LfDTHIyi5",
-      "category": "ANA 1108",
-      "bucket": "beleza",
-      "posted_ts": 1787563138,
-      "posted_at": "2026-08-24T09:18:58.991144+00:00",
-      "score": 96.88
     }
   ],
-  "updated_at": "2026-09-02T02:21:52.203259+00:00"
+  "updated_at": "2026-09-02T03:19:58.866627+00:00"
 }
