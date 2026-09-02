@@ -1,6 +1,20 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB7119236764",
+      "marketplace": "mercadolivre",
+      "id": "MLB7119236764",
+      "title": "Bike Spinning Bicicleta 6kg Wct Fitness Preta",
+      "title_norm": "bike spinning bicicleta 6kg wct fitness preta",
+      "url": "https://www.mercadolivre.com.br/p/MLB75107533?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB75107533?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Esportes",
+      "bucket": "esportes",
+      "posted_ts": 1788339762,
+      "posted_at": "2026-09-02T09:02:42.838726+00:00",
+      "score": 141.48
+    },
+    {
       "key": "shopee:22893843635",
       "marketplace": "shopee",
       "id": "22893843635",
@@ -13985,21 +13999,7 @@
       "posted_ts": 1787588389,
       "posted_at": "2026-08-24T16:19:49.564717+00:00",
       "score": 88.02
-    },
-    {
-      "key": "shopee:58205434795",
-      "marketplace": "shopee",
-      "id": "58205434795",
-      "title": "Kit 2 Calça Tradicional de Trabalho Plus Size 100% Algodão 36 ao 58",
-      "title_norm": "kit 2 calca tradicional de trabalho plus size 100 algodao 36 ao 58",
-      "url": "https://shopee.com.br/product/1522955348/58205434795",
-      "affiliate_url": "https://s.shopee.com.br/W65cBLoaK",
-      "category": "Dal Bo Store",
-      "bucket": "dal_bo_store",
-      "posted_ts": 1787588325,
-      "posted_at": "2026-08-24T16:18:45.678413+00:00",
-      "score": 90.71
     }
   ],
-  "updated_at": "2026-09-02T08:21:25.151643+00:00"
+  "updated_at": "2026-09-02T09:02:42.838740+00:00"
 }

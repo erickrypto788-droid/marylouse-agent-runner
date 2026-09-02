@@ -1,6 +1,21 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB7119236764",
+      "product_id": "MLB7119236764",
+      "catalog_product_id": "MLB75107533",
+      "item_id": "MLB7119236764",
+      "url": "https://www.mercadolivre.com.br/p/MLB75107533?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB75107533?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "bike spinning bicicleta 6kg wct fitness preta",
+      "title": "Bike Spinning Bicicleta 6kg Wct Fitness Preta",
+      "category": "Esportes",
+      "price": 699.99,
+      "score": 141.48,
+      "posted_ts": 1788339762,
+      "posted_at": "2026-09-02T09:02:42.853424+00:00"
+    },
+    {
       "key": "mercadolivre:MLB5486901506",
       "product_id": "MLB5486901506",
       "catalog_product_id": "MLB33380670",
@@ -689,22 +704,7 @@
       "score": 162.91,
       "posted_ts": 1788166970,
       "posted_at": "2026-08-31T09:02:50.581597+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB4750057565",
-      "product_id": "MLB4750057565",
-      "catalog_product_id": "MLB54083722",
-      "item_id": "MLB4750057565",
-      "url": "https://www.mercadolivre.com.br/p/MLB54083722?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB54083722?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "fritadeira air fryer mondial oven digital 127v",
-      "title": "Fritadeira Air Fryer Mondial Oven Digital 127v",
-      "category": "Casa e Cozinha",
-      "price": 1800.0,
-      "score": 124.0,
-      "posted_ts": 1788163385,
-      "posted_at": "2026-08-31T08:03:05.016985+00:00"
     }
   ],
-  "updated_at": "2026-09-02T07:04:10.268928+00:00"
+  "updated_at": "2026-09-02T09:02:42.853434+00:00"
 }
