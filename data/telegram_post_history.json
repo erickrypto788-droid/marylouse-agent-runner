@@ -1,6 +1,48 @@
 {
   "posts": [
     {
+      "key": "shopee:11298889483",
+      "marketplace": "shopee",
+      "id": "11298889483",
+      "title": "Kit chinelo Luiza Liz e necessaire bolsa de mão pequena kit dia a dia blogueira",
+      "title_norm": "kit chinelo luiza liz e necessaire bolsa de mao pequena kit dia a dia blogueira",
+      "url": "https://shopee.com.br/product/333046879/11298889483",
+      "affiliate_url": "https://s.shopee.com.br/9Khj5WLj59",
+      "category": "Luiza Liz calçados",
+      "bucket": "calcados",
+      "posted_ts": 1788326330,
+      "posted_at": "2026-09-02T05:18:50.572790+00:00",
+      "score": 93.01
+    },
+    {
+      "key": "shopee:22196157275",
+      "marketplace": "shopee",
+      "id": "22196157275",
+      "title": "Bolsa Feminina Esportiva e Viagem Grande com Alça de Ombro  JORGE",
+      "title_norm": "bolsa feminina esportiva e viagem grande com alca de ombro jorge",
+      "url": "https://shopee.com.br/product/410705973/22196157275",
+      "affiliate_url": "https://s.shopee.com.br/50YjvYcI6y",
+      "category": "Jorge.store",
+      "bucket": "bolsas",
+      "posted_ts": 1788326266,
+      "posted_at": "2026-09-02T05:17:46.373410+00:00",
+      "score": 107.07
+    },
+    {
+      "key": "shopee:23593847901",
+      "marketplace": "shopee",
+      "id": "23593847901",
+      "title": "Mochila Bolsa Viagem Resistente Coreana Masculina Feminina Colorida",
+      "title_norm": "mochila bolsa viagem resistente coreana masculina feminina colorida",
+      "url": "https://shopee.com.br/product/1127030290/23593847901",
+      "affiliate_url": "https://s.shopee.com.br/60RH7OU5Ik",
+      "category": "JIMMY.STORE",
+      "bucket": "bolsas",
+      "posted_ts": 1788326202,
+      "posted_at": "2026-09-02T05:16:42.039967+00:00",
+      "score": 110.65
+    },
+    {
       "key": "mercadolivre:MLB6442123488",
       "marketplace": "mercadolivre",
       "id": "MLB6442123488",
@@ -13957,49 +13999,7 @@
       "posted_ts": 1787576925,
       "posted_at": "2026-08-24T13:08:45.777040+00:00",
       "score": 88.0
-    },
-    {
-      "key": "mercadolivre:MLB6302363224",
-      "marketplace": "mercadolivre",
-      "id": "MLB6302363224",
-      "title": "35 Escova Dental + 35 Porta Escova Dental + 35 Creme Dental Sortidas",
-      "title_norm": "35 escova dental 35 porta escova dental 35 creme dental sortidas",
-      "url": "https://www.mercadolivre.com.br/p/MLB65932271?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB65932271?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "category": "Supermercados",
-      "bucket": "supermercados",
-      "posted_ts": 1787576852,
-      "posted_at": "2026-08-24T13:07:32.206239+00:00",
-      "score": 89.0
-    },
-    {
-      "key": "mercadolivre:MLB5532475634",
-      "marketplace": "mercadolivre",
-      "id": "MLB5532475634",
-      "title": "Miniatura Creme Dental 15g",
-      "title_norm": "miniatura creme dental 15g",
-      "url": "https://www.mercadolivre.com.br/p/MLB53217462?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB53217462?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "category": "Supermercados",
-      "bucket": "supermercados",
-      "posted_ts": 1787576784,
-      "posted_at": "2026-08-24T13:06:24.916157+00:00",
-      "score": 89.0
-    },
-    {
-      "key": "mercadolivre:MLB6428938830",
-      "marketplace": "mercadolivre",
-      "id": "MLB6428938830",
-      "title": "Fralda Pampers Supersec M 30 Unidades",
-      "title_norm": "fralda pampers supersec m 30 unidades",
-      "url": "https://www.mercadolivre.com.br/p/MLB36175310?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB36175310?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "category": "Mãe e Bebê",
-      "bucket": "fraldas",
-      "posted_ts": 1787576720,
-      "posted_at": "2026-08-24T13:05:20.960441+00:00",
-      "score": 130.0
     }
   ],
-  "updated_at": "2026-09-02T05:09:46.952589+00:00"
+  "updated_at": "2026-09-02T05:18:50.572805+00:00"
 }
