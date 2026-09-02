@@ -1,6 +1,34 @@
 {
   "posts": [
     {
+      "key": "shopee:22991548299",
+      "marketplace": "shopee",
+      "id": "22991548299",
+      "title": "Tenis liso EC moda conforto tenis meia calce facil",
+      "title_norm": "tenis liso ec moda conforto tenis meia calce facil",
+      "url": "https://shopee.com.br/product/432788506/22991548299",
+      "affiliate_url": "https://s.shopee.com.br/4fvuC9f8LW",
+      "category": "Felícia Calçados",
+      "bucket": "calcados",
+      "posted_ts": 1788362275,
+      "posted_at": "2026-09-02T15:17:55.553966+00:00",
+      "score": 64.03
+    },
+    {
+      "key": "shopee:58202717993",
+      "marketplace": "shopee",
+      "id": "58202717993",
+      "title": "Tênis Feminino KNW Premium Cadarço Grosso Acolchoado Lançamento Modinha",
+      "title_norm": "tenis feminino knw premium cadarco grosso acolchoado lancamento modinha",
+      "url": "https://shopee.com.br/product/1692696819/58202717993",
+      "affiliate_url": "https://s.shopee.com.br/6fgyZpXWI6",
+      "category": "NaPegadaShoesBrasil",
+      "bucket": "calcados",
+      "posted_ts": 1788362211,
+      "posted_at": "2026-09-02T15:16:51.017186+00:00",
+      "score": 113.54
+    },
+    {
       "key": "mercadolivre:MLB7579081274",
       "marketplace": "mercadolivre",
       "id": "MLB7579081274",
@@ -13971,35 +13999,7 @@
       "posted_ts": 1787609868,
       "posted_at": "2026-08-24T22:17:48.808308+00:00",
       "score": 114.34
-    },
-    {
-      "key": "shopee:22293577075",
-      "marketplace": "shopee",
-      "id": "22293577075",
-      "title": "Kidstep Tenis Escolar Infantil Calce Fácil K Feminino Bordado Marinho com Pink",
-      "title_norm": "kidstep tenis escolar infantil calce facil k feminino bordado marinho com pink",
-      "url": "https://shopee.com.br/product/376576138/22293577075",
-      "affiliate_url": "https://s.shopee.com.br/4VcEmH2tOj",
-      "category": "KidstepCalcados",
-      "bucket": "calcados",
-      "posted_ts": 1787609804,
-      "posted_at": "2026-08-24T22:16:44.488067+00:00",
-      "score": 115.29
-    },
-    {
-      "key": "mercadolivre:MLB7483969764",
-      "marketplace": "mercadolivre",
-      "id": "MLB7483969764",
-      "title": "Ssd Nvme Kingston 1tb Nv3 M.2 2280 Pcie 4.0 Nf-e Cor Ssd Nvme M.2 2280 Kingston 1tb",
-      "title_norm": "ssd nvme kingston 1tb nv3 m 2 2280 pcie 4 0 nf e cor ssd nvme m 2 2280 kingston 1tb",
-      "url": "https://www.mercadolivre.com.br/p/MLB50957106?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB50957106?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "category": "Informática",
-      "bucket": "informatica",
-      "posted_ts": 1787608966,
-      "posted_at": "2026-08-24T22:02:46.278921+00:00",
-      "score": 111.0
     }
   ],
-  "updated_at": "2026-09-02T15:03:54.497464+00:00"
+  "updated_at": "2026-09-02T15:17:55.553981+00:00"
 }
