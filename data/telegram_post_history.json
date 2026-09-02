@@ -1,6 +1,34 @@
 {
   "posts": [
     {
+      "key": "shopee:12820428668",
+      "marketplace": "shopee",
+      "id": "12820428668",
+      "title": "Sapatenis Masculino Star Fox Ziper e Cadarço Calce Casual A1",
+      "title_norm": "sapatenis masculino star fox ziper e cadarco calce casual a1",
+      "url": "https://shopee.com.br/product/294355829/12820428668",
+      "affiliate_url": "https://s.shopee.com.br/AAGqgAhbRC",
+      "category": "Star Fox Calçados",
+      "bucket": "calcados",
+      "posted_ts": 1788358702,
+      "posted_at": "2026-09-02T14:18:22.939911+00:00",
+      "score": 91.82
+    },
+    {
+      "key": "shopee:20199249608",
+      "marketplace": "shopee",
+      "id": "20199249608",
+      "title": "Tenis Sapatilha Masculino Casual Aquatico de Trilha Impermeável Com Solado Costurado E Elastico Ajustável",
+      "title_norm": "tenis sapatilha masculino casual aquatico de trilha impermeavel com solado costurado e elastico ajustavel",
+      "url": "https://shopee.com.br/product/1246015756/20199249608",
+      "affiliate_url": "https://s.shopee.com.br/9V19swbTlf",
+      "category": "ShopShooes",
+      "bucket": "calcados",
+      "posted_ts": 1788358633,
+      "posted_at": "2026-09-02T14:17:13.427698+00:00",
+      "score": 99.51
+    },
+    {
       "key": "shopee:58253980455",
       "marketplace": "shopee",
       "id": "58253980455",
@@ -13971,35 +13999,7 @@
       "posted_ts": 1787606440,
       "posted_at": "2026-08-24T21:20:40.849841+00:00",
       "score": 87.08
-    },
-    {
-      "key": "shopee:23498778973",
-      "marketplace": "shopee",
-      "id": "23498778973",
-      "title": "Protetor Solar Facial Hidrabene Clareador FPS 70 Antissinais Clareia a pele Toque Seco 50g Unidade ou Kit",
-      "title_norm": "protetor solar facial hidrabene clareador fps 70 antissinais clareia a pele toque seco 50g unidade ou kit",
-      "url": "https://shopee.com.br/product/314834922/23498778973",
-      "affiliate_url": "https://s.shopee.com.br/6fgkcZ05GU",
-      "category": "Esthik ",
-      "bucket": "esthik",
-      "posted_ts": 1787606376,
-      "posted_at": "2026-08-24T21:19:36.749512+00:00",
-      "score": 92.89
-    },
-    {
-      "key": "shopee:58262141857",
-      "marketplace": "shopee",
-      "id": "58262141857",
-      "title": "Perfumes Brand Collection 25ml - Fragrâncias femininas",
-      "title_norm": "perfumes brand collection 25ml fragrancias femininas",
-      "url": "https://shopee.com.br/product/1165606860/58262141857",
-      "affiliate_url": "https://s.shopee.com.br/80C8D0UbsR",
-      "category": "Beleza Real Oficial",
-      "bucket": "beleza",
-      "posted_ts": 1787606306,
-      "posted_at": "2026-08-24T21:18:26.941339+00:00",
-      "score": 129.2
     }
   ],
-  "updated_at": "2026-09-02T13:21:03.276965+00:00"
+  "updated_at": "2026-09-02T14:18:22.939933+00:00"
 }
