@@ -1,6 +1,36 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB4040219599",
+      "product_id": "MLB4040219599",
+      "catalog_product_id": "MLB36244629",
+      "item_id": "MLB4040219599",
+      "url": "https://www.mercadolivre.com.br/p/MLB36244629?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB36244629?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "calca feminina tamanho m texx impermeavel com protecao conforto viagem moto motociclista",
+      "title": "Calça Feminina Tamanho M Texx Impermeável Com Proteção Conforto Viagem Moto Motociclista",
+      "category": "Moda Feminina",
+      "price": 399.0,
+      "score": 86.0,
+      "posted_ts": 1788329104,
+      "posted_at": "2026-09-02T06:05:04.723120+00:00"
+    },
+    {
+      "key": "mercadolivre:MLB7209542710",
+      "product_id": "MLB7209542710",
+      "catalog_product_id": "MLB69276346",
+      "item_id": "MLB7209542710",
+      "url": "https://www.mercadolivre.com.br/p/MLB69276346?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB69276346?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "calca legging fitness feminina ausare com protecao uv 50 para academia yoga e pilates",
+      "title": "Calça Legging Fitness Feminina Ausare com Proteção UV 50+ para Academia, Yoga e Pilates",
+      "category": "Moda Feminina",
+      "price": 78.9,
+      "score": 88.0,
+      "posted_ts": 1788329032,
+      "posted_at": "2026-09-02T06:03:52.369762+00:00"
+    },
+    {
       "key": "mercadolivre:MLB6442123488",
       "product_id": "MLB6442123488",
       "catalog_product_id": "MLB65794107",
@@ -674,22 +704,7 @@
       "score": 84.0,
       "posted_ts": 1788156312,
       "posted_at": "2026-08-31T06:05:12.555279+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB5163519527",
-      "product_id": "MLB5163519527",
-      "catalog_product_id": "MLB64424896",
-      "item_id": "MLB5163519527",
-      "url": "https://www.mercadolivre.com.br/p/MLB64424896?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB64424896?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "luva academia esporte neoprene academia luva protecao preto lisa unico",
-      "title": "Luva Academia Esporte Neoprene Academia Luva Proteção Preto Lisa Unico",
-      "category": "Esportes",
-      "price": 19.0,
-      "score": 87.61,
-      "posted_ts": 1788156215,
-      "posted_at": "2026-08-31T06:03:35.657323+00:00"
     }
   ],
-  "updated_at": "2026-09-02T05:09:46.966790+00:00"
+  "updated_at": "2026-09-02T06:05:04.723131+00:00"
 }

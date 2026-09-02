@@ -1,6 +1,34 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB4040219599",
+      "marketplace": "mercadolivre",
+      "id": "MLB4040219599",
+      "title": "Calça Feminina Tamanho M Texx Impermeável Com Proteção Conforto Viagem Moto Motociclista",
+      "title_norm": "calca feminina tamanho m texx impermeavel com protecao conforto viagem moto motociclista",
+      "url": "https://www.mercadolivre.com.br/p/MLB36244629?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB36244629?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Moda Feminina",
+      "bucket": "moda_feminina",
+      "posted_ts": 1788329104,
+      "posted_at": "2026-09-02T06:05:04.713746+00:00",
+      "score": 86.0
+    },
+    {
+      "key": "mercadolivre:MLB7209542710",
+      "marketplace": "mercadolivre",
+      "id": "MLB7209542710",
+      "title": "Calça Legging Fitness Feminina Ausare com Proteção UV 50+ para Academia, Yoga e Pilates",
+      "title_norm": "calca legging fitness feminina ausare com protecao uv 50 para academia yoga e pilates",
+      "url": "https://www.mercadolivre.com.br/p/MLB69276346?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB69276346?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Moda Feminina",
+      "bucket": "moda_feminina",
+      "posted_ts": 1788329032,
+      "posted_at": "2026-09-02T06:03:52.359949+00:00",
+      "score": 88.0
+    },
+    {
       "key": "shopee:11298889483",
       "marketplace": "shopee",
       "id": "11298889483",
@@ -13971,35 +13999,7 @@
       "posted_ts": 1787580284,
       "posted_at": "2026-08-24T14:04:44.911248+00:00",
       "score": 88.0
-    },
-    {
-      "key": "mercadolivre:MLB5049841699",
-      "marketplace": "mercadolivre",
-      "id": "MLB5049841699",
-      "title": "Camiseta feminina modeladora",
-      "title_norm": "camiseta feminina modeladora",
-      "url": "https://www.mercadolivre.com.br/p/MLB59779508?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB59779508?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "category": "Moda Feminina",
-      "bucket": "moda_feminina",
-      "posted_ts": 1787580220,
-      "posted_at": "2026-08-24T14:03:40.731646+00:00",
-      "score": 88.0
-    },
-    {
-      "key": "mercadolivre:MLB7469746398",
-      "marketplace": "mercadolivre",
-      "id": "MLB7469746398",
-      "title": "Kaisasa Shampoo Tonalizante Para Cobrir Cabelo Cinzento，shampoo cabelo branco，shampoo barba，shampoo redutor grisalhos，shampoo tonalizante preto，hair dye shampoo，black hair dye，500ml-Preto",
-      "title_norm": "kaisasa shampoo tonalizante para cobrir cabelo cinzento shampoo cabelo branco shampoo barba shampoo redutor grisalhos shampoo tonalizante preto hair dye shampoo black hair dye 500ml preto",
-      "url": "https://www.mercadolivre.com.br/p/MLB50178919?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB50178919?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "category": "Beleza",
-      "bucket": "beleza",
-      "posted_ts": 1787576925,
-      "posted_at": "2026-08-24T13:08:45.777040+00:00",
-      "score": 88.0
     }
   ],
-  "updated_at": "2026-09-02T05:18:50.572805+00:00"
+  "updated_at": "2026-09-02T06:05:04.713761+00:00"
 }
