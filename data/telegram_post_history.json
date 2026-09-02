@@ -1,6 +1,48 @@
 {
   "posts": [
     {
+      "key": "shopee:58213300615",
+      "marketplace": "shopee",
+      "id": "58213300615",
+      "title": "Aparelho Medidor de Glicose GH83 Medisign Glicemia Diabetes",
+      "title_norm": "aparelho medidor de glicose gh83 medisign glicemia diabetes",
+      "url": "https://shopee.com.br/product/1854097080/58213300615",
+      "affiliate_url": "https://s.shopee.com.br/AKaHPPEf8x",
+      "category": "JP PRIME E-COMMERCE",
+      "bucket": "jp_prime_e_commerce",
+      "posted_ts": 1788387534,
+      "posted_at": "2026-09-02T22:18:54.669034+00:00",
+      "score": 50.47
+    },
+    {
+      "key": "shopee:23393985992",
+      "marketplace": "shopee",
+      "id": "23393985992",
+      "title": "Relógio De Parede Led Digital Grande Termômetro Recepção",
+      "title_norm": "relogio de parede led digital grande termometro recepcao",
+      "url": "https://shopee.com.br/product/1542862511/23393985992",
+      "affiliate_url": "https://s.shopee.com.br/4fvuezIhnE",
+      "category": "MADO STORE",
+      "bucket": "saude",
+      "posted_ts": 1788387464,
+      "posted_at": "2026-09-02T22:17:44.684358+00:00",
+      "score": 99.8
+    },
+    {
+      "key": "shopee:22891997668",
+      "marketplace": "shopee",
+      "id": "22891997668",
+      "title": "Termômetro Industrial Digital Infravermelho Cozinha Laser Medição Temperatura Industrial -55º- 400ºc",
+      "title_norm": "termometro industrial digital infravermelho cozinha laser medicao temperatura industrial 55 400 c",
+      "url": "https://shopee.com.br/product/1025202028/22891997668",
+      "affiliate_url": "https://s.shopee.com.br/4VcUSgJL8J",
+      "category": "Utime.Brasil",
+      "bucket": "saude",
+      "posted_ts": 1788387400,
+      "posted_at": "2026-09-02T22:16:40.713920+00:00",
+      "score": 109.08
+    },
+    {
       "key": "mercadolivre:MLB7517810920",
       "marketplace": "mercadolivre",
       "id": "MLB7517810920",
@@ -13957,49 +13999,7 @@
       "posted_ts": 1787635198,
       "posted_at": "2026-08-25T05:19:58.396417+00:00",
       "score": 88.6
-    },
-    {
-      "key": "shopee:23599190753",
-      "marketplace": "shopee",
-      "id": "23599190753",
-      "title": "Kit 4 Caneta permanente de acrílico com ponta dupla em metal para resina, artesanato e artigos de papelaria.",
-      "title_norm": "kit 4 caneta permanente de acrilico com ponta dupla em metal para resina artesanato e artigos de papelaria",
-      "url": "https://shopee.com.br/product/1055789069/23599190753",
-      "affiliate_url": "https://s.shopee.com.br/9KhWKONLrU",
-      "category": "TIANSHU",
-      "bucket": "tianshu",
-      "posted_ts": 1787635126,
-      "posted_at": "2026-08-25T05:18:46.606161+00:00",
-      "score": 88.69
-    },
-    {
-      "key": "shopee:23994163881",
-      "marketplace": "shopee",
-      "id": "23994163881",
-      "title": "Polaseal Plastico Para Plastificacão 100 Folhas Com Brilho Plastificar",
-      "title_norm": "polaseal plastico para plastificacao 100 folhas com brilho plastificar",
-      "url": "https://shopee.com.br/product/761647073/23994163881",
-      "affiliate_url": "https://s.shopee.com.br/3g39ZyVrY2",
-      "category": "Papel fotografico e Papelaria",
-      "bucket": "papel_fotografico_e_papelaria",
-      "posted_ts": 1787635062,
-      "posted_at": "2026-08-25T05:17:42.729341+00:00",
-      "score": 98.91
-    },
-    {
-      "key": "shopee:19899492954",
-      "marketplace": "shopee",
-      "id": "19899492954",
-      "title": "Kit 48 Canetas Marcador 2 em 1 Brush Lettering e Ponta Fina Dual Pen Canetinha Colorir Desenho",
-      "title_norm": "kit 48 canetas marcador 2 em 1 brush lettering e ponta fina dual pen canetinha colorir desenho",
-      "url": "https://shopee.com.br/product/1372149000/19899492954",
-      "affiliate_url": "https://s.shopee.com.br/8AVYwFA3aS",
-      "category": "OLIVIA.OFICIAIS",
-      "bucket": "olivia_oficiais",
-      "posted_ts": 1787634998,
-      "posted_at": "2026-08-25T05:16:38.703716+00:00",
-      "score": 120.76
     }
   ],
-  "updated_at": "2026-09-02T22:09:32.582298+00:00"
+  "updated_at": "2026-09-02T22:18:54.669047+00:00"
 }
