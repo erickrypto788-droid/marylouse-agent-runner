@@ -1,6 +1,36 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB7579081274",
+      "product_id": "MLB7579081274",
+      "catalog_product_id": "MLB47306242",
+      "item_id": "MLB7579081274",
+      "url": "https://www.mercadolivre.com.br/p/MLB47306242?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB47306242?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "motorola smartphone motorola razr 50 ultra 5g cor pink",
+      "title": "Motorola Smartphone Motorola Razr 50 Ultra 5g Cor Pink",
+      "category": "Informática",
+      "price": 4499.0,
+      "score": 124.0,
+      "posted_ts": 1788361434,
+      "posted_at": "2026-09-02T15:03:54.511959+00:00"
+    },
+    {
+      "key": "mercadolivre:MLB7038340852",
+      "product_id": "MLB7038340852",
+      "catalog_product_id": "MLB61698753",
+      "item_id": "MLB7038340852",
+      "url": "https://www.mercadolivre.com.br/p/MLB61698753?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB61698753?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "smartphone samsung galaxy a56 5g preto 256gb",
+      "title": "Smartphone Samsung Galaxy A56 5g Preto 256gb",
+      "category": "Informática",
+      "price": 2969.0,
+      "score": 124.0,
+      "posted_ts": 1788361369,
+      "posted_at": "2026-09-02T15:02:49.647131+00:00"
+    },
+    {
       "key": "mercadolivre:MLB4036053887",
       "product_id": "MLB4036053887",
       "catalog_product_id": "MLB24522367",
@@ -659,22 +689,7 @@
       "score": 130.0,
       "posted_ts": 1788203224,
       "posted_at": "2026-08-31T19:07:04.459687+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB4302548173",
-      "product_id": "MLB4302548173",
-      "catalog_product_id": "MLB44164135",
-      "item_id": "MLB4302548173",
-      "url": "https://www.mercadolivre.com.br/p/MLB44164135?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB44164135?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "comedouro automatico racao aquario terrario peixe tartaruga",
-      "title": "Comedouro Automático Ração Aquário Terrario Peixe Tartaruga",
-      "category": "Pet",
-      "price": 117.85,
-      "score": 137.09,
-      "posted_ts": 1788188578,
-      "posted_at": "2026-08-31T15:02:58.267689+00:00"
     }
   ],
-  "updated_at": "2026-09-02T13:02:28.907197+00:00"
+  "updated_at": "2026-09-02T15:03:54.511969+00:00"
 }

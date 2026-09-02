@@ -1,6 +1,34 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB7579081274",
+      "marketplace": "mercadolivre",
+      "id": "MLB7579081274",
+      "title": "Motorola Smartphone Motorola Razr 50 Ultra 5g Cor Pink",
+      "title_norm": "motorola smartphone motorola razr 50 ultra 5g cor pink",
+      "url": "https://www.mercadolivre.com.br/p/MLB47306242?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB47306242?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Informática",
+      "bucket": "celulares",
+      "posted_ts": 1788361434,
+      "posted_at": "2026-09-02T15:03:54.497451+00:00",
+      "score": 124.0
+    },
+    {
+      "key": "mercadolivre:MLB7038340852",
+      "marketplace": "mercadolivre",
+      "id": "MLB7038340852",
+      "title": "Smartphone Samsung Galaxy A56 5g Preto 256gb",
+      "title_norm": "smartphone samsung galaxy a56 5g preto 256gb",
+      "url": "https://www.mercadolivre.com.br/p/MLB61698753?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB61698753?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Informática",
+      "bucket": "celulares",
+      "posted_ts": 1788361369,
+      "posted_at": "2026-09-02T15:02:49.633544+00:00",
+      "score": 124.0
+    },
+    {
       "key": "shopee:12820428668",
       "marketplace": "shopee",
       "id": "12820428668",
@@ -13971,35 +13999,7 @@
       "posted_ts": 1787608966,
       "posted_at": "2026-08-24T22:02:46.278921+00:00",
       "score": 111.0
-    },
-    {
-      "key": "shopee:58256213399",
-      "marketplace": "shopee",
-      "id": "58256213399",
-      "title": "Kit 03 Body Splash Arabe Feminino e Masculino Face Beautiful 200ml",
-      "title_norm": "kit 03 body splash arabe feminino e masculino face beautiful 200ml",
-      "url": "https://shopee.com.br/product/323429761/58256213399",
-      "affiliate_url": "https://s.shopee.com.br/3qMXuuTyuQ",
-      "category": "Shop Tall 2",
-      "bucket": "shop_tall_2",
-      "posted_ts": 1787606505,
-      "posted_at": "2026-08-24T21:21:45.050713+00:00",
-      "score": 79.32
-    },
-    {
-      "key": "shopee:25046330542",
-      "marketplace": "shopee",
-      "id": "25046330542",
-      "title": "Celimax Brightening Pore+ Dark Spot Cream 35ml, 7ml",
-      "title_norm": "celimax brightening pore dark spot cream 35ml 7ml",
-      "url": "https://shopee.com.br/product/457864097/25046330542",
-      "affiliate_url": "https://s.shopee.com.br/5LBLhffryG",
-      "category": "koksara.kbeauty",
-      "bucket": "koksara_kbeauty",
-      "posted_ts": 1787606440,
-      "posted_at": "2026-08-24T21:20:40.849841+00:00",
-      "score": 87.08
     }
   ],
-  "updated_at": "2026-09-02T14:18:22.939933+00:00"
+  "updated_at": "2026-09-02T15:03:54.497464+00:00"
 }
