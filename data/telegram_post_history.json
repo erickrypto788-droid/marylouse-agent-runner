@@ -1,6 +1,48 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB7517810920",
+      "marketplace": "mercadolivre",
+      "id": "MLB7517810920",
+      "title": "Hidratante Corporal Pessego",
+      "title_norm": "hidratante corporal pessego",
+      "url": "https://www.mercadolivre.com.br/p/MLB76609780?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB76609780?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Beleza",
+      "bucket": "beleza",
+      "posted_ts": 1788386972,
+      "posted_at": "2026-09-02T22:09:32.582279+00:00",
+      "score": 72.67
+    },
+    {
+      "key": "mercadolivre:MLB7046261998",
+      "marketplace": "mercadolivre",
+      "id": "MLB7046261998",
+      "title": "Snob Papel Toalha Cozinha Folha Dupla C/ 12 Rolos",
+      "title_norm": "snob papel toalha cozinha folha dupla c 12 rolos",
+      "url": "https://www.mercadolivre.com.br/p/MLB28886645?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB28886645?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Supermercados",
+      "bucket": "supermercados",
+      "posted_ts": 1788386908,
+      "posted_at": "2026-09-02T22:08:28.453567+00:00",
+      "score": 89.0
+    },
+    {
+      "key": "mercadolivre:MLB5167657971",
+      "marketplace": "mercadolivre",
+      "id": "MLB5167657971",
+      "title": "Fralda Pampers Premium Care Tamanho G 94 Unidades",
+      "title_norm": "fralda pampers premium care tamanho g 94 unidades",
+      "url": "https://www.mercadolivre.com.br/p/MLB48357469?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB48357469?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Mãe e Bebê",
+      "bucket": "fraldas",
+      "posted_ts": 1788386813,
+      "posted_at": "2026-09-02T22:06:53.533069+00:00",
+      "score": 130.0
+    },
+    {
       "key": "shopee:3583616499",
       "marketplace": "shopee",
       "id": "3583616499",
@@ -13957,49 +13999,7 @@
       "posted_ts": 1787634998,
       "posted_at": "2026-08-25T05:16:38.703716+00:00",
       "score": 120.76
-    },
-    {
-      "key": "shopee:28641390822",
-      "marketplace": "shopee",
-      "id": "28641390822",
-      "title": "Pochete Cartucheira de Perna Motoboy Militar 5 Zíper",
-      "title_norm": "pochete cartucheira de perna motoboy militar 5 ziper",
-      "url": "https://shopee.com.br/product/745994790/28641390822",
-      "affiliate_url": "https://s.shopee.com.br/6AkUUS6Hhb",
-      "category": "LuarImports",
-      "bucket": "luarimports",
-      "posted_ts": 1787631653,
-      "posted_at": "2026-08-25T04:20:53.922029+00:00",
-      "score": 80.95
-    },
-    {
-      "key": "shopee:22191925108",
-      "marketplace": "shopee",
-      "id": "22191925108",
-      "title": "Mochila Coleção 2023 Luxo Viagem Executiva Reforçada",
-      "title_norm": "mochila colecao 2023 luxo viagem executiva reforcada",
-      "url": "https://shopee.com.br/product/691323218/22191925108",
-      "affiliate_url": "https://s.shopee.com.br/1VyevsFSNv",
-      "category": "ULTRA TECH COMERCIAL LTDA",
-      "bucket": "bolsas",
-      "posted_ts": 1787631590,
-      "posted_at": "2026-08-25T04:19:50.049091+00:00",
-      "score": 84.95
-    },
-    {
-      "key": "shopee:13403247994",
-      "marketplace": "shopee",
-      "id": "13403247994",
-      "title": "Capa Maleta Notebook Macbook 15,6' / 13 / 14 / 17 Polegadas Rígida Anti-Impacto Bolso Externo C/Alça",
-      "title_norm": "capa maleta notebook macbook 15 6 13 14 17 polegadas rigida anti impacto bolso externo c alca",
-      "url": "https://shopee.com.br/product/391712221/13403247994",
-      "affiliate_url": "https://s.shopee.com.br/3LQHmpZa0Z",
-      "category": "Street Man",
-      "bucket": "informatica",
-      "posted_ts": 1787631526,
-      "posted_at": "2026-08-25T04:18:46.103755+00:00",
-      "score": 101.71
     }
   ],
-  "updated_at": "2026-09-02T21:21:19.115764+00:00"
+  "updated_at": "2026-09-02T22:09:32.582298+00:00"
 }
