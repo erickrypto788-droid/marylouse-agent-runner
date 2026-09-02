@@ -1,6 +1,21 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB7574008382",
+      "product_id": "MLB7574008382",
+      "catalog_product_id": "MLB77039877",
+      "item_id": "MLB7574008382",
+      "url": "https://www.mercadolivre.com.br/p/MLB77039877?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB77039877?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "perfume feminino olympia",
+      "title": "Perfume Feminino Olympia",
+      "category": "Beleza",
+      "price": 184.0,
+      "score": 188.67,
+      "posted_ts": 1788343344,
+      "posted_at": "2026-09-02T10:02:24.395914+00:00"
+    },
+    {
       "key": "mercadolivre:MLB7119236764",
       "product_id": "MLB7119236764",
       "catalog_product_id": "MLB75107533",
@@ -689,22 +704,7 @@
       "score": 113.0,
       "posted_ts": 1788170562,
       "posted_at": "2026-08-31T10:02:42.166895+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB6711607808",
-      "product_id": "MLB6711607808",
-      "catalog_product_id": "MLB21865416",
-      "item_id": "MLB6711607808",
-      "url": "https://www.mercadolivre.com.br/p/MLB21865416?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB21865416?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "combo parafusadeira furadeira de impacto 13mm parafusadeira de impacto 6 3mm dewalt dck276d2",
-      "title": "Combo Parafusadeira Furadeira de Impacto 13mm + Parafusadeira de Impacto 6,3mm DEWALT DCK276D2",
-      "category": "Ferramentas",
-      "price": 1548.0,
-      "score": 162.91,
-      "posted_ts": 1788166970,
-      "posted_at": "2026-08-31T09:02:50.581597+00:00"
     }
   ],
-  "updated_at": "2026-09-02T09:02:42.853434+00:00"
+  "updated_at": "2026-09-02T10:02:24.395929+00:00"
 }
