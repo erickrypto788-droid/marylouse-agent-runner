@@ -1,6 +1,34 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB5486901506",
+      "marketplace": "mercadolivre",
+      "id": "MLB5486901506",
+      "title": "Conjunto De Panelas Antiaderente 5pc Grafite - Panelux",
+      "title_norm": "conjunto de panelas antiaderente 5pc grafite panelux",
+      "url": "https://www.mercadolivre.com.br/p/MLB33380670?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB33380670?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Casa e Cozinha",
+      "bucket": "casa_cozinha",
+      "posted_ts": 1788332650,
+      "posted_at": "2026-09-02T07:04:10.255655+00:00",
+      "score": 113.0
+    },
+    {
+      "key": "mercadolivre:MLB6218013518",
+      "marketplace": "mercadolivre",
+      "id": "MLB6218013518",
+      "title": "Jogo Panelas Tramontina Coimbra 5pçs Preto Antiaderente",
+      "title_norm": "jogo panelas tramontina coimbra 5pcs preto antiaderente",
+      "url": "https://www.mercadolivre.com.br/p/MLB39387638?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB39387638?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Casa e Cozinha",
+      "bucket": "casa_cozinha",
+      "posted_ts": 1788332581,
+      "posted_at": "2026-09-02T07:03:01.317464+00:00",
+      "score": 129.0
+    },
+    {
       "key": "shopee:19099304356",
       "marketplace": "shopee",
       "id": "19099304356",
@@ -13971,35 +13999,7 @@
       "posted_ts": 1787581210,
       "posted_at": "2026-08-24T14:20:10.828596+00:00",
       "score": 109.59
-    },
-    {
-      "key": "shopee:23591594431",
-      "marketplace": "shopee",
-      "id": "23591594431",
-      "title": "Legging Flanelada Grossa Calça Leg Peluciada Forrada Por Dentro Costura Reforçada Calça Térmica",
-      "title_norm": "legging flanelada grossa calca leg peluciada forrada por dentro costura reforcada calca termica",
-      "url": "https://shopee.com.br/product/869193731/23591594431",
-      "affiliate_url": "https://s.shopee.com.br/19q9JSzE3",
-      "category": "OxeanJeans",
-      "bucket": "moda_feminina",
-      "posted_ts": 1787581146,
-      "posted_at": "2026-08-24T14:19:06.847707+00:00",
-      "score": 113.95
-    },
-    {
-      "key": "shopee:44451988896",
-      "marketplace": "shopee",
-      "id": "44451988896",
-      "title": "Calça Pantalona Alfaiataria Premium Com Bolso PROMOÇÃO",
-      "title_norm": "calca pantalona alfaiataria premium com bolso promocao",
-      "url": "https://shopee.com.br/product/1077139873/44451988896",
-      "affiliate_url": "https://s.shopee.com.br/8fRlsXLrGT",
-      "category": "valiosa fashion moda",
-      "bucket": "valiosa_fashion_moda",
-      "posted_ts": 1787581082,
-      "posted_at": "2026-08-24T14:18:02.926163+00:00",
-      "score": 114.03
     }
   ],
-  "updated_at": "2026-09-02T06:19:52.213853+00:00"
+  "updated_at": "2026-09-02T07:04:10.255669+00:00"
 }

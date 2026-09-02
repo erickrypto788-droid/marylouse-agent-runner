@@ -1,6 +1,36 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB5486901506",
+      "product_id": "MLB5486901506",
+      "catalog_product_id": "MLB33380670",
+      "item_id": "MLB5486901506",
+      "url": "https://www.mercadolivre.com.br/p/MLB33380670?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB33380670?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "conjunto de panelas antiaderente 5pc grafite panelux",
+      "title": "Conjunto De Panelas Antiaderente 5pc Grafite - Panelux",
+      "category": "Casa e Cozinha",
+      "price": 192.06,
+      "score": 113.0,
+      "posted_ts": 1788332650,
+      "posted_at": "2026-09-02T07:04:10.268918+00:00"
+    },
+    {
+      "key": "mercadolivre:MLB6218013518",
+      "product_id": "MLB6218013518",
+      "catalog_product_id": "MLB39387638",
+      "item_id": "MLB6218013518",
+      "url": "https://www.mercadolivre.com.br/p/MLB39387638?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB39387638?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "jogo panelas tramontina coimbra 5pcs preto antiaderente",
+      "title": "Jogo Panelas Tramontina Coimbra 5pçs Preto Antiaderente",
+      "category": "Casa e Cozinha",
+      "price": 213.89,
+      "score": 129.0,
+      "posted_ts": 1788332581,
+      "posted_at": "2026-09-02T07:03:01.331144+00:00"
+    },
+    {
       "key": "mercadolivre:MLB4040219599",
       "product_id": "MLB4040219599",
       "catalog_product_id": "MLB36244629",
@@ -674,37 +704,7 @@
       "score": 124.0,
       "posted_ts": 1788163385,
       "posted_at": "2026-08-31T08:03:05.016985+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB3474477475",
-      "product_id": "MLB3474477475",
-      "catalog_product_id": "MLB24908965",
-      "item_id": "MLB3474477475",
-      "url": "https://www.mercadolivre.com.br/p/MLB24908965?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB24908965?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "lamina aparador pelos philips bodygroom qg3379 qg3280 qg3380",
-      "title": "Lamina Aparador Pelos Philips Bodygroom Qg3379 Qg3280 Qg3380",
-      "category": "Beleza",
-      "price": 149.9,
-      "score": 104.0,
-      "posted_ts": 1788159757,
-      "posted_at": "2026-08-31T07:02:37.157935+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB7359539976",
-      "product_id": "MLB7359539976",
-      "catalog_product_id": "MLB18603556",
-      "item_id": "MLB7359539976",
-      "url": "https://www.mercadolivre.com.br/p/MLB18603556?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB18603556?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "bike spinning kikos max ks5 preto",
-      "title": "Bike Spinning Kikos Max-ks5 Preto",
-      "category": "Esportes",
-      "price": 2770.0,
-      "score": 84.0,
-      "posted_ts": 1788156312,
-      "posted_at": "2026-08-31T06:05:12.555279+00:00"
     }
   ],
-  "updated_at": "2026-09-02T06:05:04.723131+00:00"
+  "updated_at": "2026-09-02T07:04:10.268928+00:00"
 }
