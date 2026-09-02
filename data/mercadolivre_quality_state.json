@@ -1,6 +1,36 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB5747632298",
+      "product_id": "MLB5747632298",
+      "catalog_product_id": "MLB58174814",
+      "item_id": "MLB5747632298",
+      "url": "https://www.mercadolivre.com.br/p/MLB58174814?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB58174814?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "calca legging redutora miracle belt cor preto tamanho pp",
+      "title": "Calça Legging Redutora Miracle Belt Cor Preto Tamanho Pp",
+      "category": "Moda Feminina",
+      "price": 279.9,
+      "score": 88.0,
+      "posted_ts": 1788390292,
+      "posted_at": "2026-09-02T23:04:52.300472+00:00"
+    },
+    {
+      "key": "mercadolivre:MLB7079122650",
+      "product_id": "MLB7079122650",
+      "catalog_product_id": "MLB74851412",
+      "item_id": "MLB7079122650",
+      "url": "https://www.mercadolivre.com.br/p/MLB74851412?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB74851412?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "conjunto feminino alfaiataria bermuda blusa elegante peplum conjunto feminino shorts e blusa peplum",
+      "title": "Conjunto Feminino Alfaiataria Bermuda Blusa Elegante Peplum Conjunto Feminino Shorts E Blusa Peplum",
+      "category": "Moda Feminina",
+      "price": 151.16,
+      "score": 128.8,
+      "posted_ts": 1788390227,
+      "posted_at": "2026-09-02T23:03:47.945374+00:00"
+    },
+    {
       "key": "mercadolivre:MLB7517810920",
       "product_id": "MLB7517810920",
       "catalog_product_id": "MLB76609780",
@@ -601,5 +631,5 @@
       "posted_at": "2026-09-01T00:02:26.581981+00:00"
     }
   ],
-  "updated_at": "2026-09-02T22:09:32.592943+00:00"
+  "updated_at": "2026-09-02T23:04:52.300490+00:00"
 }
