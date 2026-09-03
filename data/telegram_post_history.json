@@ -1,6 +1,20 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB5095655201",
+      "marketplace": "mercadolivre",
+      "id": "MLB5095655201",
+      "title": "Impressora Etiquetas Código Barras + 1.000 Etiquetas Cor Branco",
+      "title_norm": "impressora etiquetas codigo barras 1 000 etiquetas cor branco",
+      "url": "https://www.mercadolivre.com.br/p/MLB50110319?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB50110319?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Informática",
+      "bucket": "informatica",
+      "posted_ts": 1788440568,
+      "posted_at": "2026-09-03T13:02:48.327480+00:00",
+      "score": 86.0
+    },
+    {
       "key": "shopee:18299266586",
       "marketplace": "shopee",
       "id": "18299266586",
@@ -13985,21 +13999,7 @@
       "posted_ts": 1787674910,
       "posted_at": "2026-08-25T16:21:50.470420+00:00",
       "score": 58.58
-    },
-    {
-      "key": "shopee:49514800038",
-      "marketplace": "shopee",
-      "id": "49514800038",
-      "title": "Colônia Champs Masculina 100ml (Embalagem Nova) - Jequiti",
-      "title_norm": "colonia champs masculina 100ml embalagem nova jequiti",
-      "url": "https://shopee.com.br/product/282271428/49514800038",
-      "affiliate_url": "https://s.shopee.com.br/5foEh10nYO",
-      "category": "Loja do Rei",
-      "bucket": "loja_do_rei",
-      "posted_ts": 1787674839,
-      "posted_at": "2026-08-25T16:20:39.813471+00:00",
-      "score": 63.13
     }
   ],
-  "updated_at": "2026-09-03T12:17:57.974123+00:00"
+  "updated_at": "2026-09-03T13:02:48.327495+00:00"
 }

@@ -1,6 +1,21 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB5095655201",
+      "product_id": "MLB5095655201",
+      "catalog_product_id": "MLB50110319",
+      "item_id": "MLB5095655201",
+      "url": "https://www.mercadolivre.com.br/p/MLB50110319?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB50110319?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "impressora etiquetas codigo barras 1 000 etiquetas cor branco",
+      "title": "Impressora Etiquetas Código Barras + 1.000 Etiquetas Cor Branco",
+      "category": "Informática",
+      "price": 448.99,
+      "score": 86.0,
+      "posted_ts": 1788440568,
+      "posted_at": "2026-09-03T13:02:48.342304+00:00"
+    },
+    {
       "key": "mercadolivre:MLB4871337061",
       "product_id": "MLB4871337061",
       "catalog_product_id": "MLB36069603",
@@ -554,67 +569,7 @@
       "score": 88.0,
       "posted_ts": 1788267786,
       "posted_at": "2026-09-01T13:03:06.795901+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB6825867960",
-      "product_id": "MLB6825867960",
-      "catalog_product_id": "MLB68094806",
-      "item_id": "MLB6825867960",
-      "url": "https://www.mercadolivre.com.br/p/MLB68094806?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB68094806?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "condicionador infantil lowell mirtilinho 240ml",
-      "title": "Condicionador Infantil Lowell Mirtilinho 240ml",
-      "category": "Beleza",
-      "price": 77.5,
-      "score": 88.0,
-      "posted_ts": 1788264560,
-      "posted_at": "2026-09-01T12:09:20.054579+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB5807012940",
-      "product_id": "MLB5807012940",
-      "catalog_product_id": "MLB20572035",
-      "item_id": "MLB5807012940",
-      "url": "https://www.mercadolivre.com.br/p/MLB20572035?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB20572035?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "creme dental 50 gr bioxtra",
-      "title": "Creme Dental 50 Gr - Bioxtra",
-      "category": "Supermercados",
-      "price": 81.9,
-      "score": 89.0,
-      "posted_ts": 1788264496,
-      "posted_at": "2026-09-01T12:08:16.002197+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB4942497243",
-      "product_id": "MLB4942497243",
-      "catalog_product_id": "MLB66453791",
-      "item_id": "MLB4942497243",
-      "url": "https://www.mercadolivre.com.br/p/MLB66453791?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB66453791?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "papel higienico familiar folha dupla 24 rolos",
-      "title": "Papel Higiênico Familiar Folha Dupla 24 Rolos",
-      "category": "Supermercados",
-      "price": 77.49,
-      "score": 114.0,
-      "posted_ts": 1788264432,
-      "posted_at": "2026-09-01T12:07:12.069116+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB5731460940",
-      "product_id": "MLB5731460940",
-      "catalog_product_id": "MLB51325266",
-      "item_id": "MLB5731460940",
-      "url": "https://www.mercadolivre.com.br/p/MLB51325266?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB51325266?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "sabao em po ype lava roupas em po tixan lava roupas em po garrafa 2 2 kg",
-      "title": "Sabão em pó Ypê Lava Roupas em Pó Tixan Lava Roupas em pó garrafa 2.2 kg",
-      "category": "Supermercados",
-      "price": 27.93,
-      "score": 119.65,
-      "posted_ts": 1788264360,
-      "posted_at": "2026-09-01T12:06:00.737350+00:00"
     }
   ],
-  "updated_at": "2026-09-03T11:02:46.494238+00:00"
+  "updated_at": "2026-09-03T13:02:48.342315+00:00"
 }
