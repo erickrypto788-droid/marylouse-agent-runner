@@ -1,6 +1,21 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB6483255322",
+      "product_id": "MLB6483255322",
+      "catalog_product_id": "MLB62010143",
+      "item_id": "MLB6483255322",
+      "url": "https://www.mercadolivre.com.br/p/MLB62010143?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB62010143?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "fone bluetooth redmi",
+      "title": "Fone Bluetooth Redmi",
+      "category": "Informática",
+      "price": 35.0,
+      "score": 98.22,
+      "posted_ts": 1788419032,
+      "posted_at": "2026-09-03T07:03:52.338619+00:00"
+    },
+    {
       "key": "mercadolivre:MLB5297261932",
       "product_id": "MLB5297261932",
       "catalog_product_id": "MLB45785598",
@@ -569,37 +584,7 @@
       "score": 128.8,
       "posted_ts": 1788249768,
       "posted_at": "2026-09-01T08:02:48.034564+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB5168613493",
-      "product_id": "MLB5168613493",
-      "catalog_product_id": "MLB47352305",
-      "item_id": "MLB5168613493",
-      "url": "https://www.mercadolivre.com.br/p/MLB47352305?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB47352305?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "celular poco x6",
-      "title": "Celular Poco X6",
-      "category": "Informática",
-      "price": 2100.0,
-      "score": 108.0,
-      "posted_ts": 1788239109,
-      "posted_at": "2026-09-01T05:05:09.888518+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB5026800457",
-      "product_id": "MLB5026800457",
-      "catalog_product_id": "MLB20643765",
-      "item_id": "MLB5026800457",
-      "url": "https://www.mercadolivre.com.br/p/MLB20643765?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB20643765?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "carregador iphone tipo usb c cor branco",
-      "title": "Carregador iPhone Tipo USB-C Cor Branco",
-      "category": "Informática",
-      "price": 349.99,
-      "score": 127.0,
-      "posted_ts": 1788239045,
-      "posted_at": "2026-09-01T05:04:05.472291+00:00"
     }
   ],
-  "updated_at": "2026-09-03T05:02:50.709647+00:00"
+  "updated_at": "2026-09-03T07:03:52.338631+00:00"
 }

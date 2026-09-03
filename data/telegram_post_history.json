@@ -1,6 +1,20 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB6483255322",
+      "marketplace": "mercadolivre",
+      "id": "MLB6483255322",
+      "title": "Fone Bluetooth Redmi",
+      "title_norm": "fone bluetooth redmi",
+      "url": "https://www.mercadolivre.com.br/p/MLB62010143?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB62010143?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Informática",
+      "bucket": "celulares",
+      "posted_ts": 1788419032,
+      "posted_at": "2026-09-03T07:03:52.326044+00:00",
+      "score": 98.22
+    },
+    {
       "key": "shopee:58210105679",
       "marketplace": "shopee",
       "id": "58210105679",
@@ -13985,21 +13999,7 @@
       "posted_ts": 1787660199,
       "posted_at": "2026-08-25T12:16:39.825871+00:00",
       "score": 99.71
-    },
-    {
-      "key": "shopee:58212070015",
-      "marketplace": "shopee",
-      "id": "58212070015",
-      "title": "Calça feminina plus size wide leg jeans",
-      "title_norm": "calca feminina plus size wide leg jeans",
-      "url": "https://shopee.com.br/product/1350883560/58212070015",
-      "affiliate_url": "https://s.shopee.com.br/6q0BkW7RTt",
-      "category": "Magnata Conceito",
-      "bucket": "magnata_conceito",
-      "posted_ts": 1787656796,
-      "posted_at": "2026-08-25T11:19:56.565301+00:00",
-      "score": 60.89
     }
   ],
-  "updated_at": "2026-09-03T06:21:23.635790+00:00"
+  "updated_at": "2026-09-03T07:03:52.326063+00:00"
 }
