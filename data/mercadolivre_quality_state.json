@@ -1,6 +1,21 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB7580832078",
+      "product_id": "MLB7580832078",
+      "catalog_product_id": "MLB77579661",
+      "item_id": "MLB7580832078",
+      "url": "https://www.mercadolivre.com.br/p/MLB77579661?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB77579661?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "difusor ar umidificador umidificador ar 1 5l humidifiicador ar ultrassonico umidificador domestico para quarto sala bercario operacao silenciosa umidificacao eficiente design compacto facil de usar",
+      "title": "Difusor Ar Umidificador Umidificador Ar 1.5l Humidifiicador Ar Ultrassonico Umidificador Doméstico Para Quarto Sala Berçário Operação Silenciosa Umidificação Eficiente Design Compacto Fácil De Usar",
+      "category": "Pet",
+      "price": 132.6,
+      "score": 187.63,
+      "posted_ts": 1788429823,
+      "posted_at": "2026-09-03T10:03:43.589808+00:00"
+    },
+    {
       "key": "mercadolivre:MLB7426398952",
       "product_id": "MLB7426398952",
       "catalog_product_id": "MLB77446522",
@@ -584,22 +599,7 @@
       "score": 119.65,
       "posted_ts": 1788264360,
       "posted_at": "2026-09-01T12:06:00.737350+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB5141223201",
-      "product_id": "MLB5141223201",
-      "catalog_product_id": "MLB78396115",
-      "item_id": "MLB5141223201",
-      "url": "https://www.mercadolivre.com.br/p/MLB78396115?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB78396115?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "comedouro automatico 4l caes e gatos app wifi bluetooth app alimentador inteligente comedouro automatico pet",
-      "title": "Comedouro Automático 4L Cães e Gatos APP WIFI Bluetooth APP Alimentador Inteligente Comedouro Automático Pet",
-      "category": "Pet",
-      "price": 189.24,
-      "score": 128.8,
-      "posted_ts": 1788249768,
-      "posted_at": "2026-09-01T08:02:48.034564+00:00"
     }
   ],
-  "updated_at": "2026-09-03T08:02:48.473781+00:00"
+  "updated_at": "2026-09-03T10:03:43.589818+00:00"
 }
