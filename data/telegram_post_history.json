@@ -1,6 +1,20 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB7270317740",
+      "marketplace": "mercadolivre",
+      "id": "MLB7270317740",
+      "title": "Jogo Panelas Ipanema 5 Peças Preto Nacional",
+      "title_norm": "jogo panelas ipanema 5 pecas preto nacional",
+      "url": "https://www.mercadolivre.com.br/p/MLB75817439?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB75817439?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Casa e Cozinha",
+      "bucket": "casa_cozinha",
+      "posted_ts": 1788455027,
+      "posted_at": "2026-09-03T17:03:47.357671+00:00",
+      "score": 109.22
+    },
+    {
       "key": "shopee:27693210740",
       "marketplace": "shopee",
       "id": "27693210740",
@@ -13985,21 +13999,7 @@
       "posted_ts": 1787692683,
       "posted_at": "2026-08-25T21:18:03.915266+00:00",
       "score": 87.38
-    },
-    {
-      "key": "shopee:22894378689",
-      "marketplace": "shopee",
-      "id": "22894378689",
-      "title": "Tapete Higiênico Descartável para Cachorro 60 x 60 cm - Fralda Pet Xixi Cão Pequeno Médio Absorção T",
-      "title_norm": "tapete higienico descartavel para cachorro 60 x 60 cm fralda pet xixi cao pequeno medio absorcao t",
-      "url": "https://shopee.com.br/product/1564303923/22894378689",
-      "affiliate_url": "https://s.shopee.com.br/1gI4zvwmkW",
-      "category": "escobartools",
-      "bucket": "fraldas",
-      "posted_ts": 1787692610,
-      "posted_at": "2026-08-25T21:16:50.761209+00:00",
-      "score": 111.78
     }
   ],
-  "updated_at": "2026-09-03T16:21:07.638105+00:00"
+  "updated_at": "2026-09-03T17:03:47.357686+00:00"
 }

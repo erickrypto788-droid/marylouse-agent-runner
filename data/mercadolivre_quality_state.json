@@ -1,6 +1,21 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB7270317740",
+      "product_id": "MLB7270317740",
+      "catalog_product_id": "MLB75817439",
+      "item_id": "MLB7270317740",
+      "url": "https://www.mercadolivre.com.br/p/MLB75817439?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB75817439?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "jogo panelas ipanema 5 pecas preto nacional",
+      "title": "Jogo Panelas Ipanema 5 Peças Preto Nacional",
+      "category": "Casa e Cozinha",
+      "price": 305.9,
+      "score": 109.22,
+      "posted_ts": 1788455027,
+      "posted_at": "2026-09-03T17:03:47.372396+00:00"
+    },
+    {
       "key": "mercadolivre:MLB4669888929",
       "product_id": "MLB4669888929",
       "catalog_product_id": "MLB69426926",
@@ -571,5 +586,5 @@
       "posted_at": "2026-09-01T19:02:32.960358+00:00"
     }
   ],
-  "updated_at": "2026-09-03T16:03:19.056234+00:00"
+  "updated_at": "2026-09-03T17:03:47.372408+00:00"
 }
