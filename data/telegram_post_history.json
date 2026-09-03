@@ -1,6 +1,20 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB4669888929",
+      "marketplace": "mercadolivre",
+      "id": "MLB4669888929",
+      "title": "Kit 10 Cateteres Speedicath Short Feminino Ch10",
+      "title_norm": "kit 10 cateteres speedicath short feminino ch10",
+      "url": "https://www.mercadolivre.com.br/p/MLB69426926?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB69426926?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Moda Feminina",
+      "bucket": "moda_feminina",
+      "posted_ts": 1788451399,
+      "posted_at": "2026-09-03T16:03:19.042412+00:00",
+      "score": 88.0
+    },
+    {
       "key": "shopee:23994304552",
       "marketplace": "shopee",
       "id": "23994304552",
@@ -13985,21 +13999,7 @@
       "posted_ts": 1787688158,
       "posted_at": "2026-08-25T20:02:38.912256+00:00",
       "score": 124.0
-    },
-    {
-      "key": "shopee:58250580186",
-      "marketplace": "shopee",
-      "id": "58250580186",
-      "title": "Hot Wheels Básicos/Mainline 2026 – Atualizado todo dia - Modelos Inéditos - Ferrari, Porsche e Outro",
-      "title_norm": "hot wheels basicos mainline 2026 atualizado todo dia modelos ineditos ferrari porsche e outro",
-      "url": "https://shopee.com.br/product/832719790/58250580186",
-      "affiliate_url": "https://s.shopee.com.br/4AzR6ddrIj",
-      "category": "FunBrinq",
-      "bucket": "funbrinq",
-      "posted_ts": 1787685716,
-      "posted_at": "2026-08-25T19:21:56.189182+00:00",
-      "score": 90.46
     }
   ],
-  "updated_at": "2026-09-03T15:21:19.423491+00:00"
+  "updated_at": "2026-09-03T16:03:19.042426+00:00"
 }
