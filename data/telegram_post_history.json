@@ -1,6 +1,34 @@
 {
   "posts": [
     {
+      "key": "shopee:23994721900",
+      "marketplace": "shopee",
+      "id": "23994721900",
+      "title": "Calça Wid Leg Cargo  Modeladora Blogueira Moda",
+      "title_norm": "calca wid leg cargo modeladora blogueira moda",
+      "url": "https://shopee.com.br/product/1366727315/23994721900",
+      "affiliate_url": "https://s.shopee.com.br/3LQXjkGlF4",
+      "category": "Princess Jeans Ltda",
+      "bucket": "princess_jeans_ltda",
+      "posted_ts": 1788423480,
+      "posted_at": "2026-09-03T08:18:00.334146+00:00",
+      "score": 44.19
+    },
+    {
+      "key": "shopee:21097736365",
+      "marketplace": "shopee",
+      "id": "21097736365",
+      "title": "Vestido rodado Plus Size manga fler  com a faixa  Suplex Digital 44/46/48/50/52 g gg g1 g2",
+      "title_norm": "vestido rodado plus size manga fler com a faixa suplex digital 44 46 48 50 52 g gg g1 g2",
+      "url": "https://shopee.com.br/product/1314293823/21097736365",
+      "affiliate_url": "https://s.shopee.com.br/8fS45Y0vSF",
+      "category": "JOYCE MODAS12",
+      "bucket": "moda_feminina",
+      "posted_ts": 1788423408,
+      "posted_at": "2026-09-03T08:16:48.416687+00:00",
+      "score": 58.6
+    },
+    {
       "key": "mercadolivre:MLB7426398952",
       "marketplace": "mercadolivre",
       "id": "MLB7426398952",
@@ -13971,35 +13999,7 @@
       "posted_ts": 1787667567,
       "posted_at": "2026-08-25T14:19:27.447691+00:00",
       "score": 91.46
-    },
-    {
-      "key": "shopee:20798323083",
-      "marketplace": "shopee",
-      "id": "20798323083",
-      "title": "Power Bank 10000mAh para iPhone: Turbo Carregamento Sem Fio Magnético, Compacto e Alta Potência",
-      "title_norm": "power bank 10000mah para iphone turbo carregamento sem fio magnetico compacto e alta potencia",
-      "url": "https://shopee.com.br/product/1562705368/20798323083",
-      "affiliate_url": "https://s.shopee.com.br/6VNKI1iLXC",
-      "category": "Nex.Shop",
-      "bucket": "celulares",
-      "posted_ts": 1787667503,
-      "posted_at": "2026-08-25T14:18:23.221996+00:00",
-      "score": 128.29
-    },
-    {
-      "key": "shopee:22298786744",
-      "marketplace": "shopee",
-      "id": "22298786744",
-      "title": "Tela Magnética Monitor Para Celular Sem Fio Smartphone Selfie Vlog Gravação",
-      "title_norm": "tela magnetica monitor para celular sem fio smartphone selfie vlog gravacao",
-      "url": "https://shopee.com.br/product/1264631014/22298786744",
-      "affiliate_url": "https://s.shopee.com.br/8plF4JMKjH",
-      "category": "TOP Vida Brasil",
-      "bucket": "celulares",
-      "posted_ts": 1787667439,
-      "posted_at": "2026-08-25T14:17:19.033159+00:00",
-      "score": 128.46
     }
   ],
-  "updated_at": "2026-09-03T08:02:48.460004+00:00"
+  "updated_at": "2026-09-03T08:18:00.334162+00:00"
 }
