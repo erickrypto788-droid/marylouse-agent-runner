@@ -1,6 +1,62 @@
 {
   "posts": [
     {
+      "key": "shopee:58200212094",
+      "marketplace": "shopee",
+      "id": "58200212094",
+      "title": "Capa Capinha Para Samsung A06 A07 A15 A16 A17 A25 A35 A54 A55 S26 Silicone Premium Com MagSafe",
+      "title_norm": "capa capinha para samsung a06 a07 a15 a16 a17 a25 a35 a54 a55 s26 silicone premium com magsafe",
+      "url": "https://shopee.com.br/product/1064476955/58200212094",
+      "affiliate_url": "https://s.shopee.com.br/qjCxXNxRf",
+      "category": "FÊNIX IMPORT ",
+      "bucket": "fenix_import",
+      "posted_ts": 1788434435,
+      "posted_at": "2026-09-03T11:20:35.989765+00:00",
+      "score": 30.79
+    },
+    {
+      "key": "shopee:18999071004",
+      "marketplace": "shopee",
+      "id": "18999071004",
+      "title": "Carregador 50W Turbo Power Carregamento Rápido USB-C+Cabo tipo-C",
+      "title_norm": "carregador 50w turbo power carregamento rapido usb c cabo tipo c",
+      "url": "https://shopee.com.br/product/1121630519/18999071004",
+      "affiliate_url": "https://s.shopee.com.br/6VNZhxBK3Y",
+      "category": "XIANG Eletrônicos LOJA",
+      "bucket": "xiang_eletronicos_loja",
+      "posted_ts": 1788434371,
+      "posted_at": "2026-09-03T11:19:31.810421+00:00",
+      "score": 72.11
+    },
+    {
+      "key": "shopee:23091546001",
+      "marketplace": "shopee",
+      "id": "23091546001",
+      "title": "Amplificador De Imagem Da Tela Do Celular Lupa 3D 21,6CM*16,6CM*2,7CM Promoção",
+      "title_norm": "amplificador de imagem da tela do celular lupa 3d 21 6cm 16 6cm 2 7cm promocao",
+      "url": "https://shopee.com.br/product/832040275/23091546001",
+      "affiliate_url": "https://s.shopee.com.br/3qMoX3LTSm",
+      "category": "P&H  Oficial",
+      "bucket": "celulares",
+      "posted_ts": 1788434299,
+      "posted_at": "2026-09-03T11:18:19.987547+00:00",
+      "score": 121.37
+    },
+    {
+      "key": "shopee:22096106124",
+      "marketplace": "shopee",
+      "id": "22096106124",
+      "title": "Pendrive HP USB 2.0 Metal 2TB Giratório De Alta Velocidade Para Smartphone/Notebook/PC Android",
+      "title_norm": "pendrive hp usb 2 0 metal 2tb giratorio de alta velocidade para smartphone notebook pc android",
+      "url": "https://shopee.com.br/product/1021003165/22096106124",
+      "affiliate_url": "https://s.shopee.com.br/2BEaXzELQp",
+      "category": "rflashdrive.br",
+      "bucket": "celulares",
+      "posted_ts": 1788434230,
+      "posted_at": "2026-09-03T11:17:10.450498+00:00",
+      "score": 126.51
+    },
+    {
       "key": "mercadolivre:MLB4871337061",
       "marketplace": "mercadolivre",
       "id": "MLB4871337061",
@@ -13943,63 +13999,7 @@
       "posted_ts": 1787674711,
       "posted_at": "2026-08-25T16:18:31.822158+00:00",
       "score": 130.54
-    },
-    {
-      "key": "shopee:40624794433",
-      "marketplace": "shopee",
-      "id": "40624794433",
-      "title": "Escova 5 em 1 Secador, Pente, Modelador, Aumenta volume Profissional 110V E 220V",
-      "title_norm": "escova 5 em 1 secador pente modelador aumenta volume profissional 110v e 220v",
-      "url": "https://shopee.com.br/product/1459307687/40624794433",
-      "affiliate_url": "https://s.shopee.com.br/1BLmk0ibLn",
-      "category": "Link&LinkShop_Brasil",
-      "bucket": "beleza",
-      "posted_ts": 1787674639,
-      "posted_at": "2026-08-25T16:17:19.639789+00:00",
-      "score": 132.55
-    },
-    {
-      "key": "mercadolivre:MLB5297261932",
-      "marketplace": "mercadolivre",
-      "id": "MLB5297261932",
-      "title": "Brinquedo Lider Kit Ferramentas - 2381",
-      "title_norm": "brinquedo lider kit ferramentas 2381",
-      "url": "https://www.mercadolivre.com.br/p/MLB45785598?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB45785598?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "category": "Ferramentas",
-      "bucket": "ferramentas",
-      "posted_ts": 1787673831,
-      "posted_at": "2026-08-25T16:03:51.518371+00:00",
-      "score": 88.0
-    },
-    {
-      "key": "mercadolivre:MLB6149389980",
-      "marketplace": "mercadolivre",
-      "id": "MLB6149389980",
-      "title": "Kit Furadeira e Parafusadeira com Parafusadeira Dewalt Modelo DCK200ME2GT 2 Baterias 20V",
-      "title_norm": "kit furadeira e parafusadeira com parafusadeira dewalt modelo dck200me2gt 2 baterias 20v",
-      "url": "https://www.mercadolivre.com.br/p/MLB37180897?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB37180897?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "category": "Ferramentas",
-      "bucket": "ferramentas",
-      "posted_ts": 1787673765,
-      "posted_at": "2026-08-25T16:02:45.633810+00:00",
-      "score": 109.0
-    },
-    {
-      "key": "shopee:58206298219",
-      "marketplace": "shopee",
-      "id": "58206298219",
-      "title": "Espremedor de Frutas Premium E02 30W Mondial",
-      "title_norm": "espremedor de frutas premium e02 30w mondial",
-      "url": "https://shopee.com.br/product/1083800536/58206298219",
-      "affiliate_url": "https://s.shopee.com.br/7fZHkFPlk7",
-      "category": "Casas Bahia Oficial",
-      "bucket": "casas_bahia_oficial",
-      "posted_ts": 1787671367,
-      "posted_at": "2026-08-25T15:22:47.631297+00:00",
-      "score": 53.51
     }
   ],
-  "updated_at": "2026-09-03T11:02:46.480410+00:00"
+  "updated_at": "2026-09-03T11:20:35.989785+00:00"
 }
