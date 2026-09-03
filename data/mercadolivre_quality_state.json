@@ -1,6 +1,21 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB4871337061",
+      "product_id": "MLB4871337061",
+      "catalog_product_id": "MLB36069603",
+      "item_id": "MLB4871337061",
+      "url": "https://www.mercadolivre.com.br/p/MLB36069603?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB36069603?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "quatree gourmet racao cachorro filhotes premium 20kg",
+      "title": "Quatree gourmet ração cachorro filhotes Premium 20kg",
+      "category": "Pet",
+      "price": 243.0,
+      "score": 113.0,
+      "posted_ts": 1788433366,
+      "posted_at": "2026-09-03T11:02:46.494229+00:00"
+    },
+    {
       "key": "mercadolivre:MLB7580832078",
       "product_id": "MLB7580832078",
       "catalog_product_id": "MLB77579661",
@@ -601,5 +616,5 @@
       "posted_at": "2026-09-01T12:06:00.737350+00:00"
     }
   ],
-  "updated_at": "2026-09-03T10:03:43.589818+00:00"
+  "updated_at": "2026-09-03T11:02:46.494238+00:00"
 }
