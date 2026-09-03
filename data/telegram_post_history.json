@@ -1,6 +1,34 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB4027376697",
+      "marketplace": "mercadolivre",
+      "id": "MLB4027376697",
+      "title": "Jogo de Panelas Antiaderente 5 Peças Cereja com Revestimento Antiaderente",
+      "title_norm": "jogo de panelas antiaderente 5 pecas cereja com revestimento antiaderente",
+      "url": "https://www.mercadolivre.com.br/p/MLB33652298?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB33652298?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Casa e Cozinha",
+      "bucket": "casa_cozinha",
+      "posted_ts": 1788393919,
+      "posted_at": "2026-09-03T00:05:19.640333+00:00",
+      "score": 123.09
+    },
+    {
+      "key": "mercadolivre:MLB5944892036",
+      "marketplace": "mercadolivre",
+      "id": "MLB5944892036",
+      "title": "Jogo Panelas Tramontina Antiaderente Alumínio Monaco Indução",
+      "title_norm": "jogo panelas tramontina antiaderente aluminio monaco inducao",
+      "url": "https://www.mercadolivre.com.br/p/MLB47630541?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB47630541?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Casa e Cozinha",
+      "bucket": "casa_cozinha",
+      "posted_ts": 1788393854,
+      "posted_at": "2026-09-03T00:04:14.153122+00:00",
+      "score": 127.0
+    },
+    {
       "key": "shopee:20299891802",
       "marketplace": "shopee",
       "id": "20299891802",
@@ -13971,35 +13999,7 @@
       "posted_ts": 1787641720,
       "posted_at": "2026-08-25T07:08:40.442969+00:00",
       "score": 88.0
-    },
-    {
-      "key": "mercadolivre:MLB6581237526",
-      "marketplace": "mercadolivre",
-      "id": "MLB6581237526",
-      "title": "100 Saco De Lixo 60l Preto Saco Lixo Resistente Reforçado",
-      "title_norm": "100 saco de lixo 60l preto saco lixo resistente reforcado",
-      "url": "https://www.mercadolivre.com.br/p/MLB61910184?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB61910184?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "category": "Supermercados",
-      "bucket": "supermercados",
-      "posted_ts": 1787641652,
-      "posted_at": "2026-08-25T07:07:32.381996+00:00",
-      "score": 89.0
-    },
-    {
-      "key": "mercadolivre:MLB5731460940",
-      "marketplace": "mercadolivre",
-      "id": "MLB5731460940",
-      "title": "Sabão em pó Ypê Lava Roupas em Pó Tixan Lava Roupas em pó garrafa 2.2 kg",
-      "title_norm": "sabao em po ype lava roupas em po tixan lava roupas em po garrafa 2 2 kg",
-      "url": "https://www.mercadolivre.com.br/p/MLB51325266?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB51325266?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "category": "Supermercados",
-      "bucket": "supermercados",
-      "posted_ts": 1787641582,
-      "posted_at": "2026-08-25T07:06:22.828763+00:00",
-      "score": 119.63
     }
   ],
-  "updated_at": "2026-09-02T23:21:00.397268+00:00"
+  "updated_at": "2026-09-03T00:05:19.640354+00:00"
 }

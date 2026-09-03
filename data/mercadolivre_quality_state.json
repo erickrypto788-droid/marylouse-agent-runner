@@ -1,6 +1,36 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB4027376697",
+      "product_id": "MLB4027376697",
+      "catalog_product_id": "MLB33652298",
+      "item_id": "MLB4027376697",
+      "url": "https://www.mercadolivre.com.br/p/MLB33652298?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB33652298?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "jogo de panelas antiaderente 5 pecas cereja com revestimento antiaderente",
+      "title": "Jogo de Panelas Antiaderente 5 Peças Cereja com Revestimento Antiaderente",
+      "category": "Casa e Cozinha",
+      "price": 166.65,
+      "score": 123.09,
+      "posted_ts": 1788393919,
+      "posted_at": "2026-09-03T00:05:19.650994+00:00"
+    },
+    {
+      "key": "mercadolivre:MLB5944892036",
+      "product_id": "MLB5944892036",
+      "catalog_product_id": "MLB47630541",
+      "item_id": "MLB5944892036",
+      "url": "https://www.mercadolivre.com.br/p/MLB47630541?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB47630541?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "jogo panelas tramontina antiaderente aluminio monaco inducao",
+      "title": "Jogo Panelas Tramontina Antiaderente Alumínio Monaco Indução",
+      "category": "Casa e Cozinha",
+      "price": 737.0,
+      "score": 127.0,
+      "posted_ts": 1788393854,
+      "posted_at": "2026-09-03T00:04:14.163259+00:00"
+    },
+    {
       "key": "mercadolivre:MLB5747632298",
       "product_id": "MLB5747632298",
       "catalog_product_id": "MLB58174814",
@@ -599,37 +629,7 @@
       "score": 111.0,
       "posted_ts": 1788228188,
       "posted_at": "2026-09-01T02:03:08.931943+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB5167218221",
-      "product_id": "MLB5167218221",
-      "catalog_product_id": "MLB20624919",
-      "item_id": "MLB5167218221",
-      "url": "https://www.mercadolivre.com.br/p/MLB20624919?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB20624919?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "kit maquina cortar cabelo maquina barbeador recarregavel",
-      "title": "Kit Maquina Cortar Cabelo + Maquina Barbeador Recarregavel",
-      "category": "Beleza",
-      "price": 169.9,
-      "score": 113.0,
-      "posted_ts": 1788221019,
-      "posted_at": "2026-09-01T00:03:39.514274+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB5041531745",
-      "product_id": "MLB5041531745",
-      "catalog_product_id": "MLB74370100",
-      "item_id": "MLB5041531745",
-      "url": "https://www.mercadolivre.com.br/p/MLB74370100?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB74370100?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "chapinha cabelo profissional 450f slim bivolt titanium",
-      "title": "Chapinha Cabelo Profissional 450f Slim Bivolt, Titanium",
-      "category": "Beleza",
-      "price": 139.98,
-      "score": 113.0,
-      "posted_ts": 1788220946,
-      "posted_at": "2026-09-01T00:02:26.581981+00:00"
     }
   ],
-  "updated_at": "2026-09-02T23:04:52.300490+00:00"
+  "updated_at": "2026-09-03T00:05:19.651015+00:00"
 }
