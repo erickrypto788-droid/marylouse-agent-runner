@@ -1,6 +1,34 @@
 {
   "posts": [
     {
+      "key": "shopee:23999517864",
+      "marketplace": "shopee",
+      "id": "23999517864",
+      "title": "Medidor De Glicose+100 Lancetas+100 Tiras On Call Plus Ii Cor Azul",
+      "title_norm": "medidor de glicose 100 lancetas 100 tiras on call plus ii cor azul",
+      "url": "https://shopee.com.br/product/1516740718/23999517864",
+      "affiliate_url": "https://s.shopee.com.br/1LfTxCE67W",
+      "category": "Infotop21",
+      "bucket": "infotop21",
+      "posted_ts": 1788455907,
+      "posted_at": "2026-09-03T17:18:27.464650+00:00",
+      "score": 38.63
+    },
+    {
+      "key": "shopee:23893497572",
+      "marketplace": "shopee",
+      "id": "23893497572",
+      "title": "Oxímetro Infantil Neonatal Pediátrico De Dedo Digital Crianças Medidor Oxigênio Recarregável Pulse Yihan",
+      "title_norm": "oximetro infantil neonatal pediatrico de dedo digital criancas medidor oxigenio recarregavel pulse yihan",
+      "url": "https://shopee.com.br/product/696313634/23893497572",
+      "affiliate_url": "https://s.shopee.com.br/20vAkQ2guv",
+      "category": "Yihan.store",
+      "bucket": "saude",
+      "posted_ts": 1788455843,
+      "posted_at": "2026-09-03T17:17:23.002436+00:00",
+      "score": 102.48
+    },
+    {
       "key": "mercadolivre:MLB7270317740",
       "marketplace": "mercadolivre",
       "id": "MLB7270317740",
@@ -13971,35 +13999,7 @@
       "posted_ts": 1787692813,
       "posted_at": "2026-08-25T21:20:13.498872+00:00",
       "score": 74.26
-    },
-    {
-      "key": "shopee:22594885962",
-      "marketplace": "shopee",
-      "id": "22594885962",
-      "title": "Berço Portátil Bebê Moisés com Mosquiteiro Rodinhas Colchão Incluso Cesto Organizador Recém-Nascido",
-      "title_norm": "berco portatil bebe moises com mosquiteiro rodinhas colchao incluso cesto organizador recem nascido",
-      "url": "https://shopee.com.br/product/552389168/22594885962",
-      "affiliate_url": "https://s.shopee.com.br/1BLpfJmbCW",
-      "category": "Q-Traje",
-      "bucket": "q_traje",
-      "posted_ts": 1787692748,
-      "posted_at": "2026-08-25T21:19:08.114538+00:00",
-      "score": 74.54
-    },
-    {
-      "key": "shopee:58204723156",
-      "marketplace": "shopee",
-      "id": "58204723156",
-      "title": "Kit 48 Carrinhos com Fricção de Lata Metálica Coloridos - Caixa Container que Vira Pista QUALIDADE",
-      "title_norm": "kit 48 carrinhos com friccao de lata metalica coloridos caixa container que vira pista qualidade",
-      "url": "https://shopee.com.br/product/1609042341/58204723156",
-      "affiliate_url": "https://s.shopee.com.br/6AkVcVPIn4",
-      "category": "LINDU 2025",
-      "bucket": "lindu_2025",
-      "posted_ts": 1787692683,
-      "posted_at": "2026-08-25T21:18:03.915266+00:00",
-      "score": 87.38
     }
   ],
-  "updated_at": "2026-09-03T17:03:47.357686+00:00"
+  "updated_at": "2026-09-03T17:18:27.464677+00:00"
 }
