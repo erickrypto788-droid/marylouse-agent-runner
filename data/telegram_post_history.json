@@ -1,6 +1,34 @@
 {
   "posts": [
     {
+      "key": "shopee:18299266586",
+      "marketplace": "shopee",
+      "id": "18299266586",
+      "title": "Aspirador de Pó 2 em 1 Limpeza Portátil Sem Fio Multifuncional Para Limpeza De Casa Manual",
+      "title_norm": "aspirador de po 2 em 1 limpeza portatil sem fio multifuncional para limpeza de casa manual",
+      "url": "https://shopee.com.br/product/465639879/18299266586",
+      "affiliate_url": "https://s.shopee.com.br/4LJ5C4vcdJ",
+      "category": "T&TBem_vindo.br",
+      "bucket": "casa_cozinha",
+      "posted_ts": 1788437877,
+      "posted_at": "2026-09-03T12:17:57.974110+00:00",
+      "score": 95.39
+    },
+    {
+      "key": "shopee:22792891006",
+      "marketplace": "shopee",
+      "id": "22792891006",
+      "title": "Cafeteira Philco 15 Cafezinhos 550W 600ml PCFE01",
+      "title_norm": "cafeteira philco 15 cafezinhos 550w 600ml pcfe01",
+      "url": "https://shopee.com.br/product/811034337/22792891006",
+      "affiliate_url": "https://s.shopee.com.br/8KpDxQXaxZ",
+      "category": "Philco Oficial",
+      "bucket": "casa_cozinha",
+      "posted_ts": 1788437813,
+      "posted_at": "2026-09-03T12:16:53.923129+00:00",
+      "score": 99.87
+    },
+    {
       "key": "shopee:58200212094",
       "marketplace": "shopee",
       "id": "58200212094",
@@ -13971,35 +13999,7 @@
       "posted_ts": 1787674839,
       "posted_at": "2026-08-25T16:20:39.813471+00:00",
       "score": 63.13
-    },
-    {
-      "key": "shopee:22898980977",
-      "marketplace": "shopee",
-      "id": "22898980977",
-      "title": "Principia Kit Duo c/ 2 Protetores Solares Faciais - PS-01 FPS 60",
-      "title_norm": "principia kit duo c 2 protetores solares faciais ps 01 fps 60",
-      "url": "https://shopee.com.br/product/373261329/22898980977",
-      "affiliate_url": "https://s.shopee.com.br/80C9TJ9VxS",
-      "category": "Principia Skincare",
-      "bucket": "principia_skincare",
-      "posted_ts": 1787674775,
-      "posted_at": "2026-08-25T16:19:35.760665+00:00",
-      "score": 63.68
-    },
-    {
-      "key": "shopee:23598844177",
-      "marketplace": "shopee",
-      "id": "23598844177",
-      "title": "GOKOCO Escova Secadora 7 Em 1 GD032 Conjunto De Secador De Cabelo Multifuncional De Alta Velocidade  Para Alisar Enrolar",
-      "title_norm": "gokoco escova secadora 7 em 1 gd032 conjunto de secador de cabelo multifuncional de alta velocidade para alisar enrolar",
-      "url": "https://shopee.com.br/product/1078551010/23598844177",
-      "affiliate_url": "https://s.shopee.com.br/7VFp1MERN4",
-      "category": "GOKOCO Offical Shop.BR",
-      "bucket": "beleza",
-      "posted_ts": 1787674711,
-      "posted_at": "2026-08-25T16:18:31.822158+00:00",
-      "score": 130.54
     }
   ],
-  "updated_at": "2026-09-03T11:20:35.989785+00:00"
+  "updated_at": "2026-09-03T12:17:57.974123+00:00"
 }
