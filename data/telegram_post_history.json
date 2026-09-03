@@ -1,6 +1,20 @@
 {
   "posts": [
     {
+      "key": "shopee:6275821359",
+      "marketplace": "shopee",
+      "id": "6275821359",
+      "title": "Mochila de Lona Unissex Grande 50l com Altíssima Qualidade e Resistente Á água",
+      "title_norm": "mochila de lona unissex grande 50l com altissima qualidade e resistente a agua",
+      "url": "https://shopee.com.br/product/222975446/6275821359",
+      "affiliate_url": "https://s.shopee.com.br/8plV5Iy2aJ",
+      "category": "Luxor Comercial",
+      "bucket": "bolsas",
+      "posted_ts": 1788466612,
+      "posted_at": "2026-09-03T20:16:52.858642+00:00",
+      "score": 90.55
+    },
+    {
       "key": "shopee:18697985049",
       "marketplace": "shopee",
       "id": "18697985049",
@@ -13985,21 +13999,7 @@
       "posted_ts": 1787699872,
       "posted_at": "2026-08-25T23:17:52.633731+00:00",
       "score": 87.49
-    },
-    {
-      "key": "shopee:23697738354",
-      "marketplace": "shopee",
-      "id": "23697738354",
-      "title": "Mochila Mala Reforçada Notebook Impermeável Escolar Trabalho",
-      "title_norm": "mochila mala reforcada notebook impermeavel escolar trabalho",
-      "url": "https://shopee.com.br/product/1191715089/23697738354",
-      "affiliate_url": "https://s.shopee.com.br/4fvghh3Oxq",
-      "category": "eletromix021",
-      "bucket": "informatica",
-      "posted_ts": 1787699803,
-      "posted_at": "2026-08-25T23:16:43.071072+00:00",
-      "score": 93.78
     }
   ],
-  "updated_at": "2026-09-03T19:18:58.996236+00:00"
+  "updated_at": "2026-09-03T20:16:52.858655+00:00"
 }
