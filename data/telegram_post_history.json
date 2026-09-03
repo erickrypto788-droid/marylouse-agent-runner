@@ -1,6 +1,48 @@
 {
   "posts": [
     {
+      "key": "shopee:22497089311",
+      "marketplace": "shopee",
+      "id": "22497089311",
+      "title": "Mochila Masculina Bolsa Feminina Notebook Escolar Resistente Oferta",
+      "title_norm": "mochila masculina bolsa feminina notebook escolar resistente oferta",
+      "url": "https://shopee.com.br/product/752743341/22497089311",
+      "affiliate_url": "https://s.shopee.com.br/1LfSp79IGj",
+      "category": "Fenix Abdon",
+      "bucket": "informatica",
+      "posted_ts": 1788394775,
+      "posted_at": "2026-09-03T00:19:35.726835+00:00",
+      "score": 87.15
+    },
+    {
+      "key": "shopee:23198643344",
+      "marketplace": "shopee",
+      "id": "23198643344",
+      "title": "Bolsa Feminina Crossbody Transversal Pequena Necessaire Tecido Impermeável",
+      "title_norm": "bolsa feminina crossbody transversal pequena necessaire tecido impermeavel",
+      "url": "https://shopee.com.br/product/1448484843/23198643344",
+      "affiliate_url": "https://s.shopee.com.br/AUtgTfHHiO",
+      "category": "YL.BR.BOLSAS",
+      "bucket": "bolsas",
+      "posted_ts": 1788394711,
+      "posted_at": "2026-09-03T00:18:31.610893+00:00",
+      "score": 106.96
+    },
+    {
+      "key": "shopee:20399869941",
+      "marketplace": "shopee",
+      "id": "20399869941",
+      "title": "Bolsa de Praia Feminina Alça de Corda Elegante Grande e Resistente",
+      "title_norm": "bolsa de praia feminina alca de corda elegante grande e resistente",
+      "url": "https://shopee.com.br/product/1448484843/20399869941",
+      "affiliate_url": "https://s.shopee.com.br/8KpBtgKvW4",
+      "category": "YL.BR.BOLSAS",
+      "bucket": "bolsas",
+      "posted_ts": 1788394645,
+      "posted_at": "2026-09-03T00:17:25.969753+00:00",
+      "score": 107.98
+    },
+    {
       "key": "mercadolivre:MLB4027376697",
       "marketplace": "mercadolivre",
       "id": "MLB4027376697",
@@ -13957,49 +13999,7 @@
       "posted_ts": 1787642279,
       "posted_at": "2026-08-25T07:17:59.466488+00:00",
       "score": 102.68
-    },
-    {
-      "key": "shopee:58250361148",
-      "marketplace": "shopee",
-      "id": "58250361148",
-      "title": "1.8L Panela De Arroz Elétrica Multi-Camadas/De Dupla Camada Dormitório Doméstico Funções",
-      "title_norm": "1 8l panela de arroz eletrica multi camadas de dupla camada dormitorio domestico funcoes",
-      "url": "https://shopee.com.br/product/720952207/58250361148",
-      "affiliate_url": "https://s.shopee.com.br/W66bzIBpP",
-      "category": "Mercado Estelar",
-      "bucket": "casa_cozinha",
-      "posted_ts": 1787642209,
-      "posted_at": "2026-08-25T07:16:49.277135+00:00",
-      "score": 130.25
-    },
-    {
-      "key": "mercadolivre:MLB6825867960",
-      "marketplace": "mercadolivre",
-      "id": "MLB6825867960",
-      "title": "Condicionador Infantil Lowell Mirtilinho 240ml",
-      "title_norm": "condicionador infantil lowell mirtilinho 240ml",
-      "url": "https://www.mercadolivre.com.br/p/MLB68094806?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB68094806?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "category": "Beleza",
-      "bucket": "beleza",
-      "posted_ts": 1787641789,
-      "posted_at": "2026-08-25T07:09:49.770197+00:00",
-      "score": 88.0
-    },
-    {
-      "key": "mercadolivre:MLB3667109301",
-      "marketplace": "mercadolivre",
-      "id": "MLB3667109301",
-      "title": "Shampoo Infantil 400ml Buba Care",
-      "title_norm": "shampoo infantil 400ml buba care",
-      "url": "https://www.mercadolivre.com.br/p/MLB29671809?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB29671809?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "category": "Beleza",
-      "bucket": "beleza",
-      "posted_ts": 1787641720,
-      "posted_at": "2026-08-25T07:08:40.442969+00:00",
-      "score": 88.0
     }
   ],
-  "updated_at": "2026-09-03T00:05:19.640354+00:00"
+  "updated_at": "2026-09-03T00:19:35.726848+00:00"
 }
