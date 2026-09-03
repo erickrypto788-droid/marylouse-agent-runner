@@ -1,6 +1,48 @@
 {
   "posts": [
     {
+      "key": "shopee:22997973632",
+      "marketplace": "shopee",
+      "id": "22997973632",
+      "title": "Bota Masculina Coturno trabalho Adventure Solado Borracha Cater",
+      "title_norm": "bota masculina coturno trabalho adventure solado borracha cater",
+      "url": "https://shopee.com.br/product/1380616663/22997973632",
+      "affiliate_url": "https://s.shopee.com.br/40gEb5uTYZ",
+      "category": "Destroyer Adventure",
+      "bucket": "calcados",
+      "posted_ts": 1788427150,
+      "posted_at": "2026-09-03T09:19:10.767358+00:00",
+      "score": 88.14
+    },
+    {
+      "key": "shopee:23397486866",
+      "marketplace": "shopee",
+      "id": "23397486866",
+      "title": "Tênis Masculino Esportivo DM DAMANDO Para Treino Crossfit Caminhada",
+      "title_norm": "tenis masculino esportivo dm damando para treino crossfit caminhada",
+      "url": "https://shopee.com.br/product/319037999/23397486866",
+      "affiliate_url": "https://s.shopee.com.br/60RIylZf9X",
+      "category": "DM DAMANDO",
+      "bucket": "calcados",
+      "posted_ts": 1788427080,
+      "posted_at": "2026-09-03T09:18:00.870658+00:00",
+      "score": 93.28
+    },
+    {
+      "key": "shopee:18910553978",
+      "marketplace": "shopee",
+      "id": "18910553978",
+      "title": "Botina De Segurança BICO PVC Em COURO Para Trabalho Atacado de EPI Resistente Serviços Gerais",
+      "title_norm": "botina de seguranca bico pvc em couro para trabalho atacado de epi resistente servicos gerais",
+      "url": "https://shopee.com.br/product/617617904/18910553978",
+      "affiliate_url": "https://s.shopee.com.br/4AzenOtqDa",
+      "category": "EAGLE EPI",
+      "bucket": "eagle_epi",
+      "posted_ts": 1788427010,
+      "posted_at": "2026-09-03T09:16:50.907073+00:00",
+      "score": 96.67
+    },
+    {
       "key": "shopee:23994721900",
       "marketplace": "shopee",
       "id": "23994721900",
@@ -13957,49 +13999,7 @@
       "posted_ts": 1787671110,
       "posted_at": "2026-08-25T15:18:30.944149+00:00",
       "score": 100.57
-    },
-    {
-      "key": "shopee:58201417897",
-      "marketplace": "shopee",
-      "id": "58201417897",
-      "title": "Cabo 4 em 1 Universal Carregador Rápido USB Tipo-C e Lightning Carregamento Turbo",
-      "title_norm": "cabo 4 em 1 universal carregador rapido usb tipo c e lightning carregamento turbo",
-      "url": "https://shopee.com.br/product/676702088/58201417897",
-      "affiliate_url": "https://s.shopee.com.br/7VFsk9Fiu2",
-      "category": "Dobest Comercio de Variedade",
-      "bucket": "dobest_comercio_de_variedade",
-      "posted_ts": 1787667695,
-      "posted_at": "2026-08-25T14:21:35.953304+00:00",
-      "score": 77.27
-    },
-    {
-      "key": "shopee:27791019433",
-      "marketplace": "shopee",
-      "id": "27791019433",
-      "title": "Adaptadores Tomada Universal Para Viagem Internacional Compatível Em +150 Países",
-      "title_norm": "adaptadores tomada universal para viagem internacional compativel em 150 paises",
-      "url": "https://shopee.com.br/product/331720585/27791019433",
-      "affiliate_url": "https://s.shopee.com.br/AUtT3NbiB9",
-      "category": "19BR SHOP",
-      "bucket": "19br_shop",
-      "posted_ts": 1787667631,
-      "posted_at": "2026-08-25T14:20:31.730025+00:00",
-      "score": 77.75
-    },
-    {
-      "key": "shopee:58205140425",
-      "marketplace": "shopee",
-      "id": "58205140425",
-      "title": "Película De Privacidade 3D Vidro Temperado Anti-Spy  Compatível Samsung A07 A17 A37 A57",
-      "title_norm": "pelicula de privacidade 3d vidro temperado anti spy compativel samsung a07 a17 a37 a57",
-      "url": "https://shopee.com.br/product/1240425443/58205140425",
-      "affiliate_url": "https://s.shopee.com.br/5ArwhZixEi",
-      "category": "TopToki",
-      "bucket": "toptoki",
-      "posted_ts": 1787667567,
-      "posted_at": "2026-08-25T14:19:27.447691+00:00",
-      "score": 91.46
     }
   ],
-  "updated_at": "2026-09-03T08:18:00.334162+00:00"
+  "updated_at": "2026-09-03T09:19:10.767373+00:00"
 }
