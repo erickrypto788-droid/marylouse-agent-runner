@@ -1,6 +1,21 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB7426398952",
+      "product_id": "MLB7426398952",
+      "catalog_product_id": "MLB77446522",
+      "item_id": "MLB7426398952",
+      "url": "https://www.mercadolivre.com.br/p/MLB77446522?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB77446522?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "ulefone note 18 ultra 256gb 6gb ram celular 5g 5450mah camera 50mp branco",
+      "title": "Ulefone Note 18 Ultra 256GB 6GB RAM Celular 5G 5450mAh Câmera 50MP Branco",
+      "category": "Informática",
+      "price": 1965.43,
+      "score": 108.0,
+      "posted_ts": 1788422568,
+      "posted_at": "2026-09-03T08:02:48.473771+00:00"
+    },
+    {
       "key": "mercadolivre:MLB6483255322",
       "product_id": "MLB6483255322",
       "catalog_product_id": "MLB62010143",
@@ -586,5 +601,5 @@
       "posted_at": "2026-09-01T08:02:48.034564+00:00"
     }
   ],
-  "updated_at": "2026-09-03T07:03:52.338631+00:00"
+  "updated_at": "2026-09-03T08:02:48.473781+00:00"
 }

@@ -1,6 +1,20 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB7426398952",
+      "marketplace": "mercadolivre",
+      "id": "MLB7426398952",
+      "title": "Ulefone Note 18 Ultra 256GB 6GB RAM Celular 5G 5450mAh Câmera 50MP Branco",
+      "title_norm": "ulefone note 18 ultra 256gb 6gb ram celular 5g 5450mah camera 50mp branco",
+      "url": "https://www.mercadolivre.com.br/p/MLB77446522?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB77446522?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Informática",
+      "bucket": "celulares",
+      "posted_ts": 1788422568,
+      "posted_at": "2026-09-03T08:02:48.459989+00:00",
+      "score": 108.0
+    },
+    {
       "key": "shopee:22898813493",
       "marketplace": "shopee",
       "id": "22898813493",
@@ -13985,21 +13999,7 @@
       "posted_ts": 1787667439,
       "posted_at": "2026-08-25T14:17:19.033159+00:00",
       "score": 128.46
-    },
-    {
-      "key": "shopee:58260603433",
-      "marketplace": "shopee",
-      "id": "58260603433",
-      "title": "Tênis Feminino Academia Mega Promoção",
-      "title_norm": "tenis feminino academia mega promocao",
-      "url": "https://shopee.com.br/product/912462405/58260603433",
-      "affiliate_url": "https://s.shopee.com.br/2VrBSVIbQv",
-      "category": "Alfa ",
-      "bucket": "calcados",
-      "posted_ts": 1787663870,
-      "posted_at": "2026-08-25T13:17:50.689489+00:00",
-      "score": 99.52
     }
   ],
-  "updated_at": "2026-09-03T07:22:22.745986+00:00"
+  "updated_at": "2026-09-03T08:02:48.460004+00:00"
 }
