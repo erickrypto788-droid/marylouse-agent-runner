@@ -1,6 +1,20 @@
 {
   "posts": [
     {
+      "key": "shopee:13591503329",
+      "marketplace": "shopee",
+      "id": "13591503329",
+      "title": "Mochila Escolar Reforçada Notebook Impermeável Cabo De Aço",
+      "title_norm": "mochila escolar reforcada notebook impermeavel cabo de aco",
+      "url": "https://shopee.com.br/product/752743341/13591503329",
+      "affiliate_url": "https://s.shopee.com.br/4qFL3f31YV",
+      "category": "Fenix Abdon",
+      "bucket": "informatica",
+      "posted_ts": 1788398203,
+      "posted_at": "2026-09-03T01:16:43.684579+00:00",
+      "score": 88.27
+    },
+    {
       "key": "shopee:22497089311",
       "marketplace": "shopee",
       "id": "22497089311",
@@ -13985,21 +13999,7 @@
       "posted_ts": 1787642347,
       "posted_at": "2026-08-25T07:19:07.501776+00:00",
       "score": 101.58
-    },
-    {
-      "key": "shopee:23895623632",
-      "marketplace": "shopee",
-      "id": "23895623632",
-      "title": "Cafe Graos Torra Media Gourmet Café Italle 1kg",
-      "title_norm": "cafe graos torra media gourmet cafe italle 1kg",
-      "url": "https://shopee.com.br/product/334540655/23895623632",
-      "affiliate_url": "https://s.shopee.com.br/8AVZ4UNttW",
-      "category": "Café Italle",
-      "bucket": "cafe_italle",
-      "posted_ts": 1787642279,
-      "posted_at": "2026-08-25T07:17:59.466488+00:00",
-      "score": 102.68
     }
   ],
-  "updated_at": "2026-09-03T00:19:35.726848+00:00"
+  "updated_at": "2026-09-03T01:16:43.684594+00:00"
 }
