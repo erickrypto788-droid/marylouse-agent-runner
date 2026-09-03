@@ -1,6 +1,20 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB5297261932",
+      "marketplace": "mercadolivre",
+      "id": "MLB5297261932",
+      "title": "Brinquedo Lider Kit Ferramentas - 2381",
+      "title_norm": "brinquedo lider kit ferramentas 2381",
+      "url": "https://www.mercadolivre.com.br/p/MLB45785598?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB45785598?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Ferramentas",
+      "bucket": "ferramentas",
+      "posted_ts": 1788411770,
+      "posted_at": "2026-09-03T05:02:50.695860+00:00",
+      "score": 88.0
+    },
+    {
       "key": "shopee:44331426790",
       "marketplace": "shopee",
       "id": "44331426790",
@@ -13985,21 +13999,7 @@
       "posted_ts": 1787655821,
       "posted_at": "2026-08-25T11:03:41.457850+00:00",
       "score": 206.45
-    },
-    {
-      "key": "shopee:25895626356",
-      "marketplace": "shopee",
-      "id": "25895626356",
-      "title": "Par de Meias Classic Cano Médio Masculina Feminina Unissex Sortida",
-      "title_norm": "par de meias classic cano medio masculina feminina unissex sortida",
-      "url": "https://shopee.com.br/product/328687466/25895626356",
-      "affiliate_url": "https://s.shopee.com.br/8AVZGqvW8X",
-      "category": "UP UNDERWEAR",
-      "bucket": "up_underwear",
-      "posted_ts": 1787653321,
-      "posted_at": "2026-08-25T10:22:01.703278+00:00",
-      "score": 82.18
     }
   ],
-  "updated_at": "2026-09-03T04:21:06.881249+00:00"
+  "updated_at": "2026-09-03T05:02:50.695881+00:00"
 }

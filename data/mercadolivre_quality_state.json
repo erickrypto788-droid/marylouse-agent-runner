@@ -1,6 +1,21 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB5297261932",
+      "product_id": "MLB5297261932",
+      "catalog_product_id": "MLB45785598",
+      "item_id": "MLB5297261932",
+      "url": "https://www.mercadolivre.com.br/p/MLB45785598?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB45785598?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "brinquedo lider kit ferramentas 2381",
+      "title": "Brinquedo Lider Kit Ferramentas - 2381",
+      "category": "Ferramentas",
+      "price": 119.0,
+      "score": 88.0,
+      "posted_ts": 1788411770,
+      "posted_at": "2026-09-03T05:02:50.709629+00:00"
+    },
+    {
       "key": "mercadolivre:MLB4027376697",
       "product_id": "MLB4027376697",
       "catalog_product_id": "MLB33652298",
@@ -584,52 +599,7 @@
       "score": 127.0,
       "posted_ts": 1788239045,
       "posted_at": "2026-09-01T05:04:05.472291+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB5086206455",
-      "product_id": "MLB5086206455",
-      "catalog_product_id": "MLB55970674",
-      "item_id": "MLB5086206455",
-      "url": "https://www.mercadolivre.com.br/p/MLB55970674?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB55970674?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "ssd nvme 1tb knup full preto",
-      "title": "Ssd Nvme 1tb Knup - Full Preto",
-      "category": "Informática",
-      "price": 990.0,
-      "score": 111.0,
-      "posted_ts": 1788231759,
-      "posted_at": "2026-09-01T03:02:39.089845+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB4139317597",
-      "product_id": "MLB4139317597",
-      "catalog_product_id": "MLB23649057",
-      "item_id": "MLB4139317597",
-      "url": "https://www.mercadolivre.com.br/p/MLB23649057?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB23649057?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "furadeira parafusadeira imp c parafusadeira imp dlx2336syx",
-      "title": "Furadeira Parafusadeira Imp C/ Parafusadeira Imp Dlx2336syx",
-      "category": "Ferramentas",
-      "price": 1659.5,
-      "score": 108.0,
-      "posted_ts": 1788228259,
-      "posted_at": "2026-09-01T02:04:19.913469+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB5183821060",
-      "product_id": "MLB5183821060",
-      "catalog_product_id": "MLB19765397",
-      "item_id": "MLB5183821060",
-      "url": "https://www.mercadolivre.com.br/p/MLB19765397?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB19765397?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "combo furadeira parafusadeira df333d parafusadeira de impacto td110d 12v clx224sax",
-      "title": "Combo Furadeira Parafusadeira DF333D + Parafusadeira de Impacto TD110D 12V - CLX224SAX",
-      "category": "Ferramentas",
-      "price": 1213.0,
-      "score": 111.0,
-      "posted_ts": 1788228188,
-      "posted_at": "2026-09-01T02:03:08.931943+00:00"
     }
   ],
-  "updated_at": "2026-09-03T00:05:19.651015+00:00"
+  "updated_at": "2026-09-03T05:02:50.709647+00:00"
 }
