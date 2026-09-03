@@ -1,6 +1,21 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB7584337290",
+      "product_id": "MLB7584337290",
+      "catalog_product_id": "MLB24511657",
+      "item_id": "MLB7584337290",
+      "url": "https://www.mercadolivre.com.br/p/MLB24511657?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB24511657?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "ssd netac nv3000 ssd nvme m2 250gb",
+      "title": "SSD Netac Nv3000 Ssd Nvme M2 250gb",
+      "category": "Informática",
+      "price": 399.0,
+      "score": 111.0,
+      "posted_ts": 1788476617,
+      "posted_at": "2026-09-03T23:03:37.016666+00:00"
+    },
+    {
       "key": "mercadolivre:MLB4646305535",
       "product_id": "MLB4646305535",
       "catalog_product_id": "MLB68970992",
@@ -539,22 +554,7 @@
       "score": 88.0,
       "posted_ts": 1788307350,
       "posted_at": "2026-09-02T00:02:30.917921+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB7238539878",
-      "product_id": "MLB7238539878",
-      "catalog_product_id": "MLB39444837",
-      "item_id": "MLB7238539878",
-      "url": "https://www.mercadolivre.com.br/p/MLB39444837?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB39444837?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "smartphone samsung galaxy s23 ultra 512gb creme",
-      "title": "Smartphone Samsung Galaxy S23 Ultra 512gb Creme",
-      "category": "Informática",
-      "price": 5999.0,
-      "score": 124.0,
-      "posted_ts": 1788300237,
-      "posted_at": "2026-09-01T22:03:57.595965+00:00"
     }
   ],
-  "updated_at": "2026-09-03T22:03:44.450385+00:00"
+  "updated_at": "2026-09-03T23:03:37.016675+00:00"
 }

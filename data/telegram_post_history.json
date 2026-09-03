@@ -1,6 +1,20 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB7584337290",
+      "marketplace": "mercadolivre",
+      "id": "MLB7584337290",
+      "title": "SSD Netac Nv3000 Ssd Nvme M2 250gb",
+      "title_norm": "ssd netac nv3000 ssd nvme m2 250gb",
+      "url": "https://www.mercadolivre.com.br/p/MLB24511657?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB24511657?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Informática",
+      "bucket": "informatica",
+      "posted_ts": 1788476617,
+      "posted_at": "2026-09-03T23:03:37.002618+00:00",
+      "score": 111.0
+    },
+    {
       "key": "shopee:23099342707",
       "marketplace": "shopee",
       "id": "23099342707",
@@ -13985,21 +13999,7 @@
       "posted_ts": 1787707266,
       "posted_at": "2026-08-26T01:21:06.932970+00:00",
       "score": 74.68
-    },
-    {
-      "key": "shopee:18398124948",
-      "marketplace": "shopee",
-      "id": "18398124948",
-      "title": "Adaptador Hub Tipo C 4em1/5em2/6em1/7 Em 1/ 8em1 HDMI Micro Sd Tf M1 4k Usb 3.0 Para computador todo tipo",
-      "title_norm": "adaptador hub tipo c 4em1 5em2 6em1 7 em 1 8em1 hdmi micro sd tf m1 4k usb 3 0 para computador todo tipo",
-      "url": "https://shopee.com.br/product/1314327488/18398124948",
-      "affiliate_url": "https://s.shopee.com.br/1qbWj1TGmZ",
-      "category": "M&H1 STORE",
-      "bucket": "m_h1_store",
-      "posted_ts": 1787707202,
-      "posted_at": "2026-08-26T01:20:02.773473+00:00",
-      "score": 79.31
     }
   ],
-  "updated_at": "2026-09-03T22:21:02.087770+00:00"
+  "updated_at": "2026-09-03T23:03:37.002631+00:00"
 }
