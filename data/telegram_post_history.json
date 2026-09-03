@@ -1,6 +1,34 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB5118569459",
+      "marketplace": "mercadolivre",
+      "id": "MLB5118569459",
+      "title": "Arroz Motigome 1kg",
+      "title_norm": "arroz motigome 1kg",
+      "url": "https://www.mercadolivre.com.br/p/MLB21407698?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB21407698?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Supermercados",
+      "bucket": "supermercados",
+      "posted_ts": 1788448009,
+      "posted_at": "2026-09-03T15:06:49.728450+00:00",
+      "score": 93.74
+    },
+    {
+      "key": "mercadolivre:MLB3997818373",
+      "marketplace": "mercadolivre",
+      "id": "MLB3997818373",
+      "title": "Fralda Huggies Tripla Proteção G 36 unidades",
+      "title_norm": "fralda huggies tripla protecao g 36 unidades",
+      "url": "https://www.mercadolivre.com.br/p/MLB17336422?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB17336422?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Mãe e Bebê",
+      "bucket": "fraldas",
+      "posted_ts": 1788447940,
+      "posted_at": "2026-09-03T15:05:40.255500+00:00",
+      "score": 130.0
+    },
+    {
       "key": "shopee:22494807898",
       "marketplace": "shopee",
       "id": "22494807898",
@@ -13971,35 +13999,7 @@
       "posted_ts": 1787682182,
       "posted_at": "2026-08-25T18:23:02.642119+00:00",
       "score": 106.38
-    },
-    {
-      "key": "shopee:23198212585",
-      "marketplace": "shopee",
-      "id": "23198212585",
-      "title": "Whey Ultra Protein Concentrado Pote 900g - FTW",
-      "title_norm": "whey ultra protein concentrado pote 900g ftw",
-      "url": "https://shopee.com.br/product/1397772996/23198212585",
-      "affiliate_url": "https://s.shopee.com.br/1gI63zA75U",
-      "category": "Loja Oficial FTW",
-      "bucket": "loja_oficial_ftw",
-      "posted_ts": 1787682118,
-      "posted_at": "2026-08-25T18:21:58.328312+00:00",
-      "score": 106.76
-    },
-    {
-      "key": "shopee:23219268297",
-      "marketplace": "shopee",
-      "id": "23219268297",
-      "title": "Creatina Integral medica Monohidratada PURA 300g",
-      "title_norm": "creatina integral medica monohidratada pura 300g",
-      "url": "https://shopee.com.br/product/677860531/23219268297",
-      "affiliate_url": "https://s.shopee.com.br/4AzPmBFB8l",
-      "category": "Brasil S2",
-      "bucket": "brasil_s2",
-      "posted_ts": 1787682054,
-      "posted_at": "2026-08-25T18:20:54.034784+00:00",
-      "score": 112.13
     }
   ],
-  "updated_at": "2026-09-03T14:21:07.700970+00:00"
+  "updated_at": "2026-09-03T15:06:49.728464+00:00"
 }

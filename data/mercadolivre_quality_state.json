@@ -1,6 +1,36 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB5118569459",
+      "product_id": "MLB5118569459",
+      "catalog_product_id": "MLB21407698",
+      "item_id": "MLB5118569459",
+      "url": "https://www.mercadolivre.com.br/p/MLB21407698?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB21407698?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "arroz motigome 1kg",
+      "title": "Arroz Motigome 1kg",
+      "category": "Supermercados",
+      "price": 37.4,
+      "score": 93.74,
+      "posted_ts": 1788448009,
+      "posted_at": "2026-09-03T15:06:49.742933+00:00"
+    },
+    {
+      "key": "mercadolivre:MLB3997818373",
+      "product_id": "MLB3997818373",
+      "catalog_product_id": "MLB17336422",
+      "item_id": "MLB3997818373",
+      "url": "https://www.mercadolivre.com.br/p/MLB17336422?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB17336422?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "fralda huggies tripla protecao g 36 unidades",
+      "title": "Fralda Huggies Tripla Proteção G 36 unidades",
+      "category": "Mãe e Bebê",
+      "price": 192.05,
+      "score": 130.0,
+      "posted_ts": 1788447940,
+      "posted_at": "2026-09-03T15:05:40.270994+00:00"
+    },
+    {
       "key": "mercadolivre:MLB5095655201",
       "product_id": "MLB5095655201",
       "catalog_product_id": "MLB50110319",
@@ -524,52 +554,7 @@
       "score": 120.17,
       "posted_ts": 1788289352,
       "posted_at": "2026-09-01T19:02:32.960358+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB5454690706",
-      "product_id": "MLB5454690706",
-      "catalog_product_id": "MLB22813112",
-      "item_id": "MLB5454690706",
-      "url": "https://www.mercadolivre.com.br/p/MLB22813112?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB22813112?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "cadeira escritorio secretaria rcp preto",
-      "title": "Cadeira Escritório Secretaria Rcp Preto",
-      "category": "Casa e Cozinha",
-      "price": 247.17,
-      "score": 98.12,
-      "posted_ts": 1788271429,
-      "posted_at": "2026-09-01T14:03:49.265360+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB4795061481",
-      "product_id": "MLB4795061481",
-      "catalog_product_id": "MLB74011420",
-      "item_id": "MLB4795061481",
-      "url": "https://www.mercadolivre.com.br/p/MLB74011420?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB74011420?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "molde calca legging feminina digital pp p m g gg",
-      "title": "Molde Calça Legging Feminina Digital Pp-p-m-g-gg",
-      "category": "Moda Feminina",
-      "price": 88.9,
-      "score": 88.0,
-      "posted_ts": 1788267850,
-      "posted_at": "2026-09-01T13:04:10.763665+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB7083949146",
-      "product_id": "MLB7083949146",
-      "catalog_product_id": "MLB74893563",
-      "item_id": "MLB7083949146",
-      "url": "https://www.mercadolivre.com.br/p/MLB74893563?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB74893563?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "molde calca feminina moletom impresso p m g gg xg",
-      "title": "Molde Calça Feminina Moletom Impresso P/m/g/gg/xg",
-      "category": "Moda Feminina",
-      "price": 129.9,
-      "score": 88.0,
-      "posted_ts": 1788267786,
-      "posted_at": "2026-09-01T13:03:06.795901+00:00"
     }
   ],
-  "updated_at": "2026-09-03T13:02:48.342315+00:00"
+  "updated_at": "2026-09-03T15:06:49.742943+00:00"
 }
