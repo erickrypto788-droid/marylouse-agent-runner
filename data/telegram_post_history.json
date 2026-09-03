@@ -1,6 +1,34 @@
 {
   "posts": [
     {
+      "key": "shopee:14263042301",
+      "marketplace": "shopee",
+      "id": "14263042301",
+      "title": "Tenis Infantil Feminino Menina Escolar Pronta Entrega",
+      "title_norm": "tenis infantil feminino menina escolar pronta entrega",
+      "url": "https://shopee.com.br/product/499950777/14263042301",
+      "affiliate_url": "https://s.shopee.com.br/4AzerW0pPa",
+      "category": "Club_Happy",
+      "bucket": "calcados",
+      "posted_ts": 1788430671,
+      "posted_at": "2026-09-03T10:17:51.621761+00:00",
+      "score": 105.76
+    },
+    {
+      "key": "shopee:58255958592",
+      "marketplace": "shopee",
+      "id": "58255958592",
+      "title": "Tênis Feminino Casual Blogueira Confortável e Estiloso Envio Rápido",
+      "title_norm": "tenis feminino casual blogueira confortavel e estiloso envio rapido",
+      "url": "https://shopee.com.br/product/1408365296/58255958592",
+      "affiliate_url": "https://s.shopee.com.br/60RJ2stqh1",
+      "category": "Essenzia Calçados✔️",
+      "bucket": "calcados",
+      "posted_ts": 1788430604,
+      "posted_at": "2026-09-03T10:16:44.829729+00:00",
+      "score": 109.59
+    },
+    {
       "key": "mercadolivre:MLB7580832078",
       "marketplace": "mercadolivre",
       "id": "MLB7580832078",
@@ -13971,35 +13999,7 @@
       "posted_ts": 1787671303,
       "posted_at": "2026-08-25T15:21:43.421948+00:00",
       "score": 55.43
-    },
-    {
-      "key": "shopee:23193886166",
-      "marketplace": "shopee",
-      "id": "23193886166",
-      "title": "Ventilador De Coluna De Chão Turbo Vento Forte 3 Velocidades 110v/220v",
-      "title_norm": "ventilador de coluna de chao turbo vento forte 3 velocidades 110v 220v",
-      "url": "https://shopee.com.br/product/1501374495/23193886166",
-      "affiliate_url": "https://s.shopee.com.br/8fRqCUcFKz",
-      "category": "HUAJIE LOJA",
-      "bucket": "huajie_loja",
-      "posted_ts": 1787671239,
-      "posted_at": "2026-08-25T15:20:39.142735+00:00",
-      "score": 60.45
-    },
-    {
-      "key": "shopee:52810065079",
-      "marketplace": "shopee",
-      "id": "52810065079",
-      "title": "Cafeteira Elétrica Kian 18 Xícaras 650W 127V Filtro Permanente Jarra de Vidro Corta Pingos",
-      "title_norm": "cafeteira eletrica kian 18 xicaras 650w 127v filtro permanente jarra de vidro corta pingos",
-      "url": "https://shopee.com.br/product/1163208131/52810065079",
-      "affiliate_url": "https://s.shopee.com.br/2gAd3Sugjp",
-      "category": "Compact Ltda",
-      "bucket": "casa_cozinha",
-      "posted_ts": 1787671175,
-      "posted_at": "2026-08-25T15:19:35.072188+00:00",
-      "score": 99.18
     }
   ],
-  "updated_at": "2026-09-03T10:03:43.575832+00:00"
+  "updated_at": "2026-09-03T10:17:51.621775+00:00"
 }
