@@ -1,6 +1,34 @@
 {
   "posts": [
     {
+      "key": "shopee:18697985049",
+      "marketplace": "shopee",
+      "id": "18697985049",
+      "title": "Bolsa Mala Academia Viagem Imagem Fitness Transversal Casual Masculino e Feminina--luna_hyq",
+      "title_norm": "bolsa mala academia viagem imagem fitness transversal casual masculino e feminina luna hyq",
+      "url": "https://shopee.com.br/product/932796296/18697985049",
+      "affiliate_url": "https://s.shopee.com.br/BTWhG1ypI",
+      "category": "Luna_HYQ",
+      "bucket": "bolsas",
+      "posted_ts": 1788463138,
+      "posted_at": "2026-09-03T19:18:58.996220+00:00",
+      "score": 102.46
+    },
+    {
+      "key": "shopee:22993817264",
+      "marketplace": "shopee",
+      "id": "22993817264",
+      "title": "Bolsa Feminina Baú Transversal Média com Lenço Alça Tiracolo Estruturada e Espaçosa",
+      "title_norm": "bolsa feminina bau transversal media com lenco alca tiracolo estruturada e espacosa",
+      "url": "https://shopee.com.br/product/1127030290/22993817264",
+      "affiliate_url": "https://s.shopee.com.br/gPnIAr8kd",
+      "category": "JIMMY.STORE",
+      "bucket": "bolsas",
+      "posted_ts": 1788463074,
+      "posted_at": "2026-09-03T19:17:54.929681+00:00",
+      "score": 113.71
+    },
+    {
       "key": "shopee:58214792830",
       "marketplace": "shopee",
       "id": "58214792830",
@@ -13971,35 +13999,7 @@
       "posted_ts": 1787699803,
       "posted_at": "2026-08-25T23:16:43.071072+00:00",
       "score": 93.78
-    },
-    {
-      "key": "mercadolivre:MLB4974714813",
-      "marketplace": "mercadolivre",
-      "id": "MLB4974714813",
-      "title": "Ração Gato Estimacat Premium Filhote Sabor Frango 10kg",
-      "title_norm": "racao gato estimacat premium filhote sabor frango 10kg",
-      "url": "https://www.mercadolivre.com.br/p/MLB66844874?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB66844874?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "category": "Pet",
-      "bucket": "pet",
-      "posted_ts": 1787698950,
-      "posted_at": "2026-08-25T23:02:30.395011+00:00",
-      "score": 154.83
-    },
-    {
-      "key": "shopee:11298889483",
-      "marketplace": "shopee",
-      "id": "11298889483",
-      "title": "Kit chinelo Luiza Liz e necessaire bolsa de mão pequena kit dia a dia blogueira",
-      "title_norm": "kit chinelo luiza liz e necessaire bolsa de mao pequena kit dia a dia blogueira",
-      "url": "https://shopee.com.br/product/333046879/11298889483",
-      "affiliate_url": "https://s.shopee.com.br/7KwT4lNAkF",
-      "category": "Luiza Liz calçados",
-      "bucket": "calcados",
-      "posted_ts": 1787696329,
-      "posted_at": "2026-08-25T22:18:49.100004+00:00",
-      "score": 92.66
     }
   ],
-  "updated_at": "2026-09-03T18:21:25.602562+00:00"
+  "updated_at": "2026-09-03T19:18:58.996236+00:00"
 }
