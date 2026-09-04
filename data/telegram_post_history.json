@@ -1,6 +1,34 @@
 {
   "posts": [
     {
+      "key": "shopee:23091236584",
+      "marketplace": "shopee",
+      "id": "23091236584",
+      "title": "Tênis Feminino Masculino Diker Esportivo Caminhada Academia",
+      "title_norm": "tenis feminino masculino diker esportivo caminhada academia",
+      "url": "https://shopee.com.br/product/1002135077/23091236584",
+      "affiliate_url": "https://s.shopee.com.br/AKaIXSonXs",
+      "category": "SNARY SHOP",
+      "bucket": "calcados",
+      "posted_ts": 1788499129,
+      "posted_at": "2026-09-04T05:18:49.851212+00:00",
+      "score": 59.86
+    },
+    {
+      "key": "shopee:8333126075",
+      "marketplace": "shopee",
+      "id": "8333126075",
+      "title": "Bota Feminina Coturno Tratorado Blogueira Confortavel PROMOÇÃO PREÇO DE FABRICA",
+      "title_norm": "bota feminina coturno tratorado blogueira confortavel promocao preco de fabrica",
+      "url": "https://shopee.com.br/product/406280749/8333126075",
+      "affiliate_url": "https://s.shopee.com.br/6AkjFCAoQj",
+      "category": "Oadsey",
+      "bucket": "calcados",
+      "posted_ts": 1788499005,
+      "posted_at": "2026-09-04T05:16:45.756826+00:00",
+      "score": 99.31
+    },
+    {
       "key": "mercadolivre:MLB7575871600",
       "marketplace": "mercadolivre",
       "id": "MLB7575871600",
@@ -13971,35 +13999,7 @@
       "posted_ts": 1787725062,
       "posted_at": "2026-08-26T06:17:42.002885+00:00",
       "score": 64.29
-    },
-    {
-      "key": "shopee:54656718466",
-      "marketplace": "shopee",
-      "id": "54656718466",
-      "title": "Calça Lipo Super Tecido Suplex Power Legging Modeladora PP ao Plus Size",
-      "title_norm": "calca lipo super tecido suplex power legging modeladora pp ao plus size",
-      "url": "https://shopee.com.br/product/346860378/54656718466",
-      "affiliate_url": "https://s.shopee.com.br/3qMbRIKa8f",
-      "category": "GTB Fashion",
-      "bucket": "moda_feminina",
-      "posted_ts": 1787724998,
-      "posted_at": "2026-08-26T06:16:38.121888+00:00",
-      "score": 89.78
-    },
-    {
-      "key": "shopee:22898813493",
-      "marketplace": "shopee",
-      "id": "22898813493",
-      "title": "Cueca Infantil Juvenil Box Boxer Kit 5 ou 10 Peças Microfibra Menino 2 a 16 Anos Confortável",
-      "title_norm": "cueca infantil juvenil box boxer kit 5 ou 10 pecas microfibra menino 2 a 16 anos confortavel",
-      "url": "https://shopee.com.br/product/1232853245/22898813493",
-      "affiliate_url": "https://s.shopee.com.br/7VFsTctegy",
-      "category": "Z1CLOTH",
-      "bucket": "z1cloth",
-      "posted_ts": 1787721661,
-      "posted_at": "2026-08-26T05:21:01.469358+00:00",
-      "score": 58.06
     }
   ],
-  "updated_at": "2026-09-04T05:02:20.694904+00:00"
+  "updated_at": "2026-09-04T05:18:49.851225+00:00"
 }
