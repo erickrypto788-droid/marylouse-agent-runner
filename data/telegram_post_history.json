@@ -1,6 +1,48 @@
 {
   "posts": [
     {
+      "key": "shopee:45754796089",
+      "marketplace": "shopee",
+      "id": "45754796089",
+      "title": "Tomada de Carregador para Carro com Dupla Entrada Tipo-C e Duplas USB, 4 Portas, Carregamento Rápido, à Prova d'Água",
+      "title_norm": "tomada de carregador para carro com dupla entrada tipo c e duplas usb 4 portas carregamento rapido a prova d agua",
+      "url": "https://shopee.com.br/product/1006215031/45754796089",
+      "affiliate_url": "https://s.shopee.com.br/3LQXw8NNTj",
+      "category": "Choice Oficial",
+      "bucket": "choice_oficial",
+      "posted_ts": 1788502752,
+      "posted_at": "2026-09-04T06:19:12.533161+00:00",
+      "score": 97.75
+    },
+    {
+      "key": "shopee:23993565028",
+      "marketplace": "shopee",
+      "id": "23993565028",
+      "title": "Suporte Celular Carro Veicular Trava Automática anti queda",
+      "title_norm": "suporte celular carro veicular trava automatica anti queda",
+      "url": "https://shopee.com.br/product/1384055377/23993565028",
+      "affiliate_url": "https://s.shopee.com.br/LmxcsoFWq",
+      "category": "vida vida lenta",
+      "bucket": "celulares",
+      "posted_ts": 1788502688,
+      "posted_at": "2026-09-04T06:18:08.652350+00:00",
+      "score": 102.84
+    },
+    {
+      "key": "shopee:58258481820",
+      "marketplace": "shopee",
+      "id": "58258481820",
+      "title": "Três cores 6 kits Suporte Camera Celular Capacete Queixo(GoPro/SJCAM) e Smartphones - Ideal para Motociclismo e Aventura",
+      "title_norm": "tres cores 6 kits suporte camera celular capacete queixo gopro sjcam e smartphones ideal para motociclismo e aventura",
+      "url": "https://shopee.com.br/product/1721774915/58258481820",
+      "affiliate_url": "https://s.shopee.com.br/112d9qImng",
+      "category": "OLIVIO NET",
+      "bucket": "celulares",
+      "posted_ts": 1788502619,
+      "posted_at": "2026-09-04T06:16:59.091835+00:00",
+      "score": 113.33
+    },
+    {
       "key": "mercadolivre:MLB4778272375",
       "marketplace": "mercadolivre",
       "id": "MLB4778272375",
@@ -13957,49 +13999,7 @@
       "posted_ts": 1787727826,
       "posted_at": "2026-08-26T07:03:46.462944+00:00",
       "score": 86.0
-    },
-    {
-      "key": "shopee:58253980455",
-      "marketplace": "shopee",
-      "id": "58253980455",
-      "title": "Calça Cargo Pantalona Wide Leg Alfaiataria Plus Size e Padrão",
-      "title_norm": "calca cargo pantalona wide leg alfaiataria plus size e padrao",
-      "url": "https://shopee.com.br/product/977464640/58253980455",
-      "affiliate_url": "https://s.shopee.com.br/5VUoA4CWBl",
-      "category": "BRAS ONLINE2023",
-      "bucket": "bras_online2023",
-      "posted_ts": 1787725253,
-      "posted_at": "2026-08-26T06:20:53.708957+00:00",
-      "score": 57.75
-    },
-    {
-      "key": "shopee:55957074597",
-      "marketplace": "shopee",
-      "id": "55957074597",
-      "title": "Kit 2 Camisas Fitness Plus Size Alongadas Tapa Bumbum em  Premium",
-      "title_norm": "kit 2 camisas fitness plus size alongadas tapa bumbum em premium",
-      "url": "https://shopee.com.br/product/1464110755/55957074597",
-      "affiliate_url": "https://s.shopee.com.br/LmjGrP6fs",
-      "category": "Flexicom",
-      "bucket": "flexicom",
-      "posted_ts": 1787725189,
-      "posted_at": "2026-08-26T06:19:49.849961+00:00",
-      "score": 59.95
-    },
-    {
-      "key": "shopee:14643099764",
-      "marketplace": "shopee",
-      "id": "14643099764",
-      "title": "Sutiã Plus Size Base Cruzada Reforçado, efeito Up, com bojo.",
-      "title_norm": "sutia plus size base cruzada reforcado efeito up com bojo",
-      "url": "https://shopee.com.br/product/447306661/14643099764",
-      "affiliate_url": "https://s.shopee.com.br/5ArxlSMnCl",
-      "category": "INTIMACY PARIS MODA INTIMA E FITNES",
-      "bucket": "intimacy_paris_moda_intima_e_fitnes",
-      "posted_ts": 1787725125,
-      "posted_at": "2026-08-26T06:18:45.958917+00:00",
-      "score": 60.52
     }
   ],
-  "updated_at": "2026-09-04T06:02:40.786611+00:00"
+  "updated_at": "2026-09-04T06:19:12.533174+00:00"
 }
