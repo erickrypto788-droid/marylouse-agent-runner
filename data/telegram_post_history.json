@@ -1,6 +1,62 @@
 {
   "posts": [
     {
+      "key": "shopee:43852360893",
+      "marketplace": "shopee",
+      "id": "43852360893",
+      "title": "Creme Hidratante Facial 5% Manteiga de Karité + 5% Glicerina + 2% Niacinamida CH-01Principia - 50g",
+      "title_norm": "creme hidratante facial 5 manteiga de karite 5 glicerina 2 niacinamida ch 01principia 50g",
+      "url": "https://shopee.com.br/product/373261329/43852360893",
+      "affiliate_url": "https://s.shopee.com.br/80CNcwJJGg",
+      "category": "Principia Skincare",
+      "bucket": "principia_skincare",
+      "posted_ts": 1788510016,
+      "posted_at": "2026-09-04T08:20:16.976932+00:00",
+      "score": 51.02
+    },
+    {
+      "key": "shopee:58208444702",
+      "marketplace": "shopee",
+      "id": "58208444702",
+      "title": "Principia Kit Protetor Solar PS-01 FPS 60 + PS-05 FPS 70- escolha seu tom",
+      "title_norm": "principia kit protetor solar ps 01 fps 60 ps 05 fps 70 escolha seu tom",
+      "url": "https://shopee.com.br/product/373261329/58208444702",
+      "affiliate_url": "https://s.shopee.com.br/3B77s3bqaa",
+      "category": "Principia Skincare",
+      "bucket": "principia_skincare",
+      "posted_ts": 1788509949,
+      "posted_at": "2026-09-04T08:19:09.224942+00:00",
+      "score": 63.23
+    },
+    {
+      "key": "shopee:18299260537",
+      "marketplace": "shopee",
+      "id": "18299260537",
+      "title": "Escova Rotativa Elétrica Secador de cabelo Professinal 2 em 1  110v e 220v",
+      "title_norm": "escova rotativa eletrica secador de cabelo professinal 2 em 1 110v e 220v",
+      "url": "https://shopee.com.br/product/372103398/18299260537",
+      "affiliate_url": "https://s.shopee.com.br/9zxS0c3Aj2",
+      "category": "ADS-store",
+      "bucket": "beleza",
+      "posted_ts": 1788509882,
+      "posted_at": "2026-09-04T08:18:02.236259+00:00",
+      "score": 129.83
+    },
+    {
+      "key": "shopee:22894246754",
+      "marketplace": "shopee",
+      "id": "22894246754",
+      "title": "BODY SPLASH MASCULINO BARBARIUS 200ML - PRIMACIAL PERFUME AMADEIRADO",
+      "title_norm": "body splash masculino barbarius 200ml primacial perfume amadeirado",
+      "url": "https://shopee.com.br/product/1295467768/22894246754",
+      "affiliate_url": "https://s.shopee.com.br/3VjyGfJ7KF",
+      "category": "Primacial",
+      "bucket": "beleza",
+      "posted_ts": 1788509805,
+      "posted_at": "2026-09-04T08:16:45.842950+00:00",
+      "score": 133.78
+    },
+    {
       "key": "shopee:58257043096",
       "marketplace": "shopee",
       "id": "58257043096",
@@ -13943,63 +13999,7 @@
       "posted_ts": 1787735876,
       "posted_at": "2026-08-26T09:17:56.397842+00:00",
       "score": 126.68
-    },
-    {
-      "key": "shopee:22393096204",
-      "marketplace": "shopee",
-      "id": "22393096204",
-      "title": "Carregador Super Rápido Turbo 125w 50w 68w 168w Fonte Tipo C para celular",
-      "title_norm": "carregador super rapido turbo 125w 50w 68w 168w fonte tipo c para celular",
-      "url": "https://shopee.com.br/product/638380156/22393096204",
-      "affiliate_url": "https://s.shopee.com.br/2qU4Rork9S",
-      "category": "Lily Space",
-      "bucket": "celulares",
-      "posted_ts": 1787735807,
-      "posted_at": "2026-08-26T09:16:47.163837+00:00",
-      "score": 127.03
-    },
-    {
-      "key": "shopee:58202717993",
-      "marketplace": "shopee",
-      "id": "58202717993",
-      "title": "Tênis Feminino KNW Premium Cadarço Grosso Acolchoado Lançamento Modinha",
-      "title_norm": "tenis feminino knw premium cadarco grosso acolchoado lancamento modinha",
-      "url": "https://shopee.com.br/product/1692696819/58202717993",
-      "affiliate_url": "https://s.shopee.com.br/9KhY7dZPPi",
-      "category": "NaPegadaShoesBrasil",
-      "bucket": "calcados",
-      "posted_ts": 1787732265,
-      "posted_at": "2026-08-26T08:17:45.584065+00:00",
-      "score": 112.6
-    },
-    {
-      "key": "shopee:58260813382",
-      "marketplace": "shopee",
-      "id": "58260813382",
-      "title": "Sandália Feminina Confortável com Charms Aleatórios Antiderrapante",
-      "title_norm": "sandalia feminina confortavel com charms aleatorios antiderrapante",
-      "url": "https://shopee.com.br/product/1424278396/58260813382",
-      "affiliate_url": "https://s.shopee.com.br/6L3u1YCjtR",
-      "category": "Tengfei Importadora",
-      "bucket": "calcados",
-      "posted_ts": 1787732199,
-      "posted_at": "2026-08-26T08:16:39.115013+00:00",
-      "score": 114.51
-    },
-    {
-      "key": "shopee:20199249608",
-      "marketplace": "shopee",
-      "id": "20199249608",
-      "title": "Tenis Sapatilha Masculino Casual Aquatico de Trilha Impermeável Com Solado Costurado E Elastico Ajustável",
-      "title_norm": "tenis sapatilha masculino casual aquatico de trilha impermeavel com solado costurado e elastico ajustavel",
-      "url": "https://shopee.com.br/product/1246015756/20199249608",
-      "affiliate_url": "https://s.shopee.com.br/904heuCIar",
-      "category": "ShopShooes",
-      "bucket": "calcados",
-      "posted_ts": 1787728671,
-      "posted_at": "2026-08-26T07:17:51.055027+00:00",
-      "score": 97.89
     }
   ],
-  "updated_at": "2026-09-04T07:17:57.198318+00:00"
+  "updated_at": "2026-09-04T08:20:16.976951+00:00"
 }
