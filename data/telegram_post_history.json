@@ -1,6 +1,20 @@
 {
   "posts": [
     {
+      "key": "shopee:19197658752",
+      "marketplace": "shopee",
+      "id": "19197658752",
+      "title": "Mochila Grande Masculina Feminina De Viagem Bolsa Academia",
+      "title_norm": "mochila grande masculina feminina de viagem bolsa academia",
+      "url": "https://shopee.com.br/product/222975446/19197658752",
+      "affiliate_url": "https://s.shopee.com.br/6VNaJ1Fead",
+      "category": "Luxor Comercial",
+      "bucket": "bolsas",
+      "posted_ts": 1788535010,
+      "posted_at": "2026-09-04T15:16:50.419649+00:00",
+      "score": 93.63
+    },
+    {
       "key": "shopee:23294507949",
       "marketplace": "shopee",
       "id": "23294507949",
@@ -13985,21 +13999,7 @@
       "posted_ts": 1787753943,
       "posted_at": "2026-08-26T14:19:03.674029+00:00",
       "score": 90.66
-    },
-    {
-      "key": "shopee:23994909100",
-      "marketplace": "shopee",
-      "id": "23994909100",
-      "title": "Kit 6 Carrinhos Relampago MCqueen Carrinhos Resistente Miniatura Coleção Qualidade Premium",
-      "title_norm": "kit 6 carrinhos relampago mcqueen carrinhos resistente miniatura colecao qualidade premium",
-      "url": "https://shopee.com.br/product/459046840/23994909100",
-      "affiliate_url": "https://s.shopee.com.br/80CAvvAbAJ",
-      "category": "Mariaaa Brinquedos",
-      "bucket": "mariaaa_brinquedos",
-      "posted_ts": 1787753878,
-      "posted_at": "2026-08-26T14:17:58.450481+00:00",
-      "score": 90.82
     }
   ],
-  "updated_at": "2026-09-04T14:18:07.269092+00:00"
+  "updated_at": "2026-09-04T15:16:50.419663+00:00"
 }
