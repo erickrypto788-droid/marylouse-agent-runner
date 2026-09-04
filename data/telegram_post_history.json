@@ -1,6 +1,34 @@
 {
   "posts": [
     {
+      "key": "shopee:40873387489",
+      "marketplace": "shopee",
+      "id": "40873387489",
+      "title": "Console PlayStation 5 Slim Digital 825GB",
+      "title_norm": "console playstation 5 slim digital 825gb",
+      "url": "https://shopee.com.br/product/1343318906/40873387489",
+      "affiliate_url": "https://s.shopee.com.br/5AsCz3LXOA",
+      "category": "NegociuN",
+      "bucket": "negociun",
+      "posted_ts": 1788481091,
+      "posted_at": "2026-09-04T00:18:11.987786+00:00",
+      "score": 35.54
+    },
+    {
+      "key": "shopee:23393338627",
+      "marketplace": "shopee",
+      "id": "23393338627",
+      "title": "2026 Videogame Portatil Tela 5.8\" /4.8\" +10000 Jogos Retro 16GB, Console de Mão Memoria Expansivel",
+      "title_norm": "2026 videogame portatil tela 5 8 4 8 10000 jogos retro 16gb console de mao memoria expansivel",
+      "url": "https://shopee.com.br/product/1066052934/23393338627",
+      "affiliate_url": "https://s.shopee.com.br/904vY62L3X",
+      "category": "LIULIU",
+      "bucket": "liuliu",
+      "posted_ts": 1788481022,
+      "posted_at": "2026-09-04T00:17:02.458036+00:00",
+      "score": 78.99
+    },
+    {
       "key": "shopee:58265349883",
       "marketplace": "shopee",
       "id": "58265349883",
@@ -13971,35 +13999,7 @@
       "posted_ts": 1787713676,
       "posted_at": "2026-08-26T03:07:56.457428+00:00",
       "score": 130.0
-    },
-    {
-      "key": "mercadolivre:MLB7272112414",
-      "marketplace": "mercadolivre",
-      "id": "MLB7272112414",
-      "title": "Papel higiênico INDAIAL CAICAI PAPEL HIGIENICO folha dupla 22.5 m de 1 un",
-      "title_norm": "papel higienico indaial caicai papel higienico folha dupla 22 5 m de 1 un",
-      "url": "https://www.mercadolivre.com.br/p/MLB43609445?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB43609445?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "category": "Supermercados",
-      "bucket": "supermercado",
-      "posted_ts": 1787713612,
-      "posted_at": "2026-08-26T03:06:52.325163+00:00",
-      "score": 151.7
-    },
-    {
-      "key": "shopee:23299157212",
-      "marketplace": "shopee",
-      "id": "23299157212",
-      "title": "Kit Explosão de Azeite de Oliva | bn.Cachos",
-      "title_norm": "kit explosao de azeite de oliva bn cachos",
-      "url": "https://shopee.com.br/product/1202663615/23299157212",
-      "affiliate_url": "https://s.shopee.com.br/Lmhk5vz2P",
-      "category": "bn.Cachos",
-      "bucket": "supermercado",
-      "posted_ts": 1787710888,
-      "posted_at": "2026-08-26T02:21:28.086146+00:00",
-      "score": 87.23
     }
   ],
-  "updated_at": "2026-09-03T23:21:10.310412+00:00"
+  "updated_at": "2026-09-04T00:18:11.987799+00:00"
 }
