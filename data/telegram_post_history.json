@@ -1,6 +1,34 @@
 {
   "posts": [
     {
+      "key": "shopee:23492477701",
+      "marketplace": "shopee",
+      "id": "23492477701",
+      "title": "Tênis Infantil Menino Masculino Casual Sapatenis Infantil",
+      "title_norm": "tenis infantil menino masculino casual sapatenis infantil",
+      "url": "https://shopee.com.br/product/287287585/23492477701",
+      "affiliate_url": "https://s.shopee.com.br/LmykvOmyv",
+      "category": "Comprei Calçados",
+      "bucket": "calcados",
+      "posted_ts": 1788563866,
+      "posted_at": "2026-09-04T23:17:46.077335+00:00",
+      "score": 89.11
+    },
+    {
+      "key": "shopee:22394224925",
+      "marketplace": "shopee",
+      "id": "22394224925",
+      "title": "Bota Social Masculina Zíper Lateral Alta Durabilidade Forro Macio Acabamento Premium",
+      "title_norm": "bota social masculina ziper lateral alta durabilidade forro macio acabamento premium",
+      "url": "https://shopee.com.br/product/1484288001/22394224925",
+      "affiliate_url": "https://s.shopee.com.br/9V1DflygvA",
+      "category": "Sra Sampaio Concept",
+      "bucket": "calcados",
+      "posted_ts": 1788563798,
+      "posted_at": "2026-09-04T23:16:38.474064+00:00",
+      "score": 94.74
+    },
+    {
       "key": "mercadolivre:MLB4949684225",
       "marketplace": "mercadolivre",
       "id": "MLB4949684225",
@@ -13971,35 +13999,7 @@
       "posted_ts": 1787779204,
       "posted_at": "2026-08-26T21:20:04.261810+00:00",
       "score": 74.49
-    },
-    {
-      "key": "shopee:22498396850",
-      "marketplace": "shopee",
-      "id": "22498396850",
-      "title": "HUB 3 EM 1 Adaptador Tipo C Hdmi Usb Dex Compatível com S8 S9 S10 Note 8 9 10 Macbook",
-      "title_norm": "hub 3 em 1 adaptador tipo c hdmi usb dex compativel com s8 s9 s10 note 8 9 10 macbook",
-      "url": "https://shopee.com.br/product/1501374495/22498396850",
-      "affiliate_url": "https://s.shopee.com.br/W6ASycEvY",
-      "category": "HUAJIE LOJA",
-      "bucket": "huajie_loja",
-      "posted_ts": 1787779135,
-      "posted_at": "2026-08-26T21:18:55.454323+00:00",
-      "score": 77.03
-    },
-    {
-      "key": "shopee:22963103377",
-      "marketplace": "shopee",
-      "id": "22963103377",
-      "title": "Unidade De Estado Sólido Portátil SSD Externa E61 4TB 128TB 1TB 2TB Tipo C A USB 3.2 Gen2 Disco Rígido Móvel Para PC PS5",
-      "title_norm": "unidade de estado solido portatil ssd externa e61 4tb 128tb 1tb 2tb tipo c a usb 3 2 gen2 disco rigido movel para pc ps5",
-      "url": "https://shopee.com.br/product/1141918344/22963103377",
-      "affiliate_url": "https://s.shopee.com.br/3Vjki5ISM9",
-      "category": "shuzei.br",
-      "bucket": "informatica",
-      "posted_ts": 1787779071,
-      "posted_at": "2026-08-26T21:17:51.131509+00:00",
-      "score": 115.8
     }
   ],
-  "updated_at": "2026-09-04T23:02:22.174257+00:00"
+  "updated_at": "2026-09-04T23:17:46.077348+00:00"
 }
