@@ -1,6 +1,34 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB6405166350",
+      "marketplace": "mercadolivre",
+      "id": "MLB6405166350",
+      "title": "Redmi Note 14s Cor Preto",
+      "title_norm": "redmi note 14s cor preto",
+      "url": "https://www.mercadolivre.com.br/p/MLB48332910?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB48332910?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Informática",
+      "bucket": "celulares",
+      "posted_ts": 1788548639,
+      "posted_at": "2026-09-04T19:03:59.148089+00:00",
+      "score": 108.0
+    },
+    {
+      "key": "mercadolivre:MLB5521186570",
+      "marketplace": "mercadolivre",
+      "id": "MLB5521186570",
+      "title": "Smartphone Xiaomi Redmi 14C Preto 128GB 4GB RAM",
+      "title_norm": "smartphone xiaomi redmi 14c preto 128gb 4gb ram",
+      "url": "https://www.mercadolivre.com.br/p/MLB43264591?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB43264591?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Informática",
+      "bucket": "celulares",
+      "posted_ts": 1788548574,
+      "posted_at": "2026-09-04T19:02:54.756760+00:00",
+      "score": 127.0
+    },
+    {
       "key": "shopee:8337843814",
       "marketplace": "shopee",
       "id": "8337843814",
@@ -13971,35 +13999,7 @@
       "posted_ts": 1787771986,
       "posted_at": "2026-08-26T19:19:46.893902+00:00",
       "score": 42.56
-    },
-    {
-      "key": "shopee:13591503329",
-      "marketplace": "shopee",
-      "id": "13591503329",
-      "title": "Mochila Escolar Reforçada Notebook Impermeável Cabo De Aço",
-      "title_norm": "mochila escolar reforcada notebook impermeavel cabo de aco",
-      "url": "https://shopee.com.br/product/752743341/13591503329",
-      "affiliate_url": "https://s.shopee.com.br/5ArztRYkOi",
-      "category": "Fenix Abdon",
-      "bucket": "informatica",
-      "posted_ts": 1787771922,
-      "posted_at": "2026-08-26T19:18:42.924976+00:00",
-      "score": 89.89
-    },
-    {
-      "key": "shopee:22094228144",
-      "marketplace": "shopee",
-      "id": "22094228144",
-      "title": "TOMI MITO Bolsa Feminina com Alça Lateral Transversal Faixa de Mão de Couro B736",
-      "title_norm": "tomi mito bolsa feminina com alca lateral transversal faixa de mao de couro b736",
-      "url": "https://shopee.com.br/product/1468415010/22094228144",
-      "affiliate_url": "https://s.shopee.com.br/2BEKKbAITq",
-      "category": "Amy.Store",
-      "bucket": "bolsas",
-      "posted_ts": 1787768268,
-      "posted_at": "2026-08-26T18:17:48.652725+00:00",
-      "score": 104.01
     }
   ],
-  "updated_at": "2026-09-04T18:21:27.649549+00:00"
+  "updated_at": "2026-09-04T19:03:59.148108+00:00"
 }
