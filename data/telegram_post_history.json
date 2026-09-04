@@ -1,6 +1,20 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB4964833443",
+      "marketplace": "mercadolivre",
+      "id": "MLB4964833443",
+      "title": "Fralda Pampers Pants Ajuste Total XXG 60 Unidades",
+      "title_norm": "fralda pampers pants ajuste total xxg 60 unidades",
+      "url": "https://www.mercadolivre.com.br/p/MLB18715385?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB18715385?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Mãe e Bebê",
+      "bucket": "fraldas",
+      "posted_ts": 1788512718,
+      "posted_at": "2026-09-04T09:05:18.864379+00:00",
+      "score": 144.8
+    },
+    {
       "key": "shopee:43852360893",
       "marketplace": "shopee",
       "id": "43852360893",
@@ -13985,21 +13999,7 @@
       "posted_ts": 1787735943,
       "posted_at": "2026-08-26T09:19:03.625311+00:00",
       "score": 75.6
-    },
-    {
-      "key": "shopee:22994336598",
-      "marketplace": "shopee",
-      "id": "22994336598",
-      "title": "Microfone de lapela duplo redondo magnético A’Gold 2 em 1 iphone tipo c discreto entrevista podcast video",
-      "title_norm": "microfone de lapela duplo redondo magnetico a gold 2 em 1 iphone tipo c discreto entrevista podcast video",
-      "url": "https://shopee.com.br/product/1117805526/22994336598",
-      "affiliate_url": "https://s.shopee.com.br/60R6DdWxRi",
-      "category": " LUCKY STORE",
-      "bucket": "celulares",
-      "posted_ts": 1787735876,
-      "posted_at": "2026-08-26T09:17:56.397842+00:00",
-      "score": 126.68
     }
   ],
-  "updated_at": "2026-09-04T08:20:16.976951+00:00"
+  "updated_at": "2026-09-04T09:05:18.864396+00:00"
 }
