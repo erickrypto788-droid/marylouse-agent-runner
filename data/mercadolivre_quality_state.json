@@ -1,6 +1,21 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB4949684225",
+      "product_id": "MLB4949684225",
+      "catalog_product_id": "MLB75635951",
+      "item_id": "MLB4949684225",
+      "url": "https://www.mercadolivre.com.br/p/MLB75635951?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB75635951?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "fralda geriatrica prevent care tamanho fralda geriatrica prevent care m c 50",
+      "title": "Fralda Geriatrica Prevent Care Tamanho FRALDA GERIATRICA PREVENT CARE M C/50",
+      "category": "Mãe e Bebê",
+      "price": 112.9,
+      "score": 114.0,
+      "posted_ts": 1788562942,
+      "posted_at": "2026-09-04T23:02:22.190807+00:00"
+    },
+    {
       "key": "mercadolivre:MLB7526272332",
       "product_id": "MLB7526272332",
       "catalog_product_id": "MLB75981402",
@@ -389,52 +404,7 @@
       "score": 128.8,
       "posted_ts": 1788390227,
       "posted_at": "2026-09-02T23:03:47.945374+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB7517810920",
-      "product_id": "MLB7517810920",
-      "catalog_product_id": "MLB76609780",
-      "item_id": "MLB7517810920",
-      "url": "https://www.mercadolivre.com.br/p/MLB76609780?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB76609780?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "hidratante corporal pessego",
-      "title": "Hidratante Corporal Pessego",
-      "category": "Beleza",
-      "price": 114.0,
-      "score": 72.67,
-      "posted_ts": 1788386972,
-      "posted_at": "2026-09-02T22:09:32.592933+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB7046261998",
-      "product_id": "MLB7046261998",
-      "catalog_product_id": "MLB28886645",
-      "item_id": "MLB7046261998",
-      "url": "https://www.mercadolivre.com.br/p/MLB28886645?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB28886645?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "snob papel toalha cozinha folha dupla c 12 rolos",
-      "title": "Snob Papel Toalha Cozinha Folha Dupla C/ 12 Rolos",
-      "category": "Supermercados",
-      "price": 100.0,
-      "score": 89.0,
-      "posted_ts": 1788386908,
-      "posted_at": "2026-09-02T22:08:28.464828+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB5167657971",
-      "product_id": "MLB5167657971",
-      "catalog_product_id": "MLB48357469",
-      "item_id": "MLB5167657971",
-      "url": "https://www.mercadolivre.com.br/p/MLB48357469?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB48357469?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "fralda pampers premium care tamanho g 94 unidades",
-      "title": "Fralda Pampers Premium Care Tamanho G 94 Unidades",
-      "category": "Mãe e Bebê",
-      "price": 199.9,
-      "score": 130.0,
-      "posted_ts": 1788386813,
-      "posted_at": "2026-09-02T22:06:53.543946+00:00"
     }
   ],
-  "updated_at": "2026-09-04T22:02:26.924849+00:00"
+  "updated_at": "2026-09-04T23:02:22.190827+00:00"
 }
