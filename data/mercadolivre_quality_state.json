@@ -1,6 +1,21 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB4778272375",
+      "product_id": "MLB4778272375",
+      "catalog_product_id": "MLB73518090",
+      "item_id": "MLB4778272375",
+      "url": "https://www.mercadolivre.com.br/p/MLB73518090?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB73518090?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "livro tchauzinho fralda",
+      "title": "Livro Tchauzinho, Fralda",
+      "category": "Mãe e Bebê",
+      "price": 196.88,
+      "score": 114.0,
+      "posted_ts": 1788501760,
+      "posted_at": "2026-09-04T06:02:40.797557+00:00"
+    },
+    {
       "key": "mercadolivre:MLB7575871600",
       "product_id": "MLB7575871600",
       "catalog_product_id": "MLB49735840",
@@ -494,82 +509,7 @@
       "score": 88.0,
       "posted_ts": 1788329032,
       "posted_at": "2026-09-02T06:03:52.369762+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB6442123488",
-      "product_id": "MLB6442123488",
-      "catalog_product_id": "MLB65794107",
-      "item_id": "MLB6442123488",
-      "url": "https://www.mercadolivre.com.br/p/MLB65794107?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB65794107?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "hidratante corporal relaxante",
-      "title": "Hidratante Corporal Relaxante",
-      "category": "Beleza",
-      "price": 88.25,
-      "score": 76.9,
-      "posted_ts": 1788325786,
-      "posted_at": "2026-09-02T05:09:46.966775+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB4221708509",
-      "product_id": "MLB4221708509",
-      "catalog_product_id": "MLB57793939",
-      "item_id": "MLB4221708509",
-      "url": "https://www.mercadolivre.com.br/p/MLB57793939?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB57793939?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "papel toalha interfolha folha dupla 2000fls",
-      "title": "Papel Toalha Interfolha Folha Dupla 2000fls",
-      "category": "Supermercados",
-      "price": 139.9,
-      "score": 89.0,
-      "posted_ts": 1788325723,
-      "posted_at": "2026-09-02T05:08:43.088785+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB6581237526",
-      "product_id": "MLB6581237526",
-      "catalog_product_id": "MLB61910184",
-      "item_id": "MLB6581237526",
-      "url": "https://www.mercadolivre.com.br/p/MLB61910184?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB61910184?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "100 saco de lixo 60l preto saco lixo resistente reforcado",
-      "title": "100 Saco De Lixo 60l Preto Saco Lixo Resistente Reforçado",
-      "category": "Supermercados",
-      "price": 45.6,
-      "score": 89.0,
-      "posted_ts": 1788325659,
-      "posted_at": "2026-09-02T05:07:39.237776+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB6425142428",
-      "product_id": "MLB6425142428",
-      "catalog_product_id": "MLB33581064",
-      "item_id": "MLB6425142428",
-      "url": "https://www.mercadolivre.com.br/p/MLB33581064?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB33581064?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "fralda pampers confort sec g 38 unidades",
-      "title": "Fralda Pampers Confort Sec G 38 Unidades",
-      "category": "Mãe e Bebê",
-      "price": 120.0,
-      "score": 130.0,
-      "posted_ts": 1788325564,
-      "posted_at": "2026-09-02T05:06:04.577325+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB4219197703",
-      "product_id": "MLB4219197703",
-      "catalog_product_id": "MLB34684493",
-      "item_id": "MLB4219197703",
-      "url": "https://www.mercadolivre.com.br/p/MLB34684493?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB34684493?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "azeite oliva extra virgem portugues vila oliva 500ml 3 un",
-      "title": "Azeite Oliva Extra Virgem Português Vila Oliva 500ml (3 Un)",
-      "category": "Supermercados",
-      "price": 129.9,
-      "score": 141.22,
-      "posted_ts": 1788325500,
-      "posted_at": "2026-09-02T05:05:00.691470+00:00"
     }
   ],
-  "updated_at": "2026-09-04T05:02:20.708742+00:00"
+  "updated_at": "2026-09-04T06:02:40.797568+00:00"
 }

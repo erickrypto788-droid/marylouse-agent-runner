@@ -1,6 +1,20 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB4778272375",
+      "marketplace": "mercadolivre",
+      "id": "MLB4778272375",
+      "title": "Livro Tchauzinho, Fralda",
+      "title_norm": "livro tchauzinho fralda",
+      "url": "https://www.mercadolivre.com.br/p/MLB73518090?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB73518090?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Mãe e Bebê",
+      "bucket": "fraldas",
+      "posted_ts": 1788501760,
+      "posted_at": "2026-09-04T06:02:40.786593+00:00",
+      "score": 114.0
+    },
+    {
       "key": "shopee:23091236584",
       "marketplace": "shopee",
       "id": "23091236584",
@@ -13985,21 +13999,7 @@
       "posted_ts": 1787725125,
       "posted_at": "2026-08-26T06:18:45.958917+00:00",
       "score": 60.52
-    },
-    {
-      "key": "shopee:58203680742",
-      "marketplace": "shopee",
-      "id": "58203680742",
-      "title": "Vestido Feminino Viscolycra Estampado Com Transpassado Casual Confortável Plus Size",
-      "title_norm": "vestido feminino viscolycra estampado com transpassado casual confortavel plus size",
-      "url": "https://shopee.com.br/product/1725125758/58203680742",
-      "affiliate_url": "https://s.shopee.com.br/6VNLLu4aQ7",
-      "category": "VESTIDOS.COM",
-      "bucket": "moda_feminina",
-      "posted_ts": 1787725062,
-      "posted_at": "2026-08-26T06:17:42.002885+00:00",
-      "score": 64.29
     }
   ],
-  "updated_at": "2026-09-04T05:18:49.851225+00:00"
+  "updated_at": "2026-09-04T06:02:40.786611+00:00"
 }
