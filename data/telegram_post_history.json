@@ -1,6 +1,20 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB7526272332",
+      "marketplace": "mercadolivre",
+      "id": "MLB7526272332",
+      "title": "Ração Gato Castrado Life Special Robustus 10,1kg",
+      "title_norm": "racao gato castrado life special robustus 10 1kg",
+      "url": "https://www.mercadolivre.com.br/p/MLB75981402?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB75981402?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Pet",
+      "bucket": "pet",
+      "posted_ts": 1788559346,
+      "posted_at": "2026-09-04T22:02:26.909196+00:00",
+      "score": 113.0
+    },
+    {
       "key": "shopee:22097368520",
       "marketplace": "shopee",
       "id": "22097368520",
@@ -13985,21 +13999,7 @@
       "posted_ts": 1787778319,
       "posted_at": "2026-08-26T21:05:19.896057+00:00",
       "score": 88.0
-    },
-    {
-      "key": "mercadolivre:MLB5747632298",
-      "marketplace": "mercadolivre",
-      "id": "MLB5747632298",
-      "title": "Calça Legging Redutora Miracle Belt Cor Preto Tamanho Pp",
-      "title_norm": "calca legging redutora miracle belt cor preto tamanho pp",
-      "url": "https://www.mercadolivre.com.br/p/MLB58174814?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB58174814?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "category": "Moda Feminina",
-      "bucket": "moda_feminina",
-      "posted_ts": 1787778255,
-      "posted_at": "2026-08-26T21:04:15.930550+00:00",
-      "score": 88.0
     }
   ],
-  "updated_at": "2026-09-04T21:20:55.963450+00:00"
+  "updated_at": "2026-09-04T22:02:26.909211+00:00"
 }
