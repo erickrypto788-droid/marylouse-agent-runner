@@ -1,6 +1,20 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB5697892498",
+      "marketplace": "mercadolivre",
+      "id": "MLB5697892498",
+      "title": "Body Modelador Nayane Short Feminino Cor Cristal Tamanho EG",
+      "title_norm": "body modelador nayane short feminino cor cristal tamanho eg",
+      "url": "https://www.mercadolivre.com.br/p/MLB56081727?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB56081727?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Moda Feminina",
+      "bucket": "moda_feminina",
+      "posted_ts": 1788516301,
+      "posted_at": "2026-09-04T10:05:01.316176+00:00",
+      "score": 88.0
+    },
+    {
       "key": "shopee:58263488661",
       "marketplace": "shopee",
       "id": "58263488661",
@@ -13985,21 +13999,7 @@
       "posted_ts": 1787739612,
       "posted_at": "2026-08-26T10:20:12.894479+00:00",
       "score": 72.56
-    },
-    {
-      "key": "shopee:58204057552",
-      "marketplace": "shopee",
-      "id": "58204057552",
-      "title": "Kit 10 Marmitas com Travas 900ml BPAFREE Pote Plástico Freezer Microondas Fitness Refeição Alimento",
-      "title_norm": "kit 10 marmitas com travas 900ml bpafree pote plastico freezer microondas fitness refeicao alimento",
-      "url": "https://shopee.com.br/product/1731657310/58204057552",
-      "affiliate_url": "https://s.shopee.com.br/1BLpGi93ov",
-      "category": "GL MIX Utilidades Oficial",
-      "bucket": "gl_mix_utilidades_oficial",
-      "posted_ts": 1787739544,
-      "posted_at": "2026-08-26T10:19:04.549321+00:00",
-      "score": 78.51
     }
   ],
-  "updated_at": "2026-09-04T09:21:17.357211+00:00"
+  "updated_at": "2026-09-04T10:05:01.316191+00:00"
 }

@@ -1,6 +1,21 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB5697892498",
+      "product_id": "MLB5697892498",
+      "catalog_product_id": "MLB56081727",
+      "item_id": "MLB5697892498",
+      "url": "https://www.mercadolivre.com.br/p/MLB56081727?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB56081727?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "body modelador nayane short feminino cor cristal tamanho eg",
+      "title": "Body Modelador Nayane Short Feminino Cor Cristal Tamanho EG",
+      "category": "Moda Feminina",
+      "price": 151.7,
+      "score": 88.0,
+      "posted_ts": 1788516301,
+      "posted_at": "2026-09-04T10:05:01.330059+00:00"
+    },
+    {
       "key": "mercadolivre:MLB4964833443",
       "product_id": "MLB4964833443",
       "catalog_product_id": "MLB18715385",
@@ -434,22 +449,7 @@
       "score": 111.0,
       "posted_ts": 1788354148,
       "posted_at": "2026-09-02T13:02:28.907184+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB7574008382",
-      "product_id": "MLB7574008382",
-      "catalog_product_id": "MLB77039877",
-      "item_id": "MLB7574008382",
-      "url": "https://www.mercadolivre.com.br/p/MLB77039877?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB77039877?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "perfume feminino olympia",
-      "title": "Perfume Feminino Olympia",
-      "category": "Beleza",
-      "price": 184.0,
-      "score": 188.67,
-      "posted_ts": 1788343344,
-      "posted_at": "2026-09-02T10:02:24.395914+00:00"
     }
   ],
-  "updated_at": "2026-09-04T09:05:18.879022+00:00"
+  "updated_at": "2026-09-04T10:05:01.330070+00:00"
 }
