@@ -1,6 +1,21 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB7575871600",
+      "product_id": "MLB7575871600",
+      "catalog_product_id": "MLB49735840",
+      "item_id": "MLB7575871600",
+      "url": "https://www.mercadolivre.com.br/p/MLB49735840?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB49735840?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "racao cachorro selection adultos pequenos 10 1kg harmony",
+      "title": "Ração Cachorro Selection Adultos Pequenos 10,1kg Harmony",
+      "category": "Pet",
+      "price": 114.0,
+      "score": 113.0,
+      "posted_ts": 1788498140,
+      "posted_at": "2026-09-04T05:02:20.708733+00:00"
+    },
+    {
       "key": "mercadolivre:MLB5919313906",
       "product_id": "MLB5919313906",
       "catalog_product_id": "MLB24099360",
@@ -556,5 +571,5 @@
       "posted_at": "2026-09-02T05:05:00.691470+00:00"
     }
   ],
-  "updated_at": "2026-09-04T02:04:00.075865+00:00"
+  "updated_at": "2026-09-04T05:02:20.708742+00:00"
 }

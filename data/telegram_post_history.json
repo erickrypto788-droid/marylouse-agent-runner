@@ -1,6 +1,20 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB7575871600",
+      "marketplace": "mercadolivre",
+      "id": "MLB7575871600",
+      "title": "Ração Cachorro Selection Adultos Pequenos 10,1kg Harmony",
+      "title_norm": "racao cachorro selection adultos pequenos 10 1kg harmony",
+      "url": "https://www.mercadolivre.com.br/p/MLB49735840?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB49735840?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Pet",
+      "bucket": "pet",
+      "posted_ts": 1788498140,
+      "posted_at": "2026-09-04T05:02:20.694891+00:00",
+      "score": 113.0
+    },
+    {
       "key": "shopee:58255115706",
       "marketplace": "shopee",
       "id": "58255115706",
@@ -13985,21 +13999,7 @@
       "posted_ts": 1787721661,
       "posted_at": "2026-08-26T05:21:01.469358+00:00",
       "score": 58.06
-    },
-    {
-      "key": "shopee:20699680911",
-      "marketplace": "shopee",
-      "id": "20699680911",
-      "title": "Kit 3 Camisetas Básicas Streetwear Camisa T-Shirt premium Promoção Algodão Varias Cores",
-      "title_norm": "kit 3 camisetas basicas streetwear camisa t shirt premium promocao algodao varias cores",
-      "url": "https://shopee.com.br/product/1419020674/20699680911",
-      "affiliate_url": "https://s.shopee.com.br/5foEIFnR3z",
-      "category": "TX.RODEIO",
-      "bucket": "tx_rodeio",
-      "posted_ts": 1787721597,
-      "posted_at": "2026-08-26T05:19:57.484753+00:00",
-      "score": 59.52
     }
   ],
-  "updated_at": "2026-09-04T04:18:01.883718+00:00"
+  "updated_at": "2026-09-04T05:02:20.694904+00:00"
 }
