@@ -1,6 +1,48 @@
 {
   "posts": [
     {
+      "key": "shopee:22398354239",
+      "marketplace": "shopee",
+      "id": "22398354239",
+      "title": "Garrafa Térmica Termometro Digital 1L Café Chá Nórdica Com Cabo Madeira",
+      "title_norm": "garrafa termica termometro digital 1l cafe cha nordica com cabo madeira",
+      "url": "https://shopee.com.br/product/1060793149/22398354239",
+      "affiliate_url": "https://s.shopee.com.br/3LQYKrostg",
+      "category": "Pinduoduo Store",
+      "bucket": "saude",
+      "posted_ts": 1788524349,
+      "posted_at": "2026-09-04T12:19:09.293886+00:00",
+      "score": 92.98
+    },
+    {
+      "key": "shopee:22394354579",
+      "marketplace": "shopee",
+      "id": "22394354579",
+      "title": "Nebulizador Inalador Ultrassônico Portátil Usb Bivolt Adulto E Infantil",
+      "title_norm": "nebulizador inalador ultrassonico portatil usb bivolt adulto e infantil",
+      "url": "https://shopee.com.br/product/1611027648/22394354579",
+      "affiliate_url": "https://s.shopee.com.br/3LQYKrxXy2",
+      "category": "tceletronicos",
+      "bucket": "saude",
+      "posted_ts": 1788524285,
+      "posted_at": "2026-09-04T12:18:05.318129+00:00",
+      "score": 93.47
+    },
+    {
+      "key": "shopee:23693071269",
+      "marketplace": "shopee",
+      "id": "23693071269",
+      "title": "Oxímetro Dedo Digital G-tech Original Medidor De Saturação De Oxigênio NF Garantia de 1 Ano",
+      "title_norm": "oximetro dedo digital g tech original medidor de saturacao de oxigenio nf garantia de 1 ano",
+      "url": "https://shopee.com.br/product/961638733/23693071269",
+      "affiliate_url": "https://s.shopee.com.br/qjEcX57er",
+      "category": "ROMALIZ",
+      "bucket": "pet",
+      "posted_ts": 1788524216,
+      "posted_at": "2026-09-04T12:16:56.025462+00:00",
+      "score": 95.22
+    },
+    {
       "key": "shopee:20199323262",
       "marketplace": "shopee",
       "id": "20199323262",
@@ -13957,49 +13999,7 @@
       "posted_ts": 1787749541,
       "posted_at": "2026-08-26T13:05:41.943551+00:00",
       "score": 168.5
-    },
-    {
-      "key": "mercadolivre:MLB5129093619",
-      "marketplace": "mercadolivre",
-      "id": "MLB5129093619",
-      "title": "celulares smartphones 6.78 Polegadas celular 5g 16GB+512GB Câmera HD 32Mpx+18Mpx Bateria 5000mAh celular baratinho",
-      "title_norm": "celulares smartphones 6 78 polegadas celular 5g 16gb 512gb camera hd 32mpx 18mpx bateria 5000mah celular baratinho",
-      "url": "https://www.mercadolivre.com.br/p/MLB78262248?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB78262248?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "category": "Informática",
-      "bucket": "celulares",
-      "posted_ts": 1787749477,
-      "posted_at": "2026-08-26T13:04:37.892227+00:00",
-      "score": 183.67
-    },
-    {
-      "key": "shopee:58208153599",
-      "marketplace": "shopee",
-      "id": "58208153599",
-      "title": "Kit 5 CAMISETAS Lisas Básicas MENINO Coloridas Verão Algodão Confortável",
-      "title_norm": "kit 5 camisetas lisas basicas menino coloridas verao algodao confortavel",
-      "url": "https://shopee.com.br/product/1633765168/58208153599",
-      "affiliate_url": "https://s.shopee.com.br/4qF7liujT7",
-      "category": "Levibi Modas",
-      "bucket": "levibi_modas",
-      "posted_ts": 1787746859,
-      "posted_at": "2026-08-26T12:20:59.246128+00:00",
-      "score": 95.03
-    },
-    {
-      "key": "shopee:40111757733",
-      "marketplace": "shopee",
-      "id": "40111757733",
-      "title": "Shorts Curto Cotton Infantil Menina – Ideal para Usar com Saias e Vestidos | 2 a 12 Anos",
-      "title_norm": "shorts curto cotton infantil menina ideal para usar com saias e vestidos 2 a 12 anos",
-      "url": "https://shopee.com.br/product/391306526/40111757733",
-      "affiliate_url": "https://s.shopee.com.br/8plHnCgjAS",
-      "category": "ArtKids",
-      "bucket": "moda_feminina",
-      "posted_ts": 1787746795,
-      "posted_at": "2026-08-26T12:19:55.212533+00:00",
-      "score": 95.71
     }
   ],
-  "updated_at": "2026-09-04T11:21:41.279606+00:00"
+  "updated_at": "2026-09-04T12:19:09.293905+00:00"
 }
