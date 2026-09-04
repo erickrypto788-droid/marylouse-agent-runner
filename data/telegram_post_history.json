@@ -1,6 +1,34 @@
 {
   "posts": [
     {
+      "key": "shopee:23294507949",
+      "marketplace": "shopee",
+      "id": "23294507949",
+      "title": "Bolsa Novo Estilo Bolsa De Moda De Ombro Unissex De Grande Capacidade Bolsa De Veludo",
+      "title_norm": "bolsa novo estilo bolsa de moda de ombro unissex de grande capacidade bolsa de veludo",
+      "url": "https://shopee.com.br/product/1345079470/23294507949",
+      "affiliate_url": "https://s.shopee.com.br/50YmS8amSB",
+      "category": "Unique Mochilas Bolsas",
+      "bucket": "bolsas",
+      "posted_ts": 1788531487,
+      "posted_at": "2026-09-04T14:18:07.269073+00:00",
+      "score": 94.51
+    },
+    {
+      "key": "shopee:22391919981",
+      "marketplace": "shopee",
+      "id": "22391919981",
+      "title": "Mochila 2023 bolsa Viagem Resistente a Água Style Premium Executiva Envio imediato",
+      "title_norm": "mochila 2023 bolsa viagem resistente a agua style premium executiva envio imediato",
+      "url": "https://shopee.com.br/product/691323218/22391919981",
+      "affiliate_url": "https://s.shopee.com.br/5q7tRfc93i",
+      "category": "ULTRA TECH COMERCIAL LTDA",
+      "bucket": "bolsas",
+      "posted_ts": 1788531407,
+      "posted_at": "2026-09-04T14:16:47.202085+00:00",
+      "score": 100.54
+    },
+    {
       "key": "shopee:22893472924",
       "marketplace": "shopee",
       "id": "22893472924",
@@ -13971,35 +13999,7 @@
       "posted_ts": 1787753878,
       "posted_at": "2026-08-26T14:17:58.450481+00:00",
       "score": 90.82
-    },
-    {
-      "key": "shopee:46306062636",
-      "marketplace": "shopee",
-      "id": "46306062636",
-      "title": "Spot It Jogo De Cartas Clássico Para Crianças Tabuleiro Educacional Família Desenvolvimento De Foco 2 8 Jogadores Brinqu",
-      "title_norm": "spot it jogo de cartas classico para criancas tabuleiro educacional familia desenvolvimento de foco 2 8 jogadores brinqu",
-      "url": "https://shopee.com.br/product/1006215031/46306062636",
-      "affiliate_url": "https://s.shopee.com.br/5LBOUmmcHY",
-      "category": "Choice Oficial",
-      "bucket": "choice_oficial",
-      "posted_ts": 1787753806,
-      "posted_at": "2026-08-26T14:16:46.619484+00:00",
-      "score": 92.4
-    },
-    {
-      "key": "shopee:58208327100",
-      "marketplace": "shopee",
-      "id": "58208327100",
-      "title": "Creatina Monohidratada DUX Nutrition 100% Pura Original Academia – Hipertrofia",
-      "title_norm": "creatina monohidratada dux nutrition 100 pura original academia hipertrofia",
-      "url": "https://shopee.com.br/product/1593899060/58208327100",
-      "affiliate_url": "https://s.shopee.com.br/1BLqjFGQX6",
-      "category": "Aplhavita",
-      "bucket": "aplhavita",
-      "posted_ts": 1787750479,
-      "posted_at": "2026-08-26T13:21:19.131908+00:00",
-      "score": 101.44
     }
   ],
-  "updated_at": "2026-09-04T13:21:11.045101+00:00"
+  "updated_at": "2026-09-04T14:18:07.269092+00:00"
 }
