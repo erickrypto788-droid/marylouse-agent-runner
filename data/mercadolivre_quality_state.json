@@ -1,6 +1,66 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB4266241495",
+      "product_id": "MLB4266241495",
+      "catalog_product_id": "MLB43806010",
+      "item_id": "MLB4266241495",
+      "url": "https://www.mercadolivre.com.br/p/MLB43806010?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB43806010?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "absorvente mulher ativa com abas kit 80 pacotes gel super absorvente",
+      "title": "Absorvente Mulher Ativa Com Abas Kit 80 Pacotes Gel Super Absorvente",
+      "category": "Moda Feminina",
+      "price": 189.15,
+      "score": 88.0,
+      "posted_ts": 1788639120,
+      "posted_at": "2026-09-05T20:12:00.975412+00:00"
+    },
+    {
+      "key": "mercadolivre:MLB5827798066",
+      "product_id": "MLB5827798066",
+      "catalog_product_id": "MLB47658528",
+      "item_id": "MLB5827798066",
+      "url": "https://www.mercadolivre.com.br/p/MLB47658528?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB47658528?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "kit papel toalha interfolha supremo e papel toalha mili",
+      "title": "Kit Papel Toalha Interfolha Supremo E Papel Toalha Mili",
+      "category": "Supermercados",
+      "price": 105.45,
+      "score": 98.67,
+      "posted_ts": 1788639056,
+      "posted_at": "2026-09-05T20:10:56.825099+00:00"
+    },
+    {
+      "key": "mercadolivre:MLB6660297382",
+      "product_id": "MLB6660297382",
+      "catalog_product_id": "MLB67844007",
+      "item_id": "MLB6660297382",
+      "url": "https://www.mercadolivre.com.br/p/MLB67844007?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB67844007?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "preparo essencia amaciante roupas concentrado perfume",
+      "title": "Preparo Essência Amaciante Roupas Concentrado Perfume",
+      "category": "Supermercados",
+      "price": 135.9,
+      "score": 114.0,
+      "posted_ts": 1788638938,
+      "posted_at": "2026-09-05T20:08:58.590690+00:00"
+    },
+    {
+      "key": "mercadolivre:MLB7272112414",
+      "product_id": "MLB7272112414",
+      "catalog_product_id": "MLB43609445",
+      "item_id": "MLB7272112414",
+      "url": "https://www.mercadolivre.com.br/p/MLB43609445?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB43609445?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "papel higienico indaial caicai papel higienico folha dupla 22 5 m de 1 un",
+      "title": "Papel higiênico INDAIAL CAICAI PAPEL HIGIENICO folha dupla 22.5 m de 1 un",
+      "category": "Supermercados",
+      "price": 150.99,
+      "score": 114.0,
+      "posted_ts": 1788638874,
+      "posted_at": "2026-09-05T20:07:54.531159+00:00"
+    },
+    {
       "key": "mercadolivre:MLB7513707254",
       "product_id": "MLB7513707254",
       "catalog_product_id": "MLB57578486",
@@ -359,22 +419,7 @@
       "score": 162.38,
       "posted_ts": 1788472960,
       "posted_at": "2026-09-03T22:02:40.077477+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB7270317740",
-      "product_id": "MLB7270317740",
-      "catalog_product_id": "MLB75817439",
-      "item_id": "MLB7270317740",
-      "url": "https://www.mercadolivre.com.br/p/MLB75817439?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB75817439?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "jogo panelas ipanema 5 pecas preto nacional",
-      "title": "Jogo Panelas Ipanema 5 Peças Preto Nacional",
-      "category": "Casa e Cozinha",
-      "price": 305.9,
-      "score": 109.22,
-      "posted_ts": 1788455027,
-      "posted_at": "2026-09-03T17:03:47.372396+00:00"
     }
   ],
-  "updated_at": "2026-09-05T17:02:40.787535+00:00"
+  "updated_at": "2026-09-05T20:12:00.975422+00:00"
 }
