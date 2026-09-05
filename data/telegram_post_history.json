@@ -1,6 +1,34 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB4552727020",
+      "marketplace": "mercadolivre",
+      "id": "MLB4552727020",
+      "title": "Monitor Bebe Wifi Infravermelho Vision Noctura Intercom Inteligente",
+      "title_norm": "monitor bebe wifi infravermelho vision noctura intercom inteligente",
+      "url": "https://www.mercadolivre.com.br/p/MLB23076913?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB23076913?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Informática",
+      "bucket": "informatica",
+      "posted_ts": 1788624221,
+      "posted_at": "2026-09-05T16:03:41.118798+00:00",
+      "score": 86.0
+    },
+    {
+      "key": "mercadolivre:MLB7591842132",
+      "marketplace": "mercadolivre",
+      "id": "MLB7591842132",
+      "title": "Azul escova limpeza mamadeira kit para limpeza de mamadeira kit limpeza mamadeira viagem kit limpeza bebe escova mamadeira portatil escova bico canudo secador higiene infantil acessorios bebe",
+      "title_norm": "azul escova limpeza mamadeira kit para limpeza de mamadeira kit limpeza mamadeira viagem kit limpeza bebe escova mamadeira portatil escova bico canudo secador higiene infantil acessorios bebe",
+      "url": "https://www.mercadolivre.com.br/p/MLB75043054?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB75043054?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Mãe e Bebê",
+      "bucket": "beleza",
+      "posted_ts": 1788624156,
+      "posted_at": "2026-09-05T16:02:36.955754+00:00",
+      "score": 191.5
+    },
+    {
       "key": "shopee:52109854743",
       "marketplace": "shopee",
       "id": "52109854743",
@@ -13971,35 +13999,7 @@
       "posted_ts": 1787847534,
       "posted_at": "2026-08-27T16:18:54.080429+00:00",
       "score": 102.32
-    },
-    {
-      "key": "shopee:3743287858",
-      "marketplace": "shopee",
-      "id": "3743287858",
-      "title": "Kit Gamer Teclado Semi Mecânico + Mouse 2400dpi Usb Rgb Iluminado Jogos Pc",
-      "title_norm": "kit gamer teclado semi mecanico mouse 2400dpi usb rgb iluminado jogos pc",
-      "url": "https://shopee.com.br/product/287296555/3743287858",
-      "affiliate_url": "https://s.shopee.com.br/3LQN6X9xSJ",
-      "category": "SUPER COMPRAS.SHOP",
-      "bucket": "informatica",
-      "posted_ts": 1787847464,
-      "posted_at": "2026-08-27T16:17:44.934184+00:00",
-      "score": 102.77
-    },
-    {
-      "key": "shopee:23797359274",
-      "marketplace": "shopee",
-      "id": "23797359274",
-      "title": "Carimbo Marca Texto De Proteção De Privacidade /Cobertura Privada/Prosy Code De Dados/Utensílio De Segurança",
-      "title_norm": "carimbo marca texto de protecao de privacidade cobertura privada prosy code de dados utensilio de seguranca",
-      "url": "https://shopee.com.br/product/487505431/23797359274",
-      "affiliate_url": "https://s.shopee.com.br/9zxGybo0Y9",
-      "category": "FU MOON",
-      "bucket": "fu_moon",
-      "posted_ts": 1787844072,
-      "posted_at": "2026-08-27T15:21:12.840583+00:00",
-      "score": 51.4
     }
   ],
-  "updated_at": "2026-09-05T15:23:01.759174+00:00"
+  "updated_at": "2026-09-05T16:03:41.118814+00:00"
 }

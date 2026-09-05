@@ -1,6 +1,36 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB4552727020",
+      "product_id": "MLB4552727020",
+      "catalog_product_id": "MLB23076913",
+      "item_id": "MLB4552727020",
+      "url": "https://www.mercadolivre.com.br/p/MLB23076913?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB23076913?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "monitor bebe wifi infravermelho vision noctura intercom inteligente",
+      "title": "Monitor Bebe Wifi Infravermelho Vision Noctura Intercom Inteligente",
+      "category": "Informática",
+      "price": 1394.0,
+      "score": 86.0,
+      "posted_ts": 1788624221,
+      "posted_at": "2026-09-05T16:03:41.130837+00:00"
+    },
+    {
+      "key": "mercadolivre:MLB7591842132",
+      "product_id": "MLB7591842132",
+      "catalog_product_id": "MLB75043054",
+      "item_id": "MLB7591842132",
+      "url": "https://www.mercadolivre.com.br/p/MLB75043054?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB75043054?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "azul escova limpeza mamadeira kit para limpeza de mamadeira kit limpeza mamadeira viagem kit limpeza bebe escova mamadeira portatil escova bico canudo secador higiene infantil acessorios bebe",
+      "title": "Azul escova limpeza mamadeira kit para limpeza de mamadeira kit limpeza mamadeira viagem kit limpeza bebe escova mamadeira portatil escova bico canudo secador higiene infantil acessorios bebe",
+      "category": "Mãe e Bebê",
+      "price": 53.6,
+      "score": 191.5,
+      "posted_ts": 1788624156,
+      "posted_at": "2026-09-05T16:02:36.968177+00:00"
+    },
+    {
       "key": "mercadolivre:MLB4109571517",
       "product_id": "MLB4109571517",
       "catalog_product_id": "MLB28523781",
@@ -329,52 +359,7 @@
       "score": 109.22,
       "posted_ts": 1788455027,
       "posted_at": "2026-09-03T17:03:47.372396+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB4669888929",
-      "product_id": "MLB4669888929",
-      "catalog_product_id": "MLB69426926",
-      "item_id": "MLB4669888929",
-      "url": "https://www.mercadolivre.com.br/p/MLB69426926?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB69426926?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "kit 10 cateteres speedicath short feminino ch10",
-      "title": "Kit 10 Cateteres Speedicath Short Feminino Ch10",
-      "category": "Moda Feminina",
-      "price": 176.28,
-      "score": 88.0,
-      "posted_ts": 1788451399,
-      "posted_at": "2026-09-03T16:03:19.056225+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB5118569459",
-      "product_id": "MLB5118569459",
-      "catalog_product_id": "MLB21407698",
-      "item_id": "MLB5118569459",
-      "url": "https://www.mercadolivre.com.br/p/MLB21407698?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB21407698?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "arroz motigome 1kg",
-      "title": "Arroz Motigome 1kg",
-      "category": "Supermercados",
-      "price": 37.4,
-      "score": 93.74,
-      "posted_ts": 1788448009,
-      "posted_at": "2026-09-03T15:06:49.742933+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB3997818373",
-      "product_id": "MLB3997818373",
-      "catalog_product_id": "MLB17336422",
-      "item_id": "MLB3997818373",
-      "url": "https://www.mercadolivre.com.br/p/MLB17336422?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB17336422?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "fralda huggies tripla protecao g 36 unidades",
-      "title": "Fralda Huggies Tripla Proteção G 36 unidades",
-      "category": "Mãe e Bebê",
-      "price": 192.05,
-      "score": 130.0,
-      "posted_ts": 1788447940,
-      "posted_at": "2026-09-03T15:05:40.270994+00:00"
     }
   ],
-  "updated_at": "2026-09-05T15:02:19.853882+00:00"
+  "updated_at": "2026-09-05T16:03:41.130849+00:00"
 }
