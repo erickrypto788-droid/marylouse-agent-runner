@@ -1,6 +1,48 @@
 {
   "posts": [
     {
+      "key": "shopee:22693258851",
+      "marketplace": "shopee",
+      "id": "22693258851",
+      "title": "Calça Pantalona Feminina Plus Size Canelada Com Elastico na Cintura Curvy +",
+      "title_norm": "calca pantalona feminina plus size canelada com elastico na cintura curvy",
+      "url": "https://shopee.com.br/product/777798362/22693258851",
+      "affiliate_url": "https://s.shopee.com.br/2qUJfPHI4q",
+      "category": "Mais Curvas Moda Feminina",
+      "bucket": "mais_curvas_moda_feminina",
+      "posted_ts": 1788628726,
+      "posted_at": "2026-09-05T17:18:46.865076+00:00",
+      "score": 105.49
+    },
+    {
+      "key": "shopee:22591638181",
+      "marketplace": "shopee",
+      "id": "22591638181",
+      "title": "Calças Jeans Femininas Plus Size Cintura Alta Até o Umbigo Lycra",
+      "title_norm": "calcas jeans femininas plus size cintura alta ate o umbigo lycra",
+      "url": "https://shopee.com.br/product/384125793/22591638181",
+      "affiliate_url": "https://s.shopee.com.br/5foSW2L0aD",
+      "category": "Vortex Jeans Wear",
+      "bucket": "vortex_jeans_wear",
+      "posted_ts": 1788628662,
+      "posted_at": "2026-09-05T17:17:42.922871+00:00",
+      "score": 110.07
+    },
+    {
+      "key": "shopee:58257330060",
+      "marketplace": "shopee",
+      "id": "58257330060",
+      "title": "Vestido Plus Size Soltinho Em Dois Tamanhos e Várias Cores",
+      "title_norm": "vestido plus size soltinho em dois tamanhos e varias cores",
+      "url": "https://shopee.com.br/product/1518048481/58257330060",
+      "affiliate_url": "https://s.shopee.com.br/5foV2bohRJ",
+      "category": "augeconceito",
+      "bucket": "moda_feminina",
+      "posted_ts": 1788628598,
+      "posted_at": "2026-09-05T17:16:38.878523+00:00",
+      "score": 119.51
+    },
+    {
       "key": "mercadolivre:MLB7513707254",
       "marketplace": "mercadolivre",
       "id": "MLB7513707254",
@@ -13957,49 +13999,7 @@
       "posted_ts": 1787858207,
       "posted_at": "2026-08-27T19:16:47.008422+00:00",
       "score": 98.22
-    },
-    {
-      "key": "shopee:58265349883",
-      "marketplace": "shopee",
-      "id": "58265349883",
-      "title": "Caixa de Bombom Lacta Favoritos 250,6g",
-      "title_norm": "caixa de bombom lacta favoritos 250 6g",
-      "url": "https://shopee.com.br/product/1248266601/58265349883",
-      "affiliate_url": "https://s.shopee.com.br/7KwVvxpKGI",
-      "category": "Chegô",
-      "bucket": "chego",
-      "posted_ts": 1787851277,
-      "posted_at": "2026-08-27T17:21:17.958159+00:00",
-      "score": 83.16
-    },
-    {
-      "key": "shopee:58202241414",
-      "marketplace": "shopee",
-      "id": "58202241414",
-      "title": "YoPRO Chocolate 15g de proteínas 250ml - 12 unidades",
-      "title_norm": "yopro chocolate 15g de proteinas 250ml 12 unidades",
-      "url": "https://shopee.com.br/product/1685471497/58202241414",
-      "affiliate_url": "https://s.shopee.com.br/6fgp8jrrcE",
-      "category": "Loja Oficial Danone",
-      "bucket": "loja_oficial_danone",
-      "posted_ts": 1787851213,
-      "posted_at": "2026-08-27T17:20:13.405019+00:00",
-      "score": 83.67
-    },
-    {
-      "key": "shopee:22494167243",
-      "marketplace": "shopee",
-      "id": "22494167243",
-      "title": "Casca De Arroz Carbonizada Substrato Para Horta Jardim Plantas Vaso Cultivo Orquídea Terrário",
-      "title_norm": "casca de arroz carbonizada substrato para horta jardim plantas vaso cultivo orquidea terrario",
-      "url": "https://shopee.com.br/product/947844282/22494167243",
-      "affiliate_url": "https://s.shopee.com.br/2qU6ZhF37I",
-      "category": "VGL DISTRIBUIDORA",
-      "bucket": "vgl_distribuidora",
-      "posted_ts": 1787851149,
-      "posted_at": "2026-08-27T17:19:09.348199+00:00",
-      "score": 83.86
     }
   ],
-  "updated_at": "2026-09-05T17:02:40.776530+00:00"
+  "updated_at": "2026-09-05T17:18:46.865090+00:00"
 }
