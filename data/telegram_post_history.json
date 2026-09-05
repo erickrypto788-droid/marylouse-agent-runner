@@ -1,6 +1,34 @@
 {
   "posts": [
     {
+      "key": "shopee:22195041792",
+      "marketplace": "shopee",
+      "id": "22195041792",
+      "title": "Chinelo Piccadilly EVA Marshmallow C224 Off White - Feminino",
+      "title_norm": "chinelo piccadilly eva marshmallow c224 off white feminino",
+      "url": "https://shopee.com.br/product/1614877278/22195041792",
+      "affiliate_url": "https://s.shopee.com.br/5LBemEhfxG",
+      "category": "Centersportoficialmg",
+      "bucket": "calcados",
+      "posted_ts": 1788567467,
+      "posted_at": "2026-09-05T00:17:47.766624+00:00",
+      "score": 97.59
+    },
+    {
+      "key": "shopee:22299455857",
+      "marketplace": "shopee",
+      "id": "22299455857",
+      "title": "Bota Coturno Adventure Feminino Tênis Cano Curto Preto Rosa do 33 ao 40",
+      "title_norm": "bota coturno adventure feminino tenis cano curto preto rosa do 33 ao 40",
+      "url": "https://shopee.com.br/product/1788702793/22299455857",
+      "affiliate_url": "https://s.shopee.com.br/AKaKjQT2ay",
+      "category": "Shop da Ca",
+      "bucket": "calcados",
+      "posted_ts": 1788567403,
+      "posted_at": "2026-09-05T00:16:43.770168+00:00",
+      "score": 102.78
+    },
+    {
       "key": "shopee:23492477701",
       "marketplace": "shopee",
       "id": "23492477701",
@@ -13971,35 +13999,7 @@
       "posted_ts": 1787781797,
       "posted_at": "2026-08-26T22:03:17.385393+00:00",
       "score": 109.22
-    },
-    {
-      "key": "shopee:43904678165",
-      "marketplace": "shopee",
-      "id": "43904678165",
-      "title": "Leitor De Cartão SD USB C Para TF Adaptador Multiporta 3 Em 1 iPhone iPad MacBook Galaxy Laptop",
-      "title_norm": "leitor de cartao sd usb c para tf adaptador multiporta 3 em 1 iphone ipad macbook galaxy laptop",
-      "url": "https://shopee.com.br/product/1006215031/43904678165",
-      "affiliate_url": "https://s.shopee.com.br/LmkGfcsGX",
-      "category": "Choice Oficial",
-      "bucket": "celulares",
-      "posted_ts": 1787779268,
-      "posted_at": "2026-08-26T21:21:08.746998+00:00",
-      "score": 73.6
-    },
-    {
-      "key": "shopee:22397413514",
-      "marketplace": "shopee",
-      "id": "22397413514",
-      "title": "Kit com 3/6/12/20 Unidades Protetor Tampa Câmera Webcam Anti-espião Notbook Celular Tablet",
-      "title_norm": "kit com 3 6 12 20 unidades protetor tampa camera webcam anti espiao notbook celular tablet",
-      "url": "https://shopee.com.br/product/343762483/22397413514",
-      "affiliate_url": "https://s.shopee.com.br/qizXBbXrB",
-      "category": "CRUZEIRO ELETRO",
-      "bucket": "celulares",
-      "posted_ts": 1787779204,
-      "posted_at": "2026-08-26T21:20:04.261810+00:00",
-      "score": 74.49
     }
   ],
-  "updated_at": "2026-09-04T23:17:46.077348+00:00"
+  "updated_at": "2026-09-05T00:17:47.766638+00:00"
 }
