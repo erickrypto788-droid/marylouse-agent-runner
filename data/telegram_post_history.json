@@ -1,6 +1,34 @@
 {
   "posts": [
     {
+      "key": "shopee:58251784766",
+      "marketplace": "shopee",
+      "id": "58251784766",
+      "title": "Cabo Tipo C 100W | USB p/ Tipo C 60W | Turbo 1m 2m 3m | Android, iPhon 15 16 17 Tablet Notebook",
+      "title_norm": "cabo tipo c 100w usb p tipo c 60w turbo 1m 2m 3m android iphon 15 16 17 tablet notebook",
+      "url": "https://shopee.com.br/product/1514990552/58251784766",
+      "affiliate_url": "https://s.shopee.com.br/8AVqDaH4N0",
+      "category": "ZUPAX",
+      "bucket": "informatica",
+      "posted_ts": 1788571094,
+      "posted_at": "2026-09-05T01:18:14.592219+00:00",
+      "score": 71.21
+    },
+    {
+      "key": "shopee:22392685500",
+      "marketplace": "shopee",
+      "id": "22392685500",
+      "title": "Carregador iPhone Turbo Tipo-C 20W + Cabo Lightining para IPhone Carga rápida",
+      "title_norm": "carregador iphone turbo tipo c 20w cabo lightining para iphone carga rapida",
+      "url": "https://shopee.com.br/product/390307022/22392685500",
+      "affiliate_url": "https://s.shopee.com.br/112fgPmcAb",
+      "category": "ZSZ_brasil",
+      "bucket": "celulares",
+      "posted_ts": 1788571030,
+      "posted_at": "2026-09-05T01:17:10.448596+00:00",
+      "score": 109.77
+    },
+    {
       "key": "shopee:22195041792",
       "marketplace": "shopee",
       "id": "22195041792",
@@ -13971,35 +13999,7 @@
       "posted_ts": 1787782675,
       "posted_at": "2026-08-26T22:17:55.769800+00:00",
       "score": 89.95
-    },
-    {
-      "key": "shopee:44606891787",
-      "marketplace": "shopee",
-      "id": "44606891787",
-      "title": "Panela Arroz Eletrica Fmaxx 10 Xicaras 1.8l 700w Prateado 127v 60hz",
-      "title_norm": "panela arroz eletrica fmaxx 10 xicaras 1 8l 700w prateado 127v 60hz",
-      "url": "https://shopee.com.br/product/1512106181/44606891787",
-      "affiliate_url": "https://s.shopee.com.br/60R75Cop5m",
-      "category": "Shop.EV",
-      "bucket": "casa_cozinha",
-      "posted_ts": 1787782611,
-      "posted_at": "2026-08-26T22:16:51.684598+00:00",
-      "score": 133.92
-    },
-    {
-      "key": "mercadolivre:MLB7270317740",
-      "marketplace": "mercadolivre",
-      "id": "MLB7270317740",
-      "title": "Jogo Panelas Ipanema 5 Peças Preto Nacional",
-      "title_norm": "jogo panelas ipanema 5 pecas preto nacional",
-      "url": "https://www.mercadolivre.com.br/p/MLB75817439?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB75817439?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "category": "Casa e Cozinha",
-      "bucket": "casa_cozinha",
-      "posted_ts": 1787781797,
-      "posted_at": "2026-08-26T22:03:17.385393+00:00",
-      "score": 109.22
     }
   ],
-  "updated_at": "2026-09-05T00:17:47.766638+00:00"
+  "updated_at": "2026-09-05T01:18:14.592235+00:00"
 }
