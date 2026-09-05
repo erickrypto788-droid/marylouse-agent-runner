@@ -1,6 +1,20 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB7193068554",
+      "marketplace": "mercadolivre",
+      "id": "MLB7193068554",
+      "title": "Aparelho Monitor Pressão Arterial Automático Digital Braço",
+      "title_norm": "aparelho monitor pressao arterial automatico digital braco",
+      "url": "https://www.mercadolivre.com.br/p/MLB64282130?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB64282130?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Informática",
+      "bucket": "saude",
+      "posted_ts": 1788616951,
+      "posted_at": "2026-09-05T14:02:31.747251+00:00",
+      "score": 97.14
+    },
+    {
       "key": "shopee:58202241414",
       "marketplace": "shopee",
       "id": "58202241414",
@@ -13985,21 +13999,7 @@
       "posted_ts": 1787833322,
       "posted_at": "2026-08-27T12:22:02.345767+00:00",
       "score": 64.42
-    },
-    {
-      "key": "shopee:18899381113",
-      "marketplace": "shopee",
-      "id": "18899381113",
-      "title": "TOALHA UMEDECIDA PACK MEU BEBE ULTRA 500 FOLHAS - Caixa com 10 Pacotes de 50 Unidades",
-      "title_norm": "toalha umedecida pack meu bebe ultra 500 folhas caixa com 10 pacotes de 50 unidades",
-      "url": "https://shopee.com.br/product/1314901350/18899381113",
-      "affiliate_url": "https://s.shopee.com.br/W6BSmYt9G",
-      "category": "mundoencantadoLTDA",
-      "bucket": "mundoencantadoltda",
-      "posted_ts": 1787833258,
-      "posted_at": "2026-08-27T12:20:58.356401+00:00",
-      "score": 70.28
     }
   ],
-  "updated_at": "2026-09-05T13:21:55.578662+00:00"
+  "updated_at": "2026-09-05T14:02:31.747268+00:00"
 }

@@ -1,6 +1,21 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB7193068554",
+      "product_id": "MLB7193068554",
+      "catalog_product_id": "MLB64282130",
+      "item_id": "MLB7193068554",
+      "url": "https://www.mercadolivre.com.br/p/MLB64282130?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB64282130?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "aparelho monitor pressao arterial automatico digital braco",
+      "title": "Aparelho Monitor Pressão Arterial Automático Digital Braço",
+      "category": "Informática",
+      "price": 81.85,
+      "score": 97.14,
+      "posted_ts": 1788616951,
+      "posted_at": "2026-09-05T14:02:31.758552+00:00"
+    },
+    {
       "key": "mercadolivre:MLB5163748079",
       "product_id": "MLB5163748079",
       "catalog_product_id": "MLB29728116",
@@ -344,22 +359,7 @@
       "score": 130.0,
       "posted_ts": 1788447940,
       "posted_at": "2026-09-03T15:05:40.270994+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB5095655201",
-      "product_id": "MLB5095655201",
-      "catalog_product_id": "MLB50110319",
-      "item_id": "MLB5095655201",
-      "url": "https://www.mercadolivre.com.br/p/MLB50110319?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB50110319?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "impressora etiquetas codigo barras 1 000 etiquetas cor branco",
-      "title": "Impressora Etiquetas Código Barras + 1.000 Etiquetas Cor Branco",
-      "category": "Informática",
-      "price": 448.99,
-      "score": 86.0,
-      "posted_ts": 1788440568,
-      "posted_at": "2026-09-03T13:02:48.342304+00:00"
     }
   ],
-  "updated_at": "2026-09-05T12:02:49.491319+00:00"
+  "updated_at": "2026-09-05T14:02:31.758562+00:00"
 }
