@@ -1,6 +1,36 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB4440801288",
+      "product_id": "MLB4440801288",
+      "catalog_product_id": "MLB32548731",
+      "item_id": "MLB4440801288",
+      "url": "https://www.mercadolivre.com.br/p/MLB32548731?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB32548731?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "jogo panelas vermelho aluminio fundido usinado javaliaa26a30",
+      "title": "Jogo Panelas Vermelho Alumínio Fundido Usinado Javaliaa26a30",
+      "category": "Casa e Cozinha",
+      "price": 765.1,
+      "score": 111.0,
+      "posted_ts": 1788581073,
+      "posted_at": "2026-09-05T04:04:33.939313+00:00"
+    },
+    {
+      "key": "mercadolivre:MLB5131124851",
+      "product_id": "MLB5131124851",
+      "catalog_product_id": "MLB78269423",
+      "item_id": "MLB5131124851",
+      "url": "https://www.mercadolivre.com.br/p/MLB78269423?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB78269423?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "conjunto panelas antiaderente 8 pecas teflon preto",
+      "title": "Conjunto Panelas Antiaderente 8 Peças Teflon Preto",
+      "category": "Casa e Cozinha",
+      "price": 477.9,
+      "score": 133.53,
+      "posted_ts": 1788581009,
+      "posted_at": "2026-09-05T04:03:29.276432+00:00"
+    },
+    {
       "key": "mercadolivre:MLB5847767930",
       "product_id": "MLB5847767930",
       "catalog_product_id": "MLB60550872",
@@ -376,5 +406,5 @@
       "posted_at": "2026-09-03T05:02:50.709629+00:00"
     }
   ],
-  "updated_at": "2026-09-05T02:07:20.833404+00:00"
+  "updated_at": "2026-09-05T04:04:33.939321+00:00"
 }

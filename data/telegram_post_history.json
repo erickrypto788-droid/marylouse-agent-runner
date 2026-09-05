@@ -1,6 +1,34 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB4440801288",
+      "marketplace": "mercadolivre",
+      "id": "MLB4440801288",
+      "title": "Jogo Panelas Vermelho Alumínio Fundido Usinado Javaliaa26a30",
+      "title_norm": "jogo panelas vermelho aluminio fundido usinado javaliaa26a30",
+      "url": "https://www.mercadolivre.com.br/p/MLB32548731?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB32548731?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Casa e Cozinha",
+      "bucket": "casa_cozinha",
+      "posted_ts": 1788581073,
+      "posted_at": "2026-09-05T04:04:33.926090+00:00",
+      "score": 111.0
+    },
+    {
+      "key": "mercadolivre:MLB5131124851",
+      "marketplace": "mercadolivre",
+      "id": "MLB5131124851",
+      "title": "Conjunto Panelas Antiaderente 8 Peças Teflon Preto",
+      "title_norm": "conjunto panelas antiaderente 8 pecas teflon preto",
+      "url": "https://www.mercadolivre.com.br/p/MLB78269423?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB78269423?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Casa e Cozinha",
+      "bucket": "casa_cozinha",
+      "posted_ts": 1788581009,
+      "posted_at": "2026-09-05T04:03:29.262776+00:00",
+      "score": 133.53
+    },
+    {
       "key": "shopee:44074380649",
       "marketplace": "shopee",
       "id": "44074380649",
@@ -13971,35 +13999,7 @@
       "posted_ts": 1787793664,
       "posted_at": "2026-08-27T01:21:04.182276+00:00",
       "score": 58.1
-    },
-    {
-      "key": "shopee:22298489117",
-      "marketplace": "shopee",
-      "id": "22298489117",
-      "title": "Calça Jogger Run P ao G4 Tactel com Elastano para Treino Esportiva Masculina Original com Punho",
-      "title_norm": "calca jogger run p ao g4 tactel com elastano para treino esportiva masculina original com punho",
-      "url": "https://shopee.com.br/product/1291576037/22298489117",
-      "affiliate_url": "https://s.shopee.com.br/5VUqgeXLhe",
-      "category": "FIT TEXTIL",
-      "bucket": "fit_textil",
-      "posted_ts": 1787793599,
-      "posted_at": "2026-08-27T01:19:59.968751+00:00",
-      "score": 84.32
-    },
-    {
-      "key": "shopee:20299259734",
-      "marketplace": "shopee",
-      "id": "20299259734",
-      "title": "Kit 5 ou 10 Cuecas Boxer Masculinas Polo Wear Microfibra Leve e Elástico Confortável",
-      "title_norm": "kit 5 ou 10 cuecas boxer masculinas polo wear microfibra leve e elastico confortavel",
-      "url": "https://shopee.com.br/product/702234204/20299259734",
-      "affiliate_url": "https://s.shopee.com.br/5VUqgegDYW",
-      "category": "LuckBaby Modas",
-      "bucket": "luckbaby_modas",
-      "posted_ts": 1787793535,
-      "posted_at": "2026-08-27T01:18:55.914579+00:00",
-      "score": 84.56
     }
   ],
-  "updated_at": "2026-09-05T03:21:02.965545+00:00"
+  "updated_at": "2026-09-05T04:04:33.926102+00:00"
 }
