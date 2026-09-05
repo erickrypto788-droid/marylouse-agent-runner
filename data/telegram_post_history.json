@@ -1,6 +1,48 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB5909017866",
+      "marketplace": "mercadolivre",
+      "id": "MLB5909017866",
+      "title": "Blusa Camisa Feminina Proteção Solar Bike Jetski Pesca Praia Cor Branco Tamanho M",
+      "title_norm": "blusa camisa feminina protecao solar bike jetski pesca praia cor branco tamanho m",
+      "url": "https://www.mercadolivre.com.br/p/MLB61770185?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB61770185?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Moda Feminina",
+      "bucket": "moda_feminina",
+      "posted_ts": 1788642319,
+      "posted_at": "2026-09-05T21:05:19.684874+00:00",
+      "score": 88.0
+    },
+    {
+      "key": "mercadolivre:MLB6948409966",
+      "marketplace": "mercadolivre",
+      "id": "MLB6948409966",
+      "title": "Colete Academia Dry Fit Feminino Leve Cor Branco Tamanho M",
+      "title_norm": "colete academia dry fit feminino leve cor branco tamanho m",
+      "url": "https://www.mercadolivre.com.br/p/MLB73204410?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB73204410?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Moda Feminina",
+      "bucket": "moda_feminina",
+      "posted_ts": 1788642255,
+      "posted_at": "2026-09-05T21:04:15.748411+00:00",
+      "score": 105.86
+    },
+    {
+      "key": "mercadolivre:MLB6596282078",
+      "marketplace": "mercadolivre",
+      "id": "MLB6596282078",
+      "title": "Saída Praia Tule Kimono Amarração Short Feminino Verão Laranja M",
+      "title_norm": "saida praia tule kimono amarracao short feminino verao laranja m",
+      "url": "https://www.mercadolivre.com.br/p/MLB67745838?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB67745838?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Moda Feminina",
+      "bucket": "pet",
+      "posted_ts": 1788642190,
+      "posted_at": "2026-09-05T21:03:10.999076+00:00",
+      "score": 113.0
+    },
+    {
       "key": "shopee:22498192456",
       "marketplace": "shopee",
       "id": "22498192456",
@@ -13957,49 +13999,7 @@
       "posted_ts": 1787872700,
       "posted_at": "2026-08-27T23:18:20.639209+00:00",
       "score": 98.7
-    },
-    {
-      "key": "shopee:23694435102",
-      "marketplace": "shopee",
-      "id": "23694435102",
-      "title": "Sandália Rasteira Feminina com Nó Bico Quadrado Confortável e Elegante para Dia a Dia",
-      "title_norm": "sandalia rasteira feminina com no bico quadrado confortavel e elegante para dia a dia",
-      "url": "https://shopee.com.br/product/1482605304/23694435102",
-      "affiliate_url": "https://s.shopee.com.br/1qbYWGfSrH",
-      "category": "GOIS E MORAIS",
-      "bucket": "calcados",
-      "posted_ts": 1787872636,
-      "posted_at": "2026-08-27T23:17:16.468518+00:00",
-      "score": 109.8
-    },
-    {
-      "key": "mercadolivre:MLB7420274710",
-      "marketplace": "mercadolivre",
-      "id": "MLB7420274710",
-      "title": "Xiaomi Redmi Note 15",
-      "title_norm": "xiaomi redmi note 15",
-      "url": "https://www.mercadolivre.com.br/p/MLB74419020?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB74419020?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "category": "Informática",
-      "bucket": "celulares",
-      "posted_ts": 1787871831,
-      "posted_at": "2026-08-27T23:03:51.194748+00:00",
-      "score": 124.0
-    },
-    {
-      "key": "mercadolivre:MLB5919313906",
-      "marketplace": "mercadolivre",
-      "id": "MLB5919313906",
-      "title": "Carregador Portátil 20000mAh Bahrein Power Bank Universal Power Bank Carga Rápida Com Display Bahrein Compatível Com Todos Celulares Iphone Android IOS apple xiaomi Samsung Motorola",
-      "title_norm": "carregador portatil 20000mah bahrein power bank universal power bank carga rapida com display bahrein compativel com todos celulares iphone android ios apple xiaomi samsung motorola",
-      "url": "https://www.mercadolivre.com.br/p/MLB24099360?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB24099360?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "category": "Informática",
-      "bucket": "celulares",
-      "posted_ts": 1787871766,
-      "posted_at": "2026-08-27T23:02:46.979325+00:00",
-      "score": 149.86
     }
   ],
-  "updated_at": "2026-09-05T20:20:04.400382+00:00"
+  "updated_at": "2026-09-05T21:05:19.684889+00:00"
 }
