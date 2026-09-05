@@ -1,6 +1,21 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB5152165069",
+      "product_id": "MLB5152165069",
+      "catalog_product_id": "MLB16377075",
+      "item_id": "MLB5152165069",
+      "url": "https://www.mercadolivre.com.br/p/MLB16377075?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB16377075?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "modem roteador wifi intelbras wifiber 121ac gpon",
+      "title": "Modem Roteador Wifi Intelbras Wifiber 121ac Gpon",
+      "category": "Informática",
+      "price": 389.99,
+      "score": 86.0,
+      "posted_ts": 1788602541,
+      "posted_at": "2026-09-05T10:02:21.059822+00:00"
+    },
+    {
       "key": "mercadolivre:MLB4440801288",
       "product_id": "MLB4440801288",
       "catalog_product_id": "MLB32548731",
@@ -359,52 +374,7 @@
       "score": 187.63,
       "posted_ts": 1788429823,
       "posted_at": "2026-09-03T10:03:43.589808+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB7426398952",
-      "product_id": "MLB7426398952",
-      "catalog_product_id": "MLB77446522",
-      "item_id": "MLB7426398952",
-      "url": "https://www.mercadolivre.com.br/p/MLB77446522?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB77446522?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "ulefone note 18 ultra 256gb 6gb ram celular 5g 5450mah camera 50mp branco",
-      "title": "Ulefone Note 18 Ultra 256GB 6GB RAM Celular 5G 5450mAh Câmera 50MP Branco",
-      "category": "Informática",
-      "price": 1965.43,
-      "score": 108.0,
-      "posted_ts": 1788422568,
-      "posted_at": "2026-09-03T08:02:48.473771+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB6483255322",
-      "product_id": "MLB6483255322",
-      "catalog_product_id": "MLB62010143",
-      "item_id": "MLB6483255322",
-      "url": "https://www.mercadolivre.com.br/p/MLB62010143?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB62010143?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "fone bluetooth redmi",
-      "title": "Fone Bluetooth Redmi",
-      "category": "Informática",
-      "price": 35.0,
-      "score": 98.22,
-      "posted_ts": 1788419032,
-      "posted_at": "2026-09-03T07:03:52.338619+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB5297261932",
-      "product_id": "MLB5297261932",
-      "catalog_product_id": "MLB45785598",
-      "item_id": "MLB5297261932",
-      "url": "https://www.mercadolivre.com.br/p/MLB45785598?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB45785598?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "brinquedo lider kit ferramentas 2381",
-      "title": "Brinquedo Lider Kit Ferramentas - 2381",
-      "category": "Ferramentas",
-      "price": 119.0,
-      "score": 88.0,
-      "posted_ts": 1788411770,
-      "posted_at": "2026-09-03T05:02:50.709629+00:00"
     }
   ],
-  "updated_at": "2026-09-05T04:04:33.939321+00:00"
+  "updated_at": "2026-09-05T10:02:21.059831+00:00"
 }

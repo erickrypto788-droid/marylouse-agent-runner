@@ -1,6 +1,20 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB5152165069",
+      "marketplace": "mercadolivre",
+      "id": "MLB5152165069",
+      "title": "Modem Roteador Wifi Intelbras Wifiber 121ac Gpon",
+      "title_norm": "modem roteador wifi intelbras wifiber 121ac gpon",
+      "url": "https://www.mercadolivre.com.br/p/MLB16377075?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB16377075?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Informática",
+      "bucket": "informatica",
+      "posted_ts": 1788602541,
+      "posted_at": "2026-09-05T10:02:21.045839+00:00",
+      "score": 86.0
+    },
+    {
       "key": "shopee:22817161009",
       "marketplace": "shopee",
       "id": "22817161009",
@@ -13985,21 +13999,7 @@
       "posted_ts": 1787822207,
       "posted_at": "2026-08-27T09:16:47.364689+00:00",
       "score": 130.28
-    },
-    {
-      "key": "mercadolivre:MLB4871337061",
-      "marketplace": "mercadolivre",
-      "id": "MLB4871337061",
-      "title": "Quatree gourmet ração cachorro filhotes Premium 20kg",
-      "title_norm": "quatree gourmet racao cachorro filhotes premium 20kg",
-      "url": "https://www.mercadolivre.com.br/p/MLB36069603?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB36069603?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "category": "Pet",
-      "bucket": "pet",
-      "posted_ts": 1787821360,
-      "posted_at": "2026-08-27T09:02:40.488561+00:00",
-      "score": 113.0
     }
   ],
-  "updated_at": "2026-09-05T09:21:09.444134+00:00"
+  "updated_at": "2026-09-05T10:02:21.045853+00:00"
 }
