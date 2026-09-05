@@ -1,6 +1,21 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB7513707254",
+      "product_id": "MLB7513707254",
+      "catalog_product_id": "MLB57578486",
+      "item_id": "MLB7513707254",
+      "url": "https://www.mercadolivre.com.br/p/MLB57578486?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB57578486?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "mini impressora niimbot b1 etiqueta bluetooth cor prateado impressora etiquetas adesivas",
+      "title": "Mini Impressora Niimbot B1 etiqueta Bluetooth Cor Prateado impressora etiquetas adesivas",
+      "category": "Informática",
+      "price": 209.99,
+      "score": 88.0,
+      "posted_ts": 1788627760,
+      "posted_at": "2026-09-05T17:02:40.787524+00:00"
+    },
+    {
       "key": "mercadolivre:MLB4552727020",
       "product_id": "MLB4552727020",
       "catalog_product_id": "MLB23076913",
@@ -361,5 +376,5 @@
       "posted_at": "2026-09-03T17:03:47.372396+00:00"
     }
   ],
-  "updated_at": "2026-09-05T16:03:41.130849+00:00"
+  "updated_at": "2026-09-05T17:02:40.787535+00:00"
 }

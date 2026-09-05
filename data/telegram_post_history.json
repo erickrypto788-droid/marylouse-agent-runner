@@ -1,6 +1,20 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB7513707254",
+      "marketplace": "mercadolivre",
+      "id": "MLB7513707254",
+      "title": "Mini Impressora Niimbot B1 etiqueta Bluetooth Cor Prateado impressora etiquetas adesivas",
+      "title_norm": "mini impressora niimbot b1 etiqueta bluetooth cor prateado impressora etiquetas adesivas",
+      "url": "https://www.mercadolivre.com.br/p/MLB57578486?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB57578486?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Informática",
+      "bucket": "informatica",
+      "posted_ts": 1788627760,
+      "posted_at": "2026-09-05T17:02:40.776513+00:00",
+      "score": 88.0
+    },
+    {
       "key": "shopee:58203062102",
       "marketplace": "shopee",
       "id": "58203062102",
@@ -13985,21 +13999,7 @@
       "posted_ts": 1787851149,
       "posted_at": "2026-08-27T17:19:09.348199+00:00",
       "score": 83.86
-    },
-    {
-      "key": "shopee:57952762767",
-      "marketplace": "shopee",
-      "id": "57952762767",
-      "title": "Colágeno Verisol Tri Plus Tipo 1 Tipo 2 e 3 - 210g Bodyaction",
-      "title_norm": "colageno verisol tri plus tipo 1 tipo 2 e 3 210g bodyaction",
-      "url": "https://shopee.com.br/product/443076516/57952762767",
-      "affiliate_url": "https://s.shopee.com.br/BTLOnTo6z",
-      "category": "Bodyaction Oficial",
-      "bucket": "bodyaction_oficial",
-      "posted_ts": 1787851085,
-      "posted_at": "2026-08-27T17:18:05.126821+00:00",
-      "score": 85.17
     }
   ],
-  "updated_at": "2026-09-05T16:21:21.806283+00:00"
+  "updated_at": "2026-09-05T17:02:40.776530+00:00"
 }
