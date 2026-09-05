@@ -1,6 +1,20 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB4109571517",
+      "marketplace": "mercadolivre",
+      "id": "MLB4109571517",
+      "title": "Alimento Royal Canin Hair & Skin 3kg Ração Gato",
+      "title_norm": "alimento royal canin hair skin 3kg racao gato",
+      "url": "https://www.mercadolivre.com.br/p/MLB28523781?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB28523781?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Pet",
+      "bucket": "pet",
+      "posted_ts": 1788620539,
+      "posted_at": "2026-09-05T15:02:19.839959+00:00",
+      "score": 122.92
+    },
+    {
       "key": "shopee:23794223771",
       "marketplace": "shopee",
       "id": "23794223771",
@@ -13985,21 +13999,7 @@
       "posted_ts": 1787840205,
       "posted_at": "2026-08-27T14:16:45.067647+00:00",
       "score": 35.62
-    },
-    {
-      "key": "shopee:18697985049",
-      "marketplace": "shopee",
-      "id": "18697985049",
-      "title": "Bolsa Mala Academia Viagem Imagem Fitness Transversal Casual Masculino e Feminina--luna_hyq",
-      "title_norm": "bolsa mala academia viagem imagem fitness transversal casual masculino e feminina luna hyq",
-      "url": "https://shopee.com.br/product/932796296/18697985049",
-      "affiliate_url": "https://s.shopee.com.br/40g3hLo4n1",
-      "category": "Luna_HYQ",
-      "bucket": "bolsas",
-      "posted_ts": 1787836681,
-      "posted_at": "2026-08-27T13:18:01.606834+00:00",
-      "score": 102.71
     }
   ],
-  "updated_at": "2026-09-05T14:20:05.327037+00:00"
+  "updated_at": "2026-09-05T15:02:19.839972+00:00"
 }
