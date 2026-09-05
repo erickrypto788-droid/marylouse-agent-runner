@@ -1,6 +1,21 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB5163748079",
+      "product_id": "MLB5163748079",
+      "catalog_product_id": "MLB29728116",
+      "item_id": "MLB5163748079",
+      "url": "https://www.mercadolivre.com.br/p/MLB29728116?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB29728116?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "xiaomi poco poco x6 5g dual sim 256gb 12gb branco",
+      "title": "Xiaomi POCO Poco X6 5G Dual SIM 256GB/12GB Branco",
+      "category": "Informática",
+      "price": 2150.0,
+      "score": 124.0,
+      "posted_ts": 1788609769,
+      "posted_at": "2026-09-05T12:02:49.491282+00:00"
+    },
+    {
       "key": "mercadolivre:MLB5152165069",
       "product_id": "MLB5152165069",
       "catalog_product_id": "MLB16377075",
@@ -344,37 +359,7 @@
       "score": 86.0,
       "posted_ts": 1788440568,
       "posted_at": "2026-09-03T13:02:48.342304+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB4871337061",
-      "product_id": "MLB4871337061",
-      "catalog_product_id": "MLB36069603",
-      "item_id": "MLB4871337061",
-      "url": "https://www.mercadolivre.com.br/p/MLB36069603?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB36069603?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "quatree gourmet racao cachorro filhotes premium 20kg",
-      "title": "Quatree gourmet ração cachorro filhotes Premium 20kg",
-      "category": "Pet",
-      "price": 243.0,
-      "score": 113.0,
-      "posted_ts": 1788433366,
-      "posted_at": "2026-09-03T11:02:46.494229+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB7580832078",
-      "product_id": "MLB7580832078",
-      "catalog_product_id": "MLB77579661",
-      "item_id": "MLB7580832078",
-      "url": "https://www.mercadolivre.com.br/p/MLB77579661?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB77579661?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "difusor ar umidificador umidificador ar 1 5l humidifiicador ar ultrassonico umidificador domestico para quarto sala bercario operacao silenciosa umidificacao eficiente design compacto facil de usar",
-      "title": "Difusor Ar Umidificador Umidificador Ar 1.5l Humidifiicador Ar Ultrassonico Umidificador Doméstico Para Quarto Sala Berçário Operação Silenciosa Umidificação Eficiente Design Compacto Fácil De Usar",
-      "category": "Pet",
-      "price": 132.6,
-      "score": 187.63,
-      "posted_ts": 1788429823,
-      "posted_at": "2026-09-03T10:03:43.589808+00:00"
     }
   ],
-  "updated_at": "2026-09-05T10:02:21.059831+00:00"
+  "updated_at": "2026-09-05T12:02:49.491319+00:00"
 }

@@ -1,6 +1,20 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB5163748079",
+      "marketplace": "mercadolivre",
+      "id": "MLB5163748079",
+      "title": "Xiaomi POCO Poco X6 5G Dual SIM 256GB/12GB Branco",
+      "title_norm": "xiaomi poco poco x6 5g dual sim 256gb 12gb branco",
+      "url": "https://www.mercadolivre.com.br/p/MLB29728116?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB29728116?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Informática",
+      "bucket": "celulares",
+      "posted_ts": 1788609769,
+      "posted_at": "2026-09-05T12:02:49.476520+00:00",
+      "score": 124.0
+    },
+    {
       "key": "shopee:18499926834",
       "marketplace": "shopee",
       "id": "18499926834",
@@ -13985,21 +13999,7 @@
       "posted_ts": 1787825870,
       "posted_at": "2026-08-27T10:17:50.063760+00:00",
       "score": 82.0
-    },
-    {
-      "key": "shopee:58208382454",
-      "marketplace": "shopee",
-      "id": "58208382454",
-      "title": "Boneca K-Pop Musical Articulada 30Cm Guerreiras Do K-Pop Mira Rumi Zoe",
-      "title_norm": "boneca k pop musical articulada 30cm guerreiras do k pop mira rumi zoe",
-      "url": "https://shopee.com.br/product/1449932258/58208382454",
-      "affiliate_url": "https://s.shopee.com.br/6q0EsBEX6y",
-      "category": "OLJ IMPORTADOS",
-      "bucket": "olj_importados",
-      "posted_ts": 1787825803,
-      "posted_at": "2026-08-27T10:16:43.234814+00:00",
-      "score": 89.28
     }
   ],
-  "updated_at": "2026-09-05T11:25:49.781105+00:00"
+  "updated_at": "2026-09-05T12:02:49.476538+00:00"
 }
