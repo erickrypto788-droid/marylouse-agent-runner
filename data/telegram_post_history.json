@@ -1,6 +1,48 @@
 {
   "posts": [
     {
+      "key": "shopee:58255239538",
+      "marketplace": "shopee",
+      "id": "58255239538",
+      "title": "BABUCHE PLATAFORMA ALTA NUVEM MACIA 100 % DECORADA COM BÓTONS PINGENTES EM ABS CONFORTÁVEL",
+      "title_norm": "babuche plataforma alta nuvem macia 100 decorada com botons pingentes em abs confortavel",
+      "url": "https://shopee.com.br/product/1509055233/58255239538",
+      "affiliate_url": "https://s.shopee.com.br/6VNdQfN9Gm",
+      "category": "X&M Variedades",
+      "bucket": "x_m_variedades",
+      "posted_ts": 1788635927,
+      "posted_at": "2026-09-05T19:18:47.251543+00:00",
+      "score": 102.84
+    },
+    {
+      "key": "shopee:23999314273",
+      "marketplace": "shopee",
+      "id": "23999314273",
+      "title": "Tênis SNEEKS Feminino para Uso Diário Prático e Estiloso Super Promoção",
+      "title_norm": "tenis sneeks feminino para uso diario pratico e estiloso super promocao",
+      "url": "https://shopee.com.br/product/1737398657/23999314273",
+      "affiliate_url": "https://s.shopee.com.br/4LJ53p0C4b",
+      "category": "IRON Shop O2x",
+      "bucket": "calcados",
+      "posted_ts": 1788635863,
+      "posted_at": "2026-09-05T19:17:43.055081+00:00",
+      "score": 114.51
+    },
+    {
+      "key": "shopee:23293827748",
+      "marketplace": "shopee",
+      "id": "23293827748",
+      "title": "Bota Feminina GiGiL Cano Longo Enrugado Slouch Bico Fino Salto Bloco Médio Elegante Clássica Casual",
+      "title_norm": "bota feminina gigil cano longo enrugado slouch bico fino salto bloco medio elegante classica casual",
+      "url": "https://shopee.com.br/product/387348115/23293827748",
+      "affiliate_url": "https://s.shopee.com.br/7Kwj9ueSgA",
+      "category": "GiGiL",
+      "bucket": "calcados",
+      "posted_ts": 1788635798,
+      "posted_at": "2026-09-05T19:16:38.966192+00:00",
+      "score": 115.68
+    },
+    {
       "key": "shopee:22494665073",
       "marketplace": "shopee",
       "id": "22494665073",
@@ -13957,49 +13999,7 @@
       "posted_ts": 1787861812,
       "posted_at": "2026-08-27T20:16:52.994769+00:00",
       "score": 91.52
-    },
-    {
-      "key": "shopee:52109854743",
-      "marketplace": "shopee",
-      "id": "52109854743",
-      "title": "kit 3 Blusinha de Alcinha Feminina Básica Suplex Justa Moda Verão  que sustenta sem sutiã e modela o corpo",
-      "title_norm": "kit 3 blusinha de alcinha feminina basica suplex justa moda verao que sustenta sem sutia e modela o corpo",
-      "url": "https://shopee.com.br/product/593487876/52109854743",
-      "affiliate_url": "https://s.shopee.com.br/50YbHtcuin",
-      "category": "Estilo.Básico",
-      "bucket": "estilo_basico",
-      "posted_ts": 1787858471,
-      "posted_at": "2026-08-27T19:21:11.807783+00:00",
-      "score": 96.53
-    },
-    {
-      "key": "shopee:43418578917",
-      "marketplace": "shopee",
-      "id": "43418578917",
-      "title": "Kit 4 Blusinha Regata - Tecido Suplex Alça Larga Elegante Lisa Confortável Basica",
-      "title_norm": "kit 4 blusinha regata tecido suplex alca larga elegante lisa confortavel basica",
-      "url": "https://shopee.com.br/product/1325732134/43418578917",
-      "affiliate_url": "https://s.shopee.com.br/AKa7dhRPVL",
-      "category": "GRUPO AS MULTI",
-      "bucket": "grupo_as_multi",
-      "posted_ts": 1787858407,
-      "posted_at": "2026-08-27T19:20:07.757039+00:00",
-      "score": 96.87
-    },
-    {
-      "key": "shopee:58206364376",
-      "marketplace": "shopee",
-      "id": "58206364376",
-      "title": "kit 3 Blusa Regata Alcinha Básica Com Forro Confortável Casual Verão Suplex Poliamida Com Forro",
-      "title_norm": "kit 3 blusa regata alcinha basica com forro confortavel casual verao suplex poliamida com forro",
-      "url": "https://shopee.com.br/product/751256827/58206364376",
-      "affiliate_url": "https://s.shopee.com.br/9V10eAUaCC",
-      "category": "Oskley",
-      "bucket": "oskley",
-      "posted_ts": 1787858337,
-      "posted_at": "2026-08-27T19:18:57.591561+00:00",
-      "score": 97.61
     }
   ],
-  "updated_at": "2026-09-05T18:17:42.928557+00:00"
+  "updated_at": "2026-09-05T19:18:47.251557+00:00"
 }
