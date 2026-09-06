@@ -1,6 +1,36 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB7413459282",
+      "product_id": "MLB7413459282",
+      "catalog_product_id": "MLB70606708",
+      "item_id": "MLB7413459282",
+      "url": "https://www.mercadolivre.com.br/p/MLB70606708?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB70606708?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "capa esteira ergometrica esteira athletic racer",
+      "title": "Capa Esteira Ergométrica Esteira Athletic Racer",
+      "category": "Esportes",
+      "price": 106.28,
+      "score": 61.0,
+      "posted_ts": 1788653048,
+      "posted_at": "2026-09-06T00:04:08.405021+00:00"
+    },
+    {
+      "key": "mercadolivre:MLB6815537068",
+      "product_id": "MLB6815537068",
+      "catalog_product_id": "MLB36405300",
+      "item_id": "MLB6815537068",
+      "url": "https://www.mercadolivre.com.br/p/MLB36405300?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB36405300?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "bike spinning ergometrica cor preto",
+      "title": "Bike Spinning Ergométrica Cor Preto",
+      "category": "Esportes",
+      "price": 1789.0,
+      "score": 83.0,
+      "posted_ts": 1788652984,
+      "posted_at": "2026-09-06T00:03:04.477378+00:00"
+    },
+    {
       "key": "mercadolivre:MLB5909017866",
       "product_id": "MLB5909017866",
       "catalog_product_id": "MLB61770185",
@@ -419,52 +449,7 @@
       "score": 183.67,
       "posted_ts": 1788487365,
       "posted_at": "2026-09-04T02:02:45.445481+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB7584337290",
-      "product_id": "MLB7584337290",
-      "catalog_product_id": "MLB24511657",
-      "item_id": "MLB7584337290",
-      "url": "https://www.mercadolivre.com.br/p/MLB24511657?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB24511657?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "ssd netac nv3000 ssd nvme m2 250gb",
-      "title": "SSD Netac Nv3000 Ssd Nvme M2 250gb",
-      "category": "Informática",
-      "price": 399.0,
-      "score": 111.0,
-      "posted_ts": 1788476617,
-      "posted_at": "2026-09-03T23:03:37.016666+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB4646305535",
-      "product_id": "MLB4646305535",
-      "catalog_product_id": "MLB68970992",
-      "item_id": "MLB4646305535",
-      "url": "https://www.mercadolivre.com.br/p/MLB68970992?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB68970992?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "serra circular eletrica makita serra circular sp6000j 165mm 1 3kw azul turquesa",
-      "title": "Serra Circular Elétrica Makita Serra Circular Sp6000j 165mm 1.3kw Azul-turquesa",
-      "category": "Ferramentas",
-      "price": 5001.76,
-      "score": 84.0,
-      "posted_ts": 1788473024,
-      "posted_at": "2026-09-03T22:03:44.450372+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB6574930760",
-      "product_id": "MLB6574930760",
-      "catalog_product_id": "MLB67606890",
-      "item_id": "MLB6574930760",
-      "url": "https://www.mercadolivre.com.br/p/MLB67606890?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB67606890?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "parafusadeira stanley parafusadeira ganhe bateria 20v",
-      "title": "Parafusadeira STANLEY + Parafusadeira + Ganhe Bateria 20V",
-      "category": "Ferramentas",
-      "price": 1526.0,
-      "score": 162.38,
-      "posted_ts": 1788472960,
-      "posted_at": "2026-09-03T22:02:40.077477+00:00"
     }
   ],
-  "updated_at": "2026-09-05T21:05:19.696100+00:00"
+  "updated_at": "2026-09-06T00:04:08.405036+00:00"
 }
