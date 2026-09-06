@@ -1,6 +1,48 @@
 {
   "posts": [
     {
+      "key": "shopee:22693513091",
+      "marketplace": "shopee",
+      "id": "22693513091",
+      "title": "Bolsa de Ombra Feminina com Alça Ajustável, Bolsa Feminina Elegante com Couro Sintetico Preto, Presente",
+      "title_norm": "bolsa de ombra feminina com alca ajustavel bolsa feminina elegante com couro sintetico preto presente",
+      "url": "https://shopee.com.br/product/1345043704/22693513091",
+      "affiliate_url": "https://s.shopee.com.br/80CRoVPu22",
+      "category": "Romantic Crown 02",
+      "bucket": "bolsas",
+      "posted_ts": 1788668325,
+      "posted_at": "2026-09-06T04:18:45.408164+00:00",
+      "score": 121.0
+    },
+    {
+      "key": "shopee:23497594302",
+      "marketplace": "shopee",
+      "id": "23497594302",
+      "title": "ROMANTIC CROWN Mochla de Viagem MascuIino e Feminina ImpermeaveI Reforçada Executiva para Notebook",
+      "title_norm": "romantic crown mochla de viagem mascuiino e feminina impermeavei reforcada executiva para notebook",
+      "url": "https://shopee.com.br/product/1198407784/23497594302",
+      "affiliate_url": "https://s.shopee.com.br/8V8iPQO017",
+      "category": "Romantic Crown.02",
+      "bucket": "informatica",
+      "posted_ts": 1788668261,
+      "posted_at": "2026-09-06T04:17:41.483315+00:00",
+      "score": 146.0
+    },
+    {
+      "key": "shopee:22497773735",
+      "marketplace": "shopee",
+      "id": "22497773735",
+      "title": "Mochila Vlagem Feminina Masculinas Multifuncional Reforçada Impermeável Expansível Mochila Notebook Antifurto USB",
+      "title_norm": "mochila vlagem feminina masculinas multifuncional reforcada impermeavel expansivel mochila notebook antifurto usb",
+      "url": "https://shopee.com.br/product/1345043704/22497773735",
+      "affiliate_url": "https://s.shopee.com.br/1A6Z4a8Xm",
+      "category": "Romantic Crown 02",
+      "bucket": "informatica",
+      "posted_ts": 1788668197,
+      "posted_at": "2026-09-06T04:16:37.572855+00:00",
+      "score": 146.0
+    },
+    {
       "key": "shopee:22694017124",
       "marketplace": "shopee",
       "id": "22694017124",
@@ -13957,49 +13999,7 @@
       "posted_ts": 1787905286,
       "posted_at": "2026-08-28T08:21:26.747356+00:00",
       "score": 65.0
-    },
-    {
-      "key": "shopee:23232308359",
-      "marketplace": "shopee",
-      "id": "23232308359",
-      "title": "Colchão Carrinho Moises Colchonete Fronha 100% Algodão Menino Menina Neutro Confortável",
-      "title_norm": "colchao carrinho moises colchonete fronha 100 algodao menino menina neutro confortavel",
-      "url": "https://shopee.com.br/product/344410462/23232308359",
-      "affiliate_url": "https://s.shopee.com.br/2qU6F4YfSC",
-      "category": "Maratona do Bebê",
-      "bucket": "maratona_do_bebe",
-      "posted_ts": 1787905216,
-      "posted_at": "2026-08-28T08:20:16.530966+00:00",
-      "score": 86.54
-    },
-    {
-      "key": "shopee:22297737586",
-      "marketplace": "shopee",
-      "id": "22297737586",
-      "title": "Huggies Fralda Descartável Máxima Proteção XXXL - 42 Un",
-      "title_norm": "huggies fralda descartavel maxima protecao xxxl 42 un",
-      "url": "https://shopee.com.br/product/1261893889/22297737586",
-      "affiliate_url": "https://s.shopee.com.br/gPbf5TiYO",
-      "category": "Oficial Huggies",
-      "bucket": "fraldas",
-      "posted_ts": 1787905147,
-      "posted_at": "2026-08-28T08:19:07.177314+00:00",
-      "score": 89.65
-    },
-    {
-      "key": "shopee:20999680446",
-      "marketplace": "shopee",
-      "id": "20999680446",
-      "title": "Triciclo Carrinho Motoca C/ Guia Passeio e Pedal Avespa Colorido Infantil Empurrador",
-      "title_norm": "triciclo carrinho motoca c guia passeio e pedal avespa colorido infantil empurrador",
-      "url": "https://shopee.com.br/product/504754787/20999680446",
-      "affiliate_url": "https://s.shopee.com.br/2VrHAsHls6",
-      "category": "Zociella Kids",
-      "bucket": "zociella_kids",
-      "posted_ts": 1787905077,
-      "posted_at": "2026-08-28T08:17:57.378630+00:00",
-      "score": 89.91
     }
   ],
-  "updated_at": "2026-09-06T03:21:09.996011+00:00"
+  "updated_at": "2026-09-06T04:18:45.408179+00:00"
 }
