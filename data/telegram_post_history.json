@@ -1,6 +1,20 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB6290574990",
+      "marketplace": "mercadolivre",
+      "id": "MLB6290574990",
+      "title": "Aparelho Monitor Pressão Arterial Portátil Pulso Omron",
+      "title_norm": "aparelho monitor pressao arterial portatil pulso omron",
+      "url": "https://www.mercadolivre.com.br/p/MLB22958206?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB22958206?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Informática",
+      "bucket": "saude",
+      "posted_ts": 1788681753,
+      "posted_at": "2026-09-06T08:02:33.072282+00:00",
+      "score": 158.16
+    },
+    {
       "key": "shopee:19999598604",
       "marketplace": "shopee",
       "id": "19999598604",
@@ -13985,21 +13999,7 @@
       "posted_ts": 1787923153,
       "posted_at": "2026-08-28T13:19:13.016019+00:00",
       "score": 94.89
-    },
-    {
-      "key": "shopee:22198305072",
-      "marketplace": "shopee",
-      "id": "22198305072",
-      "title": "Creme de Tratamento 3 em 1 Cachos dos Sonhos Multy Chocolate 1kg",
-      "title_norm": "creme de tratamento 3 em 1 cachos dos sonhos multy chocolate 1kg",
-      "url": "https://shopee.com.br/product/616222685/22198305072",
-      "affiliate_url": "https://s.shopee.com.br/3VjnMv3v2i",
-      "category": "Salon Line",
-      "bucket": "salon_line",
-      "posted_ts": 1787923088,
-      "posted_at": "2026-08-28T13:18:08.756410+00:00",
-      "score": 102.36
     }
   ],
-  "updated_at": "2026-09-06T07:22:23.389275+00:00"
+  "updated_at": "2026-09-06T08:02:33.072296+00:00"
 }
