@@ -1,6 +1,48 @@
 {
   "posts": [
     {
+      "key": "shopee:23599239610",
+      "marketplace": "shopee",
+      "id": "23599239610",
+      "title": "Sandália Feminina Conforto Premium Com Detalhe Dourado Elegante | Casual E Sofisticada GABI",
+      "title_norm": "sandalia feminina conforto premium com detalhe dourado elegante casual e sofisticada gabi",
+      "url": "https://shopee.com.br/product/1648608636/23599239610",
+      "affiliate_url": "https://s.shopee.com.br/2gAurcontW",
+      "category": "cravorosa267",
+      "bucket": "calcados",
+      "posted_ts": 1788704332,
+      "posted_at": "2026-09-06T14:18:52.125033+00:00",
+      "score": 114.27
+    },
+    {
+      "key": "shopee:22294416370",
+      "marketplace": "shopee",
+      "id": "22294416370",
+      "title": "Sandália Feminina Asa Delta Rasteira Conforto Medalhas Douradas com Fivela Reveillon",
+      "title_norm": "sandalia feminina asa delta rasteira conforto medalhas douradas com fivela reveillon",
+      "url": "https://shopee.com.br/product/1022219186/22294416370",
+      "affiliate_url": "https://s.shopee.com.br/5AsFqDfHp3",
+      "category": "Eudorashoes",
+      "bucket": "calcados",
+      "posted_ts": 1788704268,
+      "posted_at": "2026-09-06T14:17:48.124585+00:00",
+      "score": 126.41
+    },
+    {
+      "key": "shopee:22799040705",
+      "marketplace": "shopee",
+      "id": "22799040705",
+      "title": "Sandália Papete Feminina Ortopédica com Elástico Confortável Moderna com Palmilha Massageadora",
+      "title_norm": "sandalia papete feminina ortopedica com elastico confortavel moderna com palmilha massageadora",
+      "url": "https://shopee.com.br/product/420347720/22799040705",
+      "affiliate_url": "https://s.shopee.com.br/AAGvnPDad1",
+      "category": "Ploomer Premium",
+      "bucket": "pet",
+      "posted_ts": 1788704204,
+      "posted_at": "2026-09-06T14:16:44.092048+00:00",
+      "score": 128.02
+    },
+    {
       "key": "mercadolivre:MLB7059191208",
       "marketplace": "mercadolivre",
       "id": "MLB7059191208",
@@ -13957,49 +13999,7 @@
       "posted_ts": 1787959235,
       "posted_at": "2026-08-28T23:20:35.443881+00:00",
       "score": 87.26
-    },
-    {
-      "key": "shopee:58214519187",
-      "marketplace": "shopee",
-      "id": "58214519187",
-      "title": "Kit 6 Peças Roupa De Bebê Body Menina Animado Estampado Algodão",
-      "title_norm": "kit 6 pecas roupa de bebe body menina animado estampado algodao",
-      "url": "https://shopee.com.br/product/1700242901/58214519187",
-      "affiliate_url": "https://s.shopee.com.br/70JhWwsc9O",
-      "category": "Meu Bebê Kids",
-      "bucket": "meu_bebe_kids",
-      "posted_ts": 1787959171,
-      "posted_at": "2026-08-28T23:19:31.325559+00:00",
-      "score": 88.69
-    },
-    {
-      "key": "shopee:58263249722",
-      "marketplace": "shopee",
-      "id": "58263249722",
-      "title": "Boneca Vestido Cesta de Piquenique Infantil 10 Acessórios",
-      "title_norm": "boneca vestido cesta de piquenique infantil 10 acessorios",
-      "url": "https://shopee.com.br/product/1042151324/58263249722",
-      "affiliate_url": "https://s.shopee.com.br/4VcMYM6OUN",
-      "category": "Brincar Mais Brinquedos",
-      "bucket": "moda_feminina",
-      "posted_ts": 1787959070,
-      "posted_at": "2026-08-28T23:17:50.673490+00:00",
-      "score": 100.85
-    },
-    {
-      "key": "shopee:22793679889",
-      "marketplace": "shopee",
-      "id": "22793679889",
-      "title": "Tênis Infantil Calce Facil Feminino Bevolo Calçados",
-      "title_norm": "tenis infantil calce facil feminino bevolo calcados",
-      "url": "https://shopee.com.br/product/676684389/22793679889",
-      "affiliate_url": "https://s.shopee.com.br/904keKacSb",
-      "category": "Bevolo Calçados",
-      "bucket": "calcados",
-      "posted_ts": 1787959006,
-      "posted_at": "2026-08-28T23:16:46.527910+00:00",
-      "score": 117.35
     }
   ],
-  "updated_at": "2026-09-06T14:09:39.931199+00:00"
+  "updated_at": "2026-09-06T14:18:52.125052+00:00"
 }
