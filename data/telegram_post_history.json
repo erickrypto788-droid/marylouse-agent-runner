@@ -1,6 +1,48 @@
 {
   "posts": [
     {
+      "key": "shopee:23893703937",
+      "marketplace": "shopee",
+      "id": "23893703937",
+      "title": "Babuche Adulto Masculino E Feminino Personalizado",
+      "title_norm": "babuche adulto masculino e feminino personalizado",
+      "url": "https://shopee.com.br/product/1464624047/23893703937",
+      "affiliate_url": "https://s.shopee.com.br/3Vk1n2ENs2",
+      "category": "Passinhos Mágicos ",
+      "bucket": "passinhos_magicos",
+      "posted_ts": 1788700732,
+      "posted_at": "2026-09-06T13:18:52.609007+00:00",
+      "score": 98.22
+    },
+    {
+      "key": "shopee:58257600358",
+      "marketplace": "shopee",
+      "id": "58257600358",
+      "title": "Sapatenis Tenis kinit masculino  Palmilhas P.U GEL Estiloso para todas ocasiões",
+      "title_norm": "sapatenis tenis kinit masculino palmilhas p u gel estiloso para todas ocasioes",
+      "url": "https://shopee.com.br/product/1783515830/58257600358",
+      "affiliate_url": "https://s.shopee.com.br/6q0V1SGGju",
+      "category": "IG Ferreira Calçados",
+      "bucket": "calcados",
+      "posted_ts": 1788700668,
+      "posted_at": "2026-09-06T13:17:48.533756+00:00",
+      "score": 111.8
+    },
+    {
+      "key": "shopee:43981426348",
+      "marketplace": "shopee",
+      "id": "43981426348",
+      "title": "Tenis Masculino Escolar Academia Corrida Original FREEDOM Corrida Caminhada Lançamento EXCLUSIVO CINZA GRAVITE e LARANJA",
+      "title_norm": "tenis masculino escolar academia corrida original freedom corrida caminhada lancamento exclusivo cinza gravite e laranja",
+      "url": "https://shopee.com.br/product/387523771/43981426348",
+      "affiliate_url": "https://s.shopee.com.br/4AzjqYHpNT",
+      "category": "Cirandinha Shoes",
+      "bucket": "calcados",
+      "posted_ts": 1788700604,
+      "posted_at": "2026-09-06T13:16:44.340355+00:00",
+      "score": 124.01
+    },
+    {
       "key": "mercadolivre:MLB6711765758",
       "marketplace": "mercadolivre",
       "id": "MLB6711765758",
@@ -13957,49 +13999,7 @@
       "posted_ts": 1787955403,
       "posted_at": "2026-08-28T22:16:43.648718+00:00",
       "score": 140.72
-    },
-    {
-      "key": "shopee:23598236187",
-      "marketplace": "shopee",
-      "id": "23598236187",
-      "title": "Air Fryer Kitchen Art 16L 4 em 1 com Espeto Rotisserie KAF16A",
-      "title_norm": "air fryer kitchen art 16l 4 em 1 com espeto rotisserie kaf16a",
-      "url": "https://shopee.com.br/product/811034337/23598236187",
-      "affiliate_url": "https://s.shopee.com.br/gPcWg7S5C",
-      "category": "Philco Oficial",
-      "bucket": "casa_cozinha",
-      "posted_ts": 1787951929,
-      "posted_at": "2026-08-28T21:18:49.775685+00:00",
-      "score": 77.35
-    },
-    {
-      "key": "shopee:22193502150",
-      "marketplace": "shopee",
-      "id": "22193502150",
-      "title": "Mini elétrica antiaderente máquina de cozimento de bolo quiche/forno/máquina de ovo mini ferro 110V",
-      "title_norm": "mini eletrica antiaderente maquina de cozimento de bolo quiche forno maquina de ovo mini ferro 110v",
-      "url": "https://shopee.com.br/product/1371984973/22193502150",
-      "affiliate_url": "https://s.shopee.com.br/4VcMQ71lKn",
-      "category": "VIVA.SHOP",
-      "bucket": "viva_shop",
-      "posted_ts": 1787951865,
-      "posted_at": "2026-08-28T21:17:45.759871+00:00",
-      "score": 105.2
-    },
-    {
-      "key": "shopee:42565175368",
-      "marketplace": "shopee",
-      "id": "42565175368",
-      "title": "Aspirador de Pó Robô WAP Robot W100 3 em 1 Antiqueda Bivolt 17W",
-      "title_norm": "aspirador de po robo wap robot w100 3 em 1 antiqueda bivolt 17w",
-      "url": "https://shopee.com.br/product/359168917/42565175368",
-      "affiliate_url": "https://s.shopee.com.br/60RACrn7Fn",
-      "category": "LOI BRASIL",
-      "bucket": "casa_cozinha",
-      "posted_ts": 1787951801,
-      "posted_at": "2026-08-28T21:16:41.685720+00:00",
-      "score": 145.22
     }
   ],
-  "updated_at": "2026-09-06T13:06:21.830169+00:00"
+  "updated_at": "2026-09-06T13:18:52.609025+00:00"
 }
