@@ -1,6 +1,36 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB4552665179",
+      "product_id": "MLB4552665179",
+      "catalog_product_id": "MLB20818317",
+      "item_id": "MLB4552665179",
+      "url": "https://www.mercadolivre.com.br/p/MLB20818317?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB20818317?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "whey protein concentrado whey protein isolado cafeina",
+      "title": "Whey Protein Concentrado + Whey Protein Isolado + Cafeína",
+      "category": "Esportes",
+      "price": 658.0,
+      "score": 86.0,
+      "posted_ts": 1788714227,
+      "posted_at": "2026-09-06T17:03:47.819411+00:00"
+    },
+    {
+      "key": "mercadolivre:MLB6827581422",
+      "product_id": "MLB6827581422",
+      "catalog_product_id": "MLB70114350",
+      "item_id": "MLB6827581422",
+      "url": "https://www.mercadolivre.com.br/p/MLB70114350?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB70114350?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "prancha esteira ergometrica kikos e600ix preto",
+      "title": "Prancha Esteira Ergometrica Kikos E600ix Preto",
+      "category": "Esportes",
+      "price": 191.28,
+      "score": 120.27,
+      "posted_ts": 1788714158,
+      "posted_at": "2026-09-06T17:02:38.749550+00:00"
+    },
+    {
       "key": "mercadolivre:MLB6512536586",
       "product_id": "MLB6512536586",
       "catalog_product_id": "MLB25981434",
@@ -601,5 +631,5 @@
       "posted_at": "2026-09-04T19:02:54.772196+00:00"
     }
   ],
-  "updated_at": "2026-09-06T16:02:51.252056+00:00"
+  "updated_at": "2026-09-06T17:03:47.819418+00:00"
 }

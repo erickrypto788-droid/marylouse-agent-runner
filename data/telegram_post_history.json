@@ -1,6 +1,34 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB4552665179",
+      "marketplace": "mercadolivre",
+      "id": "MLB4552665179",
+      "title": "Whey Protein Concentrado + Whey Protein Isolado + Cafeína",
+      "title_norm": "whey protein concentrado whey protein isolado cafeina",
+      "url": "https://www.mercadolivre.com.br/p/MLB20818317?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB20818317?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Esportes",
+      "bucket": "esportes",
+      "posted_ts": 1788714227,
+      "posted_at": "2026-09-06T17:03:47.808130+00:00",
+      "score": 86.0
+    },
+    {
+      "key": "mercadolivre:MLB6827581422",
+      "marketplace": "mercadolivre",
+      "id": "MLB6827581422",
+      "title": "Prancha Esteira Ergometrica Kikos E600ix Preto",
+      "title_norm": "prancha esteira ergometrica kikos e600ix preto",
+      "url": "https://www.mercadolivre.com.br/p/MLB70114350?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB70114350?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Esportes",
+      "bucket": "esportes",
+      "posted_ts": 1788714158,
+      "posted_at": "2026-09-06T17:02:38.737672+00:00",
+      "score": 120.27
+    },
+    {
       "key": "shopee:18799069741",
       "marketplace": "shopee",
       "id": "18799069741",
@@ -13971,35 +13999,7 @@
       "posted_ts": 1787973478,
       "posted_at": "2026-08-29T03:17:58.072345+00:00",
       "score": 111.83
-    },
-    {
-      "key": "shopee:23392949484",
-      "marketplace": "shopee",
-      "id": "23392949484",
-      "title": "Aparelho Medidor De Pressão Arterial Digital De Braço Alta Precisão Com Instrução de Voz",
-      "title_norm": "aparelho medidor de pressao arterial digital de braco alta precisao com instrucao de voz",
-      "url": "https://shopee.com.br/product/1080128546/23392949484",
-      "affiliate_url": "https://s.shopee.com.br/3LQPMZ9FpH",
-      "category": "LEAO COMERCIO ",
-      "bucket": "saude",
-      "posted_ts": 1787973407,
-      "posted_at": "2026-08-29T03:16:47.616965+00:00",
-      "score": 112.74
-    },
-    {
-      "key": "shopee:23394139283",
-      "marketplace": "shopee",
-      "id": "23394139283",
-      "title": "Kit Roblox 16 Bonecos Articulados Lego Kit completo Linha premium Lançamento Envio Imediato",
-      "title_norm": "kit roblox 16 bonecos articulados lego kit completo linha premium lancamento envio imediato",
-      "url": "https://shopee.com.br/product/255280659/23394139283",
-      "affiliate_url": "https://s.shopee.com.br/50YdHVirUU",
-      "category": "💗 Cantinho da Lala",
-      "bucket": "cantinho_da_lala",
-      "posted_ts": 1787966460,
-      "posted_at": "2026-08-29T01:21:00.062173+00:00",
-      "score": 73.63
     }
   ],
-  "updated_at": "2026-09-06T16:21:07.412195+00:00"
+  "updated_at": "2026-09-06T17:03:47.808142+00:00"
 }
