@@ -1,6 +1,21 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB5041528061",
+      "product_id": "MLB5041528061",
+      "catalog_product_id": "MLB43810473",
+      "item_id": "MLB5041528061",
+      "url": "https://www.mercadolivre.com.br/p/MLB43810473?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB43810473?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "kit ferramentas informatica cor preto",
+      "title": "Kit Ferramentas Informatica Cor Preto",
+      "category": "Ferramentas",
+      "price": 127.5,
+      "score": 88.0,
+      "posted_ts": 1788663841,
+      "posted_at": "2026-09-06T03:04:01.742737+00:00"
+    },
+    {
       "key": "mercadolivre:MLB7413459282",
       "product_id": "MLB7413459282",
       "catalog_product_id": "MLB70606708",
@@ -419,37 +434,7 @@
       "score": 113.0,
       "posted_ts": 1788498140,
       "posted_at": "2026-09-04T05:02:20.708733+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB5919313906",
-      "product_id": "MLB5919313906",
-      "catalog_product_id": "MLB24099360",
-      "item_id": "MLB5919313906",
-      "url": "https://www.mercadolivre.com.br/p/MLB24099360?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB24099360?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "carregador portatil 20000mah bahrein power bank universal power bank carga rapida com display bahrein compativel com todos celulares iphone android ios apple xiaomi samsung motorola",
-      "title": "Carregador Portátil 20000mAh Bahrein Power Bank Universal Power Bank Carga Rápida Com Display Bahrein Compatível Com Todos Celulares Iphone Android IOS apple xiaomi Samsung Motorola",
-      "category": "Informática",
-      "price": 66.9,
-      "score": 149.86,
-      "posted_ts": 1788487440,
-      "posted_at": "2026-09-04T02:04:00.075850+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB5129093619",
-      "product_id": "MLB5129093619",
-      "catalog_product_id": "MLB78262248",
-      "item_id": "MLB5129093619",
-      "url": "https://www.mercadolivre.com.br/p/MLB78262248?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB78262248?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "celulares smartphones 6 78 polegadas celular 5g 16gb 512gb camera hd 32mpx 18mpx bateria 5000mah celular baratinho",
-      "title": "celulares smartphones 6.78 Polegadas celular 5g 16GB+512GB Câmera HD 32Mpx+18Mpx Bateria 5000mAh celular baratinho",
-      "category": "Informática",
-      "price": 1660.0,
-      "score": 183.67,
-      "posted_ts": 1788487365,
-      "posted_at": "2026-09-04T02:02:45.445481+00:00"
     }
   ],
-  "updated_at": "2026-09-06T00:04:08.405036+00:00"
+  "updated_at": "2026-09-06T03:04:01.742748+00:00"
 }
