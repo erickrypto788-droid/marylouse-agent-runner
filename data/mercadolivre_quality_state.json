@@ -1,6 +1,36 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB4657112471",
+      "product_id": "MLB4657112471",
+      "catalog_product_id": "MLB61421090",
+      "item_id": "MLB4657112471",
+      "url": "https://www.mercadolivre.com.br/p/MLB61421090?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB61421090?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "smartphone xiaomi redmi 15c 256gb global azul",
+      "title": "Smartphone Xiaomi Redmi 15c 256gb Global Azul",
+      "category": "Informática",
+      "price": 1135.0,
+      "score": 127.0,
+      "posted_ts": 1788735813,
+      "posted_at": "2026-09-06T23:03:33.210041+00:00"
+    },
+    {
+      "key": "mercadolivre:MLB3900697873",
+      "product_id": "MLB3900697873",
+      "catalog_product_id": "MLB41629336",
+      "item_id": "MLB3900697873",
+      "url": "https://www.mercadolivre.com.br/p/MLB41629336?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB41629336?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "smartphone xiaomi redmi 13 cor azul marinho",
+      "title": "Smartphone Xiaomi Redmi 13 Cor Azul-marinho",
+      "category": "Informática",
+      "price": 1337.4,
+      "score": 127.0,
+      "posted_ts": 1788735742,
+      "posted_at": "2026-09-06T23:02:22.136470+00:00"
+    },
+    {
       "key": "mercadolivre:MLB4455480129",
       "product_id": "MLB4455480129",
       "catalog_product_id": "MLB65128982",
@@ -659,22 +689,7 @@
       "score": 130.67,
       "posted_ts": 1788573973,
       "posted_at": "2026-09-05T02:06:13.636924+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB4949684225",
-      "product_id": "MLB4949684225",
-      "catalog_product_id": "MLB75635951",
-      "item_id": "MLB4949684225",
-      "url": "https://www.mercadolivre.com.br/p/MLB75635951?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB75635951?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "fralda geriatrica prevent care tamanho fralda geriatrica prevent care m c 50",
-      "title": "Fralda Geriatrica Prevent Care Tamanho FRALDA GERIATRICA PREVENT CARE M C/50",
-      "category": "Mãe e Bebê",
-      "price": 112.9,
-      "score": 114.0,
-      "posted_ts": 1788562942,
-      "posted_at": "2026-09-04T23:02:22.190807+00:00"
     }
   ],
-  "updated_at": "2026-09-06T22:04:43.254576+00:00"
+  "updated_at": "2026-09-06T23:03:33.210052+00:00"
 }
