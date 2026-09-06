@@ -1,6 +1,21 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB5108378397",
+      "product_id": "MLB5108378397",
+      "catalog_product_id": "MLB77188949",
+      "item_id": "MLB5108378397",
+      "url": "https://www.mercadolivre.com.br/p/MLB77188949?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB77188949?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "kit ferramentas ingco esmerilhadeira martelete 4ah",
+      "title": "Kit Ferramentas Ingco Esmerilhadeira Martelete 4ah",
+      "category": "Ferramentas",
+      "price": 1736.75,
+      "score": 104.87,
+      "posted_ts": 1788724938,
+      "posted_at": "2026-09-06T20:02:18.645320+00:00"
+    },
+    {
       "key": "mercadolivre:MLB7158074090",
       "product_id": "MLB7158074090",
       "catalog_product_id": "MLB38338044",
@@ -629,22 +644,7 @@
       "score": 113.0,
       "posted_ts": 1788559346,
       "posted_at": "2026-09-04T22:02:26.924838+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB6405166350",
-      "product_id": "MLB6405166350",
-      "catalog_product_id": "MLB48332910",
-      "item_id": "MLB6405166350",
-      "url": "https://www.mercadolivre.com.br/p/MLB48332910?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB48332910?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "redmi note 14s cor preto",
-      "title": "Redmi Note 14s Cor Preto",
-      "category": "Informática",
-      "price": 1649.0,
-      "score": 108.0,
-      "posted_ts": 1788548639,
-      "posted_at": "2026-09-04T19:03:59.162267+00:00"
     }
   ],
-  "updated_at": "2026-09-06T19:03:54.507172+00:00"
+  "updated_at": "2026-09-06T20:02:18.645329+00:00"
 }

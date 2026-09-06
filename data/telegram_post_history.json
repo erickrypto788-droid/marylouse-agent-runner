@@ -1,6 +1,20 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB5108378397",
+      "marketplace": "mercadolivre",
+      "id": "MLB5108378397",
+      "title": "Kit Ferramentas Ingco Esmerilhadeira Martelete 4ah",
+      "title_norm": "kit ferramentas ingco esmerilhadeira martelete 4ah",
+      "url": "https://www.mercadolivre.com.br/p/MLB77188949?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB77188949?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Ferramentas",
+      "bucket": "ferramentas",
+      "posted_ts": 1788724938,
+      "posted_at": "2026-09-06T20:02:18.631597+00:00",
+      "score": 104.87
+    },
+    {
       "key": "mercadolivre:MLB7158074090",
       "marketplace": "mercadolivre",
       "id": "MLB7158074090",
@@ -13985,21 +13999,7 @@
       "posted_ts": 1787987892,
       "posted_at": "2026-08-29T07:18:12.817277+00:00",
       "score": 55.19
-    },
-    {
-      "key": "shopee:24304373303",
-      "marketplace": "shopee",
-      "id": "24304373303",
-      "title": "300 Folhas Notas Adesivas Auto-De Leitura Books Bookmarks Bloco De Papelaria Estética",
-      "title_norm": "300 folhas notas adesivas auto de leitura books bookmarks bloco de papelaria estetica",
-      "url": "https://shopee.com.br/product/428892111/24304373303",
-      "affiliate_url": "https://s.shopee.com.br/2VrG70CvK6",
-      "category": "Mltour Loja Oficial Brazil",
-      "bucket": "mltour_loja_oficial_brazil",
-      "posted_ts": 1787987822,
-      "posted_at": "2026-08-29T07:17:02.000333+00:00",
-      "score": 60.76
     }
   ],
-  "updated_at": "2026-09-06T19:03:54.492909+00:00"
+  "updated_at": "2026-09-06T20:02:18.631610+00:00"
 }
