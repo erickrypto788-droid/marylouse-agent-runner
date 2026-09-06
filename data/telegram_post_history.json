@@ -1,6 +1,48 @@
 {
   "posts": [
     {
+      "key": "shopee:58254354411",
+      "marketplace": "shopee",
+      "id": "58254354411",
+      "title": "Camisa Feminina Lisa  Crepinho  Elegante Plus Size  M G GG G1",
+      "title_norm": "camisa feminina lisa crepinho elegante plus size m g gg g1",
+      "url": "https://shopee.com.br/product/1432906492/58254354411",
+      "affiliate_url": "https://s.shopee.com.br/1LfYPDhxeM",
+      "category": "Jael Modas",
+      "bucket": "jael_modas",
+      "posted_ts": 1788697138,
+      "posted_at": "2026-09-06T12:18:58.600570+00:00",
+      "score": 97.15
+    },
+    {
+      "key": "shopee:18997669654",
+      "marketplace": "shopee",
+      "id": "18997669654",
+      "title": "Conjunto na Alfaiataria Calça  Pantalona + Colete Social Escritório Plus SIze",
+      "title_norm": "conjunto na alfaiataria calca pantalona colete social escritorio plus size",
+      "url": "https://shopee.com.br/product/1239041434/18997669654",
+      "affiliate_url": "https://s.shopee.com.br/60RNpZ7tQH",
+      "category": "Elizye Delicato",
+      "bucket": "elizye_delicato",
+      "posted_ts": 1788697071,
+      "posted_at": "2026-09-06T12:17:51.840381+00:00",
+      "score": 97.35
+    },
+    {
+      "key": "shopee:58204912754",
+      "marketplace": "shopee",
+      "id": "58204912754",
+      "title": "Meia Calça Fina7D ANTICELULITE Fio  70 Plus Size – Veste do 36 ao 54 | Conforto e Alta Elasticidade",
+      "title_norm": "meia calca fina7d anticelulite fio 70 plus size veste do 36 ao 54 conforto e alta elasticidade",
+      "url": "https://shopee.com.br/product/204026219/58204912754",
+      "affiliate_url": "https://s.shopee.com.br/4AzjmQXFC9",
+      "category": "Brenda  Acessórios",
+      "bucket": "brenda_acessorios",
+      "posted_ts": 1788697003,
+      "posted_at": "2026-09-06T12:16:43.791382+00:00",
+      "score": 100.19
+    },
+    {
       "key": "shopee:23894124714",
       "marketplace": "shopee",
       "id": "23894124714",
@@ -13957,49 +13999,7 @@
       "posted_ts": 1787948202,
       "posted_at": "2026-08-28T20:16:42.589460+00:00",
       "score": 109.77
-    },
-    {
-      "key": "shopee:22195041792",
-      "marketplace": "shopee",
-      "id": "22195041792",
-      "title": "Chinelo Piccadilly EVA Marshmallow C224 Off White - Feminino",
-      "title_norm": "chinelo piccadilly eva marshmallow c224 off white feminino",
-      "url": "https://shopee.com.br/product/1614877278/22195041792",
-      "affiliate_url": "https://s.shopee.com.br/5LBTHOpQAZ",
-      "category": "Centersportoficialmg",
-      "bucket": "calcados",
-      "posted_ts": 1787944710,
-      "posted_at": "2026-08-28T19:18:30.556168+00:00",
-      "score": 97.59
-    },
-    {
-      "key": "shopee:20598008248",
-      "marketplace": "shopee",
-      "id": "20598008248",
-      "title": "Bota Feminina Linda Moça Cano Longo Montaria Confort Preta",
-      "title_norm": "bota feminina linda moca cano longo montaria confort preta",
-      "url": "https://shopee.com.br/product/639291520/20598008248",
-      "affiliate_url": "https://s.shopee.com.br/6L40TElcAl",
-      "category": "Linda Moça Calçados e Acessorios",
-      "bucket": "calcados",
-      "posted_ts": 1787944599,
-      "posted_at": "2026-08-28T19:16:39.367100+00:00",
-      "score": 110.91
-    },
-    {
-      "key": "mercadolivre:MLB7526272332",
-      "marketplace": "mercadolivre",
-      "id": "MLB7526272332",
-      "title": "Ração Gato Castrado Life Special Robustus 10,1kg",
-      "title_norm": "racao gato castrado life special robustus 10 1kg",
-      "url": "https://www.mercadolivre.com.br/p/MLB75981402?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB75981402?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "category": "Pet",
-      "bucket": "pet",
-      "posted_ts": 1787943763,
-      "posted_at": "2026-08-28T19:02:43.364412+00:00",
-      "score": 113.0
     }
   ],
-  "updated_at": "2026-09-06T11:22:34.543079+00:00"
+  "updated_at": "2026-09-06T12:18:58.600583+00:00"
 }
