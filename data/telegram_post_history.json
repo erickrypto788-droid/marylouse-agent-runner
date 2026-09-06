@@ -1,6 +1,48 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB5331790354",
+      "marketplace": "mercadolivre",
+      "id": "MLB5331790354",
+      "title": "Air fryer Br House Fritadeira ELETRICA AIR FRYER Air Fryer Family preto",
+      "title_norm": "air fryer br house fritadeira eletrica air fryer air fryer family preto",
+      "url": "https://www.mercadolivre.com.br/p/MLB45458466?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB45458466?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Casa e Cozinha",
+      "bucket": "casa_cozinha",
+      "posted_ts": 1788707140,
+      "posted_at": "2026-09-06T15:05:40.036882+00:00",
+      "score": 113.0
+    },
+    {
+      "key": "mercadolivre:MLB5428097608",
+      "marketplace": "mercadolivre",
+      "id": "MLB5428097608",
+      "title": "Rack Para Sala De Estar Rack Para Tv C/ Prateleira Flex Cor Off-white",
+      "title_norm": "rack para sala de estar rack para tv c prateleira flex cor off white",
+      "url": "https://www.mercadolivre.com.br/p/MLB39369998?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB39369998?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Casa e Cozinha",
+      "bucket": "casa_e_cozinha",
+      "posted_ts": 1788707068,
+      "posted_at": "2026-09-06T15:04:28.058060+00:00",
+      "score": 127.76
+    },
+    {
+      "key": "mercadolivre:MLB6738465128",
+      "marketplace": "mercadolivre",
+      "id": "MLB6738465128",
+      "title": "Cadeira Massagem Escritorio Cadeira Escritorio Presidente Cor Âmbar",
+      "title_norm": "cadeira massagem escritorio cadeira escritorio presidente cor ambar",
+      "url": "https://www.mercadolivre.com.br/p/MLB59413555?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB59413555?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Casa e Cozinha",
+      "bucket": "casa_e_cozinha",
+      "posted_ts": 1788706990,
+      "posted_at": "2026-09-06T15:03:10.630920+00:00",
+      "score": 162.11
+    },
+    {
       "key": "shopee:23599239610",
       "marketplace": "shopee",
       "id": "23599239610",
@@ -13957,49 +13999,7 @@
       "posted_ts": 1787962671,
       "posted_at": "2026-08-29T00:17:51.171923+00:00",
       "score": 115.1
-    },
-    {
-      "key": "shopee:9511754133",
-      "marketplace": "shopee",
-      "id": "9511754133",
-      "title": "Creatina Max Titanium 300g Pura",
-      "title_norm": "creatina max titanium 300g pura",
-      "url": "https://shopee.com.br/product/338537405/9511754133",
-      "affiliate_url": "https://s.shopee.com.br/2BEQZtKc2w",
-      "category": "Hard Extreme",
-      "bucket": "hard_extreme",
-      "posted_ts": 1787962607,
-      "posted_at": "2026-08-29T00:16:47.102387+00:00",
-      "score": 118.26
-    },
-    {
-      "key": "shopee:14949906963",
-      "marketplace": "shopee",
-      "id": "14949906963",
-      "title": "Saiote Anágua Tutu Infantil para Vestido de Festa Menina Saia de Armação Volumoso",
-      "title_norm": "saiote anagua tutu infantil para vestido de festa menina saia de armacao volumoso",
-      "url": "https://shopee.com.br/product/399122817/14949906963",
-      "affiliate_url": "https://s.shopee.com.br/4fvmkf5l9Q",
-      "category": "Deluc Store Oficial",
-      "bucket": "moda_feminina",
-      "posted_ts": 1787959299,
-      "posted_at": "2026-08-28T23:21:39.554699+00:00",
-      "score": 78.27
-    },
-    {
-      "key": "shopee:54505641752",
-      "marketplace": "shopee",
-      "id": "54505641752",
-      "title": "Tênis Infantil Casual Escolar Envio Rápido",
-      "title_norm": "tenis infantil casual escolar envio rapido",
-      "url": "https://shopee.com.br/product/303419140/54505641752",
-      "affiliate_url": "https://s.shopee.com.br/AKa6uNEJUa",
-      "category": "Momy Calçados ✅",
-      "bucket": "calcados",
-      "posted_ts": 1787959235,
-      "posted_at": "2026-08-28T23:20:35.443881+00:00",
-      "score": 87.26
     }
   ],
-  "updated_at": "2026-09-06T14:18:52.125052+00:00"
+  "updated_at": "2026-09-06T15:05:40.036897+00:00"
 }
