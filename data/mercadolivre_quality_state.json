@@ -1,6 +1,36 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB6711765758",
+      "product_id": "MLB6711765758",
+      "catalog_product_id": "MLB68578906",
+      "item_id": "MLB6711765758",
+      "url": "https://www.mercadolivre.com.br/p/MLB68578906?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB68578906?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "bepantol baby pomada assadura bebe hipoalergenica 200g",
+      "title": "Bepantol Baby Pomada Assadura Bebe Hipoalergênica, 200g",
+      "category": "Mãe e Bebê",
+      "price": 99.99,
+      "score": 112.16,
+      "posted_ts": 1788699981,
+      "posted_at": "2026-09-06T13:06:21.844033+00:00"
+    },
+    {
+      "key": "mercadolivre:MLB4158770181",
+      "product_id": "MLB4158770181",
+      "catalog_product_id": "MLB35007224",
+      "item_id": "MLB4158770181",
+      "url": "https://www.mercadolivre.com.br/p/MLB35007224?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB35007224?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "vinagreen amaciante roupas campos de lavanda concentrado 1l",
+      "title": "Vinagreen Amaciante Roupas Campos De Lavanda Concentrado 1l",
+      "category": "Supermercados",
+      "price": 46.88,
+      "score": 114.0,
+      "posted_ts": 1788699917,
+      "posted_at": "2026-09-06T13:05:17.745370+00:00"
+    },
+    {
       "key": "mercadolivre:MLB7304556746",
       "product_id": "MLB7304556746",
       "catalog_product_id": "MLB76168566",
@@ -434,37 +464,7 @@
       "score": 127.0,
       "posted_ts": 1788548574,
       "posted_at": "2026-09-04T19:02:54.772196+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB5697892498",
-      "product_id": "MLB5697892498",
-      "catalog_product_id": "MLB56081727",
-      "item_id": "MLB5697892498",
-      "url": "https://www.mercadolivre.com.br/p/MLB56081727?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB56081727?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "body modelador nayane short feminino cor cristal tamanho eg",
-      "title": "Body Modelador Nayane Short Feminino Cor Cristal Tamanho EG",
-      "category": "Moda Feminina",
-      "price": 151.7,
-      "score": 88.0,
-      "posted_ts": 1788516301,
-      "posted_at": "2026-09-04T10:05:01.330059+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB4964833443",
-      "product_id": "MLB4964833443",
-      "catalog_product_id": "MLB18715385",
-      "item_id": "MLB4964833443",
-      "url": "https://www.mercadolivre.com.br/p/MLB18715385?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB18715385?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "fralda pampers pants ajuste total xxg 60 unidades",
-      "title": "Fralda Pampers Pants Ajuste Total XXG 60 Unidades",
-      "category": "Mãe e Bebê",
-      "price": 148.71,
-      "score": 144.8,
-      "posted_ts": 1788512718,
-      "posted_at": "2026-09-04T09:05:18.879006+00:00"
     }
   ],
-  "updated_at": "2026-09-06T09:02:24.341069+00:00"
+  "updated_at": "2026-09-06T13:06:21.844047+00:00"
 }
