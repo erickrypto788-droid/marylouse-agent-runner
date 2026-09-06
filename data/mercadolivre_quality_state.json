@@ -1,6 +1,21 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB5495982148",
+      "product_id": "MLB5495982148",
+      "catalog_product_id": "MLB51434487",
+      "item_id": "MLB5495982148",
+      "url": "https://www.mercadolivre.com.br/p/MLB51434487?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB51434487?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "barbeador costas masculino traseiro dobravel aparador pelos",
+      "title": "Barbeador Costas Masculino Traseiro Dobrável Aparador Pelos",
+      "category": "Beleza",
+      "price": 218.0,
+      "score": 179.3,
+      "posted_ts": 1788717765,
+      "posted_at": "2026-09-06T18:02:45.667946+00:00"
+    },
+    {
       "key": "mercadolivre:MLB4552665179",
       "product_id": "MLB4552665179",
       "catalog_product_id": "MLB20818317",
@@ -631,5 +646,5 @@
       "posted_at": "2026-09-04T19:02:54.772196+00:00"
     }
   ],
-  "updated_at": "2026-09-06T17:03:47.819418+00:00"
+  "updated_at": "2026-09-06T18:02:45.667957+00:00"
 }

@@ -1,6 +1,20 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB5495982148",
+      "marketplace": "mercadolivre",
+      "id": "MLB5495982148",
+      "title": "Barbeador Costas Masculino Traseiro Dobrável Aparador Pelos",
+      "title_norm": "barbeador costas masculino traseiro dobravel aparador pelos",
+      "url": "https://www.mercadolivre.com.br/p/MLB51434487?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB51434487?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Beleza",
+      "bucket": "beleza",
+      "posted_ts": 1788717765,
+      "posted_at": "2026-09-06T18:02:45.653506+00:00",
+      "score": 179.3
+    },
+    {
       "key": "shopee:22494449171",
       "marketplace": "shopee",
       "id": "22494449171",
@@ -13985,21 +13999,7 @@
       "posted_ts": 1787977196,
       "posted_at": "2026-08-29T04:19:56.600916+00:00",
       "score": 62.94
-    },
-    {
-      "key": "shopee:23692661479",
-      "marketplace": "shopee",
-      "id": "23692661479",
-      "title": "Fralda Huggies Natural Care RN Recém Nascido 18 UN - VAL.: 04/2028",
-      "title_norm": "fralda huggies natural care rn recem nascido 18 un val 04 2028",
-      "url": "https://shopee.com.br/product/552204147/23692661479",
-      "affiliate_url": "https://s.shopee.com.br/LmnvI3aDg",
-      "category": "IF MERCEARIA LTDA",
-      "bucket": "fraldas",
-      "posted_ts": 1787977132,
-      "posted_at": "2026-08-29T04:18:52.618057+00:00",
-      "score": 70.78
     }
   ],
-  "updated_at": "2026-09-06T17:22:01.633308+00:00"
+  "updated_at": "2026-09-06T18:02:45.653522+00:00"
 }
