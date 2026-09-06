@@ -1,6 +1,20 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB6512536586",
+      "marketplace": "mercadolivre",
+      "id": "MLB6512536586",
+      "title": "Vestido feminino casual feminino Guess, relógio esportivo, pulseira, cor dourada",
+      "title_norm": "vestido feminino casual feminino guess relogio esportivo pulseira cor dourada",
+      "url": "https://www.mercadolivre.com.br/p/MLB25981434?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB25981434?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Moda Feminina",
+      "bucket": "moda_feminina",
+      "posted_ts": 1788710571,
+      "posted_at": "2026-09-06T16:02:51.237542+00:00",
+      "score": 86.0
+    },
+    {
       "key": "shopee:43781714813",
       "marketplace": "shopee",
       "id": "43781714813",
@@ -13985,21 +13999,7 @@
       "posted_ts": 1787965392,
       "posted_at": "2026-08-29T01:03:12.861642+00:00",
       "score": 111.0
-    },
-    {
-      "key": "shopee:9987415279",
-      "marketplace": "shopee",
-      "id": "9987415279",
-      "title": "Kit Whey Protein Fusion + Bcaa + Creatina + Shaker - Espartanos",
-      "title_norm": "kit whey protein fusion bcaa creatina shaker espartanos",
-      "url": "https://shopee.com.br/product/446247790/9987415279",
-      "affiliate_url": "https://s.shopee.com.br/9KhcNMPuqz",
-      "category": "Loja do Suplemento Oficial",
-      "bucket": "loja_do_suplemento_oficial",
-      "posted_ts": 1787962863,
-      "posted_at": "2026-08-29T00:21:03.112010+00:00",
-      "score": 85.75
     }
   ],
-  "updated_at": "2026-09-06T15:19:11.440641+00:00"
+  "updated_at": "2026-09-06T16:02:51.237555+00:00"
 }
