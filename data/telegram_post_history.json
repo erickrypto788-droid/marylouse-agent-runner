@@ -1,6 +1,48 @@
 {
   "posts": [
     {
+      "key": "shopee:43781714813",
+      "marketplace": "shopee",
+      "id": "43781714813",
+      "title": "Fone De Ouvido Inpods 13 Bluetooth Sem Fio Com Microfone Fones esportivos Adequado Branco",
+      "title_norm": "fone de ouvido inpods 13 bluetooth sem fio com microfone fones esportivos adequado branco",
+      "url": "https://shopee.com.br/product/1378634997/43781714813",
+      "affiliate_url": "https://s.shopee.com.br/7AdLYK22fI",
+      "category": "LOJA_DO_POVO.br",
+      "bucket": "loja_do_povo_br",
+      "posted_ts": 1788707951,
+      "posted_at": "2026-09-06T15:19:11.440621+00:00",
+      "score": 91.87
+    },
+    {
+      "key": "shopee:58255159172",
+      "marketplace": "shopee",
+      "id": "58255159172",
+      "title": "Fones de ouvido sem fio Bluetooth compactos Xiaomi Redmi Airdots com Estojo Recarregável",
+      "title_norm": "fones de ouvido sem fio bluetooth compactos xiaomi redmi airdots com estojo recarregavel",
+      "url": "https://shopee.com.br/product/1382685526/58255159172",
+      "affiliate_url": "https://s.shopee.com.br/60ROAB6U23",
+      "category": "YNC COMERCIO LTDA",
+      "bucket": "celulares",
+      "posted_ts": 1788707880,
+      "posted_at": "2026-09-06T15:18:00.598594+00:00",
+      "score": 138.52
+    },
+    {
+      "key": "shopee:23399043568",
+      "marketplace": "shopee",
+      "id": "23399043568",
+      "title": "Fone Bluetooth Pro5 Premium | Imersão Total c Cancelamento Ruído Qualidade Superior p iPhoneAndroid",
+      "title_norm": "fone bluetooth pro5 premium imersao total c cancelamento ruido qualidade superior p iphoneandroid",
+      "url": "https://shopee.com.br/product/976285267/23399043568",
+      "affiliate_url": "https://s.shopee.com.br/5VV7ZG8O2s",
+      "category": "TOP SELECAO",
+      "bucket": "celulares",
+      "posted_ts": 1788707816,
+      "posted_at": "2026-09-06T15:16:56.257387+00:00",
+      "score": 139.27
+    },
+    {
       "key": "mercadolivre:MLB5331790354",
       "marketplace": "mercadolivre",
       "id": "MLB5331790354",
@@ -13957,49 +13999,7 @@
       "posted_ts": 1787962863,
       "posted_at": "2026-08-29T00:21:03.112010+00:00",
       "score": 85.75
-    },
-    {
-      "key": "shopee:22593481622",
-      "marketplace": "shopee",
-      "id": "22593481622",
-      "title": "Kit Whey Protein Primal 1kg + Creatina 500g 100% Pura - Soldiers Nutrition",
-      "title_norm": "kit whey protein primal 1kg creatina 500g 100 pura soldiers nutrition",
-      "url": "https://shopee.com.br/product/347988064/22593481622",
-      "affiliate_url": "https://s.shopee.com.br/9fKSlyOeB5",
-      "category": "Soldiers Nutrition",
-      "bucket": "soldiers_nutrition",
-      "posted_ts": 1787962799,
-      "posted_at": "2026-08-29T00:19:59.101058+00:00",
-      "score": 87.74
-    },
-    {
-      "key": "shopee:23294140229",
-      "marketplace": "shopee",
-      "id": "23294140229",
-      "title": "Banco de Bicicleta Confortável com Molas Adesivo Refletivo de Segurança Confortável Banco de Bike Selim",
-      "title_norm": "banco de bicicleta confortavel com molas adesivo refletivo de seguranca confortavel banco de bike selim",
-      "url": "https://shopee.com.br/product/1456601816/23294140229",
-      "affiliate_url": "https://s.shopee.com.br/8AVdiuxuPo",
-      "category": "Gênio à Esquerda",
-      "bucket": "genio_a_esquerda",
-      "posted_ts": 1787962735,
-      "posted_at": "2026-08-29T00:18:55.068661+00:00",
-      "score": 88.93
-    },
-    {
-      "key": "shopee:58260912434",
-      "marketplace": "shopee",
-      "id": "58260912434",
-      "title": "Creatina Monohidratada Hardcore Original 100% Pura Ultimas Unidades",
-      "title_norm": "creatina monohidratada hardcore original 100 pura ultimas unidades",
-      "url": "https://shopee.com.br/product/991509912/58260912434",
-      "affiliate_url": "https://s.shopee.com.br/5LBTc0jGgS",
-      "category": "Armazem_00",
-      "bucket": "armazem_00",
-      "posted_ts": 1787962671,
-      "posted_at": "2026-08-29T00:17:51.171923+00:00",
-      "score": 115.1
     }
   ],
-  "updated_at": "2026-09-06T15:05:40.036897+00:00"
+  "updated_at": "2026-09-06T15:19:11.440641+00:00"
 }
