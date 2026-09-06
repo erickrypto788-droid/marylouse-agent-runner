@@ -1,6 +1,20 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB6727235226",
+      "marketplace": "mercadolivre",
+      "id": "MLB6727235226",
+      "title": "Roteador Wifi Ac 1200 2 Flex",
+      "title_norm": "roteador wifi ac 1200 2 flex",
+      "url": "https://www.mercadolivre.com.br/p/MLB47353377?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB47353377?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Informática",
+      "bucket": "informatica",
+      "posted_ts": 1788728555,
+      "posted_at": "2026-09-06T21:02:35.996073+00:00",
+      "score": 104.05
+    },
+    {
       "key": "shopee:23999650738",
       "marketplace": "shopee",
       "id": "23999650738",
@@ -13985,21 +13999,7 @@
       "posted_ts": 1787991538,
       "posted_at": "2026-08-29T08:18:58.690188+00:00",
       "score": 75.4
-    },
-    {
-      "key": "shopee:22393975400",
-      "marketplace": "shopee",
-      "id": "22393975400",
-      "title": "MousePad Grande Rosa Desk Pad Couro Gamer Office",
-      "title_norm": "mousepad grande rosa desk pad couro gamer office",
-      "url": "https://shopee.com.br/product/500815088/22393975400",
-      "affiliate_url": "https://s.shopee.com.br/1qbZJmFfV2",
-      "category": "PrismaCar",
-      "bucket": "informatica",
-      "posted_ts": 1787991470,
-      "posted_at": "2026-08-29T08:17:50.910796+00:00",
-      "score": 104.4
     }
   ],
-  "updated_at": "2026-09-06T20:20:56.670686+00:00"
+  "updated_at": "2026-09-06T21:02:35.996086+00:00"
 }
