@@ -1,6 +1,21 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB7304556746",
+      "product_id": "MLB7304556746",
+      "catalog_product_id": "MLB76168566",
+      "item_id": "MLB7304556746",
+      "url": "https://www.mercadolivre.com.br/p/MLB76168566?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB76168566?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "comedouro dispenser de racao automatico 8l para caes gatos cor comedouro automatico vermelho",
+      "title": "Comedouro Dispenser De Ração Automático 8l Para Cães Gatos Cor Comedouro Automatico Vermelho",
+      "category": "Pet",
+      "price": 43.25,
+      "score": 137.82,
+      "posted_ts": 1788685344,
+      "posted_at": "2026-09-06T09:02:24.341059+00:00"
+    },
+    {
       "key": "mercadolivre:MLB6290574990",
       "product_id": "MLB6290574990",
       "catalog_product_id": "MLB22958206",
@@ -451,5 +466,5 @@
       "posted_at": "2026-09-04T09:05:18.879006+00:00"
     }
   ],
-  "updated_at": "2026-09-06T08:02:33.087630+00:00"
+  "updated_at": "2026-09-06T09:02:24.341069+00:00"
 }

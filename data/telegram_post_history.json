@@ -1,6 +1,20 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB7304556746",
+      "marketplace": "mercadolivre",
+      "id": "MLB7304556746",
+      "title": "Comedouro Dispenser De Ração Automático 8l Para Cães Gatos Cor Comedouro Automatico Vermelho",
+      "title_norm": "comedouro dispenser de racao automatico 8l para caes gatos cor comedouro automatico vermelho",
+      "url": "https://www.mercadolivre.com.br/p/MLB76168566?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB76168566?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Pet",
+      "bucket": "pet",
+      "posted_ts": 1788685344,
+      "posted_at": "2026-09-06T09:02:24.325686+00:00",
+      "score": 137.82
+    },
+    {
       "key": "shopee:22591803318",
       "marketplace": "shopee",
       "id": "22591803318",
@@ -13985,21 +13999,7 @@
       "posted_ts": 1787930412,
       "posted_at": "2026-08-28T15:20:12.434166+00:00",
       "score": 95.12
-    },
-    {
-      "key": "shopee:22993111914",
-      "marketplace": "shopee",
-      "id": "22993111914",
-      "title": "Conjunto Mabel Top Cropped Tomara que Caia Decote Coração e Short Botão com Bolso Cintura Alta Novidade Moda Feminina",
-      "title_norm": "conjunto mabel top cropped tomara que caia decote coracao e short botao com bolso cintura alta novidade moda feminina",
-      "url": "https://shopee.com.br/product/317314639/22993111914",
-      "affiliate_url": "https://s.shopee.com.br/4qFB5ai5Mc",
-      "category": "Nil Moda Feminina",
-      "bucket": "pet",
-      "posted_ts": 1787930348,
-      "posted_at": "2026-08-28T15:19:08.465030+00:00",
-      "score": 96.74
     }
   ],
-  "updated_at": "2026-09-06T08:21:10.900205+00:00"
+  "updated_at": "2026-09-06T09:02:24.325701+00:00"
 }
