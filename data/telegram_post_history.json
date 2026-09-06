@@ -1,6 +1,20 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB7174659716",
+      "marketplace": "mercadolivre",
+      "id": "MLB7174659716",
+      "title": "Smartphone Xiaomi 15t 5g 12+12gb Ram + 512gb, Cinza",
+      "title_norm": "smartphone xiaomi 15t 5g 12 12gb ram 512gb cinza",
+      "url": "https://www.mercadolivre.com.br/p/MLB59103594?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB59103594?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Informática",
+      "bucket": "celulares",
+      "posted_ts": 1788674538,
+      "posted_at": "2026-09-06T06:02:18.949190+00:00",
+      "score": 149.32
+    },
+    {
       "key": "shopee:22593290172",
       "marketplace": "shopee",
       "id": "22593290172",
@@ -13985,21 +13999,7 @@
       "posted_ts": 1787915966,
       "posted_at": "2026-08-28T11:19:26.917827+00:00",
       "score": 102.27
-    },
-    {
-      "key": "shopee:23493895373",
-      "marketplace": "shopee",
-      "id": "23493895373",
-      "title": "Conjunto de canetas de gravação de cabeça dupla 48/60/80/100/120",
-      "title_norm": "conjunto de canetas de gravacao de cabeca dupla 48 60 80 100 120",
-      "url": "https://shopee.com.br/product/1064041485/23493895373",
-      "affiliate_url": "https://s.shopee.com.br/4AzU1sx0zZ",
-      "category": "LuxeElectra",
-      "bucket": "luxeelectra",
-      "posted_ts": 1787915898,
-      "posted_at": "2026-08-28T11:18:18.261172+00:00",
-      "score": 107.51
     }
   ],
-  "updated_at": "2026-09-06T05:19:52.717040+00:00"
+  "updated_at": "2026-09-06T06:02:18.949204+00:00"
 }

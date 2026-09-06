@@ -1,6 +1,21 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB7174659716",
+      "product_id": "MLB7174659716",
+      "catalog_product_id": "MLB59103594",
+      "item_id": "MLB7174659716",
+      "url": "https://www.mercadolivre.com.br/p/MLB59103594?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB59103594?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "smartphone xiaomi 15t 5g 12 12gb ram 512gb cinza",
+      "title": "Smartphone Xiaomi 15t 5g 12+12gb Ram + 512gb, Cinza",
+      "category": "Informática",
+      "price": 4299.9,
+      "score": 149.32,
+      "posted_ts": 1788674538,
+      "posted_at": "2026-09-06T06:02:18.962947+00:00"
+    },
+    {
       "key": "mercadolivre:MLB7150469040",
       "product_id": "MLB7150469040",
       "catalog_product_id": "MLB59821316",
@@ -434,22 +449,7 @@
       "score": 114.0,
       "posted_ts": 1788501760,
       "posted_at": "2026-09-04T06:02:40.797557+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB7575871600",
-      "product_id": "MLB7575871600",
-      "catalog_product_id": "MLB49735840",
-      "item_id": "MLB7575871600",
-      "url": "https://www.mercadolivre.com.br/p/MLB49735840?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB49735840?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "racao cachorro selection adultos pequenos 10 1kg harmony",
-      "title": "Ração Cachorro Selection Adultos Pequenos 10,1kg Harmony",
-      "category": "Pet",
-      "price": 114.0,
-      "score": 113.0,
-      "posted_ts": 1788498140,
-      "posted_at": "2026-09-04T05:02:20.708733+00:00"
     }
   ],
-  "updated_at": "2026-09-06T05:02:19.765815+00:00"
+  "updated_at": "2026-09-06T06:02:18.962956+00:00"
 }
