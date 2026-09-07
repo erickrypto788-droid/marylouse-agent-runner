@@ -1,6 +1,48 @@
 {
   "posts": [
     {
+      "key": "shopee:58212496584",
+      "marketplace": "shopee",
+      "id": "58212496584",
+      "title": "Nintendo Switch 2 lcd 256gb novo",
+      "title_norm": "nintendo switch 2 lcd 256gb novo",
+      "url": "https://shopee.com.br/product/1470976304/58212496584",
+      "affiliate_url": "https://s.shopee.com.br/1qbq8BlfZh",
+      "category": "AmandaImports8",
+      "bucket": "amandaimports8",
+      "posted_ts": 1788758332,
+      "posted_at": "2026-09-07T05:18:52.666605+00:00",
+      "score": 32.73
+    },
+    {
+      "key": "shopee:23293806366",
+      "marketplace": "shopee",
+      "id": "23293806366",
+      "title": "Controle PS5 Dualsense Midnight Black Preto Sem Fio Sony Original Lacrado",
+      "title_norm": "controle ps5 dualsense midnight black preto sem fio sony original lacrado",
+      "url": "https://shopee.com.br/product/1097151802/23293806366",
+      "affiliate_url": "https://s.shopee.com.br/Ln2LQn368",
+      "category": "Cadê Meu Eletro®",
+      "bucket": "cade_meu_eletro",
+      "posted_ts": 1788758268,
+      "posted_at": "2026-09-07T05:17:48.615614+00:00",
+      "score": 50.37
+    },
+    {
+      "key": "shopee:50563932416",
+      "marketplace": "shopee",
+      "id": "50563932416",
+      "title": "Console Nintendo Switch 2 – Modelo Nacional",
+      "title_norm": "console nintendo switch 2 modelo nacional",
+      "url": "https://shopee.com.br/product/1343318906/50563932416",
+      "affiliate_url": "https://s.shopee.com.br/1gIPvsmIue",
+      "category": "NegociuN",
+      "bucket": "negociun",
+      "posted_ts": 1788758204,
+      "posted_at": "2026-09-07T05:16:44.659993+00:00",
+      "score": 58.81
+    },
+    {
       "key": "mercadolivre:MLB6194259162",
       "marketplace": "mercadolivre",
       "id": "MLB6194259162",
@@ -13957,49 +13999,7 @@
       "posted_ts": 1788023927,
       "posted_at": "2026-08-29T17:18:47.293291+00:00",
       "score": 124.03
-    },
-    {
-      "key": "shopee:22998383507",
-      "marketplace": "shopee",
-      "id": "22998383507",
-      "title": "Panela De Pressão 4,5litros Panelux Linha Classic Alto Brilho A Mais Vendida Do Brasil",
-      "title_norm": "panela de pressao 4 5litros panelux linha classic alto brilho a mais vendida do brasil",
-      "url": "https://shopee.com.br/product/472053026/22998383507",
-      "affiliate_url": "https://s.shopee.com.br/3qMfct4IgT",
-      "category": "MBShopp",
-      "bucket": "casa_cozinha",
-      "posted_ts": 1788023863,
-      "posted_at": "2026-08-29T17:17:43.273741+00:00",
-      "score": 126.09
-    },
-    {
-      "key": "shopee:20298661096",
-      "marketplace": "shopee",
-      "id": "20298661096",
-      "title": "Aspirador de Pó Vertical Britânia 2 em 1 1200W BAS1200C",
-      "title_norm": "aspirador de po vertical britania 2 em 1 1200w bas1200c",
-      "url": "https://shopee.com.br/product/811879342/20298661096",
-      "affiliate_url": "https://s.shopee.com.br/7Ad7b0ift2",
-      "category": "Britânia Oficial",
-      "bucket": "casa_cozinha",
-      "posted_ts": 1788023799,
-      "posted_at": "2026-08-29T17:16:39.257239+00:00",
-      "score": 126.63
-    },
-    {
-      "key": "mercadolivre:MLB5909017866",
-      "marketplace": "mercadolivre",
-      "id": "MLB5909017866",
-      "title": "Blusa Camisa Feminina Proteção Solar Bike Jetski Pesca Praia Cor Branco Tamanho M",
-      "title_norm": "blusa camisa feminina protecao solar bike jetski pesca praia cor branco tamanho m",
-      "url": "https://www.mercadolivre.com.br/p/MLB61770185?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB61770185?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "category": "Moda Feminina",
-      "bucket": "moda_feminina",
-      "posted_ts": 1788023162,
-      "posted_at": "2026-08-29T17:06:02.410390+00:00",
-      "score": 88.0
     }
   ],
-  "updated_at": "2026-09-07T05:02:40.925387+00:00"
+  "updated_at": "2026-09-07T05:18:52.666622+00:00"
 }
