@@ -1,6 +1,48 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB4623864041",
+      "marketplace": "mercadolivre",
+      "id": "MLB4623864041",
+      "title": "Condicionador Infantil 250ml Buba Care",
+      "title_norm": "condicionador infantil 250ml buba care",
+      "url": "https://www.mercadolivre.com.br/p/MLB29684586?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB29684586?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Beleza",
+      "bucket": "beleza",
+      "posted_ts": 1788761303,
+      "posted_at": "2026-09-07T06:08:23.685151+00:00",
+      "score": 88.0
+    },
+    {
+      "key": "mercadolivre:MLB5709004240",
+      "marketplace": "mercadolivre",
+      "id": "MLB5709004240",
+      "title": "Detergente Sabão Lava Louça Pastilha + Lava Máquina Unik",
+      "title_norm": "detergente sabao lava louca pastilha lava maquina unik",
+      "url": "https://www.mercadolivre.com.br/p/MLB56414429?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB56414429?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Supermercados",
+      "bucket": "supermercado",
+      "posted_ts": 1788761239,
+      "posted_at": "2026-09-07T06:07:19.089151+00:00",
+      "score": 118.39
+    },
+    {
+      "key": "mercadolivre:MLB7597764796",
+      "marketplace": "mercadolivre",
+      "id": "MLB7597764796",
+      "title": "Fralda Huggies Jumbinho M - 36 Unidades",
+      "title_norm": "fralda huggies jumbinho m 36 unidades",
+      "url": "https://www.mercadolivre.com.br/p/MLB25251850?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB25251850?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Mãe e Bebê",
+      "bucket": "fraldas",
+      "posted_ts": 1788761175,
+      "posted_at": "2026-09-07T06:06:15.022773+00:00",
+      "score": 182.06
+    },
+    {
       "key": "shopee:58212496584",
       "marketplace": "shopee",
       "id": "58212496584",
@@ -13957,49 +13999,7 @@
       "posted_ts": 1788027506,
       "posted_at": "2026-08-29T18:18:26.800801+00:00",
       "score": 117.67
-    },
-    {
-      "key": "shopee:23598683017",
-      "marketplace": "shopee",
-      "id": "23598683017",
-      "title": "Escova Secadora Alisador Elétrica Quente Cabelo Com 3 Em1 Hair Styler APENAS 110V Jimmystore",
-      "title_norm": "escova secadora alisador eletrica quente cabelo com 3 em1 hair styler apenas 110v jimmystore",
-      "url": "https://shopee.com.br/product/1127030290/23598683017",
-      "affiliate_url": "https://s.shopee.com.br/4fvmgX3RJg",
-      "category": "JIMMY.STORE",
-      "bucket": "beleza",
-      "posted_ts": 1788027409,
-      "posted_at": "2026-08-29T18:16:49.990010+00:00",
-      "score": 144.59
-    },
-    {
-      "key": "shopee:20498962219",
-      "marketplace": "shopee",
-      "id": "20498962219",
-      "title": "Extrator de Sucos Turbo Premium Mondial Preto e Inox 250W E-10",
-      "title_norm": "extrator de sucos turbo premium mondial preto e inox 250w e 10",
-      "url": "https://shopee.com.br/product/1062544851/20498962219",
-      "affiliate_url": "https://s.shopee.com.br/7fZOBvY2V3",
-      "category": "Mercado Fácil",
-      "bucket": "mercado_facil",
-      "posted_ts": 1788023991,
-      "posted_at": "2026-08-29T17:19:51.358491+00:00",
-      "score": 92.55
-    },
-    {
-      "key": "shopee:58200034184",
-      "marketplace": "shopee",
-      "id": "58200034184",
-      "title": "Marmita Elétrica Veicular Bivolt P/ Carro Casa Taxi Uber Caminhão 12V 24V 110V 220V C",
-      "title_norm": "marmita eletrica veicular bivolt p carro casa taxi uber caminhao 12v 24v 110v 220v c",
-      "url": "https://shopee.com.br/product/1531826276/58200034184",
-      "affiliate_url": "https://s.shopee.com.br/7Ad7b0rbv3",
-      "category": "PENGFA TECH LTDA",
-      "bucket": "pengfa_tech_ltda",
-      "posted_ts": 1788023927,
-      "posted_at": "2026-08-29T17:18:47.293291+00:00",
-      "score": 124.03
     }
   ],
-  "updated_at": "2026-09-07T05:18:52.666622+00:00"
+  "updated_at": "2026-09-07T06:08:23.685175+00:00"
 }
