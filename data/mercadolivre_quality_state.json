@@ -1,6 +1,21 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB5653921846",
+      "product_id": "MLB5653921846",
+      "catalog_product_id": "MLB45798788",
+      "item_id": "MLB5653921846",
+      "url": "https://www.mercadolivre.com.br/p/MLB45798788?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB45798788?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "monitor 24 polegadas 1920x1200px vga hdmi 5ms rapido",
+      "title": "Monitor 24 Polegadas 1920x1200px Vga Hdmi 5ms Rápido",
+      "category": "Informática",
+      "price": 565.0,
+      "score": 86.0,
+      "posted_ts": 1788789794,
+      "posted_at": "2026-09-07T14:03:14.666702+00:00"
+    },
+    {
       "key": "mercadolivre:MLB6711607808",
       "product_id": "MLB6711607808",
       "catalog_product_id": "MLB21865416",
@@ -854,22 +869,7 @@
       "score": 122.92,
       "posted_ts": 1788620539,
       "posted_at": "2026-09-05T15:02:19.853874+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB7193068554",
-      "product_id": "MLB7193068554",
-      "catalog_product_id": "MLB64282130",
-      "item_id": "MLB7193068554",
-      "url": "https://www.mercadolivre.com.br/p/MLB64282130?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB64282130?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "aparelho monitor pressao arterial automatico digital braco",
-      "title": "Aparelho Monitor Pressão Arterial Automático Digital Braço",
-      "category": "Informática",
-      "price": 81.85,
-      "score": 97.14,
-      "posted_ts": 1788616951,
-      "posted_at": "2026-09-05T14:02:31.758552+00:00"
     }
   ],
-  "updated_at": "2026-09-07T13:02:25.387722+00:00"
+  "updated_at": "2026-09-07T14:03:14.666718+00:00"
 }
