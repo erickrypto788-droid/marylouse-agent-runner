@@ -1,6 +1,21 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB4694661245",
+      "product_id": "MLB4694661245",
+      "catalog_product_id": "MLB67529462",
+      "item_id": "MLB4694661245",
+      "url": "https://www.mercadolivre.com.br/p/MLB67529462?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB67529462?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "comedouro elevado duplo racao gato porcelana acrilico 190ml porta racao gato comedouro rosa",
+      "title": "Comedouro Elevado Duplo Ração Gato Porcelana Acrilico 190ml Porta Racao Gato Comedouro Rosa",
+      "category": "Pet",
+      "price": 49.9,
+      "score": 146.91,
+      "posted_ts": 1788807814,
+      "posted_at": "2026-09-07T19:03:34.740111+00:00"
+    },
+    {
       "key": "mercadolivre:MLB5087321291",
       "product_id": "MLB5087321291",
       "catalog_product_id": "MLB67951851",
@@ -824,37 +839,7 @@
       "score": 114.0,
       "posted_ts": 1788638874,
       "posted_at": "2026-09-05T20:07:54.531159+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB7513707254",
-      "product_id": "MLB7513707254",
-      "catalog_product_id": "MLB57578486",
-      "item_id": "MLB7513707254",
-      "url": "https://www.mercadolivre.com.br/p/MLB57578486?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB57578486?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "mini impressora niimbot b1 etiqueta bluetooth cor prateado impressora etiquetas adesivas",
-      "title": "Mini Impressora Niimbot B1 etiqueta Bluetooth Cor Prateado impressora etiquetas adesivas",
-      "category": "Informática",
-      "price": 209.99,
-      "score": 88.0,
-      "posted_ts": 1788627760,
-      "posted_at": "2026-09-05T17:02:40.787524+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB4552727020",
-      "product_id": "MLB4552727020",
-      "catalog_product_id": "MLB23076913",
-      "item_id": "MLB4552727020",
-      "url": "https://www.mercadolivre.com.br/p/MLB23076913?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB23076913?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "monitor bebe wifi infravermelho vision noctura intercom inteligente",
-      "title": "Monitor Bebe Wifi Infravermelho Vision Noctura Intercom Inteligente",
-      "category": "Informática",
-      "price": 1394.0,
-      "score": 86.0,
-      "posted_ts": 1788624221,
-      "posted_at": "2026-09-05T16:03:41.130837+00:00"
     }
   ],
-  "updated_at": "2026-09-07T16:02:55.137325+00:00"
+  "updated_at": "2026-09-07T19:03:34.740127+00:00"
 }
