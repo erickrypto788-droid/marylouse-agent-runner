@@ -1,6 +1,62 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB7597141594",
+      "marketplace": "mercadolivre",
+      "id": "MLB7597141594",
+      "title": "Kaisasa Shampoo Tonalizante Para Cobrir Cabelo Cinzento，shampoo cabelo branco，shampoo barba，shampoo redutor grisalhos，shampoo tonalizante preto，hair dye shampoo，black hair dye，500ml-Preto",
+      "title_norm": "kaisasa shampoo tonalizante para cobrir cabelo cinzento shampoo cabelo branco shampoo barba shampoo redutor grisalhos shampoo tonalizante preto hair dye shampoo black hair dye 500ml preto",
+      "url": "https://www.mercadolivre.com.br/p/MLB50178919?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB50178919?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Beleza",
+      "bucket": "beleza",
+      "posted_ts": 1788822585,
+      "posted_at": "2026-09-07T23:09:45.862961+00:00",
+      "score": 88.0
+    },
+    {
+      "key": "mercadolivre:MLB6302363224",
+      "marketplace": "mercadolivre",
+      "id": "MLB6302363224",
+      "title": "35 Escova Dental + 35 Porta Escova Dental + 35 Creme Dental Sortidas",
+      "title_norm": "35 escova dental 35 porta escova dental 35 creme dental sortidas",
+      "url": "https://www.mercadolivre.com.br/p/MLB65932271?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB65932271?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Supermercados",
+      "bucket": "supermercados",
+      "posted_ts": 1788822521,
+      "posted_at": "2026-09-07T23:08:41.834421+00:00",
+      "score": 89.0
+    },
+    {
+      "key": "mercadolivre:MLB7203056478",
+      "marketplace": "mercadolivre",
+      "id": "MLB7203056478",
+      "title": "Amaciante Triex Amaciante Max Blue em frasco 5 L",
+      "title_norm": "amaciante triex amaciante max blue em frasco 5 l",
+      "url": "https://www.mercadolivre.com.br/p/MLB35613935?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB35613935?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Supermercados",
+      "bucket": "supermercado",
+      "posted_ts": 1788822443,
+      "posted_at": "2026-09-07T23:07:23.678574+00:00",
+      "score": 103.68
+    },
+    {
+      "key": "mercadolivre:MLB6428938830",
+      "marketplace": "mercadolivre",
+      "id": "MLB6428938830",
+      "title": "Fralda Pampers Supersec M 30 Unidades",
+      "title_norm": "fralda pampers supersec m 30 unidades",
+      "url": "https://www.mercadolivre.com.br/p/MLB36175310?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB36175310?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Mãe e Bebê",
+      "bucket": "fraldas",
+      "posted_ts": 1788822379,
+      "posted_at": "2026-09-07T23:06:19.521601+00:00",
+      "score": 130.0
+    },
+    {
       "key": "shopee:43963869218",
       "marketplace": "shopee",
       "id": "43963869218",
@@ -13943,63 +13999,7 @@
       "posted_ts": 1788087822,
       "posted_at": "2026-08-30T11:03:42.799228+00:00",
       "score": 162.06
-    },
-    {
-      "key": "shopee:23599239610",
-      "marketplace": "shopee",
-      "id": "23599239610",
-      "title": "Sandália Feminina Conforto Premium Com Detalhe Dourado Elegante | Casual E Sofisticada GABI",
-      "title_norm": "sandalia feminina conforto premium com detalhe dourado elegante casual e sofisticada gabi",
-      "url": "https://shopee.com.br/product/1648608636/23599239610",
-      "affiliate_url": "https://s.shopee.com.br/19zWIb3pM",
-      "category": "cravorosa267",
-      "bucket": "calcados",
-      "posted_ts": 1788085243,
-      "posted_at": "2026-08-30T10:20:43.834011+00:00",
-      "score": 118.02
-    },
-    {
-      "key": "shopee:22294416370",
-      "marketplace": "shopee",
-      "id": "22294416370",
-      "title": "Sandália Feminina Asa Delta Rasteira Conforto Medalhas Douradas com Fivela Reveillon",
-      "title_norm": "sandalia feminina asa delta rasteira conforto medalhas douradas com fivela reveillon",
-      "url": "https://shopee.com.br/product/1022219186/22294416370",
-      "affiliate_url": "https://s.shopee.com.br/2VrKUtRXkx",
-      "category": "Eudorashoes",
-      "bucket": "calcados",
-      "posted_ts": 1788085160,
-      "posted_at": "2026-08-30T10:19:20.160753+00:00",
-      "score": 125.9
-    },
-    {
-      "key": "shopee:22799040705",
-      "marketplace": "shopee",
-      "id": "22799040705",
-      "title": "Sandália Papete Feminina Ortopédica com Elástico Confortável Moderna com Palmilha Massageadora",
-      "title_norm": "sandalia papete feminina ortopedica com elastico confortavel moderna com palmilha massageadora",
-      "url": "https://shopee.com.br/product/420347720/22799040705",
-      "affiliate_url": "https://s.shopee.com.br/50YfTU4xsq",
-      "category": "Ploomer Premium",
-      "bucket": "pet",
-      "posted_ts": 1788085004,
-      "posted_at": "2026-08-30T10:16:44.831963+00:00",
-      "score": 128.02
-    },
-    {
-      "key": "mercadolivre:MLB7059191208",
-      "marketplace": "mercadolivre",
-      "id": "MLB7059191208",
-      "title": "Boneca Sophia Deluxe com Roupa Academia Unicórnio 24cm Sunny",
-      "title_norm": "boneca sophia deluxe com roupa academia unicornio 24cm sunny",
-      "url": "https://www.mercadolivre.com.br/p/MLB38422370?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB38422370?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "category": "Esportes",
-      "bucket": "esportes",
-      "posted_ts": 1788084457,
-      "posted_at": "2026-08-30T10:07:37.956993+00:00",
-      "score": 88.0
     }
   ],
-  "updated_at": "2026-09-07T22:21:03.798476+00:00"
+  "updated_at": "2026-09-07T23:09:45.862975+00:00"
 }
