@@ -1,6 +1,36 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB7003862824",
+      "product_id": "MLB7003862824",
+      "catalog_product_id": "MLB74184723",
+      "item_id": "MLB7003862824",
+      "url": "https://www.mercadolivre.com.br/p/MLB74184723?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB74184723?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "painel d rossi painel para tv para tv ate 60 cumaru de mdf mdp",
+      "title": "Painel D'Rossi Painel Para TV para TV até 60\" cumaru de mdf/mdp",
+      "category": "Casa e Cozinha",
+      "price": 632.5,
+      "score": 103.52,
+      "posted_ts": 1788768277,
+      "posted_at": "2026-09-07T08:04:37.410665+00:00"
+    },
+    {
+      "key": "mercadolivre:MLB5195207435",
+      "product_id": "MLB5195207435",
+      "catalog_product_id": "MLB28353455",
+      "item_id": "MLB5195207435",
+      "url": "https://www.mercadolivre.com.br/p/MLB28353455?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB28353455?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "miniatura aspirador po infantil bw165",
+      "title": "Miniatura Aspirador Pó Infantil Bw165",
+      "category": "Casa e Cozinha",
+      "price": 70.54,
+      "score": 113.0,
+      "posted_ts": 1788768208,
+      "posted_at": "2026-09-07T08:03:28.487385+00:00"
+    },
+    {
       "key": "mercadolivre:MLB4617422337",
       "product_id": "MLB4617422337",
       "catalog_product_id": "MLB68298172",
@@ -796,5 +826,5 @@
       "posted_at": "2026-09-05T10:02:21.059822+00:00"
     }
   ],
-  "updated_at": "2026-09-07T07:03:57.997328+00:00"
+  "updated_at": "2026-09-07T08:04:37.410673+00:00"
 }

@@ -1,6 +1,34 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB7003862824",
+      "marketplace": "mercadolivre",
+      "id": "MLB7003862824",
+      "title": "Painel D'Rossi Painel Para TV para TV até 60\" cumaru de mdf/mdp",
+      "title_norm": "painel d rossi painel para tv para tv ate 60 cumaru de mdf mdp",
+      "url": "https://www.mercadolivre.com.br/p/MLB74184723?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB74184723?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Casa e Cozinha",
+      "bucket": "casa_e_cozinha",
+      "posted_ts": 1788768277,
+      "posted_at": "2026-09-07T08:04:37.397131+00:00",
+      "score": 103.52
+    },
+    {
+      "key": "mercadolivre:MLB5195207435",
+      "marketplace": "mercadolivre",
+      "id": "MLB5195207435",
+      "title": "Miniatura Aspirador Pó Infantil Bw165",
+      "title_norm": "miniatura aspirador po infantil bw165",
+      "url": "https://www.mercadolivre.com.br/p/MLB28353455?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB28353455?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Casa e Cozinha",
+      "bucket": "casa_cozinha",
+      "posted_ts": 1788768208,
+      "posted_at": "2026-09-07T08:03:28.473299+00:00",
+      "score": 113.0
+    },
+    {
       "key": "shopee:22398531446",
       "marketplace": "shopee",
       "id": "22398531446",
@@ -13971,35 +13999,7 @@
       "posted_ts": 1788034741,
       "posted_at": "2026-08-29T20:19:01.949744+00:00",
       "score": 124.68
-    },
-    {
-      "key": "shopee:22099191110",
-      "marketplace": "shopee",
-      "id": "22099191110",
-      "title": "Garrafa Térmica WATERSY 500ml - 48h Frio! Perfeita para Academia, Futebol e Dia a Dia⚽🏋️",
-      "title_norm": "garrafa termica watersy 500ml 48h frio perfeita para academia futebol e dia a dia",
-      "url": "https://shopee.com.br/product/1566556194/22099191110",
-      "affiliate_url": "https://s.shopee.com.br/1VymNMkMX4",
-      "category": "Watersy Store",
-      "bucket": "watersy_store",
-      "posted_ts": 1788034677,
-      "posted_at": "2026-08-29T20:17:57.873395+00:00",
-      "score": 125.84
-    },
-    {
-      "key": "shopee:58205886633",
-      "marketplace": "shopee",
-      "id": "58205886633",
-      "title": "Whey 900g Proteina Suplemento Músculo Recuperação Aminoácidos",
-      "title_norm": "whey 900g proteina suplemento musculo recuperacao aminoacidos",
-      "url": "https://shopee.com.br/product/1735575008/58205886633",
-      "affiliate_url": "https://s.shopee.com.br/9V13u4GBM9",
-      "category": "WeBeauty.",
-      "bucket": "pet",
-      "posted_ts": 1788034607,
-      "posted_at": "2026-08-29T20:16:47.691980+00:00",
-      "score": 139.27
     }
   ],
-  "updated_at": "2026-09-07T07:27:07.133914+00:00"
+  "updated_at": "2026-09-07T08:04:37.397146+00:00"
 }
