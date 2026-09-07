@@ -1,6 +1,21 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB4617422337",
+      "product_id": "MLB4617422337",
+      "catalog_product_id": "MLB68298172",
+      "item_id": "MLB4617422337",
+      "url": "https://www.mercadolivre.com.br/p/MLB68298172?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB68298172?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "cropped feminino manga comprida protecao solar malha fria uv cor preto tamanho p",
+      "title": "Cropped Feminino Manga Comprida Proteção Solar Malha Fria Uv Cor Preto Tamanho P",
+      "category": "Moda Feminina",
+      "price": 42.43,
+      "score": 107.47,
+      "posted_ts": 1788764637,
+      "posted_at": "2026-09-07T07:03:57.997317+00:00"
+    },
+    {
       "key": "mercadolivre:MLB4623864041",
       "product_id": "MLB4623864041",
       "catalog_product_id": "MLB29684586",
@@ -781,5 +796,5 @@
       "posted_at": "2026-09-05T10:02:21.059822+00:00"
     }
   ],
-  "updated_at": "2026-09-07T06:08:23.701023+00:00"
+  "updated_at": "2026-09-07T07:03:57.997328+00:00"
 }

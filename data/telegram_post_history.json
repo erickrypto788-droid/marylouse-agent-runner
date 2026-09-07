@@ -1,6 +1,20 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB4617422337",
+      "marketplace": "mercadolivre",
+      "id": "MLB4617422337",
+      "title": "Cropped Feminino Manga Comprida Proteção Solar Malha Fria Uv Cor Preto Tamanho P",
+      "title_norm": "cropped feminino manga comprida protecao solar malha fria uv cor preto tamanho p",
+      "url": "https://www.mercadolivre.com.br/p/MLB68298172?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB68298172?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Moda Feminina",
+      "bucket": "moda_feminina",
+      "posted_ts": 1788764637,
+      "posted_at": "2026-09-07T07:03:57.983168+00:00",
+      "score": 107.47
+    },
+    {
       "key": "shopee:22293752341",
       "marketplace": "shopee",
       "id": "22293752341",
@@ -13985,21 +13999,7 @@
       "posted_ts": 1788031198,
       "posted_at": "2026-08-29T19:19:58.873036+00:00",
       "score": 92.71
-    },
-    {
-      "key": "shopee:23693542023",
-      "marketplace": "shopee",
-      "id": "23693542023",
-      "title": "Sandália Babuche Infantil Menina Leve e Confortável Escolar",
-      "title_norm": "sandalia babuche infantil menina leve e confortavel escolar",
-      "url": "https://shopee.com.br/product/1407669056/23693542023",
-      "affiliate_url": "https://s.shopee.com.br/3VjqgvaMsW",
-      "category": "LaVita Calçados Infantis",
-      "bucket": "calcados",
-      "posted_ts": 1788031134,
-      "posted_at": "2026-08-29T19:18:54.687972+00:00",
-      "score": 93.03
     }
   ],
-  "updated_at": "2026-09-07T06:21:09.877607+00:00"
+  "updated_at": "2026-09-07T07:03:57.983185+00:00"
 }
