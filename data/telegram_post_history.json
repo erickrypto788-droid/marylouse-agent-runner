@@ -1,6 +1,34 @@
 {
   "posts": [
     {
+      "key": "shopee:23394636497",
+      "marketplace": "shopee",
+      "id": "23394636497",
+      "title": "Bota Botina Segurança Couro Legítimo CA Aprovado Bota EPI Antiderrapante Confortável Leve Unisex",
+      "title_norm": "bota botina seguranca couro legitimo ca aprovado bota epi antiderrapante confortavel leve unisex",
+      "url": "https://shopee.com.br/product/1406953915/23394636497",
+      "affiliate_url": "https://s.shopee.com.br/8AVsbuFjLv",
+      "category": "VELLUDINE",
+      "bucket": "calcados",
+      "posted_ts": 1788772683,
+      "posted_at": "2026-09-07T09:18:03.677284+00:00",
+      "score": 107.04
+    },
+    {
+      "key": "shopee:23398006332",
+      "marketplace": "shopee",
+      "id": "23398006332",
+      "title": "NEW NOVO TENIS INCRIVEL MODELO PARA REVEILLON TODO BRANCO LINDO DIRETO DA FABRICA PROMOCAO",
+      "title_norm": "new novo tenis incrivel modelo para reveillon todo branco lindo direto da fabrica promocao",
+      "url": "https://shopee.com.br/product/1385382926/23398006332",
+      "affiliate_url": "https://s.shopee.com.br/3qMtRwJ63Z",
+      "category": "WEAR FORCE OFICIAL",
+      "bucket": "calcados",
+      "posted_ts": 1788772615,
+      "posted_at": "2026-09-07T09:16:55.184881+00:00",
+      "score": 109.88
+    },
+    {
       "key": "shopee:58261159718",
       "marketplace": "shopee",
       "id": "58261159718",
@@ -13971,35 +13999,7 @@
       "posted_ts": 1788038428,
       "posted_at": "2026-08-29T21:20:28.100403+00:00",
       "score": 116.74
-    },
-    {
-      "key": "shopee:58206970260",
-      "marketplace": "shopee",
-      "id": "58206970260",
-      "title": "MEDOOSI Jogo de Desafio de Corda e Nós | Quebra-Cabeça Lógico, Brinquedo Desatar Educativo para Crianças / Infantil",
-      "title_norm": "medoosi jogo de desafio de corda e nos quebra cabeca logico brinquedo desatar educativo para criancas infantil",
-      "url": "https://shopee.com.br/product/1257233492/58206970260",
-      "affiliate_url": "https://s.shopee.com.br/3g3Fh418WR",
-      "category": "MEDOOSI-BR",
-      "bucket": "medoosi_br",
-      "posted_ts": 1788038364,
-      "posted_at": "2026-08-29T21:19:24.020700+00:00",
-      "score": 116.92
-    },
-    {
-      "key": "shopee:23398908978",
-      "marketplace": "shopee",
-      "id": "23398908978",
-      "title": "Brinquedo Caminhão Dinossauro Engolidor 2026 Porta-Carrinhos com 4 Carrinhos de Metal – Kit Infantil🦖🚚",
-      "title_norm": "brinquedo caminhao dinossauro engolidor 2026 porta carrinhos com 4 carrinhos de metal kit infantil",
-      "url": "https://shopee.com.br/product/1634545368/23398908978",
-      "affiliate_url": "https://s.shopee.com.br/W6E7bBbvF",
-      "category": "CANDYSTAR",
-      "bucket": "candystar",
-      "posted_ts": 1788038282,
-      "posted_at": "2026-08-29T21:18:02.105448+00:00",
-      "score": 117.86
     }
   ],
-  "updated_at": "2026-09-07T08:20:07.420688+00:00"
+  "updated_at": "2026-09-07T09:18:03.677297+00:00"
 }
