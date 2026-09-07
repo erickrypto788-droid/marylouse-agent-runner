@@ -1,6 +1,21 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB4719617285",
+      "product_id": "MLB4719617285",
+      "catalog_product_id": "MLB66541712",
+      "item_id": "MLB4719617285",
+      "url": "https://www.mercadolivre.com.br/p/MLB66541712?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB66541712?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "racao gato estimacat premium adulto sabor carne 15kg",
+      "title": "Ração Gato Estimacat Premium Adulto Sabor Carne 15kg",
+      "category": "Pet",
+      "price": 267.24,
+      "score": 154.83,
+      "posted_ts": 1788746607,
+      "posted_at": "2026-09-07T02:03:27.813564+00:00"
+    },
+    {
       "key": "mercadolivre:MLB4657112471",
       "product_id": "MLB4657112471",
       "catalog_product_id": "MLB61421090",
@@ -691,5 +706,5 @@
       "posted_at": "2026-09-05T02:06:13.636924+00:00"
     }
   ],
-  "updated_at": "2026-09-06T23:03:33.210052+00:00"
+  "updated_at": "2026-09-07T02:03:27.813574+00:00"
 }

@@ -1,6 +1,20 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB4719617285",
+      "marketplace": "mercadolivre",
+      "id": "MLB4719617285",
+      "title": "Ração Gato Estimacat Premium Adulto Sabor Carne 15kg",
+      "title_norm": "racao gato estimacat premium adulto sabor carne 15kg",
+      "url": "https://www.mercadolivre.com.br/p/MLB66541712?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB66541712?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Pet",
+      "bucket": "pet",
+      "posted_ts": 1788746607,
+      "posted_at": "2026-09-07T02:03:27.800818+00:00",
+      "score": 154.83
+    },
+    {
       "key": "shopee:19044723152",
       "marketplace": "shopee",
       "id": "19044723152",
@@ -13985,21 +13999,7 @@
       "posted_ts": 1788008628,
       "posted_at": "2026-08-29T13:03:48.594154+00:00",
       "score": 86.0
-    },
-    {
-      "key": "mercadolivre:MLB7372384956",
-      "marketplace": "mercadolivre",
-      "id": "MLB7372384956",
-      "title": "Amarelo Escova Limpeza Mamadeira Kit Para Limpeza De Mamadeira Kit Limpeza Mamadeira Viagem Kit Limpeza Bebê Escova Mamadeira Portátil Escova Bico Canudo Secador Higiene Infantil | Acessórios Bebê Via",
-      "title_norm": "amarelo escova limpeza mamadeira kit para limpeza de mamadeira kit limpeza mamadeira viagem kit limpeza bebe escova mamadeira portatil escova bico canudo secador higiene infantil acessorios bebe via",
-      "url": "https://www.mercadolivre.com.br/p/MLB75043057?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB75043057?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "category": "Mãe e Bebê",
-      "bucket": "beleza",
-      "posted_ts": 1788008564,
-      "posted_at": "2026-08-29T13:02:44.339906+00:00",
-      "score": 191.5
     }
   ],
-  "updated_at": "2026-09-07T01:20:04.430510+00:00"
+  "updated_at": "2026-09-07T02:03:27.800835+00:00"
 }
