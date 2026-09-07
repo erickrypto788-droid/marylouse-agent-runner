@@ -1,6 +1,21 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB3474477475",
+      "product_id": "MLB3474477475",
+      "catalog_product_id": "MLB24908965",
+      "item_id": "MLB3474477475",
+      "url": "https://www.mercadolivre.com.br/p/MLB24908965?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB24908965?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "lamina aparador pelos philips bodygroom qg3379 qg3280 qg3380",
+      "title": "Lamina Aparador Pelos Philips Bodygroom Qg3379 Qg3280 Qg3380",
+      "category": "Beleza",
+      "price": 129.9,
+      "score": 119.78,
+      "posted_ts": 1788779038,
+      "posted_at": "2026-09-07T11:03:58.594896+00:00"
+    },
+    {
       "key": "mercadolivre:MLB7359539976",
       "product_id": "MLB7359539976",
       "catalog_product_id": "MLB18603556",
@@ -841,5 +856,5 @@
       "posted_at": "2026-09-05T12:02:49.491282+00:00"
     }
   ],
-  "updated_at": "2026-09-07T10:03:43.767544+00:00"
+  "updated_at": "2026-09-07T11:03:58.594906+00:00"
 }
