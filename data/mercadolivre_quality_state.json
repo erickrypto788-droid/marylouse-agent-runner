@@ -1,6 +1,36 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB4864941673",
+      "product_id": "MLB4864941673",
+      "catalog_product_id": "MLB51893724",
+      "item_id": "MLB4864941673",
+      "url": "https://www.mercadolivre.com.br/p/MLB51893724?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB51893724?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "baba eletronica hellobaby hb66pro monitor bebe 3 2 white",
+      "title": "Babá Eletrônica Hellobaby Hb66pro Monitor Bebê 3.2 White",
+      "category": "Informática",
+      "price": 374.96,
+      "score": 102.27,
+      "posted_ts": 1788750233,
+      "posted_at": "2026-09-07T03:03:53.580608+00:00"
+    },
+    {
+      "key": "mercadolivre:MLB6589686808",
+      "product_id": "MLB6589686808",
+      "catalog_product_id": "MLB40540370",
+      "item_id": "MLB6589686808",
+      "url": "https://www.mercadolivre.com.br/p/MLB40540370?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB40540370?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "tchauzinho fralda melhoramentos",
+      "title": "Tchauzinho, Fralda! - Melhoramentos",
+      "category": "Mãe e Bebê",
+      "price": 48.4,
+      "score": 128.8,
+      "posted_ts": 1788750169,
+      "posted_at": "2026-09-07T03:02:49.548896+00:00"
+    },
+    {
       "key": "mercadolivre:MLB4719617285",
       "product_id": "MLB4719617285",
       "catalog_product_id": "MLB66541712",
@@ -674,37 +704,7 @@
       "score": 133.53,
       "posted_ts": 1788581009,
       "posted_at": "2026-09-05T04:03:29.276432+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB5847767930",
-      "product_id": "MLB5847767930",
-      "catalog_product_id": "MLB60550872",
-      "item_id": "MLB5847767930",
-      "url": "https://www.mercadolivre.com.br/p/MLB60550872?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB60550872?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "condicionador de metais bardhal bh condicionador 200ml motor carro",
-      "title": "Condicionador de Metais Bardhal BH-CONDICIONADOR 200ml Motor Carro",
-      "category": "Beleza",
-      "price": 108.15,
-      "score": 88.0,
-      "posted_ts": 1788574040,
-      "posted_at": "2026-09-05T02:07:20.833393+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB4631396421",
-      "product_id": "MLB4631396421",
-      "catalog_product_id": "MLB68485778",
-      "item_id": "MLB4631396421",
-      "url": "https://www.mercadolivre.com.br/p/MLB68485778?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB68485778?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "papel higienico folha dupla 2000m 8x250m",
-      "title": "Papel Higiênico Folha Dupla 2000m - 8x250m",
-      "category": "Supermercados",
-      "price": 125.15,
-      "score": 130.67,
-      "posted_ts": 1788573973,
-      "posted_at": "2026-09-05T02:06:13.636924+00:00"
     }
   ],
-  "updated_at": "2026-09-07T02:03:27.813574+00:00"
+  "updated_at": "2026-09-07T03:03:53.580616+00:00"
 }
