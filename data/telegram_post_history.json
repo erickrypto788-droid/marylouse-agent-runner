@@ -1,6 +1,62 @@
 {
   "posts": [
     {
+      "key": "shopee:58261159718",
+      "marketplace": "shopee",
+      "id": "58261159718",
+      "title": "Vestido plus size com mangas estampadas com oncinha varias estampas animal print",
+      "title_norm": "vestido plus size com mangas estampadas com oncinha varias estampas animal print",
+      "url": "https://shopee.com.br/product/1518048481/58261159718",
+      "affiliate_url": "https://s.shopee.com.br/4LJBJ8whvi",
+      "category": "augeconceito",
+      "bucket": "moda_feminina",
+      "posted_ts": 1788769207,
+      "posted_at": "2026-09-07T08:20:07.420674+00:00",
+      "score": 95.15
+    },
+    {
+      "key": "shopee:22093941249",
+      "marketplace": "shopee",
+      "id": "22093941249",
+      "title": "WIDE LEG PLUS SIZE FEMININA 46 AO 54 CINTURA ALTA EXTREMA QUALIDADE",
+      "title_norm": "wide leg plus size feminina 46 ao 54 cintura alta extrema qualidade",
+      "url": "https://shopee.com.br/product/426365422/22093941249",
+      "affiliate_url": "https://s.shopee.com.br/3qMuiEBbUx",
+      "category": "ZIFF FASHION",
+      "bucket": "ziff_fashion",
+      "posted_ts": 1788769137,
+      "posted_at": "2026-09-07T08:18:57.393145+00:00",
+      "score": 98.69
+    },
+    {
+      "key": "shopee:56361032931",
+      "marketplace": "shopee",
+      "id": "56361032931",
+      "title": "SELAH - BLUSA DE RENDA PLUS SIZE MODA FEMININA TRANSPARENTE",
+      "title_norm": "selah blusa de renda plus size moda feminina transparente",
+      "url": "https://shopee.com.br/product/819749025/56361032931",
+      "affiliate_url": "https://s.shopee.com.br/1BM8CuZrkb",
+      "category": "CASA DOS CROPPEDS",
+      "bucket": "moda_feminina",
+      "posted_ts": 1788769069,
+      "posted_at": "2026-09-07T08:17:49.887265+00:00",
+      "score": 102.86
+    },
+    {
+      "key": "shopee:22998137276",
+      "marketplace": "shopee",
+      "id": "22998137276",
+      "title": "Calça Jeans Plus Size Com Elastano Super Conforto 44 ao 54",
+      "title_norm": "calca jeans plus size com elastano super conforto 44 ao 54",
+      "url": "https://shopee.com.br/product/1119924602/22998137276",
+      "affiliate_url": "https://s.shopee.com.br/1VyybWpzLv",
+      "category": "Inove jeans",
+      "bucket": "inove_jeans",
+      "posted_ts": 1788769004,
+      "posted_at": "2026-09-07T08:16:44.085269+00:00",
+      "score": 106.44
+    },
+    {
       "key": "mercadolivre:MLB7003862824",
       "marketplace": "mercadolivre",
       "id": "MLB7003862824",
@@ -13943,63 +13999,7 @@
       "posted_ts": 1788038282,
       "posted_at": "2026-08-29T21:18:02.105448+00:00",
       "score": 117.86
-    },
-    {
-      "key": "shopee:19499073421",
-      "marketplace": "shopee",
-      "id": "19499073421",
-      "title": "Bebê Reborn Boneca Realista Girafinha Luxo Em Silicone Pode Dar Banho Envio Imediato",
-      "title_norm": "bebe reborn boneca realista girafinha luxo em silicone pode dar banho envio imediato",
-      "url": "https://shopee.com.br/product/790605924/19499073421",
-      "affiliate_url": "https://s.shopee.com.br/3LQPIRy0Pt",
-      "category": "Adora ",
-      "bucket": "adora",
-      "posted_ts": 1788038212,
-      "posted_at": "2026-08-29T21:16:52.543429+00:00",
-      "score": 125.52
-    },
-    {
-      "key": "shopee:23093824562",
-      "marketplace": "shopee",
-      "id": "23093824562",
-      "title": "Tênis Casual Branco Feminino Masculino Conforto Premium Academia Original",
-      "title_norm": "tenis casual branco feminino masculino conforto premium academia original",
-      "url": "https://shopee.com.br/product/391757444/23093824562",
-      "affiliate_url": "https://s.shopee.com.br/W6FBWayDc",
-      "category": "ELITE SHOES ",
-      "bucket": "calcados",
-      "posted_ts": 1788034875,
-      "posted_at": "2026-08-29T20:21:15.149737+00:00",
-      "score": 120.76
-    },
-    {
-      "key": "shopee:19499545730",
-      "marketplace": "shopee",
-      "id": "19499545730",
-      "title": "Mini Compressor De Ar Portátil Recarregável Digital USB Calibrador De Pneus Carro Moto Bicicleta Infláveis Automático",
-      "title_norm": "mini compressor de ar portatil recarregavel digital usb calibrador de pneus carro moto bicicleta inflaveis automatico",
-      "url": "https://shopee.com.br/product/1127030290/19499545730",
-      "affiliate_url": "https://s.shopee.com.br/30naA7VqwM",
-      "category": "JIMMY.STORE",
-      "bucket": "jimmy_store",
-      "posted_ts": 1788034811,
-      "posted_at": "2026-08-29T20:20:11.000009+00:00",
-      "score": 124.51
-    },
-    {
-      "key": "shopee:22092998564",
-      "marketplace": "shopee",
-      "id": "22092998564",
-      "title": "Creatina Monohidratada Pura 1kg, 500g, 600, 300g e 150g - Dark Lab",
-      "title_norm": "creatina monohidratada pura 1kg 500g 600 300g e 150g dark lab",
-      "url": "https://shopee.com.br/product/1242044379/22092998564",
-      "affiliate_url": "https://s.shopee.com.br/LmmOWRalN",
-      "category": "Dark Lab Oficial",
-      "bucket": "dark_lab_oficial",
-      "posted_ts": 1788034741,
-      "posted_at": "2026-08-29T20:19:01.949744+00:00",
-      "score": 124.68
     }
   ],
-  "updated_at": "2026-09-07T08:04:37.397146+00:00"
+  "updated_at": "2026-09-07T08:20:07.420688+00:00"
 }
