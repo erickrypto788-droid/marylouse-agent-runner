@@ -1,6 +1,20 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB6711607808",
+      "marketplace": "mercadolivre",
+      "id": "MLB6711607808",
+      "title": "Combo Parafusadeira Furadeira de Impacto 13mm + Parafusadeira de Impacto 6,3mm DEWALT DCK276D2",
+      "title_norm": "combo parafusadeira furadeira de impacto 13mm parafusadeira de impacto 6 3mm dewalt dck276d2",
+      "url": "https://www.mercadolivre.com.br/p/MLB21865416?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB21865416?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Ferramentas",
+      "bucket": "ferramentas",
+      "posted_ts": 1788786145,
+      "posted_at": "2026-09-07T13:02:25.372938+00:00",
+      "score": 169.65
+    },
+    {
       "key": "shopee:19699841961",
       "marketplace": "shopee",
       "id": "19699841961",
@@ -13985,21 +13999,7 @@
       "posted_ts": 1788049132,
       "posted_at": "2026-08-30T00:18:52.865184+00:00",
       "score": 121.0
-    },
-    {
-      "key": "shopee:23497594302",
-      "marketplace": "shopee",
-      "id": "23497594302",
-      "title": "ROMANTIC CROWN Mochla de Viagem MascuIino e Feminina ImpermeaveI Reforçada Executiva para Notebook",
-      "title_norm": "romantic crown mochla de viagem mascuiino e feminina impermeavei reforcada executiva para notebook",
-      "url": "https://shopee.com.br/product/1198407784/23497594302",
-      "affiliate_url": "https://s.shopee.com.br/2LXsZRfFOb",
-      "category": "Romantic Crown.02",
-      "bucket": "informatica",
-      "posted_ts": 1788049068,
-      "posted_at": "2026-08-30T00:17:48.821376+00:00",
-      "score": 146.0
     }
   ],
-  "updated_at": "2026-09-07T12:18:02.802224+00:00"
+  "updated_at": "2026-09-07T13:02:25.372954+00:00"
 }
