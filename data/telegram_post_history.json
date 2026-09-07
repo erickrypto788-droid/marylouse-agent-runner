@@ -1,6 +1,20 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB5087321291",
+      "marketplace": "mercadolivre",
+      "id": "MLB5087321291",
+      "title": "Carregador magnético USB 3 em 1 20w para iPhone, Apple Watch e Android, carregador tipo C, carregador iPhone",
+      "title_norm": "carregador magnetico usb 3 em 1 20w para iphone apple watch e android carregador tipo c carregador iphone",
+      "url": "https://www.mercadolivre.com.br/p/MLB67951851?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB67951851?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Informática",
+      "bucket": "celulares",
+      "posted_ts": 1788796975,
+      "posted_at": "2026-09-07T16:02:55.123945+00:00",
+      "score": 103.67
+    },
+    {
       "key": "shopee:23295160242",
       "marketplace": "shopee",
       "id": "23295160242",
@@ -13985,21 +13999,7 @@
       "posted_ts": 1788060061,
       "posted_at": "2026-08-30T03:21:01.032511+00:00",
       "score": 65.31
-    },
-    {
-      "key": "shopee:23494197175",
-      "marketplace": "shopee",
-      "id": "23494197175",
-      "title": "Webcam Câmera Computador Full HD 1080x1920p 2MP USB Plug Play Microfone Embutido",
-      "title_norm": "webcam camera computador full hd 1080x1920p 2mp usb plug play microfone embutido",
-      "url": "https://shopee.com.br/product/384064825/23494197175",
-      "affiliate_url": "https://s.shopee.com.br/3VjrDtBF36",
-      "category": "SHOPELXY",
-      "bucket": "shopelxy",
-      "posted_ts": 1788059996,
-      "posted_at": "2026-08-30T03:19:56.798081+00:00",
-      "score": 96.39
     }
   ],
-  "updated_at": "2026-09-07T15:21:03.046165+00:00"
+  "updated_at": "2026-09-07T16:02:55.123959+00:00"
 }

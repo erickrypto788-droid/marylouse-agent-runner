@@ -1,6 +1,21 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB5087321291",
+      "product_id": "MLB5087321291",
+      "catalog_product_id": "MLB67951851",
+      "item_id": "MLB5087321291",
+      "url": "https://www.mercadolivre.com.br/p/MLB67951851?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB67951851?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "carregador magnetico usb 3 em 1 20w para iphone apple watch e android carregador tipo c carregador iphone",
+      "title": "Carregador magnético USB 3 em 1 20w para iPhone, Apple Watch e Android, carregador tipo C, carregador iPhone",
+      "category": "Informática",
+      "price": 34.1,
+      "score": 103.67,
+      "posted_ts": 1788796975,
+      "posted_at": "2026-09-07T16:02:55.137316+00:00"
+    },
+    {
       "key": "mercadolivre:MLB5653921846",
       "product_id": "MLB5653921846",
       "catalog_product_id": "MLB45798788",
@@ -839,37 +854,7 @@
       "score": 86.0,
       "posted_ts": 1788624221,
       "posted_at": "2026-09-05T16:03:41.130837+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB7591842132",
-      "product_id": "MLB7591842132",
-      "catalog_product_id": "MLB75043054",
-      "item_id": "MLB7591842132",
-      "url": "https://www.mercadolivre.com.br/p/MLB75043054?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB75043054?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "azul escova limpeza mamadeira kit para limpeza de mamadeira kit limpeza mamadeira viagem kit limpeza bebe escova mamadeira portatil escova bico canudo secador higiene infantil acessorios bebe",
-      "title": "Azul escova limpeza mamadeira kit para limpeza de mamadeira kit limpeza mamadeira viagem kit limpeza bebe escova mamadeira portatil escova bico canudo secador higiene infantil acessorios bebe",
-      "category": "Mãe e Bebê",
-      "price": 53.6,
-      "score": 191.5,
-      "posted_ts": 1788624156,
-      "posted_at": "2026-09-05T16:02:36.968177+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB4109571517",
-      "product_id": "MLB4109571517",
-      "catalog_product_id": "MLB28523781",
-      "item_id": "MLB4109571517",
-      "url": "https://www.mercadolivre.com.br/p/MLB28523781?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB28523781?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "alimento royal canin hair skin 3kg racao gato",
-      "title": "Alimento Royal Canin Hair & Skin 3kg Ração Gato",
-      "category": "Pet",
-      "price": 257.0,
-      "score": 122.92,
-      "posted_ts": 1788620539,
-      "posted_at": "2026-09-05T15:02:19.853874+00:00"
     }
   ],
-  "updated_at": "2026-09-07T14:03:14.666718+00:00"
+  "updated_at": "2026-09-07T16:02:55.137325+00:00"
 }
