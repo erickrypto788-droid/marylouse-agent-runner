@@ -1,6 +1,36 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB7359539976",
+      "product_id": "MLB7359539976",
+      "catalog_product_id": "MLB18603556",
+      "item_id": "MLB7359539976",
+      "url": "https://www.mercadolivre.com.br/p/MLB18603556?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB18603556?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "bike spinning kikos max ks5 preto",
+      "title": "Bike Spinning Kikos Max-ks5 Preto",
+      "category": "Esportes",
+      "price": 2719.0,
+      "score": 84.0,
+      "posted_ts": 1788775423,
+      "posted_at": "2026-09-07T10:03:43.767535+00:00"
+    },
+    {
+      "key": "mercadolivre:MLB5163519527",
+      "product_id": "MLB5163519527",
+      "catalog_product_id": "MLB64424896",
+      "item_id": "MLB5163519527",
+      "url": "https://www.mercadolivre.com.br/p/MLB64424896?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB64424896?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "luva academia esporte neoprene academia luva protecao preto lisa unico",
+      "title": "Luva Academia Esporte Neoprene Academia Luva Proteção Preto Lisa Unico",
+      "category": "Esportes",
+      "price": 19.0,
+      "score": 87.61,
+      "posted_ts": 1788775348,
+      "posted_at": "2026-09-07T10:02:28.669718+00:00"
+    },
+    {
       "key": "mercadolivre:MLB7003862824",
       "product_id": "MLB7003862824",
       "catalog_product_id": "MLB74184723",
@@ -809,22 +839,7 @@
       "score": 124.0,
       "posted_ts": 1788609769,
       "posted_at": "2026-09-05T12:02:49.491282+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB5152165069",
-      "product_id": "MLB5152165069",
-      "catalog_product_id": "MLB16377075",
-      "item_id": "MLB5152165069",
-      "url": "https://www.mercadolivre.com.br/p/MLB16377075?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB16377075?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "modem roteador wifi intelbras wifiber 121ac gpon",
-      "title": "Modem Roteador Wifi Intelbras Wifiber 121ac Gpon",
-      "category": "Informática",
-      "price": 389.99,
-      "score": 86.0,
-      "posted_ts": 1788602541,
-      "posted_at": "2026-09-05T10:02:21.059822+00:00"
     }
   ],
-  "updated_at": "2026-09-07T08:04:37.410673+00:00"
+  "updated_at": "2026-09-07T10:03:43.767544+00:00"
 }
