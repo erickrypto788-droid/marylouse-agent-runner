@@ -1,6 +1,21 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB4750057565",
+      "product_id": "MLB4750057565",
+      "catalog_product_id": "MLB54083722",
+      "item_id": "MLB4750057565",
+      "url": "https://www.mercadolivre.com.br/p/MLB54083722?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB54083722?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "fritadeira air fryer mondial oven digital 127v",
+      "title": "Fritadeira Air Fryer Mondial Oven Digital 127v",
+      "category": "Casa e Cozinha",
+      "price": 1800.0,
+      "score": 124.0,
+      "posted_ts": 1788782580,
+      "posted_at": "2026-09-07T12:03:00.890317+00:00"
+    },
+    {
       "key": "mercadolivre:MLB3474477475",
       "product_id": "MLB3474477475",
       "catalog_product_id": "MLB24908965",
@@ -839,22 +854,7 @@
       "score": 97.14,
       "posted_ts": 1788616951,
       "posted_at": "2026-09-05T14:02:31.758552+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB5163748079",
-      "product_id": "MLB5163748079",
-      "catalog_product_id": "MLB29728116",
-      "item_id": "MLB5163748079",
-      "url": "https://www.mercadolivre.com.br/p/MLB29728116?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB29728116?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "xiaomi poco poco x6 5g dual sim 256gb 12gb branco",
-      "title": "Xiaomi POCO Poco X6 5G Dual SIM 256GB/12GB Branco",
-      "category": "Informática",
-      "price": 2150.0,
-      "score": 124.0,
-      "posted_ts": 1788609769,
-      "posted_at": "2026-09-05T12:02:49.491282+00:00"
     }
   ],
-  "updated_at": "2026-09-07T11:03:58.594906+00:00"
+  "updated_at": "2026-09-07T12:03:00.890325+00:00"
 }

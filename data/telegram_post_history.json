@@ -1,6 +1,20 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB4750057565",
+      "marketplace": "mercadolivre",
+      "id": "MLB4750057565",
+      "title": "Fritadeira Air Fryer Mondial Oven Digital 127v",
+      "title_norm": "fritadeira air fryer mondial oven digital 127v",
+      "url": "https://www.mercadolivre.com.br/p/MLB54083722?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB54083722?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Casa e Cozinha",
+      "bucket": "casa_cozinha",
+      "posted_ts": 1788782580,
+      "posted_at": "2026-09-07T12:03:00.876094+00:00",
+      "score": 124.0
+    },
+    {
       "key": "shopee:22198741956",
       "marketplace": "shopee",
       "id": "22198741956",
@@ -13985,21 +13999,7 @@
       "posted_ts": 1788045669,
       "posted_at": "2026-08-29T23:21:09.920779+00:00",
       "score": 52.52
-    },
-    {
-      "key": "shopee:21820451014",
-      "marketplace": "shopee",
-      "id": "21820451014",
-      "title": "Kit 2 Baldes Lenços Umedecidos Fiesta + Refil (1200 Toalhas)",
-      "title_norm": "kit 2 baldes lencos umedecidos fiesta refil 1200 toalhas",
-      "url": "https://shopee.com.br/product/541585641/21820451014",
-      "affiliate_url": "https://s.shopee.com.br/1gIBVjye2i",
-      "category": "Maxi Confort",
-      "bucket": "maxi_confort",
-      "posted_ts": 1788045605,
-      "posted_at": "2026-08-29T23:20:05.699506+00:00",
-      "score": 53.78
     }
   ],
-  "updated_at": "2026-09-07T11:20:13.093721+00:00"
+  "updated_at": "2026-09-07T12:03:00.876108+00:00"
 }
