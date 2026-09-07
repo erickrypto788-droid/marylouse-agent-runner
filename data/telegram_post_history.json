@@ -1,6 +1,48 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB6978080348",
+      "marketplace": "mercadolivre",
+      "id": "MLB6978080348",
+      "title": "Impressora Etiquetas Monocromática Toledo Prix IT400M USB",
+      "title_norm": "impressora etiquetas monocromatica toledo prix it400m usb",
+      "url": "https://www.mercadolivre.com.br/p/MLB46173110?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB46173110?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Informática",
+      "bucket": "informatica",
+      "posted_ts": 1788753889,
+      "posted_at": "2026-09-07T04:04:49.347424+00:00",
+      "score": 86.0
+    },
+    {
+      "key": "mercadolivre:MLB5201599262",
+      "marketplace": "mercadolivre",
+      "id": "MLB5201599262",
+      "title": "Ribbon Resina Mastercorp 110x300 Para Impressora Etiquetas BOPP Vinil",
+      "title_norm": "ribbon resina mastercorp 110x300 para impressora etiquetas bopp vinil",
+      "url": "https://www.mercadolivre.com.br/p/MLB44215301?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB44215301?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Informática",
+      "bucket": "informatica",
+      "posted_ts": 1788753825,
+      "posted_at": "2026-09-07T04:03:45.336404+00:00",
+      "score": 86.0
+    },
+    {
+      "key": "mercadolivre:MLB3929416863",
+      "marketplace": "mercadolivre",
+      "id": "MLB3929416863",
+      "title": "Impressora Etiquetas Logistica Código De Barras Usb",
+      "title_norm": "impressora etiquetas logistica codigo de barras usb",
+      "url": "https://www.mercadolivre.com.br/p/MLB39019401?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB39019401?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Informática",
+      "bucket": "informatica",
+      "posted_ts": 1788753761,
+      "posted_at": "2026-09-07T04:02:41.251512+00:00",
+      "score": 110.48
+    },
+    {
       "key": "shopee:23992747038",
       "marketplace": "shopee",
       "id": "23992747038",
@@ -13957,49 +13999,7 @@
       "posted_ts": 1788020200,
       "posted_at": "2026-08-29T16:16:40.876803+00:00",
       "score": 148.79
-    },
-    {
-      "key": "mercadolivre:MLB4266241495",
-      "marketplace": "mercadolivre",
-      "id": "MLB4266241495",
-      "title": "Absorvente Mulher Ativa Com Abas Kit 80 Pacotes Gel Super Absorvente",
-      "title_norm": "absorvente mulher ativa com abas kit 80 pacotes gel super absorvente",
-      "url": "https://www.mercadolivre.com.br/p/MLB43806010?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB43806010?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "category": "Moda Feminina",
-      "bucket": "moda_feminina",
-      "posted_ts": 1788019724,
-      "posted_at": "2026-08-29T16:08:44.013417+00:00",
-      "score": 88.0
-    },
-    {
-      "key": "mercadolivre:MLB5827798066",
-      "marketplace": "mercadolivre",
-      "id": "MLB5827798066",
-      "title": "Kit Papel Toalha Interfolha Supremo E Papel Toalha Mili",
-      "title_norm": "kit papel toalha interfolha supremo e papel toalha mili",
-      "url": "https://www.mercadolivre.com.br/p/MLB47658528?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB47658528?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "category": "Supermercados",
-      "bucket": "supermercados",
-      "posted_ts": 1788019654,
-      "posted_at": "2026-08-29T16:07:34.993017+00:00",
-      "score": 98.67
-    },
-    {
-      "key": "mercadolivre:MLB6660297382",
-      "marketplace": "mercadolivre",
-      "id": "MLB6660297382",
-      "title": "Preparo Essência Amaciante Roupas Concentrado Perfume",
-      "title_norm": "preparo essencia amaciante roupas concentrado perfume",
-      "url": "https://www.mercadolivre.com.br/p/MLB67844007?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB67844007?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "category": "Supermercados",
-      "bucket": "beleza",
-      "posted_ts": 1788019586,
-      "posted_at": "2026-08-29T16:06:26.402161+00:00",
-      "score": 114.0
     }
   ],
-  "updated_at": "2026-09-07T03:21:03.081605+00:00"
+  "updated_at": "2026-09-07T04:04:49.347440+00:00"
 }
