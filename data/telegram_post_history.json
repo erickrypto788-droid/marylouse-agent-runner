@@ -1,6 +1,20 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB7601679290",
+      "marketplace": "mercadolivre",
+      "id": "MLB7601679290",
+      "title": "Impressora Etiquetas Portátil Niimbot D11 + 1 Rolo Azul",
+      "title_norm": "impressora etiquetas portatil niimbot d11 1 rolo azul",
+      "url": "https://www.mercadolivre.com.br/p/MLB78736073?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB78736073?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Informática",
+      "bucket": "informatica",
+      "posted_ts": 1788814972,
+      "posted_at": "2026-09-07T21:02:52.992012+00:00",
+      "score": 156.96
+    },
+    {
       "key": "shopee:23497904418",
       "marketplace": "shopee",
       "id": "23497904418",
@@ -13985,21 +13999,7 @@
       "posted_ts": 1788078023,
       "posted_at": "2026-08-30T08:20:23.094240+00:00",
       "score": 98.26
-    },
-    {
-      "key": "shopee:58254166972",
-      "marketplace": "shopee",
-      "id": "58254166972",
-      "title": "Blusa Antonella Plus Size G1 e G2 Cropped Halter Frente Única Top das Blogueiras Zero Transparência Frente Dupla",
-      "title_norm": "blusa antonella plus size g1 e g2 cropped halter frente unica top das blogueiras zero transparencia frente dupla",
-      "url": "https://shopee.com.br/product/1651898003/58254166972",
-      "affiliate_url": "https://s.shopee.com.br/3Vjql2LM9J",
-      "category": "MILARA MODA FEMININA",
-      "bucket": "moda_feminina",
-      "posted_ts": 1788077954,
-      "posted_at": "2026-08-30T08:19:14.852906+00:00",
-      "score": 107.13
     }
   ],
-  "updated_at": "2026-09-07T20:18:47.261797+00:00"
+  "updated_at": "2026-09-07T21:02:52.992037+00:00"
 }
