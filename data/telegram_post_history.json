@@ -1,6 +1,62 @@
 {
   "posts": [
     {
+      "key": "shopee:22694541028",
+      "marketplace": "shopee",
+      "id": "22694541028",
+      "title": "Pipoqueira Elétrica Ar Quente Máquina Fazer Pipoca Sem Óleo Minijoy 110v",
+      "title_norm": "pipoqueira eletrica ar quente maquina fazer pipoca sem oleo minijoy 110v",
+      "url": "https://shopee.com.br/product/1000233979/22694541028",
+      "affiliate_url": "https://s.shopee.com.br/1ADfyfWIp",
+      "category": "Canaã  YL",
+      "bucket": "canaa_yl",
+      "posted_ts": 1788852034,
+      "posted_at": "2026-09-08T07:20:34.320010+00:00",
+      "score": 44.78
+    },
+    {
+      "key": "shopee:17934801158",
+      "marketplace": "shopee",
+      "id": "17934801158",
+      "title": "Micro-ondas Mondial Mo 01 21 B Potencia 1200w 60hz 21 Litros",
+      "title_norm": "micro ondas mondial mo 01 21 b potencia 1200w 60hz 21 litros",
+      "url": "https://shopee.com.br/product/359168917/17934801158",
+      "affiliate_url": "https://s.shopee.com.br/6fh7cEG8jd",
+      "category": "LOI BRASIL",
+      "bucket": "loi_brasil",
+      "posted_ts": 1788851963,
+      "posted_at": "2026-09-08T07:19:23.228062+00:00",
+      "score": 77.37
+    },
+    {
+      "key": "shopee:22794193064",
+      "marketplace": "shopee",
+      "id": "22794193064",
+      "title": "Air Fryer Rosa Britânia 5,5L Cesto Pinkstone 1500W BAFE53",
+      "title_norm": "air fryer rosa britania 5 5l cesto pinkstone 1500w bafe53",
+      "url": "https://shopee.com.br/product/811879342/22794193064",
+      "affiliate_url": "https://s.shopee.com.br/7pt50MyMUo",
+      "category": "Britânia Oficial",
+      "bucket": "casa_cozinha",
+      "posted_ts": 1788851894,
+      "posted_at": "2026-09-08T07:18:14.651800+00:00",
+      "score": 100.03
+    },
+    {
+      "key": "shopee:23392997431",
+      "marketplace": "shopee",
+      "id": "23392997431",
+      "title": "Aspirador de Pó Doméstico 3 em 1 Sem Fio Limpeza Sucção USB",
+      "title_norm": "aspirador de po domestico 3 em 1 sem fio limpeza succao usb",
+      "url": "https://shopee.com.br/product/1232649860/23392997431",
+      "affiliate_url": "https://s.shopee.com.br/AAGzmeyPr2",
+      "category": "SLX 123",
+      "bucket": "casa_cozinha",
+      "posted_ts": 1788851826,
+      "posted_at": "2026-09-08T07:17:06.539889+00:00",
+      "score": 114.87
+    },
+    {
       "key": "mercadolivre:MLB4353924282",
       "marketplace": "mercadolivre",
       "id": "MLB4353924282",
@@ -13943,63 +13999,7 @@
       "posted_ts": 1788113998,
       "posted_at": "2026-08-30T18:19:58.898063+00:00",
       "score": 106.23
-    },
-    {
-      "key": "shopee:54808426700",
-      "marketplace": "shopee",
-      "id": "54808426700",
-      "title": "NINHO REDUTOR DE BERÇO  |  COM ZIPER E LAÇO   | TROCADOR PORTÁTIL  | 400 FIOS",
-      "title_norm": "ninho redutor de berco com ziper e laco trocador portatil 400 fios",
-      "url": "https://shopee.com.br/product/659215083/54808426700",
-      "affiliate_url": "https://s.shopee.com.br/4AzZ0us5Lc",
-      "category": "Casa SoL.",
-      "bucket": "casa_sol",
-      "posted_ts": 1788113935,
-      "posted_at": "2026-08-30T18:18:55.020501+00:00",
-      "score": 107.32
-    },
-    {
-      "key": "shopee:18097691606",
-      "marketplace": "shopee",
-      "id": "18097691606",
-      "title": "Toalha de Banho Fralda Soft com Capuz para Bebê  OU  Kit com 2, 3 ou 4 Toalhas",
-      "title_norm": "toalha de banho fralda soft com capuz para bebe ou kit com 2 3 ou 4 toalhas",
-      "url": "https://shopee.com.br/product/378105312/18097691606",
-      "affiliate_url": "https://s.shopee.com.br/5VUvL4lI2I",
-      "category": "EssencialBaby",
-      "bucket": "fraldas",
-      "posted_ts": 1788113871,
-      "posted_at": "2026-08-30T18:17:51.093264+00:00",
-      "score": 128.68
-    },
-    {
-      "key": "shopee:19699242179",
-      "marketplace": "shopee",
-      "id": "19699242179",
-      "title": "Kit C/12 Lenço Umedecido Lara Baby Premium 100 Unidades Total 1200",
-      "title_norm": "kit c 12 lenco umedecido lara baby premium 100 unidades total 1200",
-      "url": "https://shopee.com.br/product/1230684338/19699242179",
-      "affiliate_url": "https://s.shopee.com.br/6fgtzVVIf3",
-      "category": "Novva BPO ",
-      "bucket": "fraldas",
-      "posted_ts": 1788113807,
-      "posted_at": "2026-08-30T18:16:47.167274+00:00",
-      "score": 141.42
-    },
-    {
-      "key": "mercadolivre:MLB4455480129",
-      "marketplace": "mercadolivre",
-      "id": "MLB4455480129",
-      "title": "Soundbar Samsung Hw-b400f + Soundbar Hw-b400f Preto",
-      "title_norm": "soundbar samsung hw b400f soundbar hw b400f preto",
-      "url": "https://www.mercadolivre.com.br/p/MLB65128982?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB65128982?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "category": "Informática",
-      "bucket": "informatica",
-      "posted_ts": 1788113026,
-      "posted_at": "2026-08-30T18:03:46.760931+00:00",
-      "score": 104.0
     }
   ],
-  "updated_at": "2026-09-08T07:03:13.022123+00:00"
+  "updated_at": "2026-09-08T07:20:34.320026+00:00"
 }
