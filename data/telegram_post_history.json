@@ -1,6 +1,34 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB4139317597",
+      "marketplace": "mercadolivre",
+      "id": "MLB4139317597",
+      "title": "Furadeira Parafusadeira Imp C/ Parafusadeira Imp Dlx2336syx",
+      "title_norm": "furadeira parafusadeira imp c parafusadeira imp dlx2336syx",
+      "url": "https://www.mercadolivre.com.br/p/MLB23649057?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB23649057?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Ferramentas",
+      "bucket": "ferramentas",
+      "posted_ts": 1788847420,
+      "posted_at": "2026-09-08T06:03:40.337803+00:00",
+      "score": 108.0
+    },
+    {
+      "key": "mercadolivre:MLB5183821060",
+      "marketplace": "mercadolivre",
+      "id": "MLB5183821060",
+      "title": "Combo Furadeira Parafusadeira DF333D + Parafusadeira de Impacto TD110D 12V - CLX224SAX",
+      "title_norm": "combo furadeira parafusadeira df333d parafusadeira de impacto td110d 12v clx224sax",
+      "url": "https://www.mercadolivre.com.br/p/MLB19765397?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB19765397?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Ferramentas",
+      "bucket": "ferramentas",
+      "posted_ts": 1788847356,
+      "posted_at": "2026-09-08T06:02:36.171929+00:00",
+      "score": 111.0
+    },
+    {
       "key": "shopee:58203391596",
       "marketplace": "shopee",
       "id": "58203391596",
@@ -13971,35 +13999,7 @@
       "posted_ts": 1788110269,
       "posted_at": "2026-08-30T17:17:49.971901+00:00",
       "score": 146.63
-    },
-    {
-      "key": "shopee:20199713818",
-      "marketplace": "shopee",
-      "id": "20199713818",
-      "title": "Monitor De Pressão Arterial De Pulso Recarregável Alta XYY-2551",
-      "title_norm": "monitor de pressao arterial de pulso recarregavel alta xyy 2551",
-      "url": "https://shopee.com.br/product/415175805/20199713818",
-      "affiliate_url": "https://s.shopee.com.br/19yiqYqLf",
-      "category": "Isabela Top",
-      "bucket": "saude",
-      "posted_ts": 1788110206,
-      "posted_at": "2026-08-30T17:16:46.022894+00:00",
-      "score": 152.01
-    },
-    {
-      "key": "mercadolivre:MLB4355666141",
-      "marketplace": "mercadolivre",
-      "id": "MLB4355666141",
-      "title": "Roteador Wifi Ac 1200 2 Flex",
-      "title_norm": "roteador wifi ac 1200 2 flex",
-      "url": "https://www.mercadolivre.com.br/p/MLB47353377?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB47353377?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "category": "Informática",
-      "bucket": "informatica",
-      "posted_ts": 1788109359,
-      "posted_at": "2026-08-30T17:02:39.801324+00:00",
-      "score": 88.0
     }
   ],
-  "updated_at": "2026-09-08T05:17:52.853677+00:00"
+  "updated_at": "2026-09-08T06:03:40.337818+00:00"
 }
