@@ -1,6 +1,21 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB5109354761",
+      "product_id": "MLB5109354761",
+      "catalog_product_id": "MLB28886564",
+      "item_id": "MLB5109354761",
+      "url": "https://www.mercadolivre.com.br/p/MLB28886564?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB28886564?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "racao gato alimento vittamax premium especial 10kg mix",
+      "title": "Ração Gato Alimento Vittamax Premium Especial 10kg Mix",
+      "category": "Pet",
+      "price": 123.99,
+      "score": 121.84,
+      "posted_ts": 1788869008,
+      "posted_at": "2026-09-08T12:03:28.547684+00:00"
+    },
+    {
       "key": "mercadolivre:MLB5026800457",
       "product_id": "MLB5026800457",
       "catalog_product_id": "MLB20643765",
@@ -886,5 +901,5 @@
       "posted_at": "2026-09-06T13:05:17.745370+00:00"
     }
   ],
-  "updated_at": "2026-09-08T09:03:35.230377+00:00"
+  "updated_at": "2026-09-08T12:03:28.547695+00:00"
 }

@@ -1,6 +1,20 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB5109354761",
+      "marketplace": "mercadolivre",
+      "id": "MLB5109354761",
+      "title": "Ração Gato Alimento Vittamax Premium Especial 10kg Mix",
+      "title_norm": "racao gato alimento vittamax premium especial 10kg mix",
+      "url": "https://www.mercadolivre.com.br/p/MLB28886564?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB28886564?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Pet",
+      "bucket": "pet",
+      "posted_ts": 1788869008,
+      "posted_at": "2026-09-08T12:03:28.533731+00:00",
+      "score": 121.84
+    },
+    {
       "key": "shopee:23498386191",
       "marketplace": "shopee",
       "id": "23498386191",
@@ -13985,21 +13999,7 @@
       "posted_ts": 1788128338,
       "posted_at": "2026-08-30T22:18:58.948455+00:00",
       "score": 111.57
-    },
-    {
-      "key": "shopee:58258087449",
-      "marketplace": "shopee",
-      "id": "58258087449",
-      "title": "Mesa Dobrável Notebook Retrátil Home Office Apoio Cama Sofá Trabalho Café",
-      "title_norm": "mesa dobravel notebook retratil home office apoio cama sofa trabalho cafe",
-      "url": "https://shopee.com.br/product/1744660455/58258087449",
-      "affiliate_url": "https://s.shopee.com.br/3B70tO2An2",
-      "category": "2 Get & Go ",
-      "bucket": "informatica",
-      "posted_ts": 1788128274,
-      "posted_at": "2026-08-30T22:17:54.794672+00:00",
-      "score": 130.76
     }
   ],
-  "updated_at": "2026-09-08T11:21:01.484772+00:00"
+  "updated_at": "2026-09-08T12:03:28.533745+00:00"
 }
