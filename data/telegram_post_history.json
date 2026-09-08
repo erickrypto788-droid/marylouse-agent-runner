@@ -1,6 +1,48 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB6825867960",
+      "marketplace": "mercadolivre",
+      "id": "MLB6825867960",
+      "title": "Condicionador Infantil Lowell Mirtilinho 240ml",
+      "title_norm": "condicionador infantil lowell mirtilinho 240ml",
+      "url": "https://www.mercadolivre.com.br/p/MLB68094806?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB68094806?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Beleza",
+      "bucket": "beleza",
+      "posted_ts": 1788883821,
+      "posted_at": "2026-09-08T16:10:21.209289+00:00",
+      "score": 88.0
+    },
+    {
+      "key": "mercadolivre:MLB5532475634",
+      "marketplace": "mercadolivre",
+      "id": "MLB5532475634",
+      "title": "Miniatura Creme Dental 15g",
+      "title_norm": "miniatura creme dental 15g",
+      "url": "https://www.mercadolivre.com.br/p/MLB53217462?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB53217462?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Supermercados",
+      "bucket": "supermercados",
+      "posted_ts": 1788883751,
+      "posted_at": "2026-09-08T16:09:11.443805+00:00",
+      "score": 89.0
+    },
+    {
+      "key": "mercadolivre:MLB4189107767",
+      "marketplace": "mercadolivre",
+      "id": "MLB4189107767",
+      "title": "Azeite Oliva Extra Virgem Italiano 500ml Mercatto",
+      "title_norm": "azeite oliva extra virgem italiano 500ml mercatto",
+      "url": "https://www.mercadolivre.com.br/p/MLB54332454?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB54332454?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Supermercados",
+      "bucket": "supermercado",
+      "posted_ts": 1788883687,
+      "posted_at": "2026-09-08T16:08:07.320159+00:00",
+      "score": 111.87
+    },
+    {
       "key": "shopee:18077247106",
       "marketplace": "shopee",
       "id": "18077247106",
@@ -13957,49 +13999,7 @@
       "posted_ts": 1788139282,
       "posted_at": "2026-08-31T01:21:22.951556+00:00",
       "score": 89.6
-    },
-    {
-      "key": "shopee:58202309493",
-      "marketplace": "shopee",
-      "id": "58202309493",
-      "title": "Conjunto Feminino cropped e short Verão Linho  Duna Premium",
-      "title_norm": "conjunto feminino cropped e short verao linho duna premium",
-      "url": "https://shopee.com.br/product/760292239/58202309493",
-      "affiliate_url": "https://s.shopee.com.br/9fKW1sA6nt",
-      "category": "ZAWY MODAS",
-      "bucket": "moda_feminina",
-      "posted_ts": 1788139218,
-      "posted_at": "2026-08-31T01:20:18.787239+00:00",
-      "score": 107.38
-    },
-    {
-      "key": "shopee:58262387784",
-      "marketplace": "shopee",
-      "id": "58262387784",
-      "title": "Tênis O2x Feminino Esportivo Confortável Leve Treino Caminhada Corrida Moda Fitness",
-      "title_norm": "tenis o2x feminino esportivo confortavel leve treino caminhada corrida moda fitness",
-      "url": "https://shopee.com.br/product/1234991453/58262387784",
-      "affiliate_url": "https://s.shopee.com.br/1qbehU4KP4",
-      "category": ".ELITE SHOES",
-      "bucket": "calcados",
-      "posted_ts": 1788139154,
-      "posted_at": "2026-08-31T01:19:14.601074+00:00",
-      "score": 114.51
-    },
-    {
-      "key": "shopee:22193566084",
-      "marketplace": "shopee",
-      "id": "22193566084",
-      "title": "Calcinha de Emagrecimento / Cinta Modeladora / Roupa Íntima / Afina a Barriga Leggings Calça Feminina 2024",
-      "title_norm": "calcinha de emagrecimento cinta modeladora roupa intima afina a barriga leggings calca feminina 2024",
-      "url": "https://shopee.com.br/product/1409825975/22193566084",
-      "affiliate_url": "https://s.shopee.com.br/7fZQNtu8sm",
-      "category": "PANDA  BOUTIQUE",
-      "bucket": "moda_feminina",
-      "posted_ts": 1788139090,
-      "posted_at": "2026-08-31T01:18:10.382960+00:00",
-      "score": 119.43
     }
   ],
-  "updated_at": "2026-09-08T15:21:51.273201+00:00"
+  "updated_at": "2026-09-08T16:10:21.209303+00:00"
 }
