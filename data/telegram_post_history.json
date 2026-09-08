@@ -1,6 +1,20 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB6149389980",
+      "marketplace": "mercadolivre",
+      "id": "MLB6149389980",
+      "title": "Kit Furadeira e Parafusadeira com Parafusadeira Dewalt Modelo DCK200ME2GT 2 Baterias 20V",
+      "title_norm": "kit furadeira e parafusadeira com parafusadeira dewalt modelo dck200me2gt 2 baterias 20v",
+      "url": "https://www.mercadolivre.com.br/p/MLB37180897?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB37180897?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Ferramentas",
+      "bucket": "ferramentas",
+      "posted_ts": 1788908571,
+      "posted_at": "2026-09-08T23:02:51.093114+00:00",
+      "score": 109.0
+    },
+    {
       "key": "shopee:58256061886",
       "marketplace": "shopee",
       "id": "58256061886",
@@ -13985,21 +13999,7 @@
       "posted_ts": 1788166970,
       "posted_at": "2026-08-31T09:02:50.567284+00:00",
       "score": 162.91
-    },
-    {
-      "key": "shopee:23099137392",
-      "marketplace": "shopee",
-      "id": "23099137392",
-      "title": "Protetor Solar Facial FPS 60 Antioleosidade com Base Efeito Matte Sunless 40g Envio Imediato",
-      "title_norm": "protetor solar facial fps 60 antioleosidade com base efeito matte sunless 40g envio imediato",
-      "url": "https://shopee.com.br/product/1533394801/23099137392",
-      "affiliate_url": "https://s.shopee.com.br/1gIEy0ZK3M",
-      "category": "LaVitta Health",
-      "bucket": "lavitta_health",
-      "posted_ts": 1788164367,
-      "posted_at": "2026-08-31T08:19:27.747557+00:00",
-      "score": 94.62
     }
   ],
-  "updated_at": "2026-09-08T22:21:13.106934+00:00"
+  "updated_at": "2026-09-08T23:02:51.093129+00:00"
 }
