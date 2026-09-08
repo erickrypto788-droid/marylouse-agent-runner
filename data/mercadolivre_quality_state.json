@@ -1,6 +1,51 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB5355035490",
+      "product_id": "MLB5355035490",
+      "catalog_product_id": "MLB48409016",
+      "item_id": "MLB5355035490",
+      "url": "https://www.mercadolivre.com.br/p/MLB48409016?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB48409016?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "cama box solteiro colchao molas ensacadas orthoflex memor",
+      "title": "Cama Box Solteiro: Colchão Molas Ensacadas Orthoflex Memor",
+      "category": "Casa e Cozinha",
+      "price": 1236.86,
+      "score": 75.67,
+      "posted_ts": 1788829510,
+      "posted_at": "2026-09-08T01:05:10.218124+00:00"
+    },
+    {
+      "key": "mercadolivre:MLB6582939094",
+      "product_id": "MLB6582939094",
+      "catalog_product_id": "MLB67685128",
+      "item_id": "MLB6582939094",
+      "url": "https://www.mercadolivre.com.br/p/MLB67685128?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB67685128?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "jogo panelas grandes conjunto cacarolas 40cm 2 un aluminio",
+      "title": "Jogo Panelas Grandes Conjunto Caçarolas 40cm - 2 Un Alumínio",
+      "category": "Casa e Cozinha",
+      "price": 397.61,
+      "score": 111.0,
+      "posted_ts": 1788829446,
+      "posted_at": "2026-09-08T01:04:06.085661+00:00"
+    },
+    {
+      "key": "mercadolivre:MLB6291964460",
+      "product_id": "MLB6291964460",
+      "catalog_product_id": "MLB50493068",
+      "item_id": "MLB6291964460",
+      "url": "https://www.mercadolivre.com.br/p/MLB50493068?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB50493068?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "elgin air fryer fritadeira air fryer",
+      "title": "Elgin Air Fryer Fritadeira Air Fryer",
+      "category": "Casa e Cozinha",
+      "price": 212.0,
+      "score": 129.0,
+      "posted_ts": 1788829373,
+      "posted_at": "2026-09-08T01:02:53.207712+00:00"
+    },
+    {
       "key": "mercadolivre:MLB7500460708",
       "product_id": "MLB7500460708",
       "catalog_product_id": "MLB78191615",
@@ -841,5 +886,5 @@
       "posted_at": "2026-09-06T03:04:01.742737+00:00"
     }
   ],
-  "updated_at": "2026-09-08T00:07:05.388821+00:00"
+  "updated_at": "2026-09-08T01:05:10.218155+00:00"
 }
