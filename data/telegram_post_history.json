@@ -1,6 +1,34 @@
 {
   "posts": [
     {
+      "key": "shopee:58203391596",
+      "marketplace": "shopee",
+      "id": "58203391596",
+      "title": "pronta entrega envio imediato Sandália Saltinho 4 cm Tira de Strass Brilho  Calce Fácil Confortável elegante dia a dia",
+      "title_norm": "pronta entrega envio imediato sandalia saltinho 4 cm tira de strass brilho calce facil confortavel elegante dia a dia",
+      "url": "https://shopee.com.br/product/1715117439/58203391596",
+      "affiliate_url": "https://s.shopee.com.br/6L4H5LmZp5",
+      "category": "finnaflorr",
+      "bucket": "calcados",
+      "posted_ts": 1788844672,
+      "posted_at": "2026-09-08T05:17:52.853667+00:00",
+      "score": 121.85
+    },
+    {
+      "key": "shopee:23494198405",
+      "marketplace": "shopee",
+      "id": "23494198405",
+      "title": "Papete feminina Pérolas de strass de luxo sandália diferente feminina com fivela",
+      "title_norm": "papete feminina perolas de strass de luxo sandalia diferente feminina com fivela",
+      "url": "https://shopee.com.br/product/563080140/23494198405",
+      "affiliate_url": "https://s.shopee.com.br/8KpKCjmFWC",
+      "category": "Meijile Loja especializada",
+      "bucket": "pet",
+      "posted_ts": 1788844604,
+      "posted_at": "2026-09-08T05:16:44.436014+00:00",
+      "score": 122.76
+    },
+    {
       "key": "shopee:23494401704",
       "marketplace": "shopee",
       "id": "23494401704",
@@ -13971,35 +13999,7 @@
       "posted_ts": 1788109359,
       "posted_at": "2026-08-30T17:02:39.801324+00:00",
       "score": 88.0
-    },
-    {
-      "key": "shopee:23299120397",
-      "marketplace": "shopee",
-      "id": "23299120397",
-      "title": "Bola Voadora Mágica de Indução Inteligente UFO Transfronteiriça para Brinquedos Infantis",
-      "title_norm": "bola voadora magica de inducao inteligente ufo transfronteirica para brinquedos infantis",
-      "url": "https://shopee.com.br/product/1652641170/23299120397",
-      "affiliate_url": "https://s.shopee.com.br/80CHRiPzYu",
-      "category": "vendayiyou",
-      "bucket": "vendayiyou",
-      "posted_ts": 1788106867,
-      "posted_at": "2026-08-30T16:21:07.988387+00:00",
-      "score": 107.55
-    },
-    {
-      "key": "shopee:22498676912",
-      "marketplace": "shopee",
-      "id": "22498676912",
-      "title": "Fantasia Infantil Hot Wheels com Máscara - Pronta Entrega - Envio Rápido - KS Comércio",
-      "title_norm": "fantasia infantil hot wheels com mascara pronta entrega envio rapido ks comercio",
-      "url": "https://shopee.com.br/product/1569961643/22498676912",
-      "affiliate_url": "https://s.shopee.com.br/60RD42bjND",
-      "category": "kscomercio66557",
-      "bucket": "kscomercio66557",
-      "posted_ts": 1788106804,
-      "posted_at": "2026-08-30T16:20:04.096074+00:00",
-      "score": 108.73
     }
   ],
-  "updated_at": "2026-09-08T04:17:45.319384+00:00"
+  "updated_at": "2026-09-08T05:17:52.853677+00:00"
 }
