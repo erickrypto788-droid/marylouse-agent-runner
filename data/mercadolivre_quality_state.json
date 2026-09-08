@@ -1,6 +1,21 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB5026800457",
+      "product_id": "MLB5026800457",
+      "catalog_product_id": "MLB20643765",
+      "item_id": "MLB5026800457",
+      "url": "https://www.mercadolivre.com.br/p/MLB20643765?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB20643765?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "carregador iphone tipo usb c cor branco",
+      "title": "Carregador iPhone Tipo USB-C Cor Branco",
+      "category": "Informática",
+      "price": 349.99,
+      "score": 127.0,
+      "posted_ts": 1788858215,
+      "posted_at": "2026-09-08T09:03:35.230367+00:00"
+    },
+    {
       "key": "mercadolivre:MLB4353924282",
       "product_id": "MLB4353924282",
       "catalog_product_id": "MLB29479675",
@@ -869,37 +884,7 @@
       "score": 114.0,
       "posted_ts": 1788699917,
       "posted_at": "2026-09-06T13:05:17.745370+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB7304556746",
-      "product_id": "MLB7304556746",
-      "catalog_product_id": "MLB76168566",
-      "item_id": "MLB7304556746",
-      "url": "https://www.mercadolivre.com.br/p/MLB76168566?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB76168566?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "comedouro dispenser de racao automatico 8l para caes gatos cor comedouro automatico vermelho",
-      "title": "Comedouro Dispenser De Ração Automático 8l Para Cães Gatos Cor Comedouro Automatico Vermelho",
-      "category": "Pet",
-      "price": 43.25,
-      "score": 137.82,
-      "posted_ts": 1788685344,
-      "posted_at": "2026-09-06T09:02:24.341059+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB6290574990",
-      "product_id": "MLB6290574990",
-      "catalog_product_id": "MLB22958206",
-      "item_id": "MLB6290574990",
-      "url": "https://www.mercadolivre.com.br/p/MLB22958206?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB22958206?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "aparelho monitor pressao arterial portatil pulso omron",
-      "title": "Aparelho Monitor Pressão Arterial Portátil Pulso Omron",
-      "category": "Informática",
-      "price": 151.05,
-      "score": 158.16,
-      "posted_ts": 1788681753,
-      "posted_at": "2026-09-06T08:02:33.087619+00:00"
     }
   ],
-  "updated_at": "2026-09-08T07:03:13.036215+00:00"
+  "updated_at": "2026-09-08T09:03:35.230377+00:00"
 }

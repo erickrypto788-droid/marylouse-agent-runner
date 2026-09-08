@@ -1,6 +1,20 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB5026800457",
+      "marketplace": "mercadolivre",
+      "id": "MLB5026800457",
+      "title": "Carregador iPhone Tipo USB-C Cor Branco",
+      "title_norm": "carregador iphone tipo usb c cor branco",
+      "url": "https://www.mercadolivre.com.br/p/MLB20643765?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB20643765?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Informática",
+      "bucket": "celulares",
+      "posted_ts": 1788858215,
+      "posted_at": "2026-09-08T09:03:35.216666+00:00",
+      "score": 127.0
+    },
+    {
       "key": "shopee:52054081014",
       "marketplace": "shopee",
       "id": "52054081014",
@@ -13985,21 +13999,7 @@
       "posted_ts": 1788117475,
       "posted_at": "2026-08-30T19:17:55.601960+00:00",
       "score": 116.72
-    },
-    {
-      "key": "shopee:58209895415",
-      "marketplace": "shopee",
-      "id": "58209895415",
-      "title": "Mochila de Viagem Masculina e Feminina Impermeável e Reforçada com Compartimento para Notebook",
-      "title_norm": "mochila de viagem masculina e feminina impermeavel e reforcada com compartimento para notebook",
-      "url": "https://shopee.com.br/product/1789754785/58209895415",
-      "affiliate_url": "https://s.shopee.com.br/qj5qcW2a4",
-      "category": "Solperk",
-      "bucket": "informatica",
-      "posted_ts": 1788117411,
-      "posted_at": "2026-08-30T19:16:51.473736+00:00",
-      "score": 139.22
     }
   ],
-  "updated_at": "2026-09-08T08:20:12.668989+00:00"
+  "updated_at": "2026-09-08T09:03:35.216679+00:00"
 }
