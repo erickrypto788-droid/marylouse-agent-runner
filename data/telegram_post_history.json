@@ -1,6 +1,48 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB4087393645",
+      "marketplace": "mercadolivre",
+      "id": "MLB4087393645",
+      "title": "Tecido Suplex Liso Bege 1.65m Poliéster Elastano Moda Fitness Brás Tecidos",
+      "title_norm": "tecido suplex liso bege 1 65m poliester elastano moda fitness bras tecidos",
+      "url": "https://www.mercadolivre.com.br/p/MLB51007372?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB51007372?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Esportes",
+      "bucket": "esportes",
+      "posted_ts": 1788887166,
+      "posted_at": "2026-09-08T17:06:06.973857+00:00",
+      "score": 86.0
+    },
+    {
+      "key": "mercadolivre:MLB4795061481",
+      "marketplace": "mercadolivre",
+      "id": "MLB4795061481",
+      "title": "Molde Calça Legging Feminina Digital Pp-p-m-g-gg",
+      "title_norm": "molde calca legging feminina digital pp p m g gg",
+      "url": "https://www.mercadolivre.com.br/p/MLB74011420?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB74011420?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Moda Feminina",
+      "bucket": "moda_feminina",
+      "posted_ts": 1788887102,
+      "posted_at": "2026-09-08T17:05:02.895271+00:00",
+      "score": 88.0
+    },
+    {
+      "key": "mercadolivre:MLB7083949146",
+      "marketplace": "mercadolivre",
+      "id": "MLB7083949146",
+      "title": "Molde Calça Feminina Moletom Impresso P/m/g/gg/xg",
+      "title_norm": "molde calca feminina moletom impresso p m g gg xg",
+      "url": "https://www.mercadolivre.com.br/p/MLB74893563?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB74893563?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Moda Feminina",
+      "bucket": "moda_feminina",
+      "posted_ts": 1788887038,
+      "posted_at": "2026-09-08T17:03:58.745343+00:00",
+      "score": 88.0
+    },
+    {
       "key": "shopee:58205902043",
       "marketplace": "shopee",
       "id": "58205902043",
@@ -13957,49 +13999,7 @@
       "posted_ts": 1788145473,
       "posted_at": "2026-08-31T03:04:33.277806+00:00",
       "score": 79.13
-    },
-    {
-      "key": "mercadolivre:MLB6944718148",
-      "marketplace": "mercadolivre",
-      "id": "MLB6944718148",
-      "title": "Regata Feminina Modeladora Compressão Alta Sustentação Slim Cor Preto Tamanho GG",
-      "title_norm": "regata feminina modeladora compressao alta sustentacao slim cor preto tamanho gg",
-      "url": "https://www.mercadolivre.com.br/p/MLB73198693?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB73198693?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "category": "Moda Feminina",
-      "bucket": "moda_feminina",
-      "posted_ts": 1788145409,
-      "posted_at": "2026-08-31T03:03:29.229945+00:00",
-      "score": 88.0
-    },
-    {
-      "key": "shopee:20499072504",
-      "marketplace": "shopee",
-      "id": "20499072504",
-      "title": "Bermuda Moletom Masculina Academia Short Esporte Fitness Casual",
-      "title_norm": "bermuda moletom masculina academia short esporte fitness casual",
-      "url": "https://shopee.com.br/product/356114339/20499072504",
-      "affiliate_url": "https://s.shopee.com.br/6q0JSUHZMP",
-      "category": "Urban Shop Oficial",
-      "bucket": "urban_shop_oficial",
-      "posted_ts": 1788142862,
-      "posted_at": "2026-08-31T02:21:02.055397+00:00",
-      "score": 82.95
-    },
-    {
-      "key": "shopee:22798695078",
-      "marketplace": "shopee",
-      "id": "22798695078",
-      "title": "CAMISA 100% ALGODÃO UNISSEX ESTAMPA PERSONALIZADA LOGO UNIFORME FOTOS ARTS FRASES DA SUA PREFERENCIA",
-      "title_norm": "camisa 100 algodao unissex estampa personalizada logo uniforme fotos arts frases da sua preferencia",
-      "url": "https://shopee.com.br/product/1556141772/22798695078",
-      "affiliate_url": "https://s.shopee.com.br/8plNqA5UDv",
-      "category": "kilipe",
-      "bucket": "kilipe",
-      "posted_ts": 1788142798,
-      "posted_at": "2026-08-31T02:19:58.102113+00:00",
-      "score": 93.61
     }
   ],
-  "updated_at": "2026-09-08T16:21:03.534742+00:00"
+  "updated_at": "2026-09-08T17:06:06.973875+00:00"
 }

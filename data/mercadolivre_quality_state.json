@@ -1,6 +1,51 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB4087393645",
+      "product_id": "MLB4087393645",
+      "catalog_product_id": "MLB51007372",
+      "item_id": "MLB4087393645",
+      "url": "https://www.mercadolivre.com.br/p/MLB51007372?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB51007372?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "tecido suplex liso bege 1 65m poliester elastano moda fitness bras tecidos",
+      "title": "Tecido Suplex Liso Bege 1.65m Poliéster Elastano Moda Fitness Brás Tecidos",
+      "category": "Esportes",
+      "price": 500.0,
+      "score": 86.0,
+      "posted_ts": 1788887166,
+      "posted_at": "2026-09-08T17:06:06.986537+00:00"
+    },
+    {
+      "key": "mercadolivre:MLB4795061481",
+      "product_id": "MLB4795061481",
+      "catalog_product_id": "MLB74011420",
+      "item_id": "MLB4795061481",
+      "url": "https://www.mercadolivre.com.br/p/MLB74011420?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB74011420?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "molde calca legging feminina digital pp p m g gg",
+      "title": "Molde Calça Legging Feminina Digital Pp-p-m-g-gg",
+      "category": "Moda Feminina",
+      "price": 88.9,
+      "score": 88.0,
+      "posted_ts": 1788887102,
+      "posted_at": "2026-09-08T17:05:02.907480+00:00"
+    },
+    {
+      "key": "mercadolivre:MLB7083949146",
+      "product_id": "MLB7083949146",
+      "catalog_product_id": "MLB74893563",
+      "item_id": "MLB7083949146",
+      "url": "https://www.mercadolivre.com.br/p/MLB74893563?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB74893563?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "molde calca feminina moletom impresso p m g gg xg",
+      "title": "Molde Calça Feminina Moletom Impresso P/m/g/gg/xg",
+      "category": "Moda Feminina",
+      "price": 129.9,
+      "score": 88.0,
+      "posted_ts": 1788887038,
+      "posted_at": "2026-09-08T17:03:58.760246+00:00"
+    },
+    {
       "key": "mercadolivre:MLB6825867960",
       "product_id": "MLB6825867960",
       "catalog_product_id": "MLB68094806",
@@ -749,37 +794,7 @@
       "score": 179.3,
       "posted_ts": 1788717765,
       "posted_at": "2026-09-06T18:02:45.667946+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB4552665179",
-      "product_id": "MLB4552665179",
-      "catalog_product_id": "MLB20818317",
-      "item_id": "MLB4552665179",
-      "url": "https://www.mercadolivre.com.br/p/MLB20818317?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB20818317?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "whey protein concentrado whey protein isolado cafeina",
-      "title": "Whey Protein Concentrado + Whey Protein Isolado + Cafeína",
-      "category": "Esportes",
-      "price": 658.0,
-      "score": 86.0,
-      "posted_ts": 1788714227,
-      "posted_at": "2026-09-06T17:03:47.819411+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB6827581422",
-      "product_id": "MLB6827581422",
-      "catalog_product_id": "MLB70114350",
-      "item_id": "MLB6827581422",
-      "url": "https://www.mercadolivre.com.br/p/MLB70114350?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB70114350?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "prancha esteira ergometrica kikos e600ix preto",
-      "title": "Prancha Esteira Ergometrica Kikos E600ix Preto",
-      "category": "Esportes",
-      "price": 191.28,
-      "score": 120.27,
-      "posted_ts": 1788714158,
-      "posted_at": "2026-09-06T17:02:38.749550+00:00"
     }
   ],
-  "updated_at": "2026-09-08T16:10:21.222830+00:00"
+  "updated_at": "2026-09-08T17:06:06.986547+00:00"
 }
