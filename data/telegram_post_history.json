@@ -1,6 +1,34 @@
 {
   "posts": [
     {
+      "key": "shopee:19198992648",
+      "marketplace": "shopee",
+      "id": "19198992648",
+      "title": "Sapatenis Casual Masculino Sneaker Sola Alta Macio Chunky Confortável Estiloso Sola Oversize Lanç",
+      "title_norm": "sapatenis casual masculino sneaker sola alta macio chunky confortavel estiloso sola oversize lanc",
+      "url": "https://shopee.com.br/product/304755339/19198992648",
+      "affiliate_url": "https://s.shopee.com.br/4AznhXksoR",
+      "category": "Atria Shoes",
+      "bucket": "calcados",
+      "posted_ts": 1788909512,
+      "posted_at": "2026-09-08T23:18:32.113520+00:00",
+      "score": 106.92
+    },
+    {
+      "key": "shopee:58210080994",
+      "marketplace": "shopee",
+      "id": "58210080994",
+      "title": "Tênis Masculino Cadarço Elástico Sapatênis Meia Knit Couro Sintético Tecido",
+      "title_norm": "tenis masculino cadarco elastico sapatenis meia knit couro sintetico tecido",
+      "url": "https://shopee.com.br/product/1788702793/58210080994",
+      "affiliate_url": "https://s.shopee.com.br/gPvX6yCuo",
+      "category": "Shop da Ca",
+      "bucket": "calcados",
+      "posted_ts": 1788909444,
+      "posted_at": "2026-09-08T23:17:24.571012+00:00",
+      "score": 110.53
+    },
+    {
       "key": "mercadolivre:MLB6149389980",
       "marketplace": "mercadolivre",
       "id": "MLB6149389980",
@@ -13971,35 +13999,7 @@
       "posted_ts": 1788167870,
       "posted_at": "2026-08-31T09:17:50.564720+00:00",
       "score": 109.63
-    },
-    {
-      "key": "shopee:18698032904",
-      "marketplace": "shopee",
-      "id": "18698032904",
-      "title": "Vestido Infantil Menina Princesa  Listrado Floral Barrado para Festas  Dia Das Crianças",
-      "title_norm": "vestido infantil menina princesa listrado floral barrado para festas dia das criancas",
-      "url": "https://shopee.com.br/product/615604454/18698032904",
-      "affiliate_url": "https://s.shopee.com.br/4AzYkQiLBp",
-      "category": "Florenzza kids",
-      "bucket": "moda_feminina",
-      "posted_ts": 1788167803,
-      "posted_at": "2026-08-31T09:16:43.954437+00:00",
-      "score": 111.75
-    },
-    {
-      "key": "mercadolivre:MLB6711607808",
-      "marketplace": "mercadolivre",
-      "id": "MLB6711607808",
-      "title": "Combo Parafusadeira Furadeira de Impacto 13mm + Parafusadeira de Impacto 6,3mm DEWALT DCK276D2",
-      "title_norm": "combo parafusadeira furadeira de impacto 13mm parafusadeira de impacto 6 3mm dewalt dck276d2",
-      "url": "https://www.mercadolivre.com.br/p/MLB21865416?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB21865416?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "category": "Ferramentas",
-      "bucket": "ferramentas",
-      "posted_ts": 1788166970,
-      "posted_at": "2026-08-31T09:02:50.567284+00:00",
-      "score": 162.91
     }
   ],
-  "updated_at": "2026-09-08T23:02:51.093129+00:00"
+  "updated_at": "2026-09-08T23:18:32.113534+00:00"
 }
