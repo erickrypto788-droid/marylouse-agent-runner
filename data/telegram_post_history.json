@@ -1,6 +1,34 @@
 {
   "posts": [
     {
+      "key": "shopee:23494401704",
+      "marketplace": "shopee",
+      "id": "23494401704",
+      "title": "Tênis Sapatênis Masculino Casual Trabalho Social Dia a Dia Jaca Qualidade",
+      "title_norm": "tenis sapatenis masculino casual trabalho social dia a dia jaca qualidade",
+      "url": "https://shopee.com.br/product/1631645339/23494401704",
+      "affiliate_url": "https://s.shopee.com.br/1gIRSeNx4N",
+      "category": "Vanessa shoes01",
+      "bucket": "calcados",
+      "posted_ts": 1788841065,
+      "posted_at": "2026-09-08T04:17:45.319369+00:00",
+      "score": 104.65
+    },
+    {
+      "key": "shopee:23899355811",
+      "marketplace": "shopee",
+      "id": "23899355811",
+      "title": "Tênis Sapatênis Masculino Knit Confortável Respirável Estilso Fácil de Calçar Resistente para o Dia a Dia",
+      "title_norm": "tenis sapatenis masculino knit confortavel respiravel estilso facil de calcar resistente para o dia a dia",
+      "url": "https://shopee.com.br/product/954342223/23899355811",
+      "affiliate_url": "https://s.shopee.com.br/gPuGoRl6L",
+      "category": "DN VAREJO",
+      "bucket": "calcados",
+      "posted_ts": 1788841001,
+      "posted_at": "2026-09-08T04:16:41.290900+00:00",
+      "score": 106.99
+    },
+    {
       "key": "mercadolivre:MLB5167218221",
       "marketplace": "mercadolivre",
       "id": "MLB5167218221",
@@ -13971,35 +13999,7 @@
       "posted_ts": 1788106804,
       "posted_at": "2026-08-30T16:20:04.096074+00:00",
       "score": 108.73
-    },
-    {
-      "key": "shopee:23093553774",
-      "marketplace": "shopee",
-      "id": "23093553774",
-      "title": "Patinete infantil 3 rodas com led luzes dobrável ajustável menino menina",
-      "title_norm": "patinete infantil 3 rodas com led luzes dobravel ajustavel menino menina",
-      "url": "https://shopee.com.br/product/1384111782/23093553774",
-      "affiliate_url": "https://s.shopee.com.br/AAGm1hHkAX",
-      "category": "Atentu",
-      "bucket": "atentu",
-      "posted_ts": 1788106740,
-      "posted_at": "2026-08-30T16:19:00.216191+00:00",
-      "score": 109.27
-    },
-    {
-      "key": "shopee:22098666307",
-      "marketplace": "shopee",
-      "id": "22098666307",
-      "title": "Jogo De Xadrez Magnético Tabuleiro Portátil Pedras Magnéticas Educativas Damas Presentes Crianças",
-      "title_norm": "jogo de xadrez magnetico tabuleiro portatil pedras magneticas educativas damas presentes criancas",
-      "url": "https://shopee.com.br/product/340113364/22098666307",
-      "affiliate_url": "https://s.shopee.com.br/5LBWGorT5m",
-      "category": "Sophia Mundo Encantado",
-      "bucket": "sophia_mundo_encantado",
-      "posted_ts": 1788106667,
-      "posted_at": "2026-08-30T16:17:47.280164+00:00",
-      "score": 115.57
     }
   ],
-  "updated_at": "2026-09-08T04:02:37.891554+00:00"
+  "updated_at": "2026-09-08T04:17:45.319384+00:00"
 }
