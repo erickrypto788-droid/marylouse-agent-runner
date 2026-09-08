@@ -1,6 +1,20 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB4095236823",
+      "marketplace": "mercadolivre",
+      "id": "MLB4095236823",
+      "title": "Conjunto Panelas Antiaderente Tramontina 5peças Vermelho",
+      "title_norm": "conjunto panelas antiaderente tramontina 5pecas vermelho",
+      "url": "https://www.mercadolivre.com.br/p/MLB32947723?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB32947723?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Casa e Cozinha",
+      "bucket": "casa_cozinha",
+      "posted_ts": 1788890622,
+      "posted_at": "2026-09-08T18:03:42.959690+00:00",
+      "score": 111.02
+    },
+    {
       "key": "shopee:16404033482",
       "marketplace": "shopee",
       "id": "16404033482",
@@ -13985,21 +13999,7 @@
       "posted_ts": 1788149018,
       "posted_at": "2026-08-31T04:03:38.654578+00:00",
       "score": 103.52
-    },
-    {
-      "key": "shopee:58205060103",
-      "marketplace": "shopee",
-      "id": "58205060103",
-      "title": "Vestido Midi Evangélico Plus Size com Lastex na Cintura e Babado - Tecido Duna",
-      "title_norm": "vestido midi evangelico plus size com lastex na cintura e babado tecido duna",
-      "url": "https://shopee.com.br/product/1734943913/58205060103",
-      "affiliate_url": "https://s.shopee.com.br/80CIB3Tsvr",
-      "category": "AMF MODA",
-      "bucket": "moda_feminina",
-      "posted_ts": 1788146467,
-      "posted_at": "2026-08-31T03:21:07.267835+00:00",
-      "score": 88.92
     }
   ],
-  "updated_at": "2026-09-08T17:21:02.756136+00:00"
+  "updated_at": "2026-09-08T18:03:42.959708+00:00"
 }

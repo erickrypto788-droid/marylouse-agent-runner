@@ -1,6 +1,21 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB4095236823",
+      "product_id": "MLB4095236823",
+      "catalog_product_id": "MLB32947723",
+      "item_id": "MLB4095236823",
+      "url": "https://www.mercadolivre.com.br/p/MLB32947723?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB32947723?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "conjunto panelas antiaderente tramontina 5pecas vermelho",
+      "title": "Conjunto Panelas Antiaderente Tramontina 5peças Vermelho",
+      "category": "Casa e Cozinha",
+      "price": 299.0,
+      "score": 111.02,
+      "posted_ts": 1788890622,
+      "posted_at": "2026-09-08T18:03:42.972510+00:00"
+    },
+    {
       "key": "mercadolivre:MLB4087393645",
       "product_id": "MLB4087393645",
       "catalog_product_id": "MLB51007372",
@@ -779,22 +794,7 @@
       "score": 113.0,
       "posted_ts": 1788721434,
       "posted_at": "2026-09-06T19:03:54.507160+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB5495982148",
-      "product_id": "MLB5495982148",
-      "catalog_product_id": "MLB51434487",
-      "item_id": "MLB5495982148",
-      "url": "https://www.mercadolivre.com.br/p/MLB51434487?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB51434487?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "barbeador costas masculino traseiro dobravel aparador pelos",
-      "title": "Barbeador Costas Masculino Traseiro Dobrável Aparador Pelos",
-      "category": "Beleza",
-      "price": 218.0,
-      "score": 179.3,
-      "posted_ts": 1788717765,
-      "posted_at": "2026-09-06T18:02:45.667946+00:00"
     }
   ],
-  "updated_at": "2026-09-08T17:06:06.986547+00:00"
+  "updated_at": "2026-09-08T18:03:42.972520+00:00"
 }
