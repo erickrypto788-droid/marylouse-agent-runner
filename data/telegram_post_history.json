@@ -1,6 +1,48 @@
 {
   "posts": [
     {
+      "key": "shopee:55913136538",
+      "marketplace": "shopee",
+      "id": "55913136538",
+      "title": "Jogo Grand Theft Auto VI Edição Standard - PS5",
+      "title_norm": "jogo grand theft auto vi edicao standard ps5",
+      "url": "https://shopee.com.br/product/413072701/55913136538",
+      "affiliate_url": "https://s.shopee.com.br/4VcYiOMtrt",
+      "category": "Webfones Express",
+      "bucket": "webfones_express",
+      "posted_ts": 1788826727,
+      "posted_at": "2026-09-08T00:18:47.421181+00:00",
+      "score": 20.5
+    },
+    {
+      "key": "shopee:23297354301",
+      "marketplace": "shopee",
+      "id": "23297354301",
+      "title": "Playstation 5 - Um Controle - 1 ou 2 Controles Jogo Aleatório + Headset brinde  - SEMI NOVO",
+      "title_norm": "playstation 5 um controle 1 ou 2 controles jogo aleatorio headset brinde semi novo",
+      "url": "https://shopee.com.br/product/544739858/23297354301",
+      "affiliate_url": "https://s.shopee.com.br/1BMAbFTn5s",
+      "category": "Agaron",
+      "bucket": "agaron",
+      "posted_ts": 1788826663,
+      "posted_at": "2026-09-08T00:17:43.496887+00:00",
+      "score": 31.35
+    },
+    {
+      "key": "shopee:50513998071",
+      "marketplace": "shopee",
+      "id": "50513998071",
+      "title": "Controle sem Fio DualSense PS5 Sony PlayStation Branco",
+      "title_norm": "controle sem fio dualsense ps5 sony playstation branco",
+      "url": "https://shopee.com.br/product/1343318906/50513998071",
+      "affiliate_url": "https://s.shopee.com.br/2LY7zOPLiz",
+      "category": "NegociuN",
+      "bucket": "negociun",
+      "posted_ts": 1788826599,
+      "posted_at": "2026-09-08T00:16:39.611221+00:00",
+      "score": 69.25
+    },
+    {
       "key": "mercadolivre:MLB7500460708",
       "marketplace": "mercadolivre",
       "id": "MLB7500460708",
@@ -13957,49 +13999,7 @@
       "posted_ts": 1788094944,
       "posted_at": "2026-08-30T13:02:24.117467+00:00",
       "score": 120.27
-    },
-    {
-      "key": "shopee:21897737849",
-      "marketplace": "shopee",
-      "id": "21897737849",
-      "title": "Micro-ondas Philco 25L Função Tira Odor PM27",
-      "title_norm": "micro ondas philco 25l funcao tira odor pm27",
-      "url": "https://shopee.com.br/product/811034337/21897737849",
-      "affiliate_url": "https://s.shopee.com.br/6L41vt3973",
-      "category": "Philco Oficial",
-      "bucket": "philco_oficial",
-      "posted_ts": 1788092394,
-      "posted_at": "2026-08-30T12:19:54.624740+00:00",
-      "score": 84.68
-    },
-    {
-      "key": "shopee:23497309877",
-      "marketplace": "shopee",
-      "id": "23497309877",
-      "title": "Espremedor Elétrico Laranja Limão Frutas Fazer Sucos Recarregável Usb Cozinha",
-      "title_norm": "espremedor eletrico laranja limao frutas fazer sucos recarregavel usb cozinha",
-      "url": "https://shopee.com.br/product/807597901/23497309877",
-      "affiliate_url": "https://s.shopee.com.br/904oN4qFD1",
-      "category": "BIG MO",
-      "bucket": "big_mo",
-      "posted_ts": 1788092330,
-      "posted_at": "2026-08-30T12:18:50.663817+00:00",
-      "score": 124.46
-    },
-    {
-      "key": "shopee:20697354172",
-      "marketplace": "shopee",
-      "id": "20697354172",
-      "title": "Cafeteira Italiana Premium 6 Xícaras De Alumínio",
-      "title_norm": "cafeteira italiana premium 6 xicaras de aluminio",
-      "url": "https://shopee.com.br/product/408653169/20697354172",
-      "affiliate_url": "https://s.shopee.com.br/9fKTu0heiX",
-      "category": "SELLNEEDS",
-      "bucket": "casa_cozinha",
-      "posted_ts": 1788092266,
-      "posted_at": "2026-08-30T12:17:46.697237+00:00",
-      "score": 125.76
     }
   ],
-  "updated_at": "2026-09-08T00:07:05.376305+00:00"
+  "updated_at": "2026-09-08T00:18:47.421195+00:00"
 }
