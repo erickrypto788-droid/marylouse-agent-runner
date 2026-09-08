@@ -1,6 +1,21 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB4353924282",
+      "product_id": "MLB4353924282",
+      "catalog_product_id": "MLB29479675",
+      "item_id": "MLB4353924282",
+      "url": "https://www.mercadolivre.com.br/p/MLB29479675?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB29479675?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "mesa computador escrivaninha notebook gamer cor branco ajl",
+      "title": "Mesa Computador Escrivaninha Notebook Gamer cor branco AJL",
+      "category": "Informática",
+      "price": 267.2,
+      "score": 113.0,
+      "posted_ts": 1788850993,
+      "posted_at": "2026-09-08T07:03:13.036201+00:00"
+    },
+    {
       "key": "mercadolivre:MLB4139317597",
       "product_id": "MLB4139317597",
       "catalog_product_id": "MLB23649057",
@@ -886,5 +901,5 @@
       "posted_at": "2026-09-06T08:02:33.087619+00:00"
     }
   ],
-  "updated_at": "2026-09-08T06:03:40.348459+00:00"
+  "updated_at": "2026-09-08T07:03:13.036215+00:00"
 }

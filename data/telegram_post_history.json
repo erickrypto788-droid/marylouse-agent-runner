@@ -1,6 +1,20 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB4353924282",
+      "marketplace": "mercadolivre",
+      "id": "MLB4353924282",
+      "title": "Mesa Computador Escrivaninha Notebook Gamer cor branco AJL",
+      "title_norm": "mesa computador escrivaninha notebook gamer cor branco ajl",
+      "url": "https://www.mercadolivre.com.br/p/MLB29479675?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB29479675?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Informática",
+      "bucket": "informatica",
+      "posted_ts": 1788850993,
+      "posted_at": "2026-09-08T07:03:13.022106+00:00",
+      "score": 113.0
+    },
+    {
       "key": "shopee:23194677648",
       "marketplace": "shopee",
       "id": "23194677648",
@@ -13985,21 +13999,7 @@
       "posted_ts": 1788113026,
       "posted_at": "2026-08-30T18:03:46.760931+00:00",
       "score": 104.0
-    },
-    {
-      "key": "mercadolivre:MLB4455473269",
-      "marketplace": "mercadolivre",
-      "id": "MLB4455473269",
-      "title": "Soundbar Samsung Hw-b450f + Soundbar Hw-b400f",
-      "title_norm": "soundbar samsung hw b450f soundbar hw b400f",
-      "url": "https://www.mercadolivre.com.br/p/MLB65128496?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB65128496?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "category": "Informática",
-      "bucket": "informatica",
-      "posted_ts": 1788112962,
-      "posted_at": "2026-08-30T18:02:42.330772+00:00",
-      "score": 104.0
     }
   ],
-  "updated_at": "2026-09-08T06:20:12.423566+00:00"
+  "updated_at": "2026-09-08T07:03:13.022123+00:00"
 }
