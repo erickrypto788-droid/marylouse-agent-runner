@@ -1,6 +1,66 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB7500460708",
+      "product_id": "MLB7500460708",
+      "catalog_product_id": "MLB78191615",
+      "item_id": "MLB7500460708",
+      "url": "https://www.mercadolivre.com.br/p/MLB78191615?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB78191615?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "tecido paete tribal africano 1 30x1 50m vestido feminino cor azul",
+      "title": "Tecido Paetê Tribal Africano 1,30x1,50m Vestido Feminino Cor Azul",
+      "category": "Moda Feminina",
+      "price": 305.0,
+      "score": 86.0,
+      "posted_ts": 1788826025,
+      "posted_at": "2026-09-08T00:07:05.388808+00:00"
+    },
+    {
+      "key": "mercadolivre:MLB3957584779",
+      "product_id": "MLB3957584779",
+      "catalog_product_id": "MLB45621460",
+      "item_id": "MLB3957584779",
+      "url": "https://www.mercadolivre.com.br/p/MLB45621460?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB45621460?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "tecido suplex liso amarelo de 5 metros para moda fitness",
+      "title": "Tecido Suplex Liso Amarelo de 5 Metros para Moda Fitness",
+      "category": "Esportes",
+      "price": 157.79,
+      "score": 88.0,
+      "posted_ts": 1788825959,
+      "posted_at": "2026-09-08T00:05:59.950918+00:00"
+    },
+    {
+      "key": "mercadolivre:MLB4712632217",
+      "product_id": "MLB4712632217",
+      "catalog_product_id": "MLB66992733",
+      "item_id": "MLB4712632217",
+      "url": "https://www.mercadolivre.com.br/p/MLB66992733?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB66992733?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "meia calca feminina termica plus size",
+      "title": "Meia Calça Feminina Térmica Plus Size",
+      "category": "Moda Feminina",
+      "price": 79.9,
+      "score": 88.0,
+      "posted_ts": 1788825895,
+      "posted_at": "2026-09-08T00:04:55.811100+00:00"
+    },
+    {
+      "key": "mercadolivre:MLB5049841699",
+      "product_id": "MLB5049841699",
+      "catalog_product_id": "MLB59779508",
+      "item_id": "MLB5049841699",
+      "url": "https://www.mercadolivre.com.br/p/MLB59779508?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB59779508?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "camiseta feminina modeladora",
+      "title": "Camiseta feminina modeladora",
+      "category": "Moda Feminina",
+      "price": 280.0,
+      "score": 88.0,
+      "posted_ts": 1788825830,
+      "posted_at": "2026-09-08T00:03:50.911912+00:00"
+    },
+    {
       "key": "mercadolivre:MLB7597141594",
       "product_id": "MLB7597141594",
       "catalog_product_id": "MLB50178919",
@@ -779,37 +839,7 @@
       "score": 88.0,
       "posted_ts": 1788663841,
       "posted_at": "2026-09-06T03:04:01.742737+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB7413459282",
-      "product_id": "MLB7413459282",
-      "catalog_product_id": "MLB70606708",
-      "item_id": "MLB7413459282",
-      "url": "https://www.mercadolivre.com.br/p/MLB70606708?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB70606708?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "capa esteira ergometrica esteira athletic racer",
-      "title": "Capa Esteira Ergométrica Esteira Athletic Racer",
-      "category": "Esportes",
-      "price": 106.28,
-      "score": 61.0,
-      "posted_ts": 1788653048,
-      "posted_at": "2026-09-06T00:04:08.405021+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB6815537068",
-      "product_id": "MLB6815537068",
-      "catalog_product_id": "MLB36405300",
-      "item_id": "MLB6815537068",
-      "url": "https://www.mercadolivre.com.br/p/MLB36405300?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB36405300?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "bike spinning ergometrica cor preto",
-      "title": "Bike Spinning Ergométrica Cor Preto",
-      "category": "Esportes",
-      "price": 1789.0,
-      "score": 83.0,
-      "posted_ts": 1788652984,
-      "posted_at": "2026-09-06T00:03:04.477378+00:00"
     }
   ],
-  "updated_at": "2026-09-07T23:09:45.877412+00:00"
+  "updated_at": "2026-09-08T00:07:05.388821+00:00"
 }
