@@ -1,6 +1,48 @@
 {
   "posts": [
     {
+      "key": "shopee:10648848842",
+      "marketplace": "shopee",
+      "id": "10648848842",
+      "title": "Mala Case Capa Bolsa Porta Case Notebook Slim 14,6/15,6 Alça Dupla Reforçada",
+      "title_norm": "mala case capa bolsa porta case notebook slim 14 6 15 6 alca dupla reforcada",
+      "url": "https://shopee.com.br/product/391712221/10648848842",
+      "affiliate_url": "https://s.shopee.com.br/2gAzJj3nBR",
+      "category": "Street Man",
+      "bucket": "informatica",
+      "posted_ts": 1788877163,
+      "posted_at": "2026-09-08T14:19:23.161361+00:00",
+      "score": 76.48
+    },
+    {
+      "key": "shopee:22893701336",
+      "marketplace": "shopee",
+      "id": "22893701336",
+      "title": "Mala Esportiva Academia Unissex Transversal e Mochila",
+      "title_norm": "mala esportiva academia unissex transversal e mochila",
+      "url": "https://shopee.com.br/product/1284795277/22893701336",
+      "affiliate_url": "https://s.shopee.com.br/7VGF4blONI",
+      "category": "DIVA IMPORT",
+      "bucket": "bolsas",
+      "posted_ts": 1788877098,
+      "posted_at": "2026-09-08T14:18:18.884294+00:00",
+      "score": 111.29
+    },
+    {
+      "key": "shopee:18999841858",
+      "marketplace": "shopee",
+      "id": "18999841858",
+      "title": "TOMI MITO Bolsa Feminina Grande para Escritório e Rotina com Alça de Ombro Bolso Frontal e Zíper B742",
+      "title_norm": "tomi mito bolsa feminina grande para escritorio e rotina com alca de ombro bolso frontal e ziper b742",
+      "url": "https://shopee.com.br/product/1468415010/18999841858",
+      "affiliate_url": "https://s.shopee.com.br/5foatEo2ZX",
+      "category": "Amy.Store",
+      "bucket": "bolsas",
+      "posted_ts": 1788877034,
+      "posted_at": "2026-09-08T14:17:14.620274+00:00",
+      "score": 120.76
+    },
+    {
       "key": "shopee:22193520552",
       "marketplace": "shopee",
       "id": "22193520552",
@@ -13957,49 +13999,7 @@
       "posted_ts": 1788135399,
       "posted_at": "2026-08-31T00:16:39.342155+00:00",
       "score": 70.31
-    },
-    {
-      "key": "mercadolivre:MLB6978080348",
-      "marketplace": "mercadolivre",
-      "id": "MLB6978080348",
-      "title": "Impressora Etiquetas Monocromática Toledo Prix IT400M USB",
-      "title_norm": "impressora etiquetas monocromatica toledo prix it400m usb",
-      "url": "https://www.mercadolivre.com.br/p/MLB46173110?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB46173110?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "category": "Informática",
-      "bucket": "informatica",
-      "posted_ts": 1788134757,
-      "posted_at": "2026-08-31T00:05:57.435725+00:00",
-      "score": 86.0
-    },
-    {
-      "key": "mercadolivre:MLB5201599262",
-      "marketplace": "mercadolivre",
-      "id": "MLB5201599262",
-      "title": "Ribbon Resina Mastercorp 110x300 Para Impressora Etiquetas BOPP Vinil",
-      "title_norm": "ribbon resina mastercorp 110x300 para impressora etiquetas bopp vinil",
-      "url": "https://www.mercadolivre.com.br/p/MLB44215301?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB44215301?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "category": "Informática",
-      "bucket": "informatica",
-      "posted_ts": 1788134687,
-      "posted_at": "2026-08-31T00:04:47.944723+00:00",
-      "score": 86.0
-    },
-    {
-      "key": "mercadolivre:MLB3929416863",
-      "marketplace": "mercadolivre",
-      "id": "MLB3929416863",
-      "title": "Impressora Etiquetas Logistica Código De Barras Usb",
-      "title_norm": "impressora etiquetas logistica codigo de barras usb",
-      "url": "https://www.mercadolivre.com.br/p/MLB39019401?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB39019401?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "category": "Informática",
-      "bucket": "informatica",
-      "posted_ts": 1788134609,
-      "posted_at": "2026-08-31T00:03:29.853648+00:00",
-      "score": 110.48
     }
   ],
-  "updated_at": "2026-09-08T13:23:11.654880+00:00"
+  "updated_at": "2026-09-08T14:19:23.161380+00:00"
 }
