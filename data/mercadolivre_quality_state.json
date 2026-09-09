@@ -1,6 +1,21 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB6501092642",
+      "product_id": "MLB6501092642",
+      "catalog_product_id": "MLB66915787",
+      "item_id": "MLB6501092642",
+      "url": "https://www.mercadolivre.com.br/p/MLB66915787?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB66915787?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "fone bluetooth esportivo 320mah fone sem fio fone academia lilas",
+      "title": "Fone Bluetooth Esportivo 320mah Fone Sem Fio Fone Academia Lilás",
+      "category": "Esportes",
+      "price": 55.0,
+      "score": 115.39,
+      "posted_ts": 1788915785,
+      "posted_at": "2026-09-09T01:03:05.095129+00:00"
+    },
+    {
       "key": "mercadolivre:MLB5179437451",
       "product_id": "MLB5179437451",
       "catalog_product_id": "MLB50957106",
@@ -721,5 +736,5 @@
       "posted_at": "2026-09-07T02:03:27.813564+00:00"
     }
   ],
-  "updated_at": "2026-09-09T00:03:20.847727+00:00"
+  "updated_at": "2026-09-09T01:03:05.095138+00:00"
 }
