@@ -1,6 +1,20 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB4974714813",
+      "marketplace": "mercadolivre",
+      "id": "MLB4974714813",
+      "title": "Ração Gato Estimacat Premium Filhote Sabor Frango 10kg",
+      "title_norm": "racao gato estimacat premium filhote sabor frango 10kg",
+      "url": "https://www.mercadolivre.com.br/p/MLB66844874?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB66844874?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Pet",
+      "bucket": "pet",
+      "posted_ts": 1788930186,
+      "posted_at": "2026-09-09T05:03:06.477715+00:00",
+      "score": 154.83
+    },
+    {
       "key": "shopee:22094442475",
       "marketplace": "shopee",
       "id": "22094442475",
@@ -13985,21 +13999,7 @@
       "posted_ts": 1788182465,
       "posted_at": "2026-08-31T13:21:05.291826+00:00",
       "score": 49.3
-    },
-    {
-      "key": "shopee:22193520552",
-      "marketplace": "shopee",
-      "id": "22193520552",
-      "title": "KIT 3 LENÇOL PARA BERÇO PORTATIL SIDE BY SIDE SAFETY OU COSCO PLUGGY 100% Algodão",
-      "title_norm": "kit 3 lencol para berco portatil side by side safety ou cosco pluggy 100 algodao",
-      "url": "https://shopee.com.br/product/446109173/22193520552",
-      "affiliate_url": "https://s.shopee.com.br/6VNTnCjCc2",
-      "category": "LOJA DE CASA ",
-      "bucket": "loja_de_casa",
-      "posted_ts": 1788182401,
-      "posted_at": "2026-08-31T13:20:01.304602+00:00",
-      "score": 50.09
     }
   ],
-  "updated_at": "2026-09-09T04:21:03.589654+00:00"
+  "updated_at": "2026-09-09T05:03:06.477731+00:00"
 }
