@@ -1,6 +1,48 @@
 {
   "posts": [
     {
+      "key": "shopee:22191925108",
+      "marketplace": "shopee",
+      "id": "22191925108",
+      "title": "Mochila Coleção 2023 Luxo Viagem Executiva Reforçada",
+      "title_norm": "mochila colecao 2023 luxo viagem executiva reforcada",
+      "url": "https://shopee.com.br/product/691323218/22191925108",
+      "affiliate_url": "https://s.shopee.com.br/3LQhRL1MJw",
+      "category": "ULTRA TECH COMERCIAL LTDA",
+      "bucket": "bolsas",
+      "posted_ts": 1788949170,
+      "posted_at": "2026-09-09T10:19:30.700912+00:00",
+      "score": 82.62
+    },
+    {
+      "key": "shopee:58202297715",
+      "marketplace": "shopee",
+      "id": "58202297715",
+      "title": "Mochila Transversal Masculina - Bolsa de Peito Multifuncional Impermeável",
+      "title_norm": "mochila transversal masculina bolsa de peito multifuncional impermeavel",
+      "url": "https://shopee.com.br/product/1630783360/58202297715",
+      "affiliate_url": "https://s.shopee.com.br/W6W48Kwbw",
+      "category": "vxcs4mh5zv",
+      "bucket": "bolsas",
+      "posted_ts": 1788949101,
+      "posted_at": "2026-09-09T10:18:21.609551+00:00",
+      "score": 88.35
+    },
+    {
+      "key": "shopee:13403247994",
+      "marketplace": "shopee",
+      "id": "13403247994",
+      "title": "Capa Maleta Notebook Macbook 15,6' / 13 / 14 / 17 Polegadas Rígida Anti-Impacto Bolso Externo C/Alça",
+      "title_norm": "capa maleta notebook macbook 15 6 13 14 17 polegadas rigida anti impacto bolso externo c alca",
+      "url": "https://shopee.com.br/product/391712221/13403247994",
+      "affiliate_url": "https://s.shopee.com.br/5VVC1K1qAp",
+      "category": "Street Man",
+      "bucket": "informatica",
+      "posted_ts": 1788949015,
+      "posted_at": "2026-09-09T10:16:55.350715+00:00",
+      "score": 100.03
+    },
+    {
       "key": "mercadolivre:MLB4040219599",
       "marketplace": "mercadolivre",
       "id": "MLB4040219599",
@@ -13957,49 +13999,7 @@
       "posted_ts": 1788206741,
       "posted_at": "2026-08-31T20:05:41.345962+00:00",
       "score": 88.0
-    },
-    {
-      "key": "mercadolivre:MLB4712632217",
-      "marketplace": "mercadolivre",
-      "id": "MLB4712632217",
-      "title": "Meia Calça Feminina Térmica Plus Size",
-      "title_norm": "meia calca feminina termica plus size",
-      "url": "https://www.mercadolivre.com.br/p/MLB66992733?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB66992733?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "category": "Moda Feminina",
-      "bucket": "moda_feminina",
-      "posted_ts": 1788206677,
-      "posted_at": "2026-08-31T20:04:37.296863+00:00",
-      "score": 88.0
-    },
-    {
-      "key": "mercadolivre:MLB5049841699",
-      "marketplace": "mercadolivre",
-      "id": "MLB5049841699",
-      "title": "Camiseta feminina modeladora",
-      "title_norm": "camiseta feminina modeladora",
-      "url": "https://www.mercadolivre.com.br/p/MLB59779508?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB59779508?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "category": "Moda Feminina",
-      "bucket": "moda_feminina",
-      "posted_ts": 1788206613,
-      "posted_at": "2026-08-31T20:03:33.272836+00:00",
-      "score": 88.0
-    },
-    {
-      "key": "shopee:55913136538",
-      "marketplace": "shopee",
-      "id": "55913136538",
-      "title": "Jogo Grand Theft Auto VI Edição Standard - PS5",
-      "title_norm": "jogo grand theft auto vi edicao standard ps5",
-      "url": "https://shopee.com.br/product/413072701/55913136538",
-      "affiliate_url": "https://s.shopee.com.br/6Akf3bvtOt",
-      "category": "Webfones Express",
-      "bucket": "webfones_express",
-      "posted_ts": 1788203886,
-      "posted_at": "2026-08-31T19:18:06.612308+00:00",
-      "score": 20.5
     }
   ],
-  "updated_at": "2026-09-09T10:06:46.889705+00:00"
+  "updated_at": "2026-09-09T10:19:30.700935+00:00"
 }
