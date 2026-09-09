@@ -1,6 +1,36 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB7586788652",
+      "product_id": "MLB7586788652",
+      "catalog_product_id": "MLB74370100",
+      "item_id": "MLB7586788652",
+      "url": "https://www.mercadolivre.com.br/p/MLB74370100?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB74370100?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "chapinha cabelo profissional 450f slim bivolt titanium",
+      "title": "Chapinha Cabelo Profissional 450f Slim Bivolt, Titanium",
+      "category": "Beleza",
+      "price": 74.9,
+      "score": 113.0,
+      "posted_ts": 1788962659,
+      "posted_at": "2026-09-09T14:04:19.899671+00:00"
+    },
+    {
+      "key": "mercadolivre:MLB7574008382",
+      "product_id": "MLB7574008382",
+      "catalog_product_id": "MLB77039877",
+      "item_id": "MLB7574008382",
+      "url": "https://www.mercadolivre.com.br/p/MLB77039877?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB77039877?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "perfume feminino olympia",
+      "title": "Perfume Feminino Olympia",
+      "category": "Beleza",
+      "price": 184.0,
+      "score": 188.67,
+      "posted_ts": 1788962595,
+      "posted_at": "2026-09-09T14:03:15.515201+00:00"
+    },
+    {
       "key": "mercadolivre:MLB6218013518",
       "product_id": "MLB6218013518",
       "catalog_product_id": "MLB39387638",
@@ -614,52 +644,7 @@
       "score": 103.67,
       "posted_ts": 1788796975,
       "posted_at": "2026-09-07T16:02:55.137316+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB5653921846",
-      "product_id": "MLB5653921846",
-      "catalog_product_id": "MLB45798788",
-      "item_id": "MLB5653921846",
-      "url": "https://www.mercadolivre.com.br/p/MLB45798788?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB45798788?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "monitor 24 polegadas 1920x1200px vga hdmi 5ms rapido",
-      "title": "Monitor 24 Polegadas 1920x1200px Vga Hdmi 5ms Rápido",
-      "category": "Informática",
-      "price": 565.0,
-      "score": 86.0,
-      "posted_ts": 1788789794,
-      "posted_at": "2026-09-07T14:03:14.666702+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB6711607808",
-      "product_id": "MLB6711607808",
-      "catalog_product_id": "MLB21865416",
-      "item_id": "MLB6711607808",
-      "url": "https://www.mercadolivre.com.br/p/MLB21865416?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB21865416?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "combo parafusadeira furadeira de impacto 13mm parafusadeira de impacto 6 3mm dewalt dck276d2",
-      "title": "Combo Parafusadeira Furadeira de Impacto 13mm + Parafusadeira de Impacto 6,3mm DEWALT DCK276D2",
-      "category": "Ferramentas",
-      "price": 1476.0,
-      "score": 169.65,
-      "posted_ts": 1788786145,
-      "posted_at": "2026-09-07T13:02:25.387711+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB4750057565",
-      "product_id": "MLB4750057565",
-      "catalog_product_id": "MLB54083722",
-      "item_id": "MLB4750057565",
-      "url": "https://www.mercadolivre.com.br/p/MLB54083722?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB54083722?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "fritadeira air fryer mondial oven digital 127v",
-      "title": "Fritadeira Air Fryer Mondial Oven Digital 127v",
-      "category": "Casa e Cozinha",
-      "price": 1800.0,
-      "score": 124.0,
-      "posted_ts": 1788782580,
-      "posted_at": "2026-09-07T12:03:00.890317+00:00"
     }
   ],
-  "updated_at": "2026-09-09T11:04:04.366778+00:00"
+  "updated_at": "2026-09-09T14:04:19.899680+00:00"
 }
