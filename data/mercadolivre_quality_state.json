@@ -1,6 +1,36 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB5205428915",
+      "product_id": "MLB5205428915",
+      "catalog_product_id": "MLB38283662",
+      "item_id": "MLB5205428915",
+      "url": "https://www.mercadolivre.com.br/p/MLB38283662?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB38283662?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "samsung galaxy a55 256gb 8gb awesome navy",
+      "title": "Samsung Galaxy A55 256gb 8gb Awesome Navy",
+      "category": "Informática",
+      "price": 2999.99,
+      "score": 124.0,
+      "posted_ts": 1788919417,
+      "posted_at": "2026-09-09T02:03:37.984655+00:00"
+    },
+    {
+      "key": "mercadolivre:MLB7238539878",
+      "product_id": "MLB7238539878",
+      "catalog_product_id": "MLB39444837",
+      "item_id": "MLB7238539878",
+      "url": "https://www.mercadolivre.com.br/p/MLB39444837?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB39444837?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "smartphone samsung galaxy s23 ultra 512gb creme",
+      "title": "Smartphone Samsung Galaxy S23 Ultra 512gb Creme",
+      "category": "Informática",
+      "price": 5999.0,
+      "score": 124.0,
+      "posted_ts": 1788919354,
+      "posted_at": "2026-09-09T02:02:34.031014+00:00"
+    },
+    {
       "key": "mercadolivre:MLB6501092642",
       "product_id": "MLB6501092642",
       "catalog_product_id": "MLB66915787",
@@ -719,22 +749,7 @@
       "score": 128.8,
       "posted_ts": 1788750169,
       "posted_at": "2026-09-07T03:02:49.548896+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB4719617285",
-      "product_id": "MLB4719617285",
-      "catalog_product_id": "MLB66541712",
-      "item_id": "MLB4719617285",
-      "url": "https://www.mercadolivre.com.br/p/MLB66541712?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB66541712?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "racao gato estimacat premium adulto sabor carne 15kg",
-      "title": "Ração Gato Estimacat Premium Adulto Sabor Carne 15kg",
-      "category": "Pet",
-      "price": 267.24,
-      "score": 154.83,
-      "posted_ts": 1788746607,
-      "posted_at": "2026-09-07T02:03:27.813564+00:00"
     }
   ],
-  "updated_at": "2026-09-09T01:03:05.095138+00:00"
+  "updated_at": "2026-09-09T02:03:37.984665+00:00"
 }
