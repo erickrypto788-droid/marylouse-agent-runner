@@ -1,6 +1,48 @@
 {
   "posts": [
     {
+      "key": "shopee:22898980977",
+      "marketplace": "shopee",
+      "id": "22898980977",
+      "title": "Principia Kit Duo c/ 2 Protetores Solares Faciais - PS-01 FPS 60",
+      "title_norm": "principia kit duo c 2 protetores solares faciais ps 01 fps 60",
+      "url": "https://shopee.com.br/product/373261329/22898980977",
+      "affiliate_url": "https://s.shopee.com.br/AAH172yFGB",
+      "category": "Principia Skincare",
+      "bucket": "principia_skincare",
+      "posted_ts": 1788923933,
+      "posted_at": "2026-09-09T03:18:53.471541+00:00",
+      "score": 71.26
+    },
+    {
+      "key": "shopee:23597915053",
+      "marketplace": "shopee",
+      "id": "23597915053",
+      "title": "Kit Sundown Fps50 200ml + Sundown Fps50 120ml",
+      "title_norm": "kit sundown fps50 200ml sundown fps50 120ml",
+      "url": "https://shopee.com.br/product/1045085918/23597915053",
+      "affiliate_url": "https://s.shopee.com.br/70JzLEAIgi",
+      "category": "Droga Clara",
+      "bucket": "droga_clara",
+      "posted_ts": 1788923869,
+      "posted_at": "2026-09-09T03:17:49.349992+00:00",
+      "score": 73.42
+    },
+    {
+      "key": "shopee:40624794433",
+      "marketplace": "shopee",
+      "id": "40624794433",
+      "title": "Escova 5 em 1 Secador, Pente, Modelador, Aumenta volume Profissional 110V E 220V",
+      "title_norm": "escova 5 em 1 secador pente modelador aumenta volume profissional 110v e 220v",
+      "url": "https://shopee.com.br/product/1459307687/40624794433",
+      "affiliate_url": "https://s.shopee.com.br/2BEjaLBJAW",
+      "category": "Link&LinkShop_Brasil",
+      "bucket": "beleza",
+      "posted_ts": 1788923805,
+      "posted_at": "2026-09-09T03:16:45.262698+00:00",
+      "score": 132.55
+    },
+    {
       "key": "shopee:22197514607",
       "marketplace": "shopee",
       "id": "22197514607",
@@ -13957,49 +13999,7 @@
       "posted_ts": 1788178794,
       "posted_at": "2026-08-31T12:19:54.608233+00:00",
       "score": 90.46
-    },
-    {
-      "key": "shopee:41503878761",
-      "marketplace": "shopee",
-      "id": "41503878761",
-      "title": "Medidor Glicose Diabete Gtech Vita / Ultra Kit Com 1 Aparelho 1 Caneta 10 Tiras 10 Lancetas Completo",
-      "title_norm": "medidor glicose diabete gtech vita ultra kit com 1 aparelho 1 caneta 10 tiras 10 lancetas completo",
-      "url": "https://shopee.com.br/product/961638733/41503878761",
-      "affiliate_url": "https://s.shopee.com.br/2BES2Y2oh5",
-      "category": "ROMALIZ",
-      "bucket": "romaliz",
-      "posted_ts": 1788178730,
-      "posted_at": "2026-08-31T12:18:50.452672+00:00",
-      "score": 99.2
-    },
-    {
-      "key": "shopee:23697633170",
-      "marketplace": "shopee",
-      "id": "23697633170",
-      "title": "Inalador Nebulizador Portátil Ultrassônico Atomizador De Baixo Nó Para Crianças E Adultos",
-      "title_norm": "inalador nebulizador portatil ultrassonico atomizador de baixo no para criancas e adultos",
-      "url": "https://shopee.com.br/product/1080128546/23697633170",
-      "affiliate_url": "https://s.shopee.com.br/9V16Yt1uXp",
-      "category": "LEAO COMERCIO ",
-      "bucket": "saude",
-      "posted_ts": 1788178666,
-      "posted_at": "2026-08-31T12:17:46.312119+00:00",
-      "score": 136.98
-    },
-    {
-      "key": "shopee:58262310122",
-      "marketplace": "shopee",
-      "id": "58262310122",
-      "title": "Medidor de pressão arterial digital + tensiômetros +Termômetro infravermelho + oxímetro de dedo",
-      "title_norm": "medidor de pressao arterial digital tensiometros termometro infravermelho oximetro de dedo",
-      "url": "https://shopee.com.br/product/1569849623/58262310122",
-      "affiliate_url": "https://s.shopee.com.br/2gAmQKNWYK",
-      "category": "CASA TOP SHOP",
-      "bucket": "saude",
-      "posted_ts": 1788178602,
-      "posted_at": "2026-08-31T12:16:42.226744+00:00",
-      "score": 139.55
     }
   ],
-  "updated_at": "2026-09-09T02:20:56.436908+00:00"
+  "updated_at": "2026-09-09T03:18:53.471554+00:00"
 }
