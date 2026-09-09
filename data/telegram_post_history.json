@@ -1,6 +1,20 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB4302548173",
+      "marketplace": "mercadolivre",
+      "id": "MLB4302548173",
+      "title": "Comedouro Automático Ração Aquário Terrario Peixe Tartaruga",
+      "title_norm": "comedouro automatico racao aquario terrario peixe tartaruga",
+      "url": "https://www.mercadolivre.com.br/p/MLB44164135?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB44164135?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Pet",
+      "bucket": "pet",
+      "posted_ts": 1788991430,
+      "posted_at": "2026-09-09T22:03:50.772760+00:00",
+      "score": 137.09
+    },
+    {
       "key": "shopee:23193886166",
       "marketplace": "shopee",
       "id": "23193886166",
@@ -13985,21 +13999,7 @@
       "posted_ts": 1788243594,
       "posted_at": "2026-09-01T06:19:54.554912+00:00",
       "score": 109.86
-    },
-    {
-      "key": "shopee:44959639811",
-      "marketplace": "shopee",
-      "id": "44959639811",
-      "title": "Barra de Proteína Snacks Protein Bar Flash 35g 10 Unids Bodyaction",
-      "title_norm": "barra de proteina snacks protein bar flash 35g 10 unids bodyaction",
-      "url": "https://shopee.com.br/product/443076516/44959639811",
-      "affiliate_url": "https://s.shopee.com.br/5As60OKvKq",
-      "category": "Bodyaction Oficial",
-      "bucket": "bodyaction_oficial",
-      "posted_ts": 1788243530,
-      "posted_at": "2026-09-01T06:18:50.622548+00:00",
-      "score": 112.34
     }
   ],
-  "updated_at": "2026-09-09T21:21:09.411433+00:00"
+  "updated_at": "2026-09-09T22:03:50.772780+00:00"
 }

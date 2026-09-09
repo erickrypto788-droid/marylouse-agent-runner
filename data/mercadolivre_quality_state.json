@@ -1,6 +1,21 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB4302548173",
+      "product_id": "MLB4302548173",
+      "catalog_product_id": "MLB44164135",
+      "item_id": "MLB4302548173",
+      "url": "https://www.mercadolivre.com.br/p/MLB44164135?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB44164135?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "comedouro automatico racao aquario terrario peixe tartaruga",
+      "title": "Comedouro Automático Ração Aquário Terrario Peixe Tartaruga",
+      "category": "Pet",
+      "price": 117.85,
+      "score": 137.09,
+      "posted_ts": 1788991430,
+      "posted_at": "2026-09-09T22:03:50.784423+00:00"
+    },
+    {
       "key": "mercadolivre:MLB7038340852",
       "product_id": "MLB7038340852",
       "catalog_product_id": "MLB61698753",
@@ -659,22 +674,7 @@
       "score": 130.0,
       "posted_ts": 1788822379,
       "posted_at": "2026-09-07T23:06:19.537116+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB7601679290",
-      "product_id": "MLB7601679290",
-      "catalog_product_id": "MLB78736073",
-      "item_id": "MLB7601679290",
-      "url": "https://www.mercadolivre.com.br/p/MLB78736073?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB78736073?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "impressora etiquetas portatil niimbot d11 1 rolo azul",
-      "title": "Impressora Etiquetas Portátil Niimbot D11 + 1 Rolo Azul",
-      "category": "Informática",
-      "price": 169.36,
-      "score": 156.96,
-      "posted_ts": 1788814973,
-      "posted_at": "2026-09-07T21:02:53.004767+00:00"
     }
   ],
-  "updated_at": "2026-09-09T19:05:32.470915+00:00"
+  "updated_at": "2026-09-09T22:03:50.784432+00:00"
 }
