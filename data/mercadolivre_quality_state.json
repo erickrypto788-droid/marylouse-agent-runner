@@ -1,6 +1,21 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB5179437451",
+      "product_id": "MLB5179437451",
+      "catalog_product_id": "MLB50957106",
+      "item_id": "MLB5179437451",
+      "url": "https://www.mercadolivre.com.br/p/MLB50957106?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB50957106?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "ssd nvme kingston 1tb nv3 m 2 2280 pcie 4 0 nf e cor ssd nvme m 2 2280 kingston 1tb",
+      "title": "Ssd Nvme Kingston 1tb Nv3 M.2 2280 Pcie 4.0 Nf-e Cor Ssd Nvme M.2 2280 Kingston 1tb",
+      "category": "Informática",
+      "price": 1079.99,
+      "score": 111.0,
+      "posted_ts": 1788912200,
+      "posted_at": "2026-09-09T00:03:20.847718+00:00"
+    },
+    {
       "key": "mercadolivre:MLB6149389980",
       "product_id": "MLB6149389980",
       "catalog_product_id": "MLB37180897",
@@ -704,22 +719,7 @@
       "score": 154.83,
       "posted_ts": 1788746607,
       "posted_at": "2026-09-07T02:03:27.813564+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB4657112471",
-      "product_id": "MLB4657112471",
-      "catalog_product_id": "MLB61421090",
-      "item_id": "MLB4657112471",
-      "url": "https://www.mercadolivre.com.br/p/MLB61421090?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB61421090?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "smartphone xiaomi redmi 15c 256gb global azul",
-      "title": "Smartphone Xiaomi Redmi 15c 256gb Global Azul",
-      "category": "Informática",
-      "price": 1135.0,
-      "score": 127.0,
-      "posted_ts": 1788735813,
-      "posted_at": "2026-09-06T23:03:33.210041+00:00"
     }
   ],
-  "updated_at": "2026-09-08T23:02:51.107340+00:00"
+  "updated_at": "2026-09-09T00:03:20.847727+00:00"
 }

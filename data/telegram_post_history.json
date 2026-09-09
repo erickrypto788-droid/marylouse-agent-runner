@@ -1,6 +1,20 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB5179437451",
+      "marketplace": "mercadolivre",
+      "id": "MLB5179437451",
+      "title": "Ssd Nvme Kingston 1tb Nv3 M.2 2280 Pcie 4.0 Nf-e Cor Ssd Nvme M.2 2280 Kingston 1tb",
+      "title_norm": "ssd nvme kingston 1tb nv3 m 2 2280 pcie 4 0 nf e cor ssd nvme m 2 2280 kingston 1tb",
+      "url": "https://www.mercadolivre.com.br/p/MLB50957106?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB50957106?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Informática",
+      "bucket": "informatica",
+      "posted_ts": 1788912200,
+      "posted_at": "2026-09-09T00:03:20.836246+00:00",
+      "score": 111.0
+    },
+    {
       "key": "shopee:19198992648",
       "marketplace": "shopee",
       "id": "19198992648",
@@ -13985,21 +13999,7 @@
       "posted_ts": 1788167938,
       "posted_at": "2026-08-31T09:18:58.317109+00:00",
       "score": 108.73
-    },
-    {
-      "key": "shopee:22296700159",
-      "marketplace": "shopee",
-      "id": "22296700159",
-      "title": "Conjunto Infantil Menino Verão – Camiseta + Bermuda Confortável | 1 a 12 Anos",
-      "title_norm": "conjunto infantil menino verao camiseta bermuda confortavel 1 a 12 anos",
-      "url": "https://shopee.com.br/product/877098627/22296700159",
-      "affiliate_url": "https://s.shopee.com.br/LmrRfyin7",
-      "category": "Moda Kids Virtual",
-      "bucket": "moda_kids_virtual",
-      "posted_ts": 1788167870,
-      "posted_at": "2026-08-31T09:17:50.564720+00:00",
-      "score": 109.63
     }
   ],
-  "updated_at": "2026-09-08T23:18:32.113534+00:00"
+  "updated_at": "2026-09-09T00:03:20.836257+00:00"
 }
