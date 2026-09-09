@@ -1,6 +1,21 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB6218013518",
+      "product_id": "MLB6218013518",
+      "catalog_product_id": "MLB39387638",
+      "item_id": "MLB6218013518",
+      "url": "https://www.mercadolivre.com.br/p/MLB39387638?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB39387638?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "jogo panelas tramontina coimbra 5pcs preto antiaderente",
+      "title": "Jogo Panelas Tramontina Coimbra 5pçs Preto Antiaderente",
+      "category": "Casa e Cozinha",
+      "price": 213.89,
+      "score": 129.0,
+      "posted_ts": 1788951844,
+      "posted_at": "2026-09-09T11:04:04.366764+00:00"
+    },
+    {
       "key": "mercadolivre:MLB4040219599",
       "product_id": "MLB4040219599",
       "catalog_product_id": "MLB36244629",
@@ -644,22 +659,7 @@
       "score": 124.0,
       "posted_ts": 1788782580,
       "posted_at": "2026-09-07T12:03:00.890317+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB3474477475",
-      "product_id": "MLB3474477475",
-      "catalog_product_id": "MLB24908965",
-      "item_id": "MLB3474477475",
-      "url": "https://www.mercadolivre.com.br/p/MLB24908965?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB24908965?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "lamina aparador pelos philips bodygroom qg3379 qg3280 qg3380",
-      "title": "Lamina Aparador Pelos Philips Bodygroom Qg3379 Qg3280 Qg3380",
-      "category": "Beleza",
-      "price": 129.9,
-      "score": 119.78,
-      "posted_ts": 1788779038,
-      "posted_at": "2026-09-07T11:03:58.594896+00:00"
     }
   ],
-  "updated_at": "2026-09-09T10:06:46.906599+00:00"
+  "updated_at": "2026-09-09T11:04:04.366778+00:00"
 }

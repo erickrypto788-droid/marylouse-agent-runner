@@ -1,6 +1,20 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB6218013518",
+      "marketplace": "mercadolivre",
+      "id": "MLB6218013518",
+      "title": "Jogo Panelas Tramontina Coimbra 5pçs Preto Antiaderente",
+      "title_norm": "jogo panelas tramontina coimbra 5pcs preto antiaderente",
+      "url": "https://www.mercadolivre.com.br/p/MLB39387638?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB39387638?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Casa e Cozinha",
+      "bucket": "casa_cozinha",
+      "posted_ts": 1788951844,
+      "posted_at": "2026-09-09T11:04:04.355076+00:00",
+      "score": 129.0
+    },
+    {
       "key": "shopee:22191925108",
       "marketplace": "shopee",
       "id": "22191925108",
@@ -13985,21 +13999,7 @@
       "posted_ts": 1788206805,
       "posted_at": "2026-08-31T20:06:45.428332+00:00",
       "score": 86.0
-    },
-    {
-      "key": "mercadolivre:MLB3957584779",
-      "marketplace": "mercadolivre",
-      "id": "MLB3957584779",
-      "title": "Tecido Suplex Liso Amarelo de 5 Metros para Moda Fitness",
-      "title_norm": "tecido suplex liso amarelo de 5 metros para moda fitness",
-      "url": "https://www.mercadolivre.com.br/p/MLB45621460?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB45621460?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "category": "Esportes",
-      "bucket": "esportes",
-      "posted_ts": 1788206741,
-      "posted_at": "2026-08-31T20:05:41.345962+00:00",
-      "score": 88.0
     }
   ],
-  "updated_at": "2026-09-09T10:19:30.700935+00:00"
+  "updated_at": "2026-09-09T11:04:04.355093+00:00"
 }
