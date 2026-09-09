@@ -1,6 +1,48 @@
 {
   "posts": [
     {
+      "key": "shopee:23294841043",
+      "marketplace": "shopee",
+      "id": "23294841043",
+      "title": "Papete feminina Tiras Pedraria Strass Sola Confort",
+      "title_norm": "papete feminina tiras pedraria strass sola confort",
+      "url": "https://shopee.com.br/product/1739016198/23294841043",
+      "affiliate_url": "https://s.shopee.com.br/1gISn3x7pT",
+      "category": "sandaliasvalbelle",
+      "bucket": "pet",
+      "posted_ts": 1788913147,
+      "posted_at": "2026-09-09T00:19:07.897192+00:00",
+      "score": 76.43
+    },
+    {
+      "key": "shopee:41672473191",
+      "marketplace": "shopee",
+      "id": "41672473191",
+      "title": "Sandália Feminina Shekinah Salto Bloco Quadrado  Tiras Cruzadas Super Leve Confortável Moderna",
+      "title_norm": "sandalia feminina shekinah salto bloco quadrado tiras cruzadas super leve confortavel moderna",
+      "url": "https://shopee.com.br/product/375175329/41672473191",
+      "affiliate_url": "https://s.shopee.com.br/1BMCC8lYPw",
+      "category": "Shekinah Calçados",
+      "bucket": "calcados",
+      "posted_ts": 1788913083,
+      "posted_at": "2026-09-09T00:18:03.285196+00:00",
+      "score": 94.18
+    },
+    {
+      "key": "shopee:22598314126",
+      "marketplace": "shopee",
+      "id": "22598314126",
+      "title": "Bota Botina Feminina Texana Macia Country Cowboy Bico Quadrado Confortável Zíper E Rebites",
+      "title_norm": "bota botina feminina texana macia country cowboy bico quadrado confortavel ziper e rebites",
+      "url": "https://shopee.com.br/product/1318905115/22598314126",
+      "affiliate_url": "https://s.shopee.com.br/9peAW4NUxS",
+      "category": "F_MIX",
+      "bucket": "calcados",
+      "posted_ts": 1788913007,
+      "posted_at": "2026-09-09T00:16:47.595641+00:00",
+      "score": 109.26
+    },
+    {
       "key": "mercadolivre:MLB5179437451",
       "marketplace": "mercadolivre",
       "id": "MLB5179437451",
@@ -13957,49 +13999,7 @@
       "posted_ts": 1788170562,
       "posted_at": "2026-08-31T10:02:42.155615+00:00",
       "score": 113.0
-    },
-    {
-      "key": "shopee:23594282832",
-      "marketplace": "shopee",
-      "id": "23594282832",
-      "title": "Tênis Baby Infantil Preto Casual Menino Anatômico Respirável Dia a Dia 20 ao 33 Envio Imediato",
-      "title_norm": "tenis baby infantil preto casual menino anatomico respiravel dia a dia 20 ao 33 envio imediato",
-      "url": "https://shopee.com.br/product/1505524991/23594282832",
-      "affiliate_url": "https://s.shopee.com.br/70Jk7dkkkO",
-      "category": "Iron_Kids",
-      "bucket": "calcados",
-      "posted_ts": 1788168076,
-      "posted_at": "2026-08-31T09:21:16.544115+00:00",
-      "score": 102.43
-    },
-    {
-      "key": "shopee:44809598956",
-      "marketplace": "shopee",
-      "id": "44809598956",
-      "title": "10 Calcinhas Infantil Menina Moça Confortáveis Forro de Algodão Dia a Dia Promoção",
-      "title_norm": "10 calcinhas infantil menina moca confortaveis forro de algodao dia a dia promocao",
-      "url": "https://shopee.com.br/product/264196168/44809598956",
-      "affiliate_url": "https://s.shopee.com.br/AKaDM3MeUr",
-      "category": "Fashion_4you",
-      "bucket": "fashion_4you",
-      "posted_ts": 1788168009,
-      "posted_at": "2026-08-31T09:20:09.692010+00:00",
-      "score": 104.34
-    },
-    {
-      "key": "shopee:22393665567",
-      "marketplace": "shopee",
-      "id": "22393665567",
-      "title": "Tênis Branco Infantil Leve Macio Confortável Original Envio Imediato",
-      "title_norm": "tenis branco infantil leve macio confortavel original envio imediato",
-      "url": "https://shopee.com.br/product/303419140/22393665567",
-      "affiliate_url": "https://s.shopee.com.br/8V8XuOf2hZ",
-      "category": "Momy Calçados ✅",
-      "bucket": "calcados",
-      "posted_ts": 1788167938,
-      "posted_at": "2026-08-31T09:18:58.317109+00:00",
-      "score": 108.73
     }
   ],
-  "updated_at": "2026-09-09T00:03:20.836257+00:00"
+  "updated_at": "2026-09-09T00:19:07.897206+00:00"
 }
