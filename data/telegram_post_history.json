@@ -1,6 +1,48 @@
 {
   "posts": [
     {
+      "key": "shopee:18677592848",
+      "marketplace": "shopee",
+      "id": "18677592848",
+      "title": "Kit Bobina Bopp Laminação A4 21,5cmx50m Brilho E Fosco Encadernação Capas Agendas Personalizados",
+      "title_norm": "kit bobina bopp laminacao a4 21 5cmx50m brilho e fosco encadernacao capas agendas personalizados",
+      "url": "https://shopee.com.br/product/710048346/18677592848",
+      "affiliate_url": "https://s.shopee.com.br/112mjAlxP2",
+      "category": "Marpax ",
+      "bucket": "marpax",
+      "posted_ts": 1788952741,
+      "posted_at": "2026-09-09T11:19:01.746123+00:00",
+      "score": 30.14
+    },
+    {
+      "key": "shopee:23598815356",
+      "marketplace": "shopee",
+      "id": "23598815356",
+      "title": "Agenda para agendamento de clientes com páginas não datada",
+      "title_norm": "agenda para agendamento de clientes com paginas nao datada",
+      "url": "https://shopee.com.br/product/221799126/23598815356",
+      "affiliate_url": "https://s.shopee.com.br/AUts2dBn7m",
+      "category": "PP Personalizado",
+      "bucket": "pp_personalizado",
+      "posted_ts": 1788952677,
+      "posted_at": "2026-09-09T11:17:57.784745+00:00",
+      "score": 62.27
+    },
+    {
+      "key": "shopee:18299332007",
+      "marketplace": "shopee",
+      "id": "18299332007",
+      "title": "Caneta Glitter 4/6 Cores Flash Silver Gel Marcador Metálico para Bullet Journal Agenda Desenho DIY",
+      "title_norm": "caneta glitter 4 6 cores flash silver gel marcador metalico para bullet journal agenda desenho diy",
+      "url": "https://shopee.com.br/product/1234149276/18299332007",
+      "affiliate_url": "https://s.shopee.com.br/3g3Xu4XXiD",
+      "category": "KissShe",
+      "bucket": "kissshe",
+      "posted_ts": 1788952613,
+      "posted_at": "2026-09-09T11:16:53.666147+00:00",
+      "score": 76.14
+    },
+    {
       "key": "mercadolivre:MLB6218013518",
       "marketplace": "mercadolivre",
       "id": "MLB6218013518",
@@ -13957,49 +13999,7 @@
       "posted_ts": 1788207549,
       "posted_at": "2026-08-31T20:19:09.532848+00:00",
       "score": 112.25
-    },
-    {
-      "key": "shopee:23591594431",
-      "marketplace": "shopee",
-      "id": "23591594431",
-      "title": "Legging Flanelada Grossa Calça Leg Peluciada Forrada Por Dentro Costura Reforçada Calça Térmica",
-      "title_norm": "legging flanelada grossa calca leg peluciada forrada por dentro costura reforcada calca termica",
-      "url": "https://shopee.com.br/product/869193731/23591594431",
-      "affiliate_url": "https://s.shopee.com.br/1LfMqGMeVS",
-      "category": "OxeanJeans",
-      "bucket": "moda_feminina",
-      "posted_ts": 1788207485,
-      "posted_at": "2026-08-31T20:18:05.507526+00:00",
-      "score": 113.95
-    },
-    {
-      "key": "shopee:44451988896",
-      "marketplace": "shopee",
-      "id": "44451988896",
-      "title": "Calça Pantalona Alfaiataria Premium Com Bolso PROMOÇÃO",
-      "title_norm": "calca pantalona alfaiataria premium com bolso promocao",
-      "url": "https://shopee.com.br/product/1077139873/44451988896",
-      "affiliate_url": "https://s.shopee.com.br/1qbdRBKkUX",
-      "category": "valiosa fashion moda",
-      "bucket": "valiosa_fashion_moda",
-      "posted_ts": 1788207416,
-      "posted_at": "2026-08-31T20:16:56.318917+00:00",
-      "score": 114.03
-    },
-    {
-      "key": "mercadolivre:MLB5120190903",
-      "marketplace": "mercadolivre",
-      "id": "MLB5120190903",
-      "title": "Tecido Paetê Tribal Africano 1,30x1,50m Vestido Feminino Cor Preto",
-      "title_norm": "tecido paete tribal africano 1 30x1 50m vestido feminino cor preto",
-      "url": "https://www.mercadolivre.com.br/p/MLB77976379?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB77976379?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "category": "Moda Feminina",
-      "bucket": "moda_feminina",
-      "posted_ts": 1788206805,
-      "posted_at": "2026-08-31T20:06:45.428332+00:00",
-      "score": 86.0
     }
   ],
-  "updated_at": "2026-09-09T11:04:04.355093+00:00"
+  "updated_at": "2026-09-09T11:19:01.746143+00:00"
 }
