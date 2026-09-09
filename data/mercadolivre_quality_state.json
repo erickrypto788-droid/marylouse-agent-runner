@@ -1,6 +1,36 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB7038340852",
+      "product_id": "MLB7038340852",
+      "catalog_product_id": "MLB61698753",
+      "item_id": "MLB7038340852",
+      "url": "https://www.mercadolivre.com.br/p/MLB61698753?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB61698753?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "smartphone samsung galaxy a56 5g preto 256gb",
+      "title": "Smartphone Samsung Galaxy A56 5g Preto 256gb",
+      "category": "Informática",
+      "price": 2969.0,
+      "score": 124.0,
+      "posted_ts": 1788980732,
+      "posted_at": "2026-09-09T19:05:32.470900+00:00"
+    },
+    {
+      "key": "mercadolivre:MLB6099604986",
+      "product_id": "MLB6099604986",
+      "catalog_product_id": "MLB47310708",
+      "item_id": "MLB6099604986",
+      "url": "https://www.mercadolivre.com.br/p/MLB47310708?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB47310708?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "smartphone samsung galaxy a32 128gb branco",
+      "title": "Smartphone Samsung Galaxy A32 128gb Branco",
+      "category": "Informática",
+      "price": 1959.9,
+      "score": 131.47,
+      "posted_ts": 1788980663,
+      "posted_at": "2026-09-09T19:04:23.945859+00:00"
+    },
+    {
       "key": "mercadolivre:MLB5209333141",
       "product_id": "MLB5209333141",
       "catalog_product_id": "MLB76143330",
@@ -644,22 +674,7 @@
       "score": 156.96,
       "posted_ts": 1788814973,
       "posted_at": "2026-09-07T21:02:53.004767+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB4694661245",
-      "product_id": "MLB4694661245",
-      "catalog_product_id": "MLB67529462",
-      "item_id": "MLB4694661245",
-      "url": "https://www.mercadolivre.com.br/p/MLB67529462?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB67529462?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "comedouro elevado duplo racao gato porcelana acrilico 190ml porta racao gato comedouro rosa",
-      "title": "Comedouro Elevado Duplo Ração Gato Porcelana Acrilico 190ml Porta Racao Gato Comedouro Rosa",
-      "category": "Pet",
-      "price": 49.9,
-      "score": 146.91,
-      "posted_ts": 1788807814,
-      "posted_at": "2026-09-07T19:03:34.740111+00:00"
     }
   ],
-  "updated_at": "2026-09-09T17:03:34.703054+00:00"
+  "updated_at": "2026-09-09T19:05:32.470915+00:00"
 }
