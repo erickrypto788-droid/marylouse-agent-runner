@@ -1,6 +1,48 @@
 {
   "posts": [
     {
+      "key": "shopee:11298889483",
+      "marketplace": "shopee",
+      "id": "11298889483",
+      "title": "Kit chinelo Luiza Liz e necessaire bolsa de mão pequena kit dia a dia blogueira",
+      "title_norm": "kit chinelo luiza liz e necessaire bolsa de mao pequena kit dia a dia blogueira",
+      "url": "https://shopee.com.br/product/333046879/11298889483",
+      "affiliate_url": "https://s.shopee.com.br/8fSDj0j47Y",
+      "category": "Luiza Liz calçados",
+      "bucket": "calcados",
+      "posted_ts": 1788945541,
+      "posted_at": "2026-09-09T09:19:01.224551+00:00",
+      "score": 94.2
+    },
+    {
+      "key": "shopee:58254359534",
+      "marketplace": "shopee",
+      "id": "58254359534",
+      "title": "Bolsa Feminina de Ombro Média Universidade Lazer Casual Viagem Linda",
+      "title_norm": "bolsa feminina de ombro media universidade lazer casual viagem linda",
+      "url": "https://shopee.com.br/product/1068796498/58254359534",
+      "affiliate_url": "https://s.shopee.com.br/5VVBxBmSV7",
+      "category": "BAO SHI IMPORTADOS",
+      "bucket": "bolsas",
+      "posted_ts": 1788945473,
+      "posted_at": "2026-09-09T09:17:53.042556+00:00",
+      "score": 108.59
+    },
+    {
+      "key": "shopee:23593847901",
+      "marketplace": "shopee",
+      "id": "23593847901",
+      "title": "Mochila Bolsa Viagem Resistente Coreana Masculina Feminina Colorida",
+      "title_norm": "mochila bolsa viagem resistente coreana masculina feminina colorida",
+      "url": "https://shopee.com.br/product/1127030290/23593847901",
+      "affiliate_url": "https://s.shopee.com.br/Ln4XR84Nl",
+      "category": "JIMMY.STORE",
+      "bucket": "bolsas",
+      "posted_ts": 1788945404,
+      "posted_at": "2026-09-09T09:16:44.140329+00:00",
+      "score": 114.56
+    },
+    {
       "key": "mercadolivre:MLB5807012940",
       "marketplace": "mercadolivre",
       "id": "MLB5807012940",
@@ -13957,49 +13999,7 @@
       "posted_ts": 1788203416,
       "posted_at": "2026-08-31T19:10:16.701038+00:00",
       "score": 89.0
-    },
-    {
-      "key": "mercadolivre:MLB5532475634",
-      "marketplace": "mercadolivre",
-      "id": "MLB5532475634",
-      "title": "Miniatura Creme Dental 15g",
-      "title_norm": "miniatura creme dental 15g",
-      "url": "https://www.mercadolivre.com.br/p/MLB53217462?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB53217462?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "category": "Supermercados",
-      "bucket": "supermercados",
-      "posted_ts": 1788203352,
-      "posted_at": "2026-08-31T19:09:12.648694+00:00",
-      "score": 89.0
-    },
-    {
-      "key": "mercadolivre:MLB7120285004",
-      "marketplace": "mercadolivre",
-      "id": "MLB7120285004",
-      "title": "Kaisasa Shampoo Tonalizante Para Cobrir Cabelo Cinzento，shampoo cabelo branco，shampoo barba，shampoo redutor grisalhos，shampoo tonalizante preto，hair dye shampoo，black hair dye，500ml-Preto",
-      "title_norm": "kaisasa shampoo tonalizante para cobrir cabelo cinzento shampoo cabelo branco shampoo barba shampoo redutor grisalhos shampoo tonalizante preto hair dye shampoo black hair dye 500ml preto",
-      "url": "https://www.mercadolivre.com.br/p/MLB50178919?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB50178919?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "category": "Beleza",
-      "bucket": "beleza",
-      "posted_ts": 1788203288,
-      "posted_at": "2026-08-31T19:08:08.561483+00:00",
-      "score": 109.3
-    },
-    {
-      "key": "mercadolivre:MLB6428938830",
-      "marketplace": "mercadolivre",
-      "id": "MLB6428938830",
-      "title": "Fralda Pampers Supersec M 30 Unidades",
-      "title_norm": "fralda pampers supersec m 30 unidades",
-      "url": "https://www.mercadolivre.com.br/p/MLB36175310?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB36175310?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "category": "Mãe e Bebê",
-      "bucket": "fraldas",
-      "posted_ts": 1788203224,
-      "posted_at": "2026-08-31T19:07:04.448142+00:00",
-      "score": 130.0
     }
   ],
-  "updated_at": "2026-09-09T09:10:58.821614+00:00"
+  "updated_at": "2026-09-09T09:19:01.224566+00:00"
 }
