@@ -1,6 +1,34 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB5209333141",
+      "marketplace": "mercadolivre",
+      "id": "MLB5209333141",
+      "title": "Impressora térmica Impressora de recibos Mini impressora Bluetooth Impressora térmica portátil ARCASHOPPING mini impressora térmica Impressora de recibos Bluetooth Mini impressora térmica portátil",
+      "title_norm": "impressora termica impressora de recibos mini impressora bluetooth impressora termica portatil arcashopping mini impressora termica impressora de recibos bluetooth mini impressora termica portatil",
+      "url": "https://www.mercadolivre.com.br/p/MLB76143330?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB76143330?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Informática",
+      "bucket": "informatica",
+      "posted_ts": 1788973414,
+      "posted_at": "2026-09-09T17:03:34.689780+00:00",
+      "score": 86.0
+    },
+    {
+      "key": "mercadolivre:MLB4036053887",
+      "marketplace": "mercadolivre",
+      "id": "MLB4036053887",
+      "title": "SSD Nvme Asgard AN4 1tb Gen4",
+      "title_norm": "ssd nvme asgard an4 1tb gen4",
+      "url": "https://www.mercadolivre.com.br/p/MLB24522367?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB24522367?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Informática",
+      "bucket": "informatica",
+      "posted_ts": 1788973344,
+      "posted_at": "2026-09-09T17:02:24.076764+00:00",
+      "score": 111.0
+    },
+    {
       "key": "shopee:58205018164",
       "marketplace": "shopee",
       "id": "58205018164",
@@ -13971,35 +13999,7 @@
       "posted_ts": 1788225563,
       "posted_at": "2026-09-01T01:19:23.905383+00:00",
       "score": 95.34
-    },
-    {
-      "key": "shopee:23093480302",
-      "marketplace": "shopee",
-      "id": "23093480302",
-      "title": "Basike Carregador Portátil Power Bank 20000mAh Bateria Externa Para iPhone Samsung Pow079",
-      "title_norm": "basike carregador portatil power bank 20000mah bateria externa para iphone samsung pow079",
-      "url": "https://shopee.com.br/product/1371911195/23093480302",
-      "affiliate_url": "https://s.shopee.com.br/9V14tsCUGD",
-      "category": "Basike Loja Oficial",
-      "bucket": "celulares",
-      "posted_ts": 1788225499,
-      "posted_at": "2026-09-01T01:18:19.729881+00:00",
-      "score": 131.73
-    },
-    {
-      "key": "shopee:58252708594",
-      "marketplace": "shopee",
-      "id": "58252708594",
-      "title": "Kit 2 cartões de memória 128gb ultra muito mais memória smartphone",
-      "title_norm": "kit 2 cartoes de memoria 128gb ultra muito mais memoria smartphone",
-      "url": "https://shopee.com.br/product/1562775719/58252708594",
-      "affiliate_url": "https://s.shopee.com.br/7pssB62XXG",
-      "category": "V&V SHOP",
-      "bucket": "celulares",
-      "posted_ts": 1788225430,
-      "posted_at": "2026-09-01T01:17:10.784477+00:00",
-      "score": 137.62
     }
   ],
-  "updated_at": "2026-09-09T16:21:25.589828+00:00"
+  "updated_at": "2026-09-09T17:03:34.689794+00:00"
 }
