@@ -1,6 +1,48 @@
 {
   "posts": [
     {
+      "key": "shopee:22497089311",
+      "marketplace": "shopee",
+      "id": "22497089311",
+      "title": "Mochila Masculina Bolsa Feminina Notebook Escolar Resistente Oferta",
+      "title_norm": "mochila masculina bolsa feminina notebook escolar resistente oferta",
+      "url": "https://shopee.com.br/product/752743341/22497089311",
+      "affiliate_url": "https://s.shopee.com.br/6q0anveMIe",
+      "category": "Fenix Abdon",
+      "bucket": "informatica",
+      "posted_ts": 1789013928,
+      "posted_at": "2026-09-10T04:18:48.539103+00:00",
+      "score": 87.87
+    },
+    {
+      "key": "shopee:20399869941",
+      "marketplace": "shopee",
+      "id": "20399869941",
+      "title": "Bolsa de Praia Feminina Alça de Corda Elegante Grande e Resistente",
+      "title_norm": "bolsa de praia feminina alca de corda elegante grande e resistente",
+      "url": "https://shopee.com.br/product/1448484843/20399869941",
+      "affiliate_url": "https://s.shopee.com.br/Ln73yyqIx",
+      "category": "YL.BR.BOLSAS",
+      "bucket": "bolsas",
+      "posted_ts": 1789013864,
+      "posted_at": "2026-09-10T04:17:44.477805+00:00",
+      "score": 106.46
+    },
+    {
+      "key": "shopee:23198643344",
+      "marketplace": "shopee",
+      "id": "23198643344",
+      "title": "Bolsa Feminina Crossbody Transversal Pequena Necessaire Tecido Impermeável",
+      "title_norm": "bolsa feminina crossbody transversal pequena necessaire tecido impermeavel",
+      "url": "https://shopee.com.br/product/1448484843/23198643344",
+      "affiliate_url": "https://s.shopee.com.br/1LfeFp3hFZ",
+      "category": "YL.BR.BOLSAS",
+      "bucket": "bolsas",
+      "posted_ts": 1789013800,
+      "posted_at": "2026-09-10T04:16:40.405668+00:00",
+      "score": 107.84
+    },
+    {
       "key": "mercadolivre:MLB3845821781",
       "marketplace": "mercadolivre",
       "id": "MLB3845821781",
@@ -13957,49 +13999,7 @@
       "posted_ts": 1788268870,
       "posted_at": "2026-09-01T13:21:10.783716+00:00",
       "score": 77.49
-    },
-    {
-      "key": "shopee:16404033482",
-      "marketplace": "shopee",
-      "id": "16404033482",
-      "title": "Hub USB com 4/7 Entradas USB 2.0 de Alta Velocidade com Botão Liga/Desliga",
-      "title_norm": "hub usb com 4 7 entradas usb 2 0 de alta velocidade com botao liga desliga",
-      "url": "https://shopee.com.br/product/390307022/16404033482",
-      "affiliate_url": "https://s.shopee.com.br/80CJ6lEKc9",
-      "category": "ZSZ_brasil",
-      "bucket": "calcados",
-      "posted_ts": 1788268806,
-      "posted_at": "2026-09-01T13:20:06.687977+00:00",
-      "score": 85.5
-    },
-    {
-      "key": "shopee:56657310104",
-      "marketplace": "shopee",
-      "id": "56657310104",
-      "title": "SATA III 2.5 \"SSD 128GB/240GB/256GB Unidade de estado sólido interna de alta velocidade",
-      "title_norm": "sata iii 2 5 ssd 128gb 240gb 256gb unidade de estado solido interna de alta velocidade",
-      "url": "https://shopee.com.br/product/993120827/56657310104",
-      "affiliate_url": "https://s.shopee.com.br/60RG3TmRoa",
-      "category": "somnambulist.br",
-      "bucket": "informatica",
-      "posted_ts": 1788268742,
-      "posted_at": "2026-09-01T13:19:02.475100+00:00",
-      "score": 110.76
-    },
-    {
-      "key": "shopee:58251556044",
-      "marketplace": "shopee",
-      "id": "58251556044",
-      "title": "Case Gaveta HD SSD 2.5 Sata III USB 3.0 Transparente Externo 6Gbps PC Notebook PS4 Kit 2  jehnny",
-      "title_norm": "case gaveta hd ssd 2 5 sata iii usb 3 0 transparente externo 6gbps pc notebook ps4 kit 2 jehnny",
-      "url": "https://shopee.com.br/product/1555286005/58251556044",
-      "affiliate_url": "https://s.shopee.com.br/6q0N30jH7Z",
-      "category": "JEHNNY.STORE",
-      "bucket": "informatica",
-      "posted_ts": 1788268678,
-      "posted_at": "2026-09-01T13:17:58.327689+00:00",
-      "score": 125.79
     }
   ],
-  "updated_at": "2026-09-10T04:04:26.869461+00:00"
+  "updated_at": "2026-09-10T04:18:48.539116+00:00"
 }
