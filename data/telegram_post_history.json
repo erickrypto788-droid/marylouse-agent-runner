@@ -1,6 +1,20 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB4669888929",
+      "marketplace": "mercadolivre",
+      "id": "MLB4669888929",
+      "title": "Kit 10 Cateteres Speedicath Short Feminino Ch10",
+      "title_norm": "kit 10 cateteres speedicath short feminino ch10",
+      "url": "https://www.mercadolivre.com.br/p/MLB69426926?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB69426926?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Moda Feminina",
+      "bucket": "moda_feminina",
+      "posted_ts": 1789070770,
+      "posted_at": "2026-09-10T20:06:10.772368+00:00",
+      "score": 88.0
+    },
+    {
       "key": "shopee:23994304552",
       "marketplace": "shopee",
       "id": "23994304552",
@@ -13985,21 +13999,7 @@
       "posted_ts": 1788326202,
       "posted_at": "2026-09-02T05:16:42.039967+00:00",
       "score": 110.65
-    },
-    {
-      "key": "mercadolivre:MLB6442123488",
-      "marketplace": "mercadolivre",
-      "id": "MLB6442123488",
-      "title": "Hidratante Corporal Relaxante",
-      "title_norm": "hidratante corporal relaxante",
-      "url": "https://www.mercadolivre.com.br/p/MLB65794107?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB65794107?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "category": "Beleza",
-      "bucket": "beleza",
-      "posted_ts": 1788325786,
-      "posted_at": "2026-09-02T05:09:46.952568+00:00",
-      "score": 76.9
     }
   ],
-  "updated_at": "2026-09-10T19:21:03.439266+00:00"
+  "updated_at": "2026-09-10T20:06:10.772385+00:00"
 }

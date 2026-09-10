@@ -1,6 +1,21 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB4669888929",
+      "product_id": "MLB4669888929",
+      "catalog_product_id": "MLB69426926",
+      "item_id": "MLB4669888929",
+      "url": "https://www.mercadolivre.com.br/p/MLB69426926?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB69426926?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "kit 10 cateteres speedicath short feminino ch10",
+      "title": "Kit 10 Cateteres Speedicath Short Feminino Ch10",
+      "category": "Moda Feminina",
+      "price": 176.28,
+      "score": 88.0,
+      "posted_ts": 1789070770,
+      "posted_at": "2026-09-10T20:06:10.784243+00:00"
+    },
+    {
       "key": "mercadolivre:MLB7517810920",
       "product_id": "MLB7517810920",
       "catalog_product_id": "MLB76609780",
@@ -616,5 +631,5 @@
       "posted_at": "2026-09-08T23:02:51.107326+00:00"
     }
   ],
-  "updated_at": "2026-09-10T19:09:32.468644+00:00"
+  "updated_at": "2026-09-10T20:06:10.784250+00:00"
 }
