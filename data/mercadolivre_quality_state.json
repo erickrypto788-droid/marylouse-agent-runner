@@ -1,6 +1,21 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB7270317978",
+      "product_id": "MLB7270317978",
+      "catalog_product_id": "MLB75817587",
+      "item_id": "MLB7270317978",
+      "url": "https://www.mercadolivre.com.br/p/MLB75817587?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB75817587?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "prancha esteira ergometrica deck multipla t3000 preto",
+      "title": "Prancha Esteira Ergométrica Deck Múltipla T3000 Preto",
+      "category": "Esportes",
+      "price": 270.57,
+      "score": 103.53,
+      "posted_ts": 1789081375,
+      "posted_at": "2026-09-10T23:02:55.673743+00:00"
+    },
+    {
       "key": "mercadolivre:MLB4098790465",
       "product_id": "MLB4098790465",
       "catalog_product_id": "MLB50984468",
@@ -629,22 +644,7 @@
       "score": 111.0,
       "posted_ts": 1788912200,
       "posted_at": "2026-09-09T00:03:20.847718+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB6149389980",
-      "product_id": "MLB6149389980",
-      "catalog_product_id": "MLB37180897",
-      "item_id": "MLB6149389980",
-      "url": "https://www.mercadolivre.com.br/p/MLB37180897?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB37180897?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "kit furadeira e parafusadeira com parafusadeira dewalt modelo dck200me2gt 2 baterias 20v",
-      "title": "Kit Furadeira e Parafusadeira com Parafusadeira Dewalt Modelo DCK200ME2GT 2 Baterias 20V",
-      "category": "Ferramentas",
-      "price": 2999.0,
-      "score": 109.0,
-      "posted_ts": 1788908571,
-      "posted_at": "2026-09-08T23:02:51.107326+00:00"
     }
   ],
-  "updated_at": "2026-09-10T21:03:35.839203+00:00"
+  "updated_at": "2026-09-10T23:02:55.673752+00:00"
 }

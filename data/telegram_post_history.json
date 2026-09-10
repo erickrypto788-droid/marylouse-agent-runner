@@ -1,6 +1,20 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB7270317978",
+      "marketplace": "mercadolivre",
+      "id": "MLB7270317978",
+      "title": "Prancha Esteira Ergométrica Deck Múltipla T3000 Preto",
+      "title_norm": "prancha esteira ergometrica deck multipla t3000 preto",
+      "url": "https://www.mercadolivre.com.br/p/MLB75817587?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB75817587?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Esportes",
+      "bucket": "esportes",
+      "posted_ts": 1789081375,
+      "posted_at": "2026-09-10T23:02:55.660380+00:00",
+      "score": 103.53
+    },
+    {
       "key": "shopee:58214792830",
       "marketplace": "shopee",
       "id": "58214792830",
@@ -13985,21 +13999,7 @@
       "posted_ts": 1788333772,
       "posted_at": "2026-09-02T07:22:52.943293+00:00",
       "score": 49.37
-    },
-    {
-      "key": "shopee:18299332007",
-      "marketplace": "shopee",
-      "id": "18299332007",
-      "title": "Caneta Glitter 4/6 Cores Flash Silver Gel Marcador Metálico para Bullet Journal Agenda Desenho DIY",
-      "title_norm": "caneta glitter 4 6 cores flash silver gel marcador metalico para bullet journal agenda desenho diy",
-      "url": "https://shopee.com.br/product/1234149276/18299332007",
-      "affiliate_url": "https://s.shopee.com.br/4fvsOubsLD",
-      "category": "KissShe",
-      "bucket": "kissshe",
-      "posted_ts": 1788333703,
-      "posted_at": "2026-09-02T07:21:43.490393+00:00",
-      "score": 79.88
     }
   ],
-  "updated_at": "2026-09-10T22:21:18.394490+00:00"
+  "updated_at": "2026-09-10T23:02:55.660392+00:00"
 }
