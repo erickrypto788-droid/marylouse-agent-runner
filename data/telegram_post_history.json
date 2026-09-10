@@ -1,6 +1,20 @@
 {
   "posts": [
     {
+      "key": "shopee:23594076554",
+      "marketplace": "shopee",
+      "id": "23594076554",
+      "title": "Nintendo Switch Lite Desbloqueado com Lojinha Tinfoil Premium Dualboot Novo | Envio Imediato",
+      "title_norm": "nintendo switch lite desbloqueado com lojinha tinfoil premium dualboot novo envio imediato",
+      "url": "https://shopee.com.br/product/942745912/23594076554",
+      "affiliate_url": "https://s.shopee.com.br/1qbvBMQiIP",
+      "category": "Lizis Store",
+      "bucket": "lizis_store",
+      "posted_ts": 1789031823,
+      "posted_at": "2026-09-10T09:17:03.130531+00:00",
+      "score": 37.72
+    },
+    {
       "key": "shopee:58205895349",
       "marketplace": "shopee",
       "id": "58205895349",
@@ -13985,21 +13999,7 @@
       "posted_ts": 1788286792,
       "posted_at": "2026-09-01T18:19:52.205728+00:00",
       "score": 58.04
-    },
-    {
-      "key": "shopee:58256061886",
-      "marketplace": "shopee",
-      "id": "58256061886",
-      "title": "Body Feminino Plus Size Decote V Manga tule Elegante Festa",
-      "title_norm": "body feminino plus size decote v manga tule elegante festa",
-      "url": "https://shopee.com.br/product/1026887169/58256061886",
-      "affiliate_url": "https://s.shopee.com.br/1qbhQPNuil",
-      "category": "Chicmodasa",
-      "bucket": "chicmodasa",
-      "posted_ts": 1788286728,
-      "posted_at": "2026-09-01T18:18:48.255336+00:00",
-      "score": 61.93
     }
   ],
-  "updated_at": "2026-09-10T08:23:55.790460+00:00"
+  "updated_at": "2026-09-10T09:17:03.130546+00:00"
 }
