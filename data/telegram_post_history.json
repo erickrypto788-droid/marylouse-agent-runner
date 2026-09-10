@@ -1,6 +1,20 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB6198484798",
+      "marketplace": "mercadolivre",
+      "id": "MLB6198484798",
+      "title": "Roteador Wifi Maxlink Ac1200g (10pc)",
+      "title_norm": "roteador wifi maxlink ac1200g 10pc",
+      "url": "https://www.mercadolivre.com.br/p/MLB42822160?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB42822160?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Informática",
+      "bucket": "informatica",
+      "posted_ts": 1789034628,
+      "posted_at": "2026-09-10T10:03:48.526898+00:00",
+      "score": 88.0
+    },
+    {
       "key": "shopee:23594076554",
       "marketplace": "shopee",
       "id": "23594076554",
@@ -13985,21 +13999,7 @@
       "posted_ts": 1788289352,
       "posted_at": "2026-09-01T19:02:32.944751+00:00",
       "score": 120.17
-    },
-    {
-      "key": "shopee:58212070015",
-      "marketplace": "shopee",
-      "id": "58212070015",
-      "title": "Calça feminina plus size wide leg jeans",
-      "title_norm": "calca feminina plus size wide leg jeans",
-      "url": "https://shopee.com.br/product/1350883560/58212070015",
-      "affiliate_url": "https://s.shopee.com.br/AAGpLiwabd",
-      "category": "Magnata Conceito",
-      "bucket": "magnata_conceito",
-      "posted_ts": 1788286792,
-      "posted_at": "2026-09-01T18:19:52.205728+00:00",
-      "score": 58.04
     }
   ],
-  "updated_at": "2026-09-10T09:17:03.130546+00:00"
+  "updated_at": "2026-09-10T10:03:48.526911+00:00"
 }
