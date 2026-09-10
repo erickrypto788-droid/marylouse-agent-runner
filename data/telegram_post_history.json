@@ -1,6 +1,34 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB3888807897",
+      "marketplace": "mercadolivre",
+      "id": "MLB3888807897",
+      "title": "Suporte Veicular Magnético Magsafe P/ iPhone 12, iPhone 13, iPhone 14, iPhone 15, iPhone 16 Cor Preto",
+      "title_norm": "suporte veicular magnetico magsafe p iphone 12 iphone 13 iphone 14 iphone 15 iphone 16 cor preto",
+      "url": "https://www.mercadolivre.com.br/p/MLB41701376?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB41701376?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Informática",
+      "bucket": "celulares",
+      "posted_ts": 1789041812,
+      "posted_at": "2026-09-10T12:03:32.307489+00:00",
+      "score": 117.13
+    },
+    {
+      "key": "mercadolivre:MLB5184523179",
+      "marketplace": "mercadolivre",
+      "id": "MLB5184523179",
+      "title": "Motorola Smartphone Motorola Razr 50 Ultra 5g Cor Pink",
+      "title_norm": "motorola smartphone motorola razr 50 ultra 5g cor pink",
+      "url": "https://www.mercadolivre.com.br/p/MLB47306242?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB47306242?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Informática",
+      "bucket": "celulares",
+      "posted_ts": 1789041748,
+      "posted_at": "2026-09-10T12:02:28.263099+00:00",
+      "score": 124.0
+    },
+    {
       "key": "shopee:22998237719",
       "marketplace": "shopee",
       "id": "22998237719",
@@ -13971,35 +13999,7 @@
       "posted_ts": 1788300237,
       "posted_at": "2026-09-01T22:03:57.576187+00:00",
       "score": 124.0
-    },
-    {
-      "key": "mercadolivre:MLB5683519902",
-      "marketplace": "mercadolivre",
-      "id": "MLB5683519902",
-      "title": "Smartphone Xiaomí Redmi 12 Preto 128/4gb + E Fone",
-      "title_norm": "smartphone xiaomi redmi 12 preto 128 4gb e fone",
-      "url": "https://www.mercadolivre.com.br/p/MLB47306212?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB47306212?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "category": "Informática",
-      "bucket": "celulares",
-      "posted_ts": 1788300173,
-      "posted_at": "2026-09-01T22:02:53.641417+00:00",
-      "score": 127.0
-    },
-    {
-      "key": "shopee:27791019433",
-      "marketplace": "shopee",
-      "id": "27791019433",
-      "title": "Adaptadores Tomada Universal Para Viagem Internacional Compatível Em +150 Países",
-      "title_norm": "adaptadores tomada universal para viagem internacional compativel em 150 paises",
-      "url": "https://shopee.com.br/product/331720585/27791019433",
-      "affiliate_url": "https://s.shopee.com.br/Lmtq11Ey1",
-      "category": "19BR SHOP",
-      "bucket": "19br_shop",
-      "posted_ts": 1788297656,
-      "posted_at": "2026-09-01T21:20:56.850774+00:00",
-      "score": 77.75
     }
   ],
-  "updated_at": "2026-09-10T11:21:12.705971+00:00"
+  "updated_at": "2026-09-10T12:03:32.307519+00:00"
 }

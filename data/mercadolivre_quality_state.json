@@ -1,6 +1,36 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB3888807897",
+      "product_id": "MLB3888807897",
+      "catalog_product_id": "MLB41701376",
+      "item_id": "MLB3888807897",
+      "url": "https://www.mercadolivre.com.br/p/MLB41701376?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB41701376?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "suporte veicular magnetico magsafe p iphone 12 iphone 13 iphone 14 iphone 15 iphone 16 cor preto",
+      "title": "Suporte Veicular Magnético Magsafe P/ iPhone 12, iPhone 13, iPhone 14, iPhone 15, iPhone 16 Cor Preto",
+      "category": "Informática",
+      "price": 26.0,
+      "score": 117.13,
+      "posted_ts": 1789041812,
+      "posted_at": "2026-09-10T12:03:32.321779+00:00"
+    },
+    {
+      "key": "mercadolivre:MLB5184523179",
+      "product_id": "MLB5184523179",
+      "catalog_product_id": "MLB47306242",
+      "item_id": "MLB5184523179",
+      "url": "https://www.mercadolivre.com.br/p/MLB47306242?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB47306242?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "motorola smartphone motorola razr 50 ultra 5g cor pink",
+      "title": "Motorola Smartphone Motorola Razr 50 Ultra 5g Cor Pink",
+      "category": "Informática",
+      "price": 4289.99,
+      "score": 124.0,
+      "posted_ts": 1789041748,
+      "posted_at": "2026-09-10T12:02:28.278005+00:00"
+    },
+    {
       "key": "mercadolivre:MLB6483255322",
       "product_id": "MLB6483255322",
       "catalog_product_id": "MLB62010143",
@@ -599,22 +629,7 @@
       "score": 111.87,
       "posted_ts": 1788883687,
       "posted_at": "2026-09-08T16:08:07.334212+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB5109354761",
-      "product_id": "MLB5109354761",
-      "catalog_product_id": "MLB28886564",
-      "item_id": "MLB5109354761",
-      "url": "https://www.mercadolivre.com.br/p/MLB28886564?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB28886564?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "racao gato alimento vittamax premium especial 10kg mix",
-      "title": "Ração Gato Alimento Vittamax Premium Especial 10kg Mix",
-      "category": "Pet",
-      "price": 123.99,
-      "score": 121.84,
-      "posted_ts": 1788869008,
-      "posted_at": "2026-09-08T12:03:28.547684+00:00"
     }
   ],
-  "updated_at": "2026-09-10T11:04:07.941736+00:00"
+  "updated_at": "2026-09-10T12:03:32.321791+00:00"
 }
