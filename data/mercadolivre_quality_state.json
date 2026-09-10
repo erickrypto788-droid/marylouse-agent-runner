@@ -1,6 +1,36 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB5205515547",
+      "product_id": "MLB5205515547",
+      "catalog_product_id": "MLB77998394",
+      "item_id": "MLB5205515547",
+      "url": "https://www.mercadolivre.com.br/p/MLB77998394?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB77998394?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "escova secadora",
+      "title": "Escova Secadora",
+      "category": "Beleza",
+      "price": 209.9,
+      "score": 113.0,
+      "posted_ts": 1789023842,
+      "posted_at": "2026-09-10T07:04:02.473186+00:00"
+    },
+    {
+      "key": "mercadolivre:MLB5209308589",
+      "product_id": "MLB5209308589",
+      "catalog_product_id": "MLB77141871",
+      "item_id": "MLB5209308589",
+      "url": "https://www.mercadolivre.com.br/p/MLB77141871?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB77141871?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "perfume masculino millions",
+      "title": "Perfume Masculino Millions",
+      "category": "Beleza",
+      "price": 184.0,
+      "score": 188.67,
+      "posted_ts": 1789023767,
+      "posted_at": "2026-09-10T07:02:47.302343+00:00"
+    },
+    {
       "key": "mercadolivre:MLB3845821781",
       "product_id": "MLB3845821781",
       "catalog_product_id": "MLB38279289",
@@ -569,52 +599,7 @@
       "score": 127.0,
       "posted_ts": 1788858215,
       "posted_at": "2026-09-08T09:03:35.230367+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB4353924282",
-      "product_id": "MLB4353924282",
-      "catalog_product_id": "MLB29479675",
-      "item_id": "MLB4353924282",
-      "url": "https://www.mercadolivre.com.br/p/MLB29479675?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB29479675?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "mesa computador escrivaninha notebook gamer cor branco ajl",
-      "title": "Mesa Computador Escrivaninha Notebook Gamer cor branco AJL",
-      "category": "Informática",
-      "price": 267.2,
-      "score": 113.0,
-      "posted_ts": 1788850993,
-      "posted_at": "2026-09-08T07:03:13.036201+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB4139317597",
-      "product_id": "MLB4139317597",
-      "catalog_product_id": "MLB23649057",
-      "item_id": "MLB4139317597",
-      "url": "https://www.mercadolivre.com.br/p/MLB23649057?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB23649057?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "furadeira parafusadeira imp c parafusadeira imp dlx2336syx",
-      "title": "Furadeira Parafusadeira Imp C/ Parafusadeira Imp Dlx2336syx",
-      "category": "Ferramentas",
-      "price": 1659.5,
-      "score": 108.0,
-      "posted_ts": 1788847420,
-      "posted_at": "2026-09-08T06:03:40.348448+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB5183821060",
-      "product_id": "MLB5183821060",
-      "catalog_product_id": "MLB19765397",
-      "item_id": "MLB5183821060",
-      "url": "https://www.mercadolivre.com.br/p/MLB19765397?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB19765397?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "combo furadeira parafusadeira df333d parafusadeira de impacto td110d 12v clx224sax",
-      "title": "Combo Furadeira Parafusadeira DF333D + Parafusadeira de Impacto TD110D 12V - CLX224SAX",
-      "category": "Ferramentas",
-      "price": 1213.0,
-      "score": 111.0,
-      "posted_ts": 1788847356,
-      "posted_at": "2026-09-08T06:02:36.183325+00:00"
     }
   ],
-  "updated_at": "2026-09-10T04:04:26.885272+00:00"
+  "updated_at": "2026-09-10T07:04:02.473195+00:00"
 }

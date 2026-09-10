@@ -1,6 +1,34 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB5205515547",
+      "marketplace": "mercadolivre",
+      "id": "MLB5205515547",
+      "title": "Escova Secadora",
+      "title_norm": "escova secadora",
+      "url": "https://www.mercadolivre.com.br/p/MLB77998394?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB77998394?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Beleza",
+      "bucket": "beleza",
+      "posted_ts": 1789023842,
+      "posted_at": "2026-09-10T07:04:02.460056+00:00",
+      "score": 113.0
+    },
+    {
+      "key": "mercadolivre:MLB5209308589",
+      "marketplace": "mercadolivre",
+      "id": "MLB5209308589",
+      "title": "Perfume Masculino Millions",
+      "title_norm": "perfume masculino millions",
+      "url": "https://www.mercadolivre.com.br/p/MLB77141871?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB77141871?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Beleza",
+      "bucket": "beleza",
+      "posted_ts": 1789023767,
+      "posted_at": "2026-09-10T07:02:47.288495+00:00",
+      "score": 188.67
+    },
+    {
       "key": "shopee:58256029412",
       "marketplace": "shopee",
       "id": "58256029412",
@@ -13971,35 +13999,7 @@
       "posted_ts": 1788279551,
       "posted_at": "2026-09-01T16:19:11.956346+00:00",
       "score": 106.79
-    },
-    {
-      "key": "shopee:22894279136",
-      "marketplace": "shopee",
-      "id": "22894279136",
-      "title": "Conjunto Feminino de Academia Calça Legging + Top com Alta Compressão e Zero Transparência",
-      "title_norm": "conjunto feminino de academia calca legging top com alta compressao e zero transparencia",
-      "url": "https://shopee.com.br/product/1101082974/22894279136",
-      "affiliate_url": "https://s.shopee.com.br/5LBZSbwY0z",
-      "category": "Zayan Moda Fitness",
-      "bucket": "moda_feminina",
-      "posted_ts": 1788279487,
-      "posted_at": "2026-09-01T16:18:07.743377+00:00",
-      "score": 106.84
-    },
-    {
-      "key": "shopee:58254359534",
-      "marketplace": "shopee",
-      "id": "58254359534",
-      "title": "Bolsa Feminina de Ombro Média Universidade Lazer Casual Viagem Linda",
-      "title_norm": "bolsa feminina de ombro media universidade lazer casual viagem linda",
-      "url": "https://shopee.com.br/product/1068796498/58254359534",
-      "affiliate_url": "https://s.shopee.com.br/70JnRfuflK",
-      "category": "BAO SHI IMPORTADOS",
-      "bucket": "bolsas",
-      "posted_ts": 1788279418,
-      "posted_at": "2026-09-01T16:16:58.856777+00:00",
-      "score": 107.43
     }
   ],
-  "updated_at": "2026-09-10T06:21:20.239806+00:00"
+  "updated_at": "2026-09-10T07:04:02.460070+00:00"
 }
