@@ -1,6 +1,20 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB6194818232",
+      "marketplace": "mercadolivre",
+      "id": "MLB6194818232",
+      "title": "Ração Premier Pet Vitta Natural Ração Cachorro Adulto 15k",
+      "title_norm": "racao premier pet vitta natural racao cachorro adulto 15k",
+      "url": "https://www.mercadolivre.com.br/p/MLB32106098?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB32106098?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Pet",
+      "bucket": "pet",
+      "posted_ts": 1789052543,
+      "posted_at": "2026-09-10T15:02:23.116239+00:00",
+      "score": 129.0
+    },
+    {
       "key": "shopee:14263042301",
       "marketplace": "shopee",
       "id": "14263042301",
@@ -13985,21 +13999,7 @@
       "posted_ts": 1788308272,
       "posted_at": "2026-09-02T00:17:52.491033+00:00",
       "score": 98.18
-    },
-    {
-      "key": "shopee:22392476232",
-      "marketplace": "shopee",
-      "id": "22392476232",
-      "title": "kit com 10 Calcinha infantil Kids",
-      "title_norm": "kit com 10 calcinha infantil kids",
-      "url": "https://shopee.com.br/product/321115312/22392476232",
-      "affiliate_url": "https://s.shopee.com.br/3VjvoCRPNi",
-      "category": "Dejuule Modas",
-      "bucket": "dejuule_modas",
-      "posted_ts": 1788308208,
-      "posted_at": "2026-09-02T00:16:48.398918+00:00",
-      "score": 119.13
     }
   ],
-  "updated_at": "2026-09-10T14:18:27.901815+00:00"
+  "updated_at": "2026-09-10T15:02:23.116253+00:00"
 }
