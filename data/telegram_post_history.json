@@ -1,6 +1,62 @@
 {
   "posts": [
     {
+      "key": "shopee:58213300615",
+      "marketplace": "shopee",
+      "id": "58213300615",
+      "title": "Aparelho Medidor de Glicose GH83 Medisign Glicemia Diabetes",
+      "title_norm": "aparelho medidor de glicose gh83 medisign glicemia diabetes",
+      "url": "https://shopee.com.br/product/1854097080/58213300615",
+      "affiliate_url": "https://s.shopee.com.br/3LQiVG939i",
+      "category": "JP PRIME E-COMMERCE",
+      "bucket": "jp_prime_e_commerce",
+      "posted_ts": 1789006794,
+      "posted_at": "2026-09-10T02:19:54.795923+00:00",
+      "score": 50.64
+    },
+    {
+      "key": "shopee:58215111935",
+      "marketplace": "shopee",
+      "id": "58215111935",
+      "title": "Aparelho de Pressão Digital de Pulso AUXOM Recarregável com APP Wi-Fi, Voz e Tela Colorida",
+      "title_norm": "aparelho de pressao digital de pulso auxom recarregavel com app wi fi voz e tela colorida",
+      "url": "https://shopee.com.br/product/1765216554/58215111935",
+      "affiliate_url": "https://s.shopee.com.br/6L4K4lkIDB",
+      "category": "AUXOM - Online Br.",
+      "bucket": "auxom_online_br",
+      "posted_ts": 1789006730,
+      "posted_at": "2026-09-10T02:18:50.511359+00:00",
+      "score": 105.32
+    },
+    {
+      "key": "shopee:22891997668",
+      "marketplace": "shopee",
+      "id": "22891997668",
+      "title": "Termômetro Industrial Digital Infravermelho Cozinha Laser Medição Temperatura Industrial -55º- 400ºc",
+      "title_norm": "termometro industrial digital infravermelho cozinha laser medicao temperatura industrial 55 400 c",
+      "url": "https://shopee.com.br/product/1025202028/22891997668",
+      "affiliate_url": "https://s.shopee.com.br/4VcftOrXzL",
+      "category": "Utime.Brasil",
+      "bucket": "saude",
+      "posted_ts": 1789006666,
+      "posted_at": "2026-09-10T02:17:46.589211+00:00",
+      "score": 109.18
+    },
+    {
+      "key": "shopee:22398354191",
+      "marketplace": "shopee",
+      "id": "22398354191",
+      "title": "Garrafa Térmica 1 Litro Com Termômetro Led Para Chás / Café Design Moderno quente até 24h OMINI",
+      "title_norm": "garrafa termica 1 litro com termometro led para chas cafe design moderno quente ate 24h omini",
+      "url": "https://shopee.com.br/product/1264719671/22398354191",
+      "affiliate_url": "https://s.shopee.com.br/3g3YtruigE",
+      "category": "omni commerce",
+      "bucket": "saude",
+      "posted_ts": 1789006602,
+      "posted_at": "2026-09-10T02:16:42.616283+00:00",
+      "score": 117.46
+    },
+    {
       "key": "mercadolivre:MLB6442123488",
       "marketplace": "mercadolivre",
       "id": "MLB6442123488",
@@ -13943,63 +13999,7 @@
       "posted_ts": 1788265020,
       "posted_at": "2026-09-01T12:17:00.836093+00:00",
       "score": 99.07
-    },
-    {
-      "key": "mercadolivre:MLB6825867960",
-      "marketplace": "mercadolivre",
-      "id": "MLB6825867960",
-      "title": "Condicionador Infantil Lowell Mirtilinho 240ml",
-      "title_norm": "condicionador infantil lowell mirtilinho 240ml",
-      "url": "https://www.mercadolivre.com.br/p/MLB68094806?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB68094806?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "category": "Beleza",
-      "bucket": "beleza",
-      "posted_ts": 1788264560,
-      "posted_at": "2026-09-01T12:09:20.039803+00:00",
-      "score": 88.0
-    },
-    {
-      "key": "mercadolivre:MLB5807012940",
-      "marketplace": "mercadolivre",
-      "id": "MLB5807012940",
-      "title": "Creme Dental 50 Gr - Bioxtra",
-      "title_norm": "creme dental 50 gr bioxtra",
-      "url": "https://www.mercadolivre.com.br/p/MLB20572035?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB20572035?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "category": "Supermercados",
-      "bucket": "supermercados",
-      "posted_ts": 1788264495,
-      "posted_at": "2026-09-01T12:08:15.988254+00:00",
-      "score": 89.0
-    },
-    {
-      "key": "mercadolivre:MLB4942497243",
-      "marketplace": "mercadolivre",
-      "id": "MLB4942497243",
-      "title": "Papel Higiênico Familiar Folha Dupla 24 Rolos",
-      "title_norm": "papel higienico familiar folha dupla 24 rolos",
-      "url": "https://www.mercadolivre.com.br/p/MLB66453791?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB66453791?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "category": "Supermercados",
-      "bucket": "supermercado",
-      "posted_ts": 1788264432,
-      "posted_at": "2026-09-01T12:07:12.054412+00:00",
-      "score": 114.0
-    },
-    {
-      "key": "mercadolivre:MLB5731460940",
-      "marketplace": "mercadolivre",
-      "id": "MLB5731460940",
-      "title": "Sabão em pó Ypê Lava Roupas em Pó Tixan Lava Roupas em pó garrafa 2.2 kg",
-      "title_norm": "sabao em po ype lava roupas em po tixan lava roupas em po garrafa 2 2 kg",
-      "url": "https://www.mercadolivre.com.br/p/MLB51325266?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB51325266?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "category": "Supermercados",
-      "bucket": "supermercados",
-      "posted_ts": 1788264360,
-      "posted_at": "2026-09-01T12:06:00.722373+00:00",
-      "score": 119.65
     }
   ],
-  "updated_at": "2026-09-10T02:13:08.840607+00:00"
+  "updated_at": "2026-09-10T02:19:54.795938+00:00"
 }
