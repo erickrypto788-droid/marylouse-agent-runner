@@ -1,6 +1,20 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB6483255322",
+      "marketplace": "mercadolivre",
+      "id": "MLB6483255322",
+      "title": "Fone Bluetooth Redmi",
+      "title_norm": "fone bluetooth redmi",
+      "url": "https://www.mercadolivre.com.br/p/MLB62010143?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB62010143?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Informática",
+      "bucket": "celulares",
+      "posted_ts": 1789038247,
+      "posted_at": "2026-09-10T11:04:07.931839+00:00",
+      "score": 98.22
+    },
+    {
       "key": "shopee:58258296035",
       "marketplace": "shopee",
       "id": "58258296035",
@@ -13985,21 +13999,7 @@
       "posted_ts": 1788296572,
       "posted_at": "2026-09-01T21:02:52.698946+00:00",
       "score": 115.39
-    },
-    {
-      "key": "shopee:58254751043",
-      "marketplace": "shopee",
-      "id": "58254751043",
-      "title": "Bota Texana Feminina Cano Alto Com Bordado Exclusivo Estilo e Praticidade",
-      "title_norm": "bota texana feminina cano alto com bordado exclusivo estilo e praticidade",
-      "url": "https://shopee.com.br/product/1671777207/58254751043",
-      "affiliate_url": "https://s.shopee.com.br/7psuhgEMkb",
-      "category": "Bella Passo Shoes",
-      "bucket": "calcados",
-      "posted_ts": 1788293872,
-      "posted_at": "2026-09-01T20:17:52.210259+00:00",
-      "score": 65.15
     }
   ],
-  "updated_at": "2026-09-10T10:22:34.724524+00:00"
+  "updated_at": "2026-09-10T11:04:07.931861+00:00"
 }

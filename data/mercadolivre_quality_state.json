@@ -1,6 +1,21 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB6483255322",
+      "product_id": "MLB6483255322",
+      "catalog_product_id": "MLB62010143",
+      "item_id": "MLB6483255322",
+      "url": "https://www.mercadolivre.com.br/p/MLB62010143?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB62010143?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "fone bluetooth redmi",
+      "title": "Fone Bluetooth Redmi",
+      "category": "Informática",
+      "price": 35.0,
+      "score": 98.22,
+      "posted_ts": 1789038247,
+      "posted_at": "2026-09-10T11:04:07.941720+00:00"
+    },
+    {
       "key": "mercadolivre:MLB6198484798",
       "product_id": "MLB6198484798",
       "catalog_product_id": "MLB42822160",
@@ -601,5 +616,5 @@
       "posted_at": "2026-09-08T12:03:28.547684+00:00"
     }
   ],
-  "updated_at": "2026-09-10T10:03:48.539065+00:00"
+  "updated_at": "2026-09-10T11:04:07.941736+00:00"
 }
