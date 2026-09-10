@@ -1,6 +1,34 @@
 {
   "posts": [
     {
+      "key": "shopee:22994959649",
+      "marketplace": "shopee",
+      "id": "22994959649",
+      "title": "Kit Hospitalar Doméstico Completo: Medidor de Pressão, Termômetro Infravermelho e Oxímetro",
+      "title_norm": "kit hospitalar domestico completo medidor de pressao termometro infravermelho e oximetro",
+      "url": "https://shopee.com.br/product/1242067486/22994959649",
+      "affiliate_url": "https://s.shopee.com.br/60RUwSVLYK",
+      "category": "Rossi Stores",
+      "bucket": "saude",
+      "posted_ts": 1789075077,
+      "posted_at": "2026-09-10T21:17:57.908101+00:00",
+      "score": 101.83
+    },
+    {
+      "key": "shopee:23893497572",
+      "marketplace": "shopee",
+      "id": "23893497572",
+      "title": "Oxímetro Infantil Neonatal Pediátrico De Dedo Digital Crianças Medidor Oxigênio Recarregável Pulse Yihan",
+      "title_norm": "oximetro infantil neonatal pediatrico de dedo digital criancas medidor oxigenio recarregavel pulse yihan",
+      "url": "https://shopee.com.br/product/696313634/23893497572",
+      "affiliate_url": "https://s.shopee.com.br/7KwsWuQGqS",
+      "category": "Yihan.store",
+      "bucket": "saude",
+      "posted_ts": 1789075013,
+      "posted_at": "2026-09-10T21:16:53.730589+00:00",
+      "score": 104.89
+    },
+    {
       "key": "mercadolivre:MLB4098790465",
       "marketplace": "mercadolivre",
       "id": "MLB4098790465",
@@ -13971,35 +13999,7 @@
       "posted_ts": 1788329992,
       "posted_at": "2026-09-02T06:19:52.213839+00:00",
       "score": 42.93
-    },
-    {
-      "key": "shopee:15296691065",
-      "marketplace": "shopee",
-      "id": "15296691065",
-      "title": "Mochila Masculina Lona 50 Litros Viagem Passeio Motoboy Esporte Trilha Viagem 803",
-      "title_norm": "mochila masculina lona 50 litros viagem passeio motoboy esporte trilha viagem 803",
-      "url": "https://shopee.com.br/product/960960972/15296691065",
-      "affiliate_url": "https://s.shopee.com.br/3qMmbWwNgl",
-      "category": "Global Mochilas CHL",
-      "bucket": "bolsas",
-      "posted_ts": 1788329928,
-      "posted_at": "2026-09-02T06:18:48.276729+00:00",
-      "score": 62.35
-    },
-    {
-      "key": "shopee:58202297715",
-      "marketplace": "shopee",
-      "id": "58202297715",
-      "title": "Mochila Transversal Masculina - Bolsa de Peito Multifuncional Impermeável",
-      "title_norm": "mochila transversal masculina bolsa de peito multifuncional impermeavel",
-      "url": "https://shopee.com.br/product/1630783360/58202297715",
-      "affiliate_url": "https://s.shopee.com.br/5AsAByzy0c",
-      "category": "vxcs4mh5zv",
-      "bucket": "bolsas",
-      "posted_ts": 1788329864,
-      "posted_at": "2026-09-02T06:17:44.369086+00:00",
-      "score": 88.11
     }
   ],
-  "updated_at": "2026-09-10T21:03:35.827527+00:00"
+  "updated_at": "2026-09-10T21:17:57.908114+00:00"
 }
