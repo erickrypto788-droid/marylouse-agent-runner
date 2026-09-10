@@ -1,6 +1,21 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB7580832078",
+      "product_id": "MLB7580832078",
+      "catalog_product_id": "MLB77579661",
+      "item_id": "MLB7580832078",
+      "url": "https://www.mercadolivre.com.br/p/MLB77579661?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB77579661?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "difusor ar umidificador umidificador ar 1 5l humidifiicador ar ultrassonico umidificador domestico para quarto sala bercario operacao silenciosa umidificacao eficiente design compacto facil de usar",
+      "title": "Difusor Ar Umidificador Umidificador Ar 1.5l Humidifiicador Ar Ultrassonico Umidificador Doméstico Para Quarto Sala Berçário Operação Silenciosa Umidificação Eficiente Design Compacto Fácil De Usar",
+      "category": "Pet",
+      "price": 132.6,
+      "score": 187.63,
+      "posted_ts": 1789048961,
+      "posted_at": "2026-09-10T14:02:41.980636+00:00"
+    },
+    {
       "key": "mercadolivre:MLB3888807897",
       "product_id": "MLB3888807897",
       "catalog_product_id": "MLB41701376",
@@ -631,5 +646,5 @@
       "posted_at": "2026-09-08T16:08:07.334212+00:00"
     }
   ],
-  "updated_at": "2026-09-10T12:03:32.321791+00:00"
+  "updated_at": "2026-09-10T14:02:41.980648+00:00"
 }
