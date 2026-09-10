@@ -1,6 +1,48 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB7517810920",
+      "marketplace": "mercadolivre",
+      "id": "MLB7517810920",
+      "title": "Hidratante Corporal Pessego",
+      "title_norm": "hidratante corporal pessego",
+      "url": "https://www.mercadolivre.com.br/p/MLB76609780?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB76609780?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Beleza",
+      "bucket": "beleza",
+      "posted_ts": 1789067372,
+      "posted_at": "2026-09-10T19:09:32.453629+00:00",
+      "score": 63.0
+    },
+    {
+      "key": "mercadolivre:MLB5118569459",
+      "marketplace": "mercadolivre",
+      "id": "MLB5118569459",
+      "title": "Arroz Motigome 1kg",
+      "title_norm": "arroz motigome 1kg",
+      "url": "https://www.mercadolivre.com.br/p/MLB21407698?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB21407698?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Supermercados",
+      "bucket": "supermercados",
+      "posted_ts": 1789067308,
+      "posted_at": "2026-09-10T19:08:28.286049+00:00",
+      "score": 93.74
+    },
+    {
+      "key": "mercadolivre:MLB3814512618",
+      "marketplace": "mercadolivre",
+      "id": "MLB3814512618",
+      "title": "Fralda Huggies Tripla Proteção G 36 unidades",
+      "title_norm": "fralda huggies tripla protecao g 36 unidades",
+      "url": "https://www.mercadolivre.com.br/p/MLB17336422?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB17336422?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Mãe e Bebê",
+      "bucket": "fraldas",
+      "posted_ts": 1789067243,
+      "posted_at": "2026-09-10T19:07:23.937645+00:00",
+      "score": 130.0
+    },
+    {
       "key": "shopee:22494807898",
       "marketplace": "shopee",
       "id": "22494807898",
@@ -13957,49 +13999,7 @@
       "posted_ts": 1788322864,
       "posted_at": "2026-09-02T04:21:04.187676+00:00",
       "score": 45.82
-    },
-    {
-      "key": "shopee:20299229642",
-      "marketplace": "shopee",
-      "id": "20299229642",
-      "title": "Kit Enxoval Cueiro e Paninho de boca ( 9 PEÇAS )",
-      "title_norm": "kit enxoval cueiro e paninho de boca 9 pecas",
-      "url": "https://shopee.com.br/product/378105312/20299229642",
-      "affiliate_url": "https://s.shopee.com.br/8fS2EAmH0o",
-      "category": "EssencialBaby",
-      "bucket": "essencialbaby",
-      "posted_ts": 1788322800,
-      "posted_at": "2026-09-02T04:20:00.102270+00:00",
-      "score": 62.18
-    },
-    {
-      "key": "shopee:43763851612",
-      "marketplace": "shopee",
-      "id": "43763851612",
-      "title": "Tapete Higiênico Descartável para Cachorro Unidades 60x60 cm - Fralda Pet Xixi Cão Pequeno Médio",
-      "title_norm": "tapete higienico descartavel para cachorro unidades 60x60 cm fralda pet xixi cao pequeno medio",
-      "url": "https://shopee.com.br/product/1265597786/43763851612",
-      "affiliate_url": "https://s.shopee.com.br/8plSQTldfr",
-      "category": "A T E N A S",
-      "bucket": "fraldas",
-      "posted_ts": 1788322736,
-      "posted_at": "2026-09-02T04:18:56.225725+00:00",
-      "score": 87.54
-    },
-    {
-      "key": "shopee:23494893496",
-      "marketplace": "shopee",
-      "id": "23494893496",
-      "title": "Kit 3 Fraldas Descartáveis Pampers Supersequinha Mega P - 126 Tiras",
-      "title_norm": "kit 3 fraldas descartaveis pampers supersequinha mega p 126 tiras",
-      "url": "https://shopee.com.br/product/683941545/23494893496",
-      "affiliate_url": "https://s.shopee.com.br/2LXygXF3gf",
-      "category": "Lojas REDE",
-      "bucket": "fraldas",
-      "posted_ts": 1788322672,
-      "posted_at": "2026-09-02T04:17:52.303633+00:00",
-      "score": 87.62
     }
   ],
-  "updated_at": "2026-09-10T18:21:14.761365+00:00"
+  "updated_at": "2026-09-10T19:09:32.453648+00:00"
 }

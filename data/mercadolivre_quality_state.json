@@ -1,6 +1,51 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB7517810920",
+      "product_id": "MLB7517810920",
+      "catalog_product_id": "MLB76609780",
+      "item_id": "MLB7517810920",
+      "url": "https://www.mercadolivre.com.br/p/MLB76609780?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB76609780?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "hidratante corporal pessego",
+      "title": "Hidratante Corporal Pessego",
+      "category": "Beleza",
+      "price": 120.0,
+      "score": 63.0,
+      "posted_ts": 1789067372,
+      "posted_at": "2026-09-10T19:09:32.468627+00:00"
+    },
+    {
+      "key": "mercadolivre:MLB5118569459",
+      "product_id": "MLB5118569459",
+      "catalog_product_id": "MLB21407698",
+      "item_id": "MLB5118569459",
+      "url": "https://www.mercadolivre.com.br/p/MLB21407698?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB21407698?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "arroz motigome 1kg",
+      "title": "Arroz Motigome 1kg",
+      "category": "Supermercados",
+      "price": 37.4,
+      "score": 93.74,
+      "posted_ts": 1789067308,
+      "posted_at": "2026-09-10T19:08:28.301878+00:00"
+    },
+    {
+      "key": "mercadolivre:MLB3814512618",
+      "product_id": "MLB3814512618",
+      "catalog_product_id": "MLB17336422",
+      "item_id": "MLB3814512618",
+      "url": "https://www.mercadolivre.com.br/p/MLB17336422?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB17336422?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "fralda huggies tripla protecao g 36 unidades",
+      "title": "Fralda Huggies Tripla Proteção G 36 unidades",
+      "category": "Mãe e Bebê",
+      "price": 121.99,
+      "score": 130.0,
+      "posted_ts": 1789067243,
+      "posted_at": "2026-09-10T19:07:23.952857+00:00"
+    },
+    {
       "key": "mercadolivre:MLB5095655201",
       "product_id": "MLB5095655201",
       "catalog_product_id": "MLB50110319",
@@ -569,67 +614,7 @@
       "score": 109.0,
       "posted_ts": 1788908571,
       "posted_at": "2026-09-08T23:02:51.107326+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB4095236823",
-      "product_id": "MLB4095236823",
-      "catalog_product_id": "MLB32947723",
-      "item_id": "MLB4095236823",
-      "url": "https://www.mercadolivre.com.br/p/MLB32947723?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB32947723?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "conjunto panelas antiaderente tramontina 5pecas vermelho",
-      "title": "Conjunto Panelas Antiaderente Tramontina 5peças Vermelho",
-      "category": "Casa e Cozinha",
-      "price": 299.0,
-      "score": 111.02,
-      "posted_ts": 1788890622,
-      "posted_at": "2026-09-08T18:03:42.972510+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB4087393645",
-      "product_id": "MLB4087393645",
-      "catalog_product_id": "MLB51007372",
-      "item_id": "MLB4087393645",
-      "url": "https://www.mercadolivre.com.br/p/MLB51007372?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB51007372?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "tecido suplex liso bege 1 65m poliester elastano moda fitness bras tecidos",
-      "title": "Tecido Suplex Liso Bege 1.65m Poliéster Elastano Moda Fitness Brás Tecidos",
-      "category": "Esportes",
-      "price": 500.0,
-      "score": 86.0,
-      "posted_ts": 1788887166,
-      "posted_at": "2026-09-08T17:06:06.986537+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB4795061481",
-      "product_id": "MLB4795061481",
-      "catalog_product_id": "MLB74011420",
-      "item_id": "MLB4795061481",
-      "url": "https://www.mercadolivre.com.br/p/MLB74011420?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB74011420?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "molde calca legging feminina digital pp p m g gg",
-      "title": "Molde Calça Legging Feminina Digital Pp-p-m-g-gg",
-      "category": "Moda Feminina",
-      "price": 88.9,
-      "score": 88.0,
-      "posted_ts": 1788887102,
-      "posted_at": "2026-09-08T17:05:02.907480+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB7083949146",
-      "product_id": "MLB7083949146",
-      "catalog_product_id": "MLB74893563",
-      "item_id": "MLB7083949146",
-      "url": "https://www.mercadolivre.com.br/p/MLB74893563?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB74893563?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "molde calca feminina moletom impresso p m g gg xg",
-      "title": "Molde Calça Feminina Moletom Impresso P/m/g/gg/xg",
-      "category": "Moda Feminina",
-      "price": 129.9,
-      "score": 88.0,
-      "posted_ts": 1788887038,
-      "posted_at": "2026-09-08T17:03:58.760246+00:00"
     }
   ],
-  "updated_at": "2026-09-10T17:03:07.354453+00:00"
+  "updated_at": "2026-09-10T19:09:32.468644+00:00"
 }
