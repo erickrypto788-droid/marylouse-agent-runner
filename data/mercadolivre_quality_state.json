@@ -1,6 +1,21 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB4098790465",
+      "product_id": "MLB4098790465",
+      "catalog_product_id": "MLB50984468",
+      "item_id": "MLB4098790465",
+      "url": "https://www.mercadolivre.com.br/p/MLB50984468?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB50984468?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "jogo panelas 5 pecas tradicional preto nacional",
+      "title": "Jogo Panelas 5 Peças Tradicional Preto Nacional",
+      "category": "Casa e Cozinha",
+      "price": 164.8,
+      "score": 116.52,
+      "posted_ts": 1789074215,
+      "posted_at": "2026-09-10T21:03:35.839194+00:00"
+    },
+    {
       "key": "mercadolivre:MLB4669888929",
       "product_id": "MLB4669888929",
       "catalog_product_id": "MLB69426926",
@@ -631,5 +646,5 @@
       "posted_at": "2026-09-08T23:02:51.107326+00:00"
     }
   ],
-  "updated_at": "2026-09-10T20:06:10.784250+00:00"
+  "updated_at": "2026-09-10T21:03:35.839203+00:00"
 }

@@ -1,6 +1,20 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB4098790465",
+      "marketplace": "mercadolivre",
+      "id": "MLB4098790465",
+      "title": "Jogo Panelas 5 Peças Tradicional Preto Nacional",
+      "title_norm": "jogo panelas 5 pecas tradicional preto nacional",
+      "url": "https://www.mercadolivre.com.br/p/MLB50984468?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB50984468?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Casa e Cozinha",
+      "bucket": "casa_cozinha",
+      "posted_ts": 1789074215,
+      "posted_at": "2026-09-10T21:03:35.827515+00:00",
+      "score": 116.52
+    },
+    {
       "key": "shopee:27693210740",
       "marketplace": "shopee",
       "id": "27693210740",
@@ -13985,21 +13999,7 @@
       "posted_ts": 1788329864,
       "posted_at": "2026-09-02T06:17:44.369086+00:00",
       "score": 88.11
-    },
-    {
-      "key": "shopee:23697738354",
-      "marketplace": "shopee",
-      "id": "23697738354",
-      "title": "Mochila Mala Reforçada Notebook Impermeável Escolar Trabalho",
-      "title_norm": "mochila mala reforcada notebook impermeavel escolar trabalho",
-      "url": "https://shopee.com.br/product/1191715089/23697738354",
-      "affiliate_url": "https://s.shopee.com.br/W6KdP94SJ",
-      "category": "eletromix021",
-      "bucket": "informatica",
-      "posted_ts": 1788329800,
-      "posted_at": "2026-09-02T06:16:40.456723+00:00",
-      "score": 93.01
     }
   ],
-  "updated_at": "2026-09-10T20:21:10.080398+00:00"
+  "updated_at": "2026-09-10T21:03:35.827527+00:00"
 }
