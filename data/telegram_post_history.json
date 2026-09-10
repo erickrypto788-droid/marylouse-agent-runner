@@ -1,6 +1,34 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB3845821781",
+      "marketplace": "mercadolivre",
+      "id": "MLB3845821781",
+      "title": "Armário Organizador Cozinha Balcão Microondas Jet - Cinza",
+      "title_norm": "armario organizador cozinha balcao microondas jet cinza",
+      "url": "https://www.mercadolivre.com.br/p/MLB38279289?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB38279289?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Casa e Cozinha",
+      "bucket": "casa_e_cozinha",
+      "posted_ts": 1789013066,
+      "posted_at": "2026-09-10T04:04:26.869443+00:00",
+      "score": 86.0
+    },
+    {
+      "key": "mercadolivre:MLB4027376697",
+      "marketplace": "mercadolivre",
+      "id": "MLB4027376697",
+      "title": "Jogo de Panelas Antiaderente 5 Peças Cereja com Revestimento Antiaderente",
+      "title_norm": "jogo de panelas antiaderente 5 pecas cereja com revestimento antiaderente",
+      "url": "https://www.mercadolivre.com.br/p/MLB33652298?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB33652298?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Casa e Cozinha",
+      "bucket": "casa_cozinha",
+      "posted_ts": 1789013002,
+      "posted_at": "2026-09-10T04:03:22.868316+00:00",
+      "score": 123.09
+    },
+    {
       "key": "shopee:23194785007",
       "marketplace": "shopee",
       "id": "23194785007",
@@ -13971,35 +13999,7 @@
       "posted_ts": 1788268678,
       "posted_at": "2026-09-01T13:17:58.327689+00:00",
       "score": 125.79
-    },
-    {
-      "key": "shopee:23898664618",
-      "marketplace": "shopee",
-      "id": "23898664618",
-      "title": "Teclado e mouse sem fio—Compatível com tablet，Notebook e celular, Recarregável e 150h de Bateria",
-      "title_norm": "teclado e mouse sem fio compativel com tablet notebook e celular recarregavel e 150h de bateria",
-      "url": "https://shopee.com.br/product/1331886707/23898664618",
-      "affiliate_url": "https://s.shopee.com.br/2qUEHelIxS",
-      "category": "TechBarato SHOP",
-      "bucket": "celulares",
-      "posted_ts": 1788268614,
-      "posted_at": "2026-09-01T13:16:54.246392+00:00",
-      "score": 136.49
-    },
-    {
-      "key": "mercadolivre:MLB4795061481",
-      "marketplace": "mercadolivre",
-      "id": "MLB4795061481",
-      "title": "Molde Calça Legging Feminina Digital Pp-p-m-g-gg",
-      "title_norm": "molde calca legging feminina digital pp p m g gg",
-      "url": "https://www.mercadolivre.com.br/p/MLB74011420?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB74011420?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "category": "Moda Feminina",
-      "bucket": "moda_feminina",
-      "posted_ts": 1788267850,
-      "posted_at": "2026-09-01T13:04:10.749159+00:00",
-      "score": 88.0
     }
   ],
-  "updated_at": "2026-09-10T03:21:05.449555+00:00"
+  "updated_at": "2026-09-10T04:04:26.869461+00:00"
 }

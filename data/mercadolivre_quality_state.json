@@ -1,6 +1,36 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB3845821781",
+      "product_id": "MLB3845821781",
+      "catalog_product_id": "MLB38279289",
+      "item_id": "MLB3845821781",
+      "url": "https://www.mercadolivre.com.br/p/MLB38279289?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB38279289?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "armario organizador cozinha balcao microondas jet cinza",
+      "title": "Armário Organizador Cozinha Balcão Microondas Jet - Cinza",
+      "category": "Casa e Cozinha",
+      "price": 399.9,
+      "score": 86.0,
+      "posted_ts": 1789013066,
+      "posted_at": "2026-09-10T04:04:26.885255+00:00"
+    },
+    {
+      "key": "mercadolivre:MLB4027376697",
+      "product_id": "MLB4027376697",
+      "catalog_product_id": "MLB33652298",
+      "item_id": "MLB4027376697",
+      "url": "https://www.mercadolivre.com.br/p/MLB33652298?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB33652298?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "jogo de panelas antiaderente 5 pecas cereja com revestimento antiaderente",
+      "title": "Jogo de Panelas Antiaderente 5 Peças Cereja com Revestimento Antiaderente",
+      "category": "Casa e Cozinha",
+      "price": 166.65,
+      "score": 123.09,
+      "posted_ts": 1789013002,
+      "posted_at": "2026-09-10T04:03:22.883765+00:00"
+    },
+    {
       "key": "mercadolivre:MLB5747632298",
       "product_id": "MLB5747632298",
       "catalog_product_id": "MLB58174814",
@@ -584,22 +614,7 @@
       "score": 111.0,
       "posted_ts": 1788847356,
       "posted_at": "2026-09-08T06:02:36.183325+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB5167218221",
-      "product_id": "MLB5167218221",
-      "catalog_product_id": "MLB20624919",
-      "item_id": "MLB5167218221",
-      "url": "https://www.mercadolivre.com.br/p/MLB20624919?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB20624919?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "kit maquina cortar cabelo maquina barbeador recarregavel",
-      "title": "Kit Maquina Cortar Cabelo + Maquina Barbeador Recarregavel",
-      "category": "Beleza",
-      "price": 169.9,
-      "score": 113.0,
-      "posted_ts": 1788840157,
-      "posted_at": "2026-09-08T04:02:37.906778+00:00"
     }
   ],
-  "updated_at": "2026-09-10T03:03:34.960998+00:00"
+  "updated_at": "2026-09-10T04:04:26.885272+00:00"
 }
