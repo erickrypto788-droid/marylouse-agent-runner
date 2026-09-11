@@ -1,6 +1,34 @@
 {
   "posts": [
     {
+      "key": "shopee:8333126075",
+      "marketplace": "shopee",
+      "id": "8333126075",
+      "title": "Bota Feminina Coturno Tratorado Blogueira Confortavel PROMOÇÃO PREÇO DE FABRICA",
+      "title_norm": "bota feminina coturno tratorado blogueira confortavel promocao preco de fabrica",
+      "url": "https://shopee.com.br/product/406280749/8333126075",
+      "affiliate_url": "https://s.shopee.com.br/gPzO6IfaN",
+      "category": "Oadsey",
+      "bucket": "calcados",
+      "posted_ts": 1789118281,
+      "posted_at": "2026-09-11T09:18:01.004257+00:00",
+      "score": 99.85
+    },
+    {
+      "key": "shopee:9515296469",
+      "marketplace": "shopee",
+      "id": "9515296469",
+      "title": "Bota GiGiL Cano Alto Coturno Feminino Salto Plataforma Com Zíper",
+      "title_norm": "bota gigil cano alto coturno feminino salto plataforma com ziper",
+      "url": "https://shopee.com.br/product/387348115/9515296469",
+      "affiliate_url": "https://s.shopee.com.br/1AIasLCwJ",
+      "category": "GiGiL",
+      "bucket": "calcados",
+      "posted_ts": 1789118213,
+      "posted_at": "2026-09-11T09:16:53.552683+00:00",
+      "score": 102.78
+    },
+    {
       "key": "mercadolivre:MLB5468810302",
       "marketplace": "mercadolivre",
       "id": "MLB5468810302",
@@ -13971,35 +13999,7 @@
       "posted_ts": 1788373078,
       "posted_at": "2026-09-02T18:17:58.351113+00:00",
       "score": 130.45
-    },
-    {
-      "key": "shopee:18297829933",
-      "marketplace": "shopee",
-      "id": "18297829933",
-      "title": "Perfume Grace Midnight Feminino Frasco Antigo Hinode 100ml",
-      "title_norm": "perfume grace midnight feminino frasco antigo hinode 100ml",
-      "url": "https://shopee.com.br/product/876865394/18297829933",
-      "affiliate_url": "https://s.shopee.com.br/9fKaLh3C9A",
-      "category": "Hinode ",
-      "bucket": "beleza",
-      "posted_ts": 1788373008,
-      "posted_at": "2026-09-02T18:16:48.354448+00:00",
-      "score": 140.83
-    },
-    {
-      "key": "mercadolivre:MLB6194818232",
-      "marketplace": "mercadolivre",
-      "id": "MLB6194818232",
-      "title": "Ração Premier Pet Vitta Natural Ração Cachorro Adulto 15k",
-      "title_norm": "racao premier pet vitta natural racao cachorro adulto 15k",
-      "url": "https://www.mercadolivre.com.br/p/MLB32106098?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB32106098?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "category": "Pet",
-      "bucket": "pet",
-      "posted_ts": 1788372159,
-      "posted_at": "2026-09-02T18:02:39.431305+00:00",
-      "score": 129.0
     }
   ],
-  "updated_at": "2026-09-11T09:04:01.076329+00:00"
+  "updated_at": "2026-09-11T09:18:01.004281+00:00"
 }
