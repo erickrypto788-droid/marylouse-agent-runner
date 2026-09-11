@@ -1,6 +1,21 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB5297261932",
+      "product_id": "MLB5297261932",
+      "catalog_product_id": "MLB45785598",
+      "item_id": "MLB5297261932",
+      "url": "https://www.mercadolivre.com.br/p/MLB45785598?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB45785598?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "brinquedo lider kit ferramentas 2381",
+      "title": "Brinquedo Lider Kit Ferramentas - 2381",
+      "category": "Ferramentas",
+      "price": 119.0,
+      "score": 88.0,
+      "posted_ts": 1789153385,
+      "posted_at": "2026-09-11T19:03:05.961050+00:00"
+    },
+    {
       "key": "mercadolivre:MLB4964672159",
       "product_id": "MLB4964672159",
       "catalog_product_id": "MLB21909642",
@@ -554,22 +569,7 @@
       "score": 131.47,
       "posted_ts": 1788980663,
       "posted_at": "2026-09-09T19:04:23.945859+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB5209333141",
-      "product_id": "MLB5209333141",
-      "catalog_product_id": "MLB76143330",
-      "item_id": "MLB5209333141",
-      "url": "https://www.mercadolivre.com.br/p/MLB76143330?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB76143330?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "impressora termica impressora de recibos mini impressora bluetooth impressora termica portatil arcashopping mini impressora termica impressora de recibos bluetooth mini impressora termica portatil",
-      "title": "Impressora térmica Impressora de recibos Mini impressora Bluetooth Impressora térmica portátil ARCASHOPPING mini impressora térmica Impressora de recibos Bluetooth Mini impressora térmica portátil",
-      "category": "Informática",
-      "price": 310.0,
-      "score": 86.0,
-      "posted_ts": 1788973414,
-      "posted_at": "2026-09-09T17:03:34.703045+00:00"
     }
   ],
-  "updated_at": "2026-09-11T17:02:38.805058+00:00"
+  "updated_at": "2026-09-11T19:03:05.961058+00:00"
 }

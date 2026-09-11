@@ -1,6 +1,20 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB5297261932",
+      "marketplace": "mercadolivre",
+      "id": "MLB5297261932",
+      "title": "Brinquedo Lider Kit Ferramentas - 2381",
+      "title_norm": "brinquedo lider kit ferramentas 2381",
+      "url": "https://www.mercadolivre.com.br/p/MLB45785598?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB45785598?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Ferramentas",
+      "bucket": "ferramentas",
+      "posted_ts": 1789153385,
+      "posted_at": "2026-09-11T19:03:05.947220+00:00",
+      "score": 88.0
+    },
+    {
       "key": "shopee:22094437663",
       "marketplace": "shopee",
       "id": "22094437663",
@@ -13985,21 +13999,7 @@
       "posted_ts": 1788401945,
       "posted_at": "2026-09-03T02:19:05.807365+00:00",
       "score": 66.93
-    },
-    {
-      "key": "shopee:23098472200",
-      "marketplace": "shopee",
-      "id": "23098472200",
-      "title": "Caderno Inteligente A5/B5/A4  Capa Dura Pautado  80 Folhas Caderno Diário Agenda Planner",
-      "title_norm": "caderno inteligente a5 b5 a4 capa dura pautado 80 folhas caderno diario agenda planner",
-      "url": "https://shopee.com.br/product/1190440853/23098472200",
-      "affiliate_url": "https://s.shopee.com.br/4qFIbDbF0E",
-      "category": "UMAIL SHOP",
-      "bucket": "umail_shop",
-      "posted_ts": 1788401877,
-      "posted_at": "2026-09-03T02:17:57.160208+00:00",
-      "score": 77.22
     }
   ],
-  "updated_at": "2026-09-11T18:18:04.388791+00:00"
+  "updated_at": "2026-09-11T19:03:05.947233+00:00"
 }
