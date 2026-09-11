@@ -1,6 +1,34 @@
 {
   "posts": [
     {
+      "key": "shopee:22094437663",
+      "marketplace": "shopee",
+      "id": "22094437663",
+      "title": "Mala De Viagem Academia Bolsa Feminina Impermeável Fitness Esportiva Yoga",
+      "title_norm": "mala de viagem academia bolsa feminina impermeavel fitness esportiva yoga",
+      "url": "https://shopee.com.br/product/502621376/22094437663",
+      "affiliate_url": "https://s.shopee.com.br/6q0dKVuinB",
+      "category": "P&L COMERCIAL",
+      "bucket": "bolsas",
+      "posted_ts": 1789150684,
+      "posted_at": "2026-09-11T18:18:04.388776+00:00",
+      "score": 102.17
+    },
+    {
+      "key": "shopee:23294845685",
+      "marketplace": "shopee",
+      "id": "23294845685",
+      "title": "TOMI MITO Bolsa Casual Espaçosa com Zíper e Divisórias para Trabalho e Passeios  TM9181",
+      "title_norm": "tomi mito bolsa casual espacosa com ziper e divisorias para trabalho e passeios tm9181",
+      "url": "https://shopee.com.br/product/1468415010/23294845685",
+      "affiliate_url": "https://s.shopee.com.br/2VreAY2UJ8",
+      "category": "Amy.Store",
+      "bucket": "bolsas",
+      "posted_ts": 1789150611,
+      "posted_at": "2026-09-11T18:16:51.233356+00:00",
+      "score": 108.55
+    },
+    {
       "key": "shopee:22893472924",
       "marketplace": "shopee",
       "id": "22893472924",
@@ -13971,35 +13999,7 @@
       "posted_ts": 1788401877,
       "posted_at": "2026-09-03T02:17:57.160208+00:00",
       "score": 77.22
-    },
-    {
-      "key": "shopee:58202036393",
-      "marketplace": "shopee",
-      "id": "58202036393",
-      "title": "Kit 6 Canetas Marca Texto em Gel Masterprint – Não Mancha Ideal para Bíblia Vade Mecum e Estudos",
-      "title_norm": "kit 6 canetas marca texto em gel masterprint nao mancha ideal para biblia vade mecum e estudos",
-      "url": "https://shopee.com.br/product/461753672/58202036393",
-      "affiliate_url": "https://s.shopee.com.br/7pswhIBmxb",
-      "category": "Lilas Mix Variedades",
-      "bucket": "lilas_mix_variedades",
-      "posted_ts": 1788401806,
-      "posted_at": "2026-09-03T02:16:46.401419+00:00",
-      "score": 78.71
-    },
-    {
-      "key": "shopee:13591503329",
-      "marketplace": "shopee",
-      "id": "13591503329",
-      "title": "Mochila Escolar Reforçada Notebook Impermeável Cabo De Aço",
-      "title_norm": "mochila escolar reforcada notebook impermeavel cabo de aco",
-      "url": "https://shopee.com.br/product/752743341/13591503329",
-      "affiliate_url": "https://s.shopee.com.br/4qFL3f31YV",
-      "category": "Fenix Abdon",
-      "bucket": "informatica",
-      "posted_ts": 1788398203,
-      "posted_at": "2026-09-03T01:16:43.684579+00:00",
-      "score": 88.27
     }
   ],
-  "updated_at": "2026-09-11T17:21:08.585095+00:00"
+  "updated_at": "2026-09-11T18:18:04.388791+00:00"
 }
