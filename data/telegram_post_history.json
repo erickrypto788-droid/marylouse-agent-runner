@@ -1,6 +1,62 @@
 {
   "posts": [
     {
+      "key": "shopee:43852360893",
+      "marketplace": "shopee",
+      "id": "43852360893",
+      "title": "Creme Hidratante Facial 5% Manteiga de Karité + 5% Glicerina + 2% Niacinamida CH-01Principia - 50g",
+      "title_norm": "creme hidratante facial 5 manteiga de karite 5 glicerina 2 niacinamida ch 01principia 50g",
+      "url": "https://shopee.com.br/product/373261329/43852360893",
+      "affiliate_url": "https://s.shopee.com.br/1AHWwVS0S",
+      "category": "Principia Skincare",
+      "bucket": "principia_skincare",
+      "posted_ts": 1789129201,
+      "posted_at": "2026-09-11T12:20:01.605075+00:00",
+      "score": 51.02
+    },
+    {
+      "key": "shopee:58208444702",
+      "marketplace": "shopee",
+      "id": "58208444702",
+      "title": "Principia Kit Protetor Solar PS-01 FPS 60 + PS-05 FPS 70- escolha seu tom",
+      "title_norm": "principia kit protetor solar ps 01 fps 60 ps 05 fps 70 escolha seu tom",
+      "url": "https://shopee.com.br/product/373261329/58208444702",
+      "affiliate_url": "https://s.shopee.com.br/112oimVlhH",
+      "category": "Principia Skincare",
+      "bucket": "principia_skincare",
+      "posted_ts": 1789129137,
+      "posted_at": "2026-09-11T12:18:57.676041+00:00",
+      "score": 63.34
+    },
+    {
+      "key": "shopee:20997924613",
+      "marketplace": "shopee",
+      "id": "20997924613",
+      "title": "Escova Secadora 3 em 1 Profissional",
+      "title_norm": "escova secadora 3 em 1 profissional",
+      "url": "https://shopee.com.br/product/1372149000/20997924613",
+      "affiliate_url": "https://s.shopee.com.br/BTizXEaoZ",
+      "category": "OLIVIA.OFICIAIS",
+      "bucket": "beleza",
+      "posted_ts": 1789129073,
+      "posted_at": "2026-09-11T12:17:53.681755+00:00",
+      "score": 130.65
+    },
+    {
+      "key": "shopee:42279526584",
+      "marketplace": "shopee",
+      "id": "42279526584",
+      "title": "Frigideira Antiaderente 4 Furos para Ovos e Hambúrguer | Chapinha de Café da Manhã com Revestimento de Pedra",
+      "title_norm": "frigideira antiaderente 4 furos para ovos e hamburguer chapinha de cafe da manha com revestimento de pedra",
+      "url": "https://shopee.com.br/product/1717059753/42279526584",
+      "affiliate_url": "https://s.shopee.com.br/AUtvIWWvKj",
+      "category": "Jerry_goods.br",
+      "bucket": "beleza",
+      "posted_ts": 1789129009,
+      "posted_at": "2026-09-11T12:16:49.734865+00:00",
+      "score": 137.41
+    },
+    {
       "key": "mercadolivre:MLB4912022871",
       "marketplace": "mercadolivre",
       "id": "MLB4912022871",
@@ -13943,63 +13999,7 @@
       "posted_ts": 1788380465,
       "posted_at": "2026-09-02T20:21:05.545110+00:00",
       "score": 102.73
-    },
-    {
-      "key": "shopee:29842873054",
-      "marketplace": "shopee",
-      "id": "29842873054",
-      "title": "Whey Protein Concentrado 1kg Refil - FTW",
-      "title_norm": "whey protein concentrado 1kg refil ftw",
-      "url": "https://shopee.com.br/product/1397772996/29842873054",
-      "affiliate_url": "https://s.shopee.com.br/2BEZYADyWE",
-      "category": "Loja Oficial FTW",
-      "bucket": "loja_oficial_ftw",
-      "posted_ts": 1788380401,
-      "posted_at": "2026-09-02T20:20:01.495105+00:00",
-      "score": 104.34
-    },
-    {
-      "key": "shopee:58204057552",
-      "marketplace": "shopee",
-      "id": "58204057552",
-      "title": "Kit 10 Marmitas com Travas 900ml BPAFREE Pote Plástico Freezer Microondas Fitness Refeição Alimento",
-      "title_norm": "kit 10 marmitas com travas 900ml bpafree pote plastico freezer microondas fitness refeicao alimento",
-      "url": "https://shopee.com.br/product/1731657310/58204057552",
-      "affiliate_url": "https://s.shopee.com.br/1LfSYd3wrH",
-      "category": "GL MIX Utilidades Oficial",
-      "bucket": "gl_mix_utilidades_oficial",
-      "posted_ts": 1788380337,
-      "posted_at": "2026-09-02T20:18:57.438839+00:00",
-      "score": 105.18
-    },
-    {
-      "key": "shopee:19798269477",
-      "marketplace": "shopee",
-      "id": "19798269477",
-      "title": "Kit 3 Garrafas Squeeze Motivacionais Garrafa Água Academia Com 1.2L e 800ml e 300ml copo stanley canudo",
-      "title_norm": "kit 3 garrafas squeeze motivacionais garrafa agua academia com 1 2l e 800ml e 300ml copo stanley canudo",
-      "url": "https://shopee.com.br/product/1046776023/19798269477",
-      "affiliate_url": "https://s.shopee.com.br/60RGqupLQ7",
-      "category": "IUCELL LTDA",
-      "bucket": "iucell_ltda",
-      "posted_ts": 1788380273,
-      "posted_at": "2026-09-02T20:17:53.326568+00:00",
-      "score": 106.52
-    },
-    {
-      "key": "shopee:23198212585",
-      "marketplace": "shopee",
-      "id": "23198212585",
-      "title": "Whey Ultra Protein Concentrado Pote 900g - FTW",
-      "title_norm": "whey ultra protein concentrado pote 900g ftw",
-      "url": "https://shopee.com.br/product/1397772996/23198212585",
-      "affiliate_url": "https://s.shopee.com.br/6AkeSWVch6",
-      "category": "Loja Oficial FTW",
-      "bucket": "loja_oficial_ftw",
-      "posted_ts": 1788380209,
-      "posted_at": "2026-09-02T20:16:49.383177+00:00",
-      "score": 106.76
     }
   ],
-  "updated_at": "2026-09-11T12:06:54.959971+00:00"
+  "updated_at": "2026-09-11T12:20:01.605094+00:00"
 }
