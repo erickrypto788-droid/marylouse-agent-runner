@@ -1,6 +1,34 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB4912022871",
+      "marketplace": "mercadolivre",
+      "id": "MLB4912022871",
+      "title": "Dove Sérum Hidratante Corporal Niacinamida + Uniformizador 380 ml Dove Hidratante Corporal Niacinamida Sérum",
+      "title_norm": "dove serum hidratante corporal niacinamida uniformizador 380 ml dove hidratante corporal niacinamida serum",
+      "url": "https://www.mercadolivre.com.br/p/MLB39321766?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB39321766?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Beleza",
+      "bucket": "beleza",
+      "posted_ts": 1789128414,
+      "posted_at": "2026-09-11T12:06:54.959958+00:00",
+      "score": 63.0
+    },
+    {
+      "key": "mercadolivre:MLB4964833443",
+      "marketplace": "mercadolivre",
+      "id": "MLB4964833443",
+      "title": "Fralda Pampers Pants Ajuste Total XXG 60 Unidades",
+      "title_norm": "fralda pampers pants ajuste total xxg 60 unidades",
+      "url": "https://www.mercadolivre.com.br/p/MLB18715385?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB18715385?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Mãe e Bebê",
+      "bucket": "fraldas",
+      "posted_ts": 1789128351,
+      "posted_at": "2026-09-11T12:05:51.033571+00:00",
+      "score": 151.5
+    },
+    {
       "key": "shopee:23394548691",
       "marketplace": "shopee",
       "id": "23394548691",
@@ -13971,35 +13999,7 @@
       "posted_ts": 1788380209,
       "posted_at": "2026-09-02T20:16:49.383177+00:00",
       "score": 106.76
-    },
-    {
-      "key": "shopee:23397999673",
-      "marketplace": "shopee",
-      "id": "23397999673",
-      "title": "Kit 6 Peças de Roupas Infantil Menina Conjunto Verão Algodão",
-      "title_norm": "kit 6 pecas de roupas infantil menina conjunto verao algodao",
-      "url": "https://shopee.com.br/product/989001237/23397999673",
-      "affiliate_url": "https://s.shopee.com.br/904sMJArzi",
-      "category": "TikTak Kids",
-      "bucket": "tiktak_kids",
-      "posted_ts": 1788376881,
-      "posted_at": "2026-09-02T19:21:21.905052+00:00",
-      "score": 76.85
-    },
-    {
-      "key": "shopee:22394495140",
-      "marketplace": "shopee",
-      "id": "22394495140",
-      "title": "KIT Infantil Camiseta e Bermuda Elastano E Juvenil Masculino Com Elástico e BOLSOS  04 á 16",
-      "title_norm": "kit infantil camiseta e bermuda elastano e juvenil masculino com elastico e bolsos 04 a 16",
-      "url": "https://shopee.com.br/product/1326488733/22394495140",
-      "affiliate_url": "https://s.shopee.com.br/3LQVbtjR1x",
-      "category": "ORIGIN'S KPDS",
-      "bucket": "origin_s_kpds",
-      "posted_ts": 1788376817,
-      "posted_at": "2026-09-02T19:20:17.670481+00:00",
-      "score": 88.64
     }
   ],
-  "updated_at": "2026-09-11T11:18:22.442291+00:00"
+  "updated_at": "2026-09-11T12:06:54.959971+00:00"
 }
