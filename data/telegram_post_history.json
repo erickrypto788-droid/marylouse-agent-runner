@@ -1,6 +1,34 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB5200062049",
+      "marketplace": "mercadolivre",
+      "id": "MLB5200062049",
+      "title": "Celular Samsung Galaxy A06 5g Preto",
+      "title_norm": "celular samsung galaxy a06 5g preto",
+      "url": "https://www.mercadolivre.com.br/p/MLB65973005?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB65973005?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Informática",
+      "bucket": "celulares",
+      "posted_ts": 1789103007,
+      "posted_at": "2026-09-11T05:03:27.635269+00:00",
+      "score": 127.0
+    },
+    {
+      "key": "mercadolivre:MLB5919313906",
+      "marketplace": "mercadolivre",
+      "id": "MLB5919313906",
+      "title": "Carregador Portátil 20000mAh Bahrein Power Bank Universal Power Bank Carga Rápida Com Display Bahrein Compatível Com Todos Celulares Iphone Android IOS apple xiaomi Samsung Motorola",
+      "title_norm": "carregador portatil 20000mah bahrein power bank universal power bank carga rapida com display bahrein compativel com todos celulares iphone android ios apple xiaomi samsung motorola",
+      "url": "https://www.mercadolivre.com.br/p/MLB24099360?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB24099360?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Informática",
+      "bucket": "celulares",
+      "posted_ts": 1789102943,
+      "posted_at": "2026-09-11T05:02:23.562209+00:00",
+      "score": 149.86
+    },
+    {
       "key": "shopee:40873387489",
       "marketplace": "shopee",
       "id": "40873387489",
@@ -13971,35 +13999,7 @@
       "posted_ts": 1788355071,
       "posted_at": "2026-09-02T13:17:51.286795+00:00",
       "score": 83.31
-    },
-    {
-      "key": "shopee:54656718466",
-      "marketplace": "shopee",
-      "id": "54656718466",
-      "title": "Calça Lipo Super Tecido Suplex Power Legging Modeladora PP ao Plus Size",
-      "title_norm": "calca lipo super tecido suplex power legging modeladora pp ao plus size",
-      "url": "https://shopee.com.br/product/346860378/54656718466",
-      "affiliate_url": "https://s.shopee.com.br/3g3LbmPjZK",
-      "category": "GTB Fashion",
-      "bucket": "moda_feminina",
-      "posted_ts": 1788355007,
-      "posted_at": "2026-09-02T13:16:47.200066+00:00",
-      "score": 90.27
-    },
-    {
-      "key": "mercadolivre:MLB4036053887",
-      "marketplace": "mercadolivre",
-      "id": "MLB4036053887",
-      "title": "SSD Nvme Asgard AN4 1tb Gen4",
-      "title_norm": "ssd nvme asgard an4 1tb gen4",
-      "url": "https://www.mercadolivre.com.br/p/MLB24522367?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB24522367?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "category": "Informática",
-      "bucket": "informatica",
-      "posted_ts": 1788354148,
-      "posted_at": "2026-09-02T13:02:28.892909+00:00",
-      "score": 111.0
     }
   ],
-  "updated_at": "2026-09-11T04:17:51.252048+00:00"
+  "updated_at": "2026-09-11T05:03:27.635282+00:00"
 }
