@@ -1,6 +1,36 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB5521186570",
+      "product_id": "MLB5521186570",
+      "catalog_product_id": "MLB43264591",
+      "item_id": "MLB5521186570",
+      "url": "https://www.mercadolivre.com.br/p/MLB43264591?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB43264591?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "smartphone xiaomi redmi 14c preto 128gb 4gb ram",
+      "title": "Smartphone Xiaomi Redmi 14C Preto 128GB 4GB RAM",
+      "category": "Informática",
+      "price": 757.96,
+      "score": 127.0,
+      "posted_ts": 1789164220,
+      "posted_at": "2026-09-11T22:03:40.959480+00:00"
+    },
+    {
+      "key": "mercadolivre:MLB5129093619",
+      "product_id": "MLB5129093619",
+      "catalog_product_id": "MLB78262248",
+      "item_id": "MLB5129093619",
+      "url": "https://www.mercadolivre.com.br/p/MLB78262248?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB78262248?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "celulares smartphones 6 78 polegadas celular 5g 16gb 512gb camera hd 32mpx 18mpx bateria 5000mah celular baratinho",
+      "title": "celulares smartphones 6.78 Polegadas celular 5g 16GB+512GB Câmera HD 32Mpx+18Mpx Bateria 5000mAh celular baratinho",
+      "category": "Informática",
+      "price": 1660.0,
+      "score": 183.67,
+      "posted_ts": 1789164153,
+      "posted_at": "2026-09-11T22:02:33.666642+00:00"
+    },
+    {
       "key": "mercadolivre:MLB5297261932",
       "product_id": "MLB5297261932",
       "catalog_product_id": "MLB45785598",
@@ -539,37 +569,7 @@
       "score": 137.09,
       "posted_ts": 1788991430,
       "posted_at": "2026-09-09T22:03:50.784423+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB7038340852",
-      "product_id": "MLB7038340852",
-      "catalog_product_id": "MLB61698753",
-      "item_id": "MLB7038340852",
-      "url": "https://www.mercadolivre.com.br/p/MLB61698753?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB61698753?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "smartphone samsung galaxy a56 5g preto 256gb",
-      "title": "Smartphone Samsung Galaxy A56 5g Preto 256gb",
-      "category": "Informática",
-      "price": 2969.0,
-      "score": 124.0,
-      "posted_ts": 1788980732,
-      "posted_at": "2026-09-09T19:05:32.470900+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB6099604986",
-      "product_id": "MLB6099604986",
-      "catalog_product_id": "MLB47310708",
-      "item_id": "MLB6099604986",
-      "url": "https://www.mercadolivre.com.br/p/MLB47310708?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB47310708?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "smartphone samsung galaxy a32 128gb branco",
-      "title": "Smartphone Samsung Galaxy A32 128gb Branco",
-      "category": "Informática",
-      "price": 1959.9,
-      "score": 131.47,
-      "posted_ts": 1788980663,
-      "posted_at": "2026-09-09T19:04:23.945859+00:00"
     }
   ],
-  "updated_at": "2026-09-11T19:03:05.961058+00:00"
+  "updated_at": "2026-09-11T22:03:40.959491+00:00"
 }

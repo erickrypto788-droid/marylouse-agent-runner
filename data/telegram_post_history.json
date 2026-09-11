@@ -1,6 +1,34 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB5521186570",
+      "marketplace": "mercadolivre",
+      "id": "MLB5521186570",
+      "title": "Smartphone Xiaomi Redmi 14C Preto 128GB 4GB RAM",
+      "title_norm": "smartphone xiaomi redmi 14c preto 128gb 4gb ram",
+      "url": "https://www.mercadolivre.com.br/p/MLB43264591?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB43264591?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Informática",
+      "bucket": "celulares",
+      "posted_ts": 1789164220,
+      "posted_at": "2026-09-11T22:03:40.945252+00:00",
+      "score": 127.0
+    },
+    {
+      "key": "mercadolivre:MLB5129093619",
+      "marketplace": "mercadolivre",
+      "id": "MLB5129093619",
+      "title": "celulares smartphones 6.78 Polegadas celular 5g 16GB+512GB Câmera HD 32Mpx+18Mpx Bateria 5000mAh celular baratinho",
+      "title_norm": "celulares smartphones 6 78 polegadas celular 5g 16gb 512gb camera hd 32mpx 18mpx bateria 5000mah celular baratinho",
+      "url": "https://www.mercadolivre.com.br/p/MLB78262248?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB78262248?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Informática",
+      "bucket": "celulares",
+      "posted_ts": 1789164153,
+      "posted_at": "2026-09-11T22:02:33.647032+00:00",
+      "score": 183.67
+    },
+    {
       "key": "shopee:58258835199",
       "marketplace": "shopee",
       "id": "58258835199",
@@ -13971,35 +13999,7 @@
       "posted_ts": 1788411770,
       "posted_at": "2026-09-03T05:02:50.695860+00:00",
       "score": 88.0
-    },
-    {
-      "key": "shopee:44331426790",
-      "marketplace": "shopee",
-      "id": "44331426790",
-      "title": "Criativo Feijão Artesanato 3D Molde Caixa Conjunto Completo Com Ferramentas De Arte DIY E Acessórios Para Crianças Adole",
-      "title_norm": "criativo feijao artesanato 3d molde caixa conjunto completo com ferramentas de arte diy e acessorios para criancas adole",
-      "url": "https://shopee.com.br/product/1006215031/44331426790",
-      "affiliate_url": "https://s.shopee.com.br/3VjxfZSW8m",
-      "category": "Choice Oficial",
-      "bucket": "choice_oficial",
-      "posted_ts": 1788409266,
-      "posted_at": "2026-09-03T04:21:06.881231+00:00",
-      "score": 91.68
-    },
-    {
-      "key": "shopee:18999495639",
-      "marketplace": "shopee",
-      "id": "18999495639",
-      "title": "Kit 2 Borrifadores de Azeite Vinagre Líquidos Pulverizador Culinário 200ml",
-      "title_norm": "kit 2 borrifadores de azeite vinagre liquidos pulverizador culinario 200ml",
-      "url": "https://shopee.com.br/product/1243683750/18999495639",
-      "affiliate_url": "https://s.shopee.com.br/8plU1MzYIL",
-      "category": "Top trends",
-      "bucket": "supermercado",
-      "posted_ts": 1788409202,
-      "posted_at": "2026-09-03T04:20:02.631555+00:00",
-      "score": 99.89
     }
   ],
-  "updated_at": "2026-09-11T21:21:24.267616+00:00"
+  "updated_at": "2026-09-11T22:03:40.945267+00:00"
 }
