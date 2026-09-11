@@ -1,6 +1,34 @@
 {
   "posts": [
     {
+      "key": "shopee:23099043450",
+      "marketplace": "shopee",
+      "id": "23099043450",
+      "title": "Bota Galocha Impermeável EPI com C.A. Original Proteção Chuva Motoboy Limpeza ENVIO IMEDIATO",
+      "title_norm": "bota galocha impermeavel epi com c a original protecao chuva motoboy limpeza envio imediato",
+      "url": "https://shopee.com.br/product/620096607/23099043450",
+      "affiliate_url": "https://s.shopee.com.br/3LQkUs6Gaj",
+      "category": "MTSSHOES",
+      "bucket": "calcados",
+      "posted_ts": 1789114747,
+      "posted_at": "2026-09-11T08:19:07.423462+00:00",
+      "score": 93.13
+    },
+    {
+      "key": "shopee:20198028410",
+      "marketplace": "shopee",
+      "id": "20198028410",
+      "title": "Bota CAT Coturno Preto Palmilha Gel Ortopédica Couro Masculino Promoção Envio Rápido",
+      "title_norm": "bota cat coturno preto palmilha gel ortopedica couro masculino promocao envio rapido",
+      "url": "https://shopee.com.br/product/391757444/20198028410",
+      "affiliate_url": "https://s.shopee.com.br/3g3atU4zup",
+      "category": "ELITE SHOES ",
+      "bucket": "calcados",
+      "posted_ts": 1789114680,
+      "posted_at": "2026-09-11T08:18:00.155361+00:00",
+      "score": 99.59
+    },
+    {
       "key": "mercadolivre:MLB7575871600",
       "marketplace": "mercadolivre",
       "id": "MLB7575871600",
@@ -13971,35 +13999,7 @@
       "posted_ts": 1788369594,
       "posted_at": "2026-09-02T17:19:54.369847+00:00",
       "score": 54.03
-    },
-    {
-      "key": "shopee:58253487004",
-      "marketplace": "shopee",
-      "id": "58253487004",
-      "title": "Conjunto de 10 / 6 / 4 Potes de Vidros 640ml Hermeticos para Marmitas Fitness com 4 Travas Forno microondas Airfryer",
-      "title_norm": "conjunto de 10 6 4 potes de vidros 640ml hermeticos para marmitas fitness com 4 travas forno microondas airfryer",
-      "url": "https://shopee.com.br/product/1469341119/58253487004",
-      "affiliate_url": "https://s.shopee.com.br/9KhjsxfsTI",
-      "category": "Manubelita Store",
-      "bucket": "manubelita_store",
-      "posted_ts": 1788369530,
-      "posted_at": "2026-09-02T17:18:50.303652+00:00",
-      "score": 54.51
-    },
-    {
-      "key": "shopee:52810065079",
-      "marketplace": "shopee",
-      "id": "52810065079",
-      "title": "Cafeteira Elétrica Kian 18 Xícaras 650W 127V Filtro Permanente Jarra de Vidro Corta Pingos",
-      "title_norm": "cafeteira eletrica kian 18 xicaras 650w 127v filtro permanente jarra de vidro corta pingos",
-      "url": "https://shopee.com.br/product/1163208131/52810065079",
-      "affiliate_url": "https://s.shopee.com.br/1A3VWIQuj",
-      "category": "Compact Ltda",
-      "bucket": "casa_cozinha",
-      "posted_ts": 1788369466,
-      "posted_at": "2026-09-02T17:17:46.315581+00:00",
-      "score": 100.02
     }
   ],
-  "updated_at": "2026-09-11T08:03:40.885290+00:00"
+  "updated_at": "2026-09-11T08:19:07.423477+00:00"
 }
