@@ -1,6 +1,20 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB4964672159",
+      "marketplace": "mercadolivre",
+      "id": "MLB4964672159",
+      "title": "Perfume Feminino Hinode Eterna",
+      "title_norm": "perfume feminino hinode eterna",
+      "url": "https://www.mercadolivre.com.br/p/MLB21909642?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB21909642?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Beleza",
+      "bucket": "beleza",
+      "posted_ts": 1789146158,
+      "posted_at": "2026-09-11T17:02:38.790791+00:00",
+      "score": 113.0
+    },
+    {
       "key": "shopee:20999244718",
       "marketplace": "shopee",
       "id": "20999244718",
@@ -13985,21 +13999,7 @@
       "posted_ts": 1788393854,
       "posted_at": "2026-09-03T00:04:14.153122+00:00",
       "score": 127.0
-    },
-    {
-      "key": "shopee:20299891802",
-      "marketplace": "shopee",
-      "id": "20299891802",
-      "title": "Kit 3 Mamadeiras Buba Anticólica Bico Pétala Silicone Macio Easy Flow Antivazamento 120/270/330 mL",
-      "title_norm": "kit 3 mamadeiras buba anticolica bico petala silicone macio easy flow antivazamento 120 270 330 ml",
-      "url": "https://shopee.com.br/product/607588276/20299891802",
-      "affiliate_url": "https://s.shopee.com.br/1A5AXKuvL",
-      "category": "Central Bebê",
-      "bucket": "pet",
-      "posted_ts": 1788391260,
-      "posted_at": "2026-09-02T23:21:00.397252+00:00",
-      "score": 44.14
     }
   ],
-  "updated_at": "2026-09-11T16:17:57.502592+00:00"
+  "updated_at": "2026-09-11T17:02:38.790806+00:00"
 }
