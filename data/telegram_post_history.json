@@ -1,6 +1,34 @@
 {
   "posts": [
     {
+      "key": "shopee:40873387489",
+      "marketplace": "shopee",
+      "id": "40873387489",
+      "title": "Console PlayStation 5 Slim Digital 825GB",
+      "title_norm": "console playstation 5 slim digital 825gb",
+      "url": "https://shopee.com.br/product/1343318906/40873387489",
+      "affiliate_url": "https://s.shopee.com.br/3qMzZ2NhqF",
+      "category": "NegociuN",
+      "bucket": "negociun",
+      "posted_ts": 1789100271,
+      "posted_at": "2026-09-11T04:17:51.252035+00:00",
+      "score": 35.43
+    },
+    {
+      "key": "shopee:58215579449",
+      "marketplace": "shopee",
+      "id": "58215579449",
+      "title": "Console Nintendo Switch OLED + Super Mario Bros + 3 Meses NSO",
+      "title_norm": "console nintendo switch oled super mario bros 3 meses nso",
+      "url": "https://shopee.com.br/product/829012010/58215579449",
+      "affiliate_url": "https://s.shopee.com.br/7VGJC3Fzkw",
+      "category": "Webfones",
+      "bucket": "webfones",
+      "posted_ts": 1789100207,
+      "posted_at": "2026-09-11T04:16:47.274804+00:00",
+      "score": 42.83
+    },
+    {
       "key": "shopee:58265349883",
       "marketplace": "shopee",
       "id": "58265349883",
@@ -13971,35 +13999,7 @@
       "posted_ts": 1788354148,
       "posted_at": "2026-09-02T13:02:28.892909+00:00",
       "score": 111.0
-    },
-    {
-      "key": "shopee:22992443699",
-      "marketplace": "shopee",
-      "id": "22992443699",
-      "title": "Calça Jeans Masculina Lycra Premium Slim Casual Elegante para o Dia a Dia",
-      "title_norm": "calca jeans masculina lycra premium slim casual elegante para o dia a dia",
-      "url": "https://shopee.com.br/product/1079083566/22992443699",
-      "affiliate_url": "https://s.shopee.com.br/8V8cYpxSb7",
-      "category": "New Collection Jeans",
-      "bucket": "new_collection_jeans",
-      "posted_ts": 1788351664,
-      "posted_at": "2026-09-02T12:21:04.330377+00:00",
-      "score": 69.52
-    },
-    {
-      "key": "shopee:22492676165",
-      "marketplace": "shopee",
-      "id": "22492676165",
-      "title": "Calça Jogger Preta Masculina Dry Fit Com Fitas Esportiva",
-      "title_norm": "calca jogger preta masculina dry fit com fitas esportiva",
-      "url": "https://shopee.com.br/product/413762733/22492676165",
-      "affiliate_url": "https://s.shopee.com.br/6L47yr5hzs",
-      "category": "ALAN.FONTE.888",
-      "bucket": "alan_fonte_888",
-      "posted_ts": 1788351599,
-      "posted_at": "2026-09-02T12:19:59.984934+00:00",
-      "score": 90.44
     }
   ],
-  "updated_at": "2026-09-11T03:21:09.737105+00:00"
+  "updated_at": "2026-09-11T04:17:51.252048+00:00"
 }
