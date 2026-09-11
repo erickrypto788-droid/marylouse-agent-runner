@@ -1,6 +1,34 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB7575871600",
+      "marketplace": "mercadolivre",
+      "id": "MLB7575871600",
+      "title": "Ração Cachorro Selection Adultos Pequenos 10,1kg Harmony",
+      "title_norm": "racao cachorro selection adultos pequenos 10 1kg harmony",
+      "url": "https://www.mercadolivre.com.br/p/MLB49735840?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB49735840?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Pet",
+      "bucket": "pet",
+      "posted_ts": 1789113820,
+      "posted_at": "2026-09-11T08:03:40.885274+00:00",
+      "score": 113.0
+    },
+    {
+      "key": "mercadolivre:MLB4871337061",
+      "marketplace": "mercadolivre",
+      "id": "MLB4871337061",
+      "title": "Quatree gourmet ração cachorro filhotes Premium 20kg",
+      "title_norm": "quatree gourmet racao cachorro filhotes premium 20kg",
+      "url": "https://www.mercadolivre.com.br/p/MLB36069603?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB36069603?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Pet",
+      "bucket": "pet",
+      "posted_ts": 1789113749,
+      "posted_at": "2026-09-11T08:02:29.147898+00:00",
+      "score": 113.0
+    },
+    {
       "key": "shopee:21097736365",
       "marketplace": "shopee",
       "id": "21097736365",
@@ -13971,35 +13999,7 @@
       "posted_ts": 1788369466,
       "posted_at": "2026-09-02T17:17:46.315581+00:00",
       "score": 100.02
-    },
-    {
-      "key": "shopee:40830814218",
-      "marketplace": "shopee",
-      "id": "40830814218",
-      "title": "Aspirador De Pó Vertical 2 Em 1 Portátil Gaabor 650w",
-      "title_norm": "aspirador de po vertical 2 em 1 portatil gaabor 650w",
-      "url": "https://shopee.com.br/product/342086228/40830814218",
-      "affiliate_url": "https://s.shopee.com.br/4LJ3vmCBGS",
-      "category": "BUMPER MAGAZINE",
-      "bucket": "casa_cozinha",
-      "posted_ts": 1788369402,
-      "posted_at": "2026-09-02T17:16:42.211385+00:00",
-      "score": 108.98
-    },
-    {
-      "key": "shopee:18799617679",
-      "marketplace": "shopee",
-      "id": "18799617679",
-      "title": "KIT 2 CABOS TIPO-C ULTRA RÁPIDO ORIGINAL INOVA Compatível com Diversas Marcas",
-      "title_norm": "kit 2 cabos tipo c ultra rapido original inova compativel com diversas marcas",
-      "url": "https://shopee.com.br/product/583550828/18799617679",
-      "affiliate_url": "https://s.shopee.com.br/3B76TVwR6M",
-      "category": "𝑨𝒏𝒚𝑾𝒊𝒍𝒍𝒊'𝒔 𝑺𝒕𝒐𝒓𝒆",
-      "bucket": "outros",
-      "posted_ts": 1788366136,
-      "posted_at": "2026-09-02T16:22:16.204883+00:00",
-      "score": 65.02
     }
   ],
-  "updated_at": "2026-09-11T07:21:47.832664+00:00"
+  "updated_at": "2026-09-11T08:03:40.885290+00:00"
 }
