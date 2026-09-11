@@ -1,6 +1,20 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB7584337290",
+      "marketplace": "mercadolivre",
+      "id": "MLB7584337290",
+      "title": "SSD Netac Nv3000 Ssd Nvme M2 250gb",
+      "title_norm": "ssd netac nv3000 ssd nvme m2 250gb",
+      "url": "https://www.mercadolivre.com.br/p/MLB24511657?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB24511657?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Informática",
+      "bucket": "informatica",
+      "posted_ts": 1789095739,
+      "posted_at": "2026-09-11T03:02:19.220999+00:00",
+      "score": 111.0
+    },
+    {
       "key": "shopee:58260087298",
       "marketplace": "shopee",
       "id": "58260087298",
@@ -13985,21 +13999,7 @@
       "posted_ts": 1788348023,
       "posted_at": "2026-09-02T11:20:23.360290+00:00",
       "score": 102.95
-    },
-    {
-      "key": "shopee:58264137896",
-      "marketplace": "shopee",
-      "id": "58264137896",
-      "title": "Conjunto Mercy Feminino Cropped e Calça em Tecido Dunas Moda Casual Chic Confortável Qualidade",
-      "title_norm": "conjunto mercy feminino cropped e calca em tecido dunas moda casual chic confortavel qualidade",
-      "url": "https://shopee.com.br/product/1778734885/58264137896",
-      "affiliate_url": "https://s.shopee.com.br/8AVkpod1y4",
-      "category": "BRUN MODA FEMININA",
-      "bucket": "moda_feminina",
-      "posted_ts": 1788347949,
-      "posted_at": "2026-09-02T11:19:09.768279+00:00",
-      "score": 103.84
     }
   ],
-  "updated_at": "2026-09-11T02:21:28.215351+00:00"
+  "updated_at": "2026-09-11T03:02:19.221010+00:00"
 }

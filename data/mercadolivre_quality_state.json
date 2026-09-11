@@ -1,6 +1,21 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB7584337290",
+      "product_id": "MLB7584337290",
+      "catalog_product_id": "MLB24511657",
+      "item_id": "MLB7584337290",
+      "url": "https://www.mercadolivre.com.br/p/MLB24511657?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB24511657?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "ssd netac nv3000 ssd nvme m2 250gb",
+      "title": "SSD Netac Nv3000 Ssd Nvme M2 250gb",
+      "category": "Informática",
+      "price": 399.0,
+      "score": 111.0,
+      "posted_ts": 1789095739,
+      "posted_at": "2026-09-11T03:02:19.232791+00:00"
+    },
+    {
       "key": "mercadolivre:MLB7270317978",
       "product_id": "MLB7270317978",
       "catalog_product_id": "MLB75817587",
@@ -584,67 +599,7 @@
       "score": 154.83,
       "posted_ts": 1788930186,
       "posted_at": "2026-09-09T05:03:06.489122+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB5205428915",
-      "product_id": "MLB5205428915",
-      "catalog_product_id": "MLB38283662",
-      "item_id": "MLB5205428915",
-      "url": "https://www.mercadolivre.com.br/p/MLB38283662?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB38283662?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "samsung galaxy a55 256gb 8gb awesome navy",
-      "title": "Samsung Galaxy A55 256gb 8gb Awesome Navy",
-      "category": "Informática",
-      "price": 2999.99,
-      "score": 124.0,
-      "posted_ts": 1788919417,
-      "posted_at": "2026-09-09T02:03:37.984655+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB7238539878",
-      "product_id": "MLB7238539878",
-      "catalog_product_id": "MLB39444837",
-      "item_id": "MLB7238539878",
-      "url": "https://www.mercadolivre.com.br/p/MLB39444837?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB39444837?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "smartphone samsung galaxy s23 ultra 512gb creme",
-      "title": "Smartphone Samsung Galaxy S23 Ultra 512gb Creme",
-      "category": "Informática",
-      "price": 5999.0,
-      "score": 124.0,
-      "posted_ts": 1788919354,
-      "posted_at": "2026-09-09T02:02:34.031014+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB6501092642",
-      "product_id": "MLB6501092642",
-      "catalog_product_id": "MLB66915787",
-      "item_id": "MLB6501092642",
-      "url": "https://www.mercadolivre.com.br/p/MLB66915787?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB66915787?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "fone bluetooth esportivo 320mah fone sem fio fone academia lilas",
-      "title": "Fone Bluetooth Esportivo 320mah Fone Sem Fio Fone Academia Lilás",
-      "category": "Esportes",
-      "price": 55.0,
-      "score": 115.39,
-      "posted_ts": 1788915785,
-      "posted_at": "2026-09-09T01:03:05.095129+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB5179437451",
-      "product_id": "MLB5179437451",
-      "catalog_product_id": "MLB50957106",
-      "item_id": "MLB5179437451",
-      "url": "https://www.mercadolivre.com.br/p/MLB50957106?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB50957106?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "ssd nvme kingston 1tb nv3 m 2 2280 pcie 4 0 nf e cor ssd nvme m 2 2280 kingston 1tb",
-      "title": "Ssd Nvme Kingston 1tb Nv3 M.2 2280 Pcie 4.0 Nf-e Cor Ssd Nvme M.2 2280 Kingston 1tb",
-      "category": "Informática",
-      "price": 1079.99,
-      "score": 111.0,
-      "posted_ts": 1788912200,
-      "posted_at": "2026-09-09T00:03:20.847718+00:00"
     }
   ],
-  "updated_at": "2026-09-10T23:02:55.673752+00:00"
+  "updated_at": "2026-09-11T03:02:19.232800+00:00"
 }
