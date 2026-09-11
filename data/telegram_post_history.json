@@ -1,6 +1,34 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB5468810302",
+      "marketplace": "mercadolivre",
+      "id": "MLB5468810302",
+      "title": "Babá Eletrônica Hellobaby Hb65-2 Monitor Bebê 3.2 Branco",
+      "title_norm": "baba eletronica hellobaby hb65 2 monitor bebe 3 2 branco",
+      "url": "https://www.mercadolivre.com.br/p/MLB51901869?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB51901869?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Informática",
+      "bucket": "informatica",
+      "posted_ts": 1789117441,
+      "posted_at": "2026-09-11T09:04:01.076311+00:00",
+      "score": 86.0
+    },
+    {
+      "key": "mercadolivre:MLB4778272375",
+      "marketplace": "mercadolivre",
+      "id": "MLB4778272375",
+      "title": "Livro Tchauzinho, Fralda",
+      "title_norm": "livro tchauzinho fralda",
+      "url": "https://www.mercadolivre.com.br/p/MLB73518090?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB73518090?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Mãe e Bebê",
+      "bucket": "fraldas",
+      "posted_ts": 1789117368,
+      "posted_at": "2026-09-11T09:02:48.160307+00:00",
+      "score": 114.0
+    },
+    {
       "key": "shopee:23099043450",
       "marketplace": "shopee",
       "id": "23099043450",
@@ -13971,35 +13999,7 @@
       "posted_ts": 1788372159,
       "posted_at": "2026-09-02T18:02:39.431305+00:00",
       "score": 129.0
-    },
-    {
-      "key": "shopee:58206298219",
-      "marketplace": "shopee",
-      "id": "58206298219",
-      "title": "Espremedor de Frutas Premium E02 30W Mondial",
-      "title_norm": "espremedor de frutas premium e02 30w mondial",
-      "url": "https://shopee.com.br/product/1083800536/58206298219",
-      "affiliate_url": "https://s.shopee.com.br/6fgyi3uUxW",
-      "category": "Casas Bahia Oficial",
-      "bucket": "casas_bahia_oficial",
-      "posted_ts": 1788369663,
-      "posted_at": "2026-09-02T17:21:03.095217+00:00",
-      "score": 51.72
-    },
-    {
-      "key": "shopee:58254696881",
-      "marketplace": "shopee",
-      "id": "58254696881",
-      "title": "Ventilador de Coluna Britânia Maxx Force 6 Pás 75W BVC31A",
-      "title_norm": "ventilador de coluna britania maxx force 6 pas 75w bvc31a",
-      "url": "https://shopee.com.br/product/811879342/58254696881",
-      "affiliate_url": "https://s.shopee.com.br/2qUG91Hp08",
-      "category": "Britânia Oficial",
-      "bucket": "britania_oficial",
-      "posted_ts": 1788369594,
-      "posted_at": "2026-09-02T17:19:54.369847+00:00",
-      "score": 54.03
     }
   ],
-  "updated_at": "2026-09-11T08:19:07.423477+00:00"
+  "updated_at": "2026-09-11T09:04:01.076329+00:00"
 }

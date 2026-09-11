@@ -1,6 +1,36 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB5468810302",
+      "product_id": "MLB5468810302",
+      "catalog_product_id": "MLB51901869",
+      "item_id": "MLB5468810302",
+      "url": "https://www.mercadolivre.com.br/p/MLB51901869?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB51901869?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "baba eletronica hellobaby hb65 2 monitor bebe 3 2 branco",
+      "title": "Babá Eletrônica Hellobaby Hb65-2 Monitor Bebê 3.2 Branco",
+      "category": "Informática",
+      "price": 650.99,
+      "score": 86.0,
+      "posted_ts": 1789117441,
+      "posted_at": "2026-09-11T09:04:01.087390+00:00"
+    },
+    {
+      "key": "mercadolivre:MLB4778272375",
+      "product_id": "MLB4778272375",
+      "catalog_product_id": "MLB73518090",
+      "item_id": "MLB4778272375",
+      "url": "https://www.mercadolivre.com.br/p/MLB73518090?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB73518090?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "livro tchauzinho fralda",
+      "title": "Livro Tchauzinho, Fralda",
+      "category": "Mãe e Bebê",
+      "price": 196.88,
+      "score": 114.0,
+      "posted_ts": 1789117368,
+      "posted_at": "2026-09-11T09:02:48.172215+00:00"
+    },
+    {
       "key": "mercadolivre:MLB7575871600",
       "product_id": "MLB7575871600",
       "catalog_product_id": "MLB49735840",
@@ -646,5 +676,5 @@
       "posted_at": "2026-09-09T09:06:15.852934+00:00"
     }
   ],
-  "updated_at": "2026-09-11T08:03:40.898663+00:00"
+  "updated_at": "2026-09-11T09:04:01.087399+00:00"
 }
