@@ -1,6 +1,21 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB5697892498",
+      "product_id": "MLB5697892498",
+      "catalog_product_id": "MLB56081727",
+      "item_id": "MLB5697892498",
+      "url": "https://www.mercadolivre.com.br/p/MLB56081727?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB56081727?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "body modelador nayane short feminino cor cristal tamanho eg",
+      "title": "Body Modelador Nayane Short Feminino Cor Cristal Tamanho EG",
+      "category": "Moda Feminina",
+      "price": 151.7,
+      "score": 88.0,
+      "posted_ts": 1789131796,
+      "posted_at": "2026-09-11T13:03:16.953824+00:00"
+    },
+    {
       "key": "mercadolivre:MLB4912022871",
       "product_id": "MLB4912022871",
       "catalog_product_id": "MLB39321766",
@@ -586,5 +601,5 @@
       "posted_at": "2026-09-09T14:03:15.515201+00:00"
     }
   ],
-  "updated_at": "2026-09-11T12:06:54.973757+00:00"
+  "updated_at": "2026-09-11T13:03:16.953841+00:00"
 }
