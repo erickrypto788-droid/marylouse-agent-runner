@@ -1,6 +1,48 @@
 {
   "posts": [
     {
+      "key": "shopee:58200212094",
+      "marketplace": "shopee",
+      "id": "58200212094",
+      "title": "Capa Capinha Para Samsung A06 A07 A15 A16 A17 A25 A35 A54 A55 S26 Silicone Premium Com MagSafe",
+      "title_norm": "capa capinha para samsung a06 a07 a15 a16 a17 a25 a35 a54 a55 s26 silicone premium com magsafe",
+      "url": "https://shopee.com.br/product/1064476955/58200212094",
+      "affiliate_url": "https://s.shopee.com.br/40gSgd5bxd",
+      "category": "FÊNIX IMPORT ",
+      "bucket": "fenix_import",
+      "posted_ts": 1789190336,
+      "posted_at": "2026-09-12T05:18:56.911904+00:00",
+      "score": 31.22
+    },
+    {
+      "key": "shopee:58251784766",
+      "marketplace": "shopee",
+      "id": "58251784766",
+      "title": "Cabo Tipo C 100W | USB p/ Tipo C 60W | Turbo 1m 2m 3m | Android, iPhon 15 16 17 Tablet Notebook",
+      "title_norm": "cabo tipo c 100w usb p tipo c 60w turbo 1m 2m 3m android iphon 15 16 17 tablet notebook",
+      "url": "https://shopee.com.br/product/1514990552/58251784766",
+      "affiliate_url": "https://s.shopee.com.br/qjQuoHfO4",
+      "category": "ZUPAX",
+      "bucket": "informatica",
+      "posted_ts": 1789190272,
+      "posted_at": "2026-09-12T05:17:52.638725+00:00",
+      "score": 71.86
+    },
+    {
+      "key": "shopee:22392685500",
+      "marketplace": "shopee",
+      "id": "22392685500",
+      "title": "Carregador iPhone Turbo Tipo-C 20W + Cabo Lightining para IPhone Carga rápida",
+      "title_norm": "carregador iphone turbo tipo c 20w cabo lightining para iphone carga rapida",
+      "url": "https://shopee.com.br/product/390307022/22392685500",
+      "affiliate_url": "https://s.shopee.com.br/1gIXuLItTX",
+      "category": "ZSZ_brasil",
+      "bucket": "celulares",
+      "posted_ts": 1789190208,
+      "posted_at": "2026-09-12T05:16:48.418198+00:00",
+      "score": 109.77
+    },
+    {
       "key": "mercadolivre:MLB4894784915",
       "marketplace": "mercadolivre",
       "id": "MLB4894784915",
@@ -13957,49 +13999,7 @@
       "posted_ts": 1788440568,
       "posted_at": "2026-09-03T13:02:48.327480+00:00",
       "score": 86.0
-    },
-    {
-      "key": "shopee:18299266586",
-      "marketplace": "shopee",
-      "id": "18299266586",
-      "title": "Aspirador de Pó 2 em 1 Limpeza Portátil Sem Fio Multifuncional Para Limpeza De Casa Manual",
-      "title_norm": "aspirador de po 2 em 1 limpeza portatil sem fio multifuncional para limpeza de casa manual",
-      "url": "https://shopee.com.br/product/465639879/18299266586",
-      "affiliate_url": "https://s.shopee.com.br/4LJ5C4vcdJ",
-      "category": "T&TBem_vindo.br",
-      "bucket": "casa_cozinha",
-      "posted_ts": 1788437877,
-      "posted_at": "2026-09-03T12:17:57.974110+00:00",
-      "score": 95.39
-    },
-    {
-      "key": "shopee:22792891006",
-      "marketplace": "shopee",
-      "id": "22792891006",
-      "title": "Cafeteira Philco 15 Cafezinhos 550W 600ml PCFE01",
-      "title_norm": "cafeteira philco 15 cafezinhos 550w 600ml pcfe01",
-      "url": "https://shopee.com.br/product/811034337/22792891006",
-      "affiliate_url": "https://s.shopee.com.br/8KpDxQXaxZ",
-      "category": "Philco Oficial",
-      "bucket": "casa_cozinha",
-      "posted_ts": 1788437813,
-      "posted_at": "2026-09-03T12:16:53.923129+00:00",
-      "score": 99.87
-    },
-    {
-      "key": "shopee:58200212094",
-      "marketplace": "shopee",
-      "id": "58200212094",
-      "title": "Capa Capinha Para Samsung A06 A07 A15 A16 A17 A25 A35 A54 A55 S26 Silicone Premium Com MagSafe",
-      "title_norm": "capa capinha para samsung a06 a07 a15 a16 a17 a25 a35 a54 a55 s26 silicone premium com magsafe",
-      "url": "https://shopee.com.br/product/1064476955/58200212094",
-      "affiliate_url": "https://s.shopee.com.br/qjCxXNxRf",
-      "category": "FÊNIX IMPORT ",
-      "bucket": "fenix_import",
-      "posted_ts": 1788434435,
-      "posted_at": "2026-09-03T11:20:35.989765+00:00",
-      "score": 30.79
     }
   ],
-  "updated_at": "2026-09-12T05:07:36.212054+00:00"
+  "updated_at": "2026-09-12T05:18:56.911918+00:00"
 }
