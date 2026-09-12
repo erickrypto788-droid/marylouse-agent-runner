@@ -1,6 +1,34 @@
 {
   "posts": [
     {
+      "key": "shopee:57008381938",
+      "marketplace": "shopee",
+      "id": "57008381938",
+      "title": "Tênis De Corrida Profissional Ultraleve Com Placa De Carbono De Sola Completa Para Maratona , Masculino E Feminino",
+      "title_norm": "tenis de corrida profissional ultraleve com placa de carbono de sola completa para maratona masculino e feminino",
+      "url": "https://shopee.com.br/product/863968451/57008381938",
+      "affiliate_url": "https://s.shopee.com.br/gQ0eNbuX7",
+      "category": "NBGAGA Oficial Loja.br",
+      "bucket": "calcados",
+      "posted_ts": 1789186714,
+      "posted_at": "2026-09-12T04:18:34.132758+00:00",
+      "score": 81.77
+    },
+    {
+      "key": "shopee:22299455857",
+      "marketplace": "shopee",
+      "id": "22299455857",
+      "title": "Bota Coturno Adventure Feminino Tênis Cano Curto Preto Rosa do 33 ao 40",
+      "title_norm": "bota coturno adventure feminino tenis cano curto preto rosa do 33 ao 40",
+      "url": "https://shopee.com.br/product/1788702793/22299455857",
+      "affiliate_url": "https://s.shopee.com.br/9zxflXFiSX",
+      "category": "Shop da Ca",
+      "bucket": "calcados",
+      "posted_ts": 1789186604,
+      "posted_at": "2026-09-12T04:16:44.315946+00:00",
+      "score": 102.95
+    },
+    {
       "key": "shopee:23492477701",
       "marketplace": "shopee",
       "id": "23492477701",
@@ -13971,35 +13999,7 @@
       "posted_ts": 1788434299,
       "posted_at": "2026-09-03T11:18:19.987547+00:00",
       "score": 121.37
-    },
-    {
-      "key": "shopee:22096106124",
-      "marketplace": "shopee",
-      "id": "22096106124",
-      "title": "Pendrive HP USB 2.0 Metal 2TB Giratório De Alta Velocidade Para Smartphone/Notebook/PC Android",
-      "title_norm": "pendrive hp usb 2 0 metal 2tb giratorio de alta velocidade para smartphone notebook pc android",
-      "url": "https://shopee.com.br/product/1021003165/22096106124",
-      "affiliate_url": "https://s.shopee.com.br/2BEaXzELQp",
-      "category": "rflashdrive.br",
-      "bucket": "celulares",
-      "posted_ts": 1788434230,
-      "posted_at": "2026-09-03T11:17:10.450498+00:00",
-      "score": 126.51
-    },
-    {
-      "key": "mercadolivre:MLB4871337061",
-      "marketplace": "mercadolivre",
-      "id": "MLB4871337061",
-      "title": "Quatree gourmet ração cachorro filhotes Premium 20kg",
-      "title_norm": "quatree gourmet racao cachorro filhotes premium 20kg",
-      "url": "https://www.mercadolivre.com.br/p/MLB36069603?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB36069603?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "category": "Pet",
-      "bucket": "pet",
-      "posted_ts": 1788433366,
-      "posted_at": "2026-09-03T11:02:46.480393+00:00",
-      "score": 113.0
     }
   ],
-  "updated_at": "2026-09-12T03:18:53.461340+00:00"
+  "updated_at": "2026-09-12T04:18:34.132778+00:00"
 }
