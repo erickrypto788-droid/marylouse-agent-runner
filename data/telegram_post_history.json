@@ -1,6 +1,48 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB5909017866",
+      "marketplace": "mercadolivre",
+      "id": "MLB5909017866",
+      "title": "Blusa Camisa Feminina Proteção Solar Bike Jetski Pesca Praia Cor Branco Tamanho M",
+      "title_norm": "blusa camisa feminina protecao solar bike jetski pesca praia cor branco tamanho m",
+      "url": "https://www.mercadolivre.com.br/p/MLB61770185?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB61770185?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Moda Feminina",
+      "bucket": "moda_feminina",
+      "posted_ts": 1789254317,
+      "posted_at": "2026-09-12T23:05:17.769070+00:00",
+      "score": 88.0
+    },
+    {
+      "key": "mercadolivre:MLB6965031176",
+      "marketplace": "mercadolivre",
+      "id": "MLB6965031176",
+      "title": "Colete Academia Dry Fit Feminino Leve Cor Bordô Tamanho M",
+      "title_norm": "colete academia dry fit feminino leve cor bordo tamanho m",
+      "url": "https://www.mercadolivre.com.br/p/MLB73616358?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB73616358?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Moda Feminina",
+      "bucket": "moda_feminina",
+      "posted_ts": 1789254253,
+      "posted_at": "2026-09-12T23:04:13.759809+00:00",
+      "score": 105.86
+    },
+    {
+      "key": "mercadolivre:MLB6596282078",
+      "marketplace": "mercadolivre",
+      "id": "MLB6596282078",
+      "title": "Saída Praia Tule Kimono Amarração Short Feminino Verão Laranja M",
+      "title_norm": "saida praia tule kimono amarracao short feminino verao laranja m",
+      "url": "https://www.mercadolivre.com.br/p/MLB67745838?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB67745838?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Moda Feminina",
+      "bucket": "pet",
+      "posted_ts": 1789254189,
+      "posted_at": "2026-09-12T23:03:09.109463+00:00",
+      "score": 113.0
+    },
+    {
       "key": "shopee:22693258851",
       "marketplace": "shopee",
       "id": "22693258851",
@@ -13957,49 +13999,7 @@
       "posted_ts": 1788510016,
       "posted_at": "2026-09-04T08:20:16.976932+00:00",
       "score": 51.02
-    },
-    {
-      "key": "shopee:58208444702",
-      "marketplace": "shopee",
-      "id": "58208444702",
-      "title": "Principia Kit Protetor Solar PS-01 FPS 60 + PS-05 FPS 70- escolha seu tom",
-      "title_norm": "principia kit protetor solar ps 01 fps 60 ps 05 fps 70 escolha seu tom",
-      "url": "https://shopee.com.br/product/373261329/58208444702",
-      "affiliate_url": "https://s.shopee.com.br/3B77s3bqaa",
-      "category": "Principia Skincare",
-      "bucket": "principia_skincare",
-      "posted_ts": 1788509949,
-      "posted_at": "2026-09-04T08:19:09.224942+00:00",
-      "score": 63.23
-    },
-    {
-      "key": "shopee:18299260537",
-      "marketplace": "shopee",
-      "id": "18299260537",
-      "title": "Escova Rotativa Elétrica Secador de cabelo Professinal 2 em 1  110v e 220v",
-      "title_norm": "escova rotativa eletrica secador de cabelo professinal 2 em 1 110v e 220v",
-      "url": "https://shopee.com.br/product/372103398/18299260537",
-      "affiliate_url": "https://s.shopee.com.br/9zxS0c3Aj2",
-      "category": "ADS-store",
-      "bucket": "beleza",
-      "posted_ts": 1788509882,
-      "posted_at": "2026-09-04T08:18:02.236259+00:00",
-      "score": 129.83
-    },
-    {
-      "key": "shopee:22894246754",
-      "marketplace": "shopee",
-      "id": "22894246754",
-      "title": "BODY SPLASH MASCULINO BARBARIUS 200ML - PRIMACIAL PERFUME AMADEIRADO",
-      "title_norm": "body splash masculino barbarius 200ml primacial perfume amadeirado",
-      "url": "https://shopee.com.br/product/1295467768/22894246754",
-      "affiliate_url": "https://s.shopee.com.br/3VjyGfJ7KF",
-      "category": "Primacial",
-      "bucket": "beleza",
-      "posted_ts": 1788509805,
-      "posted_at": "2026-09-04T08:16:45.842950+00:00",
-      "score": 133.78
     }
   ],
-  "updated_at": "2026-09-12T22:18:52.047275+00:00"
+  "updated_at": "2026-09-12T23:05:17.769084+00:00"
 }
