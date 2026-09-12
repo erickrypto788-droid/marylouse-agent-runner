@@ -1,6 +1,36 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB7426392498",
+      "product_id": "MLB7426392498",
+      "catalog_product_id": "MLB77446524",
+      "item_id": "MLB7426392498",
+      "url": "https://www.mercadolivre.com.br/p/MLB77446524?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB77446524?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "ulefone note 18 ultra 256gb 6gb ram celular 5g 5450mah camera 50mp preto",
+      "title": "Ulefone Note 18 Ultra 256GB 6GB RAM Celular 5G 5450mAh Câmera 50MP Preto",
+      "category": "Informática",
+      "price": 1867.15,
+      "score": 117.67,
+      "posted_ts": 1789225432,
+      "posted_at": "2026-09-12T15:03:52.116670+00:00"
+    },
+    {
+      "key": "mercadolivre:MLB7626010124",
+      "product_id": "MLB7626010124",
+      "catalog_product_id": "MLB47306212",
+      "item_id": "MLB7626010124",
+      "url": "https://www.mercadolivre.com.br/p/MLB47306212?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB47306212?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "smartphone xiaomi redmi 12 preto 128 4gb e fone",
+      "title": "Smartphone Xiaomí Redmi 12 Preto 128/4gb + E Fone",
+      "category": "Informática",
+      "price": 1399.0,
+      "score": 127.0,
+      "posted_ts": 1789225361,
+      "posted_at": "2026-09-12T15:02:41.773021+00:00"
+    },
+    {
       "key": "mercadolivre:MLB5152165069",
       "product_id": "MLB5152165069",
       "catalog_product_id": "MLB16377075",
@@ -434,37 +464,7 @@
       "score": 86.0,
       "posted_ts": 1789059787,
       "posted_at": "2026-09-10T17:03:07.354442+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB6194818232",
-      "product_id": "MLB6194818232",
-      "catalog_product_id": "MLB32106098",
-      "item_id": "MLB6194818232",
-      "url": "https://www.mercadolivre.com.br/p/MLB32106098?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB32106098?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "racao premier pet vitta natural racao cachorro adulto 15k",
-      "title": "Ração Premier Pet Vitta Natural Ração Cachorro Adulto 15k",
-      "category": "Pet",
-      "price": 131.99,
-      "score": 129.0,
-      "posted_ts": 1789052543,
-      "posted_at": "2026-09-10T15:02:23.129933+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB7580832078",
-      "product_id": "MLB7580832078",
-      "catalog_product_id": "MLB77579661",
-      "item_id": "MLB7580832078",
-      "url": "https://www.mercadolivre.com.br/p/MLB77579661?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB77579661?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "difusor ar umidificador umidificador ar 1 5l humidifiicador ar ultrassonico umidificador domestico para quarto sala bercario operacao silenciosa umidificacao eficiente design compacto facil de usar",
-      "title": "Difusor Ar Umidificador Umidificador Ar 1.5l Humidifiicador Ar Ultrassonico Umidificador Doméstico Para Quarto Sala Berçário Operação Silenciosa Umidificação Eficiente Design Compacto Fácil De Usar",
-      "category": "Pet",
-      "price": 132.6,
-      "score": 187.63,
-      "posted_ts": 1789048961,
-      "posted_at": "2026-09-10T14:02:41.980636+00:00"
     }
   ],
-  "updated_at": "2026-09-12T13:03:57.972053+00:00"
+  "updated_at": "2026-09-12T15:03:52.116679+00:00"
 }

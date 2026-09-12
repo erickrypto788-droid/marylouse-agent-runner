@@ -1,6 +1,34 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB7426392498",
+      "marketplace": "mercadolivre",
+      "id": "MLB7426392498",
+      "title": "Ulefone Note 18 Ultra 256GB 6GB RAM Celular 5G 5450mAh Câmera 50MP Preto",
+      "title_norm": "ulefone note 18 ultra 256gb 6gb ram celular 5g 5450mah camera 50mp preto",
+      "url": "https://www.mercadolivre.com.br/p/MLB77446524?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB77446524?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Informática",
+      "bucket": "celulares",
+      "posted_ts": 1789225432,
+      "posted_at": "2026-09-12T15:03:52.104478+00:00",
+      "score": 117.67
+    },
+    {
+      "key": "mercadolivre:MLB7626010124",
+      "marketplace": "mercadolivre",
+      "id": "MLB7626010124",
+      "title": "Smartphone Xiaomí Redmi 12 Preto 128/4gb + E Fone",
+      "title_norm": "smartphone xiaomi redmi 12 preto 128 4gb e fone",
+      "url": "https://www.mercadolivre.com.br/p/MLB47306212?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB47306212?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Informática",
+      "bucket": "celulares",
+      "posted_ts": 1789225361,
+      "posted_at": "2026-09-12T15:02:41.759793+00:00",
+      "score": 127.0
+    },
+    {
       "key": "shopee:22391919981",
       "marketplace": "shopee",
       "id": "22391919981",
@@ -13971,35 +13999,7 @@
       "posted_ts": 1788472960,
       "posted_at": "2026-09-03T22:02:40.062369+00:00",
       "score": 162.38
-    },
-    {
-      "key": "shopee:23797359274",
-      "marketplace": "shopee",
-      "id": "23797359274",
-      "title": "Carimbo Marca Texto De Proteção De Privacidade /Cobertura Privada/Prosy Code De Dados/Utensílio De Segurança",
-      "title_norm": "carimbo marca texto de protecao de privacidade cobertura privada prosy code de dados utensilio de seguranca",
-      "url": "https://shopee.com.br/product/487505431/23797359274",
-      "affiliate_url": "https://s.shopee.com.br/6AkjyWJZtE",
-      "category": "FU MOON",
-      "bucket": "fu_moon",
-      "posted_ts": 1788470423,
-      "posted_at": "2026-09-03T21:20:23.420492+00:00",
-      "score": 51.27
-    },
-    {
-      "key": "shopee:23291332188",
-      "marketplace": "shopee",
-      "id": "23291332188",
-      "title": "Kit 12 Marca Texto (6 Neon + 6 pastel) Caneta marca texto Masterprint",
-      "title_norm": "kit 12 marca texto 6 neon 6 pastel caneta marca texto masterprint",
-      "url": "https://shopee.com.br/product/999239250/23291332188",
-      "affiliate_url": "https://s.shopee.com.br/60RJmDKDED",
-      "category": "Draw Papelaria",
-      "bucket": "draw_papelaria",
-      "posted_ts": 1788470352,
-      "posted_at": "2026-09-03T21:19:12.044918+00:00",
-      "score": 51.64
     }
   ],
-  "updated_at": "2026-09-12T13:17:49.296946+00:00"
+  "updated_at": "2026-09-12T15:03:52.104492+00:00"
 }
