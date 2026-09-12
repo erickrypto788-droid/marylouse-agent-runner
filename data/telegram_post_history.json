@@ -1,6 +1,34 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB5152165069",
+      "marketplace": "mercadolivre",
+      "id": "MLB5152165069",
+      "title": "Modem Roteador Wifi Intelbras Wifiber 121ac Gpon",
+      "title_norm": "modem roteador wifi intelbras wifiber 121ac gpon",
+      "url": "https://www.mercadolivre.com.br/p/MLB16377075?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB16377075?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Informática",
+      "bucket": "informatica",
+      "posted_ts": 1789218237,
+      "posted_at": "2026-09-12T13:03:57.958355+00:00",
+      "score": 86.0
+    },
+    {
+      "key": "mercadolivre:MLB5275318454",
+      "marketplace": "mercadolivre",
+      "id": "MLB5275318454",
+      "title": "Roteador Wifi Mercusys Mw325r V2 300mbps",
+      "title_norm": "roteador wifi mercusys mw325r v2 300mbps",
+      "url": "https://www.mercadolivre.com.br/p/MLB36947670?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB36947670?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Informática",
+      "bucket": "informatica",
+      "posted_ts": 1789218168,
+      "posted_at": "2026-09-12T13:02:48.602573+00:00",
+      "score": 88.0
+    },
+    {
       "key": "shopee:19098318298",
       "marketplace": "shopee",
       "id": "19098318298",
@@ -13971,35 +13999,7 @@
       "posted_ts": 1788470213,
       "posted_at": "2026-09-03T21:16:53.891409+00:00",
       "score": 58.02
-    },
-    {
-      "key": "shopee:6275821359",
-      "marketplace": "shopee",
-      "id": "6275821359",
-      "title": "Mochila de Lona Unissex Grande 50l com Altíssima Qualidade e Resistente Á água",
-      "title_norm": "mochila de lona unissex grande 50l com altissima qualidade e resistente a agua",
-      "url": "https://shopee.com.br/product/222975446/6275821359",
-      "affiliate_url": "https://s.shopee.com.br/8plV5Iy2aJ",
-      "category": "Luxor Comercial",
-      "bucket": "bolsas",
-      "posted_ts": 1788466612,
-      "posted_at": "2026-09-03T20:16:52.858642+00:00",
-      "score": 90.55
-    },
-    {
-      "key": "shopee:18697985049",
-      "marketplace": "shopee",
-      "id": "18697985049",
-      "title": "Bolsa Mala Academia Viagem Imagem Fitness Transversal Casual Masculino e Feminina--luna_hyq",
-      "title_norm": "bolsa mala academia viagem imagem fitness transversal casual masculino e feminina luna hyq",
-      "url": "https://shopee.com.br/product/932796296/18697985049",
-      "affiliate_url": "https://s.shopee.com.br/BTWhG1ypI",
-      "category": "Luna_HYQ",
-      "bucket": "bolsas",
-      "posted_ts": 1788463138,
-      "posted_at": "2026-09-03T19:18:58.996220+00:00",
-      "score": 102.46
     }
   ],
-  "updated_at": "2026-09-12T12:21:09.591410+00:00"
+  "updated_at": "2026-09-12T13:03:57.958370+00:00"
 }
