@@ -1,6 +1,48 @@
 {
   "posts": [
     {
+      "key": "shopee:23293187754",
+      "marketplace": "shopee",
+      "id": "23293187754",
+      "title": "TIRAS DE TESTE GLICOSE G-TECH PARA MEDIDOR MODELO VITA C/50",
+      "title_norm": "tiras de teste glicose g tech para medidor modelo vita c 50",
+      "url": "https://shopee.com.br/product/1251321262/23293187754",
+      "affiliate_url": "https://s.shopee.com.br/9KhyArXdWI",
+      "category": "Multimix Saúde Online",
+      "bucket": "multimix_saude_online",
+      "posted_ts": 1789212005,
+      "posted_at": "2026-09-12T11:20:05.352185+00:00",
+      "score": 98.06
+    },
+    {
+      "key": "shopee:22797731885",
+      "marketplace": "shopee",
+      "id": "22797731885",
+      "title": "Aparelho Medidor De Pressão Arterial Digital De Braço Alta Precisão Com Instrução de Voz",
+      "title_norm": "aparelho medidor de pressao arterial digital de braco alta precisao com instrucao de voz",
+      "url": "https://shopee.com.br/product/1338519571/22797731885",
+      "affiliate_url": "https://s.shopee.com.br/1BMHi8mhzI",
+      "category": "TECH ELETRONICO LTDA",
+      "bucket": "saude",
+      "posted_ts": 1789211934,
+      "posted_at": "2026-09-12T11:18:54.783078+00:00",
+      "score": 101.82
+    },
+    {
+      "key": "shopee:22499469939",
+      "marketplace": "shopee",
+      "id": "22499469939",
+      "title": "Monitor De Pressão Arterial De Braço Control+ Hem-7122 Omron Cor Branco",
+      "title_norm": "monitor de pressao arterial de braco control hem 7122 omron cor branco",
+      "url": "https://shopee.com.br/product/1743997303/22499469939",
+      "affiliate_url": "https://s.shopee.com.br/1AKJzr9M3",
+      "category": "RahVariedades",
+      "bucket": "saude",
+      "posted_ts": 1789211810,
+      "posted_at": "2026-09-12T11:16:50.572948+00:00",
+      "score": 115.14
+    },
+    {
       "key": "shopee:57206395518",
       "marketplace": "shopee",
       "id": "57206395518",
@@ -13957,49 +13999,7 @@
       "posted_ts": 1788459483,
       "posted_at": "2026-09-03T18:18:03.689644+00:00",
       "score": 69.48
-    },
-    {
-      "key": "shopee:28343764024",
-      "marketplace": "shopee",
-      "id": "28343764024",
-      "title": "Fralda Premium Huggies Natural Care Aberta RN/P/M/G",
-      "title_norm": "fralda premium huggies natural care aberta rn p m g",
-      "url": "https://shopee.com.br/product/1261893889/28343764024",
-      "affiliate_url": "https://s.shopee.com.br/AAGsXVsOAs",
-      "category": "Oficial Huggies",
-      "bucket": "fraldas",
-      "posted_ts": 1788459413,
-      "posted_at": "2026-09-03T18:16:53.280384+00:00",
-      "score": 91.95
-    },
-    {
-      "key": "shopee:23999517864",
-      "marketplace": "shopee",
-      "id": "23999517864",
-      "title": "Medidor De Glicose+100 Lancetas+100 Tiras On Call Plus Ii Cor Azul",
-      "title_norm": "medidor de glicose 100 lancetas 100 tiras on call plus ii cor azul",
-      "url": "https://shopee.com.br/product/1516740718/23999517864",
-      "affiliate_url": "https://s.shopee.com.br/1LfTxCE67W",
-      "category": "Infotop21",
-      "bucket": "infotop21",
-      "posted_ts": 1788455907,
-      "posted_at": "2026-09-03T17:18:27.464650+00:00",
-      "score": 38.63
-    },
-    {
-      "key": "shopee:23893497572",
-      "marketplace": "shopee",
-      "id": "23893497572",
-      "title": "Oxímetro Infantil Neonatal Pediátrico De Dedo Digital Crianças Medidor Oxigênio Recarregável Pulse Yihan",
-      "title_norm": "oximetro infantil neonatal pediatrico de dedo digital criancas medidor oxigenio recarregavel pulse yihan",
-      "url": "https://shopee.com.br/product/696313634/23893497572",
-      "affiliate_url": "https://s.shopee.com.br/20vAkQ2guv",
-      "category": "Yihan.store",
-      "bucket": "saude",
-      "posted_ts": 1788455843,
-      "posted_at": "2026-09-03T17:17:23.002436+00:00",
-      "score": 102.48
     }
   ],
-  "updated_at": "2026-09-12T10:21:21.501122+00:00"
+  "updated_at": "2026-09-12T11:20:05.352206+00:00"
 }
