@@ -1,6 +1,36 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB4894784915",
+      "product_id": "MLB4894784915",
+      "catalog_product_id": "MLB58860200",
+      "item_id": "MLB4894784915",
+      "url": "https://www.mercadolivre.com.br/p/MLB58860200?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB58860200?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "creme dental virbac c e t creme dental para caes 70 g sabor frango",
+      "title": "Creme dental Virbac C.e.t. Creme dental para cães 70 g sabor frango",
+      "category": "Supermercados",
+      "price": 116.9,
+      "score": 89.0,
+      "posted_ts": 1789189656,
+      "posted_at": "2026-09-12T05:07:36.222921+00:00"
+    },
+    {
+      "key": "mercadolivre:MLB6935275144",
+      "product_id": "MLB6935275144",
+      "catalog_product_id": "MLB73023961",
+      "item_id": "MLB6935275144",
+      "url": "https://www.mercadolivre.com.br/p/MLB73023961?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB73023961?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "base amaciante 500 faz 100 litros amaciante",
+      "title": "Base Amaciante 500 Faz 100 Litros Amaciante",
+      "category": "Supermercados",
+      "price": 67.8,
+      "score": 102.2,
+      "posted_ts": 1789189591,
+      "posted_at": "2026-09-12T05:06:31.692767+00:00"
+    },
+    {
       "key": "mercadolivre:MLB7625830504",
       "product_id": "MLB7625830504",
       "catalog_product_id": "MLB78672090",
@@ -479,52 +509,7 @@
       "score": 188.67,
       "posted_ts": 1789023767,
       "posted_at": "2026-09-10T07:02:47.302343+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB3845821781",
-      "product_id": "MLB3845821781",
-      "catalog_product_id": "MLB38279289",
-      "item_id": "MLB3845821781",
-      "url": "https://www.mercadolivre.com.br/p/MLB38279289?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB38279289?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "armario organizador cozinha balcao microondas jet cinza",
-      "title": "Armário Organizador Cozinha Balcão Microondas Jet - Cinza",
-      "category": "Casa e Cozinha",
-      "price": 399.9,
-      "score": 86.0,
-      "posted_ts": 1789013066,
-      "posted_at": "2026-09-10T04:04:26.885255+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB4027376697",
-      "product_id": "MLB4027376697",
-      "catalog_product_id": "MLB33652298",
-      "item_id": "MLB4027376697",
-      "url": "https://www.mercadolivre.com.br/p/MLB33652298?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB33652298?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "jogo de panelas antiaderente 5 pecas cereja com revestimento antiaderente",
-      "title": "Jogo de Panelas Antiaderente 5 Peças Cereja com Revestimento Antiaderente",
-      "category": "Casa e Cozinha",
-      "price": 166.65,
-      "score": 123.09,
-      "posted_ts": 1789013002,
-      "posted_at": "2026-09-10T04:03:22.883765+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB5747632298",
-      "product_id": "MLB5747632298",
-      "catalog_product_id": "MLB58174814",
-      "item_id": "MLB5747632298",
-      "url": "https://www.mercadolivre.com.br/p/MLB58174814?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB58174814?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "calca legging redutora miracle belt cor preto tamanho pp",
-      "title": "Calça Legging Redutora Miracle Belt Cor Preto Tamanho Pp",
-      "category": "Moda Feminina",
-      "price": 279.9,
-      "score": 88.0,
-      "posted_ts": 1789009414,
-      "posted_at": "2026-09-10T03:03:34.960982+00:00"
     }
   ],
-  "updated_at": "2026-09-12T03:02:58.019736+00:00"
+  "updated_at": "2026-09-12T05:07:36.222931+00:00"
 }

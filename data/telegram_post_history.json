@@ -1,6 +1,34 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB4894784915",
+      "marketplace": "mercadolivre",
+      "id": "MLB4894784915",
+      "title": "Creme dental Virbac C.e.t. Creme dental para cães 70 g sabor frango",
+      "title_norm": "creme dental virbac c e t creme dental para caes 70 g sabor frango",
+      "url": "https://www.mercadolivre.com.br/p/MLB58860200?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB58860200?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Supermercados",
+      "bucket": "supermercados",
+      "posted_ts": 1789189656,
+      "posted_at": "2026-09-12T05:07:36.212038+00:00",
+      "score": 89.0
+    },
+    {
+      "key": "mercadolivre:MLB6935275144",
+      "marketplace": "mercadolivre",
+      "id": "MLB6935275144",
+      "title": "Base Amaciante 500 Faz 100 Litros Amaciante",
+      "title_norm": "base amaciante 500 faz 100 litros amaciante",
+      "url": "https://www.mercadolivre.com.br/p/MLB73023961?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB73023961?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Supermercados",
+      "bucket": "supermercado",
+      "posted_ts": 1789189591,
+      "posted_at": "2026-09-12T05:06:31.681401+00:00",
+      "score": 102.2
+    },
+    {
       "key": "shopee:57008381938",
       "marketplace": "shopee",
       "id": "57008381938",
@@ -13971,35 +13999,7 @@
       "posted_ts": 1788434435,
       "posted_at": "2026-09-03T11:20:35.989765+00:00",
       "score": 30.79
-    },
-    {
-      "key": "shopee:18999071004",
-      "marketplace": "shopee",
-      "id": "18999071004",
-      "title": "Carregador 50W Turbo Power Carregamento Rápido USB-C+Cabo tipo-C",
-      "title_norm": "carregador 50w turbo power carregamento rapido usb c cabo tipo c",
-      "url": "https://shopee.com.br/product/1121630519/18999071004",
-      "affiliate_url": "https://s.shopee.com.br/6VNZhxBK3Y",
-      "category": "XIANG Eletrônicos LOJA",
-      "bucket": "xiang_eletronicos_loja",
-      "posted_ts": 1788434371,
-      "posted_at": "2026-09-03T11:19:31.810421+00:00",
-      "score": 72.11
-    },
-    {
-      "key": "shopee:23091546001",
-      "marketplace": "shopee",
-      "id": "23091546001",
-      "title": "Amplificador De Imagem Da Tela Do Celular Lupa 3D 21,6CM*16,6CM*2,7CM Promoção",
-      "title_norm": "amplificador de imagem da tela do celular lupa 3d 21 6cm 16 6cm 2 7cm promocao",
-      "url": "https://shopee.com.br/product/832040275/23091546001",
-      "affiliate_url": "https://s.shopee.com.br/3qMoX3LTSm",
-      "category": "P&H  Oficial",
-      "bucket": "celulares",
-      "posted_ts": 1788434299,
-      "posted_at": "2026-09-03T11:18:19.987547+00:00",
-      "score": 121.37
     }
   ],
-  "updated_at": "2026-09-12T04:18:34.132778+00:00"
+  "updated_at": "2026-09-12T05:07:36.212054+00:00"
 }
