@@ -1,6 +1,20 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB5454690706",
+      "marketplace": "mercadolivre",
+      "id": "MLB5454690706",
+      "title": "Cadeira Escritório Secretaria Rcp Preto",
+      "title_norm": "cadeira escritorio secretaria rcp preto",
+      "url": "https://www.mercadolivre.com.br/p/MLB22813112?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB22813112?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Casa e Cozinha",
+      "bucket": "casa_e_cozinha",
+      "posted_ts": 1789196613,
+      "posted_at": "2026-09-12T07:03:33.692819+00:00",
+      "score": 88.0
+    },
+    {
       "key": "shopee:22794554573",
       "marketplace": "shopee",
       "id": "22794554573",
@@ -13985,21 +13999,7 @@
       "posted_ts": 1788441769,
       "posted_at": "2026-09-03T13:22:49.694044+00:00",
       "score": 71.69
-    },
-    {
-      "key": "shopee:23498778973",
-      "marketplace": "shopee",
-      "id": "23498778973",
-      "title": "Protetor Solar Facial Hidrabene Clareador FPS 70 Antissinais Clareia a pele Toque Seco 50g Unidade ou Kit",
-      "title_norm": "protetor solar facial hidrabene clareador fps 70 antissinais clareia a pele toque seco 50g unidade ou kit",
-      "url": "https://shopee.com.br/product/314834922/23498778973",
-      "affiliate_url": "https://s.shopee.com.br/3g3OSyZwZd",
-      "category": "Esthik ",
-      "bucket": "esthik",
-      "posted_ts": 1788441677,
-      "posted_at": "2026-09-03T13:21:17.569379+00:00",
-      "score": 88.21
     }
   ],
-  "updated_at": "2026-09-12T06:20:22.905654+00:00"
+  "updated_at": "2026-09-12T07:03:33.692839+00:00"
 }
