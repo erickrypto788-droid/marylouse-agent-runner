@@ -1,6 +1,51 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB4266241495",
+      "product_id": "MLB4266241495",
+      "catalog_product_id": "MLB43806010",
+      "item_id": "MLB4266241495",
+      "url": "https://www.mercadolivre.com.br/p/MLB43806010?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB43806010?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "absorvente mulher ativa com abas kit 80 pacotes gel super absorvente",
+      "title": "Absorvente Mulher Ativa Com Abas Kit 80 Pacotes Gel Super Absorvente",
+      "category": "Moda Feminina",
+      "price": 189.15,
+      "score": 88.0,
+      "posted_ts": 1789250860,
+      "posted_at": "2026-09-12T22:07:40.471383+00:00"
+    },
+    {
+      "key": "mercadolivre:MLB5827798066",
+      "product_id": "MLB5827798066",
+      "catalog_product_id": "MLB47658528",
+      "item_id": "MLB5827798066",
+      "url": "https://www.mercadolivre.com.br/p/MLB47658528?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB47658528?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "kit papel toalha interfolha supremo e papel toalha mili",
+      "title": "Kit Papel Toalha Interfolha Supremo E Papel Toalha Mili",
+      "category": "Supermercados",
+      "price": 105.45,
+      "score": 98.67,
+      "posted_ts": 1789250796,
+      "posted_at": "2026-09-12T22:06:36.415020+00:00"
+    },
+    {
+      "key": "mercadolivre:MLB6660297382",
+      "product_id": "MLB6660297382",
+      "catalog_product_id": "MLB67844007",
+      "item_id": "MLB6660297382",
+      "url": "https://www.mercadolivre.com.br/p/MLB67844007?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB67844007?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "preparo essencia amaciante roupas concentrado perfume",
+      "title": "Preparo Essência Amaciante Roupas Concentrado Perfume",
+      "category": "Supermercados",
+      "price": 135.9,
+      "score": 114.0,
+      "posted_ts": 1789250732,
+      "posted_at": "2026-09-12T22:05:32.429955+00:00"
+    },
+    {
       "key": "mercadolivre:MLB7513707254",
       "product_id": "MLB7513707254",
       "catalog_product_id": "MLB57578486",
@@ -449,37 +494,7 @@
       "score": 103.53,
       "posted_ts": 1789081375,
       "posted_at": "2026-09-10T23:02:55.673743+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB4098790465",
-      "product_id": "MLB4098790465",
-      "catalog_product_id": "MLB50984468",
-      "item_id": "MLB4098790465",
-      "url": "https://www.mercadolivre.com.br/p/MLB50984468?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB50984468?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "jogo panelas 5 pecas tradicional preto nacional",
-      "title": "Jogo Panelas 5 Peças Tradicional Preto Nacional",
-      "category": "Casa e Cozinha",
-      "price": 164.8,
-      "score": 116.52,
-      "posted_ts": 1789074215,
-      "posted_at": "2026-09-10T21:03:35.839194+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB4669888929",
-      "product_id": "MLB4669888929",
-      "catalog_product_id": "MLB69426926",
-      "item_id": "MLB4669888929",
-      "url": "https://www.mercadolivre.com.br/p/MLB69426926?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB69426926?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "kit 10 cateteres speedicath short feminino ch10",
-      "title": "Kit 10 Cateteres Speedicath Short Feminino Ch10",
-      "category": "Moda Feminina",
-      "price": 176.28,
-      "score": 88.0,
-      "posted_ts": 1789070770,
-      "posted_at": "2026-09-10T20:06:10.784243+00:00"
     }
   ],
-  "updated_at": "2026-09-12T20:04:39.719441+00:00"
+  "updated_at": "2026-09-12T22:07:40.471402+00:00"
 }

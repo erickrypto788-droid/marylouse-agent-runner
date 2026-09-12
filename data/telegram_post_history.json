@@ -1,6 +1,48 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB4266241495",
+      "marketplace": "mercadolivre",
+      "id": "MLB4266241495",
+      "title": "Absorvente Mulher Ativa Com Abas Kit 80 Pacotes Gel Super Absorvente",
+      "title_norm": "absorvente mulher ativa com abas kit 80 pacotes gel super absorvente",
+      "url": "https://www.mercadolivre.com.br/p/MLB43806010?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB43806010?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Moda Feminina",
+      "bucket": "moda_feminina",
+      "posted_ts": 1789250860,
+      "posted_at": "2026-09-12T22:07:40.456127+00:00",
+      "score": 88.0
+    },
+    {
+      "key": "mercadolivre:MLB5827798066",
+      "marketplace": "mercadolivre",
+      "id": "MLB5827798066",
+      "title": "Kit Papel Toalha Interfolha Supremo E Papel Toalha Mili",
+      "title_norm": "kit papel toalha interfolha supremo e papel toalha mili",
+      "url": "https://www.mercadolivre.com.br/p/MLB47658528?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB47658528?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Supermercados",
+      "bucket": "supermercados",
+      "posted_ts": 1789250796,
+      "posted_at": "2026-09-12T22:06:36.400233+00:00",
+      "score": 98.67
+    },
+    {
+      "key": "mercadolivre:MLB6660297382",
+      "marketplace": "mercadolivre",
+      "id": "MLB6660297382",
+      "title": "Preparo Essência Amaciante Roupas Concentrado Perfume",
+      "title_norm": "preparo essencia amaciante roupas concentrado perfume",
+      "url": "https://www.mercadolivre.com.br/p/MLB67844007?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB67844007?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Supermercados",
+      "bucket": "beleza",
+      "posted_ts": 1789250732,
+      "posted_at": "2026-09-12T22:05:32.415090+00:00",
+      "score": 114.0
+    },
+    {
       "key": "shopee:58209320732",
       "marketplace": "shopee",
       "id": "58209320732",
@@ -13957,49 +13999,7 @@
       "posted_ts": 1788502752,
       "posted_at": "2026-09-04T06:19:12.533161+00:00",
       "score": 97.75
-    },
-    {
-      "key": "shopee:23993565028",
-      "marketplace": "shopee",
-      "id": "23993565028",
-      "title": "Suporte Celular Carro Veicular Trava Automática anti queda",
-      "title_norm": "suporte celular carro veicular trava automatica anti queda",
-      "url": "https://shopee.com.br/product/1384055377/23993565028",
-      "affiliate_url": "https://s.shopee.com.br/LmxcsoFWq",
-      "category": "vida vida lenta",
-      "bucket": "celulares",
-      "posted_ts": 1788502688,
-      "posted_at": "2026-09-04T06:18:08.652350+00:00",
-      "score": 102.84
-    },
-    {
-      "key": "shopee:58258481820",
-      "marketplace": "shopee",
-      "id": "58258481820",
-      "title": "Três cores 6 kits Suporte Camera Celular Capacete Queixo(GoPro/SJCAM) e Smartphones - Ideal para Motociclismo e Aventura",
-      "title_norm": "tres cores 6 kits suporte camera celular capacete queixo gopro sjcam e smartphones ideal para motociclismo e aventura",
-      "url": "https://shopee.com.br/product/1721774915/58258481820",
-      "affiliate_url": "https://s.shopee.com.br/112d9qImng",
-      "category": "OLIVIO NET",
-      "bucket": "celulares",
-      "posted_ts": 1788502619,
-      "posted_at": "2026-09-04T06:16:59.091835+00:00",
-      "score": 113.33
-    },
-    {
-      "key": "mercadolivre:MLB4778272375",
-      "marketplace": "mercadolivre",
-      "id": "MLB4778272375",
-      "title": "Livro Tchauzinho, Fralda",
-      "title_norm": "livro tchauzinho fralda",
-      "url": "https://www.mercadolivre.com.br/p/MLB73518090?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB73518090?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "category": "Mãe e Bebê",
-      "bucket": "fraldas",
-      "posted_ts": 1788501760,
-      "posted_at": "2026-09-04T06:02:40.786593+00:00",
-      "score": 114.0
     }
   ],
-  "updated_at": "2026-09-12T21:21:03.718118+00:00"
+  "updated_at": "2026-09-12T22:07:40.456150+00:00"
 }
