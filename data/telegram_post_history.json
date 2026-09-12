@@ -1,6 +1,48 @@
 {
   "posts": [
     {
+      "key": "shopee:22693258851",
+      "marketplace": "shopee",
+      "id": "22693258851",
+      "title": "Calça Pantalona Feminina Plus Size Canelada Com Elastico na Cintura Curvy +",
+      "title_norm": "calca pantalona feminina plus size canelada com elastico na cintura curvy",
+      "url": "https://shopee.com.br/product/777798362/22693258851",
+      "affiliate_url": "https://s.shopee.com.br/7VGKehG8Km",
+      "category": "Mais Curvas Moda Feminina",
+      "bucket": "mais_curvas_moda_feminina",
+      "posted_ts": 1789251532,
+      "posted_at": "2026-09-12T22:18:52.047262+00:00",
+      "score": 105.49
+    },
+    {
+      "key": "shopee:22591638181",
+      "marketplace": "shopee",
+      "id": "22591638181",
+      "title": "Calças Jeans Femininas Plus Size Cintura Alta Até o Umbigo Lycra",
+      "title_norm": "calcas jeans femininas plus size cintura alta ate o umbigo lycra",
+      "url": "https://shopee.com.br/product/384125793/22591638181",
+      "affiliate_url": "https://s.shopee.com.br/8V8rqXGeoJ",
+      "category": "Vortex Jeans Wear",
+      "bucket": "vortex_jeans_wear",
+      "posted_ts": 1789251468,
+      "posted_at": "2026-09-12T22:17:48.070959+00:00",
+      "score": 109.71
+    },
+    {
+      "key": "shopee:58257330060",
+      "marketplace": "shopee",
+      "id": "58257330060",
+      "title": "Vestido Plus Size Soltinho Em Dois Tamanhos e Várias Cores",
+      "title_norm": "vestido plus size soltinho em dois tamanhos e varias cores",
+      "url": "https://shopee.com.br/product/1518048481/58257330060",
+      "affiliate_url": "https://s.shopee.com.br/BTjvDdift",
+      "category": "augeconceito",
+      "bucket": "moda_feminina",
+      "posted_ts": 1789251404,
+      "posted_at": "2026-09-12T22:16:44.101249+00:00",
+      "score": 119.51
+    },
+    {
       "key": "mercadolivre:MLB4266241495",
       "marketplace": "mercadolivre",
       "id": "MLB4266241495",
@@ -13957,49 +13999,7 @@
       "posted_ts": 1788509805,
       "posted_at": "2026-09-04T08:16:45.842950+00:00",
       "score": 133.78
-    },
-    {
-      "key": "shopee:58257043096",
-      "marketplace": "shopee",
-      "id": "58257043096",
-      "title": "Liquidificador Triturador Compacto para suco com Led - suco e frutas Bivolt 600ml   novo ZZJ",
-      "title_norm": "liquidificador triturador compacto para suco com led suco e frutas bivolt 600ml novo zzj",
-      "url": "https://shopee.com.br/product/1671644940/58257043096",
-      "affiliate_url": "https://s.shopee.com.br/7AdGZHXdVa",
-      "category": "CAI STORE ELETRONICOS",
-      "bucket": "casa_cozinha",
-      "posted_ts": 1788506277,
-      "posted_at": "2026-09-04T07:17:57.198304+00:00",
-      "score": 106.19
-    },
-    {
-      "key": "shopee:23597334946",
-      "marketplace": "shopee",
-      "id": "23597334946",
-      "title": "Liquidificador Britânia BLQE01 2 copos 2,6L 900W",
-      "title_norm": "liquidificador britania blqe01 2 copos 2 6l 900w",
-      "url": "https://shopee.com.br/product/811879342/23597334946",
-      "affiliate_url": "https://s.shopee.com.br/6L49ZkaoCN",
-      "category": "Britânia Oficial",
-      "bucket": "casa_cozinha",
-      "posted_ts": 1788506209,
-      "posted_at": "2026-09-04T07:16:49.106372+00:00",
-      "score": 117.93
-    },
-    {
-      "key": "shopee:45754796089",
-      "marketplace": "shopee",
-      "id": "45754796089",
-      "title": "Tomada de Carregador para Carro com Dupla Entrada Tipo-C e Duplas USB, 4 Portas, Carregamento Rápido, à Prova d'Água",
-      "title_norm": "tomada de carregador para carro com dupla entrada tipo c e duplas usb 4 portas carregamento rapido a prova d agua",
-      "url": "https://shopee.com.br/product/1006215031/45754796089",
-      "affiliate_url": "https://s.shopee.com.br/3LQXw8NNTj",
-      "category": "Choice Oficial",
-      "bucket": "choice_oficial",
-      "posted_ts": 1788502752,
-      "posted_at": "2026-09-04T06:19:12.533161+00:00",
-      "score": 97.75
     }
   ],
-  "updated_at": "2026-09-12T22:07:40.456150+00:00"
+  "updated_at": "2026-09-12T22:18:52.047275+00:00"
 }
