@@ -1,6 +1,20 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB7625830504",
+      "marketplace": "mercadolivre",
+      "id": "MLB7625830504",
+      "title": "Impressora Etiquetas Adesivas + 1.000 Etiquetas 10x15cm Branco",
+      "title_norm": "impressora etiquetas adesivas 1 000 etiquetas 10x15cm branco",
+      "url": "https://www.mercadolivre.com.br/p/MLB78672090?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB78672090?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Informática",
+      "bucket": "informatica",
+      "posted_ts": 1789182178,
+      "posted_at": "2026-09-12T03:02:58.004245+00:00",
+      "score": 86.0
+    },
+    {
       "key": "shopee:22798552970",
       "marketplace": "shopee",
       "id": "22798552970",
@@ -13985,21 +13999,7 @@
       "posted_ts": 1788430604,
       "posted_at": "2026-09-03T10:16:44.829729+00:00",
       "score": 109.59
-    },
-    {
-      "key": "mercadolivre:MLB7580832078",
-      "marketplace": "mercadolivre",
-      "id": "MLB7580832078",
-      "title": "Difusor Ar Umidificador Umidificador Ar 1.5l Humidifiicador Ar Ultrassonico Umidificador Doméstico Para Quarto Sala Berçário Operação Silenciosa Umidificação Eficiente Design Compacto Fácil De Usar",
-      "title_norm": "difusor ar umidificador umidificador ar 1 5l humidifiicador ar ultrassonico umidificador domestico para quarto sala bercario operacao silenciosa umidificacao eficiente design compacto facil de usar",
-      "url": "https://www.mercadolivre.com.br/p/MLB77579661?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB77579661?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "category": "Pet",
-      "bucket": "pet",
-      "posted_ts": 1788429823,
-      "posted_at": "2026-09-03T10:03:43.575818+00:00",
-      "score": 187.63
     }
   ],
-  "updated_at": "2026-09-12T02:16:43.003614+00:00"
+  "updated_at": "2026-09-12T03:02:58.004260+00:00"
 }
