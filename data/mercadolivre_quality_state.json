@@ -1,6 +1,21 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB7513707254",
+      "product_id": "MLB7513707254",
+      "catalog_product_id": "MLB57578486",
+      "item_id": "MLB7513707254",
+      "url": "https://www.mercadolivre.com.br/p/MLB57578486?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB57578486?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "mini impressora niimbot b1 etiqueta bluetooth cor prateado impressora etiquetas adesivas",
+      "title": "Mini Impressora Niimbot B1 etiqueta Bluetooth Cor Prateado impressora etiquetas adesivas",
+      "category": "Informática",
+      "price": 209.99,
+      "score": 88.0,
+      "posted_ts": 1789243479,
+      "posted_at": "2026-09-12T20:04:39.719433+00:00"
+    },
+    {
       "key": "mercadolivre:MLB4552727020",
       "product_id": "MLB4552727020",
       "catalog_product_id": "MLB23076913",
@@ -464,52 +479,7 @@
       "score": 88.0,
       "posted_ts": 1789070770,
       "posted_at": "2026-09-10T20:06:10.784243+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB7517810920",
-      "product_id": "MLB7517810920",
-      "catalog_product_id": "MLB76609780",
-      "item_id": "MLB7517810920",
-      "url": "https://www.mercadolivre.com.br/p/MLB76609780?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB76609780?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "hidratante corporal pessego",
-      "title": "Hidratante Corporal Pessego",
-      "category": "Beleza",
-      "price": 120.0,
-      "score": 63.0,
-      "posted_ts": 1789067372,
-      "posted_at": "2026-09-10T19:09:32.468627+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB5118569459",
-      "product_id": "MLB5118569459",
-      "catalog_product_id": "MLB21407698",
-      "item_id": "MLB5118569459",
-      "url": "https://www.mercadolivre.com.br/p/MLB21407698?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB21407698?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "arroz motigome 1kg",
-      "title": "Arroz Motigome 1kg",
-      "category": "Supermercados",
-      "price": 37.4,
-      "score": 93.74,
-      "posted_ts": 1789067308,
-      "posted_at": "2026-09-10T19:08:28.301878+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB3814512618",
-      "product_id": "MLB3814512618",
-      "catalog_product_id": "MLB17336422",
-      "item_id": "MLB3814512618",
-      "url": "https://www.mercadolivre.com.br/p/MLB17336422?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB17336422?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "fralda huggies tripla protecao g 36 unidades",
-      "title": "Fralda Huggies Tripla Proteção G 36 unidades",
-      "category": "Mãe e Bebê",
-      "price": 121.99,
-      "score": 130.0,
-      "posted_ts": 1789067243,
-      "posted_at": "2026-09-10T19:07:23.952857+00:00"
     }
   ],
-  "updated_at": "2026-09-12T19:03:50.441619+00:00"
+  "updated_at": "2026-09-12T20:04:39.719441+00:00"
 }
