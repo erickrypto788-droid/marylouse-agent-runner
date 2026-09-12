@@ -1,6 +1,34 @@
 {
   "posts": [
     {
+      "key": "shopee:22391919981",
+      "marketplace": "shopee",
+      "id": "22391919981",
+      "title": "Mochila 2023 bolsa Viagem Resistente a Água Style Premium Executiva Envio imediato",
+      "title_norm": "mochila 2023 bolsa viagem resistente a agua style premium executiva envio imediato",
+      "url": "https://shopee.com.br/product/691323218/22391919981",
+      "affiliate_url": "https://s.shopee.com.br/2qUUZA5Y8b",
+      "category": "ULTRA TECH COMERCIAL LTDA",
+      "bucket": "bolsas",
+      "posted_ts": 1789219069,
+      "posted_at": "2026-09-12T13:17:49.296929+00:00",
+      "score": 98.19
+    },
+    {
+      "key": "shopee:23594069255",
+      "marketplace": "shopee",
+      "id": "23594069255",
+      "title": "Bolsa Transversal Com Alça Regulável Feminina Médio Versátil Moda Crossbody",
+      "title_norm": "bolsa transversal com alca regulavel feminina medio versatil moda crossbody",
+      "url": "https://shopee.com.br/product/1284795277/23594069255",
+      "affiliate_url": "https://s.shopee.com.br/7fZkK2rY6Q",
+      "category": "DIVA IMPORT",
+      "bucket": "bolsas",
+      "posted_ts": 1789219005,
+      "posted_at": "2026-09-12T13:16:45.167018+00:00",
+      "score": 98.36
+    },
+    {
       "key": "mercadolivre:MLB5152165069",
       "marketplace": "mercadolivre",
       "id": "MLB5152165069",
@@ -13971,35 +13999,7 @@
       "posted_ts": 1788470352,
       "posted_at": "2026-09-03T21:19:12.044918+00:00",
       "score": 51.64
-    },
-    {
-      "key": "shopee:22296074563",
-      "marketplace": "shopee",
-      "id": "22296074563",
-      "title": "Mini Agenda para Controle de Vendas 2026/2027- 100 folhas",
-      "title_norm": "mini agenda para controle de vendas 2026 2027 100 folhas",
-      "url": "https://shopee.com.br/product/381994104/22296074563",
-      "affiliate_url": "https://s.shopee.com.br/7fZXlHDf5d",
-      "category": "Mimo Personalizados Oficial",
-      "bucket": "mimo_personalizados_oficial",
-      "posted_ts": 1788470288,
-      "posted_at": "2026-09-03T21:18:08.050747+00:00",
-      "score": 56.15
-    },
-    {
-      "key": "shopee:22394494457",
-      "marketplace": "shopee",
-      "id": "22394494457",
-      "title": "Kit 36 Canetas Marca Texto Neon Fluorescente Vighs – Cores Vivas Secagem Rápida Escolar Escritório",
-      "title_norm": "kit 36 canetas marca texto neon fluorescente vighs cores vivas secagem rapida escolar escritorio",
-      "url": "https://shopee.com.br/product/1527598681/22394494457",
-      "affiliate_url": "https://s.shopee.com.br/AUtj8U355y",
-      "category": "Mundo Vendas Online",
-      "bucket": "mundo_vendas_online",
-      "posted_ts": 1788470213,
-      "posted_at": "2026-09-03T21:16:53.891409+00:00",
-      "score": 58.02
     }
   ],
-  "updated_at": "2026-09-12T13:03:57.958370+00:00"
+  "updated_at": "2026-09-12T13:17:49.296946+00:00"
 }
