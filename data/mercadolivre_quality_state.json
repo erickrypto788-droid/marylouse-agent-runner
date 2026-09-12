@@ -1,6 +1,21 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB4266031767",
+      "product_id": "MLB4266031767",
+      "catalog_product_id": "MLB28294404",
+      "item_id": "MLB4266031767",
+      "url": "https://www.mercadolivre.com.br/p/MLB28294404?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB28294404?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "kidan mix racao cachorro rigorosamente balanceado 15kg",
+      "title": "Kidan Mix ração cachorro rigorosamente balanceado 15kg",
+      "category": "Pet",
+      "price": 133.99,
+      "score": 113.0,
+      "posted_ts": 1789175059,
+      "posted_at": "2026-09-12T01:04:19.734131+00:00"
+    },
+    {
       "key": "mercadolivre:MLB5521186570",
       "product_id": "MLB5521186570",
       "catalog_product_id": "MLB43264591",
@@ -554,22 +569,7 @@
       "score": 130.0,
       "posted_ts": 1789006030,
       "posted_at": "2026-09-10T02:07:10.983985+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB4302548173",
-      "product_id": "MLB4302548173",
-      "catalog_product_id": "MLB44164135",
-      "item_id": "MLB4302548173",
-      "url": "https://www.mercadolivre.com.br/p/MLB44164135?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB44164135?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "comedouro automatico racao aquario terrario peixe tartaruga",
-      "title": "Comedouro Automático Ração Aquário Terrario Peixe Tartaruga",
-      "category": "Pet",
-      "price": 117.85,
-      "score": 137.09,
-      "posted_ts": 1788991430,
-      "posted_at": "2026-09-09T22:03:50.784423+00:00"
     }
   ],
-  "updated_at": "2026-09-11T22:03:40.959491+00:00"
+  "updated_at": "2026-09-12T01:04:19.734141+00:00"
 }
