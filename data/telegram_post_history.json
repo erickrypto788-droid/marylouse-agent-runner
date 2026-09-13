@@ -1,6 +1,48 @@
 {
   "posts": [
     {
+      "key": "shopee:18997669654",
+      "marketplace": "shopee",
+      "id": "18997669654",
+      "title": "Conjunto na Alfaiataria Calça  Pantalona + Colete Social Escritório Plus SIze",
+      "title_norm": "conjunto na alfaiataria calca pantalona colete social escritorio plus size",
+      "url": "https://shopee.com.br/product/1239041434/18997669654",
+      "affiliate_url": "https://s.shopee.com.br/AAH8MBQXPc",
+      "category": "Elizye Delicato",
+      "bucket": "elizye_delicato",
+      "posted_ts": 1789323535,
+      "posted_at": "2026-09-13T18:18:55.837054+00:00",
+      "score": 97.35
+    },
+    {
+      "key": "shopee:58204912754",
+      "marketplace": "shopee",
+      "id": "58204912754",
+      "title": "Meia Calça Fina7D ANTICELULITE Fio  70 Plus Size – Veste do 36 ao 54 | Conforto e Alta Elasticidade",
+      "title_norm": "meia calca fina7d anticelulite fio 70 plus size veste do 36 ao 54 conforto e alta elasticidade",
+      "url": "https://shopee.com.br/product/204026219/58204912754",
+      "affiliate_url": "https://s.shopee.com.br/2VrhMKGdNn",
+      "category": "Brenda  Acessórios",
+      "bucket": "brenda_acessorios",
+      "posted_ts": 1789323466,
+      "posted_at": "2026-09-13T18:17:46.761375+00:00",
+      "score": 99.63
+    },
+    {
+      "key": "shopee:58254166972",
+      "marketplace": "shopee",
+      "id": "58254166972",
+      "title": "Blusa Antonella Plus Size G1 e G2 Cropped Halter Frente Única Top das Blogueiras Zero Transparência Frente Dupla",
+      "title_norm": "blusa antonella plus size g1 e g2 cropped halter frente unica top das blogueiras zero transparencia frente dupla",
+      "url": "https://shopee.com.br/product/1651898003/58254166972",
+      "affiliate_url": "https://s.shopee.com.br/qjSVhQuDT",
+      "category": "MILARA MODA FEMININA",
+      "bucket": "moda_feminina",
+      "posted_ts": 1789323402,
+      "posted_at": "2026-09-13T18:16:42.759502+00:00",
+      "score": 108.45
+    },
+    {
       "key": "mercadolivre:MLB5331790354",
       "marketplace": "mercadolivre",
       "id": "MLB5331790354",
@@ -13957,49 +13999,7 @@
       "posted_ts": 1788592748,
       "posted_at": "2026-09-05T07:19:08.202850+00:00",
       "score": 98.1
-    },
-    {
-      "key": "shopee:23392949484",
-      "marketplace": "shopee",
-      "id": "23392949484",
-      "title": "Aparelho Medidor De Pressão Arterial Digital De Braço Alta Precisão Com Instrução de Voz",
-      "title_norm": "aparelho medidor de pressao arterial digital de braco alta precisao com instrucao de voz",
-      "url": "https://shopee.com.br/product/1080128546/23392949484",
-      "affiliate_url": "https://s.shopee.com.br/50YoqSzq6k",
-      "category": "LEAO COMERCIO ",
-      "bucket": "saude",
-      "posted_ts": 1788592678,
-      "posted_at": "2026-09-05T07:17:58.126454+00:00",
-      "score": 109.54
-    },
-    {
-      "key": "shopee:22499469939",
-      "marketplace": "shopee",
-      "id": "22499469939",
-      "title": "Monitor De Pressão Arterial De Braço Control+ Hem-7122 Omron Cor Branco",
-      "title_norm": "monitor de pressao arterial de braco control hem 7122 omron cor branco",
-      "url": "https://shopee.com.br/product/1743997303/22499469939",
-      "affiliate_url": "https://s.shopee.com.br/5AsF2lzCln",
-      "category": "RahVariedades",
-      "bucket": "saude",
-      "posted_ts": 1788592606,
-      "posted_at": "2026-09-05T07:16:46.943068+00:00",
-      "score": 113.76
-    },
-    {
-      "key": "shopee:47353036643",
-      "marketplace": "shopee",
-      "id": "47353036643",
-      "title": "Mesa Gamer Legos 120cm em L de Canto para Home Office Setup Escrivaninha Geek Com Cantos Arredondados Design Moderno",
-      "title_norm": "mesa gamer legos 120cm em l de canto para home office setup escrivaninha geek com cantos arredondados design moderno",
-      "url": "https://shopee.com.br/product/365399646/47353036643",
-      "affiliate_url": "https://s.shopee.com.br/6L4CMnRqbD",
-      "category": "E-Led Iluminação",
-      "bucket": "e_led_iluminacao",
-      "posted_ts": 1788589265,
-      "posted_at": "2026-09-05T06:21:05.372833+00:00",
-      "score": 78.98
     }
   ],
-  "updated_at": "2026-09-13T18:05:14.543504+00:00"
+  "updated_at": "2026-09-13T18:18:55.837069+00:00"
 }
