@@ -1,6 +1,48 @@
 {
   "posts": [
     {
+      "key": "shopee:23699438217",
+      "marketplace": "shopee",
+      "id": "23699438217",
+      "title": "Termômetro Digital Ultra Rápido Infantil Para Bebês Clínico Flexível Ponta Macia Silicone Adulto Rosa e Azul",
+      "title_norm": "termometro digital ultra rapido infantil para bebes clinico flexivel ponta macia silicone adulto rosa e azul",
+      "url": "https://shopee.com.br/product/1738153850/23699438217",
+      "affiliate_url": "https://s.shopee.com.br/20vOhfnw5j",
+      "category": "Sunshine82",
+      "bucket": "saude",
+      "posted_ts": 1789287559,
+      "posted_at": "2026-09-13T08:19:19.478906+00:00",
+      "score": 124.58
+    },
+    {
+      "key": "shopee:22794788395",
+      "marketplace": "shopee",
+      "id": "22794788395",
+      "title": "Balança Digital Inteligente: Medidor Corporal por Bioimpedância - Analisa Gordura, Massa Muscular, Peso até 180kg",
+      "title_norm": "balanca digital inteligente medidor corporal por bioimpedancia analisa gordura massa muscular peso ate 180kg",
+      "url": "https://shopee.com.br/product/1660293952/22794788395",
+      "affiliate_url": "https://s.shopee.com.br/6fhFenBieE",
+      "category": "WDJ TECH LTDA",
+      "bucket": "wdj_tech_ltda",
+      "posted_ts": 1789287489,
+      "posted_at": "2026-09-13T08:18:09.487536+00:00",
+      "score": 125.76
+    },
+    {
+      "key": "shopee:22498461397",
+      "marketplace": "shopee",
+      "id": "22498461397",
+      "title": "AIQUE Nebulizador Portátil Mini Inalador Silencioso Ultra-sônico Automático para Adultos e Crianças",
+      "title_norm": "aique nebulizador portatil mini inalador silencioso ultra sonico automatico para adultos e criancas",
+      "url": "https://shopee.com.br/product/733998429/22498461397",
+      "affiliate_url": "https://s.shopee.com.br/1qbztuLJt7",
+      "category": "TTcomercio",
+      "bucket": "saude",
+      "posted_ts": 1789287420,
+      "posted_at": "2026-09-13T08:17:00.964161+00:00",
+      "score": 139.27
+    },
+    {
       "key": "mercadolivre:MLB4500156207",
       "marketplace": "mercadolivre",
       "id": "MLB4500156207",
@@ -13957,49 +13999,7 @@
       "posted_ts": 1788546087,
       "posted_at": "2026-09-04T18:21:27.649531+00:00",
       "score": 83.01
-    },
-    {
-      "key": "shopee:23299157212",
-      "marketplace": "shopee",
-      "id": "23299157212",
-      "title": "Kit Explosão de Azeite de Oliva | bn.Cachos",
-      "title_norm": "kit explosao de azeite de oliva bn cachos",
-      "url": "https://shopee.com.br/product/1202663615/23299157212",
-      "affiliate_url": "https://s.shopee.com.br/1gIM0nTO9x",
-      "category": "bn.Cachos",
-      "bucket": "supermercado",
-      "posted_ts": 1788546023,
-      "posted_at": "2026-09-04T18:20:23.369228+00:00",
-      "score": 83.33
-    },
-    {
-      "key": "shopee:22494167243",
-      "marketplace": "shopee",
-      "id": "22494167243",
-      "title": "Casca De Arroz Carbonizada Substrato Para Horta Jardim Plantas Vaso Cultivo Orquídea Terrário",
-      "title_norm": "casca de arroz carbonizada substrato para horta jardim plantas vaso cultivo orquidea terrario",
-      "url": "https://shopee.com.br/product/947844282/22494167243",
-      "affiliate_url": "https://s.shopee.com.br/LmyQLcnMe",
-      "category": "VGL DISTRIBUIDORA",
-      "bucket": "vgl_distribuidora",
-      "posted_ts": 1788545958,
-      "posted_at": "2026-09-04T18:19:18.909799+00:00",
-      "score": 84.41
-    },
-    {
-      "key": "shopee:23095934785",
-      "marketplace": "shopee",
-      "id": "23095934785",
-      "title": "Quinoa Branca em Grãos 1Kg - P&P",
-      "title_norm": "quinoa branca em graos 1kg p p",
-      "url": "https://shopee.com.br/product/394192376/23095934785",
-      "affiliate_url": "https://s.shopee.com.br/50YmicSih2",
-      "category": "P&P FIT",
-      "bucket": "p_p_fit",
-      "posted_ts": 1788545890,
-      "posted_at": "2026-09-04T18:18:10.010702+00:00",
-      "score": 89.98
     }
   ],
-  "updated_at": "2026-09-13T08:04:00.855863+00:00"
+  "updated_at": "2026-09-13T08:19:19.478920+00:00"
 }
