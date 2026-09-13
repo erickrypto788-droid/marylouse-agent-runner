@@ -1,6 +1,34 @@
 {
   "posts": [
     {
+      "key": "shopee:22693513091",
+      "marketplace": "shopee",
+      "id": "22693513091",
+      "title": "ROMANTIC CROWN Bolsa de Ombra Feminina com Alça Ajustável, Bolsa Feminina Elegante com Couro Sintetico Preto, Presente",
+      "title_norm": "romantic crown bolsa de ombra feminina com alca ajustavel bolsa feminina elegante com couro sintetico preto presente",
+      "url": "https://shopee.com.br/product/1345043704/22693513091",
+      "affiliate_url": "https://s.shopee.com.br/5foibBXtk7",
+      "category": "Romantic Crown 02",
+      "bucket": "bolsas",
+      "posted_ts": 1789294671,
+      "posted_at": "2026-09-13T10:17:51.916121+00:00",
+      "score": 121.0
+    },
+    {
+      "key": "shopee:23497594302",
+      "marketplace": "shopee",
+      "id": "23497594302",
+      "title": "ROMANTIC CROWN Mochla de Viagem MascuIino e Feminina ImpermeaveI Reforçada Executiva para Notebook",
+      "title_norm": "romantic crown mochla de viagem mascuiino e feminina impermeavei reforcada executiva para notebook",
+      "url": "https://shopee.com.br/product/1198407784/23497594302",
+      "affiliate_url": "https://s.shopee.com.br/5VVIOsYX52",
+      "category": "Romantic Crown.02",
+      "bucket": "informatica",
+      "posted_ts": 1789294607,
+      "posted_at": "2026-09-13T10:16:47.892372+00:00",
+      "score": 146.0
+    },
+    {
       "key": "shopee:58264143416",
       "marketplace": "shopee",
       "id": "58264143416",
@@ -13971,35 +13999,7 @@
       "posted_ts": 1788553292,
       "posted_at": "2026-09-04T20:21:32.382295+00:00",
       "score": 96.73
-    },
-    {
-      "key": "shopee:23694913081",
-      "marketplace": "shopee",
-      "id": "23694913081",
-      "title": "Calça Pantalona Feminino Tecido texturado Calça Feminino Cintura Alta Pantalona Elegante",
-      "title_norm": "calca pantalona feminino tecido texturado calca feminino cintura alta pantalona elegante",
-      "url": "https://shopee.com.br/product/1277805925/23694913081",
-      "affiliate_url": "https://s.shopee.com.br/7fZY1lEXPl",
-      "category": "NAHELY STORE",
-      "bucket": "nahely_store",
-      "posted_ts": 1788553219,
-      "posted_at": "2026-09-04T20:20:19.972703+00:00",
-      "score": 97.85
-    },
-    {
-      "key": "shopee:22993111914",
-      "marketplace": "shopee",
-      "id": "22993111914",
-      "title": "Conjunto Mabel Top Cropped Tomara que Caia Decote Coração e Short Botão com Bolso Cintura Alta Novidade Moda Feminina",
-      "title_norm": "conjunto mabel top cropped tomara que caia decote coracao e short botao com bolso cintura alta novidade moda feminina",
-      "url": "https://shopee.com.br/product/317314639/22993111914",
-      "affiliate_url": "https://s.shopee.com.br/2LY0PfXSxV",
-      "category": "Nil Moda Feminina",
-      "bucket": "pet",
-      "posted_ts": 1788553155,
-      "posted_at": "2026-09-04T20:19:15.958535+00:00",
-      "score": 99.94
     }
   ],
-  "updated_at": "2026-09-13T09:22:35.922532+00:00"
+  "updated_at": "2026-09-13T10:17:51.916135+00:00"
 }
