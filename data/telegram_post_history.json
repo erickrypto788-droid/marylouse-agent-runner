@@ -1,6 +1,48 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB6711765758",
+      "marketplace": "mercadolivre",
+      "id": "MLB6711765758",
+      "title": "Bepantol Baby Pomada Assadura Bebe Hipoalergênica, 200g",
+      "title_norm": "bepantol baby pomada assadura bebe hipoalergenica 200g",
+      "url": "https://www.mercadolivre.com.br/p/MLB68578906?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB68578906?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Mãe e Bebê",
+      "bucket": "mae_e_bebe",
+      "posted_ts": 1789316055,
+      "posted_at": "2026-09-13T16:14:15.094696+00:00",
+      "score": 89.0
+    },
+    {
+      "key": "mercadolivre:MLB4158770181",
+      "marketplace": "mercadolivre",
+      "id": "MLB4158770181",
+      "title": "Vinagreen Amaciante Roupas Campos De Lavanda Concentrado 1l",
+      "title_norm": "vinagreen amaciante roupas campos de lavanda concentrado 1l",
+      "url": "https://www.mercadolivre.com.br/p/MLB35007224?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB35007224?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Supermercados",
+      "bucket": "supermercado",
+      "posted_ts": 1789315938,
+      "posted_at": "2026-09-13T16:12:18.208158+00:00",
+      "score": 114.0
+    },
+    {
+      "key": "mercadolivre:MLB7272112414",
+      "marketplace": "mercadolivre",
+      "id": "MLB7272112414",
+      "title": "Papel higiênico INDAIAL CAICAI PAPEL HIGIENICO folha dupla 22.5 m de 1 un",
+      "title_norm": "papel higienico indaial caicai papel higienico folha dupla 22 5 m de 1 un",
+      "url": "https://www.mercadolivre.com.br/p/MLB43609445?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB43609445?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Supermercados",
+      "bucket": "supermercado",
+      "posted_ts": 1789315867,
+      "posted_at": "2026-09-13T16:11:07.858593+00:00",
+      "score": 114.0
+    },
+    {
       "key": "shopee:52902130185",
       "marketplace": "shopee",
       "id": "52902130185",
@@ -13957,49 +13999,7 @@
       "posted_ts": 1788578398,
       "posted_at": "2026-09-05T03:19:58.805193+00:00",
       "score": 81.59
-    },
-    {
-      "key": "shopee:22094238842",
-      "marketplace": "shopee",
-      "id": "22094238842",
-      "title": "BODY SPLASH FEMININO ARABE AYRA 100ML - PRIMACIAL PERFUME FLORAL",
-      "title_norm": "body splash feminino arabe ayra 100ml primacial perfume floral",
-      "url": "https://shopee.com.br/product/1295467768/22094238842",
-      "affiliate_url": "https://s.shopee.com.br/8V8gkQ7qLp",
-      "category": "Primacial",
-      "bucket": "beleza",
-      "posted_ts": 1788578334,
-      "posted_at": "2026-09-05T03:18:54.668509+00:00",
-      "score": 121.87
-    },
-    {
-      "key": "shopee:47057598144",
-      "marketplace": "shopee",
-      "id": "47057598144",
-      "title": "Kit Perfumes Masculinos Kayak + Mlbecc | Presente Ideal Dia e Noite | Alta Fixação | Pronta Entrega",
-      "title_norm": "kit perfumes masculinos kayak mlbecc presente ideal dia e noite alta fixacao pronta entrega",
-      "url": "https://shopee.com.br/product/1582653079/47057598144",
-      "affiliate_url": "https://s.shopee.com.br/7VG9YaFysw",
-      "category": "Calm And Confort",
-      "bucket": "beleza",
-      "posted_ts": 1788578270,
-      "posted_at": "2026-09-05T03:17:50.409775+00:00",
-      "score": 127.12
-    },
-    {
-      "key": "shopee:22099483975",
-      "marketplace": "shopee",
-      "id": "22099483975",
-      "title": "Kit 2 Body Splash Feminino Perfumado Encanto Lily + Florata Rose Presente Cheiroso Longa Duração",
-      "title_norm": "kit 2 body splash feminino perfumado encanto lily florata rose presente cheiroso longa duracao",
-      "url": "https://shopee.com.br/product/1289607950/22099483975",
-      "affiliate_url": "https://s.shopee.com.br/gPmtSPEEB",
-      "category": "AH.BOUTIQUE",
-      "bucket": "pet",
-      "posted_ts": 1788578206,
-      "posted_at": "2026-09-05T03:16:46.162301+00:00",
-      "score": 150.05
     }
   ],
-  "updated_at": "2026-09-13T15:17:51.833154+00:00"
+  "updated_at": "2026-09-13T16:14:15.094718+00:00"
 }
