@@ -1,6 +1,48 @@
 {
   "posts": [
     {
+      "key": "shopee:20899566283",
+      "marketplace": "shopee",
+      "id": "20899566283",
+      "title": "Pelicula Hidrogel S26, S24, S20, S25 FOSCA PREMIUM Flexível para Samsung Linha A e S -",
+      "title_norm": "pelicula hidrogel s26 s24 s20 s25 fosca premium flexivel para samsung linha a e s",
+      "url": "https://shopee.com.br/product/861624074/20899566283",
+      "affiliate_url": "https://s.shopee.com.br/3VkEkWtJR6",
+      "category": "Mix Senhorita",
+      "bucket": "mix_senhorita",
+      "posted_ts": 1789334370,
+      "posted_at": "2026-09-13T21:19:30.391236+00:00",
+      "score": 76.39
+    },
+    {
+      "key": "shopee:58255159172",
+      "marketplace": "shopee",
+      "id": "58255159172",
+      "title": "Fones de ouvido sem fio Bluetooth compactos Xiaomi Redmi Airdots com Estojo Recarregável",
+      "title_norm": "fones de ouvido sem fio bluetooth compactos xiaomi redmi airdots com estojo recarregavel",
+      "url": "https://shopee.com.br/product/1382685526/58255159172",
+      "affiliate_url": "https://s.shopee.com.br/20vQxmC0zW",
+      "category": "YYYNN",
+      "bucket": "celulares",
+      "posted_ts": 1789334306,
+      "posted_at": "2026-09-13T21:18:26.303924+00:00",
+      "score": 138.52
+    },
+    {
+      "key": "shopee:23399043568",
+      "marketplace": "shopee",
+      "id": "23399043568",
+      "title": "Fone Bluetooth Pro5 Premium | Imersão Total c Cancelamento Ruído Qualidade Superior p iPhoneAndroid",
+      "title_norm": "fone bluetooth pro5 premium imersao total c cancelamento ruido qualidade superior p iphoneandroid",
+      "url": "https://shopee.com.br/product/976285267/23399043568",
+      "affiliate_url": "https://s.shopee.com.br/8V8uhinGnZ",
+      "category": "TOP SELECAO",
+      "bucket": "celulares",
+      "posted_ts": 1789334215,
+      "posted_at": "2026-09-13T21:16:55.326089+00:00",
+      "score": 139.03
+    },
+    {
       "key": "mercadolivre:MLB4100148177",
       "marketplace": "mercadolivre",
       "id": "MLB4100148177",
@@ -13957,49 +13999,7 @@
       "posted_ts": 1788607251,
       "posted_at": "2026-09-05T11:20:51.280783+00:00",
       "score": 53.68
-    },
-    {
-      "key": "shopee:22393921779",
-      "marketplace": "shopee",
-      "id": "22393921779",
-      "title": "Kit 40 Placas Capa Agenda A5+ 15,5x21,5cm Papelão Paraná 1,7mm",
-      "title_norm": "kit 40 placas capa agenda a5 15 5x21 5cm papelao parana 1 7mm",
-      "url": "https://shopee.com.br/product/959503392/22393921779",
-      "affiliate_url": "https://s.shopee.com.br/9pe4rpr2wK",
-      "category": "Akikola Express",
-      "bucket": "akikola_express",
-      "posted_ts": 1788607067,
-      "posted_at": "2026-09-05T11:17:47.338590+00:00",
-      "score": 55.85
-    },
-    {
-      "key": "mercadolivre:MLB5152165069",
-      "marketplace": "mercadolivre",
-      "id": "MLB5152165069",
-      "title": "Modem Roteador Wifi Intelbras Wifiber 121ac Gpon",
-      "title_norm": "modem roteador wifi intelbras wifiber 121ac gpon",
-      "url": "https://www.mercadolivre.com.br/p/MLB16377075?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB16377075?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "category": "Informática",
-      "bucket": "informatica",
-      "posted_ts": 1788602541,
-      "posted_at": "2026-09-05T10:02:21.045839+00:00",
-      "score": 86.0
-    },
-    {
-      "key": "shopee:22817161009",
-      "marketplace": "shopee",
-      "id": "22817161009",
-      "title": "Mochila Feminina Grande Impermeável Escolar Faculdade Trabalho Resistente Moderna",
-      "title_norm": "mochila feminina grande impermeavel escolar faculdade trabalho resistente moderna",
-      "url": "https://shopee.com.br/product/392239188/22817161009",
-      "affiliate_url": "https://s.shopee.com.br/20vDPCkgr9",
-      "category": "ME MERCADO",
-      "bucket": "bolsas",
-      "posted_ts": 1788600069,
-      "posted_at": "2026-09-05T09:21:09.444116+00:00",
-      "score": 95.44
     }
   ],
-  "updated_at": "2026-09-13T21:02:21.987129+00:00"
+  "updated_at": "2026-09-13T21:19:30.391252+00:00"
 }
