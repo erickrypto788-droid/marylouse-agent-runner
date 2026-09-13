@@ -1,6 +1,20 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB6290574990",
+      "marketplace": "mercadolivre",
+      "id": "MLB6290574990",
+      "title": "Aparelho Monitor Pressão Arterial Portátil Pulso Omron",
+      "title_norm": "aparelho monitor pressao arterial portatil pulso omron",
+      "url": "https://www.mercadolivre.com.br/p/MLB22958206?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB22958206?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Informática",
+      "bucket": "saude",
+      "posted_ts": 1789297477,
+      "posted_at": "2026-09-13T11:04:37.534371+00:00",
+      "score": 158.16
+    },
+    {
       "key": "shopee:22693513091",
       "marketplace": "shopee",
       "id": "22693513091",
@@ -13985,21 +13999,7 @@
       "posted_ts": 1788556600,
       "posted_at": "2026-09-04T21:16:40.118379+00:00",
       "score": 110.74
-    },
-    {
-      "key": "shopee:44221756147",
-      "marketplace": "shopee",
-      "id": "44221756147",
-      "title": "Vestido Feminino Sem Manga Midi Elegante Soltinho Casual Festa Linho Premium",
-      "title_norm": "vestido feminino sem manga midi elegante soltinho casual festa linho premium",
-      "url": "https://shopee.com.br/product/675760682/44221756147",
-      "affiliate_url": "https://s.shopee.com.br/qjF9Ty4H6",
-      "category": "Anabystore",
-      "bucket": "moda_feminina",
-      "posted_ts": 1788553292,
-      "posted_at": "2026-09-04T20:21:32.382295+00:00",
-      "score": 96.73
     }
   ],
-  "updated_at": "2026-09-13T10:17:51.916135+00:00"
+  "updated_at": "2026-09-13T11:04:37.534386+00:00"
 }

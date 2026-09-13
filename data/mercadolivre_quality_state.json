@@ -1,6 +1,21 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB6290574990",
+      "product_id": "MLB6290574990",
+      "catalog_product_id": "MLB22958206",
+      "item_id": "MLB6290574990",
+      "url": "https://www.mercadolivre.com.br/p/MLB22958206?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB22958206?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "aparelho monitor pressao arterial portatil pulso omron",
+      "title": "Aparelho Monitor Pressão Arterial Portátil Pulso Omron",
+      "category": "Informática",
+      "price": 151.05,
+      "score": 158.16,
+      "posted_ts": 1789297477,
+      "posted_at": "2026-09-13T11:04:37.548564+00:00"
+    },
+    {
       "key": "mercadolivre:MLB4500156207",
       "product_id": "MLB4500156207",
       "catalog_product_id": "MLB59103184",
@@ -524,37 +539,7 @@
       "score": 151.5,
       "posted_ts": 1789128351,
       "posted_at": "2026-09-11T12:05:51.047550+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB5468810302",
-      "product_id": "MLB5468810302",
-      "catalog_product_id": "MLB51901869",
-      "item_id": "MLB5468810302",
-      "url": "https://www.mercadolivre.com.br/p/MLB51901869?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB51901869?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "baba eletronica hellobaby hb65 2 monitor bebe 3 2 branco",
-      "title": "Babá Eletrônica Hellobaby Hb65-2 Monitor Bebê 3.2 Branco",
-      "category": "Informática",
-      "price": 650.99,
-      "score": 86.0,
-      "posted_ts": 1789117441,
-      "posted_at": "2026-09-11T09:04:01.087390+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB4778272375",
-      "product_id": "MLB4778272375",
-      "catalog_product_id": "MLB73518090",
-      "item_id": "MLB4778272375",
-      "url": "https://www.mercadolivre.com.br/p/MLB73518090?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB73518090?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "livro tchauzinho fralda",
-      "title": "Livro Tchauzinho, Fralda",
-      "category": "Mãe e Bebê",
-      "price": 196.88,
-      "score": 114.0,
-      "posted_ts": 1789117368,
-      "posted_at": "2026-09-11T09:02:48.172215+00:00"
     }
   ],
-  "updated_at": "2026-09-13T08:04:00.865006+00:00"
+  "updated_at": "2026-09-13T11:04:37.548574+00:00"
 }
