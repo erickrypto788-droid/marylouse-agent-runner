@@ -1,6 +1,21 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB7158074090",
+      "product_id": "MLB7158074090",
+      "catalog_product_id": "MLB38338044",
+      "item_id": "MLB7158074090",
+      "url": "https://www.mercadolivre.com.br/p/MLB38338044?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB38338044?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "liquidificador portatil mini liquidificador recarregavel usb liquidificador",
+      "title": "Liquidificador portátil, Mini liquidificador recarregável USB, Liquidificador",
+      "category": "Casa e Cozinha",
+      "price": 98.0,
+      "score": 113.0,
+      "posted_ts": 1789336962,
+      "posted_at": "2026-09-13T22:02:42.009435+00:00"
+    },
+    {
       "key": "mercadolivre:MLB4100148177",
       "product_id": "MLB4100148177",
       "catalog_product_id": "MLB51434487",
@@ -674,22 +689,7 @@
       "score": 127.0,
       "posted_ts": 1789164220,
       "posted_at": "2026-09-11T22:03:40.959480+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB5129093619",
-      "product_id": "MLB5129093619",
-      "catalog_product_id": "MLB78262248",
-      "item_id": "MLB5129093619",
-      "url": "https://www.mercadolivre.com.br/p/MLB78262248?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB78262248?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "celulares smartphones 6 78 polegadas celular 5g 16gb 512gb camera hd 32mpx 18mpx bateria 5000mah celular baratinho",
-      "title": "celulares smartphones 6.78 Polegadas celular 5g 16GB+512GB Câmera HD 32Mpx+18Mpx Bateria 5000mAh celular baratinho",
-      "category": "Informática",
-      "price": 1660.0,
-      "score": 183.67,
-      "posted_ts": 1789164153,
-      "posted_at": "2026-09-11T22:02:33.666642+00:00"
     }
   ],
-  "updated_at": "2026-09-13T21:02:22.001451+00:00"
+  "updated_at": "2026-09-13T22:02:42.009446+00:00"
 }
