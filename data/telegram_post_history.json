@@ -1,6 +1,34 @@
 {
   "posts": [
     {
+      "key": "shopee:52902130185",
+      "marketplace": "shopee",
+      "id": "52902130185",
+      "title": "Controlador sem fio para console Nintendo Switch/NS Lite/NS OLED, Joycon Gamepad, Controle, Joystick, Joypad, Turbo,",
+      "title_norm": "controlador sem fio para console nintendo switch ns lite ns oled joycon gamepad controle joystick joypad turbo",
+      "url": "https://shopee.com.br/product/1006215031/52902130185",
+      "affiliate_url": "https://s.shopee.com.br/9AOZlo6bKC",
+      "category": "Choice Oficial",
+      "bucket": "choice_oficial",
+      "posted_ts": 1789312671,
+      "posted_at": "2026-09-13T15:17:51.833141+00:00",
+      "score": 84.69
+    },
+    {
+      "key": "shopee:18597615038",
+      "marketplace": "shopee",
+      "id": "18597615038",
+      "title": "Video game Stick 4K Com 20000 Jogos  2 Controles Sem Fio Console Portatil Jogos Retro Video Game",
+      "title_norm": "video game stick 4k com 20000 jogos 2 controles sem fio console portatil jogos retro video game",
+      "url": "https://shopee.com.br/product/1033887279/18597615038",
+      "affiliate_url": "https://s.shopee.com.br/50Z0o9MKHi",
+      "category": "Giomi store",
+      "bucket": "giomi_store",
+      "posted_ts": 1789312607,
+      "posted_at": "2026-09-13T15:16:47.672524+00:00",
+      "score": 103.28
+    },
+    {
       "key": "shopee:26444120861",
       "marketplace": "shopee",
       "id": "26444120861",
@@ -13971,35 +13999,7 @@
       "posted_ts": 1788578206,
       "posted_at": "2026-09-05T03:16:46.162301+00:00",
       "score": 150.05
-    },
-    {
-      "key": "shopee:22794554573",
-      "marketplace": "shopee",
-      "id": "22794554573",
-      "title": "Micro-ondas Electrolux 20L cor Inox Espelhado com Função Tira Odor (MT30S)",
-      "title_norm": "micro ondas electrolux 20l cor inox espelhado com funcao tira odor mt30s",
-      "url": "https://shopee.com.br/product/1526836548/22794554573",
-      "affiliate_url": "https://s.shopee.com.br/2VrTXHatib",
-      "category": "Electrolux",
-      "bucket": "electrolux",
-      "posted_ts": 1788574875,
-      "posted_at": "2026-09-05T02:21:15.496894+00:00",
-      "score": 61.19
-    },
-    {
-      "key": "shopee:54302551381",
-      "marketplace": "shopee",
-      "id": "54302551381",
-      "title": "Liquidificador Oster 127V 3,2 Litros 15 Velocidades + Pulsar - Preto",
-      "title_norm": "liquidificador oster 127v 3 2 litros 15 velocidades pulsar preto",
-      "url": "https://shopee.com.br/product/1334945356/54302551381",
-      "affiliate_url": "https://s.shopee.com.br/40gHK2MSMV",
-      "category": "DUX ELETRO LTDA",
-      "bucket": "casa_cozinha",
-      "posted_ts": 1788574811,
-      "posted_at": "2026-09-05T02:20:11.232598+00:00",
-      "score": 101.28
     }
   ],
-  "updated_at": "2026-09-13T14:21:05.548001+00:00"
+  "updated_at": "2026-09-13T15:17:51.833154+00:00"
 }
