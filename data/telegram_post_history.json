@@ -1,6 +1,48 @@
 {
   "posts": [
     {
+      "key": "shopee:23599239610",
+      "marketplace": "shopee",
+      "id": "23599239610",
+      "title": "Sandália Feminina Conforto Premium Com Detalhe Dourado Elegante | Casual E Sofisticada GABI",
+      "title_norm": "sandalia feminina conforto premium com detalhe dourado elegante casual e sofisticada gabi",
+      "url": "https://shopee.com.br/product/1648608636/23599239610",
+      "affiliate_url": "https://s.shopee.com.br/4AzvTewNPx",
+      "category": "cravorosa267",
+      "bucket": "calcados",
+      "posted_ts": 1789330765,
+      "posted_at": "2026-09-13T20:19:25.560664+00:00",
+      "score": 112.74
+    },
+    {
+      "key": "shopee:22799040705",
+      "marketplace": "shopee",
+      "id": "22799040705",
+      "title": "Sandália Papete Feminina Ortopédica com Elástico Confortável Moderna com Palmilha Massageadora",
+      "title_norm": "sandalia papete feminina ortopedica com elastico confortavel moderna com palmilha massageadora",
+      "url": "https://shopee.com.br/product/420347720/22799040705",
+      "affiliate_url": "https://s.shopee.com.br/BTmiIygD9",
+      "category": "Ploomer Premium",
+      "bucket": "pet",
+      "posted_ts": 1789330697,
+      "posted_at": "2026-09-13T20:18:17.302135+00:00",
+      "score": 120.44
+    },
+    {
+      "key": "shopee:22294416370",
+      "marketplace": "shopee",
+      "id": "22294416370",
+      "title": "Sandália Feminina Asa Delta Rasteira Conforto Medalhas Douradas com Fivela Reveillon",
+      "title_norm": "sandalia feminina asa delta rasteira conforto medalhas douradas com fivela reveillon",
+      "url": "https://shopee.com.br/product/1022219186/22294416370",
+      "affiliate_url": "https://s.shopee.com.br/50Z2TBtCj4",
+      "category": "Eudorashoes",
+      "bucket": "calcados",
+      "posted_ts": 1789330633,
+      "posted_at": "2026-09-13T20:17:13.076363+00:00",
+      "score": 127.56
+    },
+    {
       "key": "mercadolivre:MLB4552665179",
       "marketplace": "mercadolivre",
       "id": "MLB4552665179",
@@ -13957,49 +13999,7 @@
       "posted_ts": 1788599876,
       "posted_at": "2026-09-05T09:17:56.263071+00:00",
       "score": 98.67
-    },
-    {
-      "key": "shopee:19098318298",
-      "marketplace": "shopee",
-      "id": "19098318298",
-      "title": "Berço Co-Bed Balanço Portátil Moises Mosqueteiro Infantil Trava de Segurança Regulável",
-      "title_norm": "berco co bed balanco portatil moises mosqueteiro infantil trava de seguranca regulavel",
-      "url": "https://shopee.com.br/product/461736131/19098318298",
-      "affiliate_url": "https://s.shopee.com.br/9AOLLgE059",
-      "category": "Versátil Varejo",
-      "bucket": "versatil_varejo",
-      "posted_ts": 1788596538,
-      "posted_at": "2026-09-05T08:22:18.867292+00:00",
-      "score": 50.45
-    },
-    {
-      "key": "shopee:23696208899",
-      "marketplace": "shopee",
-      "id": "23696208899",
-      "title": "Berço Desmontável Portátil Cercadinho Com Mosqueteiro Sonata Cinza Burigotto",
-      "title_norm": "berco desmontavel portatil cercadinho com mosqueteiro sonata cinza burigotto",
-      "url": "https://shopee.com.br/product/319880864/23696208899",
-      "affiliate_url": "https://s.shopee.com.br/2VrTvzyTfU",
-      "category": "MK MEGA STORE",
-      "bucket": "mk_mega_store",
-      "posted_ts": 1788596469,
-      "posted_at": "2026-09-05T08:21:09.457066+00:00",
-      "score": 59.96
-    },
-    {
-      "key": "shopee:13202516494",
-      "marketplace": "shopee",
-      "id": "13202516494",
-      "title": "Berço Portátil Ninho redutor Com Mosquiteiro Preço De Atacado, enxoval, bebê",
-      "title_norm": "berco portatil ninho redutor com mosquiteiro preco de atacado enxoval bebe",
-      "url": "https://shopee.com.br/product/366444480/13202516494",
-      "affiliate_url": "https://s.shopee.com.br/30nkWuwZeX",
-      "category": "VHC variedades",
-      "bucket": "vhc_variedades",
-      "posted_ts": 1788596401,
-      "posted_at": "2026-09-05T08:20:01.272510+00:00",
-      "score": 61.46
     }
   ],
-  "updated_at": "2026-09-13T20:05:07.431588+00:00"
+  "updated_at": "2026-09-13T20:19:25.560686+00:00"
 }
