@@ -1,6 +1,48 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB5331790354",
+      "marketplace": "mercadolivre",
+      "id": "MLB5331790354",
+      "title": "Air fryer Br House Fritadeira ELETRICA AIR FRYER Air Fryer Family preto",
+      "title_norm": "air fryer br house fritadeira eletrica air fryer air fryer family preto",
+      "url": "https://www.mercadolivre.com.br/p/MLB45458466?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB45458466?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Casa e Cozinha",
+      "bucket": "casa_cozinha",
+      "posted_ts": 1789322714,
+      "posted_at": "2026-09-13T18:05:14.543490+00:00",
+      "score": 113.0
+    },
+    {
+      "key": "mercadolivre:MLB5428097608",
+      "marketplace": "mercadolivre",
+      "id": "MLB5428097608",
+      "title": "Rack Para Sala De Estar Rack Para Tv C/ Prateleira Flex Cor Off-white",
+      "title_norm": "rack para sala de estar rack para tv c prateleira flex cor off white",
+      "url": "https://www.mercadolivre.com.br/p/MLB39369998?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB39369998?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Casa e Cozinha",
+      "bucket": "casa_e_cozinha",
+      "posted_ts": 1789322650,
+      "posted_at": "2026-09-13T18:04:10.559324+00:00",
+      "score": 127.76
+    },
+    {
+      "key": "mercadolivre:MLB6738465128",
+      "marketplace": "mercadolivre",
+      "id": "MLB6738465128",
+      "title": "Cadeira Massagem Escritorio Cadeira Escritorio Presidente Cor Âmbar",
+      "title_norm": "cadeira massagem escritorio cadeira escritorio presidente cor ambar",
+      "url": "https://www.mercadolivre.com.br/p/MLB59413555?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB59413555?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Casa e Cozinha",
+      "bucket": "casa_e_cozinha",
+      "posted_ts": 1789322586,
+      "posted_at": "2026-09-13T18:03:06.614110+00:00",
+      "score": 162.11
+    },
+    {
       "key": "shopee:19099500190",
       "marketplace": "shopee",
       "id": "19099500190",
@@ -13957,49 +13999,7 @@
       "posted_ts": 1788589265,
       "posted_at": "2026-09-05T06:21:05.372833+00:00",
       "score": 78.98
-    },
-    {
-      "key": "shopee:23493687045",
-      "marketplace": "shopee",
-      "id": "23493687045",
-      "title": "Tapete Termico Infantil Bebe Estampas Atividades Educativo Tapetinho Lavável Impermeavel",
-      "title_norm": "tapete termico infantil bebe estampas atividades educativo tapetinho lavavel impermeavel",
-      "url": "https://shopee.com.br/product/1109882342/23493687045",
-      "affiliate_url": "https://s.shopee.com.br/4LJ7z7Ur5z",
-      "category": "PIPOCA_IMPORTS",
-      "bucket": "pet",
-      "posted_ts": 1788589197,
-      "posted_at": "2026-09-05T06:19:57.972060+00:00",
-      "score": 79.83
-    },
-    {
-      "key": "shopee:22593494985",
-      "marketplace": "shopee",
-      "id": "22593494985",
-      "title": "Cavalinho Upa Pula Inflável Musical Brinquedo Infantil Criança Presente Ás de Ouro",
-      "title_norm": "cavalinho upa pula inflavel musical brinquedo infantil crianca presente as de ouro",
-      "url": "https://shopee.com.br/product/1379735556/22593494985",
-      "affiliate_url": "https://s.shopee.com.br/30nkOfZvnr",
-      "category": "ÁsdeOuro ",
-      "bucket": "asdeouro",
-      "posted_ts": 1788589133,
-      "posted_at": "2026-09-05T06:18:53.902086+00:00",
-      "score": 89.62
-    },
-    {
-      "key": "shopee:58265605630",
-      "marketplace": "shopee",
-      "id": "58265605630",
-      "title": "Miniatura Fusca Volkswagen 1:32 Carrinho Metal Abre Capô e Portas Fricção Coleção 12cm",
-      "title_norm": "miniatura fusca volkswagen 1 32 carrinho metal abre capo e portas friccao colecao 12cm",
-      "url": "https://shopee.com.br/product/1908026773/58265605630",
-      "affiliate_url": "https://s.shopee.com.br/8KpGkTXQsc",
-      "category": "VIYU Brinquedos",
-      "bucket": "viyu_brinquedos",
-      "posted_ts": 1788589069,
-      "posted_at": "2026-09-05T06:17:49.786236+00:00",
-      "score": 90.21
     }
   ],
-  "updated_at": "2026-09-13T17:21:59.524173+00:00"
+  "updated_at": "2026-09-13T18:05:14.543504+00:00"
 }
