@@ -1,6 +1,36 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB4500156207",
+      "product_id": "MLB4500156207",
+      "catalog_product_id": "MLB59103184",
+      "item_id": "MLB4500156207",
+      "url": "https://www.mercadolivre.com.br/p/MLB59103184?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB59103184?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "smartphone xiaomi 15t 5g 12 12gb ram 512gb dourado",
+      "title": "Smartphone Xiaomi 15t 5g 12+12gb Ram + 512gb, Dourado",
+      "category": "Informática",
+      "price": 4663.0,
+      "score": 124.0,
+      "posted_ts": 1789286640,
+      "posted_at": "2026-09-13T08:04:00.864995+00:00"
+    },
+    {
+      "key": "mercadolivre:MLB5226133125",
+      "product_id": "MLB5226133125",
+      "catalog_product_id": "MLB65214612",
+      "item_id": "MLB5226133125",
+      "url": "https://www.mercadolivre.com.br/p/MLB65214612?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB65214612?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "smartphone xiaomi 15 5g 16gb 512gb preto",
+      "title": "Smartphone Xiaomi 15 5g 16gb/512gb Preto",
+      "category": "Informática",
+      "price": 1350.0,
+      "score": 127.0,
+      "posted_ts": 1789286570,
+      "posted_at": "2026-09-13T08:02:50.519073+00:00"
+    },
+    {
       "key": "mercadolivre:MLB7150469040",
       "product_id": "MLB7150469040",
       "catalog_product_id": "MLB59821316",
@@ -524,37 +554,7 @@
       "score": 114.0,
       "posted_ts": 1789117368,
       "posted_at": "2026-09-11T09:02:48.172215+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB7575871600",
-      "product_id": "MLB7575871600",
-      "catalog_product_id": "MLB49735840",
-      "item_id": "MLB7575871600",
-      "url": "https://www.mercadolivre.com.br/p/MLB49735840?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB49735840?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "racao cachorro selection adultos pequenos 10 1kg harmony",
-      "title": "Ração Cachorro Selection Adultos Pequenos 10,1kg Harmony",
-      "category": "Pet",
-      "price": 114.0,
-      "score": 113.0,
-      "posted_ts": 1789113820,
-      "posted_at": "2026-09-11T08:03:40.898652+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB4871337061",
-      "product_id": "MLB4871337061",
-      "catalog_product_id": "MLB36069603",
-      "item_id": "MLB4871337061",
-      "url": "https://www.mercadolivre.com.br/p/MLB36069603?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB36069603?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "quatree gourmet racao cachorro filhotes premium 20kg",
-      "title": "Quatree gourmet ração cachorro filhotes Premium 20kg",
-      "category": "Pet",
-      "price": 243.0,
-      "score": 113.0,
-      "posted_ts": 1789113749,
-      "posted_at": "2026-09-11T08:02:29.161984+00:00"
     }
   ],
-  "updated_at": "2026-09-13T07:04:12.153945+00:00"
+  "updated_at": "2026-09-13T08:04:00.865006+00:00"
 }
