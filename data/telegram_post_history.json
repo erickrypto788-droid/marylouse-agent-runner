@@ -1,6 +1,48 @@
 {
   "posts": [
     {
+      "key": "shopee:22593290172",
+      "marketplace": "shopee",
+      "id": "22593290172",
+      "title": "Mochila para Escola Reforçada com Entrada USB Impermeável",
+      "title_norm": "mochila para escola reforcada com entrada usb impermeavel",
+      "url": "https://shopee.com.br/product/1003774706/22593290172",
+      "affiliate_url": "https://s.shopee.com.br/AAH81ZJ4w9",
+      "category": "Fk Comercial",
+      "bucket": "bolsas",
+      "posted_ts": 1789298337,
+      "posted_at": "2026-09-13T11:18:57.661281+00:00",
+      "score": 96.06
+    },
+    {
+      "key": "shopee:20597347457",
+      "marketplace": "shopee",
+      "id": "20597347457",
+      "title": "Kit 2 Tênis Masculino Polo Fran Sapatênis Básico Casual Com Carteira Cinto e Relógio London",
+      "title_norm": "kit 2 tenis masculino polo fran sapatenis basico casual com carteira cinto e relogio london",
+      "url": "https://shopee.com.br/product/324642050/20597347457",
+      "affiliate_url": "https://s.shopee.com.br/112pBcQwIF",
+      "category": " MISTERBOOT",
+      "bucket": "calcados",
+      "posted_ts": 1789298269,
+      "posted_at": "2026-09-13T11:17:49.158534+00:00",
+      "score": 103.37
+    },
+    {
+      "key": "shopee:23594304295",
+      "marketplace": "shopee",
+      "id": "23594304295",
+      "title": "Mochila CHL Bolsa Reforçada Notebook Impermeavel Material Premium Colorido Excecultivo 888",
+      "title_norm": "mochila chl bolsa reforcada notebook impermeavel material premium colorido excecultivo 888",
+      "url": "https://shopee.com.br/product/960960972/23594304295",
+      "affiliate_url": "https://s.shopee.com.br/6VNpepSm79",
+      "category": "Global Mochilas CHL",
+      "bucket": "informatica",
+      "posted_ts": 1789298205,
+      "posted_at": "2026-09-13T11:16:45.236285+00:00",
+      "score": 135.43
+    },
+    {
       "key": "mercadolivre:MLB6290574990",
       "marketplace": "mercadolivre",
       "id": "MLB6290574990",
@@ -13957,49 +13999,7 @@
       "posted_ts": 1788556791,
       "posted_at": "2026-09-04T21:19:51.999714+00:00",
       "score": 77.37
-    },
-    {
-      "key": "shopee:22398990698",
-      "marketplace": "shopee",
-      "id": "22398990698",
-      "title": "Kit 10 ou 5 Cuecas Box Boxer Microfibra Infantil Juvenil MEN Boy Criança Bebê Masculino",
-      "title_norm": "kit 10 ou 5 cuecas box boxer microfibra infantil juvenil men boy crianca bebe masculino",
-      "url": "https://shopee.com.br/product/421581203/22398990698",
-      "affiliate_url": "https://s.shopee.com.br/70JrIek85q",
-      "category": "Lovic Meias e Variedades",
-      "bucket": "lovic_meias_e_variedades",
-      "posted_ts": 1788556728,
-      "posted_at": "2026-09-04T21:18:48.127117+00:00",
-      "score": 84.23
-    },
-    {
-      "key": "shopee:58209320732",
-      "marketplace": "shopee",
-      "id": "58209320732",
-      "title": "Óculos de Leitura Inteligente com Zoom Automático, Uso Diário Masculino e Feminino",
-      "title_norm": "oculos de leitura inteligente com zoom automatico uso diario masculino e feminino",
-      "url": "https://shopee.com.br/product/1690878664/58209320732",
-      "affiliate_url": "https://s.shopee.com.br/8plVU1hTt7",
-      "category": "Escolha Distinta",
-      "bucket": "escolha_distinta",
-      "posted_ts": 1788556664,
-      "posted_at": "2026-09-04T21:17:44.134976+00:00",
-      "score": 93.64
-    },
-    {
-      "key": "shopee:57754666583",
-      "marketplace": "shopee",
-      "id": "57754666583",
-      "title": "Jaqueta Puffer De Frio Com Capuz Removível Blusa Impermeável Neve",
-      "title_norm": "jaqueta puffer de frio com capuz removivel blusa impermeavel neve",
-      "url": "https://shopee.com.br/product/534241025/57754666583",
-      "affiliate_url": "https://s.shopee.com.br/2BEco3D2Y6",
-      "category": "Elo Urbano",
-      "bucket": "elo_urbano",
-      "posted_ts": 1788556600,
-      "posted_at": "2026-09-04T21:16:40.118379+00:00",
-      "score": 110.74
     }
   ],
-  "updated_at": "2026-09-13T11:04:37.534386+00:00"
+  "updated_at": "2026-09-13T11:18:57.661299+00:00"
 }
