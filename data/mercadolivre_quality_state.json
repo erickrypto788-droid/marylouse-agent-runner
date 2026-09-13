@@ -1,6 +1,21 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB5041528061",
+      "product_id": "MLB5041528061",
+      "catalog_product_id": "MLB43810473",
+      "item_id": "MLB5041528061",
+      "url": "https://www.mercadolivre.com.br/p/MLB43810473?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB43810473?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "kit ferramentas informatica cor preto",
+      "title": "Kit Ferramentas Informatica Cor Preto",
+      "category": "Ferramentas",
+      "price": 127.5,
+      "score": 88.0,
+      "posted_ts": 1789275743,
+      "posted_at": "2026-09-13T05:02:23.174372+00:00"
+    },
+    {
       "key": "mercadolivre:MLB6815537068",
       "product_id": "MLB6815537068",
       "catalog_product_id": "MLB36405300",
@@ -554,22 +569,7 @@
       "score": 149.86,
       "posted_ts": 1789102943,
       "posted_at": "2026-09-11T05:02:23.577069+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB7584337290",
-      "product_id": "MLB7584337290",
-      "catalog_product_id": "MLB24511657",
-      "item_id": "MLB7584337290",
-      "url": "https://www.mercadolivre.com.br/p/MLB24511657?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB24511657?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "ssd netac nv3000 ssd nvme m2 250gb",
-      "title": "SSD Netac Nv3000 Ssd Nvme M2 250gb",
-      "category": "Informática",
-      "price": 399.0,
-      "score": 111.0,
-      "posted_ts": 1789095739,
-      "posted_at": "2026-09-11T03:02:19.232791+00:00"
     }
   ],
-  "updated_at": "2026-09-13T02:04:40.902215+00:00"
+  "updated_at": "2026-09-13T05:02:23.174381+00:00"
 }
