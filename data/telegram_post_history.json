@@ -1,6 +1,34 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB4552665179",
+      "marketplace": "mercadolivre",
+      "id": "MLB4552665179",
+      "title": "Whey Protein Concentrado + Whey Protein Isolado + Cafeína",
+      "title_norm": "whey protein concentrado whey protein isolado cafeina",
+      "url": "https://www.mercadolivre.com.br/p/MLB20818317?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB20818317?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Esportes",
+      "bucket": "esportes",
+      "posted_ts": 1789329907,
+      "posted_at": "2026-09-13T20:05:07.431574+00:00",
+      "score": 86.0
+    },
+    {
+      "key": "mercadolivre:MLB6827581422",
+      "marketplace": "mercadolivre",
+      "id": "MLB6827581422",
+      "title": "Prancha Esteira Ergometrica Kikos E600ix Preto",
+      "title_norm": "prancha esteira ergometrica kikos e600ix preto",
+      "url": "https://www.mercadolivre.com.br/p/MLB70114350?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB70114350?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Esportes",
+      "bucket": "esportes",
+      "posted_ts": 1789329843,
+      "posted_at": "2026-09-13T20:04:03.327048+00:00",
+      "score": 120.27
+    },
+    {
       "key": "shopee:23893703937",
       "marketplace": "shopee",
       "id": "23893703937",
@@ -13971,35 +13999,7 @@
       "posted_ts": 1788596401,
       "posted_at": "2026-09-05T08:20:01.272510+00:00",
       "score": 61.46
-    },
-    {
-      "key": "shopee:23692661479",
-      "marketplace": "shopee",
-      "id": "23692661479",
-      "title": "Fralda Huggies Natural Care RN Recém Nascido 18 UN - VAL.: 04/2028",
-      "title_norm": "fralda huggies natural care rn recem nascido 18 un val 04 2028",
-      "url": "https://shopee.com.br/product/552204147/23692661479",
-      "affiliate_url": "https://s.shopee.com.br/3qMrWRg473",
-      "category": "IF MERCEARIA LTDA",
-      "bucket": "fraldas",
-      "posted_ts": 1788596333,
-      "posted_at": "2026-09-05T08:18:53.820651+00:00",
-      "score": 70.93
-    },
-    {
-      "key": "shopee:23598334376",
-      "marketplace": "shopee",
-      "id": "23598334376",
-      "title": "Fraldas Descartáveis Pampers Supersequinha - Tamanho XXG 66 unidades",
-      "title_norm": "fraldas descartaveis pampers supersequinha tamanho xxg 66 unidades",
-      "url": "https://shopee.com.br/product/480630382/23598334376",
-      "affiliate_url": "https://s.shopee.com.br/4VcYJfdb0e",
-      "category": "Fraldas4You",
-      "bucket": "fraldas",
-      "posted_ts": 1788596266,
-      "posted_at": "2026-09-05T08:17:46.308446+00:00",
-      "score": 84.33
     }
   ],
-  "updated_at": "2026-09-13T19:20:01.039378+00:00"
+  "updated_at": "2026-09-13T20:05:07.431588+00:00"
 }
