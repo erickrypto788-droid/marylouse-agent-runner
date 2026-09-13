@@ -1,6 +1,48 @@
 {
   "posts": [
     {
+      "key": "shopee:23893703937",
+      "marketplace": "shopee",
+      "id": "23893703937",
+      "title": "Babuche Adulto Masculino E Feminino Personalizado",
+      "title_norm": "babuche adulto masculino e feminino personalizado",
+      "url": "https://shopee.com.br/product/1464624047/23893703937",
+      "affiliate_url": "https://s.shopee.com.br/8plky5hMyy",
+      "category": "Passinhos Mágicos ",
+      "bucket": "passinhos_magicos",
+      "posted_ts": 1789327201,
+      "posted_at": "2026-09-13T19:20:01.039365+00:00",
+      "score": 97.62
+    },
+    {
+      "key": "shopee:58257600358",
+      "marketplace": "shopee",
+      "id": "58257600358",
+      "title": "Sapatenis Tenis kinit masculino  Palmilhas P.U GEL Estiloso para todas ocasiões",
+      "title_norm": "sapatenis tenis kinit masculino palmilhas p u gel estiloso para todas ocasioes",
+      "url": "https://shopee.com.br/product/1783515830/58257600358",
+      "affiliate_url": "https://s.shopee.com.br/5VVIzxpnVV",
+      "category": "IG Ferreira Calçados",
+      "bucket": "calcados",
+      "posted_ts": 1789327132,
+      "posted_at": "2026-09-13T19:18:52.613882+00:00",
+      "score": 112.42
+    },
+    {
+      "key": "shopee:43981426348",
+      "marketplace": "shopee",
+      "id": "43981426348",
+      "title": "Tenis Masculino Escolar Academia Corrida Original FREEDOM Corrida Caminhada Lançamento EXCLUSIVO CINZA GRAVITE e LARANJA",
+      "title_norm": "tenis masculino escolar academia corrida original freedom corrida caminhada lancamento exclusivo cinza gravite e laranja",
+      "url": "https://shopee.com.br/product/387523771/43981426348",
+      "affiliate_url": "https://s.shopee.com.br/1BMJq01pCq",
+      "category": "Cirandinha Shoes",
+      "bucket": "calcados",
+      "posted_ts": 1789327012,
+      "posted_at": "2026-09-13T19:16:52.726953+00:00",
+      "score": 125.18
+    },
+    {
       "key": "shopee:18997669654",
       "marketplace": "shopee",
       "id": "18997669654",
@@ -13957,49 +13999,7 @@
       "posted_ts": 1788596266,
       "posted_at": "2026-09-05T08:17:46.308446+00:00",
       "score": 84.33
-    },
-    {
-      "key": "shopee:58256467221",
-      "marketplace": "shopee",
-      "id": "58256467221",
-      "title": "Fitas Reagentes On Call Plus para Medidor de Glicose | Teste de Glicemia Rápido e Preciso 🩸📊",
-      "title_norm": "fitas reagentes on call plus para medidor de glicose teste de glicemia rapido e preciso",
-      "url": "https://shopee.com.br/product/391287260/58256467221",
-      "affiliate_url": "https://s.shopee.com.br/AAGuzxxuG8",
-      "category": "TopMix Brasil ",
-      "bucket": "topmix_brasil",
-      "posted_ts": 1788592886,
-      "posted_at": "2026-09-05T07:21:26.584103+00:00",
-      "score": 51.62
-    },
-    {
-      "key": "shopee:58200787725",
-      "marketplace": "shopee",
-      "id": "58200787725",
-      "title": "Kit Oxímetro de Dedo Medidor de Saturação + Termômetro Digital Temperatura",
-      "title_norm": "kit oximetro de dedo medidor de saturacao termometro digital temperatura",
-      "url": "https://shopee.com.br/product/1668898925/58200787725",
-      "affiliate_url": "https://s.shopee.com.br/9V1ECjvlmi",
-      "category": "WEI LI Variedades",
-      "bucket": "pet",
-      "posted_ts": 1788592816,
-      "posted_at": "2026-09-05T07:20:16.316799+00:00",
-      "score": 64.67
-    },
-    {
-      "key": "shopee:23293187754",
-      "marketplace": "shopee",
-      "id": "23293187754",
-      "title": "TIRAS DE TESTE GLICOSE G-TECH PARA MEDIDOR MODELO VITA C/50",
-      "title_norm": "tiras de teste glicose g tech para medidor modelo vita c 50",
-      "url": "https://shopee.com.br/product/1251321262/23293187754",
-      "affiliate_url": "https://s.shopee.com.br/3VjyXB5qid",
-      "category": "Multimix Saúde Online",
-      "bucket": "multimix_saude_online",
-      "posted_ts": 1788592748,
-      "posted_at": "2026-09-05T07:19:08.202850+00:00",
-      "score": 98.1
     }
   ],
-  "updated_at": "2026-09-13T18:18:55.837069+00:00"
+  "updated_at": "2026-09-13T19:20:01.039378+00:00"
 }
