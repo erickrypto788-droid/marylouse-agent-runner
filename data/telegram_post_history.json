@@ -1,6 +1,48 @@
 {
   "posts": [
     {
+      "key": "shopee:58255239538",
+      "marketplace": "shopee",
+      "id": "58255239538",
+      "title": "BABUCHE PLATAFORMA ALTA NUVEM MACIA 100 % DECORADA COM BÓTONS PINGENTES EM ABS CONFORTÁVEL",
+      "title_norm": "babuche plataforma alta nuvem macia 100 decorada com botons pingentes em abs confortavel",
+      "url": "https://shopee.com.br/product/1509055233/58255239538",
+      "affiliate_url": "https://s.shopee.com.br/1BMEilA2tS",
+      "category": "X&M Variedades",
+      "bucket": "x_m_variedades",
+      "posted_ts": 1789258741,
+      "posted_at": "2026-09-13T00:19:01.854728+00:00",
+      "score": 102.84
+    },
+    {
+      "key": "shopee:23999314273",
+      "marketplace": "shopee",
+      "id": "23999314273",
+      "title": "Tênis SNEEKS Feminino para Uso Diário Prático e Estiloso Super Promoção",
+      "title_norm": "tenis sneeks feminino para uso diario pratico e estiloso super promocao",
+      "url": "https://shopee.com.br/product/1737398657/23999314273",
+      "affiliate_url": "https://s.shopee.com.br/1Vz8yJlqQ0",
+      "category": "IRON Shop O2x",
+      "bucket": "calcados",
+      "posted_ts": 1789258677,
+      "posted_at": "2026-09-13T00:17:57.712939+00:00",
+      "score": 114.51
+    },
+    {
+      "key": "shopee:23293827748",
+      "marketplace": "shopee",
+      "id": "23293827748",
+      "title": "Bota Feminina GiGiL Cano Longo Enrugado Slouch Bico Fino Salto Bloco Médio Elegante Clássica Casual",
+      "title_norm": "bota feminina gigil cano longo enrugado slouch bico fino salto bloco medio elegante classica casual",
+      "url": "https://shopee.com.br/product/387348115/23293827748",
+      "affiliate_url": "https://s.shopee.com.br/7ptBBYNxqs",
+      "category": "GiGiL",
+      "bucket": "calcados",
+      "posted_ts": 1789258609,
+      "posted_at": "2026-09-13T00:16:49.641921+00:00",
+      "score": 114.69
+    },
+    {
       "key": "shopee:22494665073",
       "marketplace": "shopee",
       "id": "22494665073",
@@ -13957,49 +13999,7 @@
       "posted_ts": 1788513610,
       "posted_at": "2026-09-04T09:20:10.110475+00:00",
       "score": 90.69
-    },
-    {
-      "key": "shopee:58255859733",
-      "marketplace": "shopee",
-      "id": "58255859733",
-      "title": "Tênis Infantil Menino Super Leve e Confortável Escolar Esportivo - Volta as aulas",
-      "title_norm": "tenis infantil menino super leve e confortavel escolar esportivo volta as aulas",
-      "url": "https://shopee.com.br/product/1669522364/58255859733",
-      "affiliate_url": "https://s.shopee.com.br/4VcVWcdtYK",
-      "category": "TI MIMEI-",
-      "bucket": "calcados",
-      "posted_ts": 1788513542,
-      "posted_at": "2026-09-04T09:19:02.183373+00:00",
-      "score": 101.89
-    },
-    {
-      "key": "shopee:23198766209",
-      "marketplace": "shopee",
-      "id": "23198766209",
-      "title": "Tênis Branco Unissex Infantil e Baby, Conforto e Elegância para Crianças do 18 ao 33!",
-      "title_norm": "tenis branco unissex infantil e baby conforto e elegancia para criancas do 18 ao 33",
-      "url": "https://shopee.com.br/product/1320649810/23198766209",
-      "affiliate_url": "https://s.shopee.com.br/40gEvhfnZH",
-      "category": "Solado Encantado",
-      "bucket": "calcados",
-      "posted_ts": 1788513474,
-      "posted_at": "2026-09-04T09:17:54.919534+00:00",
-      "score": 105.61
-    },
-    {
-      "key": "shopee:23194248790",
-      "marketplace": "shopee",
-      "id": "23194248790",
-      "title": "Sandália Flatform Infantil Menina Papete Glady Strass Fashion Várias Cores Antiderrapante Lançamento",
-      "title_norm": "sandalia flatform infantil menina papete glady strass fashion varias cores antiderrapante lancamento",
-      "url": "https://shopee.com.br/product/1526873868/23194248790",
-      "affiliate_url": "https://s.shopee.com.br/3LQY8TiKvD",
-      "category": "Spring Joy",
-      "bucket": "pet",
-      "posted_ts": 1788513407,
-      "posted_at": "2026-09-04T09:16:47.158136+00:00",
-      "score": 109.19
     }
   ],
-  "updated_at": "2026-09-12T23:17:50.976203+00:00"
+  "updated_at": "2026-09-13T00:19:01.854745+00:00"
 }
