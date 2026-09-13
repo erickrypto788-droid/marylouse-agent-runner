@@ -1,6 +1,20 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB4100148177",
+      "marketplace": "mercadolivre",
+      "id": "MLB4100148177",
+      "title": "Barbeador Costas Masculino Traseiro Dobrável Aparador Pelos",
+      "title_norm": "barbeador costas masculino traseiro dobravel aparador pelos",
+      "url": "https://www.mercadolivre.com.br/p/MLB51434487?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB51434487?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Beleza",
+      "bucket": "beleza",
+      "posted_ts": 1789333341,
+      "posted_at": "2026-09-13T21:02:21.987113+00:00",
+      "score": 111.0
+    },
+    {
       "key": "shopee:23599239610",
       "marketplace": "shopee",
       "id": "23599239610",
@@ -13985,21 +13999,7 @@
       "posted_ts": 1788600069,
       "posted_at": "2026-09-05T09:21:09.444116+00:00",
       "score": 95.44
-    },
-    {
-      "key": "shopee:23594069255",
-      "marketplace": "shopee",
-      "id": "23594069255",
-      "title": "Bolsa Transversal Com Alça Regulável Feminina Médio Versátil Moda Crossbody",
-      "title_norm": "bolsa transversal com alca regulavel feminina medio versatil moda crossbody",
-      "url": "https://shopee.com.br/product/1284795277/23594069255",
-      "affiliate_url": "https://s.shopee.com.br/2VrU07nSfQ",
-      "category": "DIVA IMPORT",
-      "bucket": "bolsas",
-      "posted_ts": 1788599876,
-      "posted_at": "2026-09-05T09:17:56.263071+00:00",
-      "score": 98.67
     }
   ],
-  "updated_at": "2026-09-13T20:19:25.560686+00:00"
+  "updated_at": "2026-09-13T21:02:21.987129+00:00"
 }
