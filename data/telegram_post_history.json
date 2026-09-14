@@ -1,6 +1,20 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB4719617285",
+      "marketplace": "mercadolivre",
+      "id": "MLB4719617285",
+      "title": "Ração Gato Estimacat Premium Adulto Sabor Carne 15kg",
+      "title_norm": "racao gato estimacat premium adulto sabor carne 15kg",
+      "url": "https://www.mercadolivre.com.br/p/MLB66541712?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB66541712?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Pet",
+      "bucket": "pet",
+      "posted_ts": 1789362148,
+      "posted_at": "2026-09-14T05:02:28.767626+00:00",
+      "score": 154.83
+    },
+    {
       "key": "shopee:21032149959",
       "marketplace": "shopee",
       "id": "21032149959",
@@ -13985,21 +13999,7 @@
       "posted_ts": 1788638874,
       "posted_at": "2026-09-05T20:07:54.517248+00:00",
       "score": 114.0
-    },
-    {
-      "key": "shopee:58255239538",
-      "marketplace": "shopee",
-      "id": "58255239538",
-      "title": "BABUCHE PLATAFORMA ALTA NUVEM MACIA 100 % DECORADA COM BÓTONS PINGENTES EM ABS CONFORTÁVEL",
-      "title_norm": "babuche plataforma alta nuvem macia 100 decorada com botons pingentes em abs confortavel",
-      "url": "https://shopee.com.br/product/1509055233/58255239538",
-      "affiliate_url": "https://s.shopee.com.br/6VNdQfN9Gm",
-      "category": "X&M Variedades",
-      "bucket": "x_m_variedades",
-      "posted_ts": 1788635927,
-      "posted_at": "2026-09-05T19:18:47.251543+00:00",
-      "score": 102.84
     }
   ],
-  "updated_at": "2026-09-14T04:21:22.221497+00:00"
+  "updated_at": "2026-09-14T05:02:28.767646+00:00"
 }
