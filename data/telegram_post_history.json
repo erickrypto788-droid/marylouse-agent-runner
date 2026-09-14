@@ -1,6 +1,20 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB4654205549",
+      "marketplace": "mercadolivre",
+      "id": "MLB4654205549",
+      "title": "Roteador Wifi Ac 1200 2 Flex",
+      "title_norm": "roteador wifi ac 1200 2 flex",
+      "url": "https://www.mercadolivre.com.br/p/MLB47353377?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB47353377?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Informática",
+      "bucket": "informatica",
+      "posted_ts": 1789344164,
+      "posted_at": "2026-09-14T00:02:44.058574+00:00",
+      "score": 99.76
+    },
+    {
       "key": "shopee:23898526571",
       "marketplace": "shopee",
       "id": "23898526571",
@@ -13985,21 +13999,7 @@
       "posted_ts": 1788614387,
       "posted_at": "2026-09-05T13:19:47.370313+00:00",
       "score": 105.02
-    },
-    {
-      "key": "shopee:58250219337",
-      "marketplace": "shopee",
-      "id": "58250219337",
-      "title": "Caneca Misturadora Automática Elétrica USB Bateria Recarregável Mixer Café 380ml",
-      "title_norm": "caneca misturadora automatica eletrica usb bateria recarregavel mixer cafe 380ml",
-      "url": "https://shopee.com.br/product/1655406395/58250219337",
-      "affiliate_url": "https://s.shopee.com.br/1A81jQjBP",
-      "category": "BuddyShopping",
-      "bucket": "buddyshopping",
-      "posted_ts": 1788614323,
-      "posted_at": "2026-09-05T13:18:43.287186+00:00",
-      "score": 127.01
     }
   ],
-  "updated_at": "2026-09-13T23:21:49.676429+00:00"
+  "updated_at": "2026-09-14T00:02:44.058597+00:00"
 }

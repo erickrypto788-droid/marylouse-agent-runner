@@ -1,6 +1,21 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB4654205549",
+      "product_id": "MLB4654205549",
+      "catalog_product_id": "MLB47353377",
+      "item_id": "MLB4654205549",
+      "url": "https://www.mercadolivre.com.br/p/MLB47353377?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB47353377?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "roteador wifi ac 1200 2 flex",
+      "title": "Roteador Wifi Ac 1200 2 Flex",
+      "category": "Informática",
+      "price": 173.46,
+      "score": 99.76,
+      "posted_ts": 1789344164,
+      "posted_at": "2026-09-14T00:02:44.069685+00:00"
+    },
+    {
       "key": "mercadolivre:MLB7158074090",
       "product_id": "MLB7158074090",
       "catalog_product_id": "MLB38338044",
@@ -674,22 +689,7 @@
       "score": 113.0,
       "posted_ts": 1789175059,
       "posted_at": "2026-09-12T01:04:19.734131+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB5521186570",
-      "product_id": "MLB5521186570",
-      "catalog_product_id": "MLB43264591",
-      "item_id": "MLB5521186570",
-      "url": "https://www.mercadolivre.com.br/p/MLB43264591?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB43264591?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "smartphone xiaomi redmi 14c preto 128gb 4gb ram",
-      "title": "Smartphone Xiaomi Redmi 14C Preto 128GB 4GB RAM",
-      "category": "Informática",
-      "price": 757.96,
-      "score": 127.0,
-      "posted_ts": 1789164220,
-      "posted_at": "2026-09-11T22:03:40.959480+00:00"
     }
   ],
-  "updated_at": "2026-09-13T22:02:42.009446+00:00"
+  "updated_at": "2026-09-14T00:02:44.069700+00:00"
 }
