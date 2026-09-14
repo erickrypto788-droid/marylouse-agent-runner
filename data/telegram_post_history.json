@@ -1,6 +1,48 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB7634917954",
+      "marketplace": "mercadolivre",
+      "id": "MLB7634917954",
+      "title": "Shampoo Infantil Meu Bebê",
+      "title_norm": "shampoo infantil meu bebe",
+      "url": "https://www.mercadolivre.com.br/p/MLB21780816?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB21780816?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Beleza",
+      "bucket": "beleza",
+      "posted_ts": 1789377001,
+      "posted_at": "2026-09-14T09:10:01.806562+00:00",
+      "score": 88.0
+    },
+    {
+      "key": "mercadolivre:MLB5709004240",
+      "marketplace": "mercadolivre",
+      "id": "MLB5709004240",
+      "title": "Detergente Sabão Lava Louça Pastilha + Lava Máquina Unik",
+      "title_norm": "detergente sabao lava louca pastilha lava maquina unik",
+      "url": "https://www.mercadolivre.com.br/p/MLB56414429?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB56414429?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Supermercados",
+      "bucket": "supermercado",
+      "posted_ts": 1789376932,
+      "posted_at": "2026-09-14T09:08:52.133541+00:00",
+      "score": 118.39
+    },
+    {
+      "key": "mercadolivre:MLB7597764796",
+      "marketplace": "mercadolivre",
+      "id": "MLB7597764796",
+      "title": "Fralda Huggies Jumbinho M - 36 Unidades",
+      "title_norm": "fralda huggies jumbinho m 36 unidades",
+      "url": "https://www.mercadolivre.com.br/p/MLB25251850?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB25251850?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Mãe e Bebê",
+      "bucket": "fraldas",
+      "posted_ts": 1789376863,
+      "posted_at": "2026-09-14T09:07:43.054377+00:00",
+      "score": 182.06
+    },
+    {
       "key": "shopee:23992747038",
       "marketplace": "shopee",
       "id": "23992747038",
@@ -13957,49 +13999,7 @@
       "posted_ts": 1788653048,
       "posted_at": "2026-09-06T00:04:08.390998+00:00",
       "score": 61.0
-    },
-    {
-      "key": "mercadolivre:MLB6815537068",
-      "marketplace": "mercadolivre",
-      "id": "MLB6815537068",
-      "title": "Bike Spinning Ergométrica Cor Preto",
-      "title_norm": "bike spinning ergometrica cor preto",
-      "url": "https://www.mercadolivre.com.br/p/MLB36405300?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB36405300?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "category": "Esportes",
-      "bucket": "esportes",
-      "posted_ts": 1788652984,
-      "posted_at": "2026-09-06T00:03:04.463078+00:00",
-      "score": 83.0
-    },
-    {
-      "key": "shopee:52107073424",
-      "marketplace": "shopee",
-      "id": "52107073424",
-      "title": "Vestido Infantil Tule Poá Rodado Daminha Festa Aniversário Godê",
-      "title_norm": "vestido infantil tule poa rodado daminha festa aniversario gode",
-      "url": "https://shopee.com.br/product/1262715571/52107073424",
-      "affiliate_url": "https://s.shopee.com.br/5VV5F6Wxer",
-      "category": "PÉROLA__ROSÊ",
-      "bucket": "moda_feminina",
-      "posted_ts": 1788650472,
-      "posted_at": "2026-09-05T23:21:12.218732+00:00",
-      "score": 93.47
-    },
-    {
-      "key": "shopee:54505641752",
-      "marketplace": "shopee",
-      "id": "54505641752",
-      "title": "Tênis Infantil Casual Escolar Envio Rápido",
-      "title_norm": "tenis infantil casual escolar envio rapido",
-      "url": "https://shopee.com.br/product/303419140/54505641752",
-      "affiliate_url": "https://s.shopee.com.br/8KpGcJQdww",
-      "category": "Momy Calçados ✅",
-      "bucket": "calcados",
-      "posted_ts": 1788650407,
-      "posted_at": "2026-09-05T23:20:07.232489+00:00",
-      "score": 93.51
     }
   ],
-  "updated_at": "2026-09-14T08:21:42.291781+00:00"
+  "updated_at": "2026-09-14T09:10:01.806578+00:00"
 }

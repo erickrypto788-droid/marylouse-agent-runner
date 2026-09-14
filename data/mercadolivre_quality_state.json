@@ -1,6 +1,51 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB7634917954",
+      "product_id": "MLB7634917954",
+      "catalog_product_id": "MLB21780816",
+      "item_id": "MLB7634917954",
+      "url": "https://www.mercadolivre.com.br/p/MLB21780816?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB21780816?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "shampoo infantil meu bebe",
+      "title": "Shampoo Infantil Meu Bebê",
+      "category": "Beleza",
+      "price": 37.9,
+      "score": 88.0,
+      "posted_ts": 1789377001,
+      "posted_at": "2026-09-14T09:10:01.820142+00:00"
+    },
+    {
+      "key": "mercadolivre:MLB5709004240",
+      "product_id": "MLB5709004240",
+      "catalog_product_id": "MLB56414429",
+      "item_id": "MLB5709004240",
+      "url": "https://www.mercadolivre.com.br/p/MLB56414429?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB56414429?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "detergente sabao lava louca pastilha lava maquina unik",
+      "title": "Detergente Sabão Lava Louça Pastilha + Lava Máquina Unik",
+      "category": "Supermercados",
+      "price": 41.09,
+      "score": 118.39,
+      "posted_ts": 1789376932,
+      "posted_at": "2026-09-14T09:08:52.147099+00:00"
+    },
+    {
+      "key": "mercadolivre:MLB7597764796",
+      "product_id": "MLB7597764796",
+      "catalog_product_id": "MLB25251850",
+      "item_id": "MLB7597764796",
+      "url": "https://www.mercadolivre.com.br/p/MLB25251850?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB25251850?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "fralda huggies jumbinho m 36 unidades",
+      "title": "Fralda Huggies Jumbinho M - 36 Unidades",
+      "category": "Mãe e Bebê",
+      "price": 42.9,
+      "score": 182.06,
+      "posted_ts": 1789376863,
+      "posted_at": "2026-09-14T09:07:43.068815+00:00"
+    },
+    {
       "key": "mercadolivre:MLB6194259162",
       "product_id": "MLB6194259162",
       "catalog_product_id": "MLB26008929",
@@ -766,5 +811,5 @@
       "posted_at": "2026-09-12T13:02:48.616280+00:00"
     }
   ],
-  "updated_at": "2026-09-14T08:02:33.470001+00:00"
+  "updated_at": "2026-09-14T09:10:01.820152+00:00"
 }
