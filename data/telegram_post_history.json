@@ -1,6 +1,34 @@
 {
   "posts": [
     {
+      "key": "shopee:58212496584",
+      "marketplace": "shopee",
+      "id": "58212496584",
+      "title": "Nintendo Switch 2 lcd 256gb novo",
+      "title_norm": "nintendo switch 2 lcd 256gb novo",
+      "url": "https://shopee.com.br/product/1470976304/58212496584",
+      "affiliate_url": "https://s.shopee.com.br/AAH9YLqKrx",
+      "category": "AmandaImports8",
+      "bucket": "amandaimports8",
+      "posted_ts": 1789381087,
+      "posted_at": "2026-09-14T10:18:07.952521+00:00",
+      "score": 32.82
+    },
+    {
+      "key": "shopee:47060418366",
+      "marketplace": "shopee",
+      "id": "47060418366",
+      "title": "Controle PS5 Sony Dualsense sem fio JoyStick - Midnight Black",
+      "title_norm": "controle ps5 sony dualsense sem fio joystick midnight black",
+      "url": "https://shopee.com.br/product/1343318906/47060418366",
+      "affiliate_url": "https://s.shopee.com.br/2BEs1eGSZH",
+      "category": "NegociuN",
+      "bucket": "negociun",
+      "posted_ts": 1789381018,
+      "posted_at": "2026-09-14T10:16:58.132810+00:00",
+      "score": 72.11
+    },
+    {
       "key": "shopee:58263186665",
       "marketplace": "shopee",
       "id": "58263186665",
@@ -13971,35 +13999,7 @@
       "posted_ts": 1788657532,
       "posted_at": "2026-09-06T01:18:52.821743+00:00",
       "score": 118.62
-    },
-    {
-      "key": "shopee:19499073421",
-      "marketplace": "shopee",
-      "id": "19499073421",
-      "title": "Bebê Reborn Boneca Realista Girafinha Luxo Em Silicone Pode Dar Banho Envio Imediato",
-      "title_norm": "bebe reborn boneca realista girafinha luxo em silicone pode dar banho envio imediato",
-      "url": "https://shopee.com.br/product/790605924/19499073421",
-      "affiliate_url": "https://s.shopee.com.br/8AVroSVBG5",
-      "category": "Adora ",
-      "bucket": "adora",
-      "posted_ts": 1788657408,
-      "posted_at": "2026-09-06T01:16:48.756505+00:00",
-      "score": 126.26
-    },
-    {
-      "key": "shopee:19499545730",
-      "marketplace": "shopee",
-      "id": "19499545730",
-      "title": "Mini Compressor De Ar Portátil Recarregável Digital USB Calibrador De Pneus Carro Moto Bicicleta Infláveis Automático",
-      "title_norm": "mini compressor de ar portatil recarregavel digital usb calibrador de pneus carro moto bicicleta inflaveis automatico",
-      "url": "https://shopee.com.br/product/1127030290/19499545730",
-      "affiliate_url": "https://s.shopee.com.br/9pe4T7KWu0",
-      "category": "JIMMY.STORE",
-      "bucket": "jimmy_store",
-      "posted_ts": 1788654063,
-      "posted_at": "2026-09-06T00:21:03.875979+00:00",
-      "score": 120.76
     }
   ],
-  "updated_at": "2026-09-14T09:21:27.228829+00:00"
+  "updated_at": "2026-09-14T10:18:07.952538+00:00"
 }
