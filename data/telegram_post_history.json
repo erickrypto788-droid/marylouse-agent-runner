@@ -1,6 +1,34 @@
 {
   "posts": [
     {
+      "key": "shopee:23394636497",
+      "marketplace": "shopee",
+      "id": "23394636497",
+      "title": "Bota Botina Segurança Couro Legítimo CA Aprovado Bota EPI Antiderrapante Confortável Leve Unisex",
+      "title_norm": "bota botina seguranca couro legitimo ca aprovado bota epi antiderrapante confortavel leve unisex",
+      "url": "https://shopee.com.br/product/1406953915/23394636497",
+      "affiliate_url": "https://s.shopee.com.br/9AObMhkV3Y",
+      "category": "VELLUDINE",
+      "bucket": "calcados",
+      "posted_ts": 1789395469,
+      "posted_at": "2026-09-14T14:17:49.279299+00:00",
+      "score": 106.57
+    },
+    {
+      "key": "shopee:21276599648",
+      "marketplace": "shopee",
+      "id": "21276599648",
+      "title": "Bota Caterpillar Trilha Coturno Adventure Envio Rápido",
+      "title_norm": "bota caterpillar trilha coturno adventure envio rapido",
+      "url": "https://shopee.com.br/product/397535661/21276599648",
+      "affiliate_url": "https://s.shopee.com.br/AUtyx9fQLg",
+      "category": "Shopping Alpha.",
+      "bucket": "calcados",
+      "posted_ts": 1789395405,
+      "posted_at": "2026-09-14T14:16:45.201318+00:00",
+      "score": 108.97
+    },
+    {
       "key": "mercadolivre:MLB3474477475",
       "marketplace": "mercadolivre",
       "id": "MLB3474477475",
@@ -13971,35 +13999,7 @@
       "posted_ts": 1788671928,
       "posted_at": "2026-09-06T05:18:48.699516+00:00",
       "score": 100.4
-    },
-    {
-      "key": "shopee:20597347457",
-      "marketplace": "shopee",
-      "id": "20597347457",
-      "title": "Kit 2 Tênis Masculino Polo Fran Sapatênis Básico Casual Com Carteira Cinto e Relógio London",
-      "title_norm": "kit 2 tenis masculino polo fran sapatenis basico casual com carteira cinto e relogio london",
-      "url": "https://shopee.com.br/product/324642050/20597347457",
-      "affiliate_url": "https://s.shopee.com.br/5q7w2NU5NU",
-      "category": " MISTERBOOT",
-      "bucket": "calcados",
-      "posted_ts": 1788671864,
-      "posted_at": "2026-09-06T05:17:44.779688+00:00",
-      "score": 101.33
-    },
-    {
-      "key": "shopee:23594304295",
-      "marketplace": "shopee",
-      "id": "23594304295",
-      "title": "Mochila CHL Bolsa Reforçada Notebook Impermeavel Material Premium Colorido Excecultivo 888",
-      "title_norm": "mochila chl bolsa reforcada notebook impermeavel material premium colorido excecultivo 888",
-      "url": "https://shopee.com.br/product/960960972/23594304295",
-      "affiliate_url": "https://s.shopee.com.br/3Vk2WMNM8e",
-      "category": "Global Mochilas CHL",
-      "bucket": "informatica",
-      "posted_ts": 1788671800,
-      "posted_at": "2026-09-06T05:16:40.786655+00:00",
-      "score": 136.37
     }
   ],
-  "updated_at": "2026-09-14T14:02:23.576606+00:00"
+  "updated_at": "2026-09-14T14:17:49.279311+00:00"
 }
