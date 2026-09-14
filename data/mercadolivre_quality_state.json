@@ -1,6 +1,21 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB7167071088",
+      "product_id": "MLB7167071088",
+      "catalog_product_id": "MLB21865416",
+      "item_id": "MLB7167071088",
+      "url": "https://www.mercadolivre.com.br/p/MLB21865416?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB21865416?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "combo parafusadeira furadeira de impacto 13mm parafusadeira de impacto 6 3mm dewalt dck276d2",
+      "title": "Combo Parafusadeira Furadeira de Impacto 13mm + Parafusadeira de Impacto 6,3mm DEWALT DCK276D2",
+      "category": "Ferramentas",
+      "price": 1599.0,
+      "score": 124.0,
+      "posted_ts": 1789401776,
+      "posted_at": "2026-09-14T16:02:56.671432+00:00"
+    },
+    {
       "key": "mercadolivre:MLB3474477475",
       "product_id": "MLB3474477475",
       "catalog_product_id": "MLB24908965",
@@ -854,37 +869,7 @@
       "score": 129.0,
       "posted_ts": 1789236146,
       "posted_at": "2026-09-12T18:02:26.981183+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB7426392498",
-      "product_id": "MLB7426392498",
-      "catalog_product_id": "MLB77446524",
-      "item_id": "MLB7426392498",
-      "url": "https://www.mercadolivre.com.br/p/MLB77446524?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB77446524?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "ulefone note 18 ultra 256gb 6gb ram celular 5g 5450mah camera 50mp preto",
-      "title": "Ulefone Note 18 Ultra 256GB 6GB RAM Celular 5G 5450mAh Câmera 50MP Preto",
-      "category": "Informática",
-      "price": 1867.15,
-      "score": 117.67,
-      "posted_ts": 1789225432,
-      "posted_at": "2026-09-12T15:03:52.116670+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB7626010124",
-      "product_id": "MLB7626010124",
-      "catalog_product_id": "MLB47306212",
-      "item_id": "MLB7626010124",
-      "url": "https://www.mercadolivre.com.br/p/MLB47306212?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB47306212?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "smartphone xiaomi redmi 12 preto 128 4gb e fone",
-      "title": "Smartphone Xiaomí Redmi 12 Preto 128/4gb + E Fone",
-      "category": "Informática",
-      "price": 1399.0,
-      "score": 127.0,
-      "posted_ts": 1789225361,
-      "posted_at": "2026-09-12T15:02:41.773021+00:00"
     }
   ],
-  "updated_at": "2026-09-14T14:02:23.591453+00:00"
+  "updated_at": "2026-09-14T16:02:56.671447+00:00"
 }

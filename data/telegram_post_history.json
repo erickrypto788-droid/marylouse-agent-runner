@@ -1,6 +1,20 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB7167071088",
+      "marketplace": "mercadolivre",
+      "id": "MLB7167071088",
+      "title": "Combo Parafusadeira Furadeira de Impacto 13mm + Parafusadeira de Impacto 6,3mm DEWALT DCK276D2",
+      "title_norm": "combo parafusadeira furadeira de impacto 13mm parafusadeira de impacto 6 3mm dewalt dck276d2",
+      "url": "https://www.mercadolivre.com.br/p/MLB21865416?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB21865416?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Ferramentas",
+      "bucket": "ferramentas",
+      "posted_ts": 1789401776,
+      "posted_at": "2026-09-14T16:02:56.656802+00:00",
+      "score": 124.0
+    },
+    {
       "key": "shopee:41815210854",
       "marketplace": "shopee",
       "id": "41815210854",
@@ -13985,21 +13999,7 @@
       "posted_ts": 1788675595,
       "posted_at": "2026-09-06T06:19:55.420788+00:00",
       "score": 101.99
-    },
-    {
-      "key": "shopee:22696925642",
-      "marketplace": "shopee",
-      "id": "22696925642",
-      "title": "Aplique Finalizador de Laço e Agenda KIT 100 UN (5 Modelos) Passante Elástico, Decoração, Artesanato",
-      "title_norm": "aplique finalizador de laco e agenda kit 100 un 5 modelos passante elastico decoracao artesanato",
-      "url": "https://shopee.com.br/product/1076961691/22696925642",
-      "affiliate_url": "https://s.shopee.com.br/gPrDHE3DL",
-      "category": "E-Bureau",
-      "bucket": "pet",
-      "posted_ts": 1788675520,
-      "posted_at": "2026-09-06T06:18:40.975580+00:00",
-      "score": 120.79
     }
   ],
-  "updated_at": "2026-09-14T15:18:58.718210+00:00"
+  "updated_at": "2026-09-14T16:02:56.656822+00:00"
 }
