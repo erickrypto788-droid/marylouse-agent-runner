@@ -1,6 +1,21 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB7585296292",
+      "product_id": "MLB7585296292",
+      "catalog_product_id": "MLB25359886",
+      "item_id": "MLB7585296292",
+      "url": "https://www.mercadolivre.com.br/p/MLB25359886?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB25359886?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "vestido feminino analogico feminino guess trend pulseira de relogio cor prata",
+      "title": "Vestido feminino analógico feminino Guess Trend, pulseira de relógio, cor prata",
+      "category": "Moda Feminina",
+      "price": 501.75,
+      "score": 86.0,
+      "posted_ts": 1789387439,
+      "posted_at": "2026-09-14T12:03:59.310909+00:00"
+    },
+    {
       "key": "mercadolivre:MLB7003862824",
       "product_id": "MLB7003862824",
       "catalog_product_id": "MLB74184723",
@@ -856,5 +871,5 @@
       "posted_at": "2026-09-12T13:02:48.616280+00:00"
     }
   ],
-  "updated_at": "2026-09-14T11:06:49.025867+00:00"
+  "updated_at": "2026-09-14T12:03:59.310919+00:00"
 }

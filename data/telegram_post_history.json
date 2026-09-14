@@ -1,6 +1,20 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB7585296292",
+      "marketplace": "mercadolivre",
+      "id": "MLB7585296292",
+      "title": "Vestido feminino analógico feminino Guess Trend, pulseira de relógio, cor prata",
+      "title_norm": "vestido feminino analogico feminino guess trend pulseira de relogio cor prata",
+      "url": "https://www.mercadolivre.com.br/p/MLB25359886?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB25359886?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Moda Feminina",
+      "bucket": "moda_feminina",
+      "posted_ts": 1789387439,
+      "posted_at": "2026-09-14T12:03:59.295627+00:00",
+      "score": 86.0
+    },
+    {
       "key": "shopee:22293752341",
       "marketplace": "shopee",
       "id": "22293752341",
@@ -13985,21 +13999,7 @@
       "posted_ts": 1788664613,
       "posted_at": "2026-09-06T03:16:53.055418+00:00",
       "score": 139.51
-    },
-    {
-      "key": "mercadolivre:MLB5041528061",
-      "marketplace": "mercadolivre",
-      "id": "MLB5041528061",
-      "title": "Kit Ferramentas Informatica Cor Preto",
-      "title_norm": "kit ferramentas informatica cor preto",
-      "url": "https://www.mercadolivre.com.br/p/MLB43810473?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB43810473?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "category": "Ferramentas",
-      "bucket": "ferramentas",
-      "posted_ts": 1788663841,
-      "posted_at": "2026-09-06T03:04:01.730178+00:00",
-      "score": 88.0
     }
   ],
-  "updated_at": "2026-09-14T11:21:15.191239+00:00"
+  "updated_at": "2026-09-14T12:03:59.295641+00:00"
 }
