@@ -1,6 +1,36 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB7359539976",
+      "product_id": "MLB7359539976",
+      "catalog_product_id": "MLB18603556",
+      "item_id": "MLB7359539976",
+      "url": "https://www.mercadolivre.com.br/p/MLB18603556?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB18603556?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "bike spinning kikos max ks5 preto",
+      "title": "Bike Spinning Kikos Max-ks5 Preto",
+      "category": "Esportes",
+      "price": 2719.0,
+      "score": 84.0,
+      "posted_ts": 1789391032,
+      "posted_at": "2026-09-14T13:03:52.394437+00:00"
+    },
+    {
+      "key": "mercadolivre:MLB3979242465",
+      "product_id": "MLB3979242465",
+      "catalog_product_id": "MLB42620940",
+      "item_id": "MLB3979242465",
+      "url": "https://www.mercadolivre.com.br/p/MLB42620940?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB42620940?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "prancha esteira ergometrica dream dr2110 cor preto",
+      "title": "Prancha Esteira Ergometrica Dream Dr2110 Cor Preto",
+      "category": "Esportes",
+      "price": 185.24,
+      "score": 88.0,
+      "posted_ts": 1789390968,
+      "posted_at": "2026-09-14T13:02:48.134915+00:00"
+    },
+    {
       "key": "mercadolivre:MLB7585296292",
       "product_id": "MLB7585296292",
       "catalog_product_id": "MLB25359886",
@@ -854,22 +884,7 @@
       "score": 86.0,
       "posted_ts": 1789218237,
       "posted_at": "2026-09-12T13:03:57.972044+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB5275318454",
-      "product_id": "MLB5275318454",
-      "catalog_product_id": "MLB36947670",
-      "item_id": "MLB5275318454",
-      "url": "https://www.mercadolivre.com.br/p/MLB36947670?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB36947670?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "roteador wifi mercusys mw325r v2 300mbps",
-      "title": "Roteador Wifi Mercusys Mw325r V2 300mbps",
-      "category": "Informática",
-      "price": 178.15,
-      "score": 88.0,
-      "posted_ts": 1789218168,
-      "posted_at": "2026-09-12T13:02:48.616280+00:00"
     }
   ],
-  "updated_at": "2026-09-14T12:03:59.310919+00:00"
+  "updated_at": "2026-09-14T13:03:52.394450+00:00"
 }
