@@ -1,6 +1,34 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB4110890873",
+      "marketplace": "mercadolivre",
+      "id": "MLB4110890873",
+      "title": "Babá Eletrônica Hellobaby Hb66pro Monitor Bebê 3.2 White",
+      "title_norm": "baba eletronica hellobaby hb66pro monitor bebe 3 2 white",
+      "url": "https://www.mercadolivre.com.br/p/MLB51893724?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB51893724?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Informática",
+      "bucket": "informatica",
+      "posted_ts": 1789365910,
+      "posted_at": "2026-09-14T06:05:10.957168+00:00",
+      "score": 86.0
+    },
+    {
+      "key": "mercadolivre:MLB7491678620",
+      "marketplace": "mercadolivre",
+      "id": "MLB7491678620",
+      "title": "Tchauzinho, Fralda! - Melhoramentos",
+      "title_norm": "tchauzinho fralda melhoramentos",
+      "url": "https://www.mercadolivre.com.br/p/MLB40540370?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB40540370?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Mãe e Bebê",
+      "bucket": "fraldas",
+      "posted_ts": 1789365846,
+      "posted_at": "2026-09-14T06:04:06.160531+00:00",
+      "score": 114.0
+    },
+    {
       "key": "shopee:21099546181",
       "marketplace": "shopee",
       "id": "21099546181",
@@ -13971,35 +13999,7 @@
       "posted_ts": 1788639412,
       "posted_at": "2026-09-05T20:16:52.343114+00:00",
       "score": 148.79
-    },
-    {
-      "key": "mercadolivre:MLB4266241495",
-      "marketplace": "mercadolivre",
-      "id": "MLB4266241495",
-      "title": "Absorvente Mulher Ativa Com Abas Kit 80 Pacotes Gel Super Absorvente",
-      "title_norm": "absorvente mulher ativa com abas kit 80 pacotes gel super absorvente",
-      "url": "https://www.mercadolivre.com.br/p/MLB43806010?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB43806010?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "category": "Moda Feminina",
-      "bucket": "moda_feminina",
-      "posted_ts": 1788639120,
-      "posted_at": "2026-09-05T20:12:00.961631+00:00",
-      "score": 88.0
-    },
-    {
-      "key": "mercadolivre:MLB5827798066",
-      "marketplace": "mercadolivre",
-      "id": "MLB5827798066",
-      "title": "Kit Papel Toalha Interfolha Supremo E Papel Toalha Mili",
-      "title_norm": "kit papel toalha interfolha supremo e papel toalha mili",
-      "url": "https://www.mercadolivre.com.br/p/MLB47658528?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB47658528?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "category": "Supermercados",
-      "bucket": "supermercados",
-      "posted_ts": 1788639056,
-      "posted_at": "2026-09-05T20:10:56.812094+00:00",
-      "score": 98.67
     }
   ],
-  "updated_at": "2026-09-14T05:17:49.210316+00:00"
+  "updated_at": "2026-09-14T06:05:10.957183+00:00"
 }
