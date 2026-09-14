@@ -1,6 +1,51 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB7003862824",
+      "product_id": "MLB7003862824",
+      "catalog_product_id": "MLB74184723",
+      "item_id": "MLB7003862824",
+      "url": "https://www.mercadolivre.com.br/p/MLB74184723?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB74184723?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "painel d rossi painel para tv para tv ate 60 cumaru de mdf mdp",
+      "title": "Painel D'Rossi Painel Para TV para TV até 60\" cumaru de mdf/mdp",
+      "category": "Casa e Cozinha",
+      "price": 632.5,
+      "score": 103.52,
+      "posted_ts": 1789384009,
+      "posted_at": "2026-09-14T11:06:49.025857+00:00"
+    },
+    {
+      "key": "mercadolivre:MLB5195207435",
+      "product_id": "MLB5195207435",
+      "catalog_product_id": "MLB28353455",
+      "item_id": "MLB5195207435",
+      "url": "https://www.mercadolivre.com.br/p/MLB28353455?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB28353455?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "miniatura aspirador po infantil bw165",
+      "title": "Miniatura Aspirador Pó Infantil Bw165",
+      "category": "Casa e Cozinha",
+      "price": 70.54,
+      "score": 113.0,
+      "posted_ts": 1789383944,
+      "posted_at": "2026-09-14T11:05:44.999048+00:00"
+    },
+    {
+      "key": "mercadolivre:MLB3682242367",
+      "product_id": "MLB3682242367",
+      "catalog_product_id": "MLB33380670",
+      "item_id": "MLB3682242367",
+      "url": "https://www.mercadolivre.com.br/p/MLB33380670?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB33380670?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "conjunto de panelas antiaderente 5pc grafite panelux",
+      "title": "Conjunto De Panelas Antiaderente 5pc Grafite - Panelux",
+      "category": "Casa e Cozinha",
+      "price": 189.0,
+      "score": 113.0,
+      "posted_ts": 1789383877,
+      "posted_at": "2026-09-14T11:04:37.091131+00:00"
+    },
+    {
       "key": "mercadolivre:MLB7634917954",
       "product_id": "MLB7634917954",
       "catalog_product_id": "MLB21780816",
@@ -811,5 +856,5 @@
       "posted_at": "2026-09-12T13:02:48.616280+00:00"
     }
   ],
-  "updated_at": "2026-09-14T09:10:01.820152+00:00"
+  "updated_at": "2026-09-14T11:06:49.025867+00:00"
 }

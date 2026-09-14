@@ -1,6 +1,48 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB7003862824",
+      "marketplace": "mercadolivre",
+      "id": "MLB7003862824",
+      "title": "Painel D'Rossi Painel Para TV para TV até 60\" cumaru de mdf/mdp",
+      "title_norm": "painel d rossi painel para tv para tv ate 60 cumaru de mdf mdp",
+      "url": "https://www.mercadolivre.com.br/p/MLB74184723?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB74184723?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Casa e Cozinha",
+      "bucket": "casa_e_cozinha",
+      "posted_ts": 1789384009,
+      "posted_at": "2026-09-14T11:06:49.014494+00:00",
+      "score": 103.52
+    },
+    {
+      "key": "mercadolivre:MLB5195207435",
+      "marketplace": "mercadolivre",
+      "id": "MLB5195207435",
+      "title": "Miniatura Aspirador Pó Infantil Bw165",
+      "title_norm": "miniatura aspirador po infantil bw165",
+      "url": "https://www.mercadolivre.com.br/p/MLB28353455?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB28353455?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Casa e Cozinha",
+      "bucket": "casa_cozinha",
+      "posted_ts": 1789383944,
+      "posted_at": "2026-09-14T11:05:44.987306+00:00",
+      "score": 113.0
+    },
+    {
+      "key": "mercadolivre:MLB3682242367",
+      "marketplace": "mercadolivre",
+      "id": "MLB3682242367",
+      "title": "Conjunto De Panelas Antiaderente 5pc Grafite - Panelux",
+      "title_norm": "conjunto de panelas antiaderente 5pc grafite panelux",
+      "url": "https://www.mercadolivre.com.br/p/MLB33380670?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB33380670?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Casa e Cozinha",
+      "bucket": "casa_cozinha",
+      "posted_ts": 1789383877,
+      "posted_at": "2026-09-14T11:04:37.079113+00:00",
+      "score": 113.0
+    },
+    {
       "key": "shopee:58212496584",
       "marketplace": "shopee",
       "id": "58212496584",
@@ -13957,49 +13999,7 @@
       "posted_ts": 1788657725,
       "posted_at": "2026-09-06T01:22:05.162374+00:00",
       "score": 115.05
-    },
-    {
-      "key": "shopee:58206970260",
-      "marketplace": "shopee",
-      "id": "58206970260",
-      "title": "MEDOOSI Jogo de Desafio de Corda e Nós | Quebra-Cabeça Lógico, Brinquedo Desatar Educativo para Crianças / Infantil",
-      "title_norm": "medoosi jogo de desafio de corda e nos quebra cabeca logico brinquedo desatar educativo para criancas infantil",
-      "url": "https://shopee.com.br/product/1257233492/58206970260",
-      "affiliate_url": "https://s.shopee.com.br/6L4Dd5gd0B",
-      "category": "MEDOOSI-BR",
-      "bucket": "medoosi_br",
-      "posted_ts": 1788657661,
-      "posted_at": "2026-09-06T01:21:01.055081+00:00",
-      "score": 116.57
-    },
-    {
-      "key": "shopee:22998920151",
-      "marketplace": "shopee",
-      "id": "22998920151",
-      "title": "Copo com Canudo Hot Wheels - Aventura Sobre Rodas! 1200ml Em Policarbonato + Brinde",
-      "title_norm": "copo com canudo hot wheels aventura sobre rodas 1200ml em policarbonato brinde",
-      "url": "https://shopee.com.br/product/1625539033/22998920151",
-      "affiliate_url": "https://s.shopee.com.br/6AknQmTmwy",
-      "category": "MAX STORE VARIEDADES LTDA",
-      "bucket": "max_store_variedades_ltda",
-      "posted_ts": 1788657597,
-      "posted_at": "2026-09-06T01:19:57.052808+00:00",
-      "score": 116.92
-    },
-    {
-      "key": "shopee:23398908978",
-      "marketplace": "shopee",
-      "id": "23398908978",
-      "title": "Brinquedo Caminhão Dinossauro Engolidor 2026 Porta-Carrinhos com 4 Carrinhos de Metal – Kit Infantil🦖🚚",
-      "title_norm": "brinquedo caminhao dinossauro engolidor 2026 porta carrinhos com 4 carrinhos de metal kit infantil",
-      "url": "https://shopee.com.br/product/1634545368/23398908978",
-      "affiliate_url": "https://s.shopee.com.br/6fh2lPdmGO",
-      "category": "CANDYSTAR",
-      "bucket": "candystar",
-      "posted_ts": 1788657532,
-      "posted_at": "2026-09-06T01:18:52.821743+00:00",
-      "score": 118.62
     }
   ],
-  "updated_at": "2026-09-14T10:18:07.952538+00:00"
+  "updated_at": "2026-09-14T11:06:49.014506+00:00"
 }
