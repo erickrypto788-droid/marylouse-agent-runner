@@ -1,6 +1,34 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB5653921846",
+      "marketplace": "mercadolivre",
+      "id": "MLB5653921846",
+      "title": "Monitor 24 Polegadas 1920x1200px Vga Hdmi 5ms Rápido",
+      "title_norm": "monitor 24 polegadas 1920x1200px vga hdmi 5ms rapido",
+      "url": "https://www.mercadolivre.com.br/p/MLB45798788?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB45798788?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Informática",
+      "bucket": "informatica",
+      "posted_ts": 1789405414,
+      "posted_at": "2026-09-14T17:03:34.548765+00:00",
+      "score": 86.0
+    },
+    {
+      "key": "mercadolivre:MLB7634976292",
+      "marketplace": "mercadolivre",
+      "id": "MLB7634976292",
+      "title": "Impressora Bluetooth Mini Impressora De Etiquetas Impressora Bluetooth Termica Mini Impressora Portatil Bluetooth Para Etiquetas Codigos De Barras Impressao Nítida Conexao Rapida Facil De Usar",
+      "title_norm": "impressora bluetooth mini impressora de etiquetas impressora bluetooth termica mini impressora portatil bluetooth para etiquetas codigos de barras impressao nitida conexao rapida facil de usar",
+      "url": "https://www.mercadolivre.com.br/p/MLB78811728?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB78811728?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Informática",
+      "bucket": "informatica",
+      "posted_ts": 1789405350,
+      "posted_at": "2026-09-14T17:02:30.484275+00:00",
+      "score": 166.9
+    },
+    {
       "key": "shopee:22198741956",
       "marketplace": "shopee",
       "id": "22198741956",
@@ -13971,35 +13999,7 @@
       "posted_ts": 1788679274,
       "posted_at": "2026-09-06T07:21:14.206260+00:00",
       "score": 65.55
-    },
-    {
-      "key": "shopee:23494197175",
-      "marketplace": "shopee",
-      "id": "23494197175",
-      "title": "Webcam Câmera Computador Full HD 1080x1920p 2MP USB Plug Play Microfone Embutido",
-      "title_norm": "webcam camera computador full hd 1080x1920p 2mp usb plug play microfone embutido",
-      "url": "https://shopee.com.br/product/384064825/23494197175",
-      "affiliate_url": "https://s.shopee.com.br/4fw02kasmo",
-      "category": "SHOPELXY",
-      "bucket": "shopelxy",
-      "posted_ts": 1788679207,
-      "posted_at": "2026-09-06T07:20:07.008534+00:00",
-      "score": 98.26
-    },
-    {
-      "key": "shopee:58214825723",
-      "marketplace": "shopee",
-      "id": "58214825723",
-      "title": "Porta USB Hub 8 Em 1 Leitor SD Type C Áudio 3.5mm, HDMI 4K, RJ45 Rede, 2xUSB3.0 2xUSB2.0, PD Notebook MacBook",
-      "title_norm": "porta usb hub 8 em 1 leitor sd type c audio 3 5mm hdmi 4k rj45 rede 2xusb3 0 2xusb2 0 pd notebook macbook",
-      "url": "https://shopee.com.br/product/1842644423/58214825723",
-      "affiliate_url": "https://s.shopee.com.br/70Jup2NX1B",
-      "category": "Loja do Hub USB",
-      "bucket": "informatica",
-      "posted_ts": 1788679079,
-      "posted_at": "2026-09-06T07:17:59.029060+00:00",
-      "score": 128.49
     }
   ],
-  "updated_at": "2026-09-14T16:21:07.913451+00:00"
+  "updated_at": "2026-09-14T17:03:34.548783+00:00"
 }

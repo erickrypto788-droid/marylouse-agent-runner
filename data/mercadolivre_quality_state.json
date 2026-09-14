@@ -1,6 +1,36 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB5653921846",
+      "product_id": "MLB5653921846",
+      "catalog_product_id": "MLB45798788",
+      "item_id": "MLB5653921846",
+      "url": "https://www.mercadolivre.com.br/p/MLB45798788?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB45798788?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "monitor 24 polegadas 1920x1200px vga hdmi 5ms rapido",
+      "title": "Monitor 24 Polegadas 1920x1200px Vga Hdmi 5ms Rápido",
+      "category": "Informática",
+      "price": 565.0,
+      "score": 86.0,
+      "posted_ts": 1789405414,
+      "posted_at": "2026-09-14T17:03:34.563667+00:00"
+    },
+    {
+      "key": "mercadolivre:MLB7634976292",
+      "product_id": "MLB7634976292",
+      "catalog_product_id": "MLB78811728",
+      "item_id": "MLB7634976292",
+      "url": "https://www.mercadolivre.com.br/p/MLB78811728?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB78811728?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "impressora bluetooth mini impressora de etiquetas impressora bluetooth termica mini impressora portatil bluetooth para etiquetas codigos de barras impressao nitida conexao rapida facil de usar",
+      "title": "Impressora Bluetooth Mini Impressora De Etiquetas Impressora Bluetooth Termica Mini Impressora Portatil Bluetooth Para Etiquetas Codigos De Barras Impressao Nítida Conexao Rapida Facil De Usar",
+      "category": "Informática",
+      "price": 103.74,
+      "score": 166.9,
+      "posted_ts": 1789405350,
+      "posted_at": "2026-09-14T17:02:30.500052+00:00"
+    },
+    {
       "key": "mercadolivre:MLB7167071088",
       "product_id": "MLB7167071088",
       "catalog_product_id": "MLB21865416",
@@ -871,5 +901,5 @@
       "posted_at": "2026-09-12T18:02:26.981183+00:00"
     }
   ],
-  "updated_at": "2026-09-14T16:02:56.671447+00:00"
+  "updated_at": "2026-09-14T17:03:34.563681+00:00"
 }
