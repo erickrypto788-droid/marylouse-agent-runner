@@ -1,6 +1,21 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB3474477475",
+      "product_id": "MLB3474477475",
+      "catalog_product_id": "MLB24908965",
+      "item_id": "MLB3474477475",
+      "url": "https://www.mercadolivre.com.br/p/MLB24908965?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB24908965?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "lamina aparador pelos philips bodygroom qg3379 qg3280 qg3380",
+      "title": "Lamina Aparador Pelos Philips Bodygroom Qg3379 Qg3280 Qg3380",
+      "category": "Beleza",
+      "price": 129.9,
+      "score": 119.78,
+      "posted_ts": 1789394543,
+      "posted_at": "2026-09-14T14:02:23.591436+00:00"
+    },
+    {
       "key": "mercadolivre:MLB7359539976",
       "product_id": "MLB7359539976",
       "catalog_product_id": "MLB18603556",
@@ -869,22 +884,7 @@
       "score": 127.0,
       "posted_ts": 1789225361,
       "posted_at": "2026-09-12T15:02:41.773021+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB5152165069",
-      "product_id": "MLB5152165069",
-      "catalog_product_id": "MLB16377075",
-      "item_id": "MLB5152165069",
-      "url": "https://www.mercadolivre.com.br/p/MLB16377075?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB16377075?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "modem roteador wifi intelbras wifiber 121ac gpon",
-      "title": "Modem Roteador Wifi Intelbras Wifiber 121ac Gpon",
-      "category": "Informática",
-      "price": 389.99,
-      "score": 86.0,
-      "posted_ts": 1789218237,
-      "posted_at": "2026-09-12T13:03:57.972044+00:00"
     }
   ],
-  "updated_at": "2026-09-14T13:03:52.394450+00:00"
+  "updated_at": "2026-09-14T14:02:23.591453+00:00"
 }

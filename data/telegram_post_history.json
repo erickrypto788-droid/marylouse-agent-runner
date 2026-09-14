@@ -1,6 +1,20 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB3474477475",
+      "marketplace": "mercadolivre",
+      "id": "MLB3474477475",
+      "title": "Lamina Aparador Pelos Philips Bodygroom Qg3379 Qg3280 Qg3380",
+      "title_norm": "lamina aparador pelos philips bodygroom qg3379 qg3280 qg3380",
+      "url": "https://www.mercadolivre.com.br/p/MLB24908965?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB24908965?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Beleza",
+      "bucket": "beleza",
+      "posted_ts": 1789394543,
+      "posted_at": "2026-09-14T14:02:23.576588+00:00",
+      "score": 119.78
+    },
+    {
       "key": "shopee:22998137276",
       "marketplace": "shopee",
       "id": "22998137276",
@@ -13985,21 +13999,7 @@
       "posted_ts": 1788671800,
       "posted_at": "2026-09-06T05:16:40.786655+00:00",
       "score": 136.37
-    },
-    {
-      "key": "mercadolivre:MLB7150469040",
-      "marketplace": "mercadolivre",
-      "id": "MLB7150469040",
-      "title": "TV Box RBI Smart TV Box 4K PROSB-2000 Preto 5ª Geração Wi-Fi HDMI",
-      "title_norm": "tv box rbi smart tv box 4k prosb 2000 preto 5 geracao wi fi hdmi",
-      "url": "https://www.mercadolivre.com.br/p/MLB59821316?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB59821316?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "category": "Pet",
-      "bucket": "pet",
-      "posted_ts": 1788670939,
-      "posted_at": "2026-09-06T05:02:19.750565+00:00",
-      "score": 113.0
     }
   ],
-  "updated_at": "2026-09-14T13:16:50.431236+00:00"
+  "updated_at": "2026-09-14T14:02:23.576606+00:00"
 }
