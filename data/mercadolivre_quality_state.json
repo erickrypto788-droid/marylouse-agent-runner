@@ -1,6 +1,51 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB6978080348",
+      "product_id": "MLB6978080348",
+      "catalog_product_id": "MLB46173110",
+      "item_id": "MLB6978080348",
+      "url": "https://www.mercadolivre.com.br/p/MLB46173110?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB46173110?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "impressora etiquetas monocromatica toledo prix it400m usb",
+      "title": "Impressora Etiquetas Monocromática Toledo Prix IT400M USB",
+      "category": "Informática",
+      "price": 1094.0,
+      "score": 86.0,
+      "posted_ts": 1789369505,
+      "posted_at": "2026-09-14T07:05:05.159770+00:00"
+    },
+    {
+      "key": "mercadolivre:MLB5201599262",
+      "product_id": "MLB5201599262",
+      "catalog_product_id": "MLB44215301",
+      "item_id": "MLB5201599262",
+      "url": "https://www.mercadolivre.com.br/p/MLB44215301?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB44215301?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "ribbon resina mastercorp 110x300 para impressora etiquetas bopp vinil",
+      "title": "Ribbon Resina Mastercorp 110x300 Para Impressora Etiquetas BOPP Vinil",
+      "category": "Informática",
+      "price": 638.4,
+      "score": 86.0,
+      "posted_ts": 1789369435,
+      "posted_at": "2026-09-14T07:03:55.491137+00:00"
+    },
+    {
+      "key": "mercadolivre:MLB3954337465",
+      "product_id": "MLB3954337465",
+      "catalog_product_id": "MLB39019401",
+      "item_id": "MLB3954337465",
+      "url": "https://www.mercadolivre.com.br/p/MLB39019401?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB39019401?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "impressora etiquetas logistica codigo de barras usb",
+      "title": "Impressora Etiquetas Logistica Código De Barras Usb",
+      "category": "Informática",
+      "price": 649.2,
+      "score": 95.32,
+      "posted_ts": 1789369351,
+      "posted_at": "2026-09-14T07:02:31.935929+00:00"
+    },
+    {
       "key": "mercadolivre:MLB4110890873",
       "product_id": "MLB4110890873",
       "catalog_product_id": "MLB51893724",
@@ -704,22 +749,7 @@
       "score": 88.0,
       "posted_ts": 1789218168,
       "posted_at": "2026-09-12T13:02:48.616280+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB5454690706",
-      "product_id": "MLB5454690706",
-      "catalog_product_id": "MLB22813112",
-      "item_id": "MLB5454690706",
-      "url": "https://www.mercadolivre.com.br/p/MLB22813112?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB22813112?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "cadeira escritorio secretaria rcp preto",
-      "title": "Cadeira Escritório Secretaria Rcp Preto",
-      "category": "Casa e Cozinha",
-      "price": 261.89,
-      "score": 88.0,
-      "posted_ts": 1789196613,
-      "posted_at": "2026-09-12T07:03:33.702721+00:00"
     }
   ],
-  "updated_at": "2026-09-14T06:05:10.973265+00:00"
+  "updated_at": "2026-09-14T07:05:05.159787+00:00"
 }

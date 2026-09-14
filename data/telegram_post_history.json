@@ -1,6 +1,48 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB6978080348",
+      "marketplace": "mercadolivre",
+      "id": "MLB6978080348",
+      "title": "Impressora Etiquetas Monocromática Toledo Prix IT400M USB",
+      "title_norm": "impressora etiquetas monocromatica toledo prix it400m usb",
+      "url": "https://www.mercadolivre.com.br/p/MLB46173110?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB46173110?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Informática",
+      "bucket": "informatica",
+      "posted_ts": 1789369505,
+      "posted_at": "2026-09-14T07:05:05.145371+00:00",
+      "score": 86.0
+    },
+    {
+      "key": "mercadolivre:MLB5201599262",
+      "marketplace": "mercadolivre",
+      "id": "MLB5201599262",
+      "title": "Ribbon Resina Mastercorp 110x300 Para Impressora Etiquetas BOPP Vinil",
+      "title_norm": "ribbon resina mastercorp 110x300 para impressora etiquetas bopp vinil",
+      "url": "https://www.mercadolivre.com.br/p/MLB44215301?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB44215301?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Informática",
+      "bucket": "informatica",
+      "posted_ts": 1789369435,
+      "posted_at": "2026-09-14T07:03:55.476512+00:00",
+      "score": 86.0
+    },
+    {
+      "key": "mercadolivre:MLB3954337465",
+      "marketplace": "mercadolivre",
+      "id": "MLB3954337465",
+      "title": "Impressora Etiquetas Logistica Código De Barras Usb",
+      "title_norm": "impressora etiquetas logistica codigo de barras usb",
+      "url": "https://www.mercadolivre.com.br/p/MLB39019401?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB39019401?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Informática",
+      "bucket": "informatica",
+      "posted_ts": 1789369351,
+      "posted_at": "2026-09-14T07:02:31.921133+00:00",
+      "score": 95.32
+    },
+    {
       "key": "shopee:19044723152",
       "marketplace": "shopee",
       "id": "19044723152",
@@ -13957,49 +13999,7 @@
       "posted_ts": 1788643065,
       "posted_at": "2026-09-05T21:17:45.061197+00:00",
       "score": 126.09
-    },
-    {
-      "key": "shopee:20298661096",
-      "marketplace": "shopee",
-      "id": "20298661096",
-      "title": "Aspirador de Pó Vertical Britânia 2 em 1 1200W BAS1200C",
-      "title_norm": "aspirador de po vertical britania 2 em 1 1200w bas1200c",
-      "url": "https://shopee.com.br/product/811879342/20298661096",
-      "affiliate_url": "https://s.shopee.com.br/8fS6scDQBu",
-      "category": "Britânia Oficial",
-      "bucket": "casa_cozinha",
-      "posted_ts": 1788643001,
-      "posted_at": "2026-09-05T21:16:41.101209+00:00",
-      "score": 127.26
-    },
-    {
-      "key": "mercadolivre:MLB5909017866",
-      "marketplace": "mercadolivre",
-      "id": "MLB5909017866",
-      "title": "Blusa Camisa Feminina Proteção Solar Bike Jetski Pesca Praia Cor Branco Tamanho M",
-      "title_norm": "blusa camisa feminina protecao solar bike jetski pesca praia cor branco tamanho m",
-      "url": "https://www.mercadolivre.com.br/p/MLB61770185?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB61770185?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "category": "Moda Feminina",
-      "bucket": "moda_feminina",
-      "posted_ts": 1788642319,
-      "posted_at": "2026-09-05T21:05:19.684874+00:00",
-      "score": 88.0
-    },
-    {
-      "key": "mercadolivre:MLB6948409966",
-      "marketplace": "mercadolivre",
-      "id": "MLB6948409966",
-      "title": "Colete Academia Dry Fit Feminino Leve Cor Branco Tamanho M",
-      "title_norm": "colete academia dry fit feminino leve cor branco tamanho m",
-      "url": "https://www.mercadolivre.com.br/p/MLB73204410?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB73204410?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "category": "Moda Feminina",
-      "bucket": "moda_feminina",
-      "posted_ts": 1788642255,
-      "posted_at": "2026-09-05T21:04:15.748411+00:00",
-      "score": 105.86
     }
   ],
-  "updated_at": "2026-09-14T06:22:09.845018+00:00"
+  "updated_at": "2026-09-14T07:05:05.145389+00:00"
 }
