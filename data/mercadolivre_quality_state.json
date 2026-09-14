@@ -1,6 +1,36 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB4455480129",
+      "product_id": "MLB4455480129",
+      "catalog_product_id": "MLB65128982",
+      "item_id": "MLB4455480129",
+      "url": "https://www.mercadolivre.com.br/p/MLB65128982?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB65128982?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "soundbar samsung hw b400f soundbar hw b400f preto",
+      "title": "Soundbar Samsung Hw-b400f + Soundbar Hw-b400f Preto",
+      "category": "Informática",
+      "price": 978.0,
+      "score": 107.0,
+      "posted_ts": 1789347905,
+      "posted_at": "2026-09-14T01:05:05.403122+00:00"
+    },
+    {
+      "key": "mercadolivre:MLB5175098567",
+      "product_id": "MLB5175098567",
+      "catalog_product_id": "MLB65128496",
+      "item_id": "MLB5175098567",
+      "url": "https://www.mercadolivre.com.br/p/MLB65128496?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB65128496?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "soundbar samsung hw b450f soundbar hw b400f",
+      "title": "Soundbar Samsung Hw-b450f + Soundbar Hw-b400f",
+      "category": "Informática",
+      "price": 999.0,
+      "score": 127.0,
+      "posted_ts": 1789347841,
+      "posted_at": "2026-09-14T01:04:01.245300+00:00"
+    },
+    {
       "key": "mercadolivre:MLB4654205549",
       "product_id": "MLB4654205549",
       "catalog_product_id": "MLB47353377",
@@ -674,22 +704,7 @@
       "score": 83.0,
       "posted_ts": 1789178542,
       "posted_at": "2026-09-12T02:02:22.294385+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB4266031767",
-      "product_id": "MLB4266031767",
-      "catalog_product_id": "MLB28294404",
-      "item_id": "MLB4266031767",
-      "url": "https://www.mercadolivre.com.br/p/MLB28294404?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB28294404?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "kidan mix racao cachorro rigorosamente balanceado 15kg",
-      "title": "Kidan Mix ração cachorro rigorosamente balanceado 15kg",
-      "category": "Pet",
-      "price": 133.99,
-      "score": 113.0,
-      "posted_ts": 1789175059,
-      "posted_at": "2026-09-12T01:04:19.734131+00:00"
     }
   ],
-  "updated_at": "2026-09-14T00:02:44.069700+00:00"
+  "updated_at": "2026-09-14T01:05:05.403138+00:00"
 }
