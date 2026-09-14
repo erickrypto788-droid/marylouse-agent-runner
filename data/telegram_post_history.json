@@ -1,6 +1,20 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB7350489426",
+      "marketplace": "mercadolivre",
+      "id": "MLB7350489426",
+      "title": "Xiaomi Redmi Note 15",
+      "title_norm": "xiaomi redmi note 15",
+      "url": "https://www.mercadolivre.com.br/p/MLB74419020?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB74419020?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Informática",
+      "bucket": "celulares",
+      "posted_ts": 1789412561,
+      "posted_at": "2026-09-14T19:02:41.535126+00:00",
+      "score": 124.0
+    },
+    {
       "key": "shopee:9086098749",
       "marketplace": "shopee",
       "id": "9086098749",
@@ -13985,21 +13999,7 @@
       "posted_ts": 1788685344,
       "posted_at": "2026-09-06T09:02:24.325686+00:00",
       "score": 137.82
-    },
-    {
-      "key": "shopee:22591803318",
-      "marketplace": "shopee",
-      "id": "22591803318",
-      "title": "Chocolate Stikadinho Morango Neugebauer Chocolates 12g- 32un",
-      "title_norm": "chocolate stikadinho morango neugebauer chocolates 12g 32un",
-      "url": "https://shopee.com.br/product/1008814366/22591803318",
-      "affiliate_url": "https://s.shopee.com.br/50YpFC9bsc",
-      "category": "Marsil Atacadista",
-      "bucket": "marsil_atacadista",
-      "posted_ts": 1788682870,
-      "posted_at": "2026-09-06T08:21:10.900191+00:00",
-      "score": 81.92
     }
   ],
-  "updated_at": "2026-09-14T18:21:27.650420+00:00"
+  "updated_at": "2026-09-14T19:02:41.535144+00:00"
 }

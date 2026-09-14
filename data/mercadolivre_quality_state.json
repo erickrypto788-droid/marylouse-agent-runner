@@ -1,6 +1,21 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB7350489426",
+      "product_id": "MLB7350489426",
+      "catalog_product_id": "MLB74419020",
+      "item_id": "MLB7350489426",
+      "url": "https://www.mercadolivre.com.br/p/MLB74419020?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB74419020?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "xiaomi redmi note 15",
+      "title": "Xiaomi Redmi Note 15",
+      "category": "Informática",
+      "price": 1799.0,
+      "score": 124.0,
+      "posted_ts": 1789412561,
+      "posted_at": "2026-09-14T19:02:41.550326+00:00"
+    },
+    {
       "key": "mercadolivre:MLB5653921846",
       "product_id": "MLB5653921846",
       "catalog_product_id": "MLB45798788",
@@ -869,37 +884,7 @@
       "score": 191.5,
       "posted_ts": 1789239766,
       "posted_at": "2026-09-12T19:02:46.207424+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB7526272332",
-      "product_id": "MLB7526272332",
-      "catalog_product_id": "MLB75981402",
-      "item_id": "MLB7526272332",
-      "url": "https://www.mercadolivre.com.br/p/MLB75981402?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB75981402?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "racao gato castrado life special robustus 10 1kg",
-      "title": "Ração Gato Castrado Life Special Robustus 10,1kg",
-      "category": "Pet",
-      "price": 171.5,
-      "score": 113.0,
-      "posted_ts": 1789236217,
-      "posted_at": "2026-09-12T18:03:37.368068+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB6555948878",
-      "product_id": "MLB6555948878",
-      "catalog_product_id": "MLB22588098",
-      "item_id": "MLB6555948878",
-      "url": "https://www.mercadolivre.com.br/p/MLB22588098?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB22588098?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "racao gato castrado frango 12 anos 500g premier",
-      "title": "Ração Gato Castrado Frango +12 Anos 500g Premier",
-      "category": "Pet",
-      "price": 41.36,
-      "score": 129.0,
-      "posted_ts": 1789236146,
-      "posted_at": "2026-09-12T18:02:26.981183+00:00"
     }
   ],
-  "updated_at": "2026-09-14T17:03:34.563681+00:00"
+  "updated_at": "2026-09-14T19:02:41.550342+00:00"
 }
