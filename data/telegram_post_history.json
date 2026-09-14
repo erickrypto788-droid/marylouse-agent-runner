@@ -1,6 +1,48 @@
 {
   "posts": [
     {
+      "key": "shopee:41815210854",
+      "marketplace": "shopee",
+      "id": "41815210854",
+      "title": "Tamanco Sandália Chinelo Moleca Nuvem Muito Confortável Leve Macio Calce Facil Original Envio Rapido",
+      "title_norm": "tamanco sandalia chinelo moleca nuvem muito confortavel leve macio calce facil original envio rapido",
+      "url": "https://shopee.com.br/product/1538408030/41815210854",
+      "affiliate_url": "https://s.shopee.com.br/3B7OHp0BRv",
+      "category": "Todo Pé Quer Um Chinelo",
+      "bucket": "calcados",
+      "posted_ts": 1789399138,
+      "posted_at": "2026-09-14T15:18:58.718196+00:00",
+      "score": 95.84
+    },
+    {
+      "key": "shopee:58253347883",
+      "marketplace": "shopee",
+      "id": "58253347883",
+      "title": "Bota Feminina Cano Curto Preta Salto Grosso Tratorada Confortável Moda Inverno",
+      "title_norm": "bota feminina cano curto preta salto grosso tratorada confortavel moda inverno",
+      "url": "https://shopee.com.br/product/702625496/58253347883",
+      "affiliate_url": "https://s.shopee.com.br/8fSKpvb3JK",
+      "category": "ENCAST CONTRY GIRL",
+      "bucket": "calcados",
+      "posted_ts": 1789399074,
+      "posted_at": "2026-09-14T15:17:54.450061+00:00",
+      "score": 101.66
+    },
+    {
+      "key": "shopee:58215113690",
+      "marketplace": "shopee",
+      "id": "58215113690",
+      "title": "Tênis casual Feminino Coração Leve e Confortável Dia a dia oferta Novidade",
+      "title_norm": "tenis casual feminino coracao leve e confortavel dia a dia oferta novidade",
+      "url": "https://shopee.com.br/product/749908591/58215113690",
+      "affiliate_url": "https://s.shopee.com.br/1ANmGJEcx",
+      "category": "JMSHOES10",
+      "bucket": "pet",
+      "posted_ts": 1789399010,
+      "posted_at": "2026-09-14T15:16:50.269496+00:00",
+      "score": 106.31
+    },
+    {
       "key": "shopee:23394636497",
       "marketplace": "shopee",
       "id": "23394636497",
@@ -13957,49 +13999,7 @@
       "posted_ts": 1788675520,
       "posted_at": "2026-09-06T06:18:40.975580+00:00",
       "score": 120.79
-    },
-    {
-      "key": "mercadolivre:MLB7174659716",
-      "marketplace": "mercadolivre",
-      "id": "MLB7174659716",
-      "title": "Smartphone Xiaomi 15t 5g 12+12gb Ram + 512gb, Cinza",
-      "title_norm": "smartphone xiaomi 15t 5g 12 12gb ram 512gb cinza",
-      "url": "https://www.mercadolivre.com.br/p/MLB59103594?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB59103594?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "category": "Informática",
-      "bucket": "celulares",
-      "posted_ts": 1788674538,
-      "posted_at": "2026-09-06T06:02:18.949190+00:00",
-      "score": 149.32
-    },
-    {
-      "key": "shopee:22593290172",
-      "marketplace": "shopee",
-      "id": "22593290172",
-      "title": "Mochila para Escola Reforçada com Entrada USB Impermeável",
-      "title_norm": "mochila para escola reforcada com entrada usb impermeavel",
-      "url": "https://shopee.com.br/product/1003774706/22593290172",
-      "affiliate_url": "https://s.shopee.com.br/3B7C7kX9IC",
-      "category": "Fk Comercial",
-      "bucket": "bolsas",
-      "posted_ts": 1788671992,
-      "posted_at": "2026-09-06T05:19:52.717022+00:00",
-      "score": 96.64
-    },
-    {
-      "key": "shopee:21097735675",
-      "marketplace": "shopee",
-      "id": "21097735675",
-      "title": "Bolsa Masculina Transversal Cadeado Ombro Impermeável Tecido Liso Antifurto Bolsa De Peito",
-      "title_norm": "bolsa masculina transversal cadeado ombro impermeavel tecido liso antifurto bolsa de peito",
-      "url": "https://shopee.com.br/product/283185672/21097735675",
-      "affiliate_url": "https://s.shopee.com.br/AKaMev60Ia",
-      "category": "LUOLAN",
-      "bucket": "bolsas",
-      "posted_ts": 1788671928,
-      "posted_at": "2026-09-06T05:18:48.699516+00:00",
-      "score": 100.4
     }
   ],
-  "updated_at": "2026-09-14T14:17:49.279311+00:00"
+  "updated_at": "2026-09-14T15:18:58.718210+00:00"
 }
