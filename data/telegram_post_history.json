@@ -1,6 +1,34 @@
 {
   "posts": [
     {
+      "key": "shopee:23898692172",
+      "marketplace": "shopee",
+      "id": "23898692172",
+      "title": "Ventilador de Teto com Luz Silencioso Controle Remoto Economica Instalação Fácil LED Bivolt E27",
+      "title_norm": "ventilador de teto com luz silencioso controle remoto economica instalacao facil led bivolt e27",
+      "url": "https://shopee.com.br/product/1521699574/23898692172",
+      "affiliate_url": "https://s.shopee.com.br/BTmqWHJob",
+      "category": "LUZORA",
+      "bucket": "luzora",
+      "posted_ts": 1789406286,
+      "posted_at": "2026-09-14T17:18:06.981143+00:00",
+      "score": 91.35
+    },
+    {
+      "key": "shopee:8020679826",
+      "marketplace": "shopee",
+      "id": "8020679826",
+      "title": "Liquidificador Mondial L‑99 Turbo 550 W 3 Velocidades",
+      "title_norm": "liquidificador mondial l 99 turbo 550 w 3 velocidades",
+      "url": "https://shopee.com.br/product/359168917/8020679826",
+      "affiliate_url": "https://s.shopee.com.br/4LJLoAsnMq",
+      "category": "LOI BRASIL",
+      "bucket": "casa_cozinha",
+      "posted_ts": 1789406215,
+      "posted_at": "2026-09-14T17:16:55.285468+00:00",
+      "score": 116.76
+    },
+    {
       "key": "mercadolivre:MLB5653921846",
       "marketplace": "mercadolivre",
       "id": "MLB5653921846",
@@ -13971,35 +13999,7 @@
       "posted_ts": 1788681753,
       "posted_at": "2026-09-06T08:02:33.072282+00:00",
       "score": 158.16
-    },
-    {
-      "key": "shopee:19999598604",
-      "marketplace": "shopee",
-      "id": "19999598604",
-      "title": "Suporte Monitor 95cm Ergonômico Escritório Gamer",
-      "title_norm": "suporte monitor 95cm ergonomico escritorio gamer",
-      "url": "https://shopee.com.br/product/1269603414/19999598604",
-      "affiliate_url": "https://s.shopee.com.br/112hg0flc0",
-      "category": "Moveispontocom",
-      "bucket": "moveispontocom",
-      "posted_ts": 1788679343,
-      "posted_at": "2026-09-06T07:22:23.389257+00:00",
-      "score": 63.28
-    },
-    {
-      "key": "shopee:18999562267",
-      "marketplace": "shopee",
-      "id": "18999562267",
-      "title": "Leitor De Cartão Usb 3.0 Adaptador Micro Sd/sdxc 5gbps Envio Imediato",
-      "title_norm": "leitor de cartao usb 3 0 adaptador micro sd sdxc 5gbps envio imediato",
-      "url": "https://shopee.com.br/product/347409100/18999562267",
-      "affiliate_url": "https://s.shopee.com.br/5foXEaSbj3",
-      "category": "TG HOME SHOP",
-      "bucket": "tg_home_shop",
-      "posted_ts": 1788679274,
-      "posted_at": "2026-09-06T07:21:14.206260+00:00",
-      "score": 65.55
     }
   ],
-  "updated_at": "2026-09-14T17:03:34.548783+00:00"
+  "updated_at": "2026-09-14T17:18:06.981168+00:00"
 }
