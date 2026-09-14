@@ -1,6 +1,34 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB4657112471",
+      "marketplace": "mercadolivre",
+      "id": "MLB4657112471",
+      "title": "Smartphone Xiaomi Redmi 15c 256gb Global Azul",
+      "title_norm": "smartphone xiaomi redmi 15c 256gb global azul",
+      "url": "https://www.mercadolivre.com.br/p/MLB61421090?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB61421090?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Informática",
+      "bucket": "celulares",
+      "posted_ts": 1789351428,
+      "posted_at": "2026-09-14T02:03:48.052772+00:00",
+      "score": 127.0
+    },
+    {
+      "key": "mercadolivre:MLB3900697873",
+      "marketplace": "mercadolivre",
+      "id": "MLB3900697873",
+      "title": "Smartphone Xiaomi Redmi 13 Cor Azul-marinho",
+      "title_norm": "smartphone xiaomi redmi 13 cor azul marinho",
+      "url": "https://www.mercadolivre.com.br/p/MLB41629336?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB41629336?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Informática",
+      "bucket": "celulares",
+      "posted_ts": 1789351363,
+      "posted_at": "2026-09-14T02:02:43.903656+00:00",
+      "score": 127.0
+    },
+    {
       "key": "shopee:23999650738",
       "marketplace": "shopee",
       "id": "23999650738",
@@ -13971,35 +13999,7 @@
       "posted_ts": 1788624156,
       "posted_at": "2026-09-05T16:02:36.955754+00:00",
       "score": 191.5
-    },
-    {
-      "key": "shopee:52109854743",
-      "marketplace": "shopee",
-      "id": "52109854743",
-      "title": "kit com 2 ou 3 Blusinha de Alcinha Feminina Básica Suplex Justa Moda Verão  que sustenta sem sutiã e modela o corpo",
-      "title_norm": "kit com 2 ou 3 blusinha de alcinha feminina basica suplex justa moda verao que sustenta sem sutia e modela o corpo",
-      "url": "https://shopee.com.br/product/593487876/52109854743",
-      "affiliate_url": "https://s.shopee.com.br/4fvxiXEPUO",
-      "category": "Estilo.Básico",
-      "bucket": "estilo_basico",
-      "posted_ts": 1788621781,
-      "posted_at": "2026-09-05T15:23:01.759161+00:00",
-      "score": 96.53
-    },
-    {
-      "key": "shopee:54711820700",
-      "marketplace": "shopee",
-      "id": "54711820700",
-      "title": "Vestido Longo Feminino Costa Nua Midi Inverno Elegante de Festa Plus Size Praia",
-      "title_norm": "vestido longo feminino costa nua midi inverno elegante de festa plus size praia",
-      "url": "https://shopee.com.br/product/1330105172/54711820700",
-      "affiliate_url": "https://s.shopee.com.br/1LfX0h6XtF",
-      "category": "GRA JEANS OFICIAL",
-      "bucket": "moda_feminina",
-      "posted_ts": 1788621717,
-      "posted_at": "2026-09-05T15:21:57.719992+00:00",
-      "score": 114.51
     }
   ],
-  "updated_at": "2026-09-14T01:21:04.202972+00:00"
+  "updated_at": "2026-09-14T02:03:48.052791+00:00"
 }

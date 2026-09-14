@@ -1,6 +1,36 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB4657112471",
+      "product_id": "MLB4657112471",
+      "catalog_product_id": "MLB61421090",
+      "item_id": "MLB4657112471",
+      "url": "https://www.mercadolivre.com.br/p/MLB61421090?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB61421090?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "smartphone xiaomi redmi 15c 256gb global azul",
+      "title": "Smartphone Xiaomi Redmi 15c 256gb Global Azul",
+      "category": "Informática",
+      "price": 1135.0,
+      "score": 127.0,
+      "posted_ts": 1789351428,
+      "posted_at": "2026-09-14T02:03:48.064660+00:00"
+    },
+    {
+      "key": "mercadolivre:MLB3900697873",
+      "product_id": "MLB3900697873",
+      "catalog_product_id": "MLB41629336",
+      "item_id": "MLB3900697873",
+      "url": "https://www.mercadolivre.com.br/p/MLB41629336?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB41629336?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "smartphone xiaomi redmi 13 cor azul marinho",
+      "title": "Smartphone Xiaomi Redmi 13 Cor Azul-marinho",
+      "category": "Informática",
+      "price": 1337.4,
+      "score": 127.0,
+      "posted_ts": 1789351363,
+      "posted_at": "2026-09-14T02:02:43.915058+00:00"
+    },
+    {
       "key": "mercadolivre:MLB4455480129",
       "product_id": "MLB4455480129",
       "catalog_product_id": "MLB65128982",
@@ -689,22 +719,7 @@
       "score": 86.0,
       "posted_ts": 1789182178,
       "posted_at": "2026-09-12T03:02:58.019725+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB6359500600",
-      "product_id": "MLB6359500600",
-      "catalog_product_id": "MLB26685042",
-      "item_id": "MLB6359500600",
-      "url": "https://www.mercadolivre.com.br/p/MLB26685042?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB26685042?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "owlet dream sock meia inteligente monitor bebe rosa",
-      "title": "Owlet Dream Sock | Meia Inteligente Monitor Bebê - Rosa",
-      "category": "Informática",
-      "price": 3650.0,
-      "score": 83.0,
-      "posted_ts": 1789178542,
-      "posted_at": "2026-09-12T02:02:22.294385+00:00"
     }
   ],
-  "updated_at": "2026-09-14T01:05:05.403138+00:00"
+  "updated_at": "2026-09-14T02:03:48.064673+00:00"
 }
