@@ -1,6 +1,48 @@
 {
   "posts": [
     {
+      "key": "shopee:22193502150",
+      "marketplace": "shopee",
+      "id": "22193502150",
+      "title": "Mini elétrica antiaderente máquina de cozimento de bolo quiche/forno/máquina de ovo mini ferro 110V",
+      "title_norm": "mini eletrica antiaderente maquina de cozimento de bolo quiche forno maquina de ovo mini ferro 110v",
+      "url": "https://shopee.com.br/product/1371984973/22193502150",
+      "affiliate_url": "https://s.shopee.com.br/2qUaY0J3r1",
+      "category": "VIVA.SHOP",
+      "bucket": "viva_shop",
+      "posted_ts": 1789474767,
+      "posted_at": "2026-09-15T12:19:27.077527+00:00",
+      "score": 106.69
+    },
+    {
+      "key": "shopee:22397427145",
+      "marketplace": "shopee",
+      "id": "22397427145",
+      "title": "Mixer Elétrico Triturador Desmontável Liquidificador Chef MIX-20 3 em 1 200W  Preto Elgin - 127V",
+      "title_norm": "mixer eletrico triturador desmontavel liquidificador chef mix 20 3 em 1 200w preto elgin 127v",
+      "url": "https://shopee.com.br/product/898761179/22397427145",
+      "affiliate_url": "https://s.shopee.com.br/2Vrk9O2nkC",
+      "category": "Rep Store",
+      "bucket": "casa_cozinha",
+      "posted_ts": 1789474702,
+      "posted_at": "2026-09-15T12:18:22.970963+00:00",
+      "score": 111.6
+    },
+    {
+      "key": "shopee:23392997431",
+      "marketplace": "shopee",
+      "id": "23392997431",
+      "title": "Aspirador de Pó Doméstico 3 em 1 Sem Fio Limpeza Sucção USB",
+      "title_norm": "aspirador de po domestico 3 em 1 sem fio limpeza succao usb",
+      "url": "https://shopee.com.br/product/1232649860/23392997431",
+      "affiliate_url": "https://s.shopee.com.br/1VzCxYFGnT",
+      "category": "SLX 123",
+      "bucket": "casa_cozinha",
+      "posted_ts": 1789474611,
+      "posted_at": "2026-09-15T12:16:51.290460+00:00",
+      "score": 115.92
+    },
+    {
       "key": "mercadolivre:MLB5026800457",
       "marketplace": "mercadolivre",
       "id": "MLB5026800457",
@@ -13957,49 +13999,7 @@
       "posted_ts": 1788743940,
       "posted_at": "2026-09-07T01:19:00.045843+00:00",
       "score": 114.51
-    },
-    {
-      "key": "shopee:20897812743",
-      "marketplace": "shopee",
-      "id": "20897812743",
-      "title": "Mochila Faculdade Reforçada Compartimento Para Notebook Escolar Unissex Diversas Cores",
-      "title_norm": "mochila faculdade reforcada compartimento para notebook escolar unissex diversas cores",
-      "url": "https://shopee.com.br/product/1003774706/20897812743",
-      "affiliate_url": "https://s.shopee.com.br/2qULj8YPyA",
-      "category": "Fk Comercial",
-      "bucket": "informatica",
-      "posted_ts": 1788743875,
-      "posted_at": "2026-09-07T01:17:55.589623+00:00",
-      "score": 122.96
-    },
-    {
-      "key": "shopee:22799125551",
-      "marketplace": "shopee",
-      "id": "22799125551",
-      "title": "Mochila Masculina Esportiva Impermeável para Notebook, Mochila Escolar de Viagem e Trabalho",
-      "title_norm": "mochila masculina esportiva impermeavel para notebook mochila escolar de viagem e trabalho",
-      "url": "https://shopee.com.br/product/1658947107/22799125551",
-      "affiliate_url": "https://s.shopee.com.br/Ln24xUAZW",
-      "category": "RON CHANG",
-      "bucket": "informatica",
-      "posted_ts": 1788743811,
-      "posted_at": "2026-09-07T01:16:51.163632+00:00",
-      "score": 128.19
-    },
-    {
-      "key": "shopee:10908191710",
-      "marketplace": "shopee",
-      "id": "10908191710",
-      "title": "Mochila Bolsa Masculina Impermeável Reforçada Promoção Cor Preta",
-      "title_norm": "mochila bolsa masculina impermeavel reforcada promocao cor preta",
-      "url": "https://shopee.com.br/product/364186110/10908191710",
-      "affiliate_url": "https://s.shopee.com.br/8KpJXWojSQ",
-      "category": "SHIMA & ZAKI",
-      "bucket": "bolsas",
-      "posted_ts": 1788740340,
-      "posted_at": "2026-09-07T00:19:00.771121+00:00",
-      "score": 99.21
     }
   ],
-  "updated_at": "2026-09-15T12:03:06.649586+00:00"
+  "updated_at": "2026-09-15T12:19:27.077541+00:00"
 }
