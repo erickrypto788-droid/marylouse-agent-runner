@@ -1,6 +1,21 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB5175310031",
+      "product_id": "MLB5175310031",
+      "catalog_product_id": "MLB32583536",
+      "item_id": "MLB5175310031",
+      "url": "https://www.mercadolivre.com.br/p/MLB32583536?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB32583536?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "jogo panelas vermelho aluminio fundido usinado javaliam16a24",
+      "title": "Jogo Panelas Vermelho Alumínio Fundido Usinado Javaliam16a24",
+      "category": "Casa e Cozinha",
+      "price": 519.99,
+      "score": 111.0,
+      "posted_ts": 1789506258,
+      "posted_at": "2026-09-15T21:04:18.847018+00:00"
+    },
+    {
       "key": "mercadolivre:MLB4795061481",
       "product_id": "MLB4795061481",
       "catalog_product_id": "MLB74011420",
@@ -749,22 +764,7 @@
       "score": 113.0,
       "posted_ts": 1789336962,
       "posted_at": "2026-09-13T22:02:42.009435+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB4100148177",
-      "product_id": "MLB4100148177",
-      "catalog_product_id": "MLB51434487",
-      "item_id": "MLB4100148177",
-      "url": "https://www.mercadolivre.com.br/p/MLB51434487?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB51434487?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "barbeador costas masculino traseiro dobravel aparador pelos",
-      "title": "Barbeador Costas Masculino Traseiro Dobrável Aparador Pelos",
-      "category": "Beleza",
-      "price": 380.1,
-      "score": 111.0,
-      "posted_ts": 1789333342,
-      "posted_at": "2026-09-13T21:02:22.001442+00:00"
     }
   ],
-  "updated_at": "2026-09-15T20:07:34.489718+00:00"
+  "updated_at": "2026-09-15T21:04:18.847031+00:00"
 }
