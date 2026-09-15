@@ -1,6 +1,34 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB4139317597",
+      "marketplace": "mercadolivre",
+      "id": "MLB4139317597",
+      "title": "Furadeira Parafusadeira Imp C/ Parafusadeira Imp Dlx2336syx",
+      "title_norm": "furadeira parafusadeira imp c parafusadeira imp dlx2336syx",
+      "url": "https://www.mercadolivre.com.br/p/MLB23649057?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB23649057?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Ferramentas",
+      "bucket": "ferramentas",
+      "posted_ts": 1789463027,
+      "posted_at": "2026-09-15T09:03:47.901837+00:00",
+      "score": 108.0
+    },
+    {
+      "key": "mercadolivre:MLB5183821060",
+      "marketplace": "mercadolivre",
+      "id": "MLB5183821060",
+      "title": "Combo Furadeira Parafusadeira DF333D + Parafusadeira de Impacto TD110D 12V - CLX224SAX",
+      "title_norm": "combo furadeira parafusadeira df333d parafusadeira de impacto td110d 12v clx224sax",
+      "url": "https://www.mercadolivre.com.br/p/MLB19765397?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB19765397?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Ferramentas",
+      "bucket": "ferramentas",
+      "posted_ts": 1789462946,
+      "posted_at": "2026-09-15T09:02:26.209131+00:00",
+      "score": 111.0
+    },
+    {
       "key": "shopee:23893178722",
       "marketplace": "shopee",
       "id": "23893178722",
@@ -13971,35 +13999,7 @@
       "posted_ts": 1788735813,
       "posted_at": "2026-09-06T23:03:33.197730+00:00",
       "score": 127.0
-    },
-    {
-      "key": "mercadolivre:MLB3900697873",
-      "marketplace": "mercadolivre",
-      "id": "MLB3900697873",
-      "title": "Smartphone Xiaomi Redmi 13 Cor Azul-marinho",
-      "title_norm": "smartphone xiaomi redmi 13 cor azul marinho",
-      "url": "https://www.mercadolivre.com.br/p/MLB41629336?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB41629336?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "category": "Informática",
-      "bucket": "celulares",
-      "posted_ts": 1788735742,
-      "posted_at": "2026-09-06T23:02:22.122820+00:00",
-      "score": 127.0
-    },
-    {
-      "key": "shopee:58211580864",
-      "marketplace": "shopee",
-      "id": "58211580864",
-      "title": "Medidor de Pressão Digital de Braço Automático Monitor Cardíaco LCD com USB",
-      "title_norm": "medidor de pressao digital de braco automatico monitor cardiaco lcd com usb",
-      "url": "https://shopee.com.br/product/1555286005/58211580864",
-      "affiliate_url": "https://s.shopee.com.br/qjITVlmVY",
-      "category": "JEHNNY.STORE",
-      "bucket": "jehnny_store",
-      "posted_ts": 1788733323,
-      "posted_at": "2026-09-06T22:22:03.134594+00:00",
-      "score": 100.9
     }
   ],
-  "updated_at": "2026-09-15T08:19:17.617857+00:00"
+  "updated_at": "2026-09-15T09:03:47.901851+00:00"
 }
