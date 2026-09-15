@@ -1,6 +1,34 @@
 {
   "posts": [
     {
+      "key": "shopee:55913136538",
+      "marketplace": "shopee",
+      "id": "55913136538",
+      "title": "Jogo Grand Theft Auto VI Edição Standard - PS5",
+      "title_norm": "jogo grand theft auto vi edicao standard ps5",
+      "url": "https://shopee.com.br/product/413072701/55913136538",
+      "affiliate_url": "https://s.shopee.com.br/8plnEBJ7X3",
+      "category": "Webfones Express",
+      "bucket": "webfones_express",
+      "posted_ts": 1789449586,
+      "posted_at": "2026-09-15T05:19:46.053177+00:00",
+      "score": 20.5
+    },
+    {
+      "key": "shopee:23297354301",
+      "marketplace": "shopee",
+      "id": "23297354301",
+      "title": "Playstation 5 - Um Controle - 1 ou 2 Controles Jogo Aleatório + Headset brinde  - SEMI NOVO",
+      "title_norm": "playstation 5 um controle 1 ou 2 controles jogo aleatorio headset brinde semi novo",
+      "url": "https://shopee.com.br/product/544739858/23297354301",
+      "affiliate_url": "https://s.shopee.com.br/6fhIeCERdN",
+      "category": "Agaron",
+      "bucket": "agaron",
+      "posted_ts": 1789449521,
+      "posted_at": "2026-09-15T05:18:41.977484+00:00",
+      "score": 31.39
+    },
+    {
       "key": "mercadolivre:MLB5120190903",
       "marketplace": "mercadolivre",
       "id": "MLB5120190903",
@@ -13971,35 +13999,7 @@
       "posted_ts": 1788726056,
       "posted_at": "2026-09-06T20:20:56.670672+00:00",
       "score": 111.67
-    },
-    {
-      "key": "shopee:44553066762",
-      "marketplace": "shopee",
-      "id": "44553066762",
-      "title": "Regata Feminina Blusa Alça fina Poliamida Premium Fitness Casual com Bojo Removível",
-      "title_norm": "regata feminina blusa alca fina poliamida premium fitness casual com bojo removivel",
-      "url": "https://shopee.com.br/product/1147903950/44553066762",
-      "affiliate_url": "https://s.shopee.com.br/9V1FzzuZHm",
-      "category": "LADY.KA",
-      "bucket": "moda_feminina",
-      "posted_ts": 1788725992,
-      "posted_at": "2026-09-06T20:19:52.535726+00:00",
-      "score": 119.18
-    },
-    {
-      "key": "shopee:58201698463",
-      "marketplace": "shopee",
-      "id": "58201698463",
-      "title": "WATERSY Garrafa térmica em aço inoxidável 304 500ml Academia Garrafa térmica Copo de água Aço Inox Garrafa Portátil",
-      "title_norm": "watersy garrafa termica em aco inoxidavel 304 500ml academia garrafa termica copo de agua aco inox garrafa portatil",
-      "url": "https://shopee.com.br/product/472202601/58201698463",
-      "affiliate_url": "https://s.shopee.com.br/6Akocwkib4",
-      "category": "Watersy Oficial",
-      "bucket": "watersy_oficial",
-      "posted_ts": 1788725928,
-      "posted_at": "2026-09-06T20:18:48.543498+00:00",
-      "score": 122.6
     }
   ],
-  "updated_at": "2026-09-15T05:02:56.964141+00:00"
+  "updated_at": "2026-09-15T05:19:46.053186+00:00"
 }
