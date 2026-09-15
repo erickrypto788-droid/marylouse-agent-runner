@@ -1,6 +1,20 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB7601679290",
+      "marketplace": "mercadolivre",
+      "id": "MLB7601679290",
+      "title": "Impressora Etiquetas Portátil Niimbot D11 + 1 Rolo Azul",
+      "title_norm": "impressora etiquetas portatil niimbot d11 1 rolo azul",
+      "url": "https://www.mercadolivre.com.br/p/MLB78736073?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB78736073?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Informática",
+      "bucket": "informatica",
+      "posted_ts": 1789430555,
+      "posted_at": "2026-09-15T00:02:35.376576+00:00",
+      "score": 156.96
+    },
+    {
       "key": "shopee:23693223002",
       "marketplace": "shopee",
       "id": "23693223002",
@@ -13985,21 +13999,7 @@
       "posted_ts": 1788704204,
       "posted_at": "2026-09-06T14:16:44.092048+00:00",
       "score": 128.02
-    },
-    {
-      "key": "mercadolivre:MLB7059191208",
-      "marketplace": "mercadolivre",
-      "id": "MLB7059191208",
-      "title": "Boneca Sophia Deluxe com Roupa Academia Unicórnio 24cm Sunny",
-      "title_norm": "boneca sophia deluxe com roupa academia unicornio 24cm sunny",
-      "url": "https://www.mercadolivre.com.br/p/MLB38422370?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB38422370?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "category": "Esportes",
-      "bucket": "esportes",
-      "posted_ts": 1788703779,
-      "posted_at": "2026-09-06T14:09:39.931186+00:00",
-      "score": 88.0
     }
   ],
-  "updated_at": "2026-09-14T23:21:05.054098+00:00"
+  "updated_at": "2026-09-15T00:02:35.376594+00:00"
 }
