@@ -1,6 +1,36 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB4795061481",
+      "product_id": "MLB4795061481",
+      "catalog_product_id": "MLB74011420",
+      "item_id": "MLB4795061481",
+      "url": "https://www.mercadolivre.com.br/p/MLB74011420?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB74011420?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "molde calca legging feminina digital pp p m g gg",
+      "title": "Molde Calça Legging Feminina Digital Pp-p-m-g-gg",
+      "category": "Moda Feminina",
+      "price": 88.9,
+      "score": 88.0,
+      "posted_ts": 1789502854,
+      "posted_at": "2026-09-15T20:07:34.489703+00:00"
+    },
+    {
+      "key": "mercadolivre:MLB7083949146",
+      "product_id": "MLB7083949146",
+      "catalog_product_id": "MLB74893563",
+      "item_id": "MLB7083949146",
+      "url": "https://www.mercadolivre.com.br/p/MLB74893563?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB74893563?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "molde calca feminina moletom impresso p m g gg xg",
+      "title": "Molde Calça Feminina Moletom Impresso P/m/g/gg/xg",
+      "category": "Moda Feminina",
+      "price": 129.9,
+      "score": 88.0,
+      "posted_ts": 1789502784,
+      "posted_at": "2026-09-15T20:06:24.005931+00:00"
+    },
+    {
       "key": "mercadolivre:MLB6825867960",
       "product_id": "MLB6825867960",
       "catalog_product_id": "MLB68094806",
@@ -734,37 +764,7 @@
       "score": 111.0,
       "posted_ts": 1789333342,
       "posted_at": "2026-09-13T21:02:22.001442+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB4552665179",
-      "product_id": "MLB4552665179",
-      "catalog_product_id": "MLB20818317",
-      "item_id": "MLB4552665179",
-      "url": "https://www.mercadolivre.com.br/p/MLB20818317?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB20818317?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "whey protein concentrado whey protein isolado cafeina",
-      "title": "Whey Protein Concentrado + Whey Protein Isolado + Cafeína",
-      "category": "Esportes",
-      "price": 658.0,
-      "score": 86.0,
-      "posted_ts": 1789329907,
-      "posted_at": "2026-09-13T20:05:07.445845+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB6827581422",
-      "product_id": "MLB6827581422",
-      "catalog_product_id": "MLB70114350",
-      "item_id": "MLB6827581422",
-      "url": "https://www.mercadolivre.com.br/p/MLB70114350?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB70114350?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "prancha esteira ergometrica kikos e600ix preto",
-      "title": "Prancha Esteira Ergometrica Kikos E600ix Preto",
-      "category": "Esportes",
-      "price": 191.28,
-      "score": 120.27,
-      "posted_ts": 1789329843,
-      "posted_at": "2026-09-13T20:04:03.342105+00:00"
     }
   ],
-  "updated_at": "2026-09-15T19:12:07.691862+00:00"
+  "updated_at": "2026-09-15T20:07:34.489718+00:00"
 }
