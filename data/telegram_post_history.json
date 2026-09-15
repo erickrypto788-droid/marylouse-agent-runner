@@ -1,6 +1,48 @@
 {
   "posts": [
     {
+      "key": "shopee:10648848842",
+      "marketplace": "shopee",
+      "id": "10648848842",
+      "title": "Mala Case Capa Bolsa Porta Case Notebook Slim 14,6/15,6 Alça Dupla Reforçada",
+      "title_norm": "mala case capa bolsa porta case notebook slim 14 6 15 6 alca dupla reforcada",
+      "url": "https://shopee.com.br/product/391712221/10648848842",
+      "affiliate_url": "https://s.shopee.com.br/4LJNXJ6fJU",
+      "category": "Street Man",
+      "bucket": "informatica",
+      "posted_ts": 1789503541,
+      "posted_at": "2026-09-15T20:19:01.850267+00:00",
+      "score": 77.49
+    },
+    {
+      "key": "shopee:23997726120",
+      "marketplace": "shopee",
+      "id": "23997726120",
+      "title": "ROMANTIC CROWN Mochila De Viagem Feminina Multifuncional Impermeável Reforçada Expansível para Trilha Esportiva",
+      "title_norm": "romantic crown mochila de viagem feminina multifuncional impermeavel reforcada expansivel para trilha esportiva",
+      "url": "https://shopee.com.br/product/1198407784/23997726120",
+      "affiliate_url": "https://s.shopee.com.br/BTpu4UlE8",
+      "category": "Romantic Crown.02",
+      "bucket": "bolsas",
+      "posted_ts": 1789503477,
+      "posted_at": "2026-09-15T20:17:57.569971+00:00",
+      "score": 117.72
+    },
+    {
+      "key": "shopee:18999841858",
+      "marketplace": "shopee",
+      "id": "18999841858",
+      "title": "TOMI MITO Bolsa Feminina Grande para Escritório e Rotina com Alça de Ombro Bolso Frontal e Zíper B742",
+      "title_norm": "tomi mito bolsa feminina grande para escritorio e rotina com alca de ombro bolso frontal e ziper b742",
+      "url": "https://shopee.com.br/product/1468415010/18999841858",
+      "affiliate_url": "https://s.shopee.com.br/1qc3t8K142",
+      "category": "Amy.Store",
+      "bucket": "bolsas",
+      "posted_ts": 1789503413,
+      "posted_at": "2026-09-15T20:16:53.225208+00:00",
+      "score": 117.83
+    },
+    {
       "key": "mercadolivre:MLB4795061481",
       "marketplace": "mercadolivre",
       "id": "MLB4795061481",
@@ -13957,49 +13999,7 @@
       "posted_ts": 1788766027,
       "posted_at": "2026-09-07T07:27:07.133903+00:00",
       "score": 107.35
-    },
-    {
-      "key": "shopee:22393516179",
-      "marketplace": "shopee",
-      "id": "22393516179",
-      "title": "Conjunto Infantil Masculino - Camisa + Bermuda Para O Verão 2025",
-      "title_norm": "conjunto infantil masculino camisa bermuda para o verao 2025",
-      "url": "https://shopee.com.br/product/1396316927/22393516179",
-      "affiliate_url": "https://s.shopee.com.br/2BEfKdXwKb",
-      "category": "KJ Company",
-      "bucket": "kj_company",
-      "posted_ts": 1788765835,
-      "posted_at": "2026-09-07T07:23:55.235581+00:00",
-      "score": 108.51
-    },
-    {
-      "key": "shopee:21276599648",
-      "marketplace": "shopee",
-      "id": "21276599648",
-      "title": "Bota Caterpillar Trilha Coturno Adventure Envio Rápido",
-      "title_norm": "bota caterpillar trilha coturno adventure envio rapido",
-      "url": "https://shopee.com.br/product/397535661/21276599648",
-      "affiliate_url": "https://s.shopee.com.br/9pe6ay0RrU",
-      "category": "Shopping Alpha.",
-      "bucket": "calcados",
-      "posted_ts": 1788765602,
-      "posted_at": "2026-09-07T07:20:02.742118+00:00",
-      "score": 108.97
-    },
-    {
-      "key": "shopee:3858948394",
-      "marketplace": "shopee",
-      "id": "3858948394",
-      "title": "Camisa Polo Básica Masculina Piquet Slim",
-      "title_norm": "camisa polo basica masculina piquet slim",
-      "url": "https://shopee.com.br/product/287750271/3858948394",
-      "affiliate_url": "https://s.shopee.com.br/8V8kCgIBvc",
-      "category": "Daze Modas",
-      "bucket": "daze_modas",
-      "posted_ts": 1788765474,
-      "posted_at": "2026-09-07T07:17:54.002287+00:00",
-      "score": 110.18
     }
   ],
-  "updated_at": "2026-09-15T20:07:34.477082+00:00"
+  "updated_at": "2026-09-15T20:19:01.850279+00:00"
 }
