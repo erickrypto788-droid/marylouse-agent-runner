@@ -1,6 +1,34 @@
 {
   "posts": [
     {
+      "key": "shopee:23899355811",
+      "marketplace": "shopee",
+      "id": "23899355811",
+      "title": "Tênis Sapatênis Masculino Knit Confortável Respirável Estilso Fácil de Calçar Resistente para o Dia a Dia",
+      "title_norm": "tenis sapatenis masculino knit confortavel respiravel estilso facil de calcar resistente para o dia a dia",
+      "url": "https://shopee.com.br/product/954342223/23899355811",
+      "affiliate_url": "https://s.shopee.com.br/3LQqwYafm6",
+      "category": "DN VAREJO",
+      "bucket": "calcados",
+      "posted_ts": 1789463877,
+      "posted_at": "2026-09-15T09:17:57.826685+00:00",
+      "score": 104.25
+    },
+    {
+      "key": "shopee:23494401704",
+      "marketplace": "shopee",
+      "id": "23494401704",
+      "title": "Tênis Sapatênis Masculino Casual Trabalho Social Dia a Dia Jaca Qualidade",
+      "title_norm": "tenis sapatenis masculino casual trabalho social dia a dia jaca qualidade",
+      "url": "https://shopee.com.br/product/1631645339/23494401704",
+      "affiliate_url": "https://s.shopee.com.br/4VcoKhWEPF",
+      "category": "Vanessa shoes01",
+      "bucket": "calcados",
+      "posted_ts": 1789463810,
+      "posted_at": "2026-09-15T09:16:50.870370+00:00",
+      "score": 104.54
+    },
+    {
       "key": "mercadolivre:MLB4139317597",
       "marketplace": "mercadolivre",
       "id": "MLB4139317597",
@@ -13971,35 +13999,7 @@
       "posted_ts": 1788736671,
       "posted_at": "2026-09-06T23:17:51.718739+00:00",
       "score": 124.93
-    },
-    {
-      "key": "shopee:19699242179",
-      "marketplace": "shopee",
-      "id": "19699242179",
-      "title": "Kit C/12 Lenço Umedecido Lara Baby Premium 100 Unidades Total 1200",
-      "title_norm": "kit c 12 lenco umedecido lara baby premium 100 unidades total 1200",
-      "url": "https://shopee.com.br/product/1230684338/19699242179",
-      "affiliate_url": "https://s.shopee.com.br/1ABY6Qjpm",
-      "category": "Novva BPO ",
-      "bucket": "fraldas",
-      "posted_ts": 1788736607,
-      "posted_at": "2026-09-06T23:16:47.662168+00:00",
-      "score": 137.49
-    },
-    {
-      "key": "mercadolivre:MLB4657112471",
-      "marketplace": "mercadolivre",
-      "id": "MLB4657112471",
-      "title": "Smartphone Xiaomi Redmi 15c 256gb Global Azul",
-      "title_norm": "smartphone xiaomi redmi 15c 256gb global azul",
-      "url": "https://www.mercadolivre.com.br/p/MLB61421090?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB61421090?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "category": "Informática",
-      "bucket": "celulares",
-      "posted_ts": 1788735813,
-      "posted_at": "2026-09-06T23:03:33.197730+00:00",
-      "score": 127.0
     }
   ],
-  "updated_at": "2026-09-15T09:03:47.901851+00:00"
+  "updated_at": "2026-09-15T09:17:57.826699+00:00"
 }
