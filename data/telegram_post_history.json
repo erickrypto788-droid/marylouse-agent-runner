@@ -1,6 +1,48 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB3957584779",
+      "marketplace": "mercadolivre",
+      "id": "MLB3957584779",
+      "title": "Tecido Suplex Liso Amarelo de 5 Metros para Moda Fitness",
+      "title_norm": "tecido suplex liso amarelo de 5 metros para moda fitness",
+      "url": "https://www.mercadolivre.com.br/p/MLB45621460?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB45621460?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Esportes",
+      "bucket": "esportes",
+      "posted_ts": 1789441559,
+      "posted_at": "2026-09-15T03:05:59.666307+00:00",
+      "score": 88.0
+    },
+    {
+      "key": "mercadolivre:MLB4712632217",
+      "marketplace": "mercadolivre",
+      "id": "MLB4712632217",
+      "title": "Meia Calça Feminina Térmica Plus Size",
+      "title_norm": "meia calca feminina termica plus size",
+      "url": "https://www.mercadolivre.com.br/p/MLB66992733?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB66992733?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Moda Feminina",
+      "bucket": "moda_feminina",
+      "posted_ts": 1789441495,
+      "posted_at": "2026-09-15T03:04:55.432130+00:00",
+      "score": 88.0
+    },
+    {
+      "key": "mercadolivre:MLB5049841699",
+      "marketplace": "mercadolivre",
+      "id": "MLB5049841699",
+      "title": "Camiseta feminina modeladora",
+      "title_norm": "camiseta feminina modeladora",
+      "url": "https://www.mercadolivre.com.br/p/MLB59779508?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB59779508?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Moda Feminina",
+      "bucket": "moda_feminina",
+      "posted_ts": 1789441431,
+      "posted_at": "2026-09-15T03:03:51.185785+00:00",
+      "score": 88.0
+    },
+    {
       "key": "shopee:58263626064",
       "marketplace": "shopee",
       "id": "58263626064",
@@ -13957,49 +13999,7 @@
       "posted_ts": 1788715082,
       "posted_at": "2026-09-06T17:18:02.750627+00:00",
       "score": 152.21
-    },
-    {
-      "key": "shopee:21897981294",
-      "marketplace": "shopee",
-      "id": "21897981294",
-      "title": "Attracione Men (Perfume Masculino com Feromônios Ativados)",
-      "title_norm": "attracione men perfume masculino com feromonios ativados",
-      "url": "https://shopee.com.br/product/1266325318/21897981294",
-      "affiliate_url": "https://s.shopee.com.br/6fh2Z3J9Zj",
-      "category": "Attracione Men & Attracione",
-      "bucket": "beleza",
-      "posted_ts": 1788715012,
-      "posted_at": "2026-09-06T17:16:52.774324+00:00",
-      "score": 160.52
-    },
-    {
-      "key": "mercadolivre:MLB4552665179",
-      "marketplace": "mercadolivre",
-      "id": "MLB4552665179",
-      "title": "Whey Protein Concentrado + Whey Protein Isolado + Cafeína",
-      "title_norm": "whey protein concentrado whey protein isolado cafeina",
-      "url": "https://www.mercadolivre.com.br/p/MLB20818317?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB20818317?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "category": "Esportes",
-      "bucket": "esportes",
-      "posted_ts": 1788714227,
-      "posted_at": "2026-09-06T17:03:47.808130+00:00",
-      "score": 86.0
-    },
-    {
-      "key": "mercadolivre:MLB6827581422",
-      "marketplace": "mercadolivre",
-      "id": "MLB6827581422",
-      "title": "Prancha Esteira Ergometrica Kikos E600ix Preto",
-      "title_norm": "prancha esteira ergometrica kikos e600ix preto",
-      "url": "https://www.mercadolivre.com.br/p/MLB70114350?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB70114350?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "category": "Esportes",
-      "bucket": "esportes",
-      "posted_ts": 1788714158,
-      "posted_at": "2026-09-06T17:02:38.737672+00:00",
-      "score": 120.27
     }
   ],
-  "updated_at": "2026-09-15T02:21:07.683160+00:00"
+  "updated_at": "2026-09-15T03:05:59.666321+00:00"
 }
