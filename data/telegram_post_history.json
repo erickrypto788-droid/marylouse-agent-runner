@@ -1,6 +1,62 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB4623864041",
+      "marketplace": "mercadolivre",
+      "id": "MLB4623864041",
+      "title": "Condicionador Infantil 250ml Buba Care",
+      "title_norm": "condicionador infantil 250ml buba care",
+      "url": "https://www.mercadolivre.com.br/p/MLB29684586?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB29684586?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Beleza",
+      "bucket": "beleza",
+      "posted_ts": 1789438222,
+      "posted_at": "2026-09-15T02:10:22.997578+00:00",
+      "score": 88.0
+    },
+    {
+      "key": "mercadolivre:MLB6302363224",
+      "marketplace": "mercadolivre",
+      "id": "MLB6302363224",
+      "title": "35 Escova Dental + 35 Porta Escova Dental + 35 Creme Dental Sortidas",
+      "title_norm": "35 escova dental 35 porta escova dental 35 creme dental sortidas",
+      "url": "https://www.mercadolivre.com.br/p/MLB65932271?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB65932271?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Supermercados",
+      "bucket": "supermercados",
+      "posted_ts": 1789438158,
+      "posted_at": "2026-09-15T02:09:18.877615+00:00",
+      "score": 89.0
+    },
+    {
+      "key": "mercadolivre:MLB7634423068",
+      "marketplace": "mercadolivre",
+      "id": "MLB7634423068",
+      "title": "Kaisasa Coloração em Shampoo ，Shampoo Tonalizante Para Cobrir Cabelo Cinzento，shampoo cabelo branco，shampoo barba，hair dye shampoo，shampoo redutor grisalhos - Castanho Claro",
+      "title_norm": "kaisasa coloracao em shampoo shampoo tonalizante para cobrir cabelo cinzento shampoo cabelo branco shampoo barba hair dye shampoo shampoo redutor grisalhos castanho claro",
+      "url": "https://www.mercadolivre.com.br/p/MLB78611826?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB78611826?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Beleza",
+      "bucket": "pet",
+      "posted_ts": 1789438093,
+      "posted_at": "2026-09-15T02:08:13.535658+00:00",
+      "score": 113.0
+    },
+    {
+      "key": "mercadolivre:MLB6428938830",
+      "marketplace": "mercadolivre",
+      "id": "MLB6428938830",
+      "title": "Fralda Pampers Supersec M 30 Unidades",
+      "title_norm": "fralda pampers supersec m 30 unidades",
+      "url": "https://www.mercadolivre.com.br/p/MLB36175310?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB36175310?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Mãe e Bebê",
+      "bucket": "fraldas",
+      "posted_ts": 1789438027,
+      "posted_at": "2026-09-15T02:07:07.500461+00:00",
+      "score": 130.0
+    },
+    {
       "key": "shopee:23497904418",
       "marketplace": "shopee",
       "id": "23497904418",
@@ -13943,63 +13999,7 @@
       "posted_ts": 1788711411,
       "posted_at": "2026-09-06T16:16:51.799434+00:00",
       "score": 127.9
-    },
-    {
-      "key": "mercadolivre:MLB6512536586",
-      "marketplace": "mercadolivre",
-      "id": "MLB6512536586",
-      "title": "Vestido feminino casual feminino Guess, relógio esportivo, pulseira, cor dourada",
-      "title_norm": "vestido feminino casual feminino guess relogio esportivo pulseira cor dourada",
-      "url": "https://www.mercadolivre.com.br/p/MLB25981434?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB25981434?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "category": "Moda Feminina",
-      "bucket": "moda_feminina",
-      "posted_ts": 1788710571,
-      "posted_at": "2026-09-06T16:02:51.237542+00:00",
-      "score": 86.0
-    },
-    {
-      "key": "shopee:43781714813",
-      "marketplace": "shopee",
-      "id": "43781714813",
-      "title": "Fone De Ouvido Inpods 13 Bluetooth Sem Fio Com Microfone Fones esportivos Adequado Branco",
-      "title_norm": "fone de ouvido inpods 13 bluetooth sem fio com microfone fones esportivos adequado branco",
-      "url": "https://shopee.com.br/product/1378634997/43781714813",
-      "affiliate_url": "https://s.shopee.com.br/7AdLYK22fI",
-      "category": "LOJA_DO_POVO.br",
-      "bucket": "loja_do_povo_br",
-      "posted_ts": 1788707951,
-      "posted_at": "2026-09-06T15:19:11.440621+00:00",
-      "score": 91.87
-    },
-    {
-      "key": "shopee:58255159172",
-      "marketplace": "shopee",
-      "id": "58255159172",
-      "title": "Fones de ouvido sem fio Bluetooth compactos Xiaomi Redmi Airdots com Estojo Recarregável",
-      "title_norm": "fones de ouvido sem fio bluetooth compactos xiaomi redmi airdots com estojo recarregavel",
-      "url": "https://shopee.com.br/product/1382685526/58255159172",
-      "affiliate_url": "https://s.shopee.com.br/60ROAB6U23",
-      "category": "YNC COMERCIO LTDA",
-      "bucket": "celulares",
-      "posted_ts": 1788707880,
-      "posted_at": "2026-09-06T15:18:00.598594+00:00",
-      "score": 138.52
-    },
-    {
-      "key": "shopee:23399043568",
-      "marketplace": "shopee",
-      "id": "23399043568",
-      "title": "Fone Bluetooth Pro5 Premium | Imersão Total c Cancelamento Ruído Qualidade Superior p iPhoneAndroid",
-      "title_norm": "fone bluetooth pro5 premium imersao total c cancelamento ruido qualidade superior p iphoneandroid",
-      "url": "https://shopee.com.br/product/976285267/23399043568",
-      "affiliate_url": "https://s.shopee.com.br/5VV7ZG8O2s",
-      "category": "TOP SELECAO",
-      "bucket": "celulares",
-      "posted_ts": 1788707816,
-      "posted_at": "2026-09-06T15:16:56.257387+00:00",
-      "score": 139.27
     }
   ],
-  "updated_at": "2026-09-15T01:19:25.277873+00:00"
+  "updated_at": "2026-09-15T02:10:22.997592+00:00"
 }
