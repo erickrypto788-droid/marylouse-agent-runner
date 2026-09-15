@@ -1,6 +1,48 @@
 {
   "posts": [
     {
+      "key": "shopee:23893178722",
+      "marketplace": "shopee",
+      "id": "23893178722",
+      "title": "Blusa Manga Princesa Curta Elegante Tendência Moda Maior Plus Size Botão Moda Casual Tecido Dunas",
+      "title_norm": "blusa manga princesa curta elegante tendencia moda maior plus size botao moda casual tecido dunas",
+      "url": "https://shopee.com.br/product/1117831638/23893178722",
+      "affiliate_url": "https://s.shopee.com.br/gQ5hXqy9n",
+      "category": "Maria Gabi Moda",
+      "bucket": "calcados",
+      "posted_ts": 1789460357,
+      "posted_at": "2026-09-15T08:19:17.617831+00:00",
+      "score": 59.66
+    },
+    {
+      "key": "shopee:58209169630",
+      "marketplace": "shopee",
+      "id": "58209169630",
+      "title": "Vestido Plus Size   Elegante/ Festa Tecido Duna",
+      "title_norm": "vestido plus size elegante festa tecido duna",
+      "url": "https://shopee.com.br/product/1591632520/58209169630",
+      "affiliate_url": "https://s.shopee.com.br/8V8x1wRTlr",
+      "category": "Smille Fashion",
+      "bucket": "moda_feminina",
+      "posted_ts": 1789460290,
+      "posted_at": "2026-09-15T08:18:10.118085+00:00",
+      "score": 89.38
+    },
+    {
+      "key": "shopee:22294543781",
+      "marketplace": "shopee",
+      "id": "22294543781",
+      "title": "Calça Legging Bolha PLUS SIZE disfarça celulite",
+      "title_norm": "calca legging bolha plus size disfarca celulite",
+      "url": "https://shopee.com.br/product/1645205717/22294543781",
+      "affiliate_url": "https://s.shopee.com.br/3g3hH3skNf",
+      "category": "amfitbr",
+      "bucket": "moda_feminina",
+      "posted_ts": 1789460223,
+      "posted_at": "2026-09-15T08:17:03.410580+00:00",
+      "score": 92.8
+    },
+    {
       "key": "shopee:20699680911",
       "marketplace": "shopee",
       "id": "20699680911",
@@ -13957,49 +13999,7 @@
       "posted_ts": 1788733323,
       "posted_at": "2026-09-06T22:22:03.134594+00:00",
       "score": 100.9
-    },
-    {
-      "key": "shopee:43754234043",
-      "marketplace": "shopee",
-      "id": "43754234043",
-      "title": "Medidor Pressão Digital De Pulso Com Voz Monitor Inteligente Aparelho De Pressão",
-      "title_norm": "medidor pressao digital de pulso com voz monitor inteligente aparelho de pressao",
-      "url": "https://shopee.com.br/product/1259086167/43754234043",
-      "affiliate_url": "https://s.shopee.com.br/3LQdS6cGQn",
-      "category": "Cherrygo1.br",
-      "bucket": "cherrygo1_br",
-      "posted_ts": 1788733259,
-      "posted_at": "2026-09-06T22:20:59.104000+00:00",
-      "score": 106.93
-    },
-    {
-      "key": "shopee:50602409494",
-      "marketplace": "shopee",
-      "id": "50602409494",
-      "title": "Balança Corporal Transparente Quadrada Digital Até 180kg Com Vidro Temperado Premium - OliverHome",
-      "title_norm": "balanca corporal transparente quadrada digital ate 180kg com vidro temperado premium oliverhome",
-      "url": "https://shopee.com.br/product/1227023039/50602409494",
-      "affiliate_url": "https://s.shopee.com.br/2qULWmE8bs",
-      "category": "Dona Cor",
-      "bucket": "dona_cor",
-      "posted_ts": 1788733194,
-      "posted_at": "2026-09-06T22:19:54.820431+00:00",
-      "score": 114.51
-    },
-    {
-      "key": "shopee:20599334746",
-      "marketplace": "shopee",
-      "id": "20599334746",
-      "title": "Termômetro De Testa Infravermelha Digital",
-      "title_norm": "termometro de testa infravermelha digital",
-      "url": "https://shopee.com.br/product/1312114484/20599334746",
-      "affiliate_url": "https://s.shopee.com.br/1qbpfLmAUF",
-      "category": "HappyShop_",
-      "bucket": "saude",
-      "posted_ts": 1788733130,
-      "posted_at": "2026-09-06T22:18:50.775289+00:00",
-      "score": 146.55
     }
   ],
-  "updated_at": "2026-09-15T07:21:17.984851+00:00"
+  "updated_at": "2026-09-15T08:19:17.617857+00:00"
 }
