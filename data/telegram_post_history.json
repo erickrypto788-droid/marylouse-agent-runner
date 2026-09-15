@@ -1,6 +1,34 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB4109571517",
+      "marketplace": "mercadolivre",
+      "id": "MLB4109571517",
+      "title": "Alimento Royal Canin Hair & Skin 3kg Ração Gato",
+      "title_norm": "alimento royal canin hair skin 3kg racao gato",
+      "url": "https://www.mercadolivre.com.br/p/MLB28523781?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB28523781?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Pet",
+      "bucket": "pet",
+      "posted_ts": 1789484617,
+      "posted_at": "2026-09-15T15:03:37.224276+00:00",
+      "score": 122.92
+    },
+    {
+      "key": "mercadolivre:MLB4694661245",
+      "marketplace": "mercadolivre",
+      "id": "MLB4694661245",
+      "title": "Comedouro Elevado Duplo Ração Gato Porcelana Acrilico 190ml Porta Racao Gato Comedouro Rosa",
+      "title_norm": "comedouro elevado duplo racao gato porcelana acrilico 190ml porta racao gato comedouro rosa",
+      "url": "https://www.mercadolivre.com.br/p/MLB67529462?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB67529462?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Pet",
+      "bucket": "pet",
+      "posted_ts": 1789484553,
+      "posted_at": "2026-09-15T15:02:33.152297+00:00",
+      "score": 146.91
+    },
+    {
       "key": "shopee:23598771618",
       "marketplace": "shopee",
       "id": "23598771618",
@@ -13971,35 +13999,7 @@
       "posted_ts": 1788751070,
       "posted_at": "2026-09-07T03:17:50.287804+00:00",
       "score": 112.43
-    },
-    {
-      "key": "shopee:58258087449",
-      "marketplace": "shopee",
-      "id": "58258087449",
-      "title": "Mesa Dobrável Notebook Retrátil Home Office Apoio Cama Sofá Trabalho Café",
-      "title_norm": "mesa dobravel notebook retratil home office apoio cama sofa trabalho cafe",
-      "url": "https://shopee.com.br/product/1744660455/58258087449",
-      "affiliate_url": "https://s.shopee.com.br/3g3Sv1U4r5",
-      "category": "2 Get & Go ",
-      "bucket": "informatica",
-      "posted_ts": 1788751006,
-      "posted_at": "2026-09-07T03:16:46.127729+00:00",
-      "score": 130.76
-    },
-    {
-      "key": "mercadolivre:MLB4864941673",
-      "marketplace": "mercadolivre",
-      "id": "MLB4864941673",
-      "title": "Babá Eletrônica Hellobaby Hb66pro Monitor Bebê 3.2 White",
-      "title_norm": "baba eletronica hellobaby hb66pro monitor bebe 3 2 white",
-      "url": "https://www.mercadolivre.com.br/p/MLB51893724?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB51893724?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "category": "Informática",
-      "bucket": "informatica",
-      "posted_ts": 1788750233,
-      "posted_at": "2026-09-07T03:03:53.568953+00:00",
-      "score": 102.27
     }
   ],
-  "updated_at": "2026-09-15T14:21:24.615636+00:00"
+  "updated_at": "2026-09-15T15:03:37.224290+00:00"
 }

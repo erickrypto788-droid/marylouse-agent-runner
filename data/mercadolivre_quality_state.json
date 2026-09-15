@@ -1,6 +1,36 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB4109571517",
+      "product_id": "MLB4109571517",
+      "catalog_product_id": "MLB28523781",
+      "item_id": "MLB4109571517",
+      "url": "https://www.mercadolivre.com.br/p/MLB28523781?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB28523781?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "alimento royal canin hair skin 3kg racao gato",
+      "title": "Alimento Royal Canin Hair & Skin 3kg Ração Gato",
+      "category": "Pet",
+      "price": 257.0,
+      "score": 122.92,
+      "posted_ts": 1789484617,
+      "posted_at": "2026-09-15T15:03:37.238120+00:00"
+    },
+    {
+      "key": "mercadolivre:MLB4694661245",
+      "product_id": "MLB4694661245",
+      "catalog_product_id": "MLB67529462",
+      "item_id": "MLB4694661245",
+      "url": "https://www.mercadolivre.com.br/p/MLB67529462?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB67529462?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "comedouro elevado duplo racao gato porcelana acrilico 190ml porta racao gato comedouro rosa",
+      "title": "Comedouro Elevado Duplo Ração Gato Porcelana Acrilico 190ml Porta Racao Gato Comedouro Rosa",
+      "category": "Pet",
+      "price": 49.9,
+      "score": 146.91,
+      "posted_ts": 1789484553,
+      "posted_at": "2026-09-15T15:02:33.166236+00:00"
+    },
+    {
       "key": "mercadolivre:MLB5026800457",
       "product_id": "MLB5026800457",
       "catalog_product_id": "MLB20643765",
@@ -841,5 +871,5 @@
       "posted_at": "2026-09-13T16:11:07.872161+00:00"
     }
   ],
-  "updated_at": "2026-09-15T12:03:06.664622+00:00"
+  "updated_at": "2026-09-15T15:03:37.238129+00:00"
 }
