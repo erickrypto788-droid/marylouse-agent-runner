@@ -1,6 +1,20 @@
 {
   "posts": [
     {
+      "key": "shopee:58203391596",
+      "marketplace": "shopee",
+      "id": "58203391596",
+      "title": "pronta entrega envio imediato Sandália Saltinho 4 cm Tira de Strass Brilho  Calce Fácil Confortável elegante dia a dia",
+      "title_norm": "pronta entrega envio imediato sandalia saltinho 4 cm tira de strass brilho calce facil confortavel elegante dia a dia",
+      "url": "https://shopee.com.br/product/1715117439/58203391596",
+      "affiliate_url": "https://s.shopee.com.br/30o0c4rBcB",
+      "category": "finnaflorr",
+      "bucket": "calcados",
+      "posted_ts": 1789467423,
+      "posted_at": "2026-09-15T10:17:03.742708+00:00",
+      "score": 121.27
+    },
+    {
       "key": "shopee:23899355811",
       "marketplace": "shopee",
       "id": "23899355811",
@@ -13985,21 +13999,7 @@
       "posted_ts": 1788736735,
       "posted_at": "2026-09-06T23:18:55.767264+00:00",
       "score": 106.73
-    },
-    {
-      "key": "shopee:18097691606",
-      "marketplace": "shopee",
-      "id": "18097691606",
-      "title": "Toalha de Banho Fralda Soft com Capuz para Bebê  OU  Kit com 2, 3 ou 4 Toalhas",
-      "title_norm": "toalha de banho fralda soft com capuz para bebe ou kit com 2 3 ou 4 toalhas",
-      "url": "https://shopee.com.br/product/378105312/18097691606",
-      "affiliate_url": "https://s.shopee.com.br/7AdJUZTVqa",
-      "category": "EssencialBaby",
-      "bucket": "fraldas",
-      "posted_ts": 1788736671,
-      "posted_at": "2026-09-06T23:17:51.718739+00:00",
-      "score": 124.93
     }
   ],
-  "updated_at": "2026-09-15T09:17:57.826699+00:00"
+  "updated_at": "2026-09-15T10:17:03.742724+00:00"
 }
