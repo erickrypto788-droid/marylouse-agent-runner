@@ -1,6 +1,48 @@
 {
   "posts": [
     {
+      "key": "shopee:23497904418",
+      "marketplace": "shopee",
+      "id": "23497904418",
+      "title": "Mochila de Ombro Transversal Compacta Unilateral USB Trava de Código Resistente água",
+      "title_norm": "mochila de ombro transversal compacta unilateral usb trava de codigo resistente agua",
+      "url": "https://shopee.com.br/product/392260640/23497904418",
+      "affiliate_url": "https://s.shopee.com.br/80CfyClQ3e",
+      "category": "Good Vibes Moment Variedade Mochila",
+      "bucket": "bolsas",
+      "posted_ts": 1789435165,
+      "posted_at": "2026-09-15T01:19:25.277859+00:00",
+      "score": 108.49
+    },
+    {
+      "key": "shopee:23892712301",
+      "marketplace": "shopee",
+      "id": "23892712301",
+      "title": "Mochila Couro Masculina Reforçada Para Notebook Escolar Excecultivo Social",
+      "title_norm": "mochila couro masculina reforcada para notebook escolar excecultivo social",
+      "url": "https://shopee.com.br/product/379659209/23892712301",
+      "affiliate_url": "https://s.shopee.com.br/AUu0wngEWU",
+      "category": "magiaworld",
+      "bucket": "informatica",
+      "posted_ts": 1789435101,
+      "posted_at": "2026-09-15T01:18:21.218514+00:00",
+      "score": 119.82
+    },
+    {
+      "key": "shopee:18350470458",
+      "marketplace": "shopee",
+      "id": "18350470458",
+      "title": "Mochila Bolsa Reforçada Notebook Resistente Trabalho Faculdade Coreana",
+      "title_norm": "mochila bolsa reforcada notebook resistente trabalho faculdade coreana",
+      "url": "https://shopee.com.br/product/752743341/18350470458",
+      "affiliate_url": "https://s.shopee.com.br/8AW6AVkmih",
+      "category": "Fenix Abdon",
+      "bucket": "informatica",
+      "posted_ts": 1789435037,
+      "posted_at": "2026-09-15T01:17:17.228964+00:00",
+      "score": 122.46
+    },
+    {
       "key": "shopee:19198016301",
       "marketplace": "shopee",
       "id": "19198016301",
@@ -13957,49 +13999,7 @@
       "posted_ts": 1788707816,
       "posted_at": "2026-09-06T15:16:56.257387+00:00",
       "score": 139.27
-    },
-    {
-      "key": "mercadolivre:MLB5331790354",
-      "marketplace": "mercadolivre",
-      "id": "MLB5331790354",
-      "title": "Air fryer Br House Fritadeira ELETRICA AIR FRYER Air Fryer Family preto",
-      "title_norm": "air fryer br house fritadeira eletrica air fryer air fryer family preto",
-      "url": "https://www.mercadolivre.com.br/p/MLB45458466?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB45458466?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "category": "Casa e Cozinha",
-      "bucket": "casa_cozinha",
-      "posted_ts": 1788707140,
-      "posted_at": "2026-09-06T15:05:40.036882+00:00",
-      "score": 113.0
-    },
-    {
-      "key": "mercadolivre:MLB5428097608",
-      "marketplace": "mercadolivre",
-      "id": "MLB5428097608",
-      "title": "Rack Para Sala De Estar Rack Para Tv C/ Prateleira Flex Cor Off-white",
-      "title_norm": "rack para sala de estar rack para tv c prateleira flex cor off white",
-      "url": "https://www.mercadolivre.com.br/p/MLB39369998?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB39369998?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "category": "Casa e Cozinha",
-      "bucket": "casa_e_cozinha",
-      "posted_ts": 1788707068,
-      "posted_at": "2026-09-06T15:04:28.058060+00:00",
-      "score": 127.76
-    },
-    {
-      "key": "mercadolivre:MLB6738465128",
-      "marketplace": "mercadolivre",
-      "id": "MLB6738465128",
-      "title": "Cadeira Massagem Escritorio Cadeira Escritorio Presidente Cor Âmbar",
-      "title_norm": "cadeira massagem escritorio cadeira escritorio presidente cor ambar",
-      "url": "https://www.mercadolivre.com.br/p/MLB59413555?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB59413555?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "category": "Casa e Cozinha",
-      "bucket": "casa_e_cozinha",
-      "posted_ts": 1788706990,
-      "posted_at": "2026-09-06T15:03:10.630920+00:00",
-      "score": 162.11
     }
   ],
-  "updated_at": "2026-09-15T00:18:57.416405+00:00"
+  "updated_at": "2026-09-15T01:19:25.277873+00:00"
 }
