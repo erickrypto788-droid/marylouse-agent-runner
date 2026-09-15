@@ -1,6 +1,21 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB5120190903",
+      "product_id": "MLB5120190903",
+      "catalog_product_id": "MLB77976379",
+      "item_id": "MLB5120190903",
+      "url": "https://www.mercadolivre.com.br/p/MLB77976379?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB77976379?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "tecido paete tribal africano 1 30x1 50m vestido feminino cor preto",
+      "title": "Tecido Paetê Tribal Africano 1,30x1,50m Vestido Feminino Cor Preto",
+      "category": "Moda Feminina",
+      "price": 305.0,
+      "score": 86.0,
+      "posted_ts": 1789448576,
+      "posted_at": "2026-09-15T05:02:56.979426+00:00"
+    },
+    {
       "key": "mercadolivre:MLB5355035490",
       "product_id": "MLB5355035490",
       "catalog_product_id": "MLB48409016",
@@ -854,22 +869,7 @@
       "score": 113.0,
       "posted_ts": 1789283052,
       "posted_at": "2026-09-13T07:04:12.153934+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB5041528061",
-      "product_id": "MLB5041528061",
-      "catalog_product_id": "MLB43810473",
-      "item_id": "MLB5041528061",
-      "url": "https://www.mercadolivre.com.br/p/MLB43810473?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB43810473?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "kit ferramentas informatica cor preto",
-      "title": "Kit Ferramentas Informatica Cor Preto",
-      "category": "Ferramentas",
-      "price": 127.5,
-      "score": 88.0,
-      "posted_ts": 1789275743,
-      "posted_at": "2026-09-13T05:02:23.174372+00:00"
     }
   ],
-  "updated_at": "2026-09-15T04:05:08.847263+00:00"
+  "updated_at": "2026-09-15T05:02:56.979439+00:00"
 }

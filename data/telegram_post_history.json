@@ -1,6 +1,20 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB5120190903",
+      "marketplace": "mercadolivre",
+      "id": "MLB5120190903",
+      "title": "Tecido Paetê Tribal Africano 1,30x1,50m Vestido Feminino Cor Preto",
+      "title_norm": "tecido paete tribal africano 1 30x1 50m vestido feminino cor preto",
+      "url": "https://www.mercadolivre.com.br/p/MLB77976379?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB77976379?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Moda Feminina",
+      "bucket": "moda_feminina",
+      "posted_ts": 1789448576,
+      "posted_at": "2026-09-15T05:02:56.964124+00:00",
+      "score": 86.0
+    },
+    {
       "key": "shopee:46056558381",
       "marketplace": "shopee",
       "id": "46056558381",
@@ -13985,21 +13999,7 @@
       "posted_ts": 1788725928,
       "posted_at": "2026-09-06T20:18:48.543498+00:00",
       "score": 122.6
-    },
-    {
-      "key": "shopee:21798597083",
-      "marketplace": "shopee",
-      "id": "21798597083",
-      "title": "Patinete infantil 3 rodas com led ajustável scooter dobrável menino menina",
-      "title_norm": "patinete infantil 3 rodas com led ajustavel scooter dobravel menino menina",
-      "url": "https://shopee.com.br/product/325008325/21798597083",
-      "affiliate_url": "https://s.shopee.com.br/AUtnmuPoz0",
-      "category": "Na Web Group De Marcas",
-      "bucket": "na_web_group_de_marcas",
-      "posted_ts": 1788725864,
-      "posted_at": "2026-09-06T20:17:44.607489+00:00",
-      "score": 127.79
     }
   ],
-  "updated_at": "2026-09-15T04:21:12.091417+00:00"
+  "updated_at": "2026-09-15T05:02:56.964141+00:00"
 }
