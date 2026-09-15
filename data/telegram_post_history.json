@@ -1,6 +1,20 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB5026800457",
+      "marketplace": "mercadolivre",
+      "id": "MLB5026800457",
+      "title": "Carregador iPhone Tipo USB-C Cor Branco",
+      "title_norm": "carregador iphone tipo usb c cor branco",
+      "url": "https://www.mercadolivre.com.br/p/MLB20643765?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB20643765?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Informática",
+      "bucket": "celulares",
+      "posted_ts": 1789473786,
+      "posted_at": "2026-09-15T12:03:06.649566+00:00",
+      "score": 127.0
+    },
+    {
       "key": "shopee:58202199882",
       "marketplace": "shopee",
       "id": "58202199882",
@@ -13985,21 +13999,7 @@
       "posted_ts": 1788740340,
       "posted_at": "2026-09-07T00:19:00.771121+00:00",
       "score": 99.21
-    },
-    {
-      "key": "shopee:21099546181",
-      "marketplace": "shopee",
-      "id": "21099546181",
-      "title": "Bolsa Feminina Pequena de Ombro Impermeável, Mini Tiracolo de Couro para Trabalho e Festa",
-      "title_norm": "bolsa feminina pequena de ombro impermeavel mini tiracolo de couro para trabalho e festa",
-      "url": "https://shopee.com.br/product/1198407784/21099546181",
-      "affiliate_url": "https://s.shopee.com.br/qjIbkLozk",
-      "category": "Romantic Crown.02",
-      "bucket": "bolsas",
-      "posted_ts": 1788740276,
-      "posted_at": "2026-09-07T00:17:56.848759+00:00",
-      "score": 115.85
     }
   ],
-  "updated_at": "2026-09-15T11:20:26.074887+00:00"
+  "updated_at": "2026-09-15T12:03:06.649586+00:00"
 }
