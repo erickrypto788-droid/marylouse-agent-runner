@@ -1,6 +1,34 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB5209357839",
+      "marketplace": "mercadolivre",
+      "id": "MLB5209357839",
+      "title": "Impressora térmica Impressora de recibos Mini impressora Bluetooth Impressora térmica portátil ARCASHOPPING mini impressora térmica Impressora de recibos Bluetooth Mini impressora térmica portátil",
+      "title_norm": "impressora termica impressora de recibos mini impressora bluetooth impressora termica portatil arcashopping mini impressora termica impressora de recibos bluetooth mini impressora termica portatil",
+      "url": "https://www.mercadolivre.com.br/p/MLB76143330?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB76143330?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Informática",
+      "bucket": "informatica",
+      "posted_ts": 1789589071,
+      "posted_at": "2026-09-16T20:04:31.578725+00:00",
+      "score": 86.0
+    },
+    {
+      "key": "mercadolivre:MLB5237564467",
+      "marketplace": "mercadolivre",
+      "id": "MLB5237564467",
+      "title": "Ssd nvme M.2 256gb PM9B1",
+      "title_norm": "ssd nvme m 2 256gb pm9b1",
+      "url": "https://www.mercadolivre.com.br/p/MLB37332939?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB37332939?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Informática",
+      "bucket": "informatica",
+      "posted_ts": 1789589007,
+      "posted_at": "2026-09-16T20:03:27.455025+00:00",
+      "score": 111.0
+    },
+    {
       "key": "shopee:22398848141",
       "marketplace": "shopee",
       "id": "22398848141",
@@ -13971,35 +13999,7 @@
       "posted_ts": 1788848412,
       "posted_at": "2026-09-08T06:20:12.423551+00:00",
       "score": 78.51
-    },
-    {
-      "key": "shopee:45255565009",
-      "marketplace": "shopee",
-      "id": "45255565009",
-      "title": "Fones de Ouvido X55 TWS Mini Sleep Sem Fio Bluetooth com Display LED, Som Estéreo HIFI, IPX5 à Prova d’Água e",
-      "title_norm": "fones de ouvido x55 tws mini sleep sem fio bluetooth com display led som estereo hifi ipx5 a prova d agua e",
-      "url": "https://shopee.com.br/product/1006215031/45255565009",
-      "affiliate_url": "https://s.shopee.com.br/BTdo8UEpy",
-      "category": "Choice Oficial",
-      "bucket": "choice_oficial",
-      "posted_ts": 1788848340,
-      "posted_at": "2026-09-08T06:19:00.941914+00:00",
-      "score": 96.17
-    },
-    {
-      "key": "shopee:23093480302",
-      "marketplace": "shopee",
-      "id": "23093480302",
-      "title": "Basike Carregador Portátil Power Bank 20000mAh Bateria Externa Para iPhone Samsung Pow079",
-      "title_norm": "basike carregador portatil power bank 20000mah bateria externa para iphone samsung pow079",
-      "url": "https://shopee.com.br/product/1371911195/23093480302",
-      "affiliate_url": "https://s.shopee.com.br/7fZc9EmnmD",
-      "category": "Basike Loja Oficial",
-      "bucket": "celulares",
-      "posted_ts": 1788848272,
-      "posted_at": "2026-09-08T06:17:52.011537+00:00",
-      "score": 131.83
     }
   ],
-  "updated_at": "2026-09-16T19:21:13.038042+00:00"
+  "updated_at": "2026-09-16T20:04:31.578745+00:00"
 }

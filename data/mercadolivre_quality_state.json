@@ -1,6 +1,36 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB5209357839",
+      "product_id": "MLB5209357839",
+      "catalog_product_id": "MLB76143330",
+      "item_id": "MLB5209357839",
+      "url": "https://www.mercadolivre.com.br/p/MLB76143330?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB76143330?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "impressora termica impressora de recibos mini impressora bluetooth impressora termica portatil arcashopping mini impressora termica impressora de recibos bluetooth mini impressora termica portatil",
+      "title": "Impressora térmica Impressora de recibos Mini impressora Bluetooth Impressora térmica portátil ARCASHOPPING mini impressora térmica Impressora de recibos Bluetooth Mini impressora térmica portátil",
+      "category": "Informática",
+      "price": 330.0,
+      "score": 86.0,
+      "posted_ts": 1789589071,
+      "posted_at": "2026-09-16T20:04:31.593057+00:00"
+    },
+    {
+      "key": "mercadolivre:MLB5237564467",
+      "product_id": "MLB5237564467",
+      "catalog_product_id": "MLB37332939",
+      "item_id": "MLB5237564467",
+      "url": "https://www.mercadolivre.com.br/p/MLB37332939?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB37332939?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "ssd nvme m 2 256gb pm9b1",
+      "title": "Ssd nvme M.2 256gb PM9B1",
+      "category": "Informática",
+      "price": 346.0,
+      "score": 111.0,
+      "posted_ts": 1789589007,
+      "posted_at": "2026-09-16T20:03:27.469735+00:00"
+    },
+    {
       "key": "mercadolivre:MLB5227390237",
       "product_id": "MLB5227390237",
       "catalog_product_id": "MLB74370100",
@@ -599,22 +629,7 @@
       "score": 156.96,
       "posted_ts": 1789430555,
       "posted_at": "2026-09-15T00:02:35.391908+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB7350489426",
-      "product_id": "MLB7350489426",
-      "catalog_product_id": "MLB74419020",
-      "item_id": "MLB7350489426",
-      "url": "https://www.mercadolivre.com.br/p/MLB74419020?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB74419020?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "xiaomi redmi note 15",
-      "title": "Xiaomi Redmi Note 15",
-      "category": "Informática",
-      "price": 1799.0,
-      "score": 124.0,
-      "posted_ts": 1789412561,
-      "posted_at": "2026-09-14T19:02:41.550326+00:00"
     }
   ],
-  "updated_at": "2026-09-16T17:03:58.530647+00:00"
+  "updated_at": "2026-09-16T20:04:31.593073+00:00"
 }
