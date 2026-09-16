@@ -1,6 +1,34 @@
 {
   "posts": [
     {
+      "key": "shopee:23998082220",
+      "marketplace": "shopee",
+      "id": "23998082220",
+      "title": "Vídeo Game Portátil  polegadas 10 Mil Jogos  Classicos Retro BOY Classicos",
+      "title_norm": "video game portatil polegadas 10 mil jogos classicos retro boy classicos",
+      "url": "https://shopee.com.br/product/1064041485/23998082220",
+      "affiliate_url": "https://s.shopee.com.br/3VkJT5VdjP",
+      "category": "LuxeElectra",
+      "bucket": "luxeelectra",
+      "posted_ts": 1789589885,
+      "posted_at": "2026-09-16T20:18:05.152403+00:00",
+      "score": 67.99
+    },
+    {
+      "key": "shopee:23898328187",
+      "marketplace": "shopee",
+      "id": "23898328187",
+      "title": "2025 Videogame Portatil Tela 5.8\" /4.8\" +10000 Jogos Retro 16GB, Console de Mão Memoria Expansivel",
+      "title_norm": "2025 videogame portatil tela 5 8 4 8 10000 jogos retro 16gb console de mao memoria expansivel",
+      "url": "https://shopee.com.br/product/872424585/23898328187",
+      "affiliate_url": "https://s.shopee.com.br/3LQtGmWH4M",
+      "category": "lojamegas",
+      "bucket": "lojamegas",
+      "posted_ts": 1789589817,
+      "posted_at": "2026-09-16T20:16:57.298550+00:00",
+      "score": 71.51
+    },
+    {
       "key": "mercadolivre:MLB5209357839",
       "marketplace": "mercadolivre",
       "id": "MLB5209357839",
@@ -13971,35 +13999,7 @@
       "posted_ts": 1788851826,
       "posted_at": "2026-09-08T07:17:06.539889+00:00",
       "score": 114.87
-    },
-    {
-      "key": "mercadolivre:MLB4353924282",
-      "marketplace": "mercadolivre",
-      "id": "MLB4353924282",
-      "title": "Mesa Computador Escrivaninha Notebook Gamer cor branco AJL",
-      "title_norm": "mesa computador escrivaninha notebook gamer cor branco ajl",
-      "url": "https://www.mercadolivre.com.br/p/MLB29479675?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB29479675?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "category": "Informática",
-      "bucket": "informatica",
-      "posted_ts": 1788850993,
-      "posted_at": "2026-09-08T07:03:13.022106+00:00",
-      "score": 113.0
-    },
-    {
-      "key": "shopee:23194677648",
-      "marketplace": "shopee",
-      "id": "23194677648",
-      "title": "Capa Case Capinha Anti Impacto \\ + Película 3D Vidro Temperado Para Samsung s20 s21 s22 s23 s24 s25 FE plus",
-      "title_norm": "capa case capinha anti impacto pelicula 3d vidro temperado para samsung s20 s21 s22 s23 s24 s25 fe plus",
-      "url": "https://shopee.com.br/product/883556645/23194677648",
-      "affiliate_url": "https://s.shopee.com.br/30npBLAaEq",
-      "category": "TzSpark Importacao e ExportacaO",
-      "bucket": "tzspark_importacao_e_exportacao",
-      "posted_ts": 1788848412,
-      "posted_at": "2026-09-08T06:20:12.423551+00:00",
-      "score": 78.51
     }
   ],
-  "updated_at": "2026-09-16T20:04:31.578745+00:00"
+  "updated_at": "2026-09-16T20:18:05.152416+00:00"
 }
