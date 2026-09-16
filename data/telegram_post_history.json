@@ -1,6 +1,34 @@
 {
   "posts": [
     {
+      "key": "shopee:19198992648",
+      "marketplace": "shopee",
+      "id": "19198992648",
+      "title": "Sapatenis Casual Masculino Sneaker Sola Alta Macio Chunky Confortável Estiloso Sola Oversize Lanç",
+      "title_norm": "sapatenis casual masculino sneaker sola alta macio chunky confortavel estiloso sola oversize lanc",
+      "url": "https://shopee.com.br/product/304755339/19198992648",
+      "affiliate_url": "https://s.shopee.com.br/40gZ4ByAGY",
+      "category": "Atria Shoes",
+      "bucket": "calcados",
+      "posted_ts": 1789535869,
+      "posted_at": "2026-09-16T05:17:49.821834+00:00",
+      "score": 108.02
+    },
+    {
+      "key": "shopee:58210080994",
+      "marketplace": "shopee",
+      "id": "58210080994",
+      "title": "Tênis Masculino Cadarço Elástico Sapatênis Meia Knit Couro Sintético Tecido",
+      "title_norm": "tenis masculino cadarco elastico sapatenis meia knit couro sintetico tecido",
+      "url": "https://shopee.com.br/product/1788702793/58210080994",
+      "affiliate_url": "https://s.shopee.com.br/50Z6G1uMEm",
+      "category": "Shop da Ca",
+      "bucket": "calcados",
+      "posted_ts": 1789535805,
+      "posted_at": "2026-09-16T05:16:45.583305+00:00",
+      "score": 110.78
+    },
+    {
       "key": "mercadolivre:MLB4485123021",
       "marketplace": "mercadolivre",
       "id": "MLB4485123021",
@@ -13971,35 +13999,7 @@
       "posted_ts": 1788797994,
       "posted_at": "2026-09-07T16:19:54.467208+00:00",
       "score": 105.14
-    },
-    {
-      "key": "shopee:58057297261",
-      "marketplace": "shopee",
-      "id": "58057297261",
-      "title": "Brinquedo De Pelúcia De Banana Com Música Sensor De Movimento , Bicho Macio Para Recém-Nascidos , Aniversário Interativo",
-      "title_norm": "brinquedo de pelucia de banana com musica sensor de movimento bicho macio para recem nascidos aniversario interativo",
-      "url": "https://shopee.com.br/product/1006215031/58057297261",
-      "affiliate_url": "https://s.shopee.com.br/AUtnv9UjDo",
-      "category": "Choice Oficial",
-      "bucket": "choice_oficial",
-      "posted_ts": 1788797930,
-      "posted_at": "2026-09-07T16:18:50.482092+00:00",
-      "score": 106.28
-    },
-    {
-      "key": "shopee:44505874242",
-      "marketplace": "shopee",
-      "id": "44505874242",
-      "title": "Conjunto De Balões De Folha De Alumínio Hot Wheels Para Carros De Corrida , Decoração De Festa De Aniversário Infantil",
-      "title_norm": "conjunto de baloes de folha de aluminio hot wheels para carros de corrida decoracao de festa de aniversario infantil",
-      "url": "https://shopee.com.br/product/1705375618/44505874242",
-      "affiliate_url": "https://s.shopee.com.br/AUtpBREmRu",
-      "category": "chuntian990.br",
-      "bucket": "pet",
-      "posted_ts": 1788797866,
-      "posted_at": "2026-09-07T16:17:46.539135+00:00",
-      "score": 109.16
     }
   ],
-  "updated_at": "2026-09-16T05:04:09.300606+00:00"
+  "updated_at": "2026-09-16T05:17:49.821848+00:00"
 }
