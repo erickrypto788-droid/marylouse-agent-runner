@@ -1,6 +1,48 @@
 {
   "posts": [
     {
+      "key": "shopee:23294841043",
+      "marketplace": "shopee",
+      "id": "23294841043",
+      "title": "Papete feminina Tiras Pedraria Strass Sola Confort",
+      "title_norm": "papete feminina tiras pedraria strass sola confort",
+      "url": "https://shopee.com.br/product/1739016198/23294841043",
+      "affiliate_url": "https://s.shopee.com.br/3LQsL5TggA",
+      "category": "sandaliasvalbelle",
+      "bucket": "pet",
+      "posted_ts": 1789539556,
+      "posted_at": "2026-09-16T06:19:16.870175+00:00",
+      "score": 78.41
+    },
+    {
+      "key": "shopee:22892923302",
+      "marketplace": "shopee",
+      "id": "22892923302",
+      "title": "Sapato Feminino Shekinah Scarpin Bico Fino Salto Bloco Grosso Noiva Casamento",
+      "title_norm": "sapato feminino shekinah scarpin bico fino salto bloco grosso noiva casamento",
+      "url": "https://shopee.com.br/product/375175329/22892923302",
+      "affiliate_url": "https://s.shopee.com.br/5LBwil8sIu",
+      "category": "Shekinah Calçados",
+      "bucket": "calcados",
+      "posted_ts": 1789539473,
+      "posted_at": "2026-09-16T06:17:53.983968+00:00",
+      "score": 94.76
+    },
+    {
+      "key": "shopee:22598314126",
+      "marketplace": "shopee",
+      "id": "22598314126",
+      "title": "Bota Botina Feminina Texana Macia Country Cowboy Bico Quadrado Confortável Zíper E Rebites",
+      "title_norm": "bota botina feminina texana macia country cowboy bico quadrado confortavel ziper e rebites",
+      "url": "https://shopee.com.br/product/1318905115/22598314126",
+      "affiliate_url": "https://s.shopee.com.br/9peM524wTx",
+      "category": "F_MIX",
+      "bucket": "calcados",
+      "posted_ts": 1789539409,
+      "posted_at": "2026-09-16T06:16:49.901579+00:00",
+      "score": 108.91
+    },
+    {
       "key": "shopee:19198992648",
       "marketplace": "shopee",
       "id": "19198992648",
@@ -13957,49 +13999,7 @@
       "posted_ts": 1788801466,
       "posted_at": "2026-09-07T17:17:46.271357+00:00",
       "score": 135.93
-    },
-    {
-      "key": "shopee:58262310122",
-      "marketplace": "shopee",
-      "id": "58262310122",
-      "title": "Medidor de pressão arterial digital + tensiômetros +Termômetro infravermelho + oxímetro de dedo",
-      "title_norm": "medidor de pressao arterial digital tensiometros termometro infravermelho oximetro de dedo",
-      "url": "https://shopee.com.br/product/1569849623/58262310122",
-      "affiliate_url": "https://s.shopee.com.br/8KpKfZuH9A",
-      "category": "CASA TOP SHOP",
-      "bucket": "saude",
-      "posted_ts": 1788801402,
-      "posted_at": "2026-09-07T17:16:42.319578+00:00",
-      "score": 140.09
-    },
-    {
-      "key": "shopee:41125555288",
-      "marketplace": "shopee",
-      "id": "41125555288",
-      "title": "Bebe Menino Barato Reborn Silicone Original Envio Imediato",
-      "title_norm": "bebe menino barato reborn silicone original envio imediato",
-      "url": "https://shopee.com.br/product/338155653/41125555288",
-      "affiliate_url": "https://s.shopee.com.br/5q7yMZmUgy",
-      "category": "Princesa reborn GM",
-      "bucket": "princesa_reborn_gm",
-      "posted_ts": 1788798058,
-      "posted_at": "2026-09-07T16:20:58.418839+00:00",
-      "score": 103.92
-    },
-    {
-      "key": "shopee:23994283505",
-      "marketplace": "shopee",
-      "id": "23994283505",
-      "title": "Brinquedo espiral centopéia com chocalho, macio, ideal para carrinhos e presentes de recém-nascidos",
-      "title_norm": "brinquedo espiral centopeia com chocalho macio ideal para carrinhos e presentes de recem nascidos",
-      "url": "https://shopee.com.br/product/492409068/23994283505",
-      "affiliate_url": "https://s.shopee.com.br/9pe8ODYqeH",
-      "category": "L&Q shop",
-      "bucket": "l_q_shop",
-      "posted_ts": 1788797994,
-      "posted_at": "2026-09-07T16:19:54.467208+00:00",
-      "score": 105.14
     }
   ],
-  "updated_at": "2026-09-16T05:17:49.821848+00:00"
+  "updated_at": "2026-09-16T06:19:16.870190+00:00"
 }
