@@ -1,6 +1,48 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB6425142428",
+      "marketplace": "mercadolivre",
+      "id": "MLB6425142428",
+      "title": "Fralda Pampers Confort Sec G 38 Unidades",
+      "title_norm": "fralda pampers confort sec g 38 unidades",
+      "url": "https://www.mercadolivre.com.br/p/MLB33581064?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB33581064?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Mãe e Bebê",
+      "bucket": "fraldas",
+      "posted_ts": 1789560518,
+      "posted_at": "2026-09-16T12:08:38.564613+00:00",
+      "score": 130.0
+    },
+    {
+      "key": "mercadolivre:MLB4986648039",
+      "marketplace": "mercadolivre",
+      "id": "MLB4986648039",
+      "title": "Condicionador Senscience True Hue Violet Condicionador 1000ml",
+      "title_norm": "condicionador senscience true hue violet condicionador 1000ml",
+      "url": "https://www.mercadolivre.com.br/p/MLB25330354?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB25330354?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Beleza",
+      "bucket": "beleza",
+      "posted_ts": 1789560454,
+      "posted_at": "2026-09-16T12:07:34.401249+00:00",
+      "score": 133.4
+    },
+    {
+      "key": "mercadolivre:MLB4219197703",
+      "marketplace": "mercadolivre",
+      "id": "MLB4219197703",
+      "title": "Azeite Oliva Extra Virgem Português Vila Oliva 500ml (3 Un)",
+      "title_norm": "azeite oliva extra virgem portugues vila oliva 500ml 3 un",
+      "url": "https://www.mercadolivre.com.br/p/MLB34684493?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB34684493?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Supermercados",
+      "bucket": "supermercado",
+      "posted_ts": 1789560389,
+      "posted_at": "2026-09-16T12:06:29.644490+00:00",
+      "score": 141.22
+    },
+    {
       "key": "shopee:41279675026",
       "marketplace": "shopee",
       "id": "41279675026",
@@ -13957,49 +13999,7 @@
       "posted_ts": 1788822379,
       "posted_at": "2026-09-07T23:06:19.521601+00:00",
       "score": 130.0
-    },
-    {
-      "key": "shopee:43963869218",
-      "marketplace": "shopee",
-      "id": "43963869218",
-      "title": "Leitor De Cartão lightnng Para SD Tipo C 2 Em 2",
-      "title_norm": "leitor de cartao lightnng para sd tipo c 2 em 2",
-      "url": "https://shopee.com.br/product/1006215031/43963869218",
-      "affiliate_url": "https://s.shopee.com.br/4fw1N9j6jv",
-      "category": "Choice Oficial",
-      "bucket": "choice_oficial",
-      "posted_ts": 1788819663,
-      "posted_at": "2026-09-07T22:21:03.798458+00:00",
-      "score": 92.11
-    },
-    {
-      "key": "shopee:58208966152",
-      "marketplace": "shopee",
-      "id": "58208966152",
-      "title": "Webcam Full HD 1080p com Microfone Embutido - Widescreen USB, Ideal para Videoconferências e Chamadas Online",
-      "title_norm": "webcam full hd 1080p com microfone embutido widescreen usb ideal para videoconferencias e chamadas online",
-      "url": "https://shopee.com.br/product/1744102949/58208966152",
-      "affiliate_url": "https://s.shopee.com.br/4VccR8prTC",
-      "category": "Perfin Loja Oficial",
-      "bucket": "perfin_loja_oficial",
-      "posted_ts": 1788819599,
-      "posted_at": "2026-09-07T22:19:59.168543+00:00",
-      "score": 98.11
-    },
-    {
-      "key": "shopee:22899651314",
-      "marketplace": "shopee",
-      "id": "22899651314",
-      "title": "Hub USB Type C 8 Em 1 Com Leitor De Cartão Divisor 3.0 2.0 SD TF Docking Station-Aprox",
-      "title_norm": "hub usb type c 8 em 1 com leitor de cartao divisor 3 0 2 0 sd tf docking station aprox",
-      "url": "https://shopee.com.br/product/1337284628/22899651314",
-      "affiliate_url": "https://s.shopee.com.br/5LBiANgZO6",
-      "category": "APROX",
-      "bucket": "aprox",
-      "posted_ts": 1788819535,
-      "posted_at": "2026-09-07T22:18:55.062643+00:00",
-      "score": 100.64
     }
   ],
-  "updated_at": "2026-09-16T11:21:16.209483+00:00"
+  "updated_at": "2026-09-16T12:08:38.564624+00:00"
 }
