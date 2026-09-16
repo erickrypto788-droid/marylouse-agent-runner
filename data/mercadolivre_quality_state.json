@@ -1,6 +1,36 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB4040219599",
+      "product_id": "MLB4040219599",
+      "catalog_product_id": "MLB36244629",
+      "item_id": "MLB4040219599",
+      "url": "https://www.mercadolivre.com.br/p/MLB36244629?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB36244629?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "calca feminina tamanho m texx impermeavel com protecao conforto viagem moto motociclista",
+      "title": "Calça Feminina Tamanho M Texx Impermeável Com Proteção Conforto Viagem Moto Motociclista",
+      "category": "Moda Feminina",
+      "price": 399.0,
+      "score": 86.0,
+      "posted_ts": 1789563900,
+      "posted_at": "2026-09-16T13:05:00.899858+00:00"
+    },
+    {
+      "key": "mercadolivre:MLB7209542710",
+      "product_id": "MLB7209542710",
+      "catalog_product_id": "MLB69276346",
+      "item_id": "MLB7209542710",
+      "url": "https://www.mercadolivre.com.br/p/MLB69276346?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB69276346?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "calca legging fitness feminina ausare com protecao uv 50 para academia yoga e pilates",
+      "title": "Calça Legging Fitness Feminina Ausare com Proteção UV 50+ para Academia, Yoga e Pilates",
+      "category": "Moda Feminina",
+      "price": 78.9,
+      "score": 88.0,
+      "posted_ts": 1789563836,
+      "posted_at": "2026-09-16T13:03:56.696840+00:00"
+    },
+    {
       "key": "mercadolivre:MLB6425142428",
       "product_id": "MLB6425142428",
       "catalog_product_id": "MLB33581064",
@@ -599,37 +629,7 @@
       "score": 119.78,
       "posted_ts": 1789394543,
       "posted_at": "2026-09-14T14:02:23.591436+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB7359539976",
-      "product_id": "MLB7359539976",
-      "catalog_product_id": "MLB18603556",
-      "item_id": "MLB7359539976",
-      "url": "https://www.mercadolivre.com.br/p/MLB18603556?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB18603556?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "bike spinning kikos max ks5 preto",
-      "title": "Bike Spinning Kikos Max-ks5 Preto",
-      "category": "Esportes",
-      "price": 2719.0,
-      "score": 84.0,
-      "posted_ts": 1789391032,
-      "posted_at": "2026-09-14T13:03:52.394437+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB3979242465",
-      "product_id": "MLB3979242465",
-      "catalog_product_id": "MLB42620940",
-      "item_id": "MLB3979242465",
-      "url": "https://www.mercadolivre.com.br/p/MLB42620940?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB42620940?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "prancha esteira ergometrica dream dr2110 cor preto",
-      "title": "Prancha Esteira Ergometrica Dream Dr2110 Cor Preto",
-      "category": "Esportes",
-      "price": 185.24,
-      "score": 88.0,
-      "posted_ts": 1789390968,
-      "posted_at": "2026-09-14T13:02:48.134915+00:00"
     }
   ],
-  "updated_at": "2026-09-16T12:08:38.573092+00:00"
+  "updated_at": "2026-09-16T13:05:00.899869+00:00"
 }
