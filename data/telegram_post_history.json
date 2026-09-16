@@ -1,6 +1,20 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB5179437451",
+      "marketplace": "mercadolivre",
+      "id": "MLB5179437451",
+      "title": "Ssd Nvme Kingston 1tb Nv3 M.2 2280 Pcie 4.0 Nf-e Cor Ssd Nvme M.2 2280 Kingston 1tb",
+      "title_norm": "ssd nvme kingston 1tb nv3 m 2 2280 pcie 4 0 nf e cor ssd nvme m 2 2280 kingston 1tb",
+      "url": "https://www.mercadolivre.com.br/p/MLB50957106?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB50957106?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Informática",
+      "bucket": "informatica",
+      "posted_ts": 1789527772,
+      "posted_at": "2026-09-16T03:02:52.880135+00:00",
+      "score": 111.0
+    },
+    {
       "key": "shopee:58261931915",
       "marketplace": "shopee",
       "id": "58261931915",
@@ -13985,21 +13999,7 @@
       "posted_ts": 1788790613,
       "posted_at": "2026-09-07T14:16:53.320435+00:00",
       "score": 114.56
-    },
-    {
-      "key": "mercadolivre:MLB5653921846",
-      "marketplace": "mercadolivre",
-      "id": "MLB5653921846",
-      "title": "Monitor 24 Polegadas 1920x1200px Vga Hdmi 5ms Rápido",
-      "title_norm": "monitor 24 polegadas 1920x1200px vga hdmi 5ms rapido",
-      "url": "https://www.mercadolivre.com.br/p/MLB45798788?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB45798788?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "category": "Informática",
-      "bucket": "informatica",
-      "posted_ts": 1788789794,
-      "posted_at": "2026-09-07T14:03:14.652187+00:00",
-      "score": 86.0
     }
   ],
-  "updated_at": "2026-09-16T02:21:22.827884+00:00"
+  "updated_at": "2026-09-16T03:02:52.880150+00:00"
 }

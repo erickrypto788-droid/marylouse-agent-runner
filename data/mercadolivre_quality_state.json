@@ -1,6 +1,21 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB5179437451",
+      "product_id": "MLB5179437451",
+      "catalog_product_id": "MLB50957106",
+      "item_id": "MLB5179437451",
+      "url": "https://www.mercadolivre.com.br/p/MLB50957106?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB50957106?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "ssd nvme kingston 1tb nv3 m 2 2280 pcie 4 0 nf e cor ssd nvme m 2 2280 kingston 1tb",
+      "title": "Ssd Nvme Kingston 1tb Nv3 M.2 2280 Pcie 4.0 Nf-e Cor Ssd Nvme M.2 2280 Kingston 1tb",
+      "category": "Informática",
+      "price": 1049.99,
+      "score": 111.0,
+      "posted_ts": 1789527772,
+      "posted_at": "2026-09-16T03:02:52.893875+00:00"
+    },
+    {
       "key": "mercadolivre:MLB6149389980",
       "product_id": "MLB6149389980",
       "catalog_product_id": "MLB37180897",
@@ -706,5 +721,5 @@
       "posted_at": "2026-09-14T05:02:28.782995+00:00"
     }
   ],
-  "updated_at": "2026-09-16T02:04:11.836099+00:00"
+  "updated_at": "2026-09-16T03:02:52.893885+00:00"
 }
