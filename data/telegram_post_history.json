@@ -1,6 +1,34 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB5227390237",
+      "marketplace": "mercadolivre",
+      "id": "MLB5227390237",
+      "title": "Chapinha Cabelo Profissional 450f Slim Bivolt, Titanium",
+      "title_norm": "chapinha cabelo profissional 450f slim bivolt titanium",
+      "url": "https://www.mercadolivre.com.br/p/MLB74370100?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB74370100?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Beleza",
+      "bucket": "beleza",
+      "posted_ts": 1789578238,
+      "posted_at": "2026-09-16T17:03:58.521927+00:00",
+      "score": 113.0
+    },
+    {
+      "key": "mercadolivre:MLB5209308351",
+      "marketplace": "mercadolivre",
+      "id": "MLB5209308351",
+      "title": "Perfume Feminino Olympia",
+      "title_norm": "perfume feminino olympia",
+      "url": "https://www.mercadolivre.com.br/p/MLB77039877?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB77039877?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Beleza",
+      "bucket": "beleza",
+      "posted_ts": 1789578167,
+      "posted_at": "2026-09-16T17:02:47.026622+00:00",
+      "score": 188.67
+    },
+    {
       "key": "shopee:22191925108",
       "marketplace": "shopee",
       "id": "22191925108",
@@ -13971,35 +13999,7 @@
       "posted_ts": 1788834009,
       "posted_at": "2026-09-08T02:20:09.715862+00:00",
       "score": 100.16
-    },
-    {
-      "key": "shopee:23499514374",
-      "marketplace": "shopee",
-      "id": "23499514374",
-      "title": "Camisa Social Masculina Manga Longa Slim Fit Muito Elastano com Botão Tecnológica",
-      "title_norm": "camisa social masculina manga longa slim fit muito elastano com botao tecnologica",
-      "url": "https://shopee.com.br/product/631628506/23499514374",
-      "affiliate_url": "https://s.shopee.com.br/gPu8ZeaX2",
-      "category": "RBG Clothing",
-      "bucket": "calcados",
-      "posted_ts": 1788833945,
-      "posted_at": "2026-09-08T02:19:05.752022+00:00",
-      "score": 102.67
-    },
-    {
-      "key": "shopee:41933116210",
-      "marketplace": "shopee",
-      "id": "41933116210",
-      "title": "Kit com 10 ou 5 Cuecas Boxer Premium Masculina Extremamente Confortável Cueca Box",
-      "title_norm": "kit com 10 ou 5 cuecas boxer premium masculina extremamente confortavel cueca box",
-      "url": "https://shopee.com.br/product/346235717/41933116210",
-      "affiliate_url": "https://s.shopee.com.br/BTcHMwmgB",
-      "category": "HeyBox­­",
-      "bucket": "heybox",
-      "posted_ts": 1788833874,
-      "posted_at": "2026-09-08T02:17:54.434318+00:00",
-      "score": 103.43
     }
   ],
-  "updated_at": "2026-09-16T16:18:52.829619+00:00"
+  "updated_at": "2026-09-16T17:03:58.521940+00:00"
 }

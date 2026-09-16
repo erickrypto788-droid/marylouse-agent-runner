@@ -1,6 +1,36 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB5227390237",
+      "product_id": "MLB5227390237",
+      "catalog_product_id": "MLB74370100",
+      "item_id": "MLB5227390237",
+      "url": "https://www.mercadolivre.com.br/p/MLB74370100?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB74370100?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "chapinha cabelo profissional 450f slim bivolt titanium",
+      "title": "Chapinha Cabelo Profissional 450f Slim Bivolt, Titanium",
+      "category": "Beleza",
+      "price": 64.99,
+      "score": 113.0,
+      "posted_ts": 1789578238,
+      "posted_at": "2026-09-16T17:03:58.530640+00:00"
+    },
+    {
+      "key": "mercadolivre:MLB5209308351",
+      "product_id": "MLB5209308351",
+      "catalog_product_id": "MLB77039877",
+      "item_id": "MLB5209308351",
+      "url": "https://www.mercadolivre.com.br/p/MLB77039877?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB77039877?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "perfume feminino olympia",
+      "title": "Perfume Feminino Olympia",
+      "category": "Beleza",
+      "price": 184.0,
+      "score": 188.67,
+      "posted_ts": 1789578167,
+      "posted_at": "2026-09-16T17:02:47.035502+00:00"
+    },
+    {
       "key": "mercadolivre:MLB4095236823",
       "product_id": "MLB4095236823",
       "catalog_product_id": "MLB32947723",
@@ -584,52 +614,7 @@
       "score": 124.0,
       "posted_ts": 1789412561,
       "posted_at": "2026-09-14T19:02:41.550326+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB5653921846",
-      "product_id": "MLB5653921846",
-      "catalog_product_id": "MLB45798788",
-      "item_id": "MLB5653921846",
-      "url": "https://www.mercadolivre.com.br/p/MLB45798788?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB45798788?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "monitor 24 polegadas 1920x1200px vga hdmi 5ms rapido",
-      "title": "Monitor 24 Polegadas 1920x1200px Vga Hdmi 5ms Rápido",
-      "category": "Informática",
-      "price": 565.0,
-      "score": 86.0,
-      "posted_ts": 1789405414,
-      "posted_at": "2026-09-14T17:03:34.563667+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB7634976292",
-      "product_id": "MLB7634976292",
-      "catalog_product_id": "MLB78811728",
-      "item_id": "MLB7634976292",
-      "url": "https://www.mercadolivre.com.br/p/MLB78811728?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB78811728?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "impressora bluetooth mini impressora de etiquetas impressora bluetooth termica mini impressora portatil bluetooth para etiquetas codigos de barras impressao nitida conexao rapida facil de usar",
-      "title": "Impressora Bluetooth Mini Impressora De Etiquetas Impressora Bluetooth Termica Mini Impressora Portatil Bluetooth Para Etiquetas Codigos De Barras Impressao Nítida Conexao Rapida Facil De Usar",
-      "category": "Informática",
-      "price": 103.74,
-      "score": 166.9,
-      "posted_ts": 1789405350,
-      "posted_at": "2026-09-14T17:02:30.500052+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB7167071088",
-      "product_id": "MLB7167071088",
-      "catalog_product_id": "MLB21865416",
-      "item_id": "MLB7167071088",
-      "url": "https://www.mercadolivre.com.br/p/MLB21865416?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB21865416?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "combo parafusadeira furadeira de impacto 13mm parafusadeira de impacto 6 3mm dewalt dck276d2",
-      "title": "Combo Parafusadeira Furadeira de Impacto 13mm + Parafusadeira de Impacto 6,3mm DEWALT DCK276D2",
-      "category": "Ferramentas",
-      "price": 1599.0,
-      "score": 124.0,
-      "posted_ts": 1789401776,
-      "posted_at": "2026-09-14T16:02:56.671432+00:00"
     }
   ],
-  "updated_at": "2026-09-16T14:04:24.984576+00:00"
+  "updated_at": "2026-09-16T17:03:58.530647+00:00"
 }
