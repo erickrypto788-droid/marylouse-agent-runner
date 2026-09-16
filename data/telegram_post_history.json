@@ -1,6 +1,20 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB7226098148",
+      "marketplace": "mercadolivre",
+      "id": "MLB7226098148",
+      "title": "Fone Bluetooth Esportivo 320mah Fone Sem Fio Fone Academia Preto",
+      "title_norm": "fone bluetooth esportivo 320mah fone sem fio fone academia preto",
+      "url": "https://www.mercadolivre.com.br/p/MLB68059006?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB68059006?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Esportes",
+      "bucket": "esportes",
+      "posted_ts": 1789531343,
+      "posted_at": "2026-09-16T04:02:23.829431+00:00",
+      "score": 110.15
+    },
+    {
       "key": "shopee:22097368520",
       "marketplace": "shopee",
       "id": "22097368520",
@@ -13985,21 +13999,7 @@
       "posted_ts": 1788794270,
       "posted_at": "2026-09-07T15:17:50.932659+00:00",
       "score": 115.66
-    },
-    {
-      "key": "shopee:20999381894",
-      "marketplace": "shopee",
-      "id": "20999381894",
-      "title": "Conjunto 2/3/5/10 Potes 370/640/1040ml Vidro Hermético Mantimentos Marmita Fitness",
-      "title_norm": "conjunto 2 3 5 10 potes 370 640 1040ml vidro hermetico mantimentos marmita fitness",
-      "url": "https://shopee.com.br/product/1345719405/20999381894",
-      "affiliate_url": "https://s.shopee.com.br/9pe8K5sSV1",
-      "category": "Life Hack Homeware",
-      "bucket": "life_hack_homeware",
-      "posted_ts": 1788794206,
-      "posted_at": "2026-09-07T15:16:46.945071+00:00",
-      "score": 119.43
     }
   ],
-  "updated_at": "2026-09-16T03:21:21.778659+00:00"
+  "updated_at": "2026-09-16T04:02:23.829447+00:00"
 }
