@@ -1,6 +1,34 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB4450293643",
+      "marketplace": "mercadolivre",
+      "id": "MLB4450293643",
+      "title": "Xiaomi POCO Poco X6 5G Dual SIM 256GB/12GB Branco",
+      "title_norm": "xiaomi poco poco x6 5g dual sim 256gb 12gb branco",
+      "url": "https://www.mercadolivre.com.br/p/MLB29728116?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB29728116?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Informática",
+      "bucket": "celulares",
+      "posted_ts": 1789596254,
+      "posted_at": "2026-09-16T22:04:14.902048+00:00",
+      "score": 124.0
+    },
+    {
+      "key": "mercadolivre:MLB4719874245",
+      "marketplace": "mercadolivre",
+      "id": "MLB4719874245",
+      "title": "Smartphone Samsung Galaxy S23 256gb Preto",
+      "title_norm": "smartphone samsung galaxy s23 256gb preto",
+      "url": "https://www.mercadolivre.com.br/p/MLB39957733?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB39957733?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Informática",
+      "bucket": "celulares",
+      "posted_ts": 1789596178,
+      "posted_at": "2026-09-16T22:02:58.819503+00:00",
+      "score": 124.0
+    },
+    {
       "key": "shopee:18798105694",
       "marketplace": "shopee",
       "id": "18798105694",
@@ -13971,35 +13999,7 @@
       "posted_ts": 1788855612,
       "posted_at": "2026-09-08T08:20:12.668970+00:00",
       "score": 51.02
-    },
-    {
-      "key": "shopee:58201983884",
-      "marketplace": "shopee",
-      "id": "58201983884",
-      "title": "Clareador De Axilas e Virilhas Melanina PhálleBeauty PH0809",
-      "title_norm": "clareador de axilas e virilhas melanina phallebeauty ph0809",
-      "url": "https://shopee.com.br/product/1362240140/58201983884",
-      "affiliate_url": "https://s.shopee.com.br/3B7FVtS3T3",
-      "category": "TOP SHOP ELETRONICO",
-      "bucket": "top_shop_eletronico",
-      "posted_ts": 1788855544,
-      "posted_at": "2026-09-08T08:19:04.135140+00:00",
-      "score": 82.36
-    },
-    {
-      "key": "shopee:23994304314",
-      "marketplace": "shopee",
-      "id": "23994304314",
-      "title": "Perfume Importados Feminino E Masculino 30ML",
-      "title_norm": "perfume importados feminino e masculino 30ml",
-      "url": "https://shopee.com.br/product/1607287893/23994304314",
-      "affiliate_url": "https://s.shopee.com.br/4qFSEfFjHv",
-      "category": "MODA H&S ",
-      "bucket": "beleza",
-      "posted_ts": 1788855476,
-      "posted_at": "2026-09-08T08:17:56.043717+00:00",
-      "score": 127.02
     }
   ],
-  "updated_at": "2026-09-16T21:21:16.851462+00:00"
+  "updated_at": "2026-09-16T22:04:14.902067+00:00"
 }
