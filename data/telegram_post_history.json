@@ -1,6 +1,20 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB4095236823",
+      "marketplace": "mercadolivre",
+      "id": "MLB4095236823",
+      "title": "Conjunto Panelas Antiaderente Tramontina 5peças Vermelho",
+      "title_norm": "conjunto panelas antiaderente tramontina 5pecas vermelho",
+      "url": "https://www.mercadolivre.com.br/p/MLB32947723?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB32947723?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Casa e Cozinha",
+      "bucket": "casa_cozinha",
+      "posted_ts": 1789567464,
+      "posted_at": "2026-09-16T14:04:24.972957+00:00",
+      "score": 111.02
+    },
+    {
       "key": "shopee:23993814406",
       "marketplace": "shopee",
       "id": "23993814406",
@@ -13985,21 +13999,7 @@
       "posted_ts": 1788826599,
       "posted_at": "2026-09-08T00:16:39.611221+00:00",
       "score": 69.25
-    },
-    {
-      "key": "mercadolivre:MLB7500460708",
-      "marketplace": "mercadolivre",
-      "id": "MLB7500460708",
-      "title": "Tecido Paetê Tribal Africano 1,30x1,50m Vestido Feminino Cor Azul",
-      "title_norm": "tecido paete tribal africano 1 30x1 50m vestido feminino cor azul",
-      "url": "https://www.mercadolivre.com.br/p/MLB78191615?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB78191615?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "category": "Moda Feminina",
-      "bucket": "moda_feminina",
-      "posted_ts": 1788826025,
-      "posted_at": "2026-09-08T00:07:05.376287+00:00",
-      "score": 86.0
     }
   ],
-  "updated_at": "2026-09-16T13:22:14.883896+00:00"
+  "updated_at": "2026-09-16T14:04:24.972970+00:00"
 }
