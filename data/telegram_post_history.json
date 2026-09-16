@@ -1,6 +1,62 @@
 {
   "posts": [
     {
+      "key": "shopee:23394245720",
+      "marketplace": "shopee",
+      "id": "23394245720",
+      "title": "Capa Case Pasta Notebook de 14 ate  17 polegadas Super Reforçada Alça Acolchoada Premium",
+      "title_norm": "capa case pasta notebook de 14 ate 17 polegadas super reforcada alca acolchoada premium",
+      "url": "https://shopee.com.br/product/969935385/23394245720",
+      "affiliate_url": "https://s.shopee.com.br/1qc59PdX3T",
+      "category": "GL Utilidadess",
+      "bucket": "informatica",
+      "posted_ts": 1789571999,
+      "posted_at": "2026-09-16T15:19:59.163666+00:00",
+      "score": 61.95
+    },
+    {
+      "key": "shopee:11298889483",
+      "marketplace": "shopee",
+      "id": "11298889483",
+      "title": "Kit chinelo Luiza Liz e necessaire bolsa de mão pequena kit dia a dia blogueira",
+      "title_norm": "kit chinelo luiza liz e necessaire bolsa de mao pequena kit dia a dia blogueira",
+      "url": "https://shopee.com.br/product/333046879/11298889483",
+      "affiliate_url": "https://s.shopee.com.br/60Re74S062",
+      "category": "Luiza Liz calçados",
+      "bucket": "calcados",
+      "posted_ts": 1789571935,
+      "posted_at": "2026-09-16T15:18:55.203386+00:00",
+      "score": 94.22
+    },
+    {
+      "key": "shopee:58254359534",
+      "marketplace": "shopee",
+      "id": "58254359534",
+      "title": "Bolsa Feminina de Ombro Média Universidade Lazer Casual Viagem Linda",
+      "title_norm": "bolsa feminina de ombro media universidade lazer casual viagem linda",
+      "url": "https://shopee.com.br/product/1068796498/58254359534",
+      "affiliate_url": "https://s.shopee.com.br/80ChESs4UX",
+      "category": "BAO SHI IMPORTADOS",
+      "bucket": "bolsas",
+      "posted_ts": 1789571871,
+      "posted_at": "2026-09-16T15:17:51.146992+00:00",
+      "score": 107.43
+    },
+    {
+      "key": "shopee:23593847901",
+      "marketplace": "shopee",
+      "id": "23593847901",
+      "title": "Mochila Bolsa Viagem Resistente Coreana Masculina Feminina Colorida",
+      "title_norm": "mochila bolsa viagem resistente coreana masculina feminina colorida",
+      "url": "https://shopee.com.br/product/1127030290/23593847901",
+      "affiliate_url": "https://s.shopee.com.br/1gIdkwEIeo",
+      "category": "JIMMY.STORE",
+      "bucket": "bolsas",
+      "posted_ts": 1789571803,
+      "posted_at": "2026-09-16T15:16:43.515452+00:00",
+      "score": 120.52
+    },
+    {
       "key": "shopee:23997427973",
       "marketplace": "shopee",
       "id": "23997427973",
@@ -13943,63 +13999,7 @@
       "posted_ts": 1788830414,
       "posted_at": "2026-09-08T01:20:14.744116+00:00",
       "score": 108.09
-    },
-    {
-      "key": "shopee:23591594431",
-      "marketplace": "shopee",
-      "id": "23591594431",
-      "title": "Legging Flanelada Grossa Calça Leg Peluciada Forrada Por Dentro Costura Reforçada Calça Térmica",
-      "title_norm": "legging flanelada grossa calca leg peluciada forrada por dentro costura reforcada calca termica",
-      "url": "https://shopee.com.br/product/869193731/23591594431",
-      "affiliate_url": "https://s.shopee.com.br/20vHeuFKLT",
-      "category": "OxeanJeans",
-      "bucket": "moda_feminina",
-      "posted_ts": 1788830346,
-      "posted_at": "2026-09-08T01:19:06.097753+00:00",
-      "score": 109.03
-    },
-    {
-      "key": "shopee:44451988896",
-      "marketplace": "shopee",
-      "id": "44451988896",
-      "title": "Calça Pantalona Alfaiataria Premium Com Bolso PROMOÇÃO",
-      "title_norm": "calca pantalona alfaiataria premium com bolso promocao",
-      "url": "https://shopee.com.br/product/1077139873/44451988896",
-      "affiliate_url": "https://s.shopee.com.br/4fw2poEFWs",
-      "category": "valiosa fashion moda",
-      "bucket": "valiosa_fashion_moda",
-      "posted_ts": 1788830282,
-      "posted_at": "2026-09-08T01:18:02.074009+00:00",
-      "score": 114.03
-    },
-    {
-      "key": "shopee:19299586669",
-      "marketplace": "shopee",
-      "id": "19299586669",
-      "title": "KIT 2 Regata Blusinha Feminina Suplex Duplo Básica Elegante Blogueira Tendencia",
-      "title_norm": "kit 2 regata blusinha feminina suplex duplo basica elegante blogueira tendencia",
-      "url": "https://shopee.com.br/product/1035603970/19299586669",
-      "affiliate_url": "https://s.shopee.com.br/50YtEQQ6wa",
-      "category": "FUFLEX",
-      "bucket": "fuflex",
-      "posted_ts": 1788830213,
-      "posted_at": "2026-09-08T01:16:53.268369+00:00",
-      "score": 114.27
-    },
-    {
-      "key": "mercadolivre:MLB5355035490",
-      "marketplace": "mercadolivre",
-      "id": "MLB5355035490",
-      "title": "Cama Box Solteiro: Colchão Molas Ensacadas Orthoflex Memor",
-      "title_norm": "cama box solteiro colchao molas ensacadas orthoflex memor",
-      "url": "https://www.mercadolivre.com.br/p/MLB48409016?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB48409016?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "category": "Casa e Cozinha",
-      "bucket": "casa_e_cozinha",
-      "posted_ts": 1788829510,
-      "posted_at": "2026-09-08T01:05:10.206342+00:00",
-      "score": 75.67
     }
   ],
-  "updated_at": "2026-09-16T14:21:27.716488+00:00"
+  "updated_at": "2026-09-16T15:19:59.163679+00:00"
 }
