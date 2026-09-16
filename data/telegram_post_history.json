@@ -1,6 +1,48 @@
 {
   "posts": [
     {
+      "key": "shopee:22191925108",
+      "marketplace": "shopee",
+      "id": "22191925108",
+      "title": "Mochila Coleção 2023 Luxo Viagem Executiva Reforçada",
+      "title_norm": "mochila colecao 2023 luxo viagem executiva reforcada",
+      "url": "https://shopee.com.br/product/691323218/22191925108",
+      "affiliate_url": "https://s.shopee.com.br/1BMNA1GCff",
+      "category": "ULTRA TECH COMERCIAL LTDA",
+      "bucket": "bolsas",
+      "posted_ts": 1789575532,
+      "posted_at": "2026-09-16T16:18:52.829586+00:00",
+      "score": 82.04
+    },
+    {
+      "key": "shopee:58202297715",
+      "marketplace": "shopee",
+      "id": "58202297715",
+      "title": "Mochila Transversal Masculina - Bolsa de Peito Multifuncional Impermeável",
+      "title_norm": "mochila transversal masculina bolsa de peito multifuncional impermeavel",
+      "url": "https://shopee.com.br/product/1630783360/58202297715",
+      "affiliate_url": "https://s.shopee.com.br/9Ki69JmUO4",
+      "category": "vxcs4mh5zv",
+      "bucket": "bolsas",
+      "posted_ts": 1789575468,
+      "posted_at": "2026-09-16T16:17:48.858189+00:00",
+      "score": 88.46
+    },
+    {
+      "key": "shopee:13403247994",
+      "marketplace": "shopee",
+      "id": "13403247994",
+      "title": "Capa Maleta Notebook Macbook 15,6' / 13 / 14 / 17 Polegadas Rígida Anti-Impacto Bolso Externo C/Alça",
+      "title_norm": "capa maleta notebook macbook 15 6 13 14 17 polegadas rigida anti impacto bolso externo c alca",
+      "url": "https://shopee.com.br/product/391712221/13403247994",
+      "affiliate_url": "https://s.shopee.com.br/6Al4NUu93f",
+      "category": "Street Man",
+      "bucket": "informatica",
+      "posted_ts": 1789575404,
+      "posted_at": "2026-09-16T16:16:44.792177+00:00",
+      "score": 99.53
+    },
+    {
       "key": "shopee:23394245720",
       "marketplace": "shopee",
       "id": "23394245720",
@@ -13957,49 +13999,7 @@
       "posted_ts": 1788833874,
       "posted_at": "2026-09-08T02:17:54.434318+00:00",
       "score": 103.43
-    },
-    {
-      "key": "shopee:28127624973",
-      "marketplace": "shopee",
-      "id": "28127624973",
-      "title": "Kit 6 Cuecas Boxer Reebok Masculina Original Lisa Microfibra",
-      "title_norm": "kit 6 cuecas boxer reebok masculina original lisa microfibra",
-      "url": "https://shopee.com.br/product/328687466/28127624973",
-      "affiliate_url": "https://s.shopee.com.br/3Vk4FUk5v1",
-      "category": "UP UNDERWEAR",
-      "bucket": "up_underwear",
-      "posted_ts": 1788833808,
-      "posted_at": "2026-09-08T02:16:48.876243+00:00",
-      "score": 106.44
-    },
-    {
-      "key": "shopee:44864143330",
-      "marketplace": "shopee",
-      "id": "44864143330",
-      "title": "Conjunto Plus Size Feminino Cropped e Short Saia com Botões P M G GG | Tecido Premium Liverpool",
-      "title_norm": "conjunto plus size feminino cropped e short saia com botoes p m g gg tecido premium liverpool",
-      "url": "https://shopee.com.br/product/1393644496/44864143330",
-      "affiliate_url": "https://s.shopee.com.br/4qFRlpKcuf",
-      "category": "Luna Style",
-      "bucket": "moda_feminina",
-      "posted_ts": 1788830478,
-      "posted_at": "2026-09-08T01:21:18.772419+00:00",
-      "score": 101.19
-    },
-    {
-      "key": "shopee:58205476765",
-      "marketplace": "shopee",
-      "id": "58205476765",
-      "title": "Cinta Modeladora Short Reduz 2 Medidas | Empina Bumbum | Alta Compressão | Não Enrola | Envio Rápido",
-      "title_norm": "cinta modeladora short reduz 2 medidas empina bumbum alta compressao nao enrola envio rapido",
-      "url": "https://shopee.com.br/product/1627342184/58205476765",
-      "affiliate_url": "https://s.shopee.com.br/40gKmIWsCj",
-      "category": "AKAPE FASHION",
-      "bucket": "akape_fashion",
-      "posted_ts": 1788830414,
-      "posted_at": "2026-09-08T01:20:14.744116+00:00",
-      "score": 108.09
     }
   ],
-  "updated_at": "2026-09-16T15:19:59.163679+00:00"
+  "updated_at": "2026-09-16T16:18:52.829619+00:00"
 }
