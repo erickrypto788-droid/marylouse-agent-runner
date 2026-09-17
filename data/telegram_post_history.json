@@ -1,6 +1,20 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB6884302164",
+      "marketplace": "mercadolivre",
+      "id": "MLB6884302164",
+      "title": "Rack Yescasa Rack para TV até 70\" jatoba terroso de mdp",
+      "title_norm": "rack yescasa rack para tv ate 70 jatoba terroso de mdp",
+      "url": "https://www.mercadolivre.com.br/p/MLB70627275?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB70627275?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Casa e Cozinha",
+      "bucket": "casa_e_cozinha",
+      "posted_ts": 1789628656,
+      "posted_at": "2026-09-17T07:04:16.750579+00:00",
+      "score": 82.57
+    },
+    {
       "key": "shopee:23198212585",
       "marketplace": "shopee",
       "id": "23198212585",
@@ -13985,21 +13999,7 @@
       "posted_ts": 1788887038,
       "posted_at": "2026-09-08T17:03:58.745343+00:00",
       "score": 88.0
-    },
-    {
-      "key": "shopee:58205902043",
-      "marketplace": "shopee",
-      "id": "58205902043",
-      "title": "Combo Elástico Chato 7mm Aura 10m EC016 + 100 Ilhós Alumínio Nº54 Candy Colors Costura Artesanato Encadernação Agenda",
-      "title_norm": "combo elastico chato 7mm aura 10m ec016 100 ilhos aluminio n 54 candy colors costura artesanato encadernacao agenda",
-      "url": "https://shopee.com.br/product/350742322/58205902043",
-      "affiliate_url": "https://s.shopee.com.br/112lSska60",
-      "category": "JMEMBALAGENSPARAFESTAS",
-      "bucket": "jmembalagensparafestas",
-      "posted_ts": 1788884463,
-      "posted_at": "2026-09-08T16:21:03.534725+00:00",
-      "score": 38.48
     }
   ],
-  "updated_at": "2026-09-17T06:21:08.494654+00:00"
+  "updated_at": "2026-09-17T07:04:16.750600+00:00"
 }
