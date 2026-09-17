@@ -1,6 +1,34 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB7649795198",
+      "marketplace": "mercadolivre",
+      "id": "MLB7649795198",
+      "title": "Barbeador elétrico profissional WAIKIL, barbeador elétrico recarregável, adequado para barba, recarregável Ipx7 sem fio, cabelo e cabelo corporal",
+      "title_norm": "barbeador eletrico profissional waikil barbeador eletrico recarregavel adequado para barba recarregavel ipx7 sem fio cabelo e cabelo corporal",
+      "url": "https://www.mercadolivre.com.br/p/MLB77944817?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB77944817?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Beleza",
+      "bucket": "beleza",
+      "posted_ts": 1789639422,
+      "posted_at": "2026-09-17T10:03:42.286647+00:00",
+      "score": 113.0
+    },
+    {
+      "key": "mercadolivre:MLB5209308589",
+      "marketplace": "mercadolivre",
+      "id": "MLB5209308589",
+      "title": "Perfume Masculino Millions",
+      "title_norm": "perfume masculino millions",
+      "url": "https://www.mercadolivre.com.br/p/MLB77141871?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB77141871?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Beleza",
+      "bucket": "beleza",
+      "posted_ts": 1789639357,
+      "posted_at": "2026-09-17T10:02:37.508063+00:00",
+      "score": 188.67
+    },
+    {
       "key": "shopee:22799512255",
       "marketplace": "shopee",
       "id": "22799512255",
@@ -13971,35 +13999,7 @@
       "posted_ts": 1788898816,
       "posted_at": "2026-09-08T20:20:16.954220+00:00",
       "score": 105.27
-    },
-    {
-      "key": "shopee:58261931915",
-      "marketplace": "shopee",
-      "id": "58261931915",
-      "title": "Conjunto Feminino Body Quadrado+Short Alfaiataria Com Bolso e Cinto  Moda Casual",
-      "title_norm": "conjunto feminino body quadrado short alfaiataria com bolso e cinto moda casual",
-      "url": "https://shopee.com.br/product/243979754/58261931915",
-      "affiliate_url": "https://s.shopee.com.br/7fZffc4Gzq",
-      "category": "ela.bazar",
-      "bucket": "ela_bazar",
-      "posted_ts": 1788898748,
-      "posted_at": "2026-09-08T20:19:08.505052+00:00",
-      "score": 105.52
-    },
-    {
-      "key": "shopee:22894279136",
-      "marketplace": "shopee",
-      "id": "22894279136",
-      "title": "Conjunto Feminino de Academia Calça Legging + Top com Alta Compressão e Zero Transparência",
-      "title_norm": "conjunto feminino de academia calca legging top com alta compressao e zero transparencia",
-      "url": "https://shopee.com.br/product/1101082974/22894279136",
-      "affiliate_url": "https://s.shopee.com.br/9zxaRtqzTg",
-      "category": "Zayan Moda Fitness",
-      "bucket": "moda_feminina",
-      "posted_ts": 1788898684,
-      "posted_at": "2026-09-08T20:18:04.572662+00:00",
-      "score": 106.84
     }
   ],
-  "updated_at": "2026-09-17T09:21:27.019484+00:00"
+  "updated_at": "2026-09-17T10:03:42.286662+00:00"
 }

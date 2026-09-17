@@ -1,6 +1,36 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB7649795198",
+      "product_id": "MLB7649795198",
+      "catalog_product_id": "MLB77944817",
+      "item_id": "MLB7649795198",
+      "url": "https://www.mercadolivre.com.br/p/MLB77944817?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB77944817?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "barbeador eletrico profissional waikil barbeador eletrico recarregavel adequado para barba recarregavel ipx7 sem fio cabelo e cabelo corporal",
+      "title": "Barbeador elétrico profissional WAIKIL, barbeador elétrico recarregável, adequado para barba, recarregável Ipx7 sem fio, cabelo e cabelo corporal",
+      "category": "Beleza",
+      "price": 110.0,
+      "score": 113.0,
+      "posted_ts": 1789639422,
+      "posted_at": "2026-09-17T10:03:42.300831+00:00"
+    },
+    {
+      "key": "mercadolivre:MLB5209308589",
+      "product_id": "MLB5209308589",
+      "catalog_product_id": "MLB77141871",
+      "item_id": "MLB5209308589",
+      "url": "https://www.mercadolivre.com.br/p/MLB77141871?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB77141871?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "perfume masculino millions",
+      "title": "Perfume Masculino Millions",
+      "category": "Beleza",
+      "price": 184.0,
+      "score": 188.67,
+      "posted_ts": 1789639357,
+      "posted_at": "2026-09-17T10:02:37.522502+00:00"
+    },
+    {
       "key": "mercadolivre:MLB6884302164",
       "product_id": "MLB6884302164",
       "catalog_product_id": "MLB70627275",
@@ -569,37 +599,7 @@
       "score": 127.0,
       "posted_ts": 1789473786,
       "posted_at": "2026-09-15T12:03:06.664606+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB4139317597",
-      "product_id": "MLB4139317597",
-      "catalog_product_id": "MLB23649057",
-      "item_id": "MLB4139317597",
-      "url": "https://www.mercadolivre.com.br/p/MLB23649057?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB23649057?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "furadeira parafusadeira imp c parafusadeira imp dlx2336syx",
-      "title": "Furadeira Parafusadeira Imp C/ Parafusadeira Imp Dlx2336syx",
-      "category": "Ferramentas",
-      "price": 1659.5,
-      "score": 108.0,
-      "posted_ts": 1789463027,
-      "posted_at": "2026-09-15T09:03:47.915372+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB5183821060",
-      "product_id": "MLB5183821060",
-      "catalog_product_id": "MLB19765397",
-      "item_id": "MLB5183821060",
-      "url": "https://www.mercadolivre.com.br/p/MLB19765397?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB19765397?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "combo furadeira parafusadeira df333d parafusadeira de impacto td110d 12v clx224sax",
-      "title": "Combo Furadeira Parafusadeira DF333D + Parafusadeira de Impacto TD110D 12V - CLX224SAX",
-      "category": "Ferramentas",
-      "price": 1213.0,
-      "score": 111.0,
-      "posted_ts": 1789462946,
-      "posted_at": "2026-09-15T09:02:26.222996+00:00"
     }
   ],
-  "updated_at": "2026-09-17T07:04:16.763352+00:00"
+  "updated_at": "2026-09-17T10:03:42.300846+00:00"
 }
