@@ -1,6 +1,48 @@
 {
   "posts": [
     {
+      "key": "shopee:58205979239",
+      "marketplace": "shopee",
+      "id": "58205979239",
+      "title": "Principia Kit Limpa Hidrata e Protege c/ Gel de Limpeza GL-01 + Creme Hidratante CH-01 + Protetor Cor PS-05 FPS 70",
+      "title_norm": "principia kit limpa hidrata e protege c gel de limpeza gl 01 creme hidratante ch 01 protetor cor ps 05 fps 70",
+      "url": "https://shopee.com.br/product/373261329/58205979239",
+      "affiliate_url": "https://s.shopee.com.br/6Al5AwHfFv",
+      "category": "Principia Skincare",
+      "bucket": "principia_skincare",
+      "posted_ts": 1789618735,
+      "posted_at": "2026-09-17T04:18:55.731962+00:00",
+      "score": 66.01
+    },
+    {
+      "key": "shopee:23694347564",
+      "marketplace": "shopee",
+      "id": "23694347564",
+      "title": "GOKOCO Escova Secadora 5 Em 1 Conjunto De Secador De Cabelo Multifuncional De Alta Velocidade Dupla voltagem 110V-240V",
+      "title_norm": "gokoco escova secadora 5 em 1 conjunto de secador de cabelo multifuncional de alta velocidade dupla voltagem 110v 240v",
+      "url": "https://shopee.com.br/product/1078551010/23694347564",
+      "affiliate_url": "https://s.shopee.com.br/2gBD0VHrIB",
+      "category": "GOKOCO Offical Shop.BR",
+      "bucket": "beleza",
+      "posted_ts": 1789618671,
+      "posted_at": "2026-09-17T04:17:51.687843+00:00",
+      "score": 126.67
+    },
+    {
+      "key": "shopee:58263978690",
+      "marketplace": "shopee",
+      "id": "58263978690",
+      "title": "Perfume Masculino 100ml Fragrância Amadeirada Marcante Sofisticada Longa Duração",
+      "title_norm": "perfume masculino 100ml fragrancia amadeirada marcante sofisticada longa duracao",
+      "url": "https://shopee.com.br/product/1769603943/58263978690",
+      "affiliate_url": "https://s.shopee.com.br/BTs1uMuIt",
+      "category": "ZORZA3",
+      "bucket": "beleza",
+      "posted_ts": 1789618600,
+      "posted_at": "2026-09-17T04:16:40.257657+00:00",
+      "score": 137.55
+    },
+    {
       "key": "shopee:22694541028",
       "marketplace": "shopee",
       "id": "22694541028",
@@ -13957,49 +13999,7 @@
       "posted_ts": 1788873791,
       "posted_at": "2026-09-08T13:23:11.654863+00:00",
       "score": 49.95
-    },
-    {
-      "key": "shopee:18297665963",
-      "marketplace": "shopee",
-      "id": "18297665963",
-      "title": "Fraldas de pano kit com 10 unidades 60x60cm 100% algodão Minasrey Bebê Babete Toalinha Babita Paninho Estampado",
-      "title_norm": "fraldas de pano kit com 10 unidades 60x60cm 100 algodao minasrey bebe babete toalinha babita paninho estampado",
-      "url": "https://shopee.com.br/product/378105312/18297665963",
-      "affiliate_url": "https://s.shopee.com.br/9AOSze5Etu",
-      "category": "EssencialBaby",
-      "bucket": "fraldas",
-      "posted_ts": 1788873727,
-      "posted_at": "2026-09-08T13:22:07.592747+00:00",
-      "score": 95.33
-    },
-    {
-      "key": "shopee:42071102324",
-      "marketplace": "shopee",
-      "id": "42071102324",
-      "title": "Troninho Privadinha Assento Redutor Pinico Infantil Para desfralde Marca styll baby",
-      "title_norm": "troninho privadinha assento redutor pinico infantil para desfralde marca styll baby",
-      "url": "https://shopee.com.br/product/1450084195/42071102324",
-      "affiliate_url": "https://s.shopee.com.br/AUtqa60AC2",
-      "category": "Clube Kids Baby II",
-      "bucket": "clube_kids_baby_ii",
-      "posted_ts": 1788873663,
-      "posted_at": "2026-09-08T13:21:03.505726+00:00",
-      "score": 98.76
-    },
-    {
-      "key": "shopee:23799188673",
-      "marketplace": "shopee",
-      "id": "23799188673",
-      "title": "kit 1400 Toalhas Umedecidas Bebê Limpinho",
-      "title_norm": "kit 1400 toalhas umedecidas bebe limpinho",
-      "url": "https://shopee.com.br/product/1045085918/23799188673",
-      "affiliate_url": "https://s.shopee.com.br/1qbsGBSQBq",
-      "category": "Droga Clara",
-      "bucket": "droga_clara",
-      "posted_ts": 1788873599,
-      "posted_at": "2026-09-08T13:19:59.518191+00:00",
-      "score": 100.97
     }
   ],
-  "updated_at": "2026-09-17T03:20:03.234814+00:00"
+  "updated_at": "2026-09-17T04:18:55.731973+00:00"
 }
