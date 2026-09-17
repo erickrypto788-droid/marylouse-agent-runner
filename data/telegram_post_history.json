@@ -1,6 +1,20 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB4302548173",
+      "marketplace": "mercadolivre",
+      "id": "MLB4302548173",
+      "title": "Comedouro Automático Ração Aquário Terrario Peixe Tartaruga",
+      "title_norm": "comedouro automatico racao aquario terrario peixe tartaruga",
+      "url": "https://www.mercadolivre.com.br/p/MLB44164135?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB44164135?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Pet",
+      "bucket": "pet",
+      "posted_ts": 1789606975,
+      "posted_at": "2026-09-17T01:02:55.351436+00:00",
+      "score": 137.09
+    },
+    {
       "key": "shopee:58214561301",
       "marketplace": "shopee",
       "id": "58214561301",
@@ -13985,21 +13999,7 @@
       "posted_ts": 1788866269,
       "posted_at": "2026-09-08T11:17:49.092322+00:00",
       "score": 99.79
-    },
-    {
-      "key": "shopee:58255061423",
-      "marketplace": "shopee",
-      "id": "58255061423",
-      "title": "Expositor para 50 carrinhos Hot Weels Prateleira Brinquedos Coleção Miniaturas Carros Organizador",
-      "title_norm": "expositor para 50 carrinhos hot weels prateleira brinquedos colecao miniaturas carros organizador",
-      "url": "https://shopee.com.br/product/1526528168/58255061423",
-      "affiliate_url": "https://s.shopee.com.br/9AORazbO0L",
-      "category": "Bigarelli Arts MDF",
-      "bucket": "bigarelli_arts_mdf",
-      "posted_ts": 1788866205,
-      "posted_at": "2026-09-08T11:16:45.117764+00:00",
-      "score": 102.94
     }
   ],
-  "updated_at": "2026-09-17T00:17:56.778853+00:00"
+  "updated_at": "2026-09-17T01:02:55.351455+00:00"
 }
