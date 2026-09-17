@@ -1,6 +1,36 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB4617422337",
+      "product_id": "MLB4617422337",
+      "catalog_product_id": "MLB68298172",
+      "item_id": "MLB4617422337",
+      "url": "https://www.mercadolivre.com.br/p/MLB68298172?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB68298172?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "cropped feminino manga comprida protecao solar malha fria uv cor preto tamanho p",
+      "title": "Cropped Feminino Manga Comprida Proteção Solar Malha Fria Uv Cor Preto Tamanho P",
+      "category": "Moda Feminina",
+      "price": 42.43,
+      "score": 107.47,
+      "posted_ts": 1789686315,
+      "posted_at": "2026-09-17T23:05:15.713925+00:00"
+    },
+    {
+      "key": "mercadolivre:MLB7079122650",
+      "product_id": "MLB7079122650",
+      "catalog_product_id": "MLB74851412",
+      "item_id": "MLB7079122650",
+      "url": "https://www.mercadolivre.com.br/p/MLB74851412?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB74851412?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "conjunto feminino alfaiataria bermuda blusa elegante peplum conjunto feminino bege",
+      "title": "Conjunto Feminino Alfaiataria Bermuda Blusa Elegante Peplum Conjunto Feminino Bege",
+      "category": "Moda Feminina",
+      "price": 186.91,
+      "score": 109.5,
+      "posted_ts": 1789686251,
+      "posted_at": "2026-09-17T23:04:11.553192+00:00"
+    },
+    {
       "key": "mercadolivre:MLB7594382320",
       "product_id": "MLB7594382320",
       "catalog_product_id": "MLB60550872",
@@ -631,5 +661,5 @@
       "posted_at": "2026-09-16T02:03:01.787137+00:00"
     }
   ],
-  "updated_at": "2026-09-17T22:10:55.141829+00:00"
+  "updated_at": "2026-09-17T23:05:15.713935+00:00"
 }
