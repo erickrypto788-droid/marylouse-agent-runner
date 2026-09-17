@@ -1,6 +1,20 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB6483255322",
+      "marketplace": "mercadolivre",
+      "id": "MLB6483255322",
+      "title": "Fone Bluetooth Redmi",
+      "title_norm": "fone bluetooth redmi",
+      "url": "https://www.mercadolivre.com.br/p/MLB62010143?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB62010143?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Informática",
+      "bucket": "celulares",
+      "posted_ts": 1789653760,
+      "posted_at": "2026-09-17T14:02:40.545873+00:00",
+      "score": 98.22
+    },
+    {
       "key": "shopee:20699773493",
       "marketplace": "shopee",
       "id": "20699773493",
@@ -13985,21 +13999,7 @@
       "posted_ts": 1788913083,
       "posted_at": "2026-09-09T00:18:03.285196+00:00",
       "score": 94.18
-    },
-    {
-      "key": "shopee:22598314126",
-      "marketplace": "shopee",
-      "id": "22598314126",
-      "title": "Bota Botina Feminina Texana Macia Country Cowboy Bico Quadrado Confortável Zíper E Rebites",
-      "title_norm": "bota botina feminina texana macia country cowboy bico quadrado confortavel ziper e rebites",
-      "url": "https://shopee.com.br/product/1318905115/22598314126",
-      "affiliate_url": "https://s.shopee.com.br/9peAW4NUxS",
-      "category": "F_MIX",
-      "bucket": "calcados",
-      "posted_ts": 1788913007,
-      "posted_at": "2026-09-09T00:16:47.595641+00:00",
-      "score": 109.26
     }
   ],
-  "updated_at": "2026-09-17T13:21:10.841345+00:00"
+  "updated_at": "2026-09-17T14:02:40.545895+00:00"
 }
