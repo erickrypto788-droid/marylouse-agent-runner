@@ -1,6 +1,34 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB6198484798",
+      "marketplace": "mercadolivre",
+      "id": "MLB6198484798",
+      "title": "Roteador Wifi Maxlink Ac1200g (10pc)",
+      "title_norm": "roteador wifi maxlink ac1200g 10pc",
+      "url": "https://www.mercadolivre.com.br/p/MLB42822160?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB42822160?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Informática",
+      "bucket": "informatica",
+      "posted_ts": 1789650235,
+      "posted_at": "2026-09-17T13:03:55.462184+00:00",
+      "score": 88.0
+    },
+    {
+      "key": "mercadolivre:MLB4353924282",
+      "marketplace": "mercadolivre",
+      "id": "MLB4353924282",
+      "title": "Mesa Computador Escrivaninha Notebook Gamer cor branco AJL",
+      "title_norm": "mesa computador escrivaninha notebook gamer cor branco ajl",
+      "url": "https://www.mercadolivre.com.br/p/MLB29479675?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB29479675?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Informática",
+      "bucket": "informatica",
+      "posted_ts": 1789650171,
+      "posted_at": "2026-09-17T13:02:51.323424+00:00",
+      "score": 113.0
+    },
+    {
       "key": "shopee:58256029412",
       "marketplace": "shopee",
       "id": "58256029412",
@@ -13971,35 +13999,7 @@
       "posted_ts": 1788906073,
       "posted_at": "2026-09-08T22:21:13.106915+00:00",
       "score": 61.55
-    },
-    {
-      "key": "shopee:22894748403",
-      "marketplace": "shopee",
-      "id": "22894748403",
-      "title": "Kit 3 Blusas Feminina Plus Size Gola V Básica Casual - H00",
-      "title_norm": "kit 3 blusas feminina plus size gola v basica casual h00",
-      "url": "https://shopee.com.br/product/441206033/22894748403",
-      "affiliate_url": "https://s.shopee.com.br/8fSCrRiwBF",
-      "category": "Uzze.K ",
-      "bucket": "uzze_k",
-      "posted_ts": 1788906009,
-      "posted_at": "2026-09-08T22:20:09.078620+00:00",
-      "score": 72.18
-    },
-    {
-      "key": "shopee:23095731294",
-      "marketplace": "shopee",
-      "id": "23095731294",
-      "title": "Kit 2 Calças Legging Plus Size Suplex Cintura Alta Costura Reforça G1 G2 G3",
-      "title_norm": "kit 2 calcas legging plus size suplex cintura alta costura reforca g1 g2 g3",
-      "url": "https://shopee.com.br/product/356848158/23095731294",
-      "affiliate_url": "https://s.shopee.com.br/5foa9sswFi",
-      "category": "TGL CONFECÇÕES ",
-      "bucket": "moda_feminina",
-      "posted_ts": 1788905945,
-      "posted_at": "2026-09-08T22:19:05.077733+00:00",
-      "score": 74.23
     }
   ],
-  "updated_at": "2026-09-17T12:21:11.331617+00:00"
+  "updated_at": "2026-09-17T13:03:55.462204+00:00"
 }

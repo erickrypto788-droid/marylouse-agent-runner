@@ -1,6 +1,36 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB6198484798",
+      "product_id": "MLB6198484798",
+      "catalog_product_id": "MLB42822160",
+      "item_id": "MLB6198484798",
+      "url": "https://www.mercadolivre.com.br/p/MLB42822160?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB42822160?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "roteador wifi maxlink ac1200g 10pc",
+      "title": "Roteador Wifi Maxlink Ac1200g (10pc)",
+      "category": "Informática",
+      "price": 265.85,
+      "score": 88.0,
+      "posted_ts": 1789650235,
+      "posted_at": "2026-09-17T13:03:55.475259+00:00"
+    },
+    {
+      "key": "mercadolivre:MLB4353924282",
+      "product_id": "MLB4353924282",
+      "catalog_product_id": "MLB29479675",
+      "item_id": "MLB4353924282",
+      "url": "https://www.mercadolivre.com.br/p/MLB29479675?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB29479675?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "mesa computador escrivaninha notebook gamer cor branco ajl",
+      "title": "Mesa Computador Escrivaninha Notebook Gamer cor branco AJL",
+      "category": "Informática",
+      "price": 267.2,
+      "score": 113.0,
+      "posted_ts": 1789650171,
+      "posted_at": "2026-09-17T13:02:51.336431+00:00"
+    },
+    {
       "key": "mercadolivre:MLB7649795198",
       "product_id": "MLB7649795198",
       "catalog_product_id": "MLB77944817",
@@ -584,22 +614,7 @@
       "score": 146.91,
       "posted_ts": 1789484553,
       "posted_at": "2026-09-15T15:02:33.166236+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB5026800457",
-      "product_id": "MLB5026800457",
-      "catalog_product_id": "MLB20643765",
-      "item_id": "MLB5026800457",
-      "url": "https://www.mercadolivre.com.br/p/MLB20643765?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB20643765?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "carregador iphone tipo usb c cor branco",
-      "title": "Carregador iPhone Tipo USB-C Cor Branco",
-      "category": "Informática",
-      "price": 349.99,
-      "score": 127.0,
-      "posted_ts": 1789473786,
-      "posted_at": "2026-09-15T12:03:06.664606+00:00"
     }
   ],
-  "updated_at": "2026-09-17T10:03:42.300846+00:00"
+  "updated_at": "2026-09-17T13:03:55.475277+00:00"
 }
