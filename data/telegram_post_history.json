@@ -1,6 +1,20 @@
 {
   "posts": [
     {
+      "key": "shopee:23594076554",
+      "marketplace": "shopee",
+      "id": "23594076554",
+      "title": "Nintendo Switch Lite Desbloqueado com Lojinha Tinfoil Premium Dualboot Novo | Envio Imediato",
+      "title_norm": "nintendo switch lite desbloqueado com lojinha tinfoil premium dualboot novo envio imediato",
+      "url": "https://shopee.com.br/product/942745912/23594076554",
+      "affiliate_url": "https://s.shopee.com.br/9fKy4hmN9A",
+      "category": "Lizis Store",
+      "bucket": "lizis_store",
+      "posted_ts": 1789658210,
+      "posted_at": "2026-09-17T15:16:50.195516+00:00",
+      "score": 37.7
+    },
+    {
       "key": "mercadolivre:MLB5501712742",
       "marketplace": "mercadolivre",
       "id": "MLB5501712742",
@@ -13985,21 +13999,7 @@
       "posted_ts": 1788919354,
       "posted_at": "2026-09-09T02:02:34.017272+00:00",
       "score": 124.0
-    },
-    {
-      "key": "shopee:27791019433",
-      "marketplace": "shopee",
-      "id": "27791019433",
-      "title": "Adaptadores Tomada Universal Para Viagem Internacional Compatível Em +150 Países",
-      "title_norm": "adaptadores tomada universal para viagem internacional compativel em 150 paises",
-      "url": "https://shopee.com.br/product/331720585/27791019433",
-      "affiliate_url": "https://s.shopee.com.br/9AOTmyATvT",
-      "category": "19BR SHOP",
-      "bucket": "19br_shop",
-      "posted_ts": 1788916865,
-      "posted_at": "2026-09-09T01:21:05.557577+00:00",
-      "score": 77.75
     }
   ],
-  "updated_at": "2026-09-17T15:04:07.447846+00:00"
+  "updated_at": "2026-09-17T15:16:50.195530+00:00"
 }
