@@ -1,6 +1,20 @@
 {
   "posts": [
     {
+      "key": "shopee:16284758791",
+      "marketplace": "shopee",
+      "id": "16284758791",
+      "title": "Mochila Reforçada Masculina Faculdade Impermeável Resistente Grande Trabalho Escolar",
+      "title_norm": "mochila reforcada masculina faculdade impermeavel resistente grande trabalho escolar",
+      "url": "https://shopee.com.br/product/409354083/16284758791",
+      "affiliate_url": "https://s.shopee.com.br/9peO0WTT8G",
+      "category": "Isic Fast",
+      "bucket": "bolsas",
+      "posted_ts": 1789643813,
+      "posted_at": "2026-09-17T11:16:53.907674+00:00",
+      "score": 80.01
+    },
+    {
       "key": "shopee:22497089311",
       "marketplace": "shopee",
       "id": "22497089311",
@@ -13985,21 +13999,7 @@
       "posted_ts": 1788902339,
       "posted_at": "2026-09-08T21:18:59.832698+00:00",
       "score": 97.06
-    },
-    {
-      "key": "shopee:22399429241",
-      "marketplace": "shopee",
-      "id": "22399429241",
-      "title": "Kit 4 Camiseta Dia a Dia 100% Algodão Básica Premium Varias Cores Lisa Confortável Macia Leve Respirável P ao G3",
-      "title_norm": "kit 4 camiseta dia a dia 100 algodao basica premium varias cores lisa confortavel macia leve respiravel p ao g3",
-      "url": "https://shopee.com.br/product/832444132/22399429241",
-      "affiliate_url": "https://s.shopee.com.br/6VNh5IVmqg",
-      "category": "YOYOSTORE",
-      "bucket": "yoyostore",
-      "posted_ts": 1788902275,
-      "posted_at": "2026-09-08T21:17:55.645364+00:00",
-      "score": 97.94
     }
   ],
-  "updated_at": "2026-09-17T10:19:01.037728+00:00"
+  "updated_at": "2026-09-17T11:16:53.907690+00:00"
 }
