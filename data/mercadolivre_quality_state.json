@@ -1,6 +1,21 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB4749092753",
+      "product_id": "MLB4749092753",
+      "catalog_product_id": "MLB32106098",
+      "item_id": "MLB4749092753",
+      "url": "https://www.mercadolivre.com.br/p/MLB32106098?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB32106098?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "racao premier pet vitta natural racao cachorro adulto 15k",
+      "title": "Ração Premier Pet Vitta Natural Ração Cachorro Adulto 15k",
+      "category": "Pet",
+      "price": 149.98,
+      "score": 129.0,
+      "posted_ts": 1789668178,
+      "posted_at": "2026-09-17T18:02:58.914157+00:00"
+    },
+    {
       "key": "mercadolivre:MLB3222635196",
       "product_id": "MLB3222635196",
       "catalog_product_id": "MLB21719639",
@@ -646,5 +661,5 @@
       "posted_at": "2026-09-15T19:07:54.315391+00:00"
     }
   ],
-  "updated_at": "2026-09-17T17:02:44.963047+00:00"
+  "updated_at": "2026-09-17T18:02:58.914168+00:00"
 }

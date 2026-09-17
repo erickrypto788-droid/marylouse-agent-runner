@@ -1,6 +1,20 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB4749092753",
+      "marketplace": "mercadolivre",
+      "id": "MLB4749092753",
+      "title": "Ração Premier Pet Vitta Natural Ração Cachorro Adulto 15k",
+      "title_norm": "racao premier pet vitta natural racao cachorro adulto 15k",
+      "url": "https://www.mercadolivre.com.br/p/MLB32106098?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB32106098?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Pet",
+      "bucket": "pet",
+      "posted_ts": 1789668178,
+      "posted_at": "2026-09-17T18:02:58.903089+00:00",
+      "score": 129.0
+    },
+    {
       "key": "shopee:23393839981",
       "marketplace": "shopee",
       "id": "23393839981",
@@ -13985,21 +13999,7 @@
       "posted_ts": 1788927535,
       "posted_at": "2026-09-09T04:18:55.570167+00:00",
       "score": 97.07
-    },
-    {
-      "key": "shopee:58261565925",
-      "marketplace": "shopee",
-      "id": "58261565925",
-      "title": "Kit 2 Pares Sandália Infantil Papete Menina Casual Leve Lançamento",
-      "title_norm": "kit 2 pares sandalia infantil papete menina casual leve lancamento",
-      "url": "https://shopee.com.br/product/1782683148/58261565925",
-      "affiliate_url": "https://s.shopee.com.br/112mGJeGc0",
-      "category": "Sandalias Baby Colorito",
-      "bucket": "pet",
-      "posted_ts": 1788927471,
-      "posted_at": "2026-09-09T04:17:51.677108+00:00",
-      "score": 98.18
     }
   ],
-  "updated_at": "2026-09-17T17:21:06.889049+00:00"
+  "updated_at": "2026-09-17T18:02:58.903104+00:00"
 }
