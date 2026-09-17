@@ -1,6 +1,20 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB3222635196",
+      "marketplace": "mercadolivre",
+      "id": "MLB3222635196",
+      "title": "Braçadeira para Aparelho Monitor Pressão Digital Infantil Omron",
+      "title_norm": "bracadeira para aparelho monitor pressao digital infantil omron",
+      "url": "https://www.mercadolivre.com.br/p/MLB21719639?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB21719639?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Informática",
+      "bucket": "informatica",
+      "posted_ts": 1789664564,
+      "posted_at": "2026-09-17T17:02:44.947866+00:00",
+      "score": 95.09
+    },
+    {
       "key": "shopee:22798799438",
       "marketplace": "shopee",
       "id": "22798799438",
@@ -13985,21 +13999,7 @@
       "posted_ts": 1788920456,
       "posted_at": "2026-09-09T02:20:56.436893+00:00",
       "score": 75.94
-    },
-    {
-      "key": "shopee:58209434564",
-      "marketplace": "shopee",
-      "id": "58209434564",
-      "title": "Cafeteira Elétrica Com Jarra Moderna 600ML15 Xícaras 550w",
-      "title_norm": "cafeteira eletrica com jarra moderna 600ml15 xicaras 550w",
-      "url": "https://shopee.com.br/product/1783877311/58209434564",
-      "affiliate_url": "https://s.shopee.com.br/80CWSwHiSt",
-      "category": "SHOPAY.",
-      "bucket": "casa_cozinha",
-      "posted_ts": 1788920392,
-      "posted_at": "2026-09-09T02:19:52.449914+00:00",
-      "score": 96.39
     }
   ],
-  "updated_at": "2026-09-17T16:21:35.966352+00:00"
+  "updated_at": "2026-09-17T17:02:44.947880+00:00"
 }

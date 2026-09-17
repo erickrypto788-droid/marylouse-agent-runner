@@ -1,6 +1,21 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB3222635196",
+      "product_id": "MLB3222635196",
+      "catalog_product_id": "MLB21719639",
+      "item_id": "MLB3222635196",
+      "url": "https://www.mercadolivre.com.br/p/MLB21719639?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB21719639?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "bracadeira para aparelho monitor pressao digital infantil omron",
+      "title": "Braçadeira para Aparelho Monitor Pressão Digital Infantil Omron",
+      "category": "Informática",
+      "price": 135.0,
+      "score": 95.09,
+      "posted_ts": 1789664564,
+      "posted_at": "2026-09-17T17:02:44.963035+00:00"
+    },
+    {
       "key": "mercadolivre:MLB5501712742",
       "product_id": "MLB5501712742",
       "catalog_product_id": "MLB21090695",
@@ -631,5 +646,5 @@
       "posted_at": "2026-09-15T19:07:54.315391+00:00"
     }
   ],
-  "updated_at": "2026-09-17T15:04:07.461063+00:00"
+  "updated_at": "2026-09-17T17:02:44.963047+00:00"
 }
