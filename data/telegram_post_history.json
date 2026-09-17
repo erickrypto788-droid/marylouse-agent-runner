@@ -1,6 +1,34 @@
 {
   "posts": [
     {
+      "key": "shopee:58263369269",
+      "marketplace": "shopee",
+      "id": "58263369269",
+      "title": "Tênis Masculino Academia Casual Esportivo Para Treino Crossfit Caminhada",
+      "title_norm": "tenis masculino academia casual esportivo para treino crossfit caminhada",
+      "url": "https://shopee.com.br/product/1598184222/58263369269",
+      "affiliate_url": "https://s.shopee.com.br/3B7UfMEa5D",
+      "category": "De Macedos 2.0",
+      "bucket": "calcados",
+      "posted_ts": 1789676271,
+      "posted_at": "2026-09-17T20:17:51.719279+00:00",
+      "score": 109.4
+    },
+    {
+      "key": "shopee:53660327247",
+      "marketplace": "shopee",
+      "id": "53660327247",
+      "title": "Tenis Shoe  Joil  Cadarço Grosso Masculino Feminino Unissex OG",
+      "title_norm": "tenis shoe joil cadarco grosso masculino feminino unissex og",
+      "url": "https://shopee.com.br/product/1458737764/53660327247",
+      "affiliate_url": "https://s.shopee.com.br/3g3lGHCg4M",
+      "category": "MC_shoes02",
+      "bucket": "calcados",
+      "posted_ts": 1789676207,
+      "posted_at": "2026-09-17T20:16:47.633825+00:00",
+      "score": 110.11
+    },
+    {
       "key": "mercadolivre:MLB5095655201",
       "marketplace": "mercadolivre",
       "id": "MLB5095655201",
@@ -13971,35 +13999,7 @@
       "posted_ts": 1788931256,
       "posted_at": "2026-09-09T05:20:56.752292+00:00",
       "score": 107.3
-    },
-    {
-      "key": "shopee:40552787490",
-      "marketplace": "shopee",
-      "id": "40552787490",
-      "title": "WHEY 900g O MAIS GOSTOSO DO BRASIL- DIVERSOS SABORES",
-      "title_norm": "whey 900g o mais gostoso do brasil diversos sabores",
-      "url": "https://shopee.com.br/product/733181094/40552787490",
-      "affiliate_url": "https://s.shopee.com.br/3g3XVL5lDg",
-      "category": "SUPER_PROMO",
-      "bucket": "super_promo",
-      "posted_ts": 1788931192,
-      "posted_at": "2026-09-09T05:19:52.648920+00:00",
-      "score": 109.99
-    },
-    {
-      "key": "shopee:22736025276",
-      "marketplace": "shopee",
-      "id": "22736025276",
-      "title": "Whey Blend Protein Concentrado e Isolado 900g Soldiers Nutrition Suplemento Proteína Muscular Recuperação",
-      "title_norm": "whey blend protein concentrado e isolado 900g soldiers nutrition suplemento proteina muscular recuperacao",
-      "url": "https://shopee.com.br/product/347988064/22736025276",
-      "affiliate_url": "https://s.shopee.com.br/2qUQVo8vuV",
-      "category": "Soldiers Nutrition",
-      "bucket": "pet",
-      "posted_ts": 1788931128,
-      "posted_at": "2026-09-09T05:18:48.572013+00:00",
-      "score": 111.56
     }
   ],
-  "updated_at": "2026-09-17T20:03:27.031212+00:00"
+  "updated_at": "2026-09-17T20:17:51.719300+00:00"
 }
