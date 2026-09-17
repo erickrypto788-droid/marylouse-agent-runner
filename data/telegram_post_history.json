@@ -1,6 +1,34 @@
 {
   "posts": [
     {
+      "key": "shopee:58214561301",
+      "marketplace": "shopee",
+      "id": "58214561301",
+      "title": "Chinelo Sandália Masculino Adulto Antiderrapante Leve Confortável Estiloso Ideal Para o Dia a Dia",
+      "title_norm": "chinelo sandalia masculino adulto antiderrapante leve confortavel estiloso ideal para o dia a dia",
+      "url": "https://shopee.com.br/product/1890252324/58214561301",
+      "affiliate_url": "https://s.shopee.com.br/1VzFLsrWnD",
+      "category": "Barrere Shoes",
+      "bucket": "calcados",
+      "posted_ts": 1789604276,
+      "posted_at": "2026-09-17T00:17:56.778831+00:00",
+      "score": 87.2
+    },
+    {
+      "key": "shopee:20199249608",
+      "marketplace": "shopee",
+      "id": "20199249608",
+      "title": "Tenis Sapatilha Masculino Casual Aquatico de Trilha Impermeável Com Solado Costurado E Elastico Ajustável",
+      "title_norm": "tenis sapatilha masculino casual aquatico de trilha impermeavel com solado costurado e elastico ajustavel",
+      "url": "https://shopee.com.br/product/1246015756/20199249608",
+      "affiliate_url": "https://s.shopee.com.br/40gaKTZD9H",
+      "category": "ShopShooes",
+      "bucket": "calcados",
+      "posted_ts": 1789604208,
+      "posted_at": "2026-09-17T00:16:48.461348+00:00",
+      "score": 100.12
+    },
+    {
       "key": "shopee:55957074597",
       "marketplace": "shopee",
       "id": "55957074597",
@@ -13971,35 +13999,7 @@
       "posted_ts": 1788866205,
       "posted_at": "2026-09-08T11:16:45.117764+00:00",
       "score": 102.94
-    },
-    {
-      "key": "shopee:44959639811",
-      "marketplace": "shopee",
-      "id": "44959639811",
-      "title": "Barra de Proteína Snacks Protein Bar Flash 35g 10 Unids Bodyaction",
-      "title_norm": "barra de proteina snacks protein bar flash 35g 10 unids bodyaction",
-      "url": "https://shopee.com.br/product/443076516/44959639811",
-      "affiliate_url": "https://s.shopee.com.br/70Jwwt3FFC",
-      "category": "Bodyaction Oficial",
-      "bucket": "bodyaction_oficial",
-      "posted_ts": 1788862874,
-      "posted_at": "2026-09-08T10:21:14.312081+00:00",
-      "score": 87.43
-    },
-    {
-      "key": "shopee:23299354946",
-      "marketplace": "shopee",
-      "id": "23299354946",
-      "title": "Garrafa Térmica 600ml Personalizada Com Base De Silicone Para Academia Escola E Trabalho",
-      "title_norm": "garrafa termica 600ml personalizada com base de silicone para academia escola e trabalho",
-      "url": "https://shopee.com.br/product/523894203/23299354946",
-      "affiliate_url": "https://s.shopee.com.br/5VVAQQF0Ne",
-      "category": "Twin Laser brindes",
-      "bucket": "twin_laser_brindes",
-      "posted_ts": 1788862810,
-      "posted_at": "2026-09-08T10:20:10.284672+00:00",
-      "score": 95.65
     }
   ],
-  "updated_at": "2026-09-16T23:21:15.595422+00:00"
+  "updated_at": "2026-09-17T00:17:56.778853+00:00"
 }
