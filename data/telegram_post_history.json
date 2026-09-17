@@ -1,6 +1,34 @@
 {
   "posts": [
     {
+      "key": "shopee:58255958592",
+      "marketplace": "shopee",
+      "id": "58255958592",
+      "title": "Tênis Feminino Casual Blogueira Confortável e Estiloso Envio Rápido",
+      "title_norm": "tenis feminino casual blogueira confortavel e estiloso envio rapido",
+      "url": "https://shopee.com.br/product/1408365296/58255958592",
+      "affiliate_url": "https://s.shopee.com.br/3LQuvmKrcp",
+      "category": "Essenzia Calçados✔️",
+      "bucket": "calcados",
+      "posted_ts": 1789679874,
+      "posted_at": "2026-09-17T21:17:54.754526+00:00",
+      "score": 109.59
+    },
+    {
+      "key": "shopee:10339950472",
+      "marketplace": "shopee",
+      "id": "10339950472",
+      "title": "Tênis Para Caminhada Feminino Academia Trança Confortável Leve Novidade",
+      "title_norm": "tenis para caminhada feminino academia tranca confortavel leve novidade",
+      "url": "https://shopee.com.br/product/519901060/10339950472",
+      "affiliate_url": "https://s.shopee.com.br/2gBE8YNOyl",
+      "category": "Evoltenn Point",
+      "bucket": "calcados",
+      "posted_ts": 1789679806,
+      "posted_at": "2026-09-17T21:16:46.572092+00:00",
+      "score": 120.09
+    },
+    {
       "key": "shopee:58263369269",
       "marketplace": "shopee",
       "id": "58263369269",
@@ -13971,35 +13999,7 @@
       "posted_ts": 1788934668,
       "posted_at": "2026-09-09T06:17:48.344771+00:00",
       "score": 92.98
-    },
-    {
-      "key": "shopee:23994061112",
-      "marketplace": "shopee",
-      "id": "23994061112",
-      "title": "Sapatinho de bebê - Sapatilha Boneca Feminina Batizado",
-      "title_norm": "sapatinho de bebe sapatilha boneca feminina batizado",
-      "url": "https://shopee.com.br/product/816642727/23994061112",
-      "affiliate_url": "https://s.shopee.com.br/9AOU7ZR8za",
-      "category": "Sassá Baby Confecções",
-      "bucket": "sassa_baby_confeccoes",
-      "posted_ts": 1788934604,
-      "posted_at": "2026-09-09T06:16:44.057725+00:00",
-      "score": 93.15
-    },
-    {
-      "key": "shopee:23998684746",
-      "marketplace": "shopee",
-      "id": "23998684746",
-      "title": "Kit de Halteres Treino 20 Kg Bonafit 3 em 1 Musculação Ajustável Segurança e Durabilidade + Ebook",
-      "title_norm": "kit de halteres treino 20 kg bonafit 3 em 1 musculacao ajustavel seguranca e durabilidade ebook",
-      "url": "https://shopee.com.br/product/405481102/23998684746",
-      "affiliate_url": "https://s.shopee.com.br/5AsLI5iepl",
-      "category": "aheadsports",
-      "bucket": "aheadsports",
-      "posted_ts": 1788931256,
-      "posted_at": "2026-09-09T05:20:56.752292+00:00",
-      "score": 107.3
     }
   ],
-  "updated_at": "2026-09-17T20:17:51.719300+00:00"
+  "updated_at": "2026-09-17T21:17:54.754544+00:00"
 }
