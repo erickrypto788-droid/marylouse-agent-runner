@@ -1,6 +1,21 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB5747632298",
+      "product_id": "MLB5747632298",
+      "catalog_product_id": "MLB58174814",
+      "item_id": "MLB5747632298",
+      "url": "https://www.mercadolivre.com.br/p/MLB58174814?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB58174814?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "calca legging redutora miracle belt cor preto tamanho pp",
+      "title": "Calça Legging Redutora Miracle Belt Cor Preto Tamanho Pp",
+      "category": "Moda Feminina",
+      "price": 279.9,
+      "score": 88.0,
+      "posted_ts": 1789625031,
+      "posted_at": "2026-09-17T06:03:51.209859+00:00"
+    },
+    {
       "key": "mercadolivre:MLB6442123488",
       "product_id": "MLB6442123488",
       "catalog_product_id": "MLB65794107",
@@ -571,5 +586,5 @@
       "posted_at": "2026-09-15T09:02:26.222996+00:00"
     }
   ],
-  "updated_at": "2026-09-17T05:09:57.699144+00:00"
+  "updated_at": "2026-09-17T06:03:51.209869+00:00"
 }
