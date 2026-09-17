@@ -1,6 +1,34 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB5501712742",
+      "marketplace": "mercadolivre",
+      "id": "MLB5501712742",
+      "title": "Estojo magnético da série Crystal para iPhone 13, iPhone 13 Pro, iPhone 13 Pro Max, iPhone 14, iPhone 14 Pro, iPhone 14 Pro Max",
+      "title_norm": "estojo magnetico da serie crystal para iphone 13 iphone 13 pro iphone 13 pro max iphone 14 iphone 14 pro iphone 14 pro max",
+      "url": "https://www.mercadolivre.com.br/p/MLB21090695?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB21090695?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Informática",
+      "bucket": "celulares",
+      "posted_ts": 1789657447,
+      "posted_at": "2026-09-17T15:04:07.447833+00:00",
+      "score": 114.0
+    },
+    {
+      "key": "mercadolivre:MLB7650020050",
+      "marketplace": "mercadolivre",
+      "id": "MLB7650020050",
+      "title": "Motorola Smartphone Motorola Razr 50 Ultra 5g Cor Pink",
+      "title_norm": "motorola smartphone motorola razr 50 ultra 5g cor pink",
+      "url": "https://www.mercadolivre.com.br/p/MLB47306242?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB47306242?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Informática",
+      "bucket": "celulares",
+      "posted_ts": 1789657382,
+      "posted_at": "2026-09-17T15:03:02.459269+00:00",
+      "score": 124.0
+    },
+    {
       "key": "shopee:58205895349",
       "marketplace": "shopee",
       "id": "58205895349",
@@ -13971,35 +13999,7 @@
       "posted_ts": 1788916865,
       "posted_at": "2026-09-09T01:21:05.557577+00:00",
       "score": 77.75
-    },
-    {
-      "key": "shopee:58205140425",
-      "marketplace": "shopee",
-      "id": "58205140425",
-      "title": "Película De Privacidade 3D Vidro Temperado Anti-Spy  Compatível Samsung A07 A17 A37 A57",
-      "title_norm": "pelicula de privacidade 3d vidro temperado anti spy compativel samsung a07 a17 a37 a57",
-      "url": "https://shopee.com.br/product/1240425443/58205140425",
-      "affiliate_url": "https://s.shopee.com.br/9KhtzH131M",
-      "category": "TopToki",
-      "bucket": "toptoki",
-      "posted_ts": 1788916801,
-      "posted_at": "2026-09-09T01:20:01.080709+00:00",
-      "score": 93.36
-    },
-    {
-      "key": "shopee:58255641529",
-      "marketplace": "shopee",
-      "id": "58255641529",
-      "title": "Fone Pro Sem Fio Som HiFi 8D Pop-Up Automático Toque Inteligente Bateria 5–7h Bluetooth Universal",
-      "title_norm": "fone pro sem fio som hifi 8d pop up automatico toque inteligente bateria 5 7h bluetooth universal",
-      "url": "https://shopee.com.br/product/1620481153/58255641529",
-      "affiliate_url": "https://s.shopee.com.br/W6VT2hgL7",
-      "category": "Achados&Pedidos",
-      "bucket": "achados_pedidos",
-      "posted_ts": 1788916736,
-      "posted_at": "2026-09-09T01:18:56.883192+00:00",
-      "score": 102.27
     }
   ],
-  "updated_at": "2026-09-17T14:21:41.165056+00:00"
+  "updated_at": "2026-09-17T15:04:07.447846+00:00"
 }

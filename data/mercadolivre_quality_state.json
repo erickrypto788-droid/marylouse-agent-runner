@@ -1,6 +1,36 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB5501712742",
+      "product_id": "MLB5501712742",
+      "catalog_product_id": "MLB21090695",
+      "item_id": "MLB5501712742",
+      "url": "https://www.mercadolivre.com.br/p/MLB21090695?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB21090695?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "estojo magnetico da serie crystal para iphone 13 iphone 13 pro iphone 13 pro max iphone 14 iphone 14 pro iphone 14 pro max",
+      "title": "Estojo magnético da série Crystal para iPhone 13, iPhone 13 Pro, iPhone 13 Pro Max, iPhone 14, iPhone 14 Pro, iPhone 14 Pro Max",
+      "category": "Informática",
+      "price": 99.9,
+      "score": 114.0,
+      "posted_ts": 1789657447,
+      "posted_at": "2026-09-17T15:04:07.461055+00:00"
+    },
+    {
+      "key": "mercadolivre:MLB7650020050",
+      "product_id": "MLB7650020050",
+      "catalog_product_id": "MLB47306242",
+      "item_id": "MLB7650020050",
+      "url": "https://www.mercadolivre.com.br/p/MLB47306242?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB47306242?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "motorola smartphone motorola razr 50 ultra 5g cor pink",
+      "title": "Motorola Smartphone Motorola Razr 50 Ultra 5g Cor Pink",
+      "category": "Informática",
+      "price": 4199.99,
+      "score": 124.0,
+      "posted_ts": 1789657382,
+      "posted_at": "2026-09-17T15:03:02.472986+00:00"
+    },
+    {
       "key": "mercadolivre:MLB6483255322",
       "product_id": "MLB6483255322",
       "catalog_product_id": "MLB62010143",
@@ -599,37 +629,7 @@
       "score": 116.39,
       "posted_ts": 1789499274,
       "posted_at": "2026-09-15T19:07:54.315391+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB4109571517",
-      "product_id": "MLB4109571517",
-      "catalog_product_id": "MLB28523781",
-      "item_id": "MLB4109571517",
-      "url": "https://www.mercadolivre.com.br/p/MLB28523781?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB28523781?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "alimento royal canin hair skin 3kg racao gato",
-      "title": "Alimento Royal Canin Hair & Skin 3kg Ração Gato",
-      "category": "Pet",
-      "price": 257.0,
-      "score": 122.92,
-      "posted_ts": 1789484617,
-      "posted_at": "2026-09-15T15:03:37.238120+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB4694661245",
-      "product_id": "MLB4694661245",
-      "catalog_product_id": "MLB67529462",
-      "item_id": "MLB4694661245",
-      "url": "https://www.mercadolivre.com.br/p/MLB67529462?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB67529462?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "comedouro elevado duplo racao gato porcelana acrilico 190ml porta racao gato comedouro rosa",
-      "title": "Comedouro Elevado Duplo Ração Gato Porcelana Acrilico 190ml Porta Racao Gato Comedouro Rosa",
-      "category": "Pet",
-      "price": 49.9,
-      "score": 146.91,
-      "posted_ts": 1789484553,
-      "posted_at": "2026-09-15T15:02:33.166236+00:00"
     }
   ],
-  "updated_at": "2026-09-17T14:02:40.561155+00:00"
+  "updated_at": "2026-09-17T15:04:07.461063+00:00"
 }
