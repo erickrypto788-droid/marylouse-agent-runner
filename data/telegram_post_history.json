@@ -1,6 +1,48 @@
 {
   "posts": [
     {
+      "key": "shopee:22497089311",
+      "marketplace": "shopee",
+      "id": "22497089311",
+      "title": "Mochila Masculina Bolsa Feminina Notebook Escolar Resistente Oferta",
+      "title_norm": "mochila masculina bolsa feminina notebook escolar resistente oferta",
+      "url": "https://shopee.com.br/product/752743341/22497089311",
+      "affiliate_url": "https://s.shopee.com.br/3g3kb4fcwP",
+      "category": "Fenix Abdon",
+      "bucket": "informatica",
+      "posted_ts": 1789640341,
+      "posted_at": "2026-09-17T10:19:01.037712+00:00",
+      "score": 89.4
+    },
+    {
+      "key": "shopee:20399869941",
+      "marketplace": "shopee",
+      "id": "20399869941",
+      "title": "Bolsa de Praia Feminina Alça de Corda Elegante Grande e Resistente",
+      "title_norm": "bolsa de praia feminina alca de corda elegante grande e resistente",
+      "url": "https://shopee.com.br/product/1448484843/20399869941",
+      "affiliate_url": "https://s.shopee.com.br/1VzG15jL2l",
+      "category": "YL.BR.BOLSAS",
+      "bucket": "bolsas",
+      "posted_ts": 1789640271,
+      "posted_at": "2026-09-17T10:17:51.978038+00:00",
+      "score": 106.6
+    },
+    {
+      "key": "shopee:23198643344",
+      "marketplace": "shopee",
+      "id": "23198643344",
+      "title": "Bolsa Feminina Crossbody Transversal Pequena Necessaire Tecido Impermeável",
+      "title_norm": "bolsa feminina crossbody transversal pequena necessaire tecido impermeavel",
+      "url": "https://shopee.com.br/product/1448484843/23198643344",
+      "affiliate_url": "https://s.shopee.com.br/W6ipFw0tt",
+      "category": "YL.BR.BOLSAS",
+      "bucket": "bolsas",
+      "posted_ts": 1789640207,
+      "posted_at": "2026-09-17T10:16:47.806267+00:00",
+      "score": 108.75
+    },
+    {
       "key": "mercadolivre:MLB7649795198",
       "marketplace": "mercadolivre",
       "id": "MLB7649795198",
@@ -13957,49 +13999,7 @@
       "posted_ts": 1788902275,
       "posted_at": "2026-09-08T21:17:55.645364+00:00",
       "score": 97.94
-    },
-    {
-      "key": "shopee:58257154952",
-      "marketplace": "shopee",
-      "id": "58257154952",
-      "title": "kit 5 Camisetas Verazzi Premium - camisa masculina",
-      "title_norm": "kit 5 camisetas verazzi premium camisa masculina",
-      "url": "https://shopee.com.br/product/1087258264/58257154952",
-      "affiliate_url": "https://s.shopee.com.br/4qFUMWZB23",
-      "category": "Verazzi",
-      "bucket": "verazzi",
-      "posted_ts": 1788902211,
-      "posted_at": "2026-09-08T21:16:51.172215+00:00",
-      "score": 98.51
-    },
-    {
-      "key": "shopee:22892923302",
-      "marketplace": "shopee",
-      "id": "22892923302",
-      "title": "Sapato Feminino Shekinah Scarpin Bico Fino Salto Bloco Grosso Noiva Casamento",
-      "title_norm": "sapato feminino shekinah scarpin bico fino salto bloco grosso noiva casamento",
-      "url": "https://shopee.com.br/product/375175329/22892923302",
-      "affiliate_url": "https://s.shopee.com.br/9AOTSMh2AM",
-      "category": "Shekinah Calçados",
-      "bucket": "calcados",
-      "posted_ts": 1788898881,
-      "posted_at": "2026-09-08T20:21:21.104352+00:00",
-      "score": 94.76
-    },
-    {
-      "key": "shopee:22094702926",
-      "marketplace": "shopee",
-      "id": "22094702926",
-      "title": "top fitness feminino top academia feminino  top suplex firme top esportivo com sustentação top treino feminino",
-      "title_norm": "top fitness feminino top academia feminino top suplex firme top esportivo com sustentacao top treino feminino",
-      "url": "https://shopee.com.br/product/1664415227/22094702926",
-      "affiliate_url": "https://s.shopee.com.br/1AEXWbvcb",
-      "category": "Fej Matos.store",
-      "bucket": "fej_matos_store",
-      "posted_ts": 1788898816,
-      "posted_at": "2026-09-08T20:20:16.954220+00:00",
-      "score": 105.27
     }
   ],
-  "updated_at": "2026-09-17T10:03:42.286662+00:00"
+  "updated_at": "2026-09-17T10:19:01.037728+00:00"
 }
