@@ -1,6 +1,48 @@
 {
   "posts": [
     {
+      "key": "shopee:54359629558",
+      "marketplace": "shopee",
+      "id": "54359629558",
+      "title": "Sérum Roll-On Área dos Olhos Adeus Olheiras 10ml Kokeshi",
+      "title_norm": "serum roll on area dos olhos adeus olheiras 10ml kokeshi",
+      "url": "https://shopee.com.br/product/395166866/54359629558",
+      "affiliate_url": "https://s.shopee.com.br/4LJSO6denv",
+      "category": "KOKESHI OFICIAL",
+      "bucket": "kokeshi_oficial",
+      "posted_ts": 1789694364,
+      "posted_at": "2026-09-18T01:19:24.743742+00:00",
+      "score": 103.25
+    },
+    {
+      "key": "shopee:58262141857",
+      "marketplace": "shopee",
+      "id": "58262141857",
+      "title": "Perfumes Brand Collection 25ml - Fragrâncias femininas",
+      "title_norm": "perfumes brand collection 25ml fragrancias femininas",
+      "url": "https://shopee.com.br/product/1165606860/58262141857",
+      "affiliate_url": "https://s.shopee.com.br/8V91Ll1vxq",
+      "category": "Beleza Real Oficial",
+      "bucket": "beleza",
+      "posted_ts": 1789694300,
+      "posted_at": "2026-09-18T01:18:20.562746+00:00",
+      "score": 131.58
+    },
+    {
+      "key": "shopee:22893937935",
+      "marketplace": "shopee",
+      "id": "22893937935",
+      "title": "Secador Profissional com Difusor 127V ou 220V 5 Temperaturas Turbo Íons Negativos Secagem Rápida Anti-Frizz LONYAN 8020",
+      "title_norm": "secador profissional com difusor 127v ou 220v 5 temperaturas turbo ions negativos secagem rapida anti frizz lonyan 8020",
+      "url": "https://shopee.com.br/product/1523743098/22893937935",
+      "affiliate_url": "https://s.shopee.com.br/4LJSO6QSRv",
+      "category": "LONYAN-BR",
+      "bucket": "beleza",
+      "posted_ts": 1789694232,
+      "posted_at": "2026-09-18T01:17:12.187247+00:00",
+      "score": 133.47
+    },
+    {
       "key": "shopee:23993933147",
       "marketplace": "shopee",
       "id": "23993933147",
@@ -13957,49 +13999,7 @@
       "posted_ts": 1788945058,
       "posted_at": "2026-09-09T09:10:58.821594+00:00",
       "score": 89.0
-    },
-    {
-      "key": "mercadolivre:MLB7607433046",
-      "marketplace": "mercadolivre",
-      "id": "MLB7607433046",
-      "title": "Hidratante Corporal Morango",
-      "title_norm": "hidratante corporal morango",
-      "url": "https://www.mercadolivre.com.br/p/MLB54165149?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB54165149?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "category": "Beleza",
-      "bucket": "beleza",
-      "posted_ts": 1788944986,
-      "posted_at": "2026-09-09T09:09:46.636525+00:00",
-      "score": 94.09
-    },
-    {
-      "key": "mercadolivre:MLB7229156370",
-      "marketplace": "mercadolivre",
-      "id": "MLB7229156370",
-      "title": "Papel Toalha Interfolha 100% Celulose Folha Dupla 2000 Folha",
-      "title_norm": "papel toalha interfolha 100 celulose folha dupla 2000 folha",
-      "url": "https://www.mercadolivre.com.br/p/MLB64993485?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB64993485?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "category": "Supermercados",
-      "bucket": "supermercados",
-      "posted_ts": 1788944918,
-      "posted_at": "2026-09-09T09:08:38.942739+00:00",
-      "score": 105.67
-    },
-    {
-      "key": "mercadolivre:MLB6425142428",
-      "marketplace": "mercadolivre",
-      "id": "MLB6425142428",
-      "title": "Fralda Pampers Confort Sec G 38 Unidades",
-      "title_norm": "fralda pampers confort sec g 38 unidades",
-      "url": "https://www.mercadolivre.com.br/p/MLB33581064?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB33581064?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "category": "Mãe e Bebê",
-      "bucket": "fraldas",
-      "posted_ts": 1788944850,
-      "posted_at": "2026-09-09T09:07:30.084478+00:00",
-      "score": 130.0
     }
   ],
-  "updated_at": "2026-09-18T00:19:59.557053+00:00"
+  "updated_at": "2026-09-18T01:19:24.743759+00:00"
 }
