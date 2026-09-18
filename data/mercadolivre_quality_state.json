@@ -1,6 +1,21 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB4964833443",
+      "product_id": "MLB4964833443",
+      "catalog_product_id": "MLB18715385",
+      "item_id": "MLB4964833443",
+      "url": "https://www.mercadolivre.com.br/p/MLB18715385?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB18715385?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "fralda pampers pants ajuste total xxg 60 unidades",
+      "title": "Fralda Pampers Pants Ajuste Total XXG 60 Unidades",
+      "category": "Mãe e Bebê",
+      "price": 143.64,
+      "score": 151.5,
+      "posted_ts": 1789747705,
+      "posted_at": "2026-09-18T16:08:25.967201+00:00"
+    },
+    {
       "key": "mercadolivre:MLB4778272375",
       "product_id": "MLB4778272375",
       "catalog_product_id": "MLB73518090",
@@ -569,52 +584,7 @@
       "score": 188.67,
       "posted_ts": 1789578167,
       "posted_at": "2026-09-16T17:02:47.035502+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB4095236823",
-      "product_id": "MLB4095236823",
-      "catalog_product_id": "MLB32947723",
-      "item_id": "MLB4095236823",
-      "url": "https://www.mercadolivre.com.br/p/MLB32947723?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB32947723?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "conjunto panelas antiaderente tramontina 5pecas vermelho",
-      "title": "Conjunto Panelas Antiaderente Tramontina 5peças Vermelho",
-      "category": "Casa e Cozinha",
-      "price": 299.0,
-      "score": 111.02,
-      "posted_ts": 1789567464,
-      "posted_at": "2026-09-16T14:04:24.984568+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB4040219599",
-      "product_id": "MLB4040219599",
-      "catalog_product_id": "MLB36244629",
-      "item_id": "MLB4040219599",
-      "url": "https://www.mercadolivre.com.br/p/MLB36244629?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB36244629?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "calca feminina tamanho m texx impermeavel com protecao conforto viagem moto motociclista",
-      "title": "Calça Feminina Tamanho M Texx Impermeável Com Proteção Conforto Viagem Moto Motociclista",
-      "category": "Moda Feminina",
-      "price": 399.0,
-      "score": 86.0,
-      "posted_ts": 1789563900,
-      "posted_at": "2026-09-16T13:05:00.899858+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB7209542710",
-      "product_id": "MLB7209542710",
-      "catalog_product_id": "MLB69276346",
-      "item_id": "MLB7209542710",
-      "url": "https://www.mercadolivre.com.br/p/MLB69276346?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB69276346?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "calca legging fitness feminina ausare com protecao uv 50 para academia yoga e pilates",
-      "title": "Calça Legging Fitness Feminina Ausare com Proteção UV 50+ para Academia, Yoga e Pilates",
-      "category": "Moda Feminina",
-      "price": 78.9,
-      "score": 88.0,
-      "posted_ts": 1789563836,
-      "posted_at": "2026-09-16T13:03:56.696840+00:00"
     }
   ],
-  "updated_at": "2026-09-18T13:02:47.171431+00:00"
+  "updated_at": "2026-09-18T16:08:25.967212+00:00"
 }

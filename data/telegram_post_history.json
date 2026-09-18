@@ -1,6 +1,20 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB4964833443",
+      "marketplace": "mercadolivre",
+      "id": "MLB4964833443",
+      "title": "Fralda Pampers Pants Ajuste Total XXG 60 Unidades",
+      "title_norm": "fralda pampers pants ajuste total xxg 60 unidades",
+      "url": "https://www.mercadolivre.com.br/p/MLB18715385?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB18715385?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Mãe e Bebê",
+      "bucket": "fraldas",
+      "posted_ts": 1789747705,
+      "posted_at": "2026-09-18T16:08:25.953153+00:00",
+      "score": 151.5
+    },
+    {
       "key": "shopee:23994721900",
       "marketplace": "shopee",
       "id": "23994721900",
@@ -13985,21 +13999,7 @@
       "posted_ts": 1788996057,
       "posted_at": "2026-09-09T23:20:57.831628+00:00",
       "score": 76.85
-    },
-    {
-      "key": "shopee:22394495140",
-      "marketplace": "shopee",
-      "id": "22394495140",
-      "title": "KIT Infantil Camiseta e Bermuda Elastano E Juvenil Masculino Com Elástico e BOLSOS  04 á 16",
-      "title_norm": "kit infantil camiseta e bermuda elastano e juvenil masculino com elastico e bolsos 04 a 16",
-      "url": "https://shopee.com.br/product/1326488733/22394495140",
-      "affiliate_url": "https://s.shopee.com.br/6L4JPZdmKn",
-      "category": "ORIGIN'S KPDS",
-      "bucket": "origin_s_kpds",
-      "posted_ts": 1788995993,
-      "posted_at": "2026-09-09T23:19:53.813127+00:00",
-      "score": 90.32
     }
   ],
-  "updated_at": "2026-09-18T15:23:12.140748+00:00"
+  "updated_at": "2026-09-18T16:08:25.953168+00:00"
 }
