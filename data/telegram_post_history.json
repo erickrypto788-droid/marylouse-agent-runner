@@ -1,6 +1,34 @@
 {
   "posts": [
     {
+      "key": "shopee:12820428668",
+      "marketplace": "shopee",
+      "id": "12820428668",
+      "title": "Sapatenis Masculino Star Fox Ziper e Cadarço Calce Casual A1",
+      "title_norm": "sapatenis masculino star fox ziper e cadarco calce casual a1",
+      "url": "https://shopee.com.br/product/294355829/12820428668",
+      "affiliate_url": "https://s.shopee.com.br/2Vrns8Pqhl",
+      "category": "Star Fox Calçados",
+      "bucket": "calcados",
+      "posted_ts": 1789748315,
+      "posted_at": "2026-09-18T16:18:35.965145+00:00",
+      "score": 89.19
+    },
+    {
+      "key": "shopee:23099043450",
+      "marketplace": "shopee",
+      "id": "23099043450",
+      "title": "Bota Galocha Impermeável EPI com C.A. Original Proteção Chuva Motoboy Limpeza ENVIO IMEDIATO",
+      "title_norm": "bota galocha impermeavel epi com c a original protecao chuva motoboy limpeza envio imediato",
+      "url": "https://shopee.com.br/product/620096607/23099043450",
+      "affiliate_url": "https://s.shopee.com.br/60Rg2ZLFtu",
+      "category": "MTSSHOES",
+      "bucket": "calcados",
+      "posted_ts": 1789748251,
+      "posted_at": "2026-09-18T16:17:31.819493+00:00",
+      "score": 95.33
+    },
+    {
       "key": "mercadolivre:MLB4964833443",
       "marketplace": "mercadolivre",
       "id": "MLB4964833443",
@@ -13971,35 +13999,7 @@
       "posted_ts": 1788999479,
       "posted_at": "2026-09-10T00:17:59.273902+00:00",
       "score": 107.69
-    },
-    {
-      "key": "shopee:23197485445",
-      "marketplace": "shopee",
-      "id": "23197485445",
-      "title": "Whey Protein Fuse 900g Isolate Dark Lab",
-      "title_norm": "whey protein fuse 900g isolate dark lab",
-      "url": "https://shopee.com.br/product/1242044379/23197485445",
-      "affiliate_url": "https://s.shopee.com.br/40gPAFwnkx",
-      "category": "Dark Lab Oficial",
-      "bucket": "dark_lab_oficial",
-      "posted_ts": 1788999415,
-      "posted_at": "2026-09-10T00:16:55.021897+00:00",
-      "score": 123.27
-    },
-    {
-      "key": "shopee:23397999673",
-      "marketplace": "shopee",
-      "id": "23397999673",
-      "title": "Kit 6 Peças de Roupas Infantil Menina Conjunto Verão Algodão",
-      "title_norm": "kit 6 pecas de roupas infantil menina conjunto verao algodao",
-      "url": "https://shopee.com.br/product/989001237/23397999673",
-      "affiliate_url": "https://s.shopee.com.br/qjNKITLsC",
-      "category": "TikTak Kids",
-      "bucket": "tiktak_kids",
-      "posted_ts": 1788996057,
-      "posted_at": "2026-09-09T23:20:57.831628+00:00",
-      "score": 76.85
     }
   ],
-  "updated_at": "2026-09-18T16:08:25.953168+00:00"
+  "updated_at": "2026-09-18T16:18:35.965165+00:00"
 }
