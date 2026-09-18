@@ -1,6 +1,36 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB5245536217",
+      "product_id": "MLB5245536217",
+      "catalog_product_id": "MLB65973005",
+      "item_id": "MLB5245536217",
+      "url": "https://www.mercadolivre.com.br/p/MLB65973005?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB65973005?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "celular samsung galaxy a06 5g preto",
+      "title": "Celular Samsung Galaxy A06 5g Preto",
+      "category": "Informática",
+      "price": 999.0,
+      "score": 127.0,
+      "posted_ts": 1789722355,
+      "posted_at": "2026-09-18T09:05:55.500420+00:00"
+    },
+    {
+      "key": "mercadolivre:MLB5919313906",
+      "product_id": "MLB5919313906",
+      "catalog_product_id": "MLB24099360",
+      "item_id": "MLB5919313906",
+      "url": "https://www.mercadolivre.com.br/p/MLB24099360?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB24099360?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "carregador portatil 20000mah bahrein power bank universal power bank carga rapida com display bahrein compativel com todos celulares iphone android ios apple xiaomi samsung motorola",
+      "title": "Carregador Portátil 20000mAh Bahrein Power Bank Universal Power Bank Carga Rápida Com Display Bahrein Compatível Com Todos Celulares Iphone Android IOS apple xiaomi Samsung Motorola",
+      "category": "Informática",
+      "price": 66.9,
+      "score": 149.86,
+      "posted_ts": 1789722228,
+      "posted_at": "2026-09-18T09:03:48.469111+00:00"
+    },
+    {
       "key": "mercadolivre:MLB5250415907",
       "product_id": "MLB5250415907",
       "catalog_product_id": "MLB27345327",
@@ -599,37 +629,7 @@
       "score": 141.22,
       "posted_ts": 1789560389,
       "posted_at": "2026-09-16T12:06:29.653194+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB4623002845",
-      "product_id": "MLB4623002845",
-      "catalog_product_id": "MLB24839034",
-      "item_id": "MLB4623002845",
-      "url": "https://www.mercadolivre.com.br/p/MLB24839034?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB24839034?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "racao gato alimento vittamax premium especial 10 1kg peixe",
-      "title": "Ração Gato Alimento Vittamax Premium Especial 10,1kg - Peixe",
-      "category": "Pet",
-      "price": 135.7,
-      "score": 121.2,
-      "posted_ts": 1789545965,
-      "posted_at": "2026-09-16T08:06:05.226912+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB4974714813",
-      "product_id": "MLB4974714813",
-      "catalog_product_id": "MLB66844874",
-      "item_id": "MLB4974714813",
-      "url": "https://www.mercadolivre.com.br/p/MLB66844874?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB66844874?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "racao gato estimacat premium filhote sabor frango 10kg",
-      "title": "Ração Gato Estimacat Premium Filhote Sabor Frango 10kg",
-      "category": "Pet",
-      "price": 253.07,
-      "score": 154.83,
-      "posted_ts": 1789545882,
-      "posted_at": "2026-09-16T08:04:42.088522+00:00"
     }
   ],
-  "updated_at": "2026-09-18T07:03:22.799469+00:00"
+  "updated_at": "2026-09-18T09:05:55.500434+00:00"
 }
