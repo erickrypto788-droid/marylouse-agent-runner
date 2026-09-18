@@ -1,6 +1,20 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB7270317978",
+      "marketplace": "mercadolivre",
+      "id": "MLB7270317978",
+      "title": "Prancha Esteira Ergométrica Deck Múltipla T3000 Preto",
+      "title_norm": "prancha esteira ergometrica deck multipla t3000 preto",
+      "url": "https://www.mercadolivre.com.br/p/MLB75817587?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB75817587?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Esportes",
+      "bucket": "esportes",
+      "posted_ts": 1789696969,
+      "posted_at": "2026-09-18T02:02:49.399605+00:00",
+      "score": 103.53
+    },
+    {
       "key": "shopee:54359629558",
       "marketplace": "shopee",
       "id": "54359629558",
@@ -13985,21 +13999,7 @@
       "posted_ts": 1788945404,
       "posted_at": "2026-09-09T09:16:44.140329+00:00",
       "score": 114.56
-    },
-    {
-      "key": "mercadolivre:MLB5807012940",
-      "marketplace": "mercadolivre",
-      "id": "MLB5807012940",
-      "title": "Creme Dental 50 Gr - Bioxtra",
-      "title_norm": "creme dental 50 gr bioxtra",
-      "url": "https://www.mercadolivre.com.br/p/MLB20572035?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB20572035?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "category": "Supermercados",
-      "bucket": "supermercados",
-      "posted_ts": 1788945058,
-      "posted_at": "2026-09-09T09:10:58.821594+00:00",
-      "score": 89.0
     }
   ],
-  "updated_at": "2026-09-18T01:19:24.743759+00:00"
+  "updated_at": "2026-09-18T02:02:49.399620+00:00"
 }

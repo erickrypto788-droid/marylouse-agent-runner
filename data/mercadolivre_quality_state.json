@@ -1,6 +1,21 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB7270317978",
+      "product_id": "MLB7270317978",
+      "catalog_product_id": "MLB75817587",
+      "item_id": "MLB7270317978",
+      "url": "https://www.mercadolivre.com.br/p/MLB75817587?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB75817587?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "prancha esteira ergometrica deck multipla t3000 preto",
+      "title": "Prancha Esteira Ergométrica Deck Múltipla T3000 Preto",
+      "category": "Esportes",
+      "price": 270.57,
+      "score": 103.53,
+      "posted_ts": 1789696969,
+      "posted_at": "2026-09-18T02:02:49.413544+00:00"
+    },
+    {
       "key": "mercadolivre:MLB4617422337",
       "product_id": "MLB4617422337",
       "catalog_product_id": "MLB68298172",
@@ -661,5 +676,5 @@
       "posted_at": "2026-09-16T02:03:01.787137+00:00"
     }
   ],
-  "updated_at": "2026-09-17T23:05:15.713935+00:00"
+  "updated_at": "2026-09-18T02:02:49.413555+00:00"
 }
