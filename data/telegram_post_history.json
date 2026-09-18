@@ -1,6 +1,20 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB6714509354",
+      "marketplace": "mercadolivre",
+      "id": "MLB6714509354",
+      "title": "Luva Academia Musculação Fitness Tamanho P",
+      "title_norm": "luva academia musculacao fitness tamanho p",
+      "url": "https://www.mercadolivre.com.br/p/MLB69134972?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB69134972?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Esportes",
+      "bucket": "esportes",
+      "posted_ts": 1789761793,
+      "posted_at": "2026-09-18T20:03:13.202679+00:00",
+      "score": 103.03
+    },
+    {
       "key": "shopee:58254696881",
       "marketplace": "shopee",
       "id": "58254696881",
@@ -13985,21 +13999,7 @@
       "posted_ts": 1789006666,
       "posted_at": "2026-09-10T02:17:46.589211+00:00",
       "score": 109.18
-    },
-    {
-      "key": "shopee:22398354191",
-      "marketplace": "shopee",
-      "id": "22398354191",
-      "title": "Garrafa Térmica 1 Litro Com Termômetro Led Para Chás / Café Design Moderno quente até 24h OMINI",
-      "title_norm": "garrafa termica 1 litro com termometro led para chas cafe design moderno quente ate 24h omini",
-      "url": "https://shopee.com.br/product/1264719671/22398354191",
-      "affiliate_url": "https://s.shopee.com.br/3g3YtruigE",
-      "category": "omni commerce",
-      "bucket": "saude",
-      "posted_ts": 1789006602,
-      "posted_at": "2026-09-10T02:16:42.616283+00:00",
-      "score": 117.46
     }
   ],
-  "updated_at": "2026-09-18T19:19:06.994363+00:00"
+  "updated_at": "2026-09-18T20:03:13.202696+00:00"
 }
