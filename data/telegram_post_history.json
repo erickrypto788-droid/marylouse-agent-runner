@@ -1,6 +1,34 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB5293973662",
+      "marketplace": "mercadolivre",
+      "id": "MLB5293973662",
+      "title": "Lizz Aparelho Aparador Pelos Elétrico Navalhete Profissional",
+      "title_norm": "lizz aparelho aparador pelos eletrico navalhete profissional",
+      "url": "https://www.mercadolivre.com.br/p/MLB29263256?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB29263256?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Beleza",
+      "bucket": "beleza",
+      "posted_ts": 1789700616,
+      "posted_at": "2026-09-18T03:03:36.921201+00:00",
+      "score": 88.0
+    },
+    {
+      "key": "mercadolivre:MLB5167218221",
+      "marketplace": "mercadolivre",
+      "id": "MLB5167218221",
+      "title": "Kit Maquina Cortar Cabelo + Maquina Barbeador Recarregavel",
+      "title_norm": "kit maquina cortar cabelo maquina barbeador recarregavel",
+      "url": "https://www.mercadolivre.com.br/p/MLB20624919?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB20624919?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Beleza",
+      "bucket": "beleza",
+      "posted_ts": 1789700552,
+      "posted_at": "2026-09-18T03:02:32.807373+00:00",
+      "score": 113.0
+    },
+    {
       "key": "shopee:41518716769",
       "marketplace": "shopee",
       "id": "41518716769",
@@ -13971,35 +13999,7 @@
       "posted_ts": 1788949170,
       "posted_at": "2026-09-09T10:19:30.700912+00:00",
       "score": 82.62
-    },
-    {
-      "key": "shopee:58202297715",
-      "marketplace": "shopee",
-      "id": "58202297715",
-      "title": "Mochila Transversal Masculina - Bolsa de Peito Multifuncional Impermeável",
-      "title_norm": "mochila transversal masculina bolsa de peito multifuncional impermeavel",
-      "url": "https://shopee.com.br/product/1630783360/58202297715",
-      "affiliate_url": "https://s.shopee.com.br/W6W48Kwbw",
-      "category": "vxcs4mh5zv",
-      "bucket": "bolsas",
-      "posted_ts": 1788949101,
-      "posted_at": "2026-09-09T10:18:21.609551+00:00",
-      "score": 88.35
-    },
-    {
-      "key": "shopee:13403247994",
-      "marketplace": "shopee",
-      "id": "13403247994",
-      "title": "Capa Maleta Notebook Macbook 15,6' / 13 / 14 / 17 Polegadas Rígida Anti-Impacto Bolso Externo C/Alça",
-      "title_norm": "capa maleta notebook macbook 15 6 13 14 17 polegadas rigida anti impacto bolso externo c alca",
-      "url": "https://shopee.com.br/product/391712221/13403247994",
-      "affiliate_url": "https://s.shopee.com.br/5VVC1K1qAp",
-      "category": "Street Man",
-      "bucket": "informatica",
-      "posted_ts": 1788949015,
-      "posted_at": "2026-09-09T10:16:55.350715+00:00",
-      "score": 100.03
     }
   ],
-  "updated_at": "2026-09-18T02:21:36.999569+00:00"
+  "updated_at": "2026-09-18T03:03:36.921215+00:00"
 }

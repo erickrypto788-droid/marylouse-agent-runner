@@ -1,6 +1,36 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB5293973662",
+      "product_id": "MLB5293973662",
+      "catalog_product_id": "MLB29263256",
+      "item_id": "MLB5293973662",
+      "url": "https://www.mercadolivre.com.br/p/MLB29263256?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB29263256?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "lizz aparelho aparador pelos eletrico navalhete profissional",
+      "title": "Lizz Aparelho Aparador Pelos Elétrico Navalhete Profissional",
+      "category": "Beleza",
+      "price": 118.87,
+      "score": 88.0,
+      "posted_ts": 1789700616,
+      "posted_at": "2026-09-18T03:03:36.934453+00:00"
+    },
+    {
+      "key": "mercadolivre:MLB5167218221",
+      "product_id": "MLB5167218221",
+      "catalog_product_id": "MLB20624919",
+      "item_id": "MLB5167218221",
+      "url": "https://www.mercadolivre.com.br/p/MLB20624919?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB20624919?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "kit maquina cortar cabelo maquina barbeador recarregavel",
+      "title": "Kit Maquina Cortar Cabelo + Maquina Barbeador Recarregavel",
+      "category": "Beleza",
+      "price": 169.9,
+      "score": 113.0,
+      "posted_ts": 1789700552,
+      "posted_at": "2026-09-18T03:02:32.821354+00:00"
+    },
+    {
       "key": "mercadolivre:MLB7270317978",
       "product_id": "MLB7270317978",
       "catalog_product_id": "MLB75817587",
@@ -629,52 +659,7 @@
       "score": 110.15,
       "posted_ts": 1789531343,
       "posted_at": "2026-09-16T04:02:23.843531+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB5179437451",
-      "product_id": "MLB5179437451",
-      "catalog_product_id": "MLB50957106",
-      "item_id": "MLB5179437451",
-      "url": "https://www.mercadolivre.com.br/p/MLB50957106?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB50957106?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "ssd nvme kingston 1tb nv3 m 2 2280 pcie 4 0 nf e cor ssd nvme m 2 2280 kingston 1tb",
-      "title": "Ssd Nvme Kingston 1tb Nv3 M.2 2280 Pcie 4.0 Nf-e Cor Ssd Nvme M.2 2280 Kingston 1tb",
-      "category": "Informática",
-      "price": 1049.99,
-      "score": 111.0,
-      "posted_ts": 1789527772,
-      "posted_at": "2026-09-16T03:02:52.893875+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB6149389980",
-      "product_id": "MLB6149389980",
-      "catalog_product_id": "MLB37180897",
-      "item_id": "MLB6149389980",
-      "url": "https://www.mercadolivre.com.br/p/MLB37180897?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB37180897?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "kit furadeira e parafusadeira com parafusadeira dewalt modelo dck200me2gt 2 baterias 20v",
-      "title": "Kit Furadeira e Parafusadeira com Parafusadeira Dewalt Modelo DCK200ME2GT 2 Baterias 20V",
-      "category": "Ferramentas",
-      "price": 2999.0,
-      "score": 109.0,
-      "posted_ts": 1789524251,
-      "posted_at": "2026-09-16T02:04:11.836083+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB6574930760",
-      "product_id": "MLB6574930760",
-      "catalog_product_id": "MLB67606890",
-      "item_id": "MLB6574930760",
-      "url": "https://www.mercadolivre.com.br/p/MLB67606890?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB67606890?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "parafusadeira stanley parafusadeira ganhe bateria 20v",
-      "title": "Parafusadeira STANLEY + Parafusadeira + Ganhe Bateria 20V",
-      "category": "Ferramentas",
-      "price": 1528.0,
-      "score": 124.0,
-      "posted_ts": 1789524181,
-      "posted_at": "2026-09-16T02:03:01.787137+00:00"
     }
   ],
-  "updated_at": "2026-09-18T02:02:49.413555+00:00"
+  "updated_at": "2026-09-18T03:03:36.934471+00:00"
 }
