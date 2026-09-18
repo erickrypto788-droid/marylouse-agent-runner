@@ -1,6 +1,36 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB4669888929",
+      "product_id": "MLB4669888929",
+      "catalog_product_id": "MLB69426926",
+      "item_id": "MLB4669888929",
+      "url": "https://www.mercadolivre.com.br/p/MLB69426926?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB69426926?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "kit 10 cateteres speedicath short feminino ch10",
+      "title": "Kit 10 Cateteres Speedicath Short Feminino Ch10",
+      "category": "Moda Feminina",
+      "price": 176.28,
+      "score": 88.0,
+      "posted_ts": 1789751084,
+      "posted_at": "2026-09-18T17:04:44.740332+00:00"
+    },
+    {
+      "key": "mercadolivre:MLB4832226667",
+      "product_id": "MLB4832226667",
+      "catalog_product_id": "MLB74626445",
+      "item_id": "MLB4832226667",
+      "url": "https://www.mercadolivre.com.br/p/MLB74626445?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB74626445?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "saida praia saia feminina texturizada moda verao tendencias amarelo p",
+      "title": "Saída Praia Saia Feminina Texturizada Moda Verão Tendências Amarelo P",
+      "category": "Moda Feminina",
+      "price": 64.91,
+      "score": 92.32,
+      "posted_ts": 1789751009,
+      "posted_at": "2026-09-18T17:03:29.994241+00:00"
+    },
+    {
       "key": "mercadolivre:MLB4964833443",
       "product_id": "MLB4964833443",
       "catalog_product_id": "MLB18715385",
@@ -554,37 +584,7 @@
       "score": 111.0,
       "posted_ts": 1789589007,
       "posted_at": "2026-09-16T20:03:27.469735+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB5227390237",
-      "product_id": "MLB5227390237",
-      "catalog_product_id": "MLB74370100",
-      "item_id": "MLB5227390237",
-      "url": "https://www.mercadolivre.com.br/p/MLB74370100?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB74370100?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "chapinha cabelo profissional 450f slim bivolt titanium",
-      "title": "Chapinha Cabelo Profissional 450f Slim Bivolt, Titanium",
-      "category": "Beleza",
-      "price": 64.99,
-      "score": 113.0,
-      "posted_ts": 1789578238,
-      "posted_at": "2026-09-16T17:03:58.530640+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB5209308351",
-      "product_id": "MLB5209308351",
-      "catalog_product_id": "MLB77039877",
-      "item_id": "MLB5209308351",
-      "url": "https://www.mercadolivre.com.br/p/MLB77039877?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB77039877?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "perfume feminino olympia",
-      "title": "Perfume Feminino Olympia",
-      "category": "Beleza",
-      "price": 184.0,
-      "score": 188.67,
-      "posted_ts": 1789578167,
-      "posted_at": "2026-09-16T17:02:47.035502+00:00"
     }
   ],
-  "updated_at": "2026-09-18T16:08:25.967212+00:00"
+  "updated_at": "2026-09-18T17:04:44.740342+00:00"
 }
