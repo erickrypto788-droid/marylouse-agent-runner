@@ -1,6 +1,20 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB5250415907",
+      "marketplace": "mercadolivre",
+      "id": "MLB5250415907",
+      "title": "SSD NVMe 128GB Walram W2000 M.2 2280",
+      "title_norm": "ssd nvme 128gb walram w2000 m 2 2280",
+      "url": "https://www.mercadolivre.com.br/p/MLB27345327?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB27345327?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Informática",
+      "bucket": "informatica",
+      "posted_ts": 1789715002,
+      "posted_at": "2026-09-18T07:03:22.785329+00:00",
+      "score": 122.67
+    },
+    {
       "key": "shopee:58214792830",
       "marketplace": "shopee",
       "id": "58214792830",
@@ -13985,21 +13999,7 @@
       "posted_ts": 1788967081,
       "posted_at": "2026-09-09T15:18:01.875539+00:00",
       "score": 109.84
-    },
-    {
-      "key": "shopee:18798105694",
-      "marketplace": "shopee",
-      "id": "18798105694",
-      "title": "Bermuda ciclista academia Fitness Feminino com bolso e cintura alta ZERO TRANSPARÊNCIA",
-      "title_norm": "bermuda ciclista academia fitness feminino com bolso e cintura alta zero transparencia",
-      "url": "https://shopee.com.br/product/1278297214/18798105694",
-      "affiliate_url": "https://s.shopee.com.br/4AzolSxBKi",
-      "category": "Carioca_fitness021",
-      "bucket": "carioca_fitness021",
-      "posted_ts": 1788967013,
-      "posted_at": "2026-09-09T15:16:53.656559+00:00",
-      "score": 114.03
     }
   ],
-  "updated_at": "2026-09-18T06:21:56.274847+00:00"
+  "updated_at": "2026-09-18T07:03:22.785343+00:00"
 }

@@ -1,6 +1,21 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB5250415907",
+      "product_id": "MLB5250415907",
+      "catalog_product_id": "MLB27345327",
+      "item_id": "MLB5250415907",
+      "url": "https://www.mercadolivre.com.br/p/MLB27345327?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB27345327?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "ssd nvme 128gb walram w2000 m 2 2280",
+      "title": "SSD NVMe 128GB Walram W2000 M.2 2280",
+      "category": "Informática",
+      "price": 218.69,
+      "score": 122.67,
+      "posted_ts": 1789715002,
+      "posted_at": "2026-09-18T07:03:22.799459+00:00"
+    },
+    {
       "key": "mercadolivre:MLB5293973662",
       "product_id": "MLB5293973662",
       "catalog_product_id": "MLB29263256",
@@ -614,52 +629,7 @@
       "score": 154.83,
       "posted_ts": 1789545882,
       "posted_at": "2026-09-16T08:04:42.088522+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB4485123021",
-      "product_id": "MLB4485123021",
-      "catalog_product_id": "MLB48332910",
-      "item_id": "MLB4485123021",
-      "url": "https://www.mercadolivre.com.br/p/MLB48332910?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB48332910?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "redmi note 14s cor preto",
-      "title": "Redmi Note 14s Cor Preto",
-      "category": "Informática",
-      "price": 1699.0,
-      "score": 108.0,
-      "posted_ts": 1789535049,
-      "posted_at": "2026-09-16T05:04:09.313802+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB7238539878",
-      "product_id": "MLB7238539878",
-      "catalog_product_id": "MLB39444837",
-      "item_id": "MLB7238539878",
-      "url": "https://www.mercadolivre.com.br/p/MLB39444837?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB39444837?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "smartphone samsung galaxy s23 ultra 512gb creme",
-      "title": "Smartphone Samsung Galaxy S23 Ultra 512gb Creme",
-      "category": "Informática",
-      "price": 5999.0,
-      "score": 124.0,
-      "posted_ts": 1789534985,
-      "posted_at": "2026-09-16T05:03:05.197066+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB7226098148",
-      "product_id": "MLB7226098148",
-      "catalog_product_id": "MLB68059006",
-      "item_id": "MLB7226098148",
-      "url": "https://www.mercadolivre.com.br/p/MLB68059006?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB68059006?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "fone bluetooth esportivo 320mah fone sem fio fone academia preto",
-      "title": "Fone Bluetooth Esportivo 320mah Fone Sem Fio Fone Academia Preto",
-      "category": "Esportes",
-      "price": 59.0,
-      "score": 110.15,
-      "posted_ts": 1789531343,
-      "posted_at": "2026-09-16T04:02:23.843531+00:00"
     }
   ],
-  "updated_at": "2026-09-18T03:03:36.934471+00:00"
+  "updated_at": "2026-09-18T07:03:22.799469+00:00"
 }
