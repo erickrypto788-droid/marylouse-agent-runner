@@ -1,6 +1,34 @@
 {
   "posts": [
     {
+      "key": "shopee:40360368378",
+      "marketplace": "shopee",
+      "id": "40360368378",
+      "title": "Sandalia Slide Feminina Ortopedica Palmilha Anatômica e Estilo Casual",
+      "title_norm": "sandalia slide feminina ortopedica palmilha anatomica e estilo casual",
+      "url": "https://shopee.com.br/product/800864347/40360368378",
+      "affiliate_url": "https://s.shopee.com.br/LnKggreHX",
+      "category": "Deccó",
+      "bucket": "calcados",
+      "posted_ts": 1789751877,
+      "posted_at": "2026-09-18T17:17:57.838983+00:00",
+      "score": 96.55
+    },
+    {
+      "key": "shopee:8333126075",
+      "marketplace": "shopee",
+      "id": "8333126075",
+      "title": "Bota Feminina Coturno Tratorado Blogueira Confortavel PROMOÇÃO PREÇO DE FABRICA",
+      "title_norm": "bota feminina coturno tratorado blogueira confortavel promocao preco de fabrica",
+      "url": "https://shopee.com.br/product/406280749/8333126075",
+      "affiliate_url": "https://s.shopee.com.br/6q0n6DKju4",
+      "category": "Oadsey",
+      "bucket": "calcados",
+      "posted_ts": 1789751813,
+      "posted_at": "2026-09-18T17:16:53.574295+00:00",
+      "score": 100.26
+    },
+    {
       "key": "mercadolivre:MLB4669888929",
       "marketplace": "mercadolivre",
       "id": "MLB4669888929",
@@ -13971,35 +13999,7 @@
       "posted_ts": 1789003005,
       "posted_at": "2026-09-10T01:16:45.674727+00:00",
       "score": 93.61
-    },
-    {
-      "key": "shopee:23793169776",
-      "marketplace": "shopee",
-      "id": "23793169776",
-      "title": "Bicicleta Infantil Aro 12 Freio Tambor 1 Marcha Cestinha Nathor C/ Rodinha Menina de 90cm a 1m",
-      "title_norm": "bicicleta infantil aro 12 freio tambor 1 marcha cestinha nathor c rodinha menina de 90cm a 1m",
-      "url": "https://shopee.com.br/product/504754787/23793169776",
-      "affiliate_url": "https://s.shopee.com.br/3g3Yldl0b2",
-      "category": "Zociella Kids",
-      "bucket": "zociella_kids",
-      "posted_ts": 1788999672,
-      "posted_at": "2026-09-10T00:21:12.324977+00:00",
-      "score": 104.33
-    },
-    {
-      "key": "shopee:58204057552",
-      "marketplace": "shopee",
-      "id": "58204057552",
-      "title": "Kit 10 Marmitas com Travas 900ml BPAFREE Pote Plástico Freezer Microondas Fitness Refeição Alimento",
-      "title_norm": "kit 10 marmitas com travas 900ml bpafree pote plastico freezer microondas fitness refeicao alimento",
-      "url": "https://shopee.com.br/product/1731657310/58204057552",
-      "affiliate_url": "https://s.shopee.com.br/6AktkEWxDz",
-      "category": "GL MIX Utilidades Oficial",
-      "bucket": "gl_mix_utilidades_oficial",
-      "posted_ts": 1788999607,
-      "posted_at": "2026-09-10T00:20:07.943707+00:00",
-      "score": 105.18
     }
   ],
-  "updated_at": "2026-09-18T17:04:44.726560+00:00"
+  "updated_at": "2026-09-18T17:17:57.838997+00:00"
 }
