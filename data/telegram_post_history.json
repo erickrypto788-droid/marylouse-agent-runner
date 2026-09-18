@@ -1,6 +1,48 @@
 {
   "posts": [
     {
+      "key": "shopee:19099304356",
+      "marketplace": "shopee",
+      "id": "19099304356",
+      "title": "Capa Para Notebook Stand Macia De Couro PU Macbook Air Pro 13,3 e 15-16,2 Polegadas Bolsa",
+      "title_norm": "capa para notebook stand macia de couro pu macbook air pro 13 3 e 15 16 2 polegadas bolsa",
+      "url": "https://shopee.com.br/product/1285840220/19099304356",
+      "affiliate_url": "https://s.shopee.com.br/qjagW3TYk",
+      "category": "AS PLACE E-COMMERCE LTDA",
+      "bucket": "informatica",
+      "posted_ts": 1789719720,
+      "posted_at": "2026-09-18T08:22:00.825199+00:00",
+      "score": 50.73
+    },
+    {
+      "key": "shopee:15296691065",
+      "marketplace": "shopee",
+      "id": "15296691065",
+      "title": "Mochila Masculina Lona 50 Litros Viagem Passeio Motoboy Esporte Trilha Viagem 803",
+      "title_norm": "mochila masculina lona 50 litros viagem passeio motoboy esporte trilha viagem 803",
+      "url": "https://shopee.com.br/product/960960972/15296691065",
+      "affiliate_url": "https://s.shopee.com.br/5AsZqTeFTl",
+      "category": "Global Mochilas CHL",
+      "bucket": "bolsas",
+      "posted_ts": 1789719653,
+      "posted_at": "2026-09-18T08:20:53.181745+00:00",
+      "score": 61.88
+    },
+    {
+      "key": "shopee:13591503329",
+      "marketplace": "shopee",
+      "id": "13591503329",
+      "title": "Mochila Escolar Reforçada Notebook Impermeável Cabo De Aço",
+      "title_norm": "mochila escolar reforcada notebook impermeavel cabo de aco",
+      "url": "https://shopee.com.br/product/752743341/13591503329",
+      "affiliate_url": "https://s.shopee.com.br/2BEyGxyOr8",
+      "category": "Fenix Abdon",
+      "bucket": "informatica",
+      "posted_ts": 1789719409,
+      "posted_at": "2026-09-18T08:16:49.312803+00:00",
+      "score": 85.34
+    },
+    {
       "key": "shopee:22094228144",
       "marketplace": "shopee",
       "id": "22094228144",
@@ -13957,49 +13999,7 @@
       "posted_ts": 1788970686,
       "posted_at": "2026-09-09T16:18:06.365664+00:00",
       "score": 110.31
-    },
-    {
-      "key": "shopee:23299128342",
-      "marketplace": "shopee",
-      "id": "23299128342",
-      "title": "Kit 3 ou 2 Calça Jogger Adulto Chimpa Masculina Flanelado",
-      "title_norm": "kit 3 ou 2 calca jogger adulto chimpa masculina flanelado",
-      "url": "https://shopee.com.br/product/1156409244/23299128342",
-      "affiliate_url": "https://s.shopee.com.br/112n3m2YHe",
-      "category": "KARLIENE CONFECÇÕES",
-      "bucket": "karliene_confeccoes",
-      "posted_ts": 1788970615,
-      "posted_at": "2026-09-09T16:16:55.995224+00:00",
-      "score": 113.84
-    },
-    {
-      "key": "shopee:40312649522",
-      "marketplace": "shopee",
-      "id": "40312649522",
-      "title": "Conjunto feminino Alfaiataria Calça mais Blusa Manga Premium",
-      "title_norm": "conjunto feminino alfaiataria calca mais blusa manga premium",
-      "url": "https://shopee.com.br/product/661567751/40312649522",
-      "affiliate_url": "https://s.shopee.com.br/Ln6CQKZem",
-      "category": "Dália Moda Feminina",
-      "bucket": "dalia_moda_feminina",
-      "posted_ts": 1788967277,
-      "posted_at": "2026-09-09T15:21:17.528795+00:00",
-      "score": 97.77
-    },
-    {
-      "key": "shopee:47702668745",
-      "marketplace": "shopee",
-      "id": "47702668745",
-      "title": "Blusa Feminina Listrada Tshirt Manga Curta Elegante do P ao GG Algodão Confortável Fresca Moda Verão",
-      "title_norm": "blusa feminina listrada tshirt manga curta elegante do p ao gg algodao confortavel fresca moda verao",
-      "url": "https://shopee.com.br/product/816056276/47702668745",
-      "affiliate_url": "https://s.shopee.com.br/7VGGjaX18Q",
-      "category": "Tshirt Para Elas",
-      "bucket": "moda_feminina",
-      "posted_ts": 1788967213,
-      "posted_at": "2026-09-09T15:20:13.542828+00:00",
-      "score": 105.59
     }
   ],
-  "updated_at": "2026-09-18T07:18:04.314106+00:00"
+  "updated_at": "2026-09-18T08:22:00.825210+00:00"
 }
