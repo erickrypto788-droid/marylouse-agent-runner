@@ -1,6 +1,34 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB4098790465",
+      "marketplace": "mercadolivre",
+      "id": "MLB4098790465",
+      "title": "Jogo Panelas 5 Peças Tradicional Preto Nacional",
+      "title_norm": "jogo panelas 5 pecas tradicional preto nacional",
+      "url": "https://www.mercadolivre.com.br/p/MLB50984468?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB50984468?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Casa e Cozinha",
+      "bucket": "casa_cozinha",
+      "posted_ts": 1789754754,
+      "posted_at": "2026-09-18T18:05:54.622627+00:00",
+      "score": 116.52
+    },
+    {
+      "key": "mercadolivre:MLB5944892036",
+      "marketplace": "mercadolivre",
+      "id": "MLB5944892036",
+      "title": "Jogo Panelas Tramontina Antiaderente Alumínio Monaco Indução",
+      "title_norm": "jogo panelas tramontina antiaderente aluminio monaco inducao",
+      "url": "https://www.mercadolivre.com.br/p/MLB47630541?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB47630541?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Casa e Cozinha",
+      "bucket": "casa_cozinha",
+      "posted_ts": 1789754690,
+      "posted_at": "2026-09-18T18:04:50.539980+00:00",
+      "score": 127.0
+    },
+    {
       "key": "shopee:40360368378",
       "marketplace": "shopee",
       "id": "40360368378",
@@ -13971,35 +13999,7 @@
       "posted_ts": 1789003138,
       "posted_at": "2026-09-10T01:18:58.161176+00:00",
       "score": 74.57
-    },
-    {
-      "key": "shopee:18270566483",
-      "marketplace": "shopee",
-      "id": "18270566483",
-      "title": "Estante Expositor Porta Carrinhos 70 Divisórias Branco 1:64 Coleção Hot Wheels Brinquedo MDF",
-      "title_norm": "estante expositor porta carrinhos 70 divisorias branco 1 64 colecao hot wheels brinquedo mdf",
-      "url": "https://shopee.com.br/product/401571253/18270566483",
-      "affiliate_url": "https://s.shopee.com.br/1Lfe3SjLcH",
-      "category": "Decorti",
-      "bucket": "decorti",
-      "posted_ts": 1789003069,
-      "posted_at": "2026-09-10T01:17:49.696825+00:00",
-      "score": 74.74
-    },
-    {
-      "key": "shopee:46306062636",
-      "marketplace": "shopee",
-      "id": "46306062636",
-      "title": "Spot It Jogo De Cartas Clássico Para Crianças Tabuleiro Educacional Família Desenvolvimento De Foco 2 8 Jogadores Brinqu",
-      "title_norm": "spot it jogo de cartas classico para criancas tabuleiro educacional familia desenvolvimento de foco 2 8 jogadores brinqu",
-      "url": "https://shopee.com.br/product/1006215031/46306062636",
-      "affiliate_url": "https://s.shopee.com.br/40gPEMmSpU",
-      "category": "Choice Oficial",
-      "bucket": "choice_oficial",
-      "posted_ts": 1789003005,
-      "posted_at": "2026-09-10T01:16:45.674727+00:00",
-      "score": 93.61
     }
   ],
-  "updated_at": "2026-09-18T17:17:57.838997+00:00"
+  "updated_at": "2026-09-18T18:05:54.622644+00:00"
 }
