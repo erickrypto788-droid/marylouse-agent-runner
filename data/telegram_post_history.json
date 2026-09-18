@@ -1,6 +1,62 @@
 {
   "posts": [
     {
+      "key": "shopee:23993933147",
+      "marketplace": "shopee",
+      "id": "23993933147",
+      "title": "Micro-ondas Britânia 20L Pintura Limpa Fácil BMO23",
+      "title_norm": "micro ondas britania 20l pintura limpa facil bmo23",
+      "url": "https://shopee.com.br/product/811879342/23993933147",
+      "affiliate_url": "https://s.shopee.com.br/9fKyfmYuHy",
+      "category": "Britânia Oficial",
+      "bucket": "britania_oficial",
+      "posted_ts": 1789690799,
+      "posted_at": "2026-09-18T00:19:59.557040+00:00",
+      "score": 77.02
+    },
+    {
+      "key": "shopee:23098745767",
+      "marketplace": "shopee",
+      "id": "23098745767",
+      "title": "Pipoqueira Elétrica Popcorn Maker 110V Pipoca Sem Óleo",
+      "title_norm": "pipoqueira eletrica popcorn maker 110v pipoca sem oleo",
+      "url": "https://shopee.com.br/product/401368869/23098745767",
+      "affiliate_url": "https://s.shopee.com.br/3VkLKRwS7W",
+      "category": "XHL.ELETRÔNICO",
+      "bucket": "xhl_eletronico",
+      "posted_ts": 1789690735,
+      "posted_at": "2026-09-18T00:18:55.600228+00:00",
+      "score": 92.09
+    },
+    {
+      "key": "shopee:18299266586",
+      "marketplace": "shopee",
+      "id": "18299266586",
+      "title": "Aspirador de Pó 2 em 1 Limpeza Portátil Sem Fio Multifuncional Para Limpeza De Casa Manual",
+      "title_norm": "aspirador de po 2 em 1 limpeza portatil sem fio multifuncional para limpeza de casa manual",
+      "url": "https://shopee.com.br/product/465639879/18299266586",
+      "affiliate_url": "https://s.shopee.com.br/5AsZJVlde7",
+      "category": "T&TBem_vindo.br",
+      "bucket": "casa_cozinha",
+      "posted_ts": 1789690671,
+      "posted_at": "2026-09-18T00:17:51.432290+00:00",
+      "score": 94.17
+    },
+    {
+      "key": "shopee:40830814218",
+      "marketplace": "shopee",
+      "id": "40830814218",
+      "title": "Aspirador De Pó Vertical 2 Em 1 Portátil Gaabor 650w",
+      "title_norm": "aspirador de po vertical 2 em 1 portatil gaabor 650w",
+      "url": "https://shopee.com.br/product/342086228/40830814218",
+      "affiliate_url": "https://s.shopee.com.br/qja9Y28RN",
+      "category": "BUMPER MAGAZINE",
+      "bucket": "casa_cozinha",
+      "posted_ts": 1789690607,
+      "posted_at": "2026-09-18T00:16:47.387116+00:00",
+      "score": 120.74
+    },
+    {
       "key": "shopee:18799617679",
       "marketplace": "shopee",
       "id": "18799617679",
@@ -13943,63 +13999,7 @@
       "posted_ts": 1788944850,
       "posted_at": "2026-09-09T09:07:30.084478+00:00",
       "score": 130.0
-    },
-    {
-      "key": "mercadolivre:MLB4219197703",
-      "marketplace": "mercadolivre",
-      "id": "MLB4219197703",
-      "title": "Azeite Oliva Extra Virgem Português Vila Oliva 500ml (3 Un)",
-      "title_norm": "azeite oliva extra virgem portugues vila oliva 500ml 3 un",
-      "url": "https://www.mercadolivre.com.br/p/MLB34684493?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB34684493?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "category": "Supermercados",
-      "bucket": "supermercado",
-      "posted_ts": 1788944775,
-      "posted_at": "2026-09-09T09:06:15.838708+00:00",
-      "score": 141.22
-    },
-    {
-      "key": "shopee:58256236719",
-      "marketplace": "shopee",
-      "id": "58256236719",
-      "title": "Mamadeira Buba Anticólica Easy Flow 330ml",
-      "title_norm": "mamadeira buba anticolica easy flow 330ml",
-      "url": "https://shopee.com.br/product/1045085918/58256236719",
-      "affiliate_url": "https://s.shopee.com.br/W6VvscVa9",
-      "category": "Droga Clara",
-      "bucket": "droga_clara",
-      "posted_ts": 1788942083,
-      "posted_at": "2026-09-09T08:21:23.725164+00:00",
-      "score": 48.31
-    },
-    {
-      "key": "shopee:23997427973",
-      "marketplace": "shopee",
-      "id": "23997427973",
-      "title": "Kit Enxoval Cueiro e Paninho de boca ( 9 PEÇAS ) Bebê",
-      "title_norm": "kit enxoval cueiro e paninho de boca 9 pecas bebe",
-      "url": "https://shopee.com.br/product/212844114/23997427973",
-      "affiliate_url": "https://s.shopee.com.br/3g3XhhHW48",
-      "category": "Geral Baby - Produtos Infantil",
-      "bucket": "geral_baby_produtos_infantil",
-      "posted_ts": 1788942013,
-      "posted_at": "2026-09-09T08:20:13.374161+00:00",
-      "score": 59.69
-    },
-    {
-      "key": "shopee:58264481767",
-      "marketplace": "shopee",
-      "id": "58264481767",
-      "title": "Berço Portátil Bebê Moisés com Mosquiteiro Rodinhas Colchão Incluso Cesto Organizador Recém-Nascido",
-      "title_norm": "berco portatil bebe moises com mosquiteiro rodinhas colchao incluso cesto organizador recem nascido",
-      "url": "https://shopee.com.br/product/1774690884/58264481767",
-      "affiliate_url": "https://s.shopee.com.br/2VraJYdpc9",
-      "category": "PENX LED PRODUTOS DIVERSOS",
-      "bucket": "penx_led_produtos_diversos",
-      "posted_ts": 1788941944,
-      "posted_at": "2026-09-09T08:19:04.618323+00:00",
-      "score": 69.37
     }
   ],
-  "updated_at": "2026-09-17T23:21:03.255861+00:00"
+  "updated_at": "2026-09-18T00:19:59.557053+00:00"
 }
