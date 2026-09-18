@@ -1,6 +1,21 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB4778272375",
+      "product_id": "MLB4778272375",
+      "catalog_product_id": "MLB73518090",
+      "item_id": "MLB4778272375",
+      "url": "https://www.mercadolivre.com.br/p/MLB73518090?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB73518090?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "livro tchauzinho fralda",
+      "title": "Livro Tchauzinho, Fralda",
+      "category": "Mãe e Bebê",
+      "price": 196.88,
+      "score": 114.0,
+      "posted_ts": 1789736567,
+      "posted_at": "2026-09-18T13:02:47.171416+00:00"
+    },
+    {
       "key": "mercadolivre:MLB7575871600",
       "product_id": "MLB7575871600",
       "catalog_product_id": "MLB49735840",
@@ -599,52 +614,7 @@
       "score": 88.0,
       "posted_ts": 1789563836,
       "posted_at": "2026-09-16T13:03:56.696840+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB6425142428",
-      "product_id": "MLB6425142428",
-      "catalog_product_id": "MLB33581064",
-      "item_id": "MLB6425142428",
-      "url": "https://www.mercadolivre.com.br/p/MLB33581064?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB33581064?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "fralda pampers confort sec g 38 unidades",
-      "title": "Fralda Pampers Confort Sec G 38 Unidades",
-      "category": "Mãe e Bebê",
-      "price": 120.0,
-      "score": 130.0,
-      "posted_ts": 1789560518,
-      "posted_at": "2026-09-16T12:08:38.573086+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB4986648039",
-      "product_id": "MLB4986648039",
-      "catalog_product_id": "MLB25330354",
-      "item_id": "MLB4986648039",
-      "url": "https://www.mercadolivre.com.br/p/MLB25330354?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB25330354?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "condicionador senscience true hue violet condicionador 1000ml",
-      "title": "Condicionador Senscience True Hue Violet Condicionador 1000ml",
-      "category": "Beleza",
-      "price": 277.89,
-      "score": 133.4,
-      "posted_ts": 1789560454,
-      "posted_at": "2026-09-16T12:07:34.409321+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB4219197703",
-      "product_id": "MLB4219197703",
-      "catalog_product_id": "MLB34684493",
-      "item_id": "MLB4219197703",
-      "url": "https://www.mercadolivre.com.br/p/MLB34684493?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB34684493?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "azeite oliva extra virgem portugues vila oliva 500ml 3 un",
-      "title": "Azeite Oliva Extra Virgem Português Vila Oliva 500ml (3 Un)",
-      "category": "Supermercados",
-      "price": 129.9,
-      "score": 141.22,
-      "posted_ts": 1789560389,
-      "posted_at": "2026-09-16T12:06:29.653194+00:00"
     }
   ],
-  "updated_at": "2026-09-18T12:04:51.395929+00:00"
+  "updated_at": "2026-09-18T13:02:47.171431+00:00"
 }

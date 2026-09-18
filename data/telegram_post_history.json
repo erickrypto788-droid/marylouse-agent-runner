@@ -1,6 +1,20 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB4778272375",
+      "marketplace": "mercadolivre",
+      "id": "MLB4778272375",
+      "title": "Livro Tchauzinho, Fralda",
+      "title_norm": "livro tchauzinho fralda",
+      "url": "https://www.mercadolivre.com.br/p/MLB73518090?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB73518090?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Mãe e Bebê",
+      "bucket": "fraldas",
+      "posted_ts": 1789736567,
+      "posted_at": "2026-09-18T13:02:47.156805+00:00",
+      "score": 114.0
+    },
+    {
       "key": "shopee:58215579449",
       "marketplace": "shopee",
       "id": "58215579449",
@@ -13985,21 +13999,7 @@
       "posted_ts": 1788985275,
       "posted_at": "2026-09-09T20:21:15.840897+00:00",
       "score": 72.05
-    },
-    {
-      "key": "shopee:21798200941",
-      "marketplace": "shopee",
-      "id": "21798200941",
-      "title": "Fone P47 Headphone Sem Fio Estéreo Redução de Ruídos Bluetooth 5.0 Universal",
-      "title_norm": "fone p47 headphone sem fio estereo reducao de ruidos bluetooth 5 0 universal",
-      "url": "https://shopee.com.br/product/1396355892/21798200941",
-      "affiliate_url": "https://s.shopee.com.br/60RTHRAqqR",
-      "category": "TOP LOJA ELETRONICO",
-      "bucket": "top_loja_eletronico",
-      "posted_ts": 1788985211,
-      "posted_at": "2026-09-09T20:20:11.872289+00:00",
-      "score": 75.6
     }
   ],
-  "updated_at": "2026-09-18T12:18:10.764445+00:00"
+  "updated_at": "2026-09-18T13:02:47.156819+00:00"
 }
