@@ -1,6 +1,48 @@
 {
   "posts": [
     {
+      "key": "shopee:58254696881",
+      "marketplace": "shopee",
+      "id": "58254696881",
+      "title": "Ventilador de Coluna Britânia Maxx Force 6 Pás 75W BVC31A",
+      "title_norm": "ventilador de coluna britania maxx force 6 pas 75w bvc31a",
+      "url": "https://shopee.com.br/product/811879342/58254696881",
+      "affiliate_url": "https://s.shopee.com.br/2BEz0IXlnP",
+      "category": "Britânia Oficial",
+      "bucket": "britania_oficial",
+      "posted_ts": 1789759146,
+      "posted_at": "2026-09-18T19:19:06.994346+00:00",
+      "score": 65.35
+    },
+    {
+      "key": "shopee:23394548691",
+      "marketplace": "shopee",
+      "id": "23394548691",
+      "title": "Mini Panela elétrica     （110V  /  220V）",
+      "title_norm": "mini panela eletrica 110v 220v",
+      "url": "https://shopee.com.br/product/1388839852/23394548691",
+      "affiliate_url": "https://s.shopee.com.br/70KDUsj817",
+      "category": "RIO CENTER BAZAR E COMERCIO LTDA",
+      "bucket": "casa_cozinha",
+      "posted_ts": 1789759082,
+      "posted_at": "2026-09-18T19:18:02.627668+00:00",
+      "score": 111.85
+    },
+    {
+      "key": "shopee:58257043096",
+      "marketplace": "shopee",
+      "id": "58257043096",
+      "title": "Liquidificador Triturador Compacto para suco com Led - suco e frutas Bivolt 600ml   novo ZZJ",
+      "title_norm": "liquidificador triturador compacto para suco com led suco e frutas bivolt 600ml novo zzj",
+      "url": "https://shopee.com.br/product/1671644940/58257043096",
+      "affiliate_url": "https://s.shopee.com.br/5fopuQb0LT",
+      "category": "CAI STORE ELETRONICOS",
+      "bucket": "casa_cozinha",
+      "posted_ts": 1789759013,
+      "posted_at": "2026-09-18T19:16:53.752902+00:00",
+      "score": 114.71
+    },
+    {
       "key": "shopee:22493164584",
       "marketplace": "shopee",
       "id": "22493164584",
@@ -13957,49 +13999,7 @@
       "posted_ts": 1789006602,
       "posted_at": "2026-09-10T02:16:42.616283+00:00",
       "score": 117.46
-    },
-    {
-      "key": "mercadolivre:MLB6442123488",
-      "marketplace": "mercadolivre",
-      "id": "MLB6442123488",
-      "title": "Hidratante Corporal Relaxante",
-      "title_norm": "hidratante corporal relaxante",
-      "url": "https://www.mercadolivre.com.br/p/MLB65794107?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB65794107?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "category": "Beleza",
-      "bucket": "beleza",
-      "posted_ts": 1789006388,
-      "posted_at": "2026-09-10T02:13:08.840585+00:00",
-      "score": 76.9
-    },
-    {
-      "key": "mercadolivre:MLB7046261998",
-      "marketplace": "mercadolivre",
-      "id": "MLB7046261998",
-      "title": "Snob Papel Toalha Cozinha Folha Dupla C/ 12 Rolos",
-      "title_norm": "snob papel toalha cozinha folha dupla c 12 rolos",
-      "url": "https://www.mercadolivre.com.br/p/MLB28886645?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB28886645?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "category": "Supermercados",
-      "bucket": "supermercados",
-      "posted_ts": 1789006324,
-      "posted_at": "2026-09-10T02:12:04.641998+00:00",
-      "score": 89.0
-    },
-    {
-      "key": "mercadolivre:MLB5210422937",
-      "marketplace": "mercadolivre",
-      "id": "MLB5210422937",
-      "title": "Papel Toalha Interfolhas Folha Dupla Luxo Premium 2000 Folha",
-      "title_norm": "papel toalha interfolhas folha dupla luxo premium 2000 folha",
-      "url": "https://www.mercadolivre.com.br/p/MLB67465833?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB67465833?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "category": "Supermercados",
-      "bucket": "supermercados",
-      "posted_ts": 1789006259,
-      "posted_at": "2026-09-10T02:10:59.565012+00:00",
-      "score": 89.0
     }
   ],
-  "updated_at": "2026-09-18T18:21:11.914358+00:00"
+  "updated_at": "2026-09-18T19:19:06.994363+00:00"
 }
