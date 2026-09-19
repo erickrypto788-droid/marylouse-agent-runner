@@ -1,6 +1,62 @@
 {
   "posts": [
     {
+      "key": "shopee:22794554573",
+      "marketplace": "shopee",
+      "id": "22794554573",
+      "title": "Micro-ondas Electrolux 20L cor Inox Espelhado com Função Tira Odor (MT30S)",
+      "title_norm": "micro ondas electrolux 20l cor inox espelhado com funcao tira odor mt30s",
+      "url": "https://shopee.com.br/product/1526836548/22794554573",
+      "affiliate_url": "https://s.shopee.com.br/5fosV8XPjG",
+      "category": "Electrolux",
+      "bucket": "electrolux",
+      "posted_ts": 1789831202,
+      "posted_at": "2026-09-19T15:20:02.048218+00:00",
+      "score": 56.87
+    },
+    {
+      "key": "shopee:19297147366",
+      "marketplace": "shopee",
+      "id": "19297147366",
+      "title": "Espremedor Elétrico Industrial Inox p/ Suco de Laranja, Limão e Frutas com Copo Incluso",
+      "title_norm": "espremedor eletrico industrial inox p suco de laranja limao e frutas com copo incluso",
+      "url": "https://shopee.com.br/product/390307022/19297147366",
+      "affiliate_url": "https://s.shopee.com.br/7VGWgVDEeQ",
+      "category": "ZSZ_brasil",
+      "bucket": "zsz_brasil",
+      "posted_ts": 1789831137,
+      "posted_at": "2026-09-19T15:18:57.884911+00:00",
+      "score": 110.27
+    },
+    {
+      "key": "shopee:28535302263",
+      "marketplace": "shopee",
+      "id": "28535302263",
+      "title": "Panela Pressão 4,5 Litros Fechamento Externo Antiaderente Teflon Varias Cores Cozimento Rapido",
+      "title_norm": "panela pressao 4 5 litros fechamento externo antiaderente teflon varias cores cozimento rapido",
+      "url": "https://shopee.com.br/product/1066745841/28535302263",
+      "affiliate_url": "https://s.shopee.com.br/1VzJXTnHD9",
+      "category": "Beta_ecommerce",
+      "bucket": "casa_cozinha",
+      "posted_ts": 1789831073,
+      "posted_at": "2026-09-19T15:17:53.707858+00:00",
+      "score": 120.46
+    },
+    {
+      "key": "shopee:42565175368",
+      "marketplace": "shopee",
+      "id": "42565175368",
+      "title": "Aspirador de Pó Robô WAP Robot W100 3 em 1 Antiqueda Bivolt 17W",
+      "title_norm": "aspirador de po robo wap robot w100 3 em 1 antiqueda bivolt 17w",
+      "url": "https://shopee.com.br/product/359168917/42565175368",
+      "affiliate_url": "https://s.shopee.com.br/2qUfnWVIm7",
+      "category": "LOI BRASIL",
+      "bucket": "casa_cozinha",
+      "posted_ts": 1789831009,
+      "posted_at": "2026-09-19T15:16:49.638116+00:00",
+      "score": 146.89
+    },
+    {
       "key": "mercadolivre:MLB4712198025",
       "marketplace": "mercadolivre",
       "id": "MLB4712198025",
@@ -13943,63 +13999,7 @@
       "posted_ts": 1789067372,
       "posted_at": "2026-09-10T19:09:32.453629+00:00",
       "score": 63.0
-    },
-    {
-      "key": "mercadolivre:MLB5118569459",
-      "marketplace": "mercadolivre",
-      "id": "MLB5118569459",
-      "title": "Arroz Motigome 1kg",
-      "title_norm": "arroz motigome 1kg",
-      "url": "https://www.mercadolivre.com.br/p/MLB21407698?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB21407698?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "category": "Supermercados",
-      "bucket": "supermercados",
-      "posted_ts": 1789067308,
-      "posted_at": "2026-09-10T19:08:28.286049+00:00",
-      "score": 93.74
-    },
-    {
-      "key": "mercadolivre:MLB3814512618",
-      "marketplace": "mercadolivre",
-      "id": "MLB3814512618",
-      "title": "Fralda Huggies Tripla Proteção G 36 unidades",
-      "title_norm": "fralda huggies tripla protecao g 36 unidades",
-      "url": "https://www.mercadolivre.com.br/p/MLB17336422?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB17336422?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "category": "Mãe e Bebê",
-      "bucket": "fraldas",
-      "posted_ts": 1789067243,
-      "posted_at": "2026-09-10T19:07:23.937645+00:00",
-      "score": 130.0
-    },
-    {
-      "key": "shopee:22494807898",
-      "marketplace": "shopee",
-      "id": "22494807898",
-      "title": "Camiseta E Bermuda  Infantil Com Bolsos 04 á 16 Moda Infantil Roupa De Criança Para Ir para escola",
-      "title_norm": "camiseta e bermuda infantil com bolsos 04 a 16 moda infantil roupa de crianca para ir para escola",
-      "url": "https://shopee.com.br/product/1488516573/22494807898",
-      "affiliate_url": "https://s.shopee.com.br/6AkuwP1Hym",
-      "category": "ORIGIN'S DRJS",
-      "bucket": "origin_s_drjs",
-      "posted_ts": 1789064474,
-      "posted_at": "2026-09-10T18:21:14.761345+00:00",
-      "score": 89.76
-    },
-    {
-      "key": "shopee:41518716769",
-      "marketplace": "shopee",
-      "id": "41518716769",
-      "title": "Escolha Seu Vestido 3 Marias Roupas de Menina Infantil 100% Algodão Vestido de Criança Confortável l02",
-      "title_norm": "escolha seu vestido 3 marias roupas de menina infantil 100 algodao vestido de crianca confortavel l02",
-      "url": "https://shopee.com.br/product/341167297/41518716769",
-      "affiliate_url": "https://s.shopee.com.br/70K1vvteGO",
-      "category": "Poloinfantil.store",
-      "bucket": "moda_feminina",
-      "posted_ts": 1789064410,
-      "posted_at": "2026-09-10T18:20:10.458366+00:00",
-      "score": 97.21
     }
   ],
-  "updated_at": "2026-09-19T15:03:05.714749+00:00"
+  "updated_at": "2026-09-19T15:20:02.048232+00:00"
 }
