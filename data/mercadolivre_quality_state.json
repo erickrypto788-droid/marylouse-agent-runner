@@ -1,6 +1,21 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB7584337290",
+      "product_id": "MLB7584337290",
+      "catalog_product_id": "MLB24511657",
+      "item_id": "MLB7584337290",
+      "url": "https://www.mercadolivre.com.br/p/MLB24511657?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB24511657?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "ssd netac nv3000 ssd nvme m2 250gb",
+      "title": "SSD Netac Nv3000 Ssd Nvme M2 250gb",
+      "category": "Informática",
+      "price": 399.0,
+      "score": 111.0,
+      "posted_ts": 1789776142,
+      "posted_at": "2026-09-19T00:02:22.910271+00:00"
+    },
+    {
       "key": "mercadolivre:MLB6714509354",
       "product_id": "MLB6714509354",
       "catalog_product_id": "MLB69134972",
@@ -569,67 +584,7 @@
       "score": 137.09,
       "posted_ts": 1789606975,
       "posted_at": "2026-09-17T01:02:55.365970+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB4450293643",
-      "product_id": "MLB4450293643",
-      "catalog_product_id": "MLB29728116",
-      "item_id": "MLB4450293643",
-      "url": "https://www.mercadolivre.com.br/p/MLB29728116?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB29728116?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "xiaomi poco poco x6 5g dual sim 256gb 12gb branco",
-      "title": "Xiaomi POCO Poco X6 5G Dual SIM 256GB/12GB Branco",
-      "category": "Informática",
-      "price": 3500.0,
-      "score": 124.0,
-      "posted_ts": 1789596254,
-      "posted_at": "2026-09-16T22:04:14.913750+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB4719874245",
-      "product_id": "MLB4719874245",
-      "catalog_product_id": "MLB39957733",
-      "item_id": "MLB4719874245",
-      "url": "https://www.mercadolivre.com.br/p/MLB39957733?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB39957733?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "smartphone samsung galaxy s23 256gb preto",
-      "title": "Smartphone Samsung Galaxy S23 256gb Preto",
-      "category": "Informática",
-      "price": 4499.0,
-      "score": 124.0,
-      "posted_ts": 1789596178,
-      "posted_at": "2026-09-16T22:02:58.832010+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB5209357839",
-      "product_id": "MLB5209357839",
-      "catalog_product_id": "MLB76143330",
-      "item_id": "MLB5209357839",
-      "url": "https://www.mercadolivre.com.br/p/MLB76143330?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB76143330?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "impressora termica impressora de recibos mini impressora bluetooth impressora termica portatil arcashopping mini impressora termica impressora de recibos bluetooth mini impressora termica portatil",
-      "title": "Impressora térmica Impressora de recibos Mini impressora Bluetooth Impressora térmica portátil ARCASHOPPING mini impressora térmica Impressora de recibos Bluetooth Mini impressora térmica portátil",
-      "category": "Informática",
-      "price": 330.0,
-      "score": 86.0,
-      "posted_ts": 1789589071,
-      "posted_at": "2026-09-16T20:04:31.593057+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB5237564467",
-      "product_id": "MLB5237564467",
-      "catalog_product_id": "MLB37332939",
-      "item_id": "MLB5237564467",
-      "url": "https://www.mercadolivre.com.br/p/MLB37332939?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB37332939?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "ssd nvme m 2 256gb pm9b1",
-      "title": "Ssd nvme M.2 256gb PM9B1",
-      "category": "Informática",
-      "price": 346.0,
-      "score": 111.0,
-      "posted_ts": 1789589007,
-      "posted_at": "2026-09-16T20:03:27.469735+00:00"
     }
   ],
-  "updated_at": "2026-09-18T20:03:13.217061+00:00"
+  "updated_at": "2026-09-19T00:02:22.910287+00:00"
 }
