@@ -1,6 +1,21 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB5697892498",
+      "product_id": "MLB5697892498",
+      "catalog_product_id": "MLB56081727",
+      "item_id": "MLB5697892498",
+      "url": "https://www.mercadolivre.com.br/p/MLB56081727?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB56081727?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "body modelador nayane short feminino cor cristal tamanho eg",
+      "title": "Body Modelador Nayane Short Feminino Cor Cristal Tamanho EG",
+      "category": "Moda Feminina",
+      "price": 151.7,
+      "score": 88.0,
+      "posted_ts": 1789812251,
+      "posted_at": "2026-09-19T10:04:11.002151+00:00"
+    },
+    {
       "key": "mercadolivre:MLB4976025191",
       "product_id": "MLB4976025191",
       "catalog_product_id": "MLB67005264",
@@ -539,37 +554,7 @@
       "score": 113.0,
       "posted_ts": 1789650171,
       "posted_at": "2026-09-17T13:02:51.336431+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB7649795198",
-      "product_id": "MLB7649795198",
-      "catalog_product_id": "MLB77944817",
-      "item_id": "MLB7649795198",
-      "url": "https://www.mercadolivre.com.br/p/MLB77944817?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB77944817?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "barbeador eletrico profissional waikil barbeador eletrico recarregavel adequado para barba recarregavel ipx7 sem fio cabelo e cabelo corporal",
-      "title": "Barbeador elétrico profissional WAIKIL, barbeador elétrico recarregável, adequado para barba, recarregável Ipx7 sem fio, cabelo e cabelo corporal",
-      "category": "Beleza",
-      "price": 110.0,
-      "score": 113.0,
-      "posted_ts": 1789639422,
-      "posted_at": "2026-09-17T10:03:42.300831+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB5209308589",
-      "product_id": "MLB5209308589",
-      "catalog_product_id": "MLB77141871",
-      "item_id": "MLB5209308589",
-      "url": "https://www.mercadolivre.com.br/p/MLB77141871?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB77141871?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "perfume masculino millions",
-      "title": "Perfume Masculino Millions",
-      "category": "Beleza",
-      "price": 184.0,
-      "score": 188.67,
-      "posted_ts": 1789639357,
-      "posted_at": "2026-09-17T10:02:37.522502+00:00"
     }
   ],
-  "updated_at": "2026-09-19T09:09:11.668649+00:00"
+  "updated_at": "2026-09-19T10:04:11.002167+00:00"
 }
