@@ -1,6 +1,20 @@
 {
   "posts": [
     {
+      "key": "shopee:22798552970",
+      "marketplace": "shopee",
+      "id": "22798552970",
+      "title": "Bermuda transpassada plus size M ao G3 academia moda modesta evangélica BERMUDA",
+      "title_norm": "bermuda transpassada plus size m ao g3 academia moda modesta evangelica bermuda",
+      "url": "https://shopee.com.br/product/1472986932/22798552970",
+      "affiliate_url": "https://s.shopee.com.br/2qUgrRCWcn",
+      "category": "KD-IMPORTS",
+      "bucket": "kd_imports",
+      "posted_ts": 1789816606,
+      "posted_at": "2026-09-19T11:16:46.431896+00:00",
+      "score": 101.26
+    },
+    {
       "key": "mercadolivre:MLB3845821781",
       "marketplace": "mercadolivre",
       "id": "MLB3845821781",
@@ -13985,21 +13999,7 @@
       "posted_ts": 1789057268,
       "posted_at": "2026-09-10T16:21:08.081050+00:00",
       "score": 73.2
-    },
-    {
-      "key": "shopee:20498962219",
-      "marketplace": "shopee",
-      "id": "20498962219",
-      "title": "Extrator de Sucos Turbo Premium Mondial Preto e Inox 250W E-10",
-      "title_norm": "extrator de sucos turbo premium mondial preto e inox 250w e 10",
-      "url": "https://shopee.com.br/product/1062544851/20498962219",
-      "affiliate_url": "https://s.shopee.com.br/2gB2dinukg",
-      "category": "Mercado Fácil",
-      "bucket": "mercado_facil",
-      "posted_ts": 1789057204,
-      "posted_at": "2026-09-10T16:20:04.018898+00:00",
-      "score": 89.91
     }
   ],
-  "updated_at": "2026-09-19T11:05:01.415818+00:00"
+  "updated_at": "2026-09-19T11:16:46.431912+00:00"
 }
