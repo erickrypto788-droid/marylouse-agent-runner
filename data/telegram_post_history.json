@@ -1,6 +1,20 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB7526272332",
+      "marketplace": "mercadolivre",
+      "id": "MLB7526272332",
+      "title": "Ração Gato Castrado Life Special Robustus 10,1kg",
+      "title_norm": "racao gato castrado life special robustus 10 1kg",
+      "url": "https://www.mercadolivre.com.br/p/MLB75981402?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB75981402?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Pet",
+      "bucket": "pet",
+      "posted_ts": 1789855371,
+      "posted_at": "2026-09-19T22:02:51.606968+00:00",
+      "score": 113.0
+    },
+    {
       "key": "shopee:22193520552",
       "marketplace": "shopee",
       "id": "22193520552",
@@ -13985,21 +13999,7 @@
       "posted_ts": 1789093153,
       "posted_at": "2026-09-11T02:19:13.719498+00:00",
       "score": 107.74
-    },
-    {
-      "key": "shopee:22798751787",
-      "marketplace": "shopee",
-      "id": "22798751787",
-      "title": "Revelação de Fotos 10x15 | Papel Fotográfico 180g | Cores Vivas | 05 a 100 Fotos | Impressão Premium em Alta Definição",
-      "title_norm": "revelacao de fotos 10x15 papel fotografico 180g cores vivas 05 a 100 fotos impressao premium em alta definicao",
-      "url": "https://shopee.com.br/product/996579703/22798751787",
-      "affiliate_url": "https://s.shopee.com.br/2Vrd2VNPZn",
-      "category": "STUDIO ELEGANCE PAPELARIA",
-      "bucket": "studio_elegance_papelaria",
-      "posted_ts": 1789093089,
-      "posted_at": "2026-09-11T02:18:09.710389+00:00",
-      "score": 107.81
     }
   ],
-  "updated_at": "2026-09-19T21:21:32.929725+00:00"
+  "updated_at": "2026-09-19T22:02:51.606990+00:00"
 }
