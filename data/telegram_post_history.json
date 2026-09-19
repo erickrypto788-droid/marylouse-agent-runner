@@ -1,6 +1,48 @@
 {
   "posts": [
     {
+      "key": "shopee:18199606563",
+      "marketplace": "shopee",
+      "id": "18199606563",
+      "title": "Accu-Chek Active Kit Medidor De Glicose Glicosimetro",
+      "title_norm": "accu chek active kit medidor de glicose glicosimetro",
+      "url": "https://shopee.com.br/product/1039727357/18199606563",
+      "affiliate_url": "https://s.shopee.com.br/5VVRJ1B4MR",
+      "category": "MELHORIN ONLINE",
+      "bucket": "melhorin_online",
+      "posted_ts": 1789777132,
+      "posted_at": "2026-09-19T00:18:52.089871+00:00",
+      "score": 46.12
+    },
+    {
+      "key": "shopee:23393985992",
+      "marketplace": "shopee",
+      "id": "23393985992",
+      "title": "Relógio De Parede Led Digital Grande Termômetro Recepção",
+      "title_norm": "relogio de parede led digital grande termometro recepcao",
+      "url": "https://shopee.com.br/product/1542862511/23393985992",
+      "affiliate_url": "https://s.shopee.com.br/7ptKp0wH2t",
+      "category": "MADO STORE",
+      "bucket": "saude",
+      "posted_ts": 1789777068,
+      "posted_at": "2026-09-19T00:17:48.061335+00:00",
+      "score": 99.78
+    },
+    {
+      "key": "shopee:43854643103",
+      "marketplace": "shopee",
+      "id": "43854643103",
+      "title": "Oxímetro de Dedo Digital Portátil com Tela LED, Leitura Rápida de SpO2 e Pulso para Uso Doméstico e Viagem",
+      "title_norm": "oximetro de dedo digital portatil com tela led leitura rapida de spo2 e pulso para uso domestico e viagem",
+      "url": "https://shopee.com.br/product/1432047639/43854643103",
+      "affiliate_url": "https://s.shopee.com.br/6L4YIXzAP0",
+      "category": "Tudo e Mais.br",
+      "bucket": "saude",
+      "posted_ts": 1789777004,
+      "posted_at": "2026-09-19T00:16:44.051120+00:00",
+      "score": 100.73
+    },
+    {
       "key": "mercadolivre:MLB7584337290",
       "marketplace": "mercadolivre",
       "id": "MLB7584337290",
@@ -13957,49 +13999,7 @@
       "posted_ts": 1789023842,
       "posted_at": "2026-09-10T07:04:02.460056+00:00",
       "score": 113.0
-    },
-    {
-      "key": "mercadolivre:MLB5209308589",
-      "marketplace": "mercadolivre",
-      "id": "MLB5209308589",
-      "title": "Perfume Masculino Millions",
-      "title_norm": "perfume masculino millions",
-      "url": "https://www.mercadolivre.com.br/p/MLB77141871?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB77141871?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "category": "Beleza",
-      "bucket": "beleza",
-      "posted_ts": 1789023767,
-      "posted_at": "2026-09-10T07:02:47.288495+00:00",
-      "score": 188.67
-    },
-    {
-      "key": "shopee:58256029412",
-      "marketplace": "shopee",
-      "id": "58256029412",
-      "title": "Adesivos Personalizados 4x4 cm - 1000 unidades, 500, 300 ou 200 unidades - Com sua logo ou arte",
-      "title_norm": "adesivos personalizados 4x4 cm 1000 unidades 500 300 ou 200 unidades com sua logo ou arte",
-      "url": "https://shopee.com.br/product/1748741556/58256029412",
-      "affiliate_url": "https://s.shopee.com.br/5LBn9QbVhB",
-      "category": "Céu de Papel Criativos",
-      "bucket": "ceu_de_papel_criativos",
-      "posted_ts": 1789021280,
-      "posted_at": "2026-09-10T06:21:20.239788+00:00",
-      "score": 61.18
-    },
-    {
-      "key": "shopee:22199178426",
-      "marketplace": "shopee",
-      "id": "22199178426",
-      "title": "Caderneta Tipo Moleskine SKETCHBOOK Agenda Pauta Liso Wire-o Espiral Caderno Bloco Anotação Desenho",
-      "title_norm": "caderneta tipo moleskine sketchbook agenda pauta liso wire o espiral caderno bloco anotacao desenho",
-      "url": "https://shopee.com.br/product/411138765/22199178426",
-      "affiliate_url": "https://s.shopee.com.br/8V8ovFcecQ",
-      "category": "Papelaria Sinha Moça Shop",
-      "bucket": "papelaria_sinha_moca_shop",
-      "posted_ts": 1789021216,
-      "posted_at": "2026-09-10T06:20:16.008126+00:00",
-      "score": 61.58
     }
   ],
-  "updated_at": "2026-09-19T00:02:22.895531+00:00"
+  "updated_at": "2026-09-19T00:18:52.089885+00:00"
 }
