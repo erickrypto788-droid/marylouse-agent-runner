@@ -1,6 +1,20 @@
 {
   "posts": [
     {
+      "key": "shopee:23697999031",
+      "marketplace": "shopee",
+      "id": "23697999031",
+      "title": "Mochila tática leve e versátil para atividades ao ar livre - bolsa de peito masculina esportiva",
+      "title_norm": "mochila tatica leve e versatil para atividades ao ar livre bolsa de peito masculina esportiva",
+      "url": "https://shopee.com.br/product/1036127869/23697999031",
+      "affiliate_url": "https://s.shopee.com.br/8KpeCzpP9v",
+      "category": "CLEVORA COMERCIAL",
+      "bucket": "bolsas",
+      "posted_ts": 1789859854,
+      "posted_at": "2026-09-19T23:17:34.946938+00:00",
+      "score": 51.09
+    },
+    {
       "key": "mercadolivre:MLB7262266178",
       "marketplace": "mercadolivre",
       "id": "MLB7262266178",
@@ -13985,21 +13999,7 @@
       "posted_ts": 1789096669,
       "posted_at": "2026-09-11T03:17:49.154725+00:00",
       "score": 90.74
-    },
-    {
-      "key": "shopee:54557028525",
-      "marketplace": "shopee",
-      "id": "54557028525",
-      "title": "Chaleira Elétrica Inox 1,8L 1000W ou 1200W Desligamento Automático - Bule Jarra Cafeteira Elétrica Aquece Água Rápido",
-      "title_norm": "chaleira eletrica inox 1 8l 1000w ou 1200w desligamento automatico bule jarra cafeteira eletrica aquece agua rapido",
-      "url": "https://shopee.com.br/product/332059670/54557028525",
-      "affiliate_url": "https://s.shopee.com.br/5LBoXw8vk1",
-      "category": "Pratitudo Essencial",
-      "bucket": "casa_cozinha",
-      "posted_ts": 1789096605,
-      "posted_at": "2026-09-11T03:16:45.190414+00:00",
-      "score": 123.18
     }
   ],
-  "updated_at": "2026-09-19T23:03:48.722007+00:00"
+  "updated_at": "2026-09-19T23:17:34.946954+00:00"
 }
