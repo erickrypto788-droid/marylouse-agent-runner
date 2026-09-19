@@ -1,6 +1,20 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB5205515547",
+      "marketplace": "mercadolivre",
+      "id": "MLB5205515547",
+      "title": "Escova Secadora",
+      "title_norm": "escova secadora",
+      "url": "https://www.mercadolivre.com.br/p/MLB77998394?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB77998394?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Beleza",
+      "bucket": "beleza",
+      "posted_ts": 1789826565,
+      "posted_at": "2026-09-19T14:02:45.471321+00:00",
+      "score": 113.0
+    },
+    {
       "key": "shopee:41672473191",
       "marketplace": "shopee",
       "id": "41672473191",
@@ -13985,21 +13999,7 @@
       "posted_ts": 1789060797,
       "posted_at": "2026-09-10T17:19:57.380038+00:00",
       "score": 65.9
-    },
-    {
-      "key": "shopee:54359629558",
-      "marketplace": "shopee",
-      "id": "54359629558",
-      "title": "Sérum Roll-On Área dos Olhos Adeus Olheiras 10ml Kokeshi",
-      "title_norm": "serum roll on area dos olhos adeus olheiras 10ml kokeshi",
-      "url": "https://shopee.com.br/product/395166866/54359629558",
-      "affiliate_url": "https://s.shopee.com.br/1BMEv5R0df",
-      "category": "KOKESHI OFICIAL",
-      "bucket": "kokeshi_oficial",
-      "posted_ts": 1789060733,
-      "posted_at": "2026-09-10T17:18:53.378608+00:00",
-      "score": 103.25
     }
   ],
-  "updated_at": "2026-09-19T13:17:53.500507+00:00"
+  "updated_at": "2026-09-19T14:02:45.471336+00:00"
 }
