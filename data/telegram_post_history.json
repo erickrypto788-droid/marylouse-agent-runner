@@ -1,6 +1,34 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB3845821781",
+      "marketplace": "mercadolivre",
+      "id": "MLB3845821781",
+      "title": "Armário Organizador Cozinha Balcão Microondas Jet - Cinza",
+      "title_norm": "armario organizador cozinha balcao microondas jet cinza",
+      "url": "https://www.mercadolivre.com.br/p/MLB38279289?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB38279289?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Casa e Cozinha",
+      "bucket": "casa_e_cozinha",
+      "posted_ts": 1789815901,
+      "posted_at": "2026-09-19T11:05:01.415805+00:00",
+      "score": 86.0
+    },
+    {
+      "key": "mercadolivre:MLB5454690706",
+      "marketplace": "mercadolivre",
+      "id": "MLB5454690706",
+      "title": "Cadeira Escritório Secretaria Rcp Preto",
+      "title_norm": "cadeira escritorio secretaria rcp preto",
+      "url": "https://www.mercadolivre.com.br/p/MLB22813112?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB22813112?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Casa e Cozinha",
+      "bucket": "casa_e_cozinha",
+      "posted_ts": 1789815834,
+      "posted_at": "2026-09-19T11:03:54.495999+00:00",
+      "score": 88.0
+    },
+    {
       "key": "shopee:22492784050",
       "marketplace": "shopee",
       "id": "22492784050",
@@ -13971,35 +13999,7 @@
       "posted_ts": 1789057204,
       "posted_at": "2026-09-10T16:20:04.018898+00:00",
       "score": 89.91
-    },
-    {
-      "key": "shopee:23297589986",
-      "marketplace": "shopee",
-      "id": "23297589986",
-      "title": "Pipoqueira Elétrica Popcorn Maker 110V  Pipoca Sem Óleo",
-      "title_norm": "pipoqueira eletrica popcorn maker 110v pipoca sem oleo",
-      "url": "https://shopee.com.br/product/1053378287/23297589986",
-      "affiliate_url": "https://s.shopee.com.br/3LQjQx2hTm",
-      "category": "3XZ STORE",
-      "bucket": "3xz_store",
-      "posted_ts": 1789057139,
-      "posted_at": "2026-09-10T16:18:59.981232+00:00",
-      "score": 101.62
-    },
-    {
-      "key": "shopee:22792891006",
-      "marketplace": "shopee",
-      "id": "22792891006",
-      "title": "Cafeteira Philco 15 Cafezinhos 550W 600ml PCFE01",
-      "title_norm": "cafeteira philco 15 cafezinhos 550w 600ml pcfe01",
-      "url": "https://shopee.com.br/product/811034337/22792891006",
-      "affiliate_url": "https://s.shopee.com.br/7pt8nDYZmk",
-      "category": "Philco Oficial",
-      "bucket": "casa_cozinha",
-      "posted_ts": 1789057076,
-      "posted_at": "2026-09-10T16:17:56.019509+00:00",
-      "score": 101.74
     }
   ],
-  "updated_at": "2026-09-19T10:22:55.087964+00:00"
+  "updated_at": "2026-09-19T11:05:01.415818+00:00"
 }
