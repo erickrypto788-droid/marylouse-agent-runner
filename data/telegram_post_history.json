@@ -1,6 +1,34 @@
 {
   "posts": [
     {
+      "key": "shopee:23493066342",
+      "marketplace": "shopee",
+      "id": "23493066342",
+      "title": "Bota PVC Chuva Motociclista Moto Impermeável Forrado",
+      "title_norm": "bota pvc chuva motociclista moto impermeavel forrado",
+      "url": "https://shopee.com.br/product/1081929427/23493066342",
+      "affiliate_url": "https://s.shopee.com.br/4B04W0jN5Y",
+      "category": "Safe_Brasil",
+      "bucket": "calcados",
+      "posted_ts": 1789820269,
+      "posted_at": "2026-09-19T12:17:49.918988+00:00",
+      "score": 86.36
+    },
+    {
+      "key": "shopee:23492477701",
+      "marketplace": "shopee",
+      "id": "23492477701",
+      "title": "Tênis Infantil Menino Masculino Casual Sapatenis Infantil",
+      "title_norm": "tenis infantil menino masculino casual sapatenis infantil",
+      "url": "https://shopee.com.br/product/287287585/23492477701",
+      "affiliate_url": "https://s.shopee.com.br/AUu83eGiv9",
+      "category": "Comprei Calçados",
+      "bucket": "calcados",
+      "posted_ts": 1789820205,
+      "posted_at": "2026-09-19T12:16:45.961691+00:00",
+      "score": 89.75
+    },
+    {
       "key": "shopee:22798552970",
       "marketplace": "shopee",
       "id": "22798552970",
@@ -13971,35 +13999,7 @@
       "posted_ts": 1789060605,
       "posted_at": "2026-09-10T17:16:45.362244+00:00",
       "score": 133.06
-    },
-    {
-      "key": "mercadolivre:MLB5095655201",
-      "marketplace": "mercadolivre",
-      "id": "MLB5095655201",
-      "title": "Impressora Etiquetas Código Barras + 1.000 Etiquetas Cor Branco",
-      "title_norm": "impressora etiquetas codigo barras 1 000 etiquetas cor branco",
-      "url": "https://www.mercadolivre.com.br/p/MLB50110319?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB50110319?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "category": "Informática",
-      "bucket": "informatica",
-      "posted_ts": 1789059787,
-      "posted_at": "2026-09-10T17:03:07.343013+00:00",
-      "score": 86.0
-    },
-    {
-      "key": "shopee:23993933147",
-      "marketplace": "shopee",
-      "id": "23993933147",
-      "title": "Micro-ondas Britânia 20L Pintura Limpa Fácil BMO23",
-      "title_norm": "micro ondas britania 20l pintura limpa facil bmo23",
-      "url": "https://shopee.com.br/product/811879342/23993933147",
-      "affiliate_url": "https://s.shopee.com.br/8plfz3dZL1",
-      "category": "Britânia Oficial",
-      "bucket": "britania_oficial",
-      "posted_ts": 1789057268,
-      "posted_at": "2026-09-10T16:21:08.081050+00:00",
-      "score": 73.2
     }
   ],
-  "updated_at": "2026-09-19T11:16:46.431912+00:00"
+  "updated_at": "2026-09-19T12:17:49.919002+00:00"
 }
