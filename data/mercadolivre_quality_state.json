@@ -1,6 +1,36 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB7426392498",
+      "product_id": "MLB7426392498",
+      "catalog_product_id": "MLB77446524",
+      "item_id": "MLB7426392498",
+      "url": "https://www.mercadolivre.com.br/p/MLB77446524?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB77446524?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "ulefone note 18 ultra 256gb 6gb ram celular 5g 5450mah camera 50mp preto",
+      "title": "Ulefone Note 18 Ultra 256GB 6GB RAM Celular 5G 5450mAh Câmera 50MP Preto",
+      "category": "Informática",
+      "price": 1867.15,
+      "score": 117.67,
+      "posted_ts": 1789844652,
+      "posted_at": "2026-09-19T19:04:12.249720+00:00"
+    },
+    {
+      "key": "mercadolivre:MLB7626010124",
+      "product_id": "MLB7626010124",
+      "catalog_product_id": "MLB47306212",
+      "item_id": "MLB7626010124",
+      "url": "https://www.mercadolivre.com.br/p/MLB47306212?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB47306212?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "smartphone xiaomi redmi 12 preto 128 4gb e fone",
+      "title": "Smartphone Xiaomí Redmi 12 Preto 128/4gb + E Fone",
+      "category": "Informática",
+      "price": 1399.0,
+      "score": 127.0,
+      "posted_ts": 1789844582,
+      "posted_at": "2026-09-19T19:03:02.713432+00:00"
+    },
+    {
       "key": "mercadolivre:MLB6459080170",
       "product_id": "MLB6459080170",
       "catalog_product_id": "MLB24522367",
@@ -539,37 +569,7 @@
       "score": 86.0,
       "posted_ts": 1789675407,
       "posted_at": "2026-09-17T20:03:27.045276+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB4749092753",
-      "product_id": "MLB4749092753",
-      "catalog_product_id": "MLB32106098",
-      "item_id": "MLB4749092753",
-      "url": "https://www.mercadolivre.com.br/p/MLB32106098?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB32106098?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "racao premier pet vitta natural racao cachorro adulto 15k",
-      "title": "Ração Premier Pet Vitta Natural Ração Cachorro Adulto 15k",
-      "category": "Pet",
-      "price": 149.98,
-      "score": 129.0,
-      "posted_ts": 1789668178,
-      "posted_at": "2026-09-17T18:02:58.914157+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB3222635196",
-      "product_id": "MLB3222635196",
-      "catalog_product_id": "MLB21719639",
-      "item_id": "MLB3222635196",
-      "url": "https://www.mercadolivre.com.br/p/MLB21719639?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB21719639?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "bracadeira para aparelho monitor pressao digital infantil omron",
-      "title": "Braçadeira para Aparelho Monitor Pressão Digital Infantil Omron",
-      "category": "Informática",
-      "price": 135.0,
-      "score": 95.09,
-      "posted_ts": 1789664564,
-      "posted_at": "2026-09-17T17:02:44.963035+00:00"
     }
   ],
-  "updated_at": "2026-09-19T17:02:32.045379+00:00"
+  "updated_at": "2026-09-19T19:04:12.249730+00:00"
 }
