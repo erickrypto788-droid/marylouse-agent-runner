@@ -1,6 +1,20 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB6459080170",
+      "marketplace": "mercadolivre",
+      "id": "MLB6459080170",
+      "title": "SSD Nvme Asgard AN4 1tb Gen4",
+      "title_norm": "ssd nvme asgard an4 1tb gen4",
+      "url": "https://www.mercadolivre.com.br/p/MLB24522367?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB24522367?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Informática",
+      "bucket": "informatica",
+      "posted_ts": 1789837352,
+      "posted_at": "2026-09-19T17:02:32.031194+00:00",
+      "score": 111.0
+    },
+    {
       "key": "shopee:44074380649",
       "marketplace": "shopee",
       "id": "44074380649",
@@ -13985,21 +13999,7 @@
       "posted_ts": 1789071401,
       "posted_at": "2026-09-10T20:16:41.751455+00:00",
       "score": 122.36
-    },
-    {
-      "key": "mercadolivre:MLB4669888929",
-      "marketplace": "mercadolivre",
-      "id": "MLB4669888929",
-      "title": "Kit 10 Cateteres Speedicath Short Feminino Ch10",
-      "title_norm": "kit 10 cateteres speedicath short feminino ch10",
-      "url": "https://www.mercadolivre.com.br/p/MLB69426926?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB69426926?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "category": "Moda Feminina",
-      "bucket": "moda_feminina",
-      "posted_ts": 1789070770,
-      "posted_at": "2026-09-10T20:06:10.772368+00:00",
-      "score": 88.0
     }
   ],
-  "updated_at": "2026-09-19T16:21:07.335103+00:00"
+  "updated_at": "2026-09-19T17:02:32.031209+00:00"
 }
