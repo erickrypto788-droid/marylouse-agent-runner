@@ -1,6 +1,51 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB4976025191",
+      "product_id": "MLB4976025191",
+      "catalog_product_id": "MLB67005264",
+      "item_id": "MLB4976025191",
+      "url": "https://www.mercadolivre.com.br/p/MLB67005264?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB67005264?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "2 amaciante roupas concentrado lavanda frasco comfort 1 5l",
+      "title": "2 Amaciante Roupas Concentrado Lavanda Frasco Comfort 1,5l",
+      "category": "Supermercados",
+      "price": 84.9,
+      "score": 114.0,
+      "posted_ts": 1789808951,
+      "posted_at": "2026-09-19T09:09:11.668639+00:00"
+    },
+    {
+      "key": "mercadolivre:MLB4897851395",
+      "product_id": "MLB4897851395",
+      "catalog_product_id": "MLB32842039",
+      "item_id": "MLB4897851395",
+      "url": "https://www.mercadolivre.com.br/p/MLB32842039?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB32842039?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "kit 6 amaciante roupas concentrado intense comfort 500ml",
+      "title": "Kit 6 Amaciante Roupas Concentrado Intense Comfort 500ml",
+      "category": "Supermercados",
+      "price": 122.99,
+      "score": 114.0,
+      "posted_ts": 1789808881,
+      "posted_at": "2026-09-19T09:08:01.883663+00:00"
+    },
+    {
+      "key": "mercadolivre:MLB6235690836",
+      "product_id": "MLB6235690836",
+      "catalog_product_id": "MLB20572035",
+      "item_id": "MLB6235690836",
+      "url": "https://www.mercadolivre.com.br/p/MLB20572035?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB20572035?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "creme dental 50 gr bioxtra",
+      "title": "Creme Dental 50 Gr - Bioxtra",
+      "category": "Supermercados",
+      "price": 105.91,
+      "score": 157.8,
+      "posted_ts": 1789808813,
+      "posted_at": "2026-09-19T09:06:53.056127+00:00"
+    },
+    {
       "key": "mercadolivre:MLB7625830504",
       "product_id": "MLB7625830504",
       "catalog_product_id": "MLB78672090",
@@ -524,22 +569,7 @@
       "score": 188.67,
       "posted_ts": 1789639357,
       "posted_at": "2026-09-17T10:02:37.522502+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB6884302164",
-      "product_id": "MLB6884302164",
-      "catalog_product_id": "MLB70627275",
-      "item_id": "MLB6884302164",
-      "url": "https://www.mercadolivre.com.br/p/MLB70627275?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB70627275?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "rack yescasa rack para tv ate 70 jatoba terroso de mdp",
-      "title": "Rack Yescasa Rack para TV até 70\" jatoba terroso de mdp",
-      "category": "Casa e Cozinha",
-      "price": 855.87,
-      "score": 82.57,
-      "posted_ts": 1789628656,
-      "posted_at": "2026-09-17T07:04:16.763335+00:00"
     }
   ],
-  "updated_at": "2026-09-19T07:03:05.008945+00:00"
+  "updated_at": "2026-09-19T09:09:11.668649+00:00"
 }

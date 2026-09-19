@@ -1,6 +1,48 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB4976025191",
+      "marketplace": "mercadolivre",
+      "id": "MLB4976025191",
+      "title": "2 Amaciante Roupas Concentrado Lavanda Frasco Comfort 1,5l",
+      "title_norm": "2 amaciante roupas concentrado lavanda frasco comfort 1 5l",
+      "url": "https://www.mercadolivre.com.br/p/MLB67005264?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB67005264?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Supermercados",
+      "bucket": "supermercado",
+      "posted_ts": 1789808951,
+      "posted_at": "2026-09-19T09:09:11.657727+00:00",
+      "score": 114.0
+    },
+    {
+      "key": "mercadolivre:MLB4897851395",
+      "marketplace": "mercadolivre",
+      "id": "MLB4897851395",
+      "title": "Kit 6 Amaciante Roupas Concentrado Intense Comfort 500ml",
+      "title_norm": "kit 6 amaciante roupas concentrado intense comfort 500ml",
+      "url": "https://www.mercadolivre.com.br/p/MLB32842039?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB32842039?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Supermercados",
+      "bucket": "supermercado",
+      "posted_ts": 1789808881,
+      "posted_at": "2026-09-19T09:08:01.872750+00:00",
+      "score": 114.0
+    },
+    {
+      "key": "mercadolivre:MLB6235690836",
+      "marketplace": "mercadolivre",
+      "id": "MLB6235690836",
+      "title": "Creme Dental 50 Gr - Bioxtra",
+      "title_norm": "creme dental 50 gr bioxtra",
+      "url": "https://www.mercadolivre.com.br/p/MLB20572035?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB20572035?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Supermercados",
+      "bucket": "supermercados",
+      "posted_ts": 1789808813,
+      "posted_at": "2026-09-19T09:06:53.044978+00:00",
+      "score": 157.8
+    },
+    {
       "key": "shopee:40873387489",
       "marketplace": "shopee",
       "id": "40873387489",
@@ -13957,49 +13999,7 @@
       "posted_ts": 1789046375,
       "posted_at": "2026-09-10T13:19:35.834760+00:00",
       "score": 96.71
-    },
-    {
-      "key": "shopee:12820428668",
-      "marketplace": "shopee",
-      "id": "12820428668",
-      "title": "Sapatenis Masculino Star Fox Ziper e Cadarço Calce Casual A1",
-      "title_norm": "sapatenis masculino star fox ziper e cadarco calce casual a1",
-      "url": "https://shopee.com.br/product/294355829/12820428668",
-      "affiliate_url": "https://s.shopee.com.br/2VrcF6BBNt",
-      "category": "Star Fox Calçados",
-      "bucket": "calcados",
-      "posted_ts": 1789046311,
-      "posted_at": "2026-09-10T13:18:31.844701+00:00",
-      "score": 102.55
-    },
-    {
-      "key": "shopee:58263369269",
-      "marketplace": "shopee",
-      "id": "58263369269",
-      "title": "Tênis Masculino Academia Casual Esportivo Para Treino Crossfit Caminhada",
-      "title_norm": "tenis masculino academia casual esportivo para treino crossfit caminhada",
-      "url": "https://shopee.com.br/product/1598184222/58263369269",
-      "affiliate_url": "https://s.shopee.com.br/9AOWBLcrqN",
-      "category": "De Macedos 2.0",
-      "bucket": "calcados",
-      "posted_ts": 1789046247,
-      "posted_at": "2026-09-10T13:17:27.759727+00:00",
-      "score": 107.36
-    },
-    {
-      "key": "shopee:23994721900",
-      "marketplace": "shopee",
-      "id": "23994721900",
-      "title": "Calça Wid Leg Cargo  Modeladora Blogueira Moda",
-      "title_norm": "calca wid leg cargo modeladora blogueira moda",
-      "url": "https://shopee.com.br/product/1366727315/23994721900",
-      "affiliate_url": "https://s.shopee.com.br/80CYj2K4VV",
-      "category": "Princess Jeans Ltda",
-      "bucket": "princess_jeans_ltda",
-      "posted_ts": 1789042859,
-      "posted_at": "2026-09-10T12:20:59.401642+00:00",
-      "score": 44.22
     }
   ],
-  "updated_at": "2026-09-19T08:16:51.945415+00:00"
+  "updated_at": "2026-09-19T09:09:11.657743+00:00"
 }
