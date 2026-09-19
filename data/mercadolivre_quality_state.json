@@ -1,6 +1,21 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB5297261932",
+      "product_id": "MLB5297261932",
+      "catalog_product_id": "MLB45785598",
+      "item_id": "MLB5297261932",
+      "url": "https://www.mercadolivre.com.br/p/MLB45785598?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB45785598?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "brinquedo lider kit ferramentas 2381",
+      "title": "Brinquedo Lider Kit Ferramentas - 2381",
+      "category": "Ferramentas",
+      "price": 119.0,
+      "score": 88.0,
+      "posted_ts": 1789833760,
+      "posted_at": "2026-09-19T16:02:40.154299+00:00"
+    },
+    {
       "key": "mercadolivre:MLB4712198025",
       "product_id": "MLB4712198025",
       "catalog_product_id": "MLB54083722",
@@ -539,22 +554,7 @@
       "score": 95.09,
       "posted_ts": 1789664564,
       "posted_at": "2026-09-17T17:02:44.963035+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB5501712742",
-      "product_id": "MLB5501712742",
-      "catalog_product_id": "MLB21090695",
-      "item_id": "MLB5501712742",
-      "url": "https://www.mercadolivre.com.br/p/MLB21090695?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB21090695?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "estojo magnetico da serie crystal para iphone 13 iphone 13 pro iphone 13 pro max iphone 14 iphone 14 pro iphone 14 pro max",
-      "title": "Estojo magnético da série Crystal para iPhone 13, iPhone 13 Pro, iPhone 13 Pro Max, iPhone 14, iPhone 14 Pro, iPhone 14 Pro Max",
-      "category": "Informática",
-      "price": 99.9,
-      "score": 114.0,
-      "posted_ts": 1789657447,
-      "posted_at": "2026-09-17T15:04:07.461055+00:00"
     }
   ],
-  "updated_at": "2026-09-19T15:03:05.728476+00:00"
+  "updated_at": "2026-09-19T16:02:40.154307+00:00"
 }

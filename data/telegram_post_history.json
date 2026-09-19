@@ -1,6 +1,20 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB5297261932",
+      "marketplace": "mercadolivre",
+      "id": "MLB5297261932",
+      "title": "Brinquedo Lider Kit Ferramentas - 2381",
+      "title_norm": "brinquedo lider kit ferramentas 2381",
+      "url": "https://www.mercadolivre.com.br/p/MLB45785598?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB45785598?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Ferramentas",
+      "bucket": "ferramentas",
+      "posted_ts": 1789833760,
+      "posted_at": "2026-09-19T16:02:40.140754+00:00",
+      "score": 88.0
+    },
+    {
       "key": "shopee:22794554573",
       "marketplace": "shopee",
       "id": "22794554573",
@@ -13985,21 +13999,7 @@
       "posted_ts": 1789067806,
       "posted_at": "2026-09-10T19:16:46.549736+00:00",
       "score": 130.28
-    },
-    {
-      "key": "mercadolivre:MLB7517810920",
-      "marketplace": "mercadolivre",
-      "id": "MLB7517810920",
-      "title": "Hidratante Corporal Pessego",
-      "title_norm": "hidratante corporal pessego",
-      "url": "https://www.mercadolivre.com.br/p/MLB76609780?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB76609780?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "category": "Beleza",
-      "bucket": "beleza",
-      "posted_ts": 1789067372,
-      "posted_at": "2026-09-10T19:09:32.453629+00:00",
-      "score": 63.0
     }
   ],
-  "updated_at": "2026-09-19T15:20:02.048232+00:00"
+  "updated_at": "2026-09-19T16:02:40.140769+00:00"
 }
