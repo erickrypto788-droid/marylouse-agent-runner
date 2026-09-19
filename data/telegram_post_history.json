@@ -1,6 +1,20 @@
 {
   "posts": [
     {
+      "key": "shopee:40873387489",
+      "marketplace": "shopee",
+      "id": "40873387489",
+      "title": "Console PlayStation 5 Slim Digital 825GB",
+      "title_norm": "console playstation 5 slim digital 825gb",
+      "url": "https://shopee.com.br/product/1343318906/40873387489",
+      "affiliate_url": "https://s.shopee.com.br/3LQxG0CCd0",
+      "category": "NegociuN",
+      "bucket": "negociun",
+      "posted_ts": 1789805811,
+      "posted_at": "2026-09-19T08:16:51.945400+00:00",
+      "score": 42.92
+    },
+    {
       "key": "shopee:58213546118",
       "marketplace": "shopee",
       "id": "58213546118",
@@ -13985,21 +13999,7 @@
       "posted_ts": 1789042859,
       "posted_at": "2026-09-10T12:20:59.401642+00:00",
       "score": 44.22
-    },
-    {
-      "key": "shopee:44502184358",
-      "marketplace": "shopee",
-      "id": "44502184358",
-      "title": "Kit 3 Pijama Verão Baby Doll PLUS SIZEl Short Doll MICRO ESTAMPADO E LISO Feminino Noite Fresquinho",
-      "title_norm": "kit 3 pijama verao baby doll plus sizel short doll micro estampado e liso feminino noite fresquinho",
-      "url": "https://shopee.com.br/product/562181193/44502184358",
-      "affiliate_url": "https://s.shopee.com.br/1Lfemn0yxK",
-      "category": "CLARA BEAUTY LINGERIE",
-      "bucket": "clara_beauty_lingerie",
-      "posted_ts": 1789042795,
-      "posted_at": "2026-09-10T12:19:55.303975+00:00",
-      "score": 56.26
     }
   ],
-  "updated_at": "2026-09-19T07:21:23.257138+00:00"
+  "updated_at": "2026-09-19T08:16:51.945415+00:00"
 }
