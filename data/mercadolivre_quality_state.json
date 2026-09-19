@@ -1,6 +1,21 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB4030966839",
+      "product_id": "MLB4030966839",
+      "catalog_product_id": "MLB43264591",
+      "item_id": "MLB4030966839",
+      "url": "https://www.mercadolivre.com.br/p/MLB43264591?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB43264591?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "smartphone xiaomi redmi 14c preto 128gb 4gb ram",
+      "title": "Smartphone Xiaomi Redmi 14C Preto 128GB 4GB RAM",
+      "category": "Informática",
+      "price": 790.0,
+      "score": 127.0,
+      "posted_ts": 1789783450,
+      "posted_at": "2026-09-19T02:04:10.373635+00:00"
+    },
+    {
       "key": "mercadolivre:MLB7584337290",
       "product_id": "MLB7584337290",
       "catalog_product_id": "MLB24511657",
@@ -569,22 +584,7 @@
       "score": 130.0,
       "posted_ts": 1789621529,
       "posted_at": "2026-09-17T05:05:29.968922+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB4302548173",
-      "product_id": "MLB4302548173",
-      "catalog_product_id": "MLB44164135",
-      "item_id": "MLB4302548173",
-      "url": "https://www.mercadolivre.com.br/p/MLB44164135?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB44164135?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "comedouro automatico racao aquario terrario peixe tartaruga",
-      "title": "Comedouro Automático Ração Aquário Terrario Peixe Tartaruga",
-      "category": "Pet",
-      "price": 117.85,
-      "score": 137.09,
-      "posted_ts": 1789606975,
-      "posted_at": "2026-09-17T01:02:55.365970+00:00"
     }
   ],
-  "updated_at": "2026-09-19T00:02:22.910287+00:00"
+  "updated_at": "2026-09-19T02:04:10.373649+00:00"
 }

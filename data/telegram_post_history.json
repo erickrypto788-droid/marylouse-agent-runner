@@ -1,6 +1,20 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB4030966839",
+      "marketplace": "mercadolivre",
+      "id": "MLB4030966839",
+      "title": "Smartphone Xiaomi Redmi 14C Preto 128GB 4GB RAM",
+      "title_norm": "smartphone xiaomi redmi 14c preto 128gb 4gb ram",
+      "url": "https://www.mercadolivre.com.br/p/MLB43264591?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB43264591?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Informática",
+      "bucket": "celulares",
+      "posted_ts": 1789783450,
+      "posted_at": "2026-09-19T02:04:10.364540+00:00",
+      "score": 127.0
+    },
+    {
       "key": "shopee:18199606563",
       "marketplace": "shopee",
       "id": "18199606563",
@@ -13985,21 +13999,7 @@
       "posted_ts": 1789024613,
       "posted_at": "2026-09-10T07:16:53.956602+00:00",
       "score": 116.91
-    },
-    {
-      "key": "mercadolivre:MLB5205515547",
-      "marketplace": "mercadolivre",
-      "id": "MLB5205515547",
-      "title": "Escova Secadora",
-      "title_norm": "escova secadora",
-      "url": "https://www.mercadolivre.com.br/p/MLB77998394?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB77998394?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "category": "Beleza",
-      "bucket": "beleza",
-      "posted_ts": 1789023842,
-      "posted_at": "2026-09-10T07:04:02.460056+00:00",
-      "score": 113.0
     }
   ],
-  "updated_at": "2026-09-19T00:18:52.089885+00:00"
+  "updated_at": "2026-09-19T02:04:10.364560+00:00"
 }
