@@ -1,6 +1,21 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB4712198025",
+      "product_id": "MLB4712198025",
+      "catalog_product_id": "MLB54083722",
+      "item_id": "MLB4712198025",
+      "url": "https://www.mercadolivre.com.br/p/MLB54083722?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB54083722?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "fritadeira air fryer mondial oven digital 127v",
+      "title": "Fritadeira Air Fryer Mondial Oven Digital 127v",
+      "category": "Casa e Cozinha",
+      "price": 1265.0,
+      "score": 127.0,
+      "posted_ts": 1789830185,
+      "posted_at": "2026-09-19T15:03:05.728466+00:00"
+    },
+    {
       "key": "mercadolivre:MLB5205515547",
       "product_id": "MLB5205515547",
       "catalog_product_id": "MLB77998394",
@@ -539,22 +554,7 @@
       "score": 114.0,
       "posted_ts": 1789657447,
       "posted_at": "2026-09-17T15:04:07.461055+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB7650020050",
-      "product_id": "MLB7650020050",
-      "catalog_product_id": "MLB47306242",
-      "item_id": "MLB7650020050",
-      "url": "https://www.mercadolivre.com.br/p/MLB47306242?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB47306242?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "motorola smartphone motorola razr 50 ultra 5g cor pink",
-      "title": "Motorola Smartphone Motorola Razr 50 Ultra 5g Cor Pink",
-      "category": "Informática",
-      "price": 4199.99,
-      "score": 124.0,
-      "posted_ts": 1789657382,
-      "posted_at": "2026-09-17T15:03:02.472986+00:00"
     }
   ],
-  "updated_at": "2026-09-19T14:02:45.485657+00:00"
+  "updated_at": "2026-09-19T15:03:05.728476+00:00"
 }

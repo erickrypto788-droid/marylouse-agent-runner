@@ -1,6 +1,20 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB4712198025",
+      "marketplace": "mercadolivre",
+      "id": "MLB4712198025",
+      "title": "Fritadeira Air Fryer Mondial Oven Digital 127v",
+      "title_norm": "fritadeira air fryer mondial oven digital 127v",
+      "url": "https://www.mercadolivre.com.br/p/MLB54083722?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB54083722?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Casa e Cozinha",
+      "bucket": "casa_cozinha",
+      "posted_ts": 1789830185,
+      "posted_at": "2026-09-19T15:03:05.714736+00:00",
+      "score": 127.0
+    },
+    {
       "key": "shopee:15148370725",
       "marketplace": "shopee",
       "id": "15148370725",
@@ -13985,21 +13999,7 @@
       "posted_ts": 1789064410,
       "posted_at": "2026-09-10T18:20:10.458366+00:00",
       "score": 97.21
-    },
-    {
-      "key": "shopee:23893782668",
-      "marketplace": "shopee",
-      "id": "23893782668",
-      "title": "Conjunto Infantil Menino Verão – Camisa com Botões e Gola + Shorts com Elástico",
-      "title_norm": "conjunto infantil menino verao camisa com botoes e gola shorts com elastico",
-      "url": "https://shopee.com.br/product/408027260/23893782668",
-      "affiliate_url": "https://s.shopee.com.br/BThnNAvqZ",
-      "category": "Atelier Nobre Bie",
-      "bucket": "atelier_nobre_bie",
-      "posted_ts": 1789064346,
-      "posted_at": "2026-09-10T18:19:06.142247+00:00",
-      "score": 100.91
     }
   ],
-  "updated_at": "2026-09-19T14:18:54.569202+00:00"
+  "updated_at": "2026-09-19T15:03:05.714749+00:00"
 }
