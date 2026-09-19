@@ -1,6 +1,48 @@
 {
   "posts": [
     {
+      "key": "shopee:15148370725",
+      "marketplace": "shopee",
+      "id": "15148370725",
+      "title": "Kit 2 Película Vidro Para Samsung A15 A06 A07 A16 A55 A14 Temperado 3D 9H",
+      "title_norm": "kit 2 pelicula vidro para samsung a15 a06 a07 a16 a55 a14 temperado 3d 9h",
+      "url": "https://shopee.com.br/product/662611683/15148370725",
+      "affiliate_url": "https://s.shopee.com.br/4fwLFAQEsr",
+      "category": "Top Fan",
+      "bucket": "top_fan",
+      "posted_ts": 1789827534,
+      "posted_at": "2026-09-19T14:18:54.569190+00:00",
+      "score": 30.73
+    },
+    {
+      "key": "shopee:21999706453",
+      "marketplace": "shopee",
+      "id": "21999706453",
+      "title": "Kit de ferramentas + Cola + Elástico Para troca reparos manutenção de tela - Conserto de smartphone",
+      "title_norm": "kit de ferramentas cola elastico para troca reparos manutencao de tela conserto de smartphone",
+      "url": "https://shopee.com.br/product/1372574557/21999706453",
+      "affiliate_url": "https://s.shopee.com.br/5Asbq5Jw5e",
+      "category": "Premium Acessórios",
+      "bucket": "celulares",
+      "posted_ts": 1789827470,
+      "posted_at": "2026-09-19T14:17:50.579228+00:00",
+      "score": 117.17
+    },
+    {
+      "key": "shopee:23091546001",
+      "marketplace": "shopee",
+      "id": "23091546001",
+      "title": "Amplificador De Imagem Da Tela Do Celular Lupa 3D 21,6CM*16,6CM*2,7CM Promoção",
+      "title_norm": "amplificador de imagem da tela do celular lupa 3d 21 6cm 16 6cm 2 7cm promocao",
+      "url": "https://shopee.com.br/product/832040275/23091546001",
+      "affiliate_url": "https://s.shopee.com.br/qja1JSEUC",
+      "category": "P&H  Oficial",
+      "bucket": "celulares",
+      "posted_ts": 1789827406,
+      "posted_at": "2026-09-19T14:16:46.580321+00:00",
+      "score": 121.37
+    },
+    {
       "key": "mercadolivre:MLB5205515547",
       "marketplace": "mercadolivre",
       "id": "MLB5205515547",
@@ -13957,49 +13999,7 @@
       "posted_ts": 1789064346,
       "posted_at": "2026-09-10T18:19:06.142247+00:00",
       "score": 100.91
-    },
-    {
-      "key": "shopee:58264415501",
-      "marketplace": "shopee",
-      "id": "58264415501",
-      "title": "Tênis Infantil Leve Para Adultos e Criança Básico",
-      "title_norm": "tenis infantil leve para adultos e crianca basico",
-      "url": "https://shopee.com.br/product/1670233926/58264415501",
-      "affiliate_url": "https://s.shopee.com.br/6q0bjd358T",
-      "category": "camila.shoes",
-      "bucket": "calcados",
-      "posted_ts": 1789064281,
-      "posted_at": "2026-09-10T18:18:01.840609+00:00",
-      "score": 114.09
-    },
-    {
-      "key": "shopee:44152768165",
-      "marketplace": "shopee",
-      "id": "44152768165",
-      "title": "Kit 3 Pares Chinelo Infantil Menina Sortido Confortável Leve Macio",
-      "title_norm": "kit 3 pares chinelo infantil menina sortido confortavel leve macio",
-      "url": "https://shopee.com.br/product/280039385/44152768165",
-      "affiliate_url": "https://s.shopee.com.br/5q84Xn2UNr",
-      "category": "Lima'S Fabrica",
-      "bucket": "calcados",
-      "posted_ts": 1789064217,
-      "posted_at": "2026-09-10T18:16:57.606439+00:00",
-      "score": 114.27
-    },
-    {
-      "key": "shopee:19598142136",
-      "marketplace": "shopee",
-      "id": "19598142136",
-      "title": "Ollie Protetor Solar em Bastão Com Cor FPS 95",
-      "title_norm": "ollie protetor solar em bastao com cor fps 95",
-      "url": "https://shopee.com.br/product/1423440087/19598142136",
-      "affiliate_url": "https://s.shopee.com.br/9V1MqOzPRx",
-      "category": "meuollie",
-      "bucket": "meuollie",
-      "posted_ts": 1789060797,
-      "posted_at": "2026-09-10T17:19:57.380038+00:00",
-      "score": 65.9
     }
   ],
-  "updated_at": "2026-09-19T14:02:45.471336+00:00"
+  "updated_at": "2026-09-19T14:18:54.569202+00:00"
 }
