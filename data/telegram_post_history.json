@@ -1,6 +1,34 @@
 {
   "posts": [
     {
+      "key": "shopee:18397808004",
+      "marketplace": "shopee",
+      "id": "18397808004",
+      "title": "Bolsa feminina fitness Esportiva yoga Bolsa de viagem Impermeável unissex Academia",
+      "title_norm": "bolsa feminina fitness esportiva yoga bolsa de viagem impermeavel unissex academia",
+      "url": "https://shopee.com.br/product/391739739/18397808004",
+      "affiliate_url": "https://s.shopee.com.br/5Asb6loUZr",
+      "category": "ANJ.GG store",
+      "bucket": "bolsas",
+      "posted_ts": 1789787902,
+      "posted_at": "2026-09-19T03:18:22.844358+00:00",
+      "score": 104.89
+    },
+    {
+      "key": "shopee:23294845685",
+      "marketplace": "shopee",
+      "id": "23294845685",
+      "title": "TOMI MITO Bolsa Casual Espaçosa com Zíper e Divisórias para Trabalho e Passeios  TM9181",
+      "title_norm": "tomi mito bolsa casual espacosa com ziper e divisorias para trabalho e passeios tm9181",
+      "url": "https://shopee.com.br/product/1468415010/23294845685",
+      "affiliate_url": "https://s.shopee.com.br/2qUgKToe1c",
+      "category": "Amy.Store",
+      "bucket": "bolsas",
+      "posted_ts": 1789787813,
+      "posted_at": "2026-09-19T03:16:53.763464+00:00",
+      "score": 112.6
+    },
+    {
       "key": "shopee:22893472924",
       "marketplace": "shopee",
       "id": "22893472924",
@@ -13971,35 +13999,7 @@
       "posted_ts": 1789028422,
       "posted_at": "2026-09-10T08:20:22.303575+00:00",
       "score": 99.83
-    },
-    {
-      "key": "shopee:58200839195",
-      "marketplace": "shopee",
-      "id": "58200839195",
-      "title": "Galheteiro Azeite Borrifador Dosador 2 em 1 Economico vidro 470ml Óleo Vinagre Shoyu Gourmet",
-      "title_norm": "galheteiro azeite borrifador dosador 2 em 1 economico vidro 470ml oleo vinagre shoyu gourmet",
-      "url": "https://shopee.com.br/product/427457955/58200839195",
-      "affiliate_url": "https://s.shopee.com.br/1AGvr9eIl",
-      "category": "TZ UTILIDADES LTDA",
-      "bucket": "supermercado",
-      "posted_ts": 1789028355,
-      "posted_at": "2026-09-10T08:19:15.655391+00:00",
-      "score": 113.96
-    },
-    {
-      "key": "shopee:23098028068",
-      "marketplace": "shopee",
-      "id": "23098028068",
-      "title": "Pré Treino Diabo Verde Pre-Workout 150g - FTW",
-      "title_norm": "pre treino diabo verde pre workout 150g ftw",
-      "url": "https://shopee.com.br/product/1397772996/23098028068",
-      "affiliate_url": "https://s.shopee.com.br/7pt8GFkMie",
-      "category": "Loja Oficial FTW",
-      "bucket": "loja_oficial_ftw",
-      "posted_ts": 1789028262,
-      "posted_at": "2026-09-10T08:17:42.741151+00:00",
-      "score": 118.26
     }
   ],
-  "updated_at": "2026-09-19T02:21:10.400840+00:00"
+  "updated_at": "2026-09-19T03:18:22.844370+00:00"
 }
