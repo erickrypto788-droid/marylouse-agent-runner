@@ -1,6 +1,48 @@
 {
   "posts": [
     {
+      "key": "shopee:58216005652",
+      "marketplace": "shopee",
+      "id": "58216005652",
+      "title": "Bota Coturno Masculina de Segurança Adventure Trilha Trabalho Confortável Super Leve de Cano Médio Macia + Carteira",
+      "title_norm": "bota coturno masculina de seguranca adventure trilha trabalho confortavel super leve de cano medio macia carteira",
+      "url": "https://shopee.com.br/product/720028659/58216005652",
+      "affiliate_url": "https://s.shopee.com.br/7fZw9TzMoN",
+      "category": "LOJAOMAX",
+      "bucket": "calcados",
+      "posted_ts": 1789791541,
+      "posted_at": "2026-09-19T04:19:01.620998+00:00",
+      "score": 91.67
+    },
+    {
+      "key": "shopee:19197658752",
+      "marketplace": "shopee",
+      "id": "19197658752",
+      "title": "Mochila Grande Masculina Feminina De Viagem Bolsa Academia",
+      "title_norm": "mochila grande masculina feminina de viagem bolsa academia",
+      "url": "https://shopee.com.br/product/222975446/19197658752",
+      "affiliate_url": "https://s.shopee.com.br/6VNylKzL75",
+      "category": "Luxor Comercial",
+      "bucket": "bolsas",
+      "posted_ts": 1789791477,
+      "posted_at": "2026-09-19T04:17:57.556054+00:00",
+      "score": 94.19
+    },
+    {
+      "key": "shopee:17981546025",
+      "marketplace": "shopee",
+      "id": "17981546025",
+      "title": "Mochila Unissex Notebook Resistente Água para Viagem ou Escola Compartimento interno acolchoado para Notebook  RC-2528",
+      "title_norm": "mochila unissex notebook resistente agua para viagem ou escola compartimento interno acolchoado para notebook rc 2528",
+      "url": "https://shopee.com.br/product/379659209/17981546025",
+      "affiliate_url": "https://s.shopee.com.br/6q0p9wy4RJ",
+      "category": "magiaworld",
+      "bucket": "informatica",
+      "posted_ts": 1789791409,
+      "posted_at": "2026-09-19T04:16:49.439279+00:00",
+      "score": 125.76
+    },
+    {
       "key": "mercadolivre:MLB7647148706",
       "marketplace": "mercadolivre",
       "id": "MLB7647148706",
@@ -13957,49 +13999,7 @@
       "posted_ts": 1789034628,
       "posted_at": "2026-09-10T10:03:48.526898+00:00",
       "score": 88.0
-    },
-    {
-      "key": "shopee:23594076554",
-      "marketplace": "shopee",
-      "id": "23594076554",
-      "title": "Nintendo Switch Lite Desbloqueado com Lojinha Tinfoil Premium Dualboot Novo | Envio Imediato",
-      "title_norm": "nintendo switch lite desbloqueado com lojinha tinfoil premium dualboot novo envio imediato",
-      "url": "https://shopee.com.br/product/942745912/23594076554",
-      "affiliate_url": "https://s.shopee.com.br/1qbvBMQiIP",
-      "category": "Lizis Store",
-      "bucket": "lizis_store",
-      "posted_ts": 1789031823,
-      "posted_at": "2026-09-10T09:17:03.130531+00:00",
-      "score": 37.72
-    },
-    {
-      "key": "shopee:58205895349",
-      "marketplace": "shopee",
-      "id": "58205895349",
-      "title": "Porta Leite em Pó Fórmula Infantil 9 Porções Dosador para Fórmula Infantil Plásutil",
-      "title_norm": "porta leite em po formula infantil 9 porcoes dosador para formula infantil plasutil",
-      "url": "https://shopee.com.br/product/267352765/58205895349",
-      "affiliate_url": "https://s.shopee.com.br/BTh8A4khi",
-      "category": "Letoy",
-      "bucket": "letoy",
-      "posted_ts": 1789028635,
-      "posted_at": "2026-09-10T08:23:55.790439+00:00",
-      "score": 92.12
-    },
-    {
-      "key": "shopee:21899559653",
-      "marketplace": "shopee",
-      "id": "21899559653",
-      "title": "Gelatina Chocolate #todecacho Kids Super Brilhante 550g",
-      "title_norm": "gelatina chocolate todecacho kids super brilhante 550g",
-      "url": "https://shopee.com.br/product/616222685/21899559653",
-      "affiliate_url": "https://s.shopee.com.br/9peCdvTg2u",
-      "category": "Salon Line",
-      "bucket": "salon_line",
-      "posted_ts": 1789028568,
-      "posted_at": "2026-09-10T08:22:48.206761+00:00",
-      "score": 92.56
     }
   ],
-  "updated_at": "2026-09-19T04:02:29.642220+00:00"
+  "updated_at": "2026-09-19T04:19:01.621012+00:00"
 }
