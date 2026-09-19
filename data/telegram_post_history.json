@@ -1,6 +1,34 @@
 {
   "posts": [
     {
+      "key": "shopee:41672473191",
+      "marketplace": "shopee",
+      "id": "41672473191",
+      "title": "Sandália Feminina Shekinah Salto Bloco Quadrado  Tiras Cruzadas Super Leve Confortável Moderna",
+      "title_norm": "sandalia feminina shekinah salto bloco quadrado tiras cruzadas super leve confortavel moderna",
+      "url": "https://shopee.com.br/product/375175329/41672473191",
+      "affiliate_url": "https://s.shopee.com.br/7ptMwrpSdL",
+      "category": "Shekinah Calçados",
+      "bucket": "calcados",
+      "posted_ts": 1789823873,
+      "posted_at": "2026-09-19T13:17:53.500493+00:00",
+      "score": 93.59
+    },
+    {
+      "key": "shopee:22299455857",
+      "marketplace": "shopee",
+      "id": "22299455857",
+      "title": "Bota Coturno Adventure Feminino Tênis Cano Curto Preto Rosa do 33 ao 40",
+      "title_norm": "bota coturno adventure feminino tenis cano curto preto rosa do 33 ao 40",
+      "url": "https://shopee.com.br/product/1788702793/22299455857",
+      "affiliate_url": "https://s.shopee.com.br/6VNzMQ3PBx",
+      "category": "Shop da Ca",
+      "bucket": "calcados",
+      "posted_ts": 1789823809,
+      "posted_at": "2026-09-19T13:16:49.153699+00:00",
+      "score": 103.38
+    },
+    {
       "key": "shopee:23493066342",
       "marketplace": "shopee",
       "id": "23493066342",
@@ -13971,35 +13999,7 @@
       "posted_ts": 1789060733,
       "posted_at": "2026-09-10T17:18:53.378608+00:00",
       "score": 103.25
-    },
-    {
-      "key": "shopee:58262141857",
-      "marketplace": "shopee",
-      "id": "58262141857",
-      "title": "Perfumes Brand Collection 25ml - Fragrâncias femininas",
-      "title_norm": "perfumes brand collection 25ml fragrancias femininas",
-      "url": "https://shopee.com.br/product/1165606860/58262141857",
-      "affiliate_url": "https://s.shopee.com.br/1gIVW032QJ",
-      "category": "Beleza Real Oficial",
-      "bucket": "beleza",
-      "posted_ts": 1789060669,
-      "posted_at": "2026-09-10T17:17:49.467117+00:00",
-      "score": 130.61
-    },
-    {
-      "key": "shopee:22893937935",
-      "marketplace": "shopee",
-      "id": "22893937935",
-      "title": "Secador Profissional com Difusor 127V ou 220V 5 Temperaturas Turbo Íons Negativos Secagem Rápida Anti-Frizz LONYAN 8020",
-      "title_norm": "secador profissional com difusor 127v ou 220v 5 temperaturas turbo ions negativos secagem rapida anti frizz lonyan 8020",
-      "url": "https://shopee.com.br/product/1523743098/22893937935",
-      "affiliate_url": "https://s.shopee.com.br/7KwsGPqCE9",
-      "category": "LONYAN-BR",
-      "bucket": "beleza",
-      "posted_ts": 1789060605,
-      "posted_at": "2026-09-10T17:16:45.362244+00:00",
-      "score": 133.06
     }
   ],
-  "updated_at": "2026-09-19T12:17:49.919002+00:00"
+  "updated_at": "2026-09-19T13:17:53.500507+00:00"
 }
