@@ -1,6 +1,48 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB4552665179",
+      "marketplace": "mercadolivre",
+      "id": "MLB4552665179",
+      "title": "Whey Protein Concentrado + Whey Protein Isolado + Cafeína",
+      "title_norm": "whey protein concentrado whey protein isolado cafeina",
+      "url": "https://www.mercadolivre.com.br/p/MLB20818317?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB20818317?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Esportes",
+      "bucket": "esportes",
+      "posted_ts": 1789945480,
+      "posted_at": "2026-09-20T23:04:40.247364+00:00",
+      "score": 86.0
+    },
+    {
+      "key": "mercadolivre:MLB5163519527",
+      "marketplace": "mercadolivre",
+      "id": "MLB5163519527",
+      "title": "Luva Academia Esporte Neoprene Academia Luva Proteção Preto Lisa Unico",
+      "title_norm": "luva academia esporte neoprene academia luva protecao preto lisa unico",
+      "url": "https://www.mercadolivre.com.br/p/MLB64424896?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB64424896?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Esportes",
+      "bucket": "esportes",
+      "posted_ts": 1789945416,
+      "posted_at": "2026-09-20T23:03:36.166459+00:00",
+      "score": 88.34
+    },
+    {
+      "key": "mercadolivre:MLB6827581422",
+      "marketplace": "mercadolivre",
+      "id": "MLB6827581422",
+      "title": "Prancha Esteira Ergometrica Kikos E600ix Preto",
+      "title_norm": "prancha esteira ergometrica kikos e600ix preto",
+      "url": "https://www.mercadolivre.com.br/p/MLB70114350?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB70114350?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Esportes",
+      "bucket": "esportes",
+      "posted_ts": 1789945352,
+      "posted_at": "2026-09-20T23:02:32.247301+00:00",
+      "score": 120.27
+    },
+    {
       "key": "shopee:23099437174",
       "marketplace": "shopee",
       "id": "23099437174",
@@ -13957,49 +13999,7 @@
       "posted_ts": 1789197477,
       "posted_at": "2026-09-12T07:17:57.062299+00:00",
       "score": 130.01
-    },
-    {
-      "key": "shopee:22099483975",
-      "marketplace": "shopee",
-      "id": "22099483975",
-      "title": "Kit 2 Body Splash Feminino Perfumado Encanto Lily + Florata Rose Presente Cheiroso Longa Duração",
-      "title_norm": "kit 2 body splash feminino perfumado encanto lily florata rose presente cheiroso longa duracao",
-      "url": "https://shopee.com.br/product/1289607950/22099483975",
-      "affiliate_url": "https://s.shopee.com.br/gPyKA6qRt",
-      "category": "AH.BOUTIQUE",
-      "bucket": "pet",
-      "posted_ts": 1789197406,
-      "posted_at": "2026-09-12T07:16:46.789377+00:00",
-      "score": 150.05
-    },
-    {
-      "key": "mercadolivre:MLB5454690706",
-      "marketplace": "mercadolivre",
-      "id": "MLB5454690706",
-      "title": "Cadeira Escritório Secretaria Rcp Preto",
-      "title_norm": "cadeira escritorio secretaria rcp preto",
-      "url": "https://www.mercadolivre.com.br/p/MLB22813112?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB22813112?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "category": "Casa e Cozinha",
-      "bucket": "casa_e_cozinha",
-      "posted_ts": 1789196613,
-      "posted_at": "2026-09-12T07:03:33.692819+00:00",
-      "score": 88.0
-    },
-    {
-      "key": "shopee:22794554573",
-      "marketplace": "shopee",
-      "id": "22794554573",
-      "title": "Micro-ondas Electrolux 20L cor Inox Espelhado com Função Tira Odor (MT30S)",
-      "title_norm": "micro ondas electrolux 20l cor inox espelhado com funcao tira odor mt30s",
-      "url": "https://shopee.com.br/product/1526836548/22794554573",
-      "affiliate_url": "https://s.shopee.com.br/60RX8QviCB",
-      "category": "Electrolux",
-      "bucket": "electrolux",
-      "posted_ts": 1789194022,
-      "posted_at": "2026-09-12T06:20:22.905637+00:00",
-      "score": 55.02
     }
   ],
-  "updated_at": "2026-09-20T22:21:06.639315+00:00"
+  "updated_at": "2026-09-20T23:04:40.247377+00:00"
 }
