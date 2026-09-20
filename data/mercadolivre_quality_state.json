@@ -1,6 +1,36 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB7609027366",
+      "product_id": "MLB7609027366",
+      "catalog_product_id": "MLB59103594",
+      "item_id": "MLB7609027366",
+      "url": "https://www.mercadolivre.com.br/p/MLB59103594?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB59103594?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "smartphone xiaomi 15t 5g 12 12gb ram 512gb cinza",
+      "title": "Smartphone Xiaomi 15t 5g 12+12gb Ram + 512gb, Cinza",
+      "category": "Informática",
+      "price": 5350.0,
+      "score": 124.0,
+      "posted_ts": 1789905939,
+      "posted_at": "2026-09-20T12:05:39.535313+00:00"
+    },
+    {
+      "key": "mercadolivre:MLB5226133125",
+      "product_id": "MLB5226133125",
+      "catalog_product_id": "MLB65214612",
+      "item_id": "MLB5226133125",
+      "url": "https://www.mercadolivre.com.br/p/MLB65214612?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB65214612?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "smartphone xiaomi 15 5g 16gb 512gb preto",
+      "title": "Smartphone Xiaomi 15 5g 16gb/512gb Preto",
+      "category": "Informática",
+      "price": 1350.0,
+      "score": 127.0,
+      "posted_ts": 1789905868,
+      "posted_at": "2026-09-20T12:04:28.058768+00:00"
+    },
+    {
       "key": "mercadolivre:MLB5041528061",
       "product_id": "MLB5041528061",
       "catalog_product_id": "MLB43810473",
@@ -569,52 +599,7 @@
       "score": 114.0,
       "posted_ts": 1789736567,
       "posted_at": "2026-09-18T13:02:47.171416+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB7575871600",
-      "product_id": "MLB7575871600",
-      "catalog_product_id": "MLB49735840",
-      "item_id": "MLB7575871600",
-      "url": "https://www.mercadolivre.com.br/p/MLB49735840?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB49735840?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "racao cachorro selection adultos pequenos 10 1kg harmony",
-      "title": "Ração Cachorro Selection Adultos Pequenos 10,1kg Harmony",
-      "category": "Pet",
-      "price": 114.0,
-      "score": 113.0,
-      "posted_ts": 1789733091,
-      "posted_at": "2026-09-18T12:04:51.395918+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB5245536217",
-      "product_id": "MLB5245536217",
-      "catalog_product_id": "MLB65973005",
-      "item_id": "MLB5245536217",
-      "url": "https://www.mercadolivre.com.br/p/MLB65973005?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB65973005?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "celular samsung galaxy a06 5g preto",
-      "title": "Celular Samsung Galaxy A06 5g Preto",
-      "category": "Informática",
-      "price": 999.0,
-      "score": 127.0,
-      "posted_ts": 1789722355,
-      "posted_at": "2026-09-18T09:05:55.500420+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB5919313906",
-      "product_id": "MLB5919313906",
-      "catalog_product_id": "MLB24099360",
-      "item_id": "MLB5919313906",
-      "url": "https://www.mercadolivre.com.br/p/MLB24099360?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB24099360?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "carregador portatil 20000mah bahrein power bank universal power bank carga rapida com display bahrein compativel com todos celulares iphone android ios apple xiaomi samsung motorola",
-      "title": "Carregador Portátil 20000mAh Bahrein Power Bank Universal Power Bank Carga Rápida Com Display Bahrein Compatível Com Todos Celulares Iphone Android IOS apple xiaomi Samsung Motorola",
-      "category": "Informática",
-      "price": 66.9,
-      "score": 149.86,
-      "posted_ts": 1789722228,
-      "posted_at": "2026-09-18T09:03:48.469111+00:00"
     }
   ],
-  "updated_at": "2026-09-20T09:03:36.609055+00:00"
+  "updated_at": "2026-09-20T12:05:39.535325+00:00"
 }

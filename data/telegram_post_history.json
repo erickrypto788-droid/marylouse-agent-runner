@@ -1,6 +1,34 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB7609027366",
+      "marketplace": "mercadolivre",
+      "id": "MLB7609027366",
+      "title": "Smartphone Xiaomi 15t 5g 12+12gb Ram + 512gb, Cinza",
+      "title_norm": "smartphone xiaomi 15t 5g 12 12gb ram 512gb cinza",
+      "url": "https://www.mercadolivre.com.br/p/MLB59103594?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB59103594?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Informática",
+      "bucket": "celulares",
+      "posted_ts": 1789905939,
+      "posted_at": "2026-09-20T12:05:39.523582+00:00",
+      "score": 124.0
+    },
+    {
+      "key": "mercadolivre:MLB5226133125",
+      "marketplace": "mercadolivre",
+      "id": "MLB5226133125",
+      "title": "Smartphone Xiaomi 15 5g 16gb/512gb Preto",
+      "title_norm": "smartphone xiaomi 15 5g 16gb 512gb preto",
+      "url": "https://www.mercadolivre.com.br/p/MLB65214612?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB65214612?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Informática",
+      "bucket": "celulares",
+      "posted_ts": 1789905868,
+      "posted_at": "2026-09-20T12:04:28.047121+00:00",
+      "score": 127.0
+    },
+    {
       "key": "shopee:23798828685",
       "marketplace": "shopee",
       "id": "23798828685",
@@ -13971,35 +13999,7 @@
       "posted_ts": 1789140006,
       "posted_at": "2026-09-11T15:20:06.142957+00:00",
       "score": 88.87
-    },
-    {
-      "key": "shopee:20999680446",
-      "marketplace": "shopee",
-      "id": "20999680446",
-      "title": "Triciclo Carrinho Motoca C/ Guia Passeio e Pedal Avespa Colorido Infantil Empurrador",
-      "title_norm": "triciclo carrinho motoca c guia passeio e pedal avespa colorido infantil empurrador",
-      "url": "https://shopee.com.br/product/504754787/20999680446",
-      "affiliate_url": "https://s.shopee.com.br/60RW8cQHJj",
-      "category": "Zociella Kids",
-      "bucket": "zociella_kids",
-      "posted_ts": 1789139942,
-      "posted_at": "2026-09-11T15:19:02.158081+00:00",
-      "score": 93.06
-    },
-    {
-      "key": "shopee:22698569483",
-      "marketplace": "shopee",
-      "id": "22698569483",
-      "title": "FÓRMULA 1 - Pack 5 Hot Wheels Original - Lacrado Novo - F1",
-      "title_norm": "formula 1 pack 5 hot wheels original lacrado novo f1",
-      "url": "https://shopee.com.br/product/945978192/22698569483",
-      "affiliate_url": "https://s.shopee.com.br/4LJGtG8yQU",
-      "category": "MI LOJAS OFICIAL",
-      "bucket": "mi_lojas_oficial",
-      "posted_ts": 1789139878,
-      "posted_at": "2026-09-11T15:17:58.015135+00:00",
-      "score": 98.24
     }
   ],
-  "updated_at": "2026-09-20T11:19:24.144795+00:00"
+  "updated_at": "2026-09-20T12:05:39.523596+00:00"
 }
