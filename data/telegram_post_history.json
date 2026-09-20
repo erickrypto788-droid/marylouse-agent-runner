@@ -1,6 +1,20 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB7304556746",
+      "marketplace": "mercadolivre",
+      "id": "MLB7304556746",
+      "title": "Comedouro Dispenser De Ração Automático 8l Para Cães Gatos Cor Comedouro Automatico Vermelho",
+      "title_norm": "comedouro dispenser de racao automatico 8l para caes gatos cor comedouro automatico vermelho",
+      "url": "https://www.mercadolivre.com.br/p/MLB76168566?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB76168566?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Pet",
+      "bucket": "pet",
+      "posted_ts": 1789916563,
+      "posted_at": "2026-09-20T15:02:43.689146+00:00",
+      "score": 137.82
+    },
+    {
       "key": "shopee:23094207220",
       "marketplace": "shopee",
       "id": "23094207220",
@@ -13985,21 +13999,7 @@
       "posted_ts": 1789157882,
       "posted_at": "2026-09-11T20:18:02.236468+00:00",
       "score": 101.0
-    },
-    {
-      "key": "shopee:23493895373",
-      "marketplace": "shopee",
-      "id": "23493895373",
-      "title": "Conjunto de canetas de gravação de cabeça dupla 48/60/80/100/120",
-      "title_norm": "conjunto de canetas de gravacao de cabeca dupla 48 60 80 100 120",
-      "url": "https://shopee.com.br/product/1064041485/23493895373",
-      "affiliate_url": "https://s.shopee.com.br/9V1NNMjZ1Q",
-      "category": "LuxeElectra",
-      "bucket": "luxeelectra",
-      "posted_ts": 1789157811,
-      "posted_at": "2026-09-11T20:16:51.166678+00:00",
-      "score": 107.51
     }
   ],
-  "updated_at": "2026-09-20T14:21:13.384423+00:00"
+  "updated_at": "2026-09-20T15:02:43.689163+00:00"
 }
