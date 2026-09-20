@@ -1,6 +1,48 @@
 {
   "posts": [
     {
+      "key": "shopee:23699438217",
+      "marketplace": "shopee",
+      "id": "23699438217",
+      "title": "Termômetro Digital Ultra Rápido Infantil Para Bebês Clínico Flexível Ponta Macia Silicone Adulto Rosa e Azul",
+      "title_norm": "termometro digital ultra rapido infantil para bebes clinico flexivel ponta macia silicone adulto rosa e azul",
+      "url": "https://shopee.com.br/product/1738153850/23699438217",
+      "affiliate_url": "https://s.shopee.com.br/1133H9jV1V",
+      "category": "Sunshine82",
+      "bucket": "saude",
+      "posted_ts": 1789921148,
+      "posted_at": "2026-09-20T16:19:08.475363+00:00",
+      "score": 123.11
+    },
+    {
+      "key": "shopee:22794788395",
+      "marketplace": "shopee",
+      "id": "22794788395",
+      "title": "Balança Digital Inteligente: Medidor Corporal por Bioimpedância - Analisa Gordura, Massa Muscular, Peso até 180kg",
+      "title_norm": "balanca digital inteligente medidor corporal por bioimpedancia analisa gordura massa muscular peso ate 180kg",
+      "url": "https://shopee.com.br/product/1660293952/22794788395",
+      "affiliate_url": "https://s.shopee.com.br/5AsdZE74Wy",
+      "category": "WDJ TECH LTDA",
+      "bucket": "wdj_tech_ltda",
+      "posted_ts": 1789921076,
+      "posted_at": "2026-09-20T16:17:56.120634+00:00",
+      "score": 125.76
+    },
+    {
+      "key": "shopee:22498461397",
+      "marketplace": "shopee",
+      "id": "22498461397",
+      "title": "AIQUE Nebulizador Portátil Mini Inalador Silencioso Ultra-sônico Automático para Adultos e Crianças",
+      "title_norm": "aique nebulizador portatil mini inalador silencioso ultra sonico automatico para adultos e criancas",
+      "url": "https://shopee.com.br/product/733998429/22498461397",
+      "affiliate_url": "https://s.shopee.com.br/6VO19ft81J",
+      "category": "TTcomercio",
+      "bucket": "saude",
+      "posted_ts": 1789921011,
+      "posted_at": "2026-09-20T16:16:51.888506+00:00",
+      "score": 139.27
+    },
+    {
       "key": "shopee:23494419895",
       "marketplace": "shopee",
       "id": "23494419895",
@@ -13957,49 +13999,7 @@
       "posted_ts": 1789161684,
       "posted_at": "2026-09-11T21:21:24.267603+00:00",
       "score": 69.52
-    },
-    {
-      "key": "shopee:23099342707",
-      "marketplace": "shopee",
-      "id": "23099342707",
-      "title": "Webcam 4K EMEET S600 Sensor Sony Autofoco Com Microfone 1080P 60Fps Camera Para Pc  para Streaming e Videochamadas",
-      "title_norm": "webcam 4k emeet s600 sensor sony autofoco com microfone 1080p 60fps camera para pc para streaming e videochamadas",
-      "url": "https://shopee.com.br/product/1714473501/23099342707",
-      "affiliate_url": "https://s.shopee.com.br/7VGJ3o2UkG",
-      "category": "EMEET OFICIAL",
-      "bucket": "emeet_oficial",
-      "posted_ts": 1789161619,
-      "posted_at": "2026-09-11T21:20:19.923587+00:00",
-      "score": 70.49
-    },
-    {
-      "key": "shopee:22097785703",
-      "marketplace": "shopee",
-      "id": "22097785703",
-      "title": "Amplificador de sinal Wi-Fi repetidor e roteador sem fio rede sem fio através da parede Dupla pressão/2.4G - G8",
-      "title_norm": "amplificador de sinal wi fi repetidor e roteador sem fio rede sem fio atraves da parede dupla pressao 2 4g g8",
-      "url": "https://shopee.com.br/product/1217782773/22097785703",
-      "affiliate_url": "https://s.shopee.com.br/4VchUIIFMI",
-      "category": "JR905",
-      "bucket": "pet",
-      "posted_ts": 1789161551,
-      "posted_at": "2026-09-11T21:19:11.829710+00:00",
-      "score": 85.61
-    },
-    {
-      "key": "shopee:23698804974",
-      "marketplace": "shopee",
-      "id": "23698804974",
-      "title": "Papel Fotográfico 180g Glossy A4 Brilhante à Prova D'água MASTERPRINT",
-      "title_norm": "papel fotografico 180g glossy a4 brilhante a prova d agua masterprint",
-      "url": "https://shopee.com.br/product/1046010418/23698804974",
-      "affiliate_url": "https://s.shopee.com.br/50YzHNkbqa",
-      "category": "PAPEL.PAPELARIA",
-      "bucket": "papel_papelaria",
-      "posted_ts": 1789161487,
-      "posted_at": "2026-09-11T21:18:07.683128+00:00",
-      "score": 95.85
     }
   ],
-  "updated_at": "2026-09-20T15:21:15.303083+00:00"
+  "updated_at": "2026-09-20T16:19:08.475381+00:00"
 }
