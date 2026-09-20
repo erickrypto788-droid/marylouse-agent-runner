@@ -1,6 +1,21 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB7513707254",
+      "product_id": "MLB7513707254",
+      "catalog_product_id": "MLB57578486",
+      "item_id": "MLB7513707254",
+      "url": "https://www.mercadolivre.com.br/p/MLB57578486?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB57578486?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "mini impressora niimbot b1 etiqueta bluetooth cor prateado impressora etiquetas adesivas",
+      "title": "Mini Impressora Niimbot B1 etiqueta Bluetooth Cor Prateado impressora etiquetas adesivas",
+      "category": "Informática",
+      "price": 209.99,
+      "score": 88.0,
+      "posted_ts": 1789862563,
+      "posted_at": "2026-09-20T00:02:43.957397+00:00"
+    },
+    {
       "key": "mercadolivre:MLB7262266178",
       "product_id": "MLB7262266178",
       "catalog_product_id": "MLB23076913",
@@ -509,37 +524,7 @@
       "score": 103.53,
       "posted_ts": 1789696969,
       "posted_at": "2026-09-18T02:02:49.413544+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB4617422337",
-      "product_id": "MLB4617422337",
-      "catalog_product_id": "MLB68298172",
-      "item_id": "MLB4617422337",
-      "url": "https://www.mercadolivre.com.br/p/MLB68298172?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB68298172?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "cropped feminino manga comprida protecao solar malha fria uv cor preto tamanho p",
-      "title": "Cropped Feminino Manga Comprida Proteção Solar Malha Fria Uv Cor Preto Tamanho P",
-      "category": "Moda Feminina",
-      "price": 42.43,
-      "score": 107.47,
-      "posted_ts": 1789686315,
-      "posted_at": "2026-09-17T23:05:15.713925+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB7079122650",
-      "product_id": "MLB7079122650",
-      "catalog_product_id": "MLB74851412",
-      "item_id": "MLB7079122650",
-      "url": "https://www.mercadolivre.com.br/p/MLB74851412?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB74851412?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "conjunto feminino alfaiataria bermuda blusa elegante peplum conjunto feminino bege",
-      "title": "Conjunto Feminino Alfaiataria Bermuda Blusa Elegante Peplum Conjunto Feminino Bege",
-      "category": "Moda Feminina",
-      "price": 186.91,
-      "score": 109.5,
-      "posted_ts": 1789686251,
-      "posted_at": "2026-09-17T23:04:11.553192+00:00"
     }
   ],
-  "updated_at": "2026-09-19T23:03:48.737034+00:00"
+  "updated_at": "2026-09-20T00:02:43.957414+00:00"
 }
