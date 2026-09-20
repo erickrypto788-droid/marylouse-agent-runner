@@ -1,6 +1,21 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB6290574990",
+      "product_id": "MLB6290574990",
+      "catalog_product_id": "MLB22958206",
+      "item_id": "MLB6290574990",
+      "url": "https://www.mercadolivre.com.br/p/MLB22958206?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB22958206?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "aparelho monitor pressao arterial portatil pulso omron",
+      "title": "Aparelho Monitor Pressão Arterial Portátil Pulso Omron",
+      "category": "Informática",
+      "price": 151.05,
+      "score": 158.16,
+      "posted_ts": 1789912977,
+      "posted_at": "2026-09-20T14:02:57.784271+00:00"
+    },
+    {
       "key": "mercadolivre:MLB7609027366",
       "product_id": "MLB7609027366",
       "catalog_product_id": "MLB59103594",
@@ -584,22 +599,7 @@
       "score": 151.5,
       "posted_ts": 1789747705,
       "posted_at": "2026-09-18T16:08:25.967201+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB4778272375",
-      "product_id": "MLB4778272375",
-      "catalog_product_id": "MLB73518090",
-      "item_id": "MLB4778272375",
-      "url": "https://www.mercadolivre.com.br/p/MLB73518090?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB73518090?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "livro tchauzinho fralda",
-      "title": "Livro Tchauzinho, Fralda",
-      "category": "Mãe e Bebê",
-      "price": 196.88,
-      "score": 114.0,
-      "posted_ts": 1789736567,
-      "posted_at": "2026-09-18T13:02:47.171416+00:00"
     }
   ],
-  "updated_at": "2026-09-20T12:05:39.535325+00:00"
+  "updated_at": "2026-09-20T14:02:57.784278+00:00"
 }

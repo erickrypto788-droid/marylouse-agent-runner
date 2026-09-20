@@ -1,6 +1,20 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB6290574990",
+      "marketplace": "mercadolivre",
+      "id": "MLB6290574990",
+      "title": "Aparelho Monitor Pressão Arterial Portátil Pulso Omron",
+      "title_norm": "aparelho monitor pressao arterial portatil pulso omron",
+      "url": "https://www.mercadolivre.com.br/p/MLB22958206?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB22958206?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Informática",
+      "bucket": "saude",
+      "posted_ts": 1789912977,
+      "posted_at": "2026-09-20T14:02:57.775705+00:00",
+      "score": 158.16
+    },
+    {
       "key": "shopee:23498194746",
       "marketplace": "shopee",
       "id": "23498194746",
@@ -13985,21 +13999,7 @@
       "posted_ts": 1789147268,
       "posted_at": "2026-09-11T17:21:08.585077+00:00",
       "score": 73.26
-    },
-    {
-      "key": "shopee:17884006630",
-      "marketplace": "shopee",
-      "id": "17884006630",
-      "title": "Lenços Umedecidos Pampers Carícia de Bebê com 576 unidades",
-      "title_norm": "lencos umedecidos pampers caricia de bebe com 576 unidades",
-      "url": "https://shopee.com.br/product/528273775/17884006630",
-      "affiliate_url": "https://s.shopee.com.br/AUtvd8Ddo5",
-      "category": "Loja Sage's",
-      "bucket": "fraldas",
-      "posted_ts": 1789147203,
-      "posted_at": "2026-09-11T17:20:03.621682+00:00",
-      "score": 82.65
     }
   ],
-  "updated_at": "2026-09-20T13:22:00.311085+00:00"
+  "updated_at": "2026-09-20T14:02:57.775715+00:00"
 }
