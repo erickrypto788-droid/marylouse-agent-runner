@@ -1,6 +1,21 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB5041528061",
+      "product_id": "MLB5041528061",
+      "catalog_product_id": "MLB43810473",
+      "item_id": "MLB5041528061",
+      "url": "https://www.mercadolivre.com.br/p/MLB43810473?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB43810473?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "kit ferramentas informatica cor preto",
+      "title": "Kit Ferramentas Informatica Cor Preto",
+      "category": "Ferramentas",
+      "price": 127.5,
+      "score": 88.0,
+      "posted_ts": 1789895016,
+      "posted_at": "2026-09-20T09:03:36.609048+00:00"
+    },
+    {
       "key": "mercadolivre:MLB6815537068",
       "product_id": "MLB6815537068",
       "catalog_product_id": "MLB36405300",
@@ -599,22 +614,7 @@
       "score": 149.86,
       "posted_ts": 1789722228,
       "posted_at": "2026-09-18T09:03:48.469111+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB5250415907",
-      "product_id": "MLB5250415907",
-      "catalog_product_id": "MLB27345327",
-      "item_id": "MLB5250415907",
-      "url": "https://www.mercadolivre.com.br/p/MLB27345327?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB27345327?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "ssd nvme 128gb walram w2000 m 2 2280",
-      "title": "SSD NVMe 128GB Walram W2000 M.2 2280",
-      "category": "Informática",
-      "price": 218.69,
-      "score": 122.67,
-      "posted_ts": 1789715002,
-      "posted_at": "2026-09-18T07:03:22.799459+00:00"
     }
   ],
-  "updated_at": "2026-09-20T06:05:17.742545+00:00"
+  "updated_at": "2026-09-20T09:03:36.609055+00:00"
 }
