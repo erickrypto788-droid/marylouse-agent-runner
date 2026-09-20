@@ -1,6 +1,48 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB5331790354",
+      "marketplace": "mercadolivre",
+      "id": "MLB5331790354",
+      "title": "Air fryer Br House Fritadeira ELETRICA AIR FRYER Air Fryer Family preto",
+      "title_norm": "air fryer br house fritadeira eletrica air fryer air fryer family preto",
+      "url": "https://www.mercadolivre.com.br/p/MLB45458466?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB45458466?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Casa e Cozinha",
+      "bucket": "casa_cozinha",
+      "posted_ts": 1789938353,
+      "posted_at": "2026-09-20T21:05:53.283404+00:00",
+      "score": 113.0
+    },
+    {
+      "key": "mercadolivre:MLB5428097608",
+      "marketplace": "mercadolivre",
+      "id": "MLB5428097608",
+      "title": "Rack Para Sala De Estar Rack Para Tv C/ Prateleira Flex Cor Off-white",
+      "title_norm": "rack para sala de estar rack para tv c prateleira flex cor off white",
+      "url": "https://www.mercadolivre.com.br/p/MLB39369998?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB39369998?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Casa e Cozinha",
+      "bucket": "casa_e_cozinha",
+      "posted_ts": 1789938289,
+      "posted_at": "2026-09-20T21:04:49.167667+00:00",
+      "score": 151.33
+    },
+    {
+      "key": "mercadolivre:MLB6738465128",
+      "marketplace": "mercadolivre",
+      "id": "MLB6738465128",
+      "title": "Cadeira Massagem Escritorio Cadeira Escritorio Presidente Cor Âmbar",
+      "title_norm": "cadeira massagem escritorio cadeira escritorio presidente cor ambar",
+      "url": "https://www.mercadolivre.com.br/p/MLB59413555?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB59413555?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Casa e Cozinha",
+      "bucket": "casa_e_cozinha",
+      "posted_ts": 1789938225,
+      "posted_at": "2026-09-20T21:03:45.074551+00:00",
+      "score": 167.48
+    },
+    {
       "key": "shopee:23997651063",
       "marketplace": "shopee",
       "id": "23997651063",
@@ -13957,49 +13999,7 @@
       "posted_ts": 1789186604,
       "posted_at": "2026-09-12T04:16:44.315946+00:00",
       "score": 102.95
-    },
-    {
-      "key": "shopee:23492477701",
-      "marketplace": "shopee",
-      "id": "23492477701",
-      "title": "Tênis Infantil Menino Masculino Casual Sapatenis Infantil",
-      "title_norm": "tenis infantil menino masculino casual sapatenis infantil",
-      "url": "https://shopee.com.br/product/287287585/23492477701",
-      "affiliate_url": "https://s.shopee.com.br/7AdUKCoia9",
-      "category": "Comprei Calçados",
-      "bucket": "calcados",
-      "posted_ts": 1789183133,
-      "posted_at": "2026-09-12T03:18:53.461327+00:00",
-      "score": 89.45
-    },
-    {
-      "key": "shopee:23199524069",
-      "marketplace": "shopee",
-      "id": "23199524069",
-      "title": "Tênis Feminino Masculino Básico Todas As Ocasiões",
-      "title_norm": "tenis feminino masculino basico todas as ocasioes",
-      "url": "https://shopee.com.br/product/1659566636/23199524069",
-      "affiliate_url": "https://s.shopee.com.br/1AJn2Bjsd",
-      "category": "Morett Calçados",
-      "bucket": "calcados",
-      "posted_ts": 1789183009,
-      "posted_at": "2026-09-12T03:16:49.455741+00:00",
-      "score": 96.3
-    },
-    {
-      "key": "mercadolivre:MLB7625830504",
-      "marketplace": "mercadolivre",
-      "id": "MLB7625830504",
-      "title": "Impressora Etiquetas Adesivas + 1.000 Etiquetas 10x15cm Branco",
-      "title_norm": "impressora etiquetas adesivas 1 000 etiquetas 10x15cm branco",
-      "url": "https://www.mercadolivre.com.br/p/MLB78672090?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB78672090?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "category": "Informática",
-      "bucket": "informatica",
-      "posted_ts": 1789182178,
-      "posted_at": "2026-09-12T03:02:58.004245+00:00",
-      "score": 86.0
     }
   ],
-  "updated_at": "2026-09-20T20:21:09.905371+00:00"
+  "updated_at": "2026-09-20T21:05:53.283422+00:00"
 }

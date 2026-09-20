@@ -1,6 +1,51 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB5331790354",
+      "product_id": "MLB5331790354",
+      "catalog_product_id": "MLB45458466",
+      "item_id": "MLB5331790354",
+      "url": "https://www.mercadolivre.com.br/p/MLB45458466?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB45458466?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "air fryer br house fritadeira eletrica air fryer air fryer family preto",
+      "title": "Air fryer Br House Fritadeira ELETRICA AIR FRYER Air Fryer Family preto",
+      "category": "Casa e Cozinha",
+      "price": 279.9,
+      "score": 113.0,
+      "posted_ts": 1789938353,
+      "posted_at": "2026-09-20T21:05:53.295962+00:00"
+    },
+    {
+      "key": "mercadolivre:MLB5428097608",
+      "product_id": "MLB5428097608",
+      "catalog_product_id": "MLB39369998",
+      "item_id": "MLB5428097608",
+      "url": "https://www.mercadolivre.com.br/p/MLB39369998?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB39369998?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "rack para sala de estar rack para tv c prateleira flex cor off white",
+      "title": "Rack Para Sala De Estar Rack Para Tv C/ Prateleira Flex Cor Off-white",
+      "category": "Casa e Cozinha",
+      "price": 371.89,
+      "score": 151.33,
+      "posted_ts": 1789938289,
+      "posted_at": "2026-09-20T21:04:49.180433+00:00"
+    },
+    {
+      "key": "mercadolivre:MLB6738465128",
+      "product_id": "MLB6738465128",
+      "catalog_product_id": "MLB59413555",
+      "item_id": "MLB6738465128",
+      "url": "https://www.mercadolivre.com.br/p/MLB59413555?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB59413555?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "cadeira massagem escritorio cadeira escritorio presidente cor ambar",
+      "title": "Cadeira Massagem Escritorio Cadeira Escritorio Presidente Cor Âmbar",
+      "category": "Casa e Cozinha",
+      "price": 829.0,
+      "score": 167.48,
+      "posted_ts": 1789938225,
+      "posted_at": "2026-09-20T21:03:45.087464+00:00"
+    },
+    {
       "key": "mercadolivre:MLB7059191208",
       "product_id": "MLB7059191208",
       "catalog_product_id": "MLB38422370",
@@ -616,5 +661,5 @@
       "posted_at": "2026-09-19T00:02:22.910271+00:00"
     }
   ],
-  "updated_at": "2026-09-20T20:09:17.936667+00:00"
+  "updated_at": "2026-09-20T21:05:53.295975+00:00"
 }
