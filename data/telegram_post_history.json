@@ -1,6 +1,48 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB6815537068",
+      "marketplace": "mercadolivre",
+      "id": "MLB6815537068",
+      "title": "Bike Spinning Ergométrica Cor Preto",
+      "title_norm": "bike spinning ergometrica cor preto",
+      "url": "https://www.mercadolivre.com.br/p/MLB36405300?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB36405300?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Esportes",
+      "bucket": "esportes",
+      "posted_ts": 1789884317,
+      "posted_at": "2026-09-20T06:05:17.732578+00:00",
+      "score": 83.0
+    },
+    {
+      "key": "mercadolivre:MLB7119236764",
+      "marketplace": "mercadolivre",
+      "id": "MLB7119236764",
+      "title": "Bike Spinning Bicicleta 6kg Wct Fitness Preta",
+      "title_norm": "bike spinning bicicleta 6kg wct fitness preta",
+      "url": "https://www.mercadolivre.com.br/p/MLB75107533?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB75107533?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Esportes",
+      "bucket": "esportes",
+      "posted_ts": 1789884246,
+      "posted_at": "2026-09-20T06:04:06.237420+00:00",
+      "score": 155.33
+    },
+    {
+      "key": "mercadolivre:MLB6968844088",
+      "marketplace": "mercadolivre",
+      "id": "MLB6968844088",
+      "title": "Esteira Ergométrica Elétrica Dobrável Residencial Com Bluetooth Tela Led 14km/h Jmjn Esteira Ergometrica 120kg",
+      "title_norm": "esteira ergometrica eletrica dobravel residencial com bluetooth tela led 14km h jmjn esteira ergometrica 120kg",
+      "url": "https://www.mercadolivre.com.br/p/MLB73080390?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB73080390?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Esportes",
+      "bucket": "esportes",
+      "posted_ts": 1789884182,
+      "posted_at": "2026-09-20T06:03:02.243200+00:00",
+      "score": 170.47
+    },
+    {
       "key": "shopee:58258296035",
       "marketplace": "shopee",
       "id": "58258296035",
@@ -13957,49 +13999,7 @@
       "posted_ts": 1789122085,
       "posted_at": "2026-09-11T10:21:25.388886+00:00",
       "score": 31.35
-    },
-    {
-      "key": "shopee:24342471495",
-      "marketplace": "shopee",
-      "id": "24342471495",
-      "title": "4 Unidades De Cabo De Carregador E Kit Protetor De Adaptador Proteção Abrangente",
-      "title_norm": "4 unidades de cabo de carregador e kit protetor de adaptador protecao abrangente",
-      "url": "https://shopee.com.br/product/1006215031/24342471495",
-      "affiliate_url": "https://s.shopee.com.br/1gIVNlKGfR",
-      "category": "Choice Oficial",
-      "bucket": "choice_oficial",
-      "posted_ts": 1789122016,
-      "posted_at": "2026-09-11T10:20:16.223980+00:00",
-      "score": 68.27
-    },
-    {
-      "key": "shopee:45754796089",
-      "marketplace": "shopee",
-      "id": "45754796089",
-      "title": "Tomada de Carregador para Carro com Dupla Entrada Tipo-C e Duplas USB, 4 Portas, Carregamento Rápido, à Prova d'Água",
-      "title_norm": "tomada de carregador para carro com dupla entrada tipo c e duplas usb 4 portas carregamento rapido a prova d agua",
-      "url": "https://shopee.com.br/product/1006215031/45754796089",
-      "affiliate_url": "https://s.shopee.com.br/1BMEmqMAgG",
-      "category": "Choice Oficial",
-      "bucket": "choice_oficial",
-      "posted_ts": 1789121948,
-      "posted_at": "2026-09-11T10:19:08.068538+00:00",
-      "score": 105.09
-    },
-    {
-      "key": "shopee:26429532377",
-      "marketplace": "shopee",
-      "id": "26429532377",
-      "title": "Capa Para Tablet BETTDOW Samsung Galaxy Tab A9 + 2023/S9 FE/S10 11 Polegadas S6 Lite",
-      "title_norm": "capa para tablet bettdow samsung galaxy tab a9 2023 s9 fe s10 11 polegadas s6 lite",
-      "url": "https://shopee.com.br/product/1125040258/26429532377",
-      "affiliate_url": "https://s.shopee.com.br/AAH3VNf2ZX",
-      "category": "Bettdow mall.br",
-      "bucket": "celulares",
-      "posted_ts": 1789121881,
-      "posted_at": "2026-09-11T10:18:01.397441+00:00",
-      "score": 114.64
     }
   ],
-  "updated_at": "2026-09-20T05:21:12.115261+00:00"
+  "updated_at": "2026-09-20T06:05:17.732597+00:00"
 }
