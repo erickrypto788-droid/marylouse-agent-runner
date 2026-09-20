@@ -1,6 +1,34 @@
 {
   "posts": [
     {
+      "key": "shopee:23599241533",
+      "marketplace": "shopee",
+      "id": "23599241533",
+      "title": "Tênis Masculino Running Academia Esportivo Corrida Caminhada Anti Impacto Respirável Macio Ultra Leve",
+      "title_norm": "tenis masculino running academia esportivo corrida caminhada anti impacto respiravel macio ultra leve",
+      "url": "https://shopee.com.br/product/1638165366/23599241533",
+      "affiliate_url": "https://s.shopee.com.br/40geJhWo8i",
+      "category": "Evox Calçados e Acessórios LTDA",
+      "bucket": "calcados",
+      "posted_ts": 1789892278,
+      "posted_at": "2026-09-20T08:17:58.050465+00:00",
+      "score": 113.37
+    },
+    {
+      "key": "shopee:22494665073",
+      "marketplace": "shopee",
+      "id": "22494665073",
+      "title": "Botina Bota Segurança Couro Legitimo Com Biqueira Elastico Com CA",
+      "title_norm": "botina bota seguranca couro legitimo com biqueira elastico com ca",
+      "url": "https://shopee.com.br/product/1406953915/22494665073",
+      "affiliate_url": "https://s.shopee.com.br/4LJW2j4MoL",
+      "category": "VELLUDINE",
+      "bucket": "calcados",
+      "posted_ts": 1789892206,
+      "posted_at": "2026-09-20T08:16:46.763817+00:00",
+      "score": 114.27
+    },
+    {
       "key": "shopee:22693258851",
       "marketplace": "shopee",
       "id": "22693258851",
@@ -13971,35 +13999,7 @@
       "posted_ts": 1789132669,
       "posted_at": "2026-09-11T13:17:49.373958+00:00",
       "score": 108.25
-    },
-    {
-      "key": "shopee:23194248790",
-      "marketplace": "shopee",
-      "id": "23194248790",
-      "title": "Sandália Flatform Infantil Menina Papete Glady Strass Fashion Várias Cores Antiderrapante Lançamento",
-      "title_norm": "sandalia flatform infantil menina papete glady strass fashion varias cores antiderrapante lancamento",
-      "url": "https://shopee.com.br/product/1526873868/23194248790",
-      "affiliate_url": "https://s.shopee.com.br/5AsNkZ51jn",
-      "category": "Spring Joy",
-      "bucket": "pet",
-      "posted_ts": 1789132605,
-      "posted_at": "2026-09-11T13:16:45.286478+00:00",
-      "score": 111.02
-    },
-    {
-      "key": "mercadolivre:MLB5697892498",
-      "marketplace": "mercadolivre",
-      "id": "MLB5697892498",
-      "title": "Body Modelador Nayane Short Feminino Cor Cristal Tamanho EG",
-      "title_norm": "body modelador nayane short feminino cor cristal tamanho eg",
-      "url": "https://www.mercadolivre.com.br/p/MLB56081727?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB56081727?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "category": "Moda Feminina",
-      "bucket": "moda_feminina",
-      "posted_ts": 1789131796,
-      "posted_at": "2026-09-11T13:03:16.937998+00:00",
-      "score": 88.0
     }
   ],
-  "updated_at": "2026-09-20T07:20:13.166225+00:00"
+  "updated_at": "2026-09-20T08:17:58.050477+00:00"
 }
