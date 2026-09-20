@@ -1,6 +1,48 @@
 {
   "posts": [
     {
+      "key": "shopee:23994387054",
+      "marketplace": "shopee",
+      "id": "23994387054",
+      "title": "Kit Dupla Renovadores Faciais Kokeshi Pele Porcelana Olhos Gueixa",
+      "title_norm": "kit dupla renovadores faciais kokeshi pele porcelana olhos gueixa",
+      "url": "https://shopee.com.br/product/395166866/23994387054",
+      "affiliate_url": "https://s.shopee.com.br/4qFlZilyKq",
+      "category": "KOKESHI OFICIAL",
+      "bucket": "kokeshi_oficial",
+      "posted_ts": 1789906748,
+      "posted_at": "2026-09-20T12:19:08.638436+00:00",
+      "score": 103.26
+    },
+    {
+      "key": "shopee:23094999147",
+      "marketplace": "shopee",
+      "id": "23094999147",
+      "title": "Kit de 2 Até 3 Body Splash Masculino Malbeck Essencialle Magnata Árabe 200ml Longa Duração Cheiroso",
+      "title_norm": "kit de 2 ate 3 body splash masculino malbeck essencialle magnata arabe 200ml longa duracao cheiroso",
+      "url": "https://shopee.com.br/product/1723473029/23094999147",
+      "affiliate_url": "https://s.shopee.com.br/BTxLYGZHk",
+      "category": "Barbarus Body&Hair",
+      "bucket": "pet",
+      "posted_ts": 1789906680,
+      "posted_at": "2026-09-20T12:18:00.635439+00:00",
+      "score": 126.59
+    },
+    {
+      "key": "shopee:23598683017",
+      "marketplace": "shopee",
+      "id": "23598683017",
+      "title": "Escova Secadora Alisador Elétrica Quente Cabelo Com 3 Em1 Hair Styler APENAS 110V Jimmystore",
+      "title_norm": "escova secadora alisador eletrica quente cabelo com 3 em1 hair styler apenas 110v jimmystore",
+      "url": "https://shopee.com.br/product/1127030290/23598683017",
+      "affiliate_url": "https://s.shopee.com.br/9zxt3cf8Mx",
+      "category": "JIMMY.STORE",
+      "bucket": "beleza",
+      "posted_ts": 1789906611,
+      "posted_at": "2026-09-20T12:16:51.728510+00:00",
+      "score": 145.52
+    },
+    {
       "key": "mercadolivre:MLB7609027366",
       "marketplace": "mercadolivre",
       "id": "MLB7609027366",
@@ -13957,49 +13999,7 @@
       "posted_ts": 1789143477,
       "posted_at": "2026-09-11T16:17:57.502580+00:00",
       "score": 100.92
-    },
-    {
-      "key": "shopee:43854643103",
-      "marketplace": "shopee",
-      "id": "43854643103",
-      "title": "Oxímetro de Dedo Digital Portátil com Tela LED, Leitura Rápida de SpO2 e Pulso para Uso Doméstico e Viagem",
-      "title_norm": "oximetro de dedo digital portatil com tela led leitura rapida de spo2 e pulso para uso domestico e viagem",
-      "url": "https://shopee.com.br/product/1432047639/43854643103",
-      "affiliate_url": "https://s.shopee.com.br/7pt97pOMpb",
-      "category": "Tudo e Mais.br",
-      "bucket": "saude",
-      "posted_ts": 1789143407,
-      "posted_at": "2026-09-11T16:16:47.974355+00:00",
-      "score": 101.14
-    },
-    {
-      "key": "shopee:20098319002",
-      "marketplace": "shopee",
-      "id": "20098319002",
-      "title": "Kit de Brinquedo Educativo Montessori de Madeira - Formas Geométricas - 3 Jogos",
-      "title_norm": "kit de brinquedo educativo montessori de madeira formas geometricas 3 jogos",
-      "url": "https://shopee.com.br/product/1173731888/20098319002",
-      "affiliate_url": "https://s.shopee.com.br/1Vz5W3X1mj",
-      "category": "MIIX UTILIDADES",
-      "bucket": "miix_utilidades",
-      "posted_ts": 1789140074,
-      "posted_at": "2026-09-11T15:21:14.982386+00:00",
-      "score": 85.55
-    },
-    {
-      "key": "shopee:22999528910",
-      "marketplace": "shopee",
-      "id": "22999528910",
-      "title": "Relâmpago McQueen Caminhão Mack Mcqueen Carrinhos Do Relâmpago Mcqueen Mate Relâmpago Mcqueen",
-      "title_norm": "relampago mcqueen caminhao mack mcqueen carrinhos do relampago mcqueen mate relampago mcqueen",
-      "url": "https://shopee.com.br/product/1717663781/22999528910",
-      "affiliate_url": "https://s.shopee.com.br/4LJI9YWchZ",
-      "category": "IMPERIAL TOYS",
-      "bucket": "imperial_toys",
-      "posted_ts": 1789140006,
-      "posted_at": "2026-09-11T15:20:06.142957+00:00",
-      "score": 88.87
     }
   ],
-  "updated_at": "2026-09-20T12:05:39.523596+00:00"
+  "updated_at": "2026-09-20T12:19:08.638446+00:00"
 }
