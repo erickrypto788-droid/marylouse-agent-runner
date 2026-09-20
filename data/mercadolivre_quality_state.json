@@ -1,6 +1,51 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB5909017866",
+      "product_id": "MLB5909017866",
+      "catalog_product_id": "MLB61770185",
+      "item_id": "MLB5909017866",
+      "url": "https://www.mercadolivre.com.br/p/MLB61770185?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB61770185?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "blusa camisa feminina protecao solar bike jetski pesca praia cor branco tamanho m",
+      "title": "Blusa Camisa Feminina Proteção Solar Bike Jetski Pesca Praia Cor Branco Tamanho M",
+      "category": "Moda Feminina",
+      "price": 90.92,
+      "score": 88.0,
+      "posted_ts": 1789873566,
+      "posted_at": "2026-09-20T03:06:06.826314+00:00"
+    },
+    {
+      "key": "mercadolivre:MLB4745115437",
+      "product_id": "MLB4745115437",
+      "catalog_product_id": "MLB72744509",
+      "item_id": "MLB4745115437",
+      "url": "https://www.mercadolivre.com.br/p/MLB72744509?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB72744509?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "colete academia dry fit feminino leve cor preto tamanho p",
+      "title": "Colete Academia Dry Fit Feminino Leve Cor Preto Tamanho P",
+      "category": "Moda Feminina",
+      "price": 35.4,
+      "score": 105.86,
+      "posted_ts": 1789873497,
+      "posted_at": "2026-09-20T03:04:57.707760+00:00"
+    },
+    {
+      "key": "mercadolivre:MLB6619111042",
+      "product_id": "MLB6619111042",
+      "catalog_product_id": "MLB67984389",
+      "item_id": "MLB6619111042",
+      "url": "https://www.mercadolivre.com.br/p/MLB67984389?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB67984389?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "saida praia tule kimono amarracao short feminino verao bege m",
+      "title": "Saída Praia Tule Kimono Amarração Short Feminino Verão Bege M",
+      "category": "Moda Feminina",
+      "price": 97.99,
+      "score": 113.0,
+      "posted_ts": 1789873424,
+      "posted_at": "2026-09-20T03:03:44.580899+00:00"
+    },
+    {
       "key": "mercadolivre:MLB4266241495",
       "product_id": "MLB4266241495",
       "catalog_product_id": "MLB43806010",
@@ -524,37 +569,7 @@
       "score": 122.67,
       "posted_ts": 1789715002,
       "posted_at": "2026-09-18T07:03:22.799459+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB5293973662",
-      "product_id": "MLB5293973662",
-      "catalog_product_id": "MLB29263256",
-      "item_id": "MLB5293973662",
-      "url": "https://www.mercadolivre.com.br/p/MLB29263256?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB29263256?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "lizz aparelho aparador pelos eletrico navalhete profissional",
-      "title": "Lizz Aparelho Aparador Pelos Elétrico Navalhete Profissional",
-      "category": "Beleza",
-      "price": 118.87,
-      "score": 88.0,
-      "posted_ts": 1789700616,
-      "posted_at": "2026-09-18T03:03:36.934453+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB5167218221",
-      "product_id": "MLB5167218221",
-      "catalog_product_id": "MLB20624919",
-      "item_id": "MLB5167218221",
-      "url": "https://www.mercadolivre.com.br/p/MLB20624919?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB20624919?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "kit maquina cortar cabelo maquina barbeador recarregavel",
-      "title": "Kit Maquina Cortar Cabelo + Maquina Barbeador Recarregavel",
-      "category": "Beleza",
-      "price": 169.9,
-      "score": 113.0,
-      "posted_ts": 1789700552,
-      "posted_at": "2026-09-18T03:02:32.821354+00:00"
     }
   ],
-  "updated_at": "2026-09-20T02:09:12.882973+00:00"
+  "updated_at": "2026-09-20T03:06:06.826328+00:00"
 }

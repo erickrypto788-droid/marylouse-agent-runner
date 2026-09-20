@@ -1,6 +1,48 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB5909017866",
+      "marketplace": "mercadolivre",
+      "id": "MLB5909017866",
+      "title": "Blusa Camisa Feminina Proteção Solar Bike Jetski Pesca Praia Cor Branco Tamanho M",
+      "title_norm": "blusa camisa feminina protecao solar bike jetski pesca praia cor branco tamanho m",
+      "url": "https://www.mercadolivre.com.br/p/MLB61770185?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB61770185?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Moda Feminina",
+      "bucket": "moda_feminina",
+      "posted_ts": 1789873566,
+      "posted_at": "2026-09-20T03:06:06.813328+00:00",
+      "score": 88.0
+    },
+    {
+      "key": "mercadolivre:MLB4745115437",
+      "marketplace": "mercadolivre",
+      "id": "MLB4745115437",
+      "title": "Colete Academia Dry Fit Feminino Leve Cor Preto Tamanho P",
+      "title_norm": "colete academia dry fit feminino leve cor preto tamanho p",
+      "url": "https://www.mercadolivre.com.br/p/MLB72744509?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB72744509?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Moda Feminina",
+      "bucket": "moda_feminina",
+      "posted_ts": 1789873497,
+      "posted_at": "2026-09-20T03:04:57.694608+00:00",
+      "score": 105.86
+    },
+    {
+      "key": "mercadolivre:MLB6619111042",
+      "marketplace": "mercadolivre",
+      "id": "MLB6619111042",
+      "title": "Saída Praia Tule Kimono Amarração Short Feminino Verão Bege M",
+      "title_norm": "saida praia tule kimono amarracao short feminino verao bege m",
+      "url": "https://www.mercadolivre.com.br/p/MLB67984389?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB67984389?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Moda Feminina",
+      "bucket": "pet",
+      "posted_ts": 1789873424,
+      "posted_at": "2026-09-20T03:03:44.567642+00:00",
+      "score": 113.0
+    },
+    {
       "key": "shopee:22994696891",
       "marketplace": "shopee",
       "id": "22994696891",
@@ -13957,49 +13999,7 @@
       "posted_ts": 1789107660,
       "posted_at": "2026-09-11T06:21:00.222322+00:00",
       "score": 85.65
-    },
-    {
-      "key": "shopee:5355380259",
-      "marketplace": "shopee",
-      "id": "5355380259",
-      "title": "Kit Com 10 Cuecas Boxer Microfibra",
-      "title_norm": "kit com 10 cuecas boxer microfibra",
-      "url": "https://shopee.com.br/product/317236755/5355380259",
-      "affiliate_url": "https://s.shopee.com.br/AKaUhUjRT7",
-      "category": "worldaef",
-      "bucket": "worldaef",
-      "posted_ts": 1789107596,
-      "posted_at": "2026-09-11T06:19:56.114150+00:00",
-      "score": 88.49
-    },
-    {
-      "key": "shopee:22894934956",
-      "marketplace": "shopee",
-      "id": "22894934956",
-      "title": "Kit 3 Shorts 2 em 1 Dryfit Masculino Academia Corrida Treino Bermuda comprime Seca Rápida Confortável Fitnes",
-      "title_norm": "kit 3 shorts 2 em 1 dryfit masculino academia corrida treino bermuda comprime seca rapida confortavel fitnes",
-      "url": "https://shopee.com.br/product/1655509891/22894934956",
-      "affiliate_url": "https://s.shopee.com.br/4LJGIB52su",
-      "category": "LH Variedadess",
-      "bucket": "lh_variedadess",
-      "posted_ts": 1789107532,
-      "posted_at": "2026-09-11T06:18:52.001489+00:00",
-      "score": 91.52
-    },
-    {
-      "key": "shopee:20350419516",
-      "marketplace": "shopee",
-      "id": "20350419516",
-      "title": "Kit Sortido 10 ou 4 Peças de Roupas Infantil Menino- 5 Camisetas + 5 Bermudas - Kit 5 Conjuntos de Roupa Verão Masculino",
-      "title_norm": "kit sortido 10 ou 4 pecas de roupas infantil menino 5 camisetas 5 bermudas kit 5 conjuntos de roupa verao masculino",
-      "url": "https://shopee.com.br/product/341167297/20350419516",
-      "affiliate_url": "https://s.shopee.com.br/1gIWNZ7m0z",
-      "category": "Poloinfantil.store",
-      "bucket": "poloinfantil_store",
-      "posted_ts": 1789107467,
-      "posted_at": "2026-09-11T06:17:47.839291+00:00",
-      "score": 92.48
     }
   ],
-  "updated_at": "2026-09-20T02:21:02.514711+00:00"
+  "updated_at": "2026-09-20T03:06:06.813349+00:00"
 }
