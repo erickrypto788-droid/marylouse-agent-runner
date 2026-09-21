@@ -1,6 +1,48 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB6978080348",
+      "marketplace": "mercadolivre",
+      "id": "MLB6978080348",
+      "title": "Impressora Etiquetas Monocromática Toledo Prix IT400M USB",
+      "title_norm": "impressora etiquetas monocromatica toledo prix it400m usb",
+      "url": "https://www.mercadolivre.com.br/p/MLB46173110?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB46173110?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Informática",
+      "bucket": "informatica",
+      "posted_ts": 1789985116,
+      "posted_at": "2026-09-21T10:05:16.168265+00:00",
+      "score": 86.0
+    },
+    {
+      "key": "mercadolivre:MLB5201599262",
+      "marketplace": "mercadolivre",
+      "id": "MLB5201599262",
+      "title": "Ribbon Resina Mastercorp 110x300 Para Impressora Etiquetas BOPP Vinil",
+      "title_norm": "ribbon resina mastercorp 110x300 para impressora etiquetas bopp vinil",
+      "url": "https://www.mercadolivre.com.br/p/MLB44215301?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB44215301?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Informática",
+      "bucket": "informatica",
+      "posted_ts": 1789985048,
+      "posted_at": "2026-09-21T10:04:08.266832+00:00",
+      "score": 86.0
+    },
+    {
+      "key": "mercadolivre:MLB3929416863",
+      "marketplace": "mercadolivre",
+      "id": "MLB3929416863",
+      "title": "Impressora Etiquetas Logistica Código De Barras Usb",
+      "title_norm": "impressora etiquetas logistica codigo de barras usb",
+      "url": "https://www.mercadolivre.com.br/p/MLB39019401?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB39019401?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Informática",
+      "bucket": "informatica",
+      "posted_ts": 1789984984,
+      "posted_at": "2026-09-21T10:03:04.196792+00:00",
+      "score": 110.48
+    },
+    {
       "key": "shopee:58254166972",
       "marketplace": "shopee",
       "id": "58254166972",
@@ -13957,49 +13999,7 @@
       "posted_ts": 1789240731,
       "posted_at": "2026-09-12T19:18:51.379769+00:00",
       "score": 86.92
-    },
-    {
-      "key": "shopee:50509774767",
-      "marketplace": "shopee",
-      "id": "50509774767",
-      "title": "Gamesir T4 Nova Lite Controlador De Jogo Sem Fio Multiplataforma Efeito Hall PC Laptop Steam Android IOS Nintendo Switch",
-      "title_norm": "gamesir t4 nova lite controlador de jogo sem fio multiplataforma efeito hall pc laptop steam android ios nintendo switch",
-      "url": "https://shopee.com.br/product/1789269226/50509774767",
-      "affiliate_url": "https://s.shopee.com.br/80CcNfB2h5",
-      "category": "CaMera Store",
-      "bucket": "camera_store",
-      "posted_ts": 1789240667,
-      "posted_at": "2026-09-12T19:17:47.214285+00:00",
-      "score": 100.74
-    },
-    {
-      "key": "shopee:22098162297",
-      "marketplace": "shopee",
-      "id": "22098162297",
-      "title": "Console Portátil R36S + de 15.000 Jogos Vídeo Game 64g Linux Tela IPS 3.5 Polegadas",
-      "title_norm": "console portatil r36s de 15 000 jogos video game 64g linux tela ips 3 5 polegadas",
-      "url": "https://shopee.com.br/product/1127030290/22098162297",
-      "affiliate_url": "https://s.shopee.com.br/4qFabqMxcf",
-      "category": "JIMMY.STORE",
-      "bucket": "jimmy_store",
-      "posted_ts": 1789240603,
-      "posted_at": "2026-09-12T19:16:43.120926+00:00",
-      "score": 120.52
-    },
-    {
-      "key": "mercadolivre:MLB4552727020",
-      "marketplace": "mercadolivre",
-      "id": "MLB4552727020",
-      "title": "Monitor Bebe Wifi Infravermelho Vision Noctura Intercom Inteligente",
-      "title_norm": "monitor bebe wifi infravermelho vision noctura intercom inteligente",
-      "url": "https://www.mercadolivre.com.br/p/MLB23076913?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB23076913?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "category": "Informática",
-      "bucket": "informatica",
-      "posted_ts": 1789239830,
-      "posted_at": "2026-09-12T19:03:50.428837+00:00",
-      "score": 86.0
     }
   ],
-  "updated_at": "2026-09-21T09:21:24.091663+00:00"
+  "updated_at": "2026-09-21T10:05:16.168285+00:00"
 }
