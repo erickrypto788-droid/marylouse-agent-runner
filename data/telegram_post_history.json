@@ -1,6 +1,48 @@
 {
   "posts": [
     {
+      "key": "shopee:23893703937",
+      "marketplace": "shopee",
+      "id": "23893703937",
+      "title": "Babuche Adulto Masculino E Feminino Personalizado",
+      "title_norm": "babuche adulto masculino e feminino personalizado",
+      "url": "https://shopee.com.br/product/1464624047/23893703937",
+      "affiliate_url": "https://s.shopee.com.br/4LJXJ0x9J7",
+      "category": "Passinhos Mágicos ",
+      "bucket": "passinhos_magicos",
+      "posted_ts": 1789960731,
+      "posted_at": "2026-09-21T03:18:51.033218+00:00",
+      "score": 96.61
+    },
+    {
+      "key": "shopee:58257600358",
+      "marketplace": "shopee",
+      "id": "58257600358",
+      "title": "Sapatenis Tenis kinit masculino  Palmilhas P.U GEL Estiloso para todas ocasiões",
+      "title_norm": "sapatenis tenis kinit masculino palmilhas p u gel estiloso para todas ocasioes",
+      "url": "https://shopee.com.br/product/1783515830/58257600358",
+      "affiliate_url": "https://s.shopee.com.br/4VcxVJwRgn",
+      "category": "IG Ferreira Calçados",
+      "bucket": "calcados",
+      "posted_ts": 1789960667,
+      "posted_at": "2026-09-21T03:17:47.120054+00:00",
+      "score": 112.96
+    },
+    {
+      "key": "shopee:43981426348",
+      "marketplace": "shopee",
+      "id": "43981426348",
+      "title": "Tenis Masculino Escolar Academia Corrida Original FREEDOM Corrida Caminhada Lançamento EXCLUSIVO CINZA GRAVITE e LARANJA",
+      "title_norm": "tenis masculino escolar academia corrida original freedom corrida caminhada lancamento exclusivo cinza gravite e laranja",
+      "url": "https://shopee.com.br/product/387523771/43981426348",
+      "affiliate_url": "https://s.shopee.com.br/8Kpg4MZ3Lk",
+      "category": "Cirandinha Shoes",
+      "bucket": "calcados",
+      "posted_ts": 1789960603,
+      "posted_at": "2026-09-21T03:16:43.150851+00:00",
+      "score": 124.94
+    },
+    {
       "key": "mercadolivre:MLB4654205549",
       "marketplace": "mercadolivre",
       "id": "MLB4654205549",
@@ -13957,49 +13999,7 @@
       "posted_ts": 1789212005,
       "posted_at": "2026-09-12T11:20:05.352185+00:00",
       "score": 98.06
-    },
-    {
-      "key": "shopee:22797731885",
-      "marketplace": "shopee",
-      "id": "22797731885",
-      "title": "Aparelho Medidor De Pressão Arterial Digital De Braço Alta Precisão Com Instrução de Voz",
-      "title_norm": "aparelho medidor de pressao arterial digital de braco alta precisao com instrucao de voz",
-      "url": "https://shopee.com.br/product/1338519571/22797731885",
-      "affiliate_url": "https://s.shopee.com.br/1BMHi8mhzI",
-      "category": "TECH ELETRONICO LTDA",
-      "bucket": "saude",
-      "posted_ts": 1789211934,
-      "posted_at": "2026-09-12T11:18:54.783078+00:00",
-      "score": 101.82
-    },
-    {
-      "key": "shopee:22499469939",
-      "marketplace": "shopee",
-      "id": "22499469939",
-      "title": "Monitor De Pressão Arterial De Braço Control+ Hem-7122 Omron Cor Branco",
-      "title_norm": "monitor de pressao arterial de braco control hem 7122 omron cor branco",
-      "url": "https://shopee.com.br/product/1743997303/22499469939",
-      "affiliate_url": "https://s.shopee.com.br/1AKJzr9M3",
-      "category": "RahVariedades",
-      "bucket": "saude",
-      "posted_ts": 1789211810,
-      "posted_at": "2026-09-12T11:16:50.572948+00:00",
-      "score": 115.14
-    },
-    {
-      "key": "shopee:57206395518",
-      "marketplace": "shopee",
-      "id": "57206395518",
-      "title": "Cadeira Alimentacao Alta e Baixa 12x1 e Mesa de Atividades LEGO BEBE RAGALUMA Cinza Claro e Rajado",
-      "title_norm": "cadeira alimentacao alta e baixa 12x1 e mesa de atividades lego bebe ragaluma cinza claro e rajado",
-      "url": "https://shopee.com.br/product/401035888/57206395518",
-      "affiliate_url": "https://s.shopee.com.br/BTkSBAKbg",
-      "category": "Ragaluma",
-      "bucket": "ragaluma",
-      "posted_ts": 1789208481,
-      "posted_at": "2026-09-12T10:21:21.501105+00:00",
-      "score": 72.97
     }
   ],
-  "updated_at": "2026-09-21T03:02:24.968893+00:00"
+  "updated_at": "2026-09-21T03:18:51.033234+00:00"
 }
