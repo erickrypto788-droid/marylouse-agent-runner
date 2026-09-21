@@ -1,6 +1,48 @@
 {
   "posts": [
     {
+      "key": "shopee:18997669654",
+      "marketplace": "shopee",
+      "id": "18997669654",
+      "title": "Conjunto na Alfaiataria Calça  Pantalona + Colete Social Escritório Plus SIze",
+      "title_norm": "conjunto na alfaiataria calca pantalona colete social escritorio plus size",
+      "url": "https://shopee.com.br/product/1239041434/18997669654",
+      "affiliate_url": "https://s.shopee.com.br/8V94wGPzKp",
+      "category": "Elizye Delicato",
+      "bucket": "elizye_delicato",
+      "posted_ts": 1789957146,
+      "posted_at": "2026-09-21T02:19:06.069236+00:00",
+      "score": 97.35
+    },
+    {
+      "key": "shopee:58204912754",
+      "marketplace": "shopee",
+      "id": "58204912754",
+      "title": "Meia Calça Fina7D ANTICELULITE Fio  70 Plus Size – Veste do 36 ao 54 | Conforto e Alta Elasticidade",
+      "title_norm": "meia calca fina7d anticelulite fio 70 plus size veste do 36 ao 54 conforto e alta elasticidade",
+      "url": "https://shopee.com.br/product/204026219/58204912754",
+      "affiliate_url": "https://s.shopee.com.br/BTyHFEcNG",
+      "category": "Brenda  Acessórios",
+      "bucket": "brenda_acessorios",
+      "posted_ts": 1789957075,
+      "posted_at": "2026-09-21T02:17:55.797745+00:00",
+      "score": 99.05
+    },
+    {
+      "key": "shopee:58204813363",
+      "marketplace": "shopee",
+      "id": "58204813363",
+      "title": "Vestido longo casual basico feminino ribana canelada manga muscle moda gringa preto marrom plus size",
+      "title_norm": "vestido longo casual basico feminino ribana canelada manga muscle moda gringa preto marrom plus size",
+      "url": "https://shopee.com.br/product/1252857157/58204813363",
+      "affiliate_url": "https://s.shopee.com.br/1LfvX9VsGQ",
+      "category": "Visionaria Closet",
+      "bucket": "moda_feminina",
+      "posted_ts": 1789957011,
+      "posted_at": "2026-09-21T02:16:51.678477+00:00",
+      "score": 106.1
+    },
+    {
       "key": "shopee:19099500190",
       "marketplace": "shopee",
       "id": "19099500190",
@@ -13957,49 +13999,7 @@
       "posted_ts": 1789208412,
       "posted_at": "2026-09-12T10:20:12.762307+00:00",
       "score": 79.16
-    },
-    {
-      "key": "shopee:23493687045",
-      "marketplace": "shopee",
-      "id": "23493687045",
-      "title": "Tapete Termico Infantil Bebe Estampas Atividades Educativo Tapetinho Lavável Impermeavel",
-      "title_norm": "tapete termico infantil bebe estampas atividades educativo tapetinho lavavel impermeavel",
-      "url": "https://shopee.com.br/product/1109882342/23493687045",
-      "affiliate_url": "https://s.shopee.com.br/3LQmDztfau",
-      "category": "PIPOCA_IMPORTS",
-      "bucket": "pet",
-      "posted_ts": 1789208341,
-      "posted_at": "2026-09-12T10:19:01.905123+00:00",
-      "score": 79.64
-    },
-    {
-      "key": "shopee:58208382454",
-      "marketplace": "shopee",
-      "id": "58208382454",
-      "title": "Boneca K-Pop Musical Articulada 30Cm Guerreiras Do K-Pop Mira Rumi Zoe",
-      "title_norm": "boneca k pop musical articulada 30cm guerreiras do k pop mira rumi zoe",
-      "url": "https://shopee.com.br/product/1449932258/58208382454",
-      "affiliate_url": "https://s.shopee.com.br/4Vcjc8yALp",
-      "category": "OLJ IMPORTADOS",
-      "bucket": "olj_importados",
-      "posted_ts": 1789208274,
-      "posted_at": "2026-09-12T10:17:54.051757+00:00",
-      "score": 93.69
-    },
-    {
-      "key": "shopee:58265605630",
-      "marketplace": "shopee",
-      "id": "58265605630",
-      "title": "Miniatura Fusca Volkswagen 1:32 Carrinho Metal Abre Capô e Portas Fricção Coleção 12cm",
-      "title_norm": "miniatura fusca volkswagen 1 32 carrinho metal abre capo e portas friccao colecao 12cm",
-      "url": "https://shopee.com.br/product/1908026773/58265605630",
-      "affiliate_url": "https://s.shopee.com.br/1LfhqKIsnR",
-      "category": "VIYU Brinquedos",
-      "bucket": "viyu_brinquedos",
-      "posted_ts": 1789208205,
-      "posted_at": "2026-09-12T10:16:45.749873+00:00",
-      "score": 95.14
     }
   ],
-  "updated_at": "2026-09-21T01:21:16.200953+00:00"
+  "updated_at": "2026-09-21T02:19:06.069251+00:00"
 }
