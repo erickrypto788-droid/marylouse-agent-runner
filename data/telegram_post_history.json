@@ -1,6 +1,20 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB6512536586",
+      "marketplace": "mercadolivre",
+      "id": "MLB6512536586",
+      "title": "Vestido feminino casual feminino Guess, relógio esportivo, pulseira, cor dourada",
+      "title_norm": "vestido feminino casual feminino guess relogio esportivo pulseira cor dourada",
+      "url": "https://www.mercadolivre.com.br/p/MLB25981434?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB25981434?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Moda Feminina",
+      "bucket": "moda_feminina",
+      "posted_ts": 1789995849,
+      "posted_at": "2026-09-21T13:04:09.868085+00:00",
+      "score": 86.0
+    },
+    {
       "key": "shopee:54808426700",
       "marketplace": "shopee",
       "id": "54808426700",
@@ -13985,21 +13999,7 @@
       "posted_ts": 1789254253,
       "posted_at": "2026-09-12T23:04:13.759809+00:00",
       "score": 105.86
-    },
-    {
-      "key": "mercadolivre:MLB6596282078",
-      "marketplace": "mercadolivre",
-      "id": "MLB6596282078",
-      "title": "Saída Praia Tule Kimono Amarração Short Feminino Verão Laranja M",
-      "title_norm": "saida praia tule kimono amarracao short feminino verao laranja m",
-      "url": "https://www.mercadolivre.com.br/p/MLB67745838?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB67745838?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "category": "Moda Feminina",
-      "bucket": "pet",
-      "posted_ts": 1789254189,
-      "posted_at": "2026-09-12T23:03:09.109463+00:00",
-      "score": 113.0
     }
   ],
-  "updated_at": "2026-09-21T12:21:10.447771+00:00"
+  "updated_at": "2026-09-21T13:04:09.868099+00:00"
 }
