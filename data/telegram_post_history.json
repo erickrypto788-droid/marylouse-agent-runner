@@ -1,6 +1,20 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB4654205549",
+      "marketplace": "mercadolivre",
+      "id": "MLB4654205549",
+      "title": "Roteador Wifi Ac 1200 2 Flex",
+      "title_norm": "roteador wifi ac 1200 2 flex",
+      "url": "https://www.mercadolivre.com.br/p/MLB47353377?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB47353377?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Informática",
+      "bucket": "informatica",
+      "posted_ts": 1789959744,
+      "posted_at": "2026-09-21T03:02:24.968876+00:00",
+      "score": 99.76
+    },
+    {
       "key": "shopee:18997669654",
       "marketplace": "shopee",
       "id": "18997669654",
@@ -13985,21 +13999,7 @@
       "posted_ts": 1789208481,
       "posted_at": "2026-09-12T10:21:21.501105+00:00",
       "score": 72.97
-    },
-    {
-      "key": "shopee:47353036643",
-      "marketplace": "shopee",
-      "id": "47353036643",
-      "title": "Mesa Gamer Legos 120cm em L de Canto para Home Office Setup Escrivaninha Geek Com Cantos Arredondados Design Moderno",
-      "title_norm": "mesa gamer legos 120cm em l de canto para home office setup escrivaninha geek com cantos arredondados design moderno",
-      "url": "https://shopee.com.br/product/365399646/47353036643",
-      "affiliate_url": "https://s.shopee.com.br/9fKnF3t4Na",
-      "category": "E-Led Iluminação",
-      "bucket": "e_led_iluminacao",
-      "posted_ts": 1789208412,
-      "posted_at": "2026-09-12T10:20:12.762307+00:00",
-      "score": 79.16
     }
   ],
-  "updated_at": "2026-09-21T02:19:06.069251+00:00"
+  "updated_at": "2026-09-21T03:02:24.968893+00:00"
 }
