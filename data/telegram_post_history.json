@@ -1,6 +1,20 @@
 {
   "posts": [
     {
+      "key": "shopee:58212496584",
+      "marketplace": "shopee",
+      "id": "58212496584",
+      "title": "Nintendo Switch 2 lcd 256gb novo",
+      "title_norm": "nintendo switch 2 lcd 256gb novo",
+      "url": "https://shopee.com.br/product/1470976304/58212496584",
+      "affiliate_url": "https://s.shopee.com.br/1BMU0QK9SI",
+      "category": "AmandaImports8",
+      "bucket": "amandaimports8",
+      "posted_ts": 1790018205,
+      "posted_at": "2026-09-21T19:16:45.133380+00:00",
+      "score": 32.88
+    },
+    {
       "key": "mercadolivre:MLB5985526316",
       "marketplace": "mercadolivre",
       "id": "MLB5985526316",
@@ -13985,21 +13999,7 @@
       "posted_ts": 1789276614,
       "posted_at": "2026-09-13T05:16:54.590630+00:00",
       "score": 134.6
-    },
-    {
-      "key": "mercadolivre:MLB5041528061",
-      "marketplace": "mercadolivre",
-      "id": "MLB5041528061",
-      "title": "Kit Ferramentas Informatica Cor Preto",
-      "title_norm": "kit ferramentas informatica cor preto",
-      "url": "https://www.mercadolivre.com.br/p/MLB43810473?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB43810473?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "category": "Ferramentas",
-      "bucket": "ferramentas",
-      "posted_ts": 1789275743,
-      "posted_at": "2026-09-13T05:02:23.160594+00:00",
-      "score": 88.0
     }
   ],
-  "updated_at": "2026-09-21T19:03:09.604719+00:00"
+  "updated_at": "2026-09-21T19:16:45.133395+00:00"
 }
