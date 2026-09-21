@@ -1,6 +1,21 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB7639579812",
+      "product_id": "MLB7639579812",
+      "catalog_product_id": "MLB66541712",
+      "item_id": "MLB7639579812",
+      "url": "https://www.mercadolivre.com.br/p/MLB66541712?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB66541712?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "racao gato estimacat premium adulto sabor carne 15kg",
+      "title": "Ração Gato Estimacat Premium Adulto Sabor Carne 15kg",
+      "category": "Pet",
+      "price": 267.25,
+      "score": 154.83,
+      "posted_ts": 1789977756,
+      "posted_at": "2026-09-21T08:02:36.928212+00:00"
+    },
+    {
       "key": "mercadolivre:MLB4657112471",
       "product_id": "MLB4657112471",
       "catalog_product_id": "MLB61421090",
@@ -734,22 +749,7 @@
       "score": 157.8,
       "posted_ts": 1789808813,
       "posted_at": "2026-09-19T09:06:53.056127+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB7625830504",
-      "product_id": "MLB7625830504",
-      "catalog_product_id": "MLB78672090",
-      "item_id": "MLB7625830504",
-      "url": "https://www.mercadolivre.com.br/p/MLB78672090?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB78672090?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "impressora etiquetas adesivas 1 000 etiquetas 10x15cm branco",
-      "title": "Impressora Etiquetas Adesivas + 1.000 Etiquetas 10x15cm Branco",
-      "category": "Informática",
-      "price": 565.0,
-      "score": 111.81,
-      "posted_ts": 1789801385,
-      "posted_at": "2026-09-19T07:03:05.008936+00:00"
     }
   ],
-  "updated_at": "2026-09-21T05:03:53.337507+00:00"
+  "updated_at": "2026-09-21T08:02:36.928221+00:00"
 }

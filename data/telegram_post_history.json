@@ -1,6 +1,20 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB7639579812",
+      "marketplace": "mercadolivre",
+      "id": "MLB7639579812",
+      "title": "Ração Gato Estimacat Premium Adulto Sabor Carne 15kg",
+      "title_norm": "racao gato estimacat premium adulto sabor carne 15kg",
+      "url": "https://www.mercadolivre.com.br/p/MLB66541712?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB66541712?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Pet",
+      "bucket": "pet",
+      "posted_ts": 1789977756,
+      "posted_at": "2026-09-21T08:02:36.914199+00:00",
+      "score": 154.83
+    },
+    {
       "key": "shopee:23898526571",
       "marketplace": "shopee",
       "id": "23898526571",
@@ -13985,21 +13999,7 @@
       "posted_ts": 1789229935,
       "posted_at": "2026-09-12T16:18:55.886823+00:00",
       "score": 80.57
-    },
-    {
-      "key": "shopee:3743287858",
-      "marketplace": "shopee",
-      "id": "3743287858",
-      "title": "Kit Gamer Teclado Semi Mecânico + Mouse 2400dpi Usb Rgb Iluminado Jogos Pc",
-      "title_norm": "kit gamer teclado semi mecanico mouse 2400dpi usb rgb iluminado jogos pc",
-      "url": "https://shopee.com.br/product/287296555/3743287858",
-      "affiliate_url": "https://s.shopee.com.br/2gB5pVAit1",
-      "category": "SUPER COMPRAS.SHOP",
-      "bucket": "informatica",
-      "posted_ts": 1789229871,
-      "posted_at": "2026-09-12T16:17:51.811060+00:00",
-      "score": 101.88
     }
   ],
-  "updated_at": "2026-09-21T07:21:32.192074+00:00"
+  "updated_at": "2026-09-21T08:02:36.914211+00:00"
 }
