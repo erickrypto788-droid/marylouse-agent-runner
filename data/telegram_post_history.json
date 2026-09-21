@@ -1,6 +1,20 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB7359539976",
+      "marketplace": "mercadolivre",
+      "id": "MLB7359539976",
+      "title": "Bike Spinning Kikos Max-ks5 Preto",
+      "title_norm": "bike spinning kikos max ks5 preto",
+      "url": "https://www.mercadolivre.com.br/p/MLB18603556?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB18603556?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Esportes",
+      "bucket": "esportes",
+      "posted_ts": 1790006578,
+      "posted_at": "2026-09-21T16:02:58.279354+00:00",
+      "score": 84.0
+    },
+    {
       "key": "shopee:10908191710",
       "marketplace": "shopee",
       "id": "10908191710",
@@ -13985,21 +13999,7 @@
       "posted_ts": 1789264952,
       "posted_at": "2026-09-13T02:02:32.676304+00:00",
       "score": 170.47
-    },
-    {
-      "key": "shopee:22498192456",
-      "marketplace": "shopee",
-      "id": "22498192456",
-      "title": "Fone De Ouvido Bluetooth Sem Fio Air Pods Pro 3 Para Android & iOS",
-      "title_norm": "fone de ouvido bluetooth sem fio air pods pro 3 para android ios",
-      "url": "https://shopee.com.br/product/1446901374/22498192456",
-      "affiliate_url": "https://s.shopee.com.br/1BMIdpTIUd",
-      "category": "INFINIT STORE",
-      "bucket": "infinit_store",
-      "posted_ts": 1789262410,
-      "posted_at": "2026-09-13T01:20:10.367279+00:00",
-      "score": 100.96
     }
   ],
-  "updated_at": "2026-09-21T15:21:17.857937+00:00"
+  "updated_at": "2026-09-21T16:02:58.279369+00:00"
 }

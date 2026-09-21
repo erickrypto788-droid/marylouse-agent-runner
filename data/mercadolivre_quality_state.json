@@ -1,6 +1,21 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB7359539976",
+      "product_id": "MLB7359539976",
+      "catalog_product_id": "MLB18603556",
+      "item_id": "MLB7359539976",
+      "url": "https://www.mercadolivre.com.br/p/MLB18603556?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB18603556?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "bike spinning kikos max ks5 preto",
+      "title": "Bike Spinning Kikos Max-ks5 Preto",
+      "category": "Esportes",
+      "price": 2719.0,
+      "score": 84.0,
+      "posted_ts": 1790006578,
+      "posted_at": "2026-09-21T16:02:58.293290+00:00"
+    },
+    {
       "key": "mercadolivre:MLB7003862824",
       "product_id": "MLB7003862824",
       "catalog_product_id": "MLB74184723",
@@ -779,37 +794,7 @@
       "score": 111.0,
       "posted_ts": 1789837352,
       "posted_at": "2026-09-19T17:02:32.045370+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB5297261932",
-      "product_id": "MLB5297261932",
-      "catalog_product_id": "MLB45785598",
-      "item_id": "MLB5297261932",
-      "url": "https://www.mercadolivre.com.br/p/MLB45785598?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB45785598?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "brinquedo lider kit ferramentas 2381",
-      "title": "Brinquedo Lider Kit Ferramentas - 2381",
-      "category": "Ferramentas",
-      "price": 119.0,
-      "score": 88.0,
-      "posted_ts": 1789833760,
-      "posted_at": "2026-09-19T16:02:40.154299+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB4712198025",
-      "product_id": "MLB4712198025",
-      "catalog_product_id": "MLB54083722",
-      "item_id": "MLB4712198025",
-      "url": "https://www.mercadolivre.com.br/p/MLB54083722?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB54083722?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "fritadeira air fryer mondial oven digital 127v",
-      "title": "Fritadeira Air Fryer Mondial Oven Digital 127v",
-      "category": "Casa e Cozinha",
-      "price": 1265.0,
-      "score": 127.0,
-      "posted_ts": 1789830185,
-      "posted_at": "2026-09-19T15:03:05.728466+00:00"
     }
   ],
-  "updated_at": "2026-09-21T14:05:46.901681+00:00"
+  "updated_at": "2026-09-21T16:02:58.293304+00:00"
 }
