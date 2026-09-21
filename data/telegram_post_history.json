@@ -1,6 +1,20 @@
 {
   "posts": [
     {
+      "key": "shopee:22998137276",
+      "marketplace": "shopee",
+      "id": "22998137276",
+      "title": "Calça Jeans Plus Size Com Elastano Super Conforto 44 ao 54",
+      "title_norm": "calca jeans plus size com elastano super conforto 44 ao 54",
+      "url": "https://shopee.com.br/product/1119924602/22998137276",
+      "affiliate_url": "https://s.shopee.com.br/1VzLrhIPVv",
+      "category": "Inove jeans",
+      "bucket": "inove_jeans",
+      "posted_ts": 1790029018,
+      "posted_at": "2026-09-21T22:16:58.033793+00:00",
+      "score": 106.44
+    },
+    {
       "key": "shopee:55411993196",
       "marketplace": "shopee",
       "id": "55411993196",
@@ -13985,21 +13999,7 @@
       "posted_ts": 1789287420,
       "posted_at": "2026-09-13T08:17:00.964161+00:00",
       "score": 139.27
-    },
-    {
-      "key": "mercadolivre:MLB4500156207",
-      "marketplace": "mercadolivre",
-      "id": "MLB4500156207",
-      "title": "Smartphone Xiaomi 15t 5g 12+12gb Ram + 512gb, Dourado",
-      "title_norm": "smartphone xiaomi 15t 5g 12 12gb ram 512gb dourado",
-      "url": "https://www.mercadolivre.com.br/p/MLB59103184?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB59103184?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "category": "Informática",
-      "bucket": "celulares",
-      "posted_ts": 1789286640,
-      "posted_at": "2026-09-13T08:04:00.855842+00:00",
-      "score": 124.0
     }
   ],
-  "updated_at": "2026-09-21T21:21:27.664381+00:00"
+  "updated_at": "2026-09-21T22:16:58.033806+00:00"
 }
