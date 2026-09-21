@@ -1,6 +1,36 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB7003862824",
+      "product_id": "MLB7003862824",
+      "catalog_product_id": "MLB74184723",
+      "item_id": "MLB7003862824",
+      "url": "https://www.mercadolivre.com.br/p/MLB74184723?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB74184723?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "painel d rossi painel para tv para tv ate 60 cumaru de mdf mdp",
+      "title": "Painel D'Rossi Painel Para TV para TV até 60\" cumaru de mdf/mdp",
+      "category": "Casa e Cozinha",
+      "price": 632.5,
+      "score": 103.52,
+      "posted_ts": 1789999546,
+      "posted_at": "2026-09-21T14:05:46.901665+00:00"
+    },
+    {
+      "key": "mercadolivre:MLB5195207435",
+      "product_id": "MLB5195207435",
+      "catalog_product_id": "MLB28353455",
+      "item_id": "MLB5195207435",
+      "url": "https://www.mercadolivre.com.br/p/MLB28353455?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB28353455?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "miniatura aspirador po infantil bw165",
+      "title": "Miniatura Aspirador Pó Infantil Bw165",
+      "category": "Casa e Cozinha",
+      "price": 70.54,
+      "score": 113.0,
+      "posted_ts": 1789999482,
+      "posted_at": "2026-09-21T14:04:42.074306+00:00"
+    },
+    {
       "key": "mercadolivre:MLB6512536586",
       "product_id": "MLB6512536586",
       "catalog_product_id": "MLB25981434",
@@ -779,22 +809,7 @@
       "score": 127.0,
       "posted_ts": 1789830185,
       "posted_at": "2026-09-19T15:03:05.728466+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB5205515547",
-      "product_id": "MLB5205515547",
-      "catalog_product_id": "MLB77998394",
-      "item_id": "MLB5205515547",
-      "url": "https://www.mercadolivre.com.br/p/MLB77998394?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB77998394?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "escova secadora",
-      "title": "Escova Secadora",
-      "category": "Beleza",
-      "price": 209.9,
-      "score": 113.0,
-      "posted_ts": 1789826565,
-      "posted_at": "2026-09-19T14:02:45.485645+00:00"
     }
   ],
-  "updated_at": "2026-09-21T13:04:09.882080+00:00"
+  "updated_at": "2026-09-21T14:05:46.901681+00:00"
 }
