@@ -1,6 +1,34 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB4657112471",
+      "marketplace": "mercadolivre",
+      "id": "MLB4657112471",
+      "title": "Smartphone Xiaomi Redmi 15c 256gb Global Azul",
+      "title_norm": "smartphone xiaomi redmi 15c 256gb global azul",
+      "url": "https://www.mercadolivre.com.br/p/MLB61421090?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB61421090?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Informática",
+      "bucket": "celulares",
+      "posted_ts": 1789967033,
+      "posted_at": "2026-09-21T05:03:53.328700+00:00",
+      "score": 127.0
+    },
+    {
+      "key": "mercadolivre:MLB3900697873",
+      "marketplace": "mercadolivre",
+      "id": "MLB3900697873",
+      "title": "Smartphone Xiaomi Redmi 13 Cor Azul-marinho",
+      "title_norm": "smartphone xiaomi redmi 13 cor azul marinho",
+      "url": "https://www.mercadolivre.com.br/p/MLB41629336?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB41629336?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Informática",
+      "bucket": "celulares",
+      "posted_ts": 1789966969,
+      "posted_at": "2026-09-21T05:02:49.078282+00:00",
+      "score": 127.0
+    },
+    {
       "key": "shopee:23599239610",
       "marketplace": "shopee",
       "id": "23599239610",
@@ -13971,35 +13999,7 @@
       "posted_ts": 1789218168,
       "posted_at": "2026-09-12T13:02:48.602573+00:00",
       "score": 88.0
-    },
-    {
-      "key": "shopee:19098318298",
-      "marketplace": "shopee",
-      "id": "19098318298",
-      "title": "Berço Co-Bed Balanço Portátil Moises Mosqueteiro Infantil Trava de Segurança Regulável",
-      "title_norm": "berco co bed balanco portatil moises mosqueteiro infantil trava de seguranca regulavel",
-      "url": "https://shopee.com.br/product/461736131/19098318298",
-      "affiliate_url": "https://s.shopee.com.br/9fKptswKNi",
-      "category": "Versátil Varejo",
-      "bucket": "versatil_varejo",
-      "posted_ts": 1789215669,
-      "posted_at": "2026-09-12T12:21:09.591395+00:00",
-      "score": 50.39
-    },
-    {
-      "key": "shopee:23696208899",
-      "marketplace": "shopee",
-      "id": "23696208899",
-      "title": "Berço Desmontável Portátil Cercadinho Com Mosqueteiro Sonata Cinza Burigotto",
-      "title_norm": "berco desmontavel portatil cercadinho com mosqueteiro sonata cinza burigotto",
-      "url": "https://shopee.com.br/product/319880864/23696208899",
-      "affiliate_url": "https://s.shopee.com.br/1Vz8AsRPxO",
-      "category": "MK MEGA STORE",
-      "bucket": "mk_mega_store",
-      "posted_ts": 1789215605,
-      "posted_at": "2026-09-12T12:20:05.529533+00:00",
-      "score": 59.7
     }
   ],
-  "updated_at": "2026-09-21T04:18:03.043750+00:00"
+  "updated_at": "2026-09-21T05:03:53.328712+00:00"
 }
