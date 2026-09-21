@@ -1,6 +1,51 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB7634917954",
+      "product_id": "MLB7634917954",
+      "catalog_product_id": "MLB21780816",
+      "item_id": "MLB7634917954",
+      "url": "https://www.mercadolivre.com.br/p/MLB21780816?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB21780816?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "shampoo infantil meu bebe",
+      "title": "Shampoo Infantil Meu Bebê",
+      "category": "Beleza",
+      "price": 39.9,
+      "score": 88.0,
+      "posted_ts": 1789992530,
+      "posted_at": "2026-09-21T12:08:50.029294+00:00"
+    },
+    {
+      "key": "mercadolivre:MLB5930796330",
+      "product_id": "MLB5930796330",
+      "catalog_product_id": "MLB43609445",
+      "item_id": "MLB5930796330",
+      "url": "https://www.mercadolivre.com.br/p/MLB43609445?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB43609445?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "papel higienico indaial caicai papel higienico folha dupla de 1 un",
+      "title": "Papel higiênico INDAIAL CAICAI PAPEL HIGIENICO folha dupla de 1 un",
+      "category": "Supermercados",
+      "price": 147.9,
+      "score": 114.0,
+      "posted_ts": 1789992465,
+      "posted_at": "2026-09-21T12:07:45.911995+00:00"
+    },
+    {
+      "key": "mercadolivre:MLB7597764796",
+      "product_id": "MLB7597764796",
+      "catalog_product_id": "MLB25251850",
+      "item_id": "MLB7597764796",
+      "url": "https://www.mercadolivre.com.br/p/MLB25251850?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB25251850?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "fralda huggies jumbinho m 36 unidades",
+      "title": "Fralda Huggies Jumbinho M - 36 Unidades",
+      "category": "Mãe e Bebê",
+      "price": 42.9,
+      "score": 182.06,
+      "posted_ts": 1789992401,
+      "posted_at": "2026-09-21T12:06:41.914155+00:00"
+    },
+    {
       "key": "mercadolivre:MLB6194259162",
       "product_id": "MLB6194259162",
       "catalog_product_id": "MLB26008929",
@@ -734,22 +779,7 @@
       "score": 113.0,
       "posted_ts": 1789826565,
       "posted_at": "2026-09-19T14:02:45.485645+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB3845821781",
-      "product_id": "MLB3845821781",
-      "catalog_product_id": "MLB38279289",
-      "item_id": "MLB3845821781",
-      "url": "https://www.mercadolivre.com.br/p/MLB38279289?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB38279289?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "armario organizador cozinha balcao microondas jet cinza",
-      "title": "Armário Organizador Cozinha Balcão Microondas Jet - Cinza",
-      "category": "Casa e Cozinha",
-      "price": 399.9,
-      "score": 86.0,
-      "posted_ts": 1789815901,
-      "posted_at": "2026-09-19T11:05:01.429305+00:00"
     }
   ],
-  "updated_at": "2026-09-21T11:03:55.254126+00:00"
+  "updated_at": "2026-09-21T12:08:50.029304+00:00"
 }

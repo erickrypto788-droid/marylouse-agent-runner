@@ -1,6 +1,48 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB7634917954",
+      "marketplace": "mercadolivre",
+      "id": "MLB7634917954",
+      "title": "Shampoo Infantil Meu Bebê",
+      "title_norm": "shampoo infantil meu bebe",
+      "url": "https://www.mercadolivre.com.br/p/MLB21780816?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB21780816?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Beleza",
+      "bucket": "beleza",
+      "posted_ts": 1789992530,
+      "posted_at": "2026-09-21T12:08:50.016094+00:00",
+      "score": 88.0
+    },
+    {
+      "key": "mercadolivre:MLB5930796330",
+      "marketplace": "mercadolivre",
+      "id": "MLB5930796330",
+      "title": "Papel higiênico INDAIAL CAICAI PAPEL HIGIENICO folha dupla de 1 un",
+      "title_norm": "papel higienico indaial caicai papel higienico folha dupla de 1 un",
+      "url": "https://www.mercadolivre.com.br/p/MLB43609445?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB43609445?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Supermercados",
+      "bucket": "supermercado",
+      "posted_ts": 1789992465,
+      "posted_at": "2026-09-21T12:07:45.898475+00:00",
+      "score": 114.0
+    },
+    {
+      "key": "mercadolivre:MLB7597764796",
+      "marketplace": "mercadolivre",
+      "id": "MLB7597764796",
+      "title": "Fralda Huggies Jumbinho M - 36 Unidades",
+      "title_norm": "fralda huggies jumbinho m 36 unidades",
+      "url": "https://www.mercadolivre.com.br/p/MLB25251850?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB25251850?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Mãe e Bebê",
+      "bucket": "fraldas",
+      "posted_ts": 1789992401,
+      "posted_at": "2026-09-21T12:06:41.900375+00:00",
+      "score": 182.06
+    },
+    {
       "key": "shopee:23298641767",
       "marketplace": "shopee",
       "id": "23298641767",
@@ -13957,49 +13999,7 @@
       "posted_ts": 1789250796,
       "posted_at": "2026-09-12T22:06:36.400233+00:00",
       "score": 98.67
-    },
-    {
-      "key": "mercadolivre:MLB6660297382",
-      "marketplace": "mercadolivre",
-      "id": "MLB6660297382",
-      "title": "Preparo Essência Amaciante Roupas Concentrado Perfume",
-      "title_norm": "preparo essencia amaciante roupas concentrado perfume",
-      "url": "https://www.mercadolivre.com.br/p/MLB67844007?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB67844007?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "category": "Supermercados",
-      "bucket": "beleza",
-      "posted_ts": 1789250732,
-      "posted_at": "2026-09-12T22:05:32.415090+00:00",
-      "score": 114.0
-    },
-    {
-      "key": "shopee:58209320732",
-      "marketplace": "shopee",
-      "id": "58209320732",
-      "title": "Óculos de Leitura Inteligente com Zoom Automático, Uso Diário Masculino e Feminino",
-      "title_norm": "oculos de leitura inteligente com zoom automatico uso diario masculino e feminino",
-      "url": "https://shopee.com.br/product/1690878664/58209320732",
-      "affiliate_url": "https://s.shopee.com.br/5AsR8hZGBG",
-      "category": "Escolha Distinta",
-      "bucket": "escolha_distinta",
-      "posted_ts": 1789248063,
-      "posted_at": "2026-09-12T21:21:03.718105+00:00",
-      "score": 99.48
-    },
-    {
-      "key": "shopee:58250355922",
-      "marketplace": "shopee",
-      "id": "58250355922",
-      "title": "Calça Cargo Jeans Masculina Streetwear Baggy Wide Leg Oversized Moda Urbana Skatista Premium Confortável Casual",
-      "title_norm": "calca cargo jeans masculina streetwear baggy wide leg oversized moda urbana skatista premium confortavel casual",
-      "url": "https://shopee.com.br/product/439328620/58250355922",
-      "affiliate_url": "https://s.shopee.com.br/7ptAzC7oDr",
-      "category": "BEST JEANS",
-      "bucket": "best_jeans",
-      "posted_ts": 1789247999,
-      "posted_at": "2026-09-12T21:19:59.560090+00:00",
-      "score": 100.11
     }
   ],
-  "updated_at": "2026-09-21T11:21:08.214278+00:00"
+  "updated_at": "2026-09-21T12:08:50.016108+00:00"
 }
