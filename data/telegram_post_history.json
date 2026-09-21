@@ -1,6 +1,34 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB5653921846",
+      "marketplace": "mercadolivre",
+      "id": "MLB5653921846",
+      "title": "Monitor 24 Polegadas 1920x1200px Vga Hdmi 5ms Rápido",
+      "title_norm": "monitor 24 polegadas 1920x1200px vga hdmi 5ms rapido",
+      "url": "https://www.mercadolivre.com.br/p/MLB45798788?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB45798788?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Informática",
+      "bucket": "informatica",
+      "posted_ts": 1790024610,
+      "posted_at": "2026-09-21T21:03:30.605941+00:00",
+      "score": 86.0
+    },
+    {
+      "key": "mercadolivre:MLB7634976292",
+      "marketplace": "mercadolivre",
+      "id": "MLB7634976292",
+      "title": "Impressora Bluetooth Mini Impressora De Etiquetas Impressora Bluetooth Termica Mini Impressora Portatil Bluetooth Para Etiquetas Codigos De Barras Impressao Nítida Conexao Rapida Facil De Usar",
+      "title_norm": "impressora bluetooth mini impressora de etiquetas impressora bluetooth termica mini impressora portatil bluetooth para etiquetas codigos de barras impressao nitida conexao rapida facil de usar",
+      "url": "https://www.mercadolivre.com.br/p/MLB78811728?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB78811728?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Informática",
+      "bucket": "informatica",
+      "posted_ts": 1790024546,
+      "posted_at": "2026-09-21T21:02:26.607797+00:00",
+      "score": 166.9
+    },
+    {
       "key": "shopee:22493863963",
       "marketplace": "shopee",
       "id": "22493863963",
@@ -13971,35 +13999,7 @@
       "posted_ts": 1789283999,
       "posted_at": "2026-09-13T07:19:59.950471+00:00",
       "score": 118.72
-    },
-    {
-      "key": "shopee:56556653787",
-      "marketplace": "shopee",
-      "id": "56556653787",
-      "title": "Boneca Bebê Reborn Unicórnio Menina Original Realista de Silicone Pode Dar Banho Com Bolsa Maternidade",
-      "title_norm": "boneca bebe reborn unicornio menina original realista de silicone pode dar banho com bolsa maternidade",
-      "url": "https://shopee.com.br/product/976415369/56556653787",
-      "affiliate_url": "https://s.shopee.com.br/1qbyRF8Jl3",
-      "category": "Gaby Reborn",
-      "bucket": "bolsas",
-      "posted_ts": 1789283871,
-      "posted_at": "2026-09-13T07:17:51.440197+00:00",
-      "score": 124.19
-    },
-    {
-      "key": "mercadolivre:MLB7150469040",
-      "marketplace": "mercadolivre",
-      "id": "MLB7150469040",
-      "title": "TV Box RBI Smart TV Box 4K PROSB-2000 Preto 5ª Geração Wi-Fi HDMI",
-      "title_norm": "tv box rbi smart tv box 4k prosb 2000 preto 5 geracao wi fi hdmi",
-      "url": "https://www.mercadolivre.com.br/p/MLB59821316?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB59821316?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "category": "Pet",
-      "bucket": "pet",
-      "posted_ts": 1789283052,
-      "posted_at": "2026-09-13T07:04:12.141952+00:00",
-      "score": 113.0
     }
   ],
-  "updated_at": "2026-09-21T20:21:21.958994+00:00"
+  "updated_at": "2026-09-21T21:03:30.605953+00:00"
 }
