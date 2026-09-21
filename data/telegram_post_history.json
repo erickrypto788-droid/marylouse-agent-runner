@@ -1,6 +1,20 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB5985526316",
+      "marketplace": "mercadolivre",
+      "id": "MLB5985526316",
+      "title": "Combo Parafusadeira Furadeira de Impacto 13mm + Parafusadeira de Impacto 6,3mm DEWALT DCK276D2",
+      "title_norm": "combo parafusadeira furadeira de impacto 13mm parafusadeira de impacto 6 3mm dewalt dck276d2",
+      "url": "https://www.mercadolivre.com.br/p/MLB21865416?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB21865416?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Ferramentas",
+      "bucket": "ferramentas",
+      "posted_ts": 1790017389,
+      "posted_at": "2026-09-21T19:03:09.604700+00:00",
+      "score": 124.0
+    },
+    {
       "key": "shopee:23598461565",
       "marketplace": "shopee",
       "id": "23598461565",
@@ -13985,21 +13999,7 @@
       "posted_ts": 1789275743,
       "posted_at": "2026-09-13T05:02:23.160594+00:00",
       "score": 88.0
-    },
-    {
-      "key": "shopee:58214681164",
-      "marketplace": "shopee",
-      "id": "58214681164",
-      "title": "Vestido Infantil Jardim Encantado Luxo Elegante e Confortável",
-      "title_norm": "vestido infantil jardim encantado luxo elegante e confortavel",
-      "url": "https://shopee.com.br/product/1348249975/58214681164",
-      "affiliate_url": "https://s.shopee.com.br/80Ccykb6c4",
-      "category": "BelleViê Modas",
-      "bucket": "moda_feminina",
-      "posted_ts": 1789273262,
-      "posted_at": "2026-09-13T04:21:02.441427+00:00",
-      "score": 82.55
     }
   ],
-  "updated_at": "2026-09-21T18:21:07.402329+00:00"
+  "updated_at": "2026-09-21T19:03:09.604719+00:00"
 }
