@@ -1,6 +1,20 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB3474477475",
+      "marketplace": "mercadolivre",
+      "id": "MLB3474477475",
+      "title": "Lamina Aparador Pelos Philips Bodygroom Qg3379 Qg3280 Qg3380",
+      "title_norm": "lamina aparador pelos philips bodygroom qg3379 qg3280 qg3380",
+      "url": "https://www.mercadolivre.com.br/p/MLB24908965?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB24908965?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Beleza",
+      "bucket": "beleza",
+      "posted_ts": 1790010315,
+      "posted_at": "2026-09-21T17:05:15.706993+00:00",
+      "score": 119.78
+    },
+    {
       "key": "shopee:23693891395",
       "marketplace": "shopee",
       "id": "23693891395",
@@ -13985,21 +13999,7 @@
       "posted_ts": 1789266001,
       "posted_at": "2026-09-13T02:20:01.109276+00:00",
       "score": 39.51
-    },
-    {
-      "key": "shopee:20298661096",
-      "marketplace": "shopee",
-      "id": "20298661096",
-      "title": "Aspirador de Pó Vertical Britânia 2 em 1 1200W BAS1200C",
-      "title_norm": "aspirador de po vertical britania 2 em 1 1200w bas1200c",
-      "url": "https://shopee.com.br/product/811879342/20298661096",
-      "affiliate_url": "https://s.shopee.com.br/40gU59Y5dd",
-      "category": "Britânia Oficial",
-      "bucket": "casa_cozinha",
-      "posted_ts": 1789265933,
-      "posted_at": "2026-09-13T02:18:53.318835+00:00",
-      "score": 122.01
     }
   ],
-  "updated_at": "2026-09-21T16:21:08.956967+00:00"
+  "updated_at": "2026-09-21T17:05:15.707012+00:00"
 }
