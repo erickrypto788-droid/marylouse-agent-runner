@@ -1,6 +1,48 @@
 {
   "posts": [
     {
+      "key": "shopee:22391919981",
+      "marketplace": "shopee",
+      "id": "22391919981",
+      "title": "Mochila 2023 bolsa Viagem Resistente a Água Style Premium Executiva Envio imediato",
+      "title_norm": "mochila 2023 bolsa viagem resistente a agua style premium executiva envio imediato",
+      "url": "https://shopee.com.br/product/691323218/22391919981",
+      "affiliate_url": "https://s.shopee.com.br/4B05BDTYGX",
+      "category": "ULTRA TECH COMERCIAL LTDA",
+      "bucket": "bolsas",
+      "posted_ts": 1789996732,
+      "posted_at": "2026-09-21T13:18:52.265252+00:00",
+      "score": 97.26
+    },
+    {
+      "key": "shopee:21099546181",
+      "marketplace": "shopee",
+      "id": "21099546181",
+      "title": "ROMANTIC CROWN Bolsa Feminina Pequena de Ombro Impermeável, Mini Tiracolo de Couro para Trabalho e Festa",
+      "title_norm": "romantic crown bolsa feminina pequena de ombro impermeavel mini tiracolo de couro para trabalho e festa",
+      "url": "https://shopee.com.br/product/1198407784/21099546181",
+      "affiliate_url": "https://s.shopee.com.br/1qcCzcmNWL",
+      "category": "Romantic Crown.02",
+      "bucket": "bolsas",
+      "posted_ts": 1789996668,
+      "posted_at": "2026-09-21T13:17:48.256593+00:00",
+      "score": 114.26
+    },
+    {
+      "key": "shopee:58209895415",
+      "marketplace": "shopee",
+      "id": "58209895415",
+      "title": "Mochila de Viagem Masculina e Feminina Impermeável e Reforçada com Compartimento para Notebook",
+      "title_norm": "mochila de viagem masculina e feminina impermeavel e reforcada com compartimento para notebook",
+      "url": "https://shopee.com.br/product/1789754785/58209895415",
+      "affiliate_url": "https://s.shopee.com.br/4LJVNWSuva",
+      "category": "Solperk",
+      "bucket": "informatica",
+      "posted_ts": 1789996604,
+      "posted_at": "2026-09-21T13:16:44.297463+00:00",
+      "score": 138.9
+    },
+    {
       "key": "mercadolivre:MLB6512536586",
       "marketplace": "mercadolivre",
       "id": "MLB6512536586",
@@ -13957,49 +13999,7 @@
       "posted_ts": 1789255070,
       "posted_at": "2026-09-12T23:17:50.976190+00:00",
       "score": 114.27
-    },
-    {
-      "key": "shopee:23599241533",
-      "marketplace": "shopee",
-      "id": "23599241533",
-      "title": "Tênis Masculino Running Academia Esportivo Corrida Caminhada Anti Impacto Respirável Macio Ultra Leve",
-      "title_norm": "tenis masculino running academia esportivo corrida caminhada anti impacto respiravel macio ultra leve",
-      "url": "https://shopee.com.br/product/1638165366/23599241533",
-      "affiliate_url": "https://s.shopee.com.br/gQ0aG9CWh",
-      "category": "Evox Calçados e Acessórios LTDA",
-      "bucket": "calcados",
-      "posted_ts": 1789255006,
-      "posted_at": "2026-09-12T23:16:46.693761+00:00",
-      "score": 126.27
-    },
-    {
-      "key": "mercadolivre:MLB5909017866",
-      "marketplace": "mercadolivre",
-      "id": "MLB5909017866",
-      "title": "Blusa Camisa Feminina Proteção Solar Bike Jetski Pesca Praia Cor Branco Tamanho M",
-      "title_norm": "blusa camisa feminina protecao solar bike jetski pesca praia cor branco tamanho m",
-      "url": "https://www.mercadolivre.com.br/p/MLB61770185?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB61770185?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "category": "Moda Feminina",
-      "bucket": "moda_feminina",
-      "posted_ts": 1789254317,
-      "posted_at": "2026-09-12T23:05:17.769070+00:00",
-      "score": 88.0
-    },
-    {
-      "key": "mercadolivre:MLB6965031176",
-      "marketplace": "mercadolivre",
-      "id": "MLB6965031176",
-      "title": "Colete Academia Dry Fit Feminino Leve Cor Bordô Tamanho M",
-      "title_norm": "colete academia dry fit feminino leve cor bordo tamanho m",
-      "url": "https://www.mercadolivre.com.br/p/MLB73616358?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB73616358?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "category": "Moda Feminina",
-      "bucket": "moda_feminina",
-      "posted_ts": 1789254253,
-      "posted_at": "2026-09-12T23:04:13.759809+00:00",
-      "score": 105.86
     }
   ],
-  "updated_at": "2026-09-21T13:04:09.868099+00:00"
+  "updated_at": "2026-09-21T13:18:52.265266+00:00"
 }
