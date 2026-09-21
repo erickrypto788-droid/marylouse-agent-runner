@@ -1,6 +1,34 @@
 {
   "posts": [
     {
+      "key": "shopee:22392685500",
+      "marketplace": "shopee",
+      "id": "22392685500",
+      "title": "Carregador iPhone Turbo Tipo-C 20W + Cabo Lightining para IPhone Carga rápida",
+      "title_norm": "carregador iphone turbo tipo c 20w cabo lightining para iphone carga rapida",
+      "url": "https://shopee.com.br/product/390307022/22392685500",
+      "affiliate_url": "https://s.shopee.com.br/gQF4WK4Rx",
+      "category": "ZSZ_brasil",
+      "bucket": "celulares",
+      "posted_ts": 1789967882,
+      "posted_at": "2026-09-21T05:18:02.406097+00:00",
+      "score": 109.77
+    },
+    {
+      "key": "shopee:23399043568",
+      "marketplace": "shopee",
+      "id": "23399043568",
+      "title": "Fone Bluetooth Pro5 Premium | Imersão Total c Cancelamento Ruído Qualidade Superior p iPhoneAndroid",
+      "title_norm": "fone bluetooth pro5 premium imersao total c cancelamento ruido qualidade superior p iphoneandroid",
+      "url": "https://shopee.com.br/product/976285267/23399043568",
+      "affiliate_url": "https://s.shopee.com.br/80Cpo019uP",
+      "category": "TOP SELECAO",
+      "bucket": "celulares",
+      "posted_ts": 1789967814,
+      "posted_at": "2026-09-21T05:16:54.270630+00:00",
+      "score": 139.03
+    },
+    {
       "key": "mercadolivre:MLB4657112471",
       "marketplace": "mercadolivre",
       "id": "MLB4657112471",
@@ -13971,35 +13999,7 @@
       "posted_ts": 1789219005,
       "posted_at": "2026-09-12T13:16:45.167018+00:00",
       "score": 98.36
-    },
-    {
-      "key": "mercadolivre:MLB5152165069",
-      "marketplace": "mercadolivre",
-      "id": "MLB5152165069",
-      "title": "Modem Roteador Wifi Intelbras Wifiber 121ac Gpon",
-      "title_norm": "modem roteador wifi intelbras wifiber 121ac gpon",
-      "url": "https://www.mercadolivre.com.br/p/MLB16377075?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB16377075?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "category": "Informática",
-      "bucket": "informatica",
-      "posted_ts": 1789218237,
-      "posted_at": "2026-09-12T13:03:57.958355+00:00",
-      "score": 86.0
-    },
-    {
-      "key": "mercadolivre:MLB5275318454",
-      "marketplace": "mercadolivre",
-      "id": "MLB5275318454",
-      "title": "Roteador Wifi Mercusys Mw325r V2 300mbps",
-      "title_norm": "roteador wifi mercusys mw325r v2 300mbps",
-      "url": "https://www.mercadolivre.com.br/p/MLB36947670?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB36947670?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "category": "Informática",
-      "bucket": "informatica",
-      "posted_ts": 1789218168,
-      "posted_at": "2026-09-12T13:02:48.602573+00:00",
-      "score": 88.0
     }
   ],
-  "updated_at": "2026-09-21T05:03:53.328712+00:00"
+  "updated_at": "2026-09-21T05:18:02.406110+00:00"
 }
