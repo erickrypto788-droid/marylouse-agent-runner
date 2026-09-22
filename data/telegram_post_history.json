@@ -1,6 +1,48 @@
 {
   "posts": [
     {
+      "key": "shopee:19198016301",
+      "marketplace": "shopee",
+      "id": "19198016301",
+      "title": "Mochila Moda Laptop Viagem Escolar Resistente À água Executiva Notebook Impermeável",
+      "title_norm": "mochila moda laptop viagem escolar resistente a agua executiva notebook impermeavel",
+      "url": "https://shopee.com.br/product/222975446/19198016301",
+      "affiliate_url": "https://s.shopee.com.br/AUuCdxoQ5b",
+      "category": "Luxor Comercial",
+      "bucket": "informatica",
+      "posted_ts": 1790068829,
+      "posted_at": "2026-09-22T09:20:29.190367+00:00",
+      "score": 108.78
+    },
+    {
+      "key": "shopee:58255989668",
+      "marketplace": "shopee",
+      "id": "58255989668",
+      "title": "Bolsa De Moda Simples Ombro De Veludo Feminina Novo Estilo",
+      "title_norm": "bolsa de moda simples ombro de veludo feminina novo estilo",
+      "url": "https://shopee.com.br/product/1725099888/58255989668",
+      "affiliate_url": "https://s.shopee.com.br/70KKTWswd4",
+      "category": "hui3hui3",
+      "bucket": "bolsas",
+      "posted_ts": 1790068732,
+      "posted_at": "2026-09-22T09:18:52.326295+00:00",
+      "score": 118.26
+    },
+    {
+      "key": "shopee:23893335036",
+      "marketplace": "shopee",
+      "id": "23893335036",
+      "title": "JAMI JAMI Bolsa Mochila Feminina Grande De Ombro Com Alça Transversal De Couro PU TM9034",
+      "title_norm": "jami jami bolsa mochila feminina grande de ombro com alca transversal de couro pu tm9034",
+      "url": "https://shopee.com.br/product/452872883/23893335036",
+      "affiliate_url": "https://s.shopee.com.br/6AlDU00Rpx",
+      "category": "Jami Ling",
+      "bucket": "bolsas",
+      "posted_ts": 1790068608,
+      "posted_at": "2026-09-22T09:16:48.334081+00:00",
+      "score": 120.76
+    },
+    {
       "key": "shopee:23693223002",
       "marketplace": "shopee",
       "id": "23693223002",
@@ -13957,49 +13999,7 @@
       "posted_ts": 1789323466,
       "posted_at": "2026-09-13T18:17:46.761375+00:00",
       "score": 99.63
-    },
-    {
-      "key": "shopee:58254166972",
-      "marketplace": "shopee",
-      "id": "58254166972",
-      "title": "Blusa Antonella Plus Size G1 e G2 Cropped Halter Frente Única Top das Blogueiras Zero Transparência Frente Dupla",
-      "title_norm": "blusa antonella plus size g1 e g2 cropped halter frente unica top das blogueiras zero transparencia frente dupla",
-      "url": "https://shopee.com.br/product/1651898003/58254166972",
-      "affiliate_url": "https://s.shopee.com.br/qjSVhQuDT",
-      "category": "MILARA MODA FEMININA",
-      "bucket": "moda_feminina",
-      "posted_ts": 1789323402,
-      "posted_at": "2026-09-13T18:16:42.759502+00:00",
-      "score": 108.45
-    },
-    {
-      "key": "mercadolivre:MLB5331790354",
-      "marketplace": "mercadolivre",
-      "id": "MLB5331790354",
-      "title": "Air fryer Br House Fritadeira ELETRICA AIR FRYER Air Fryer Family preto",
-      "title_norm": "air fryer br house fritadeira eletrica air fryer air fryer family preto",
-      "url": "https://www.mercadolivre.com.br/p/MLB45458466?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB45458466?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "category": "Casa e Cozinha",
-      "bucket": "casa_cozinha",
-      "posted_ts": 1789322714,
-      "posted_at": "2026-09-13T18:05:14.543490+00:00",
-      "score": 113.0
-    },
-    {
-      "key": "mercadolivre:MLB5428097608",
-      "marketplace": "mercadolivre",
-      "id": "MLB5428097608",
-      "title": "Rack Para Sala De Estar Rack Para Tv C/ Prateleira Flex Cor Off-white",
-      "title_norm": "rack para sala de estar rack para tv c prateleira flex cor off white",
-      "url": "https://www.mercadolivre.com.br/p/MLB39369998?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB39369998?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "category": "Casa e Cozinha",
-      "bucket": "casa_e_cozinha",
-      "posted_ts": 1789322650,
-      "posted_at": "2026-09-13T18:04:10.559324+00:00",
-      "score": 127.76
     }
   ],
-  "updated_at": "2026-09-22T08:21:23.321240+00:00"
+  "updated_at": "2026-09-22T09:20:29.190377+00:00"
 }
