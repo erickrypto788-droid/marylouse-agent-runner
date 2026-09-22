@@ -1,6 +1,34 @@
 {
   "posts": [
     {
+      "key": "shopee:23497904418",
+      "marketplace": "shopee",
+      "id": "23497904418",
+      "title": "Mochila de Ombro Transversal Compacta Unilateral USB Trava de Código Resistente água",
+      "title_norm": "mochila de ombro transversal compacta unilateral usb trava de codigo resistente agua",
+      "url": "https://shopee.com.br/product/392260640/23497904418",
+      "affiliate_url": "https://s.shopee.com.br/AAHMJTVfOz",
+      "category": "Good Vibes Moment Variedade Mochila",
+      "bucket": "bolsas",
+      "posted_ts": 1790072277,
+      "posted_at": "2026-09-22T10:17:57.656671+00:00",
+      "score": 108.34
+    },
+    {
+      "key": "shopee:18350470458",
+      "marketplace": "shopee",
+      "id": "18350470458",
+      "title": "Mochila Bolsa Reforçada Notebook Resistente Trabalho Faculdade Coreana",
+      "title_norm": "mochila bolsa reforcada notebook resistente trabalho faculdade coreana",
+      "url": "https://shopee.com.br/product/752743341/18350470458",
+      "affiliate_url": "https://s.shopee.com.br/6AlAxQscOS",
+      "category": "Fenix Abdon",
+      "bucket": "informatica",
+      "posted_ts": 1790072210,
+      "posted_at": "2026-09-22T10:16:50.547205+00:00",
+      "score": 120.64
+    },
+    {
       "key": "shopee:19198016301",
       "marketplace": "shopee",
       "id": "19198016301",
@@ -13971,35 +13999,7 @@
       "posted_ts": 1789327012,
       "posted_at": "2026-09-13T19:16:52.726953+00:00",
       "score": 125.18
-    },
-    {
-      "key": "shopee:18997669654",
-      "marketplace": "shopee",
-      "id": "18997669654",
-      "title": "Conjunto na Alfaiataria Calça  Pantalona + Colete Social Escritório Plus SIze",
-      "title_norm": "conjunto na alfaiataria calca pantalona colete social escritorio plus size",
-      "url": "https://shopee.com.br/product/1239041434/18997669654",
-      "affiliate_url": "https://s.shopee.com.br/AAH8MBQXPc",
-      "category": "Elizye Delicato",
-      "bucket": "elizye_delicato",
-      "posted_ts": 1789323535,
-      "posted_at": "2026-09-13T18:18:55.837054+00:00",
-      "score": 97.35
-    },
-    {
-      "key": "shopee:58204912754",
-      "marketplace": "shopee",
-      "id": "58204912754",
-      "title": "Meia Calça Fina7D ANTICELULITE Fio  70 Plus Size – Veste do 36 ao 54 | Conforto e Alta Elasticidade",
-      "title_norm": "meia calca fina7d anticelulite fio 70 plus size veste do 36 ao 54 conforto e alta elasticidade",
-      "url": "https://shopee.com.br/product/204026219/58204912754",
-      "affiliate_url": "https://s.shopee.com.br/2VrhMKGdNn",
-      "category": "Brenda  Acessórios",
-      "bucket": "brenda_acessorios",
-      "posted_ts": 1789323466,
-      "posted_at": "2026-09-13T18:17:46.761375+00:00",
-      "score": 99.63
     }
   ],
-  "updated_at": "2026-09-22T09:20:29.190377+00:00"
+  "updated_at": "2026-09-22T10:17:57.656682+00:00"
 }
