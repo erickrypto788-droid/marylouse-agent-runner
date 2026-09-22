@@ -1,6 +1,20 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB7263958974",
+      "marketplace": "mercadolivre",
+      "id": "MLB7263958974",
+      "title": "Fralda Geriatrica Prevent Care Tamanho FRALDA GERIATRICA PREVENT CARE XG C/46",
+      "title_norm": "fralda geriatrica prevent care tamanho fralda geriatrica prevent care xg c 46",
+      "url": "https://www.mercadolivre.com.br/p/MLB75636681?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB75636681?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Mãe e Bebê",
+      "bucket": "fraldas",
+      "posted_ts": 1790110964,
+      "posted_at": "2026-09-22T21:02:44.692353+00:00",
+      "score": 114.0
+    },
+    {
       "key": "shopee:58202199882",
       "marketplace": "shopee",
       "id": "58202199882",
@@ -13985,21 +13999,7 @@
       "posted_ts": 1789356014,
       "posted_at": "2026-09-14T03:20:14.262515+00:00",
       "score": 106.93
-    },
-    {
-      "key": "shopee:50602409494",
-      "marketplace": "shopee",
-      "id": "50602409494",
-      "title": "Balança Corporal Transparente Quadrada Digital Até 180kg Com Vidro Temperado Premium - OliverHome",
-      "title_norm": "balanca corporal transparente quadrada digital ate 180kg com vidro temperado premium oliverhome",
-      "url": "https://shopee.com.br/product/1227023039/50602409494",
-      "affiliate_url": "https://s.shopee.com.br/7fZo6v0Ya2",
-      "category": "Dona Cor",
-      "bucket": "dona_cor",
-      "posted_ts": 1789355950,
-      "posted_at": "2026-09-14T03:19:10.157205+00:00",
-      "score": 114.51
     }
   ],
-  "updated_at": "2026-09-22T20:21:42.718328+00:00"
+  "updated_at": "2026-09-22T21:02:44.692365+00:00"
 }
