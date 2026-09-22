@@ -1,6 +1,62 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB4623864041",
+      "marketplace": "mercadolivre",
+      "id": "MLB4623864041",
+      "title": "Condicionador Infantil 250ml Buba Care",
+      "title_norm": "condicionador infantil 250ml buba care",
+      "url": "https://www.mercadolivre.com.br/p/MLB29684586?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB29684586?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Beleza",
+      "bucket": "beleza",
+      "posted_ts": 1790057499,
+      "posted_at": "2026-09-22T06:11:39.414604+00:00",
+      "score": 88.0
+    },
+    {
+      "key": "mercadolivre:MLB6302363224",
+      "marketplace": "mercadolivre",
+      "id": "MLB6302363224",
+      "title": "35 Escova Dental + 35 Porta Escova Dental + 35 Creme Dental Sortidas",
+      "title_norm": "35 escova dental 35 porta escova dental 35 creme dental sortidas",
+      "url": "https://www.mercadolivre.com.br/p/MLB65932271?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB65932271?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Supermercados",
+      "bucket": "supermercados",
+      "posted_ts": 1790057435,
+      "posted_at": "2026-09-22T06:10:35.292311+00:00",
+      "score": 89.0
+    },
+    {
+      "key": "mercadolivre:MLB5709004240",
+      "marketplace": "mercadolivre",
+      "id": "MLB5709004240",
+      "title": "Detergente Sabão Lava Louça Pastilha + Lava Máquina Unik",
+      "title_norm": "detergente sabao lava louca pastilha lava maquina unik",
+      "url": "https://www.mercadolivre.com.br/p/MLB56414429?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB56414429?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Supermercados",
+      "bucket": "supermercado",
+      "posted_ts": 1790057371,
+      "posted_at": "2026-09-22T06:09:31.116957+00:00",
+      "score": 118.39
+    },
+    {
+      "key": "mercadolivre:MLB6428938830",
+      "marketplace": "mercadolivre",
+      "id": "MLB6428938830",
+      "title": "Fralda Pampers Supersec M 30 Unidades",
+      "title_norm": "fralda pampers supersec m 30 unidades",
+      "url": "https://www.mercadolivre.com.br/p/MLB36175310?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB36175310?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Mãe e Bebê",
+      "bucket": "fraldas",
+      "posted_ts": 1790057235,
+      "posted_at": "2026-09-22T06:07:15.441870+00:00",
+      "score": 130.0
+    },
+    {
       "key": "shopee:22593481622",
       "marketplace": "shopee",
       "id": "22593481622",
@@ -13943,63 +13999,7 @@
       "posted_ts": 1789312607,
       "posted_at": "2026-09-13T15:16:47.672524+00:00",
       "score": 103.28
-    },
-    {
-      "key": "shopee:26444120861",
-      "marketplace": "shopee",
-      "id": "26444120861",
-      "title": "Substrato Pronto 10L | Turfa + Perlita + Casca de Arroz Carbonizada | FERTBAC",
-      "title_norm": "substrato pronto 10l turfa perlita casca de arroz carbonizada fertbac",
-      "url": "https://shopee.com.br/product/1117805599/26444120861",
-      "affiliate_url": "https://s.shopee.com.br/8V8uEs5ygf",
-      "category": "Fert Decor LTDA",
-      "bucket": "fert_decor_ltda",
-      "posted_ts": 1789309265,
-      "posted_at": "2026-09-13T14:21:05.547983+00:00",
-      "score": 83.88
-    },
-    {
-      "key": "shopee:46415239166",
-      "marketplace": "shopee",
-      "id": "46415239166",
-      "title": "Chocolate Café Italle Chocolate Gourmet Chocolate em Pó 1kg Achocolatado Italle",
-      "title_norm": "chocolate cafe italle chocolate gourmet chocolate em po 1kg achocolatado italle",
-      "url": "https://shopee.com.br/product/334540655/46415239166",
-      "affiliate_url": "https://s.shopee.com.br/9Ki1EOybxc",
-      "category": "Café Italle",
-      "bucket": "cafe_italle",
-      "posted_ts": 1789309201,
-      "posted_at": "2026-09-13T14:20:01.412523+00:00",
-      "score": 107.34
-    },
-    {
-      "key": "shopee:58250951914",
-      "marketplace": "shopee",
-      "id": "58250951914",
-      "title": "Spray de Óleo para Cozinha Vidro 200ml Borrifador Azeite Vinagre Air Fryer Oferta",
-      "title_norm": "spray de oleo para cozinha vidro 200ml borrifador azeite vinagre air fryer oferta",
-      "url": "https://shopee.com.br/product/1673235663/58250951914",
-      "affiliate_url": "https://s.shopee.com.br/6q0erHWRD4",
-      "category": "3MAX16888",
-      "bucket": "casa_cozinha",
-      "posted_ts": 1789309137,
-      "posted_at": "2026-09-13T14:18:57.314292+00:00",
-      "score": 116.46
-    },
-    {
-      "key": "shopee:22893392542",
-      "marketplace": "shopee",
-      "id": "22893392542",
-      "title": "Filtro Coador De Café Inox 103 - Com Pegador em Silicone - Peneira Aço Reutilizável  - CH",
-      "title_norm": "filtro coador de cafe inox 103 com pegador em silicone peneira aco reutilizavel ch",
-      "url": "https://shopee.com.br/product/1367299138/22893392542",
-      "affiliate_url": "https://s.shopee.com.br/3qN4gIF9LL",
-      "category": "Chaicommerce",
-      "bucket": "chaicommerce",
-      "posted_ts": 1789309073,
-      "posted_at": "2026-09-13T14:17:53.023310+00:00",
-      "score": 132.01
     }
   ],
-  "updated_at": "2026-09-22T05:21:00.954803+00:00"
+  "updated_at": "2026-09-22T06:11:39.414619+00:00"
 }
