@@ -1,6 +1,34 @@
 {
   "posts": [
     {
+      "key": "shopee:22397427145",
+      "marketplace": "shopee",
+      "id": "22397427145",
+      "title": "Mixer Elétrico Triturador Desmontável Liquidificador Chef MIX-20 3 em 1 200W  Preto Elgin - 127V",
+      "title_norm": "mixer eletrico triturador desmontavel liquidificador chef mix 20 3 em 1 200w preto elgin 127v",
+      "url": "https://shopee.com.br/product/898761179/22397427145",
+      "affiliate_url": "https://s.shopee.com.br/8plzSLJJfh",
+      "category": "Rep Store",
+      "bucket": "casa_cozinha",
+      "posted_ts": 1790111884,
+      "posted_at": "2026-09-22T21:18:04.031427+00:00",
+      "score": 114.8
+    },
+    {
+      "key": "shopee:23392997431",
+      "marketplace": "shopee",
+      "id": "23392997431",
+      "title": "Aspirador de Pó Doméstico 3 em 1 Sem Fio Limpeza Sucção USB",
+      "title_norm": "aspirador de po domestico 3 em 1 sem fio limpeza succao usb",
+      "url": "https://shopee.com.br/product/1232649860/23392997431",
+      "affiliate_url": "https://s.shopee.com.br/6L4dDSw39L",
+      "category": "SLX 123",
+      "bucket": "casa_cozinha",
+      "posted_ts": 1790111808,
+      "posted_at": "2026-09-22T21:16:48.771319+00:00",
+      "score": 117.12
+    },
+    {
       "key": "mercadolivre:MLB7263958974",
       "marketplace": "mercadolivre",
       "id": "MLB7263958974",
@@ -13971,35 +13999,7 @@
       "posted_ts": 1789359413,
       "posted_at": "2026-09-14T04:16:53.552317+00:00",
       "score": 136.98
-    },
-    {
-      "key": "shopee:58211580864",
-      "marketplace": "shopee",
-      "id": "58211580864",
-      "title": "Medidor de Pressão Digital de Braço Automático Monitor Cardíaco LCD com USB",
-      "title_norm": "medidor de pressao digital de braco automatico monitor cardiaco lcd com usb",
-      "url": "https://shopee.com.br/product/1555286005/58211580864",
-      "affiliate_url": "https://s.shopee.com.br/9Ki25yh576",
-      "category": "JEHNNY.STORE",
-      "bucket": "jehnny_store",
-      "posted_ts": 1789356078,
-      "posted_at": "2026-09-14T03:21:18.314628+00:00",
-      "score": 103.21
-    },
-    {
-      "key": "shopee:43754234043",
-      "marketplace": "shopee",
-      "id": "43754234043",
-      "title": "Medidor Pressão Digital De Pulso Com Voz Monitor Inteligente Aparelho De Pressão",
-      "title_norm": "medidor pressao digital de pulso com voz monitor inteligente aparelho de pressao",
-      "url": "https://shopee.com.br/product/1259086167/43754234043",
-      "affiliate_url": "https://s.shopee.com.br/60Ra7qtlsG",
-      "category": "Cherrygo1.br",
-      "bucket": "cherrygo1_br",
-      "posted_ts": 1789356014,
-      "posted_at": "2026-09-14T03:20:14.262515+00:00",
-      "score": 106.93
     }
   ],
-  "updated_at": "2026-09-22T21:02:44.692365+00:00"
+  "updated_at": "2026-09-22T21:18:04.031441+00:00"
 }
