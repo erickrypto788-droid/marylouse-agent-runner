@@ -1,6 +1,48 @@
 {
   "posts": [
     {
+      "key": "shopee:52054081014",
+      "marketplace": "shopee",
+      "id": "52054081014",
+      "title": "Principia Protetor Solar PS-05 Cor 3.0 c/ 14,5% Mix de Filtros UV + 5% Niacinamida FPS 70 - 30ml",
+      "title_norm": "principia protetor solar ps 05 cor 3 0 c 14 5 mix de filtros uv 5 niacinamida fps 70 30ml",
+      "url": "https://shopee.com.br/product/373261329/52054081014",
+      "affiliate_url": "https://s.shopee.com.br/50ZGxQVYSP",
+      "category": "Principia Skincare",
+      "bucket": "principia_skincare",
+      "posted_ts": 1790119146,
+      "posted_at": "2026-09-22T23:19:06.415033+00:00",
+      "score": 51.02
+    },
+    {
+      "key": "shopee:9086098749",
+      "marketplace": "shopee",
+      "id": "9086098749",
+      "title": "Kit Com 2 Protetor Solar blackout buba Carro Infantil Para Carro Buba Com Ventosa Protege Sol",
+      "title_norm": "kit com 2 protetor solar blackout buba carro infantil para carro buba com ventosa protege sol",
+      "url": "https://shopee.com.br/product/387937307/9086098749",
+      "affiliate_url": "https://s.shopee.com.br/30oCZkdAWD",
+      "category": "Ana Baby Store",
+      "bucket": "ana_baby_store",
+      "posted_ts": 1790119078,
+      "posted_at": "2026-09-22T23:17:58.416256+00:00",
+      "score": 62.9
+    },
+    {
+      "key": "shopee:22894246754",
+      "marketplace": "shopee",
+      "id": "22894246754",
+      "title": "BODY SPLASH MASCULINO BARBARIUS 200ML - PRIMACIAL PERFUME AMADEIRADO",
+      "title_norm": "body splash masculino barbarius 200ml primacial perfume amadeirado",
+      "url": "https://shopee.com.br/product/1295467768/22894246754",
+      "affiliate_url": "https://s.shopee.com.br/AUuDZe8s9i",
+      "category": "Primacial",
+      "bucket": "beleza",
+      "posted_ts": 1790119014,
+      "posted_at": "2026-09-22T23:16:54.458130+00:00",
+      "score": 130.28
+    },
+    {
       "key": "shopee:22397427145",
       "marketplace": "shopee",
       "id": "22397427145",
@@ -13957,49 +13999,7 @@
       "posted_ts": 1789359613,
       "posted_at": "2026-09-14T04:20:13.572952+00:00",
       "score": 106.14
-    },
-    {
-      "key": "shopee:23098678815",
-      "marketplace": "shopee",
-      "id": "23098678815",
-      "title": "Berço Portátil Moises Co-bed Com Balanço Mosquiteiro e Cesto Regulagem de Altura",
-      "title_norm": "berco portatil moises co bed com balanco mosquiteiro e cesto regulagem de altura",
-      "url": "https://shopee.com.br/product/1506260557/23098678815",
-      "affiliate_url": "https://s.shopee.com.br/8KpUyFnPFV",
-      "category": "Amor de Mãe Shop",
-      "bucket": "amor_de_mae_shop",
-      "posted_ts": 1789359549,
-      "posted_at": "2026-09-14T04:19:09.472759+00:00",
-      "score": 106.54
-    },
-    {
-      "key": "shopee:18097691606",
-      "marketplace": "shopee",
-      "id": "18097691606",
-      "title": "Toalha de Banho Fralda Soft com Capuz para Bebê  OU  Kit com 2, 3 ou 4 Toalhas",
-      "title_norm": "toalha de banho fralda soft com capuz para bebe ou kit com 2 3 ou 4 toalhas",
-      "url": "https://shopee.com.br/product/378105312/18097691606",
-      "affiliate_url": "https://s.shopee.com.br/2LYFAP6v9v",
-      "category": "EssencialBaby",
-      "bucket": "fraldas",
-      "posted_ts": 1789359485,
-      "posted_at": "2026-09-14T04:18:05.221786+00:00",
-      "score": 124.93
-    },
-    {
-      "key": "shopee:19699242179",
-      "marketplace": "shopee",
-      "id": "19699242179",
-      "title": "Kit C/12 Lenço Umedecido Lara Baby Premium 100 Unidades Total 1200",
-      "title_norm": "kit c 12 lenco umedecido lara baby premium 100 unidades total 1200",
-      "url": "https://shopee.com.br/product/1230684338/19699242179",
-      "affiliate_url": "https://s.shopee.com.br/4qFcnorrXC",
-      "category": "Novva BPO ",
-      "bucket": "fraldas",
-      "posted_ts": 1789359413,
-      "posted_at": "2026-09-14T04:16:53.552317+00:00",
-      "score": 136.98
     }
   ],
-  "updated_at": "2026-09-22T21:18:04.031441+00:00"
+  "updated_at": "2026-09-22T23:19:06.415048+00:00"
 }
