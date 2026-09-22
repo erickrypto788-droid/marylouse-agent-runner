@@ -1,6 +1,20 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB6555948878",
+      "marketplace": "mercadolivre",
+      "id": "MLB6555948878",
+      "title": "Ração Gato Castrado Frango +12 Anos 500g Premier",
+      "title_norm": "racao gato castrado frango 12 anos 500g premier",
+      "url": "https://www.mercadolivre.com.br/p/MLB22588098?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB22588098?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Pet",
+      "bucket": "pet",
+      "posted_ts": 1790042561,
+      "posted_at": "2026-09-22T02:02:41.152248+00:00",
+      "score": 129.0
+    },
+    {
       "key": "shopee:22494456015",
       "marketplace": "shopee",
       "id": "22494456015",
@@ -13985,21 +13999,7 @@
       "posted_ts": 1789294671,
       "posted_at": "2026-09-13T10:17:51.916121+00:00",
       "score": 121.0
-    },
-    {
-      "key": "shopee:23497594302",
-      "marketplace": "shopee",
-      "id": "23497594302",
-      "title": "ROMANTIC CROWN Mochla de Viagem MascuIino e Feminina ImpermeaveI Reforçada Executiva para Notebook",
-      "title_norm": "romantic crown mochla de viagem mascuiino e feminina impermeavei reforcada executiva para notebook",
-      "url": "https://shopee.com.br/product/1198407784/23497594302",
-      "affiliate_url": "https://s.shopee.com.br/5VVIOsYX52",
-      "category": "Romantic Crown.02",
-      "bucket": "informatica",
-      "posted_ts": 1789294607,
-      "posted_at": "2026-09-13T10:16:47.892372+00:00",
-      "score": 146.0
     }
   ],
-  "updated_at": "2026-09-22T01:21:40.902542+00:00"
+  "updated_at": "2026-09-22T02:02:41.152259+00:00"
 }

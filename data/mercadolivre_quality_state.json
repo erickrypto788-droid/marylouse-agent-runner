@@ -1,6 +1,21 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB6555948878",
+      "product_id": "MLB6555948878",
+      "catalog_product_id": "MLB22588098",
+      "item_id": "MLB6555948878",
+      "url": "https://www.mercadolivre.com.br/p/MLB22588098?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB22588098?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "racao gato castrado frango 12 anos 500g premier",
+      "title": "Ração Gato Castrado Frango +12 Anos 500g Premier",
+      "category": "Pet",
+      "price": 41.36,
+      "score": 129.0,
+      "posted_ts": 1790042561,
+      "posted_at": "2026-09-22T02:02:41.163826+00:00"
+    },
+    {
       "key": "mercadolivre:MLB5653921846",
       "product_id": "MLB5653921846",
       "catalog_product_id": "MLB45798788",
@@ -749,67 +764,7 @@
       "score": 114.0,
       "posted_ts": 1789870024,
       "posted_at": "2026-09-20T02:07:04.230428+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB7513707254",
-      "product_id": "MLB7513707254",
-      "catalog_product_id": "MLB57578486",
-      "item_id": "MLB7513707254",
-      "url": "https://www.mercadolivre.com.br/p/MLB57578486?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB57578486?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "mini impressora niimbot b1 etiqueta bluetooth cor prateado impressora etiquetas adesivas",
-      "title": "Mini Impressora Niimbot B1 etiqueta Bluetooth Cor Prateado impressora etiquetas adesivas",
-      "category": "Informática",
-      "price": 209.99,
-      "score": 88.0,
-      "posted_ts": 1789862563,
-      "posted_at": "2026-09-20T00:02:43.957397+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB7262266178",
-      "product_id": "MLB7262266178",
-      "catalog_product_id": "MLB23076913",
-      "item_id": "MLB7262266178",
-      "url": "https://www.mercadolivre.com.br/p/MLB23076913?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB23076913?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "monitor bebe wifi infravermelho vision noctura intercom inteligente",
-      "title": "Monitor Bebe Wifi Infravermelho Vision Noctura Intercom Inteligente",
-      "category": "Informática",
-      "price": 1198.9,
-      "score": 86.0,
-      "posted_ts": 1789859028,
-      "posted_at": "2026-09-19T23:03:48.737016+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB7591842132",
-      "product_id": "MLB7591842132",
-      "catalog_product_id": "MLB75043054",
-      "item_id": "MLB7591842132",
-      "url": "https://www.mercadolivre.com.br/p/MLB75043054?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB75043054?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "azul escova limpeza mamadeira kit para limpeza de mamadeira kit limpeza mamadeira viagem kit limpeza bebe escova mamadeira portatil escova bico canudo secador higiene infantil acessorios bebe",
-      "title": "Azul escova limpeza mamadeira kit para limpeza de mamadeira kit limpeza mamadeira viagem kit limpeza bebe escova mamadeira portatil escova bico canudo secador higiene infantil acessorios bebe",
-      "category": "Mãe e Bebê",
-      "price": 53.2,
-      "score": 191.5,
-      "posted_ts": 1789858964,
-      "posted_at": "2026-09-19T23:02:44.795753+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB7526272332",
-      "product_id": "MLB7526272332",
-      "catalog_product_id": "MLB75981402",
-      "item_id": "MLB7526272332",
-      "url": "https://www.mercadolivre.com.br/p/MLB75981402?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB75981402?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "racao gato castrado life special robustus 10 1kg",
-      "title": "Ração Gato Castrado Life Special Robustus 10,1kg",
-      "category": "Pet",
-      "price": 171.5,
-      "score": 113.0,
-      "posted_ts": 1789855371,
-      "posted_at": "2026-09-19T22:02:51.616691+00:00"
     }
   ],
-  "updated_at": "2026-09-21T21:03:30.617075+00:00"
+  "updated_at": "2026-09-22T02:02:41.163836+00:00"
 }
