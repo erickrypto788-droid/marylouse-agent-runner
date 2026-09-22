@@ -1,6 +1,36 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB5026800457",
+      "product_id": "MLB5026800457",
+      "catalog_product_id": "MLB20643765",
+      "item_id": "MLB5026800457",
+      "url": "https://www.mercadolivre.com.br/p/MLB20643765?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB20643765?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "carregador iphone tipo usb c cor branco",
+      "title": "Carregador iPhone Tipo USB-C Cor Branco",
+      "category": "Informática",
+      "price": 349.99,
+      "score": 127.0,
+      "posted_ts": 1790096803,
+      "posted_at": "2026-09-22T17:06:43.829285+00:00"
+    },
+    {
+      "key": "mercadolivre:MLB5129093619",
+      "product_id": "MLB5129093619",
+      "catalog_product_id": "MLB78262248",
+      "item_id": "MLB5129093619",
+      "url": "https://www.mercadolivre.com.br/p/MLB78262248?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB78262248?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "celulares smartphones 6 78 polegadas celular 5g 16gb 512gb camera hd 32mpx 18mpx bateria 5000mah celular baratinho",
+      "title": "celulares smartphones 6.78 Polegadas celular 5g 16GB+512GB Câmera HD 32Mpx+18Mpx Bateria 5000mAh celular baratinho",
+      "category": "Informática",
+      "price": 1660.0,
+      "score": 183.67,
+      "posted_ts": 1790096739,
+      "posted_at": "2026-09-22T17:05:39.739330+00:00"
+    },
+    {
       "key": "mercadolivre:MLB4139317597",
       "product_id": "MLB4139317597",
       "catalog_product_id": "MLB23649057",
@@ -734,22 +764,7 @@
       "score": 89.0,
       "posted_ts": 1789931206,
       "posted_at": "2026-09-20T19:06:46.285422+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB7304556746",
-      "product_id": "MLB7304556746",
-      "catalog_product_id": "MLB76168566",
-      "item_id": "MLB7304556746",
-      "url": "https://www.mercadolivre.com.br/p/MLB76168566?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB76168566?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "comedouro dispenser de racao automatico 8l para caes gatos cor comedouro automatico vermelho",
-      "title": "Comedouro Dispenser De Ração Automático 8l Para Cães Gatos Cor Comedouro Automatico Vermelho",
-      "category": "Pet",
-      "price": 43.25,
-      "score": 137.82,
-      "posted_ts": 1789916563,
-      "posted_at": "2026-09-20T15:02:43.701275+00:00"
     }
   ],
-  "updated_at": "2026-09-22T14:04:21.961573+00:00"
+  "updated_at": "2026-09-22T17:06:43.829301+00:00"
 }

@@ -1,6 +1,34 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB5026800457",
+      "marketplace": "mercadolivre",
+      "id": "MLB5026800457",
+      "title": "Carregador iPhone Tipo USB-C Cor Branco",
+      "title_norm": "carregador iphone tipo usb c cor branco",
+      "url": "https://www.mercadolivre.com.br/p/MLB20643765?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB20643765?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Informática",
+      "bucket": "celulares",
+      "posted_ts": 1790096803,
+      "posted_at": "2026-09-22T17:06:43.816235+00:00",
+      "score": 127.0
+    },
+    {
+      "key": "mercadolivre:MLB5129093619",
+      "marketplace": "mercadolivre",
+      "id": "MLB5129093619",
+      "title": "celulares smartphones 6.78 Polegadas celular 5g 16GB+512GB Câmera HD 32Mpx+18Mpx Bateria 5000mAh celular baratinho",
+      "title_norm": "celulares smartphones 6 78 polegadas celular 5g 16gb 512gb camera hd 32mpx 18mpx bateria 5000mah celular baratinho",
+      "url": "https://www.mercadolivre.com.br/p/MLB78262248?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB78262248?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Informática",
+      "bucket": "celulares",
+      "posted_ts": 1790096739,
+      "posted_at": "2026-09-22T17:05:39.725770+00:00",
+      "score": 183.67
+    },
+    {
       "key": "shopee:20699680911",
       "marketplace": "shopee",
       "id": "20699680911",
@@ -13971,35 +13999,7 @@
       "posted_ts": 1789348604,
       "posted_at": "2026-09-14T01:16:44.065014+00:00",
       "score": 133.02
-    },
-    {
-      "key": "mercadolivre:MLB4455480129",
-      "marketplace": "mercadolivre",
-      "id": "MLB4455480129",
-      "title": "Soundbar Samsung Hw-b400f + Soundbar Hw-b400f Preto",
-      "title_norm": "soundbar samsung hw b400f soundbar hw b400f preto",
-      "url": "https://www.mercadolivre.com.br/p/MLB65128982?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB65128982?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "category": "Informática",
-      "bucket": "informatica",
-      "posted_ts": 1789347905,
-      "posted_at": "2026-09-14T01:05:05.388376+00:00",
-      "score": 107.0
-    },
-    {
-      "key": "mercadolivre:MLB5175098567",
-      "marketplace": "mercadolivre",
-      "id": "MLB5175098567",
-      "title": "Soundbar Samsung Hw-b450f + Soundbar Hw-b400f",
-      "title_norm": "soundbar samsung hw b450f soundbar hw b400f",
-      "url": "https://www.mercadolivre.com.br/p/MLB65128496?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB65128496?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "category": "Informática",
-      "bucket": "informatica",
-      "posted_ts": 1789347841,
-      "posted_at": "2026-09-14T01:04:01.230279+00:00",
-      "score": 127.0
     }
   ],
-  "updated_at": "2026-09-22T16:21:39.247056+00:00"
+  "updated_at": "2026-09-22T17:06:43.816257+00:00"
 }
