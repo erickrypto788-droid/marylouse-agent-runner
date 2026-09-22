@@ -1,6 +1,20 @@
 {
   "posts": [
     {
+      "key": "shopee:58203391596",
+      "marketplace": "shopee",
+      "id": "58203391596",
+      "title": "pronta entrega envio imediato Sandália Saltinho 4 cm Tira de Strass Brilho  Calce Fácil Confortável elegante dia a dia",
+      "title_norm": "pronta entrega envio imediato sandalia saltinho 4 cm tira de strass brilho calce facil confortavel elegante dia a dia",
+      "url": "https://shopee.com.br/product/1715117439/58203391596",
+      "affiliate_url": "https://s.shopee.com.br/3LR2lzzkMc",
+      "category": "finnaflorr",
+      "bucket": "calcados",
+      "posted_ts": 1790104611,
+      "posted_at": "2026-09-22T19:16:51.674540+00:00",
+      "score": 121.85
+    },
+    {
       "key": "shopee:23899355811",
       "marketplace": "shopee",
       "id": "23899355811",
@@ -13985,21 +13999,7 @@
       "posted_ts": 1789352225,
       "posted_at": "2026-09-14T02:17:05.848109+00:00",
       "score": 119.27
-    },
-    {
-      "key": "mercadolivre:MLB4657112471",
-      "marketplace": "mercadolivre",
-      "id": "MLB4657112471",
-      "title": "Smartphone Xiaomi Redmi 15c 256gb Global Azul",
-      "title_norm": "smartphone xiaomi redmi 15c 256gb global azul",
-      "url": "https://www.mercadolivre.com.br/p/MLB61421090?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB61421090?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "category": "Informática",
-      "bucket": "celulares",
-      "posted_ts": 1789351428,
-      "posted_at": "2026-09-14T02:03:48.052772+00:00",
-      "score": 127.0
     }
   ],
-  "updated_at": "2026-09-22T18:17:56.147055+00:00"
+  "updated_at": "2026-09-22T19:16:51.674556+00:00"
 }
