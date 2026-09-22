@@ -1,6 +1,34 @@
 {
   "posts": [
     {
+      "key": "shopee:23899355811",
+      "marketplace": "shopee",
+      "id": "23899355811",
+      "title": "Tênis Sapatênis Masculino Knit Confortável Respirável Estilso Fácil de Calçar Resistente para o Dia a Dia",
+      "title_norm": "tenis sapatenis masculino knit confortavel respiravel estilso facil de calcar resistente para o dia a dia",
+      "url": "https://shopee.com.br/product/954342223/23899355811",
+      "affiliate_url": "https://s.shopee.com.br/9AOpebSMJj",
+      "category": "DN VAREJO",
+      "bucket": "calcados",
+      "posted_ts": 1790101076,
+      "posted_at": "2026-09-22T18:17:56.147037+00:00",
+      "score": 104.71
+    },
+    {
+      "key": "shopee:23099420919",
+      "marketplace": "shopee",
+      "id": "23099420919",
+      "title": "Chinelo Masculino Original Reserva Casual Moderno Confortável Macio Praia Piscina Dia a Dia",
+      "title_norm": "chinelo masculino original reserva casual moderno confortavel macio praia piscina dia a dia",
+      "url": "https://shopee.com.br/product/1588591365/23099420919",
+      "affiliate_url": "https://s.shopee.com.br/5VVXHrkiWa",
+      "category": "Base Calçados",
+      "bucket": "calcados",
+      "posted_ts": 1790101011,
+      "posted_at": "2026-09-22T18:16:51.957038+00:00",
+      "score": 111.03
+    },
+    {
       "key": "shopee:23893178722",
       "marketplace": "shopee",
       "id": "23893178722",
@@ -13971,35 +13999,7 @@
       "posted_ts": 1789351428,
       "posted_at": "2026-09-14T02:03:48.052772+00:00",
       "score": 127.0
-    },
-    {
-      "key": "mercadolivre:MLB3900697873",
-      "marketplace": "mercadolivre",
-      "id": "MLB3900697873",
-      "title": "Smartphone Xiaomi Redmi 13 Cor Azul-marinho",
-      "title_norm": "smartphone xiaomi redmi 13 cor azul marinho",
-      "url": "https://www.mercadolivre.com.br/p/MLB41629336?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB41629336?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "category": "Informática",
-      "bucket": "celulares",
-      "posted_ts": 1789351363,
-      "posted_at": "2026-09-14T02:02:43.903656+00:00",
-      "score": 127.0
-    },
-    {
-      "key": "shopee:23999650738",
-      "marketplace": "shopee",
-      "id": "23999650738",
-      "title": "Kit de Halteres E Anilhas de 15kg com Kettlebell 6 em 1 Barras de Musculação Academia Treino Fitness Peso Shape Puxador",
-      "title_norm": "kit de halteres e anilhas de 15kg com kettlebell 6 em 1 barras de musculacao academia treino fitness peso shape puxador",
-      "url": "https://shopee.com.br/product/1877736039/23999650738",
-      "affiliate_url": "https://s.shopee.com.br/AAH8xFiCpI",
-      "category": "KVC Store",
-      "bucket": "kvc_store",
-      "posted_ts": 1789348864,
-      "posted_at": "2026-09-14T01:21:04.202956+00:00",
-      "score": 113.38
     }
   ],
-  "updated_at": "2026-09-22T17:20:05.294878+00:00"
+  "updated_at": "2026-09-22T18:17:56.147055+00:00"
 }
