@@ -1,6 +1,36 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB5064332025",
+      "product_id": "MLB5064332025",
+      "catalog_product_id": "MLB38338089",
+      "item_id": "MLB5064332025",
+      "url": "https://www.mercadolivre.com.br/p/MLB38338089?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB38338089?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "racao gato castrado cat excellence salmao 10 1 kg",
+      "title": "Ração Gato Castrado Cat Excellence Salmão 10,1 Kg",
+      "category": "Pet",
+      "price": 173.0,
+      "score": 113.0,
+      "posted_ts": 1790107466,
+      "posted_at": "2026-09-22T20:04:26.974365+00:00"
+    },
+    {
+      "key": "mercadolivre:MLB4694661245",
+      "product_id": "MLB4694661245",
+      "catalog_product_id": "MLB67529462",
+      "item_id": "MLB4694661245",
+      "url": "https://www.mercadolivre.com.br/p/MLB67529462?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB67529462?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "comedouro elevado duplo racao gato porcelana acrilico 190ml porta racao gato comedouro rosa",
+      "title": "Comedouro Elevado Duplo Ração Gato Porcelana Acrilico 190ml Porta Racao Gato Comedouro Rosa",
+      "category": "Pet",
+      "price": 47.64,
+      "score": 149.85,
+      "posted_ts": 1790107396,
+      "posted_at": "2026-09-22T20:03:16.309593+00:00"
+    },
+    {
       "key": "mercadolivre:MLB5026800457",
       "product_id": "MLB5026800457",
       "catalog_product_id": "MLB20643765",
@@ -749,22 +779,7 @@
       "score": 183.81,
       "posted_ts": 1789934694,
       "posted_at": "2026-09-20T20:04:54.271943+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB6712285126",
-      "product_id": "MLB6712285126",
-      "catalog_product_id": "MLB68578906",
-      "item_id": "MLB6712285126",
-      "url": "https://www.mercadolivre.com.br/p/MLB68578906?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB68578906?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "bepantol baby pomada assadura bebe hipoalergenica 200g",
-      "title": "Bepantol Baby Pomada Assadura Bebe Hipoalergênica, 200g",
-      "category": "Mãe e Bebê",
-      "price": 119.9,
-      "score": 89.0,
-      "posted_ts": 1789931206,
-      "posted_at": "2026-09-20T19:06:46.285422+00:00"
     }
   ],
-  "updated_at": "2026-09-22T17:06:43.829301+00:00"
+  "updated_at": "2026-09-22T20:04:26.974377+00:00"
 }
