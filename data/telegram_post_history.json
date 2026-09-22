@@ -1,6 +1,62 @@
 {
   "posts": [
     {
+      "key": "shopee:23893178722",
+      "marketplace": "shopee",
+      "id": "23893178722",
+      "title": "Blusa Manga Princesa Curta Elegante Tendência Moda Maior Plus Size Botão Moda Casual Tecido Dunas",
+      "title_norm": "blusa manga princesa curta elegante tendencia moda maior plus size botao moda casual tecido dunas",
+      "url": "https://shopee.com.br/product/1117831638/23893178722",
+      "affiliate_url": "https://s.shopee.com.br/AUuBudoBC2",
+      "category": "Maria Gabi Moda",
+      "bucket": "calcados",
+      "posted_ts": 1790097605,
+      "posted_at": "2026-09-22T17:20:05.294863+00:00",
+      "score": 59.14
+    },
+    {
+      "key": "shopee:58209169630",
+      "marketplace": "shopee",
+      "id": "58209169630",
+      "title": "Vestido Plus Size   Elegante/ Festa Tecido Duna",
+      "title_norm": "vestido plus size elegante festa tecido duna",
+      "url": "https://shopee.com.br/product/1591632520/58209169630",
+      "affiliate_url": "https://s.shopee.com.br/LnR4FSOak",
+      "category": "Smille Fashion",
+      "bucket": "moda_feminina",
+      "posted_ts": 1790097541,
+      "posted_at": "2026-09-22T17:19:01.136874+00:00",
+      "score": 90.49
+    },
+    {
+      "key": "shopee:22294543781",
+      "marketplace": "shopee",
+      "id": "22294543781",
+      "title": "Calça Legging Bolha PLUS SIZE disfarça celulite",
+      "title_norm": "calca legging bolha plus size disfarca celulite",
+      "url": "https://shopee.com.br/product/1645205717/22294543781",
+      "affiliate_url": "https://s.shopee.com.br/8fSYzZ5XX3",
+      "category": "amfitbr",
+      "bucket": "moda_feminina",
+      "posted_ts": 1790097476,
+      "posted_at": "2026-09-22T17:17:56.909780+00:00",
+      "score": 92.31
+    },
+    {
+      "key": "shopee:21299595782",
+      "marketplace": "shopee",
+      "id": "21299595782",
+      "title": "Conjunto Blusa Regata e Short Saia com Cinto Plus Size Conjuntinho Feminino",
+      "title_norm": "conjunto blusa regata e short saia com cinto plus size conjuntinho feminino",
+      "url": "https://shopee.com.br/product/1060705182/21299595782",
+      "affiliate_url": "https://s.shopee.com.br/8KphKewQah",
+      "category": "Sublime Modas",
+      "bucket": "sublime_modas",
+      "posted_ts": 1790097412,
+      "posted_at": "2026-09-22T17:16:52.812213+00:00",
+      "score": 112.19
+    },
+    {
       "key": "mercadolivre:MLB5026800457",
       "marketplace": "mercadolivre",
       "id": "MLB5026800457",
@@ -13943,63 +13999,7 @@
       "posted_ts": 1789348864,
       "posted_at": "2026-09-14T01:21:04.202956+00:00",
       "score": 113.38
-    },
-    {
-      "key": "shopee:44553066762",
-      "marketplace": "shopee",
-      "id": "44553066762",
-      "title": "Regata Feminina Blusa Alça fina Poliamida Premium Fitness Casual com Bojo Removível",
-      "title_norm": "regata feminina blusa alca fina poliamida premium fitness casual com bojo removivel",
-      "url": "https://shopee.com.br/product/1147903950/44553066762",
-      "affiliate_url": "https://s.shopee.com.br/5fojaz801p",
-      "category": "LADY.KA",
-      "bucket": "moda_feminina",
-      "posted_ts": 1789348800,
-      "posted_at": "2026-09-14T01:20:00.193966+00:00",
-      "score": 119.18
-    },
-    {
-      "key": "shopee:58201698463",
-      "marketplace": "shopee",
-      "id": "58201698463",
-      "title": "WATERSY Garrafa térmica em aço inoxidável 304 500ml Academia Garrafa térmica Copo de água Aço Inox Garrafa Portátil",
-      "title_norm": "watersy garrafa termica em aco inoxidavel 304 500ml academia garrafa termica copo de agua aco inox garrafa portatil",
-      "url": "https://shopee.com.br/product/472202601/58201698463",
-      "affiliate_url": "https://s.shopee.com.br/2BErQYYjDZ",
-      "category": "Watersy Oficial",
-      "bucket": "watersy_oficial",
-      "posted_ts": 1789348736,
-      "posted_at": "2026-09-14T01:18:56.195505+00:00",
-      "score": 120.96
-    },
-    {
-      "key": "shopee:20399323829",
-      "marketplace": "shopee",
-      "id": "20399323829",
-      "title": "Creatina Monohidratado Pura 600g Dark Lab - 100% Pura",
-      "title_norm": "creatina monohidratado pura 600g dark lab 100 pura",
-      "url": "https://shopee.com.br/product/1242044379/20399323829",
-      "affiliate_url": "https://s.shopee.com.br/80CeNHGvBt",
-      "category": "Dark Lab Oficial",
-      "bucket": "dark_lab_oficial",
-      "posted_ts": 1789348668,
-      "posted_at": "2026-09-14T01:17:48.523573+00:00",
-      "score": 121.54
-    },
-    {
-      "key": "shopee:21798597083",
-      "marketplace": "shopee",
-      "id": "21798597083",
-      "title": "Patinete infantil 3 rodas com led ajustável scooter dobrável menino menina",
-      "title_norm": "patinete infantil 3 rodas com led ajustavel scooter dobravel menino menina",
-      "url": "https://shopee.com.br/product/325008325/21798597083",
-      "affiliate_url": "https://s.shopee.com.br/9fKsMKxNRr",
-      "category": "Na Web Group De Marcas",
-      "bucket": "na_web_group_de_marcas",
-      "posted_ts": 1789348604,
-      "posted_at": "2026-09-14T01:16:44.065014+00:00",
-      "score": 133.02
     }
   ],
-  "updated_at": "2026-09-22T17:06:43.816257+00:00"
+  "updated_at": "2026-09-22T17:20:05.294878+00:00"
 }
