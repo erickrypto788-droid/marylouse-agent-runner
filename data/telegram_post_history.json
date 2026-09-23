@@ -1,6 +1,34 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB4473728059",
+      "marketplace": "mercadolivre",
+      "id": "MLB4473728059",
+      "title": "Perfume Feminino Grace Gourmand",
+      "title_norm": "perfume feminino grace gourmand",
+      "url": "https://www.mercadolivre.com.br/p/MLB23181287?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB23181287?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Beleza",
+      "bucket": "beleza",
+      "posted_ts": 1790139835,
+      "posted_at": "2026-09-23T05:03:55.611371+00:00",
+      "score": 113.0
+    },
+    {
+      "key": "mercadolivre:MLB4960906681",
+      "marketplace": "mercadolivre",
+      "id": "MLB4960906681",
+      "title": "Perfume Feminino Ragazza 100ml",
+      "title_norm": "perfume feminino ragazza 100ml",
+      "url": "https://www.mercadolivre.com.br/p/MLB75851983?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB75851983?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Beleza",
+      "bucket": "beleza",
+      "posted_ts": 1790139765,
+      "posted_at": "2026-09-23T05:02:45.519608+00:00",
+      "score": 124.76
+    },
+    {
       "key": "shopee:18297665963",
       "marketplace": "shopee",
       "id": "18297665963",
@@ -13971,35 +13999,7 @@
       "posted_ts": 1789381018,
       "posted_at": "2026-09-14T10:16:58.132810+00:00",
       "score": 72.11
-    },
-    {
-      "key": "shopee:58263186665",
-      "marketplace": "shopee",
-      "id": "58263186665",
-      "title": "Caixa Branca Cacau Chocolate Doce Show Ao Leite Brigadeiro Beijinho Presente Festa Decoração",
-      "title_norm": "caixa branca cacau chocolate doce show ao leite brigadeiro beijinho presente festa decoracao",
-      "url": "https://shopee.com.br/product/1524663951/58263186665",
-      "affiliate_url": "https://s.shopee.com.br/BTnZqhoxZ",
-      "category": "Alcance Tudo",
-      "bucket": "pet",
-      "posted_ts": 1789377687,
-      "posted_at": "2026-09-14T09:21:27.228815+00:00",
-      "score": 80.61
-    },
-    {
-      "key": "shopee:58201129693",
-      "marketplace": "shopee",
-      "id": "58201129693",
-      "title": "Kit Chocolates Dolce Gusto 40 cápsulas - KitKat, Alpino, Galak e Nesquik",
-      "title_norm": "kit chocolates dolce gusto 40 capsulas kitkat alpino galak e nesquik",
-      "url": "https://shopee.com.br/product/1531827759/58201129693",
-      "affiliate_url": "https://s.shopee.com.br/1qc1YubTZn",
-      "category": "Nescafé Dolce Gusto",
-      "bucket": "nescafe_dolce_gusto",
-      "posted_ts": 1789377623,
-      "posted_at": "2026-09-14T09:20:23.164188+00:00",
-      "score": 80.72
     }
   ],
-  "updated_at": "2026-09-23T04:21:14.587657+00:00"
+  "updated_at": "2026-09-23T05:03:55.611395+00:00"
 }
