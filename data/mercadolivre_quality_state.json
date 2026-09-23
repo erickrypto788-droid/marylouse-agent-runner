@@ -1,6 +1,36 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB5227390237",
+      "product_id": "MLB5227390237",
+      "catalog_product_id": "MLB74370100",
+      "item_id": "MLB5227390237",
+      "url": "https://www.mercadolivre.com.br/p/MLB74370100?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB74370100?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "chapinha cabelo profissional 450f slim bivolt titanium",
+      "title": "Chapinha Cabelo Profissional 450f Slim Bivolt, Titanium",
+      "category": "Beleza",
+      "price": 64.99,
+      "score": 113.0,
+      "posted_ts": 1790201019,
+      "posted_at": "2026-09-23T22:03:39.541051+00:00"
+    },
+    {
+      "key": "mercadolivre:MLB5209308351",
+      "product_id": "MLB5209308351",
+      "catalog_product_id": "MLB77039877",
+      "item_id": "MLB5209308351",
+      "url": "https://www.mercadolivre.com.br/p/MLB77039877?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB77039877?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "perfume feminino olympia",
+      "title": "Perfume Feminino Olympia",
+      "category": "Beleza",
+      "price": 184.0,
+      "score": 188.67,
+      "posted_ts": 1790200955,
+      "posted_at": "2026-09-23T22:02:35.507374+00:00"
+    },
+    {
       "key": "mercadolivre:MLB4027376697",
       "product_id": "MLB4027376697",
       "catalog_product_id": "MLB33652298",
@@ -644,37 +674,7 @@
       "score": 129.0,
       "posted_ts": 1790042561,
       "posted_at": "2026-09-22T02:02:41.163826+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB5653921846",
-      "product_id": "MLB5653921846",
-      "catalog_product_id": "MLB45798788",
-      "item_id": "MLB5653921846",
-      "url": "https://www.mercadolivre.com.br/p/MLB45798788?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB45798788?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "monitor 24 polegadas 1920x1200px vga hdmi 5ms rapido",
-      "title": "Monitor 24 Polegadas 1920x1200px Vga Hdmi 5ms Rápido",
-      "category": "Informática",
-      "price": 565.0,
-      "score": 86.0,
-      "posted_ts": 1790024610,
-      "posted_at": "2026-09-21T21:03:30.617065+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB7634976292",
-      "product_id": "MLB7634976292",
-      "catalog_product_id": "MLB78811728",
-      "item_id": "MLB7634976292",
-      "url": "https://www.mercadolivre.com.br/p/MLB78811728?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB78811728?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "impressora bluetooth mini impressora de etiquetas impressora bluetooth termica mini impressora portatil bluetooth para etiquetas codigos de barras impressao nitida conexao rapida facil de usar",
-      "title": "Impressora Bluetooth Mini Impressora De Etiquetas Impressora Bluetooth Termica Mini Impressora Portatil Bluetooth Para Etiquetas Codigos De Barras Impressao Nítida Conexao Rapida Facil De Usar",
-      "category": "Informática",
-      "price": 103.74,
-      "score": 166.9,
-      "posted_ts": 1790024546,
-      "posted_at": "2026-09-21T21:02:26.619233+00:00"
     }
   ],
-  "updated_at": "2026-09-23T19:03:22.671066+00:00"
+  "updated_at": "2026-09-23T22:03:39.541061+00:00"
 }
