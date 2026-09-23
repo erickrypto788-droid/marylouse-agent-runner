@@ -1,6 +1,21 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB5269183055",
+      "product_id": "MLB5269183055",
+      "catalog_product_id": "MLB50957106",
+      "item_id": "MLB5269183055",
+      "url": "https://www.mercadolivre.com.br/p/MLB50957106?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB50957106?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "ssd nvme kingston 1tb nv3 m 2 2280 pcie 4 0 nf e cor ssd nvme m 2 2280 kingston 1tb",
+      "title": "Ssd Nvme Kingston 1tb Nv3 M.2 2280 Pcie 4.0 Nf-e Cor Ssd Nvme M.2 2280 Kingston 1tb",
+      "category": "Informática",
+      "price": 1019.0,
+      "score": 111.0,
+      "posted_ts": 1790150609,
+      "posted_at": "2026-09-23T08:03:29.362209+00:00"
+    },
+    {
       "key": "mercadolivre:MLB6149389980",
       "product_id": "MLB6149389980",
       "catalog_product_id": "MLB37180897",
@@ -704,22 +719,7 @@
       "score": 86.0,
       "posted_ts": 1789981453,
       "posted_at": "2026-09-21T09:04:13.203883+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB7639579812",
-      "product_id": "MLB7639579812",
-      "catalog_product_id": "MLB66541712",
-      "item_id": "MLB7639579812",
-      "url": "https://www.mercadolivre.com.br/p/MLB66541712?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB66541712?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "racao gato estimacat premium adulto sabor carne 15kg",
-      "title": "Ração Gato Estimacat Premium Adulto Sabor Carne 15kg",
-      "category": "Pet",
-      "price": 267.25,
-      "score": 154.83,
-      "posted_ts": 1789977756,
-      "posted_at": "2026-09-21T08:02:36.928212+00:00"
     }
   ],
-  "updated_at": "2026-09-23T07:04:16.095127+00:00"
+  "updated_at": "2026-09-23T08:03:29.362224+00:00"
 }
