@@ -1,6 +1,21 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB4485123021",
+      "product_id": "MLB4485123021",
+      "catalog_product_id": "MLB48332910",
+      "item_id": "MLB4485123021",
+      "url": "https://www.mercadolivre.com.br/p/MLB48332910?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB48332910?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "redmi note 14s cor preto",
+      "title": "Redmi Note 14s Cor Preto",
+      "category": "Informática",
+      "price": 1699.0,
+      "score": 108.0,
+      "posted_ts": 1790157768,
+      "posted_at": "2026-09-23T10:02:48.295898+00:00"
+    },
+    {
       "key": "mercadolivre:MLB7226098148",
       "product_id": "MLB7226098148",
       "catalog_product_id": "MLB68059006",
@@ -719,22 +734,7 @@
       "score": 110.48,
       "posted_ts": 1789984984,
       "posted_at": "2026-09-21T10:03:04.210162+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB4110890853",
-      "product_id": "MLB4110890853",
-      "catalog_product_id": "MLB51893724",
-      "item_id": "MLB4110890853",
-      "url": "https://www.mercadolivre.com.br/p/MLB51893724?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB51893724?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "baba eletronica hellobaby hb66pro monitor bebe 3 2 white",
-      "title": "Babá Eletrônica Hellobaby Hb66pro Monitor Bebê 3.2 White",
-      "category": "Informática",
-      "price": 393.99,
-      "score": 86.0,
-      "posted_ts": 1789981453,
-      "posted_at": "2026-09-21T09:04:13.203883+00:00"
     }
   ],
-  "updated_at": "2026-09-23T09:02:34.233876+00:00"
+  "updated_at": "2026-09-23T10:02:48.295934+00:00"
 }
