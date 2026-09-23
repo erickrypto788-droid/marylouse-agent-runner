@@ -1,6 +1,34 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB5175310031",
+      "marketplace": "mercadolivre",
+      "id": "MLB5175310031",
+      "title": "Jogo Panelas Vermelho Alumínio Fundido Usinado Javaliam16a24",
+      "title_norm": "jogo panelas vermelho aluminio fundido usinado javaliam16a24",
+      "url": "https://www.mercadolivre.com.br/p/MLB32583536?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB32583536?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Casa e Cozinha",
+      "bucket": "casa_cozinha",
+      "posted_ts": 1790129085,
+      "posted_at": "2026-09-23T02:04:45.016197+00:00",
+      "score": 111.0
+    },
+    {
+      "key": "mercadolivre:MLB6582939094",
+      "marketplace": "mercadolivre",
+      "id": "MLB6582939094",
+      "title": "Jogo Panelas Grandes Conjunto Caçarolas 40cm - 2 Un Alumínio",
+      "title_norm": "jogo panelas grandes conjunto cacarolas 40cm 2 un aluminio",
+      "url": "https://www.mercadolivre.com.br/p/MLB67685128?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB67685128?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Casa e Cozinha",
+      "bucket": "casa_cozinha",
+      "posted_ts": 1790129015,
+      "posted_at": "2026-09-23T02:03:35.571164+00:00",
+      "score": 111.0
+    },
+    {
       "key": "shopee:23294140229",
       "marketplace": "shopee",
       "id": "23294140229",
@@ -13971,35 +13999,7 @@
       "posted_ts": 1789370495,
       "posted_at": "2026-09-14T07:21:35.228263+00:00",
       "score": 60.72
-    },
-    {
-      "key": "shopee:58262813590",
-      "marketplace": "shopee",
-      "id": "58262813590",
-      "title": "500 adesivo rolo laço rosa etiquetas de vedação para agendas envelopes embalagens presente",
-      "title_norm": "500 adesivo rolo laco rosa etiquetas de vedacao para agendas envelopes embalagens presente",
-      "url": "https://shopee.com.br/product/1815858792/58262813590",
-      "affiliate_url": "https://s.shopee.com.br/3VkFPjdUZZ",
-      "category": "cartyncomercio",
-      "bucket": "cartyncomercio",
-      "posted_ts": 1789370427,
-      "posted_at": "2026-09-14T07:20:27.816215+00:00",
-      "score": 61.18
-    },
-    {
-      "key": "shopee:26612320899",
-      "marketplace": "shopee",
-      "id": "26612320899",
-      "title": "[Hot]50 Pçs/Lote Caneta Material De Escrita Forma Osso Canetas Esferográficas Novo Presente Criativo Escolar-Tinta Azul",
-      "title_norm": "hot 50 pcs lote caneta material de escrita forma osso canetas esferograficas novo presente criativo escolar tinta azul",
-      "url": "https://shopee.com.br/product/207172882/26612320899",
-      "affiliate_url": "https://s.shopee.com.br/4qFd0BPTlM",
-      "category": "yzuzza03.br",
-      "bucket": "yzuzza03_br",
-      "posted_ts": 1789370356,
-      "posted_at": "2026-09-14T07:19:16.884556+00:00",
-      "score": 91.33
     }
   ],
-  "updated_at": "2026-09-23T01:21:08.110365+00:00"
+  "updated_at": "2026-09-23T02:04:45.016213+00:00"
 }

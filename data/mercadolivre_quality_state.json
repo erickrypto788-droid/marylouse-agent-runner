@@ -1,6 +1,36 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB5175310031",
+      "product_id": "MLB5175310031",
+      "catalog_product_id": "MLB32583536",
+      "item_id": "MLB5175310031",
+      "url": "https://www.mercadolivre.com.br/p/MLB32583536?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB32583536?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "jogo panelas vermelho aluminio fundido usinado javaliam16a24",
+      "title": "Jogo Panelas Vermelho Alumínio Fundido Usinado Javaliam16a24",
+      "category": "Casa e Cozinha",
+      "price": 519.0,
+      "score": 111.0,
+      "posted_ts": 1790129085,
+      "posted_at": "2026-09-23T02:04:45.026842+00:00"
+    },
+    {
+      "key": "mercadolivre:MLB6582939094",
+      "product_id": "MLB6582939094",
+      "catalog_product_id": "MLB67685128",
+      "item_id": "MLB6582939094",
+      "url": "https://www.mercadolivre.com.br/p/MLB67685128?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB67685128?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "jogo panelas grandes conjunto cacarolas 40cm 2 un aluminio",
+      "title": "Jogo Panelas Grandes Conjunto Caçarolas 40cm - 2 Un Alumínio",
+      "category": "Casa e Cozinha",
+      "price": 397.61,
+      "score": 111.0,
+      "posted_ts": 1790129015,
+      "posted_at": "2026-09-23T02:03:35.582179+00:00"
+    },
+    {
       "key": "mercadolivre:MLB4795061481",
       "product_id": "MLB4795061481",
       "catalog_product_id": "MLB74011420",
@@ -706,5 +736,5 @@
       "posted_at": "2026-09-21T03:02:24.983923+00:00"
     }
   ],
-  "updated_at": "2026-09-23T01:06:10.915365+00:00"
+  "updated_at": "2026-09-23T02:04:45.026853+00:00"
 }
