@@ -1,6 +1,34 @@
 {
   "posts": [
     {
+      "key": "shopee:58201437353",
+      "marketplace": "shopee",
+      "id": "58201437353",
+      "title": "Sandália Rasteira Feminina Gladiadora Tachas Douradas e Prateadas Tira no Tornozelo Fivela Ajustável",
+      "title_norm": "sandalia rasteira feminina gladiadora tachas douradas e prateadas tira no tornozelo fivela ajustavel",
+      "url": "https://shopee.com.br/product/1679452756/58201437353",
+      "affiliate_url": "https://s.shopee.com.br/4LJbIFUuDK",
+      "category": "rosecoutinhoshoes",
+      "bucket": "calcados",
+      "posted_ts": 1790176681,
+      "posted_at": "2026-09-23T15:18:01.360471+00:00",
+      "score": 105.59
+    },
+    {
+      "key": "shopee:22598314126",
+      "marketplace": "shopee",
+      "id": "22598314126",
+      "title": "Bota Botina Feminina Texana Macia Country Cowboy Bico Quadrado Confortável Zíper E Rebites",
+      "title_norm": "bota botina feminina texana macia country cowboy bico quadrado confortavel ziper e rebites",
+      "url": "https://shopee.com.br/product/1318905115/22598314126",
+      "affiliate_url": "https://s.shopee.com.br/LnSWtkCYW",
+      "category": "F_MIX",
+      "bucket": "calcados",
+      "posted_ts": 1790176617,
+      "posted_at": "2026-09-23T15:16:57.335735+00:00",
+      "score": 108.07
+    },
+    {
       "key": "shopee:19198992648",
       "marketplace": "shopee",
       "id": "19198992648",
@@ -13971,35 +13999,7 @@
       "posted_ts": 1789417011,
       "posted_at": "2026-09-14T20:16:51.176507+00:00",
       "score": 119.43
-    },
-    {
-      "key": "shopee:44809598956",
-      "marketplace": "shopee",
-      "id": "44809598956",
-      "title": "10 Calcinhas Infantil Menina Moça Confortáveis Forro de Algodão Dia a Dia Promoção",
-      "title_norm": "10 calcinhas infantil menina moca confortaveis forro de algodao dia a dia promocao",
-      "url": "https://shopee.com.br/product/264196168/44809598956",
-      "affiliate_url": "https://s.shopee.com.br/9zxigqB3GG",
-      "category": "Fashion_4you",
-      "bucket": "fashion_4you",
-      "posted_ts": 1789413788,
-      "posted_at": "2026-09-14T19:23:08.632164+00:00",
-      "score": 104.34
-    },
-    {
-      "key": "shopee:22296700159",
-      "marketplace": "shopee",
-      "id": "22296700159",
-      "title": "Conjunto Infantil Menino Verão – Camiseta + Bermuda Confortável | 1 a 12 Anos",
-      "title_norm": "conjunto infantil menino verao camiseta bermuda confortavel 1 a 12 anos",
-      "url": "https://shopee.com.br/product/877098627/22296700159",
-      "affiliate_url": "https://s.shopee.com.br/1gIalWtpzS",
-      "category": "Moda Kids Virtual",
-      "bucket": "moda_kids_virtual",
-      "posted_ts": 1789413724,
-      "posted_at": "2026-09-14T19:22:04.625681+00:00",
-      "score": 110.6
     }
   ],
-  "updated_at": "2026-09-23T14:18:00.237631+00:00"
+  "updated_at": "2026-09-23T15:18:01.360486+00:00"
 }
