@@ -1,6 +1,48 @@
 {
   "posts": [
     {
+      "key": "shopee:22894748403",
+      "marketplace": "shopee",
+      "id": "22894748403",
+      "title": "Kit 3 Blusas Feminina Plus Size Gola V Básica Casual - H00",
+      "title_norm": "kit 3 blusas feminina plus size gola v basica casual h00",
+      "url": "https://shopee.com.br/product/441206033/22894748403",
+      "affiliate_url": "https://s.shopee.com.br/3LR2dlUAum",
+      "category": "Uzze.K ",
+      "bucket": "uzze_k",
+      "posted_ts": 1790169549,
+      "posted_at": "2026-09-23T13:19:09.410698+00:00",
+      "score": 72.18
+    },
+    {
+      "key": "shopee:23095731294",
+      "marketplace": "shopee",
+      "id": "23095731294",
+      "title": "Kit 2 Calças Legging Plus Size Suplex Cintura Alta Costura Reforça G1 G2 G3",
+      "title_norm": "kit 2 calcas legging plus size suplex cintura alta costura reforca g1 g2 g3",
+      "url": "https://shopee.com.br/product/356848158/23095731294",
+      "affiliate_url": "https://s.shopee.com.br/4Vd1MJYIjF",
+      "category": "TGL CONFECÇÕES ",
+      "bucket": "moda_feminina",
+      "posted_ts": 1790169485,
+      "posted_at": "2026-09-23T13:18:05.341037+00:00",
+      "score": 74.13
+    },
+    {
+      "key": "shopee:58252602711",
+      "marketplace": "shopee",
+      "id": "58252602711",
+      "title": "Blazer Feminino Plus Size Alfaiataria Sem Forro | Botões Dourados Decorativos | Elegante para , Escritório e Casual",
+      "title_norm": "blazer feminino plus size alfaiataria sem forro botoes dourados decorativos elegante para escritorio e casual",
+      "url": "https://shopee.com.br/product/1076483874/58252602711",
+      "affiliate_url": "https://s.shopee.com.br/qjizZZ3qV",
+      "category": "fannie modas feminina",
+      "bucket": "fannie_modas_feminina",
+      "posted_ts": 1790169415,
+      "posted_at": "2026-09-23T13:16:55.810081+00:00",
+      "score": 103.17
+    },
+    {
       "key": "mercadolivre:MLB4622967263",
       "marketplace": "mercadolivre",
       "id": "MLB4622967263",
@@ -13957,49 +13999,7 @@
       "posted_ts": 1789413475,
       "posted_at": "2026-09-14T19:17:55.356409+00:00",
       "score": 113.66
-    },
-    {
-      "key": "mercadolivre:MLB7350489426",
-      "marketplace": "mercadolivre",
-      "id": "MLB7350489426",
-      "title": "Xiaomi Redmi Note 15",
-      "title_norm": "xiaomi redmi note 15",
-      "url": "https://www.mercadolivre.com.br/p/MLB74419020?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB74419020?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "category": "Informática",
-      "bucket": "celulares",
-      "posted_ts": 1789412561,
-      "posted_at": "2026-09-14T19:02:41.535126+00:00",
-      "score": 124.0
-    },
-    {
-      "key": "shopee:9086098749",
-      "marketplace": "shopee",
-      "id": "9086098749",
-      "title": "Kit Com 2 Protetor Solar blackout buba Carro Infantil Para Carro Buba Com Ventosa Protege Sol",
-      "title_norm": "kit com 2 protetor solar blackout buba carro infantil para carro buba com ventosa protege sol",
-      "url": "https://shopee.com.br/product/387937307/9086098749",
-      "affiliate_url": "https://s.shopee.com.br/1qc0tkL9Fh",
-      "category": "Ana Baby Store",
-      "bucket": "ana_baby_store",
-      "posted_ts": 1789410087,
-      "posted_at": "2026-09-14T18:21:27.650407+00:00",
-      "score": 59.46
-    },
-    {
-      "key": "shopee:23099137392",
-      "marketplace": "shopee",
-      "id": "23099137392",
-      "title": "Protetor Solar Facial FPS 60 Antioleosidade com Base Efeito Matte Sunless 40g Envio Imediato",
-      "title_norm": "protetor solar facial fps 60 antioleosidade com base efeito matte sunless 40g envio imediato",
-      "url": "https://shopee.com.br/product/1533394801/23099137392",
-      "affiliate_url": "https://s.shopee.com.br/1VzAV8MPvf",
-      "category": "LaVitta Health",
-      "bucket": "lavitta_health",
-      "posted_ts": 1789410023,
-      "posted_at": "2026-09-14T18:20:23.239021+00:00",
-      "score": 94.18
     }
   ],
-  "updated_at": "2026-09-23T13:03:55.307914+00:00"
+  "updated_at": "2026-09-23T13:19:09.410712+00:00"
 }
