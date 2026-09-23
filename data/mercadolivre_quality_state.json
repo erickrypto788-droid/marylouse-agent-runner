@@ -1,6 +1,36 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB4040219599",
+      "product_id": "MLB4040219599",
+      "catalog_product_id": "MLB36244629",
+      "item_id": "MLB4040219599",
+      "url": "https://www.mercadolivre.com.br/p/MLB36244629?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB36244629?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "calca feminina tamanho m texx impermeavel com protecao conforto viagem moto motociclista",
+      "title": "Calça Feminina Tamanho M Texx Impermeável Com Proteção Conforto Viagem Moto Motociclista",
+      "category": "Moda Feminina",
+      "price": 399.0,
+      "score": 86.0,
+      "posted_ts": 1790186686,
+      "posted_at": "2026-09-23T18:04:46.109058+00:00"
+    },
+    {
+      "key": "mercadolivre:MLB7209542710",
+      "product_id": "MLB7209542710",
+      "catalog_product_id": "MLB69276346",
+      "item_id": "MLB7209542710",
+      "url": "https://www.mercadolivre.com.br/p/MLB69276346?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB69276346?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "calca legging fitness feminina ausare com protecao uv 50 para academia yoga e pilates",
+      "title": "Calça Legging Fitness Feminina Ausare com Proteção UV 50+ para Academia, Yoga e Pilates",
+      "category": "Moda Feminina",
+      "price": 78.9,
+      "score": 88.0,
+      "posted_ts": 1790186621,
+      "posted_at": "2026-09-23T18:03:41.987845+00:00"
+    },
+    {
       "key": "mercadolivre:MLB7673978062",
       "product_id": "MLB7673978062",
       "catalog_product_id": "MLB25330354",
@@ -646,5 +676,5 @@
       "posted_at": "2026-09-21T19:03:09.617526+00:00"
     }
   ],
-  "updated_at": "2026-09-23T17:09:13.974791+00:00"
+  "updated_at": "2026-09-23T18:04:46.109073+00:00"
 }
