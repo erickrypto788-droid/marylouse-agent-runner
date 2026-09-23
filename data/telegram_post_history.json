@@ -1,6 +1,34 @@
 {
   "posts": [
     {
+      "key": "shopee:19198992648",
+      "marketplace": "shopee",
+      "id": "19198992648",
+      "title": "Sapatenis Casual Masculino Sneaker Sola Alta Macio Chunky Confortável Estiloso Sola Oversize Lanç",
+      "title_norm": "sapatenis casual masculino sneaker sola alta macio chunky confortavel estiloso sola oversize lanc",
+      "url": "https://shopee.com.br/product/304755339/19198992648",
+      "affiliate_url": "https://s.shopee.com.br/5LC8PxyBLS",
+      "category": "Atria Shoes",
+      "bucket": "calcados",
+      "posted_ts": 1790173080,
+      "posted_at": "2026-09-23T14:18:00.237615+00:00",
+      "score": 109.02
+    },
+    {
+      "key": "shopee:58210080994",
+      "marketplace": "shopee",
+      "id": "58210080994",
+      "title": "Tênis Masculino Cadarço Elástico Sapatênis Meia Knit Couro Sintético Tecido",
+      "title_norm": "tenis masculino cadarco elastico sapatenis meia knit couro sintetico tecido",
+      "url": "https://shopee.com.br/product/1788702793/58210080994",
+      "affiliate_url": "https://s.shopee.com.br/6AlFPUv0eZ",
+      "category": "Shop da Ca",
+      "bucket": "calcados",
+      "posted_ts": 1790173010,
+      "posted_at": "2026-09-23T14:16:50.367115+00:00",
+      "score": 111.13
+    },
+    {
       "key": "mercadolivre:MLB6359500600",
       "marketplace": "mercadolivre",
       "id": "MLB6359500600",
@@ -13971,35 +13999,7 @@
       "posted_ts": 1789413724,
       "posted_at": "2026-09-14T19:22:04.625681+00:00",
       "score": 110.6
-    },
-    {
-      "key": "shopee:22293577075",
-      "marketplace": "shopee",
-      "id": "22293577075",
-      "title": "Kidstep Tenis Escolar Infantil Calce Fácil K Feminino Bordado Marinho com Pink",
-      "title_norm": "kidstep tenis escolar infantil calce facil k feminino bordado marinho com pink",
-      "url": "https://shopee.com.br/product/376576138/22293577075",
-      "affiliate_url": "https://s.shopee.com.br/6q0iBJFovo",
-      "category": "KidstepCalcados",
-      "bucket": "calcados",
-      "posted_ts": 1789413660,
-      "posted_at": "2026-09-14T19:21:00.386077+00:00",
-      "score": 110.63
-    },
-    {
-      "key": "shopee:18698032904",
-      "marketplace": "shopee",
-      "id": "18698032904",
-      "title": "Vestido Infantil Menina Princesa  Listrado Floral Barrado para Festas  Dia Das Crianças",
-      "title_norm": "vestido infantil menina princesa listrado floral barrado para festas dia das criancas",
-      "url": "https://shopee.com.br/product/615604454/18698032904",
-      "affiliate_url": "https://s.shopee.com.br/9peIUXKYQp",
-      "category": "Florenzza kids",
-      "bucket": "moda_feminina",
-      "posted_ts": 1789413539,
-      "posted_at": "2026-09-14T19:18:59.378362+00:00",
-      "score": 111.88
     }
   ],
-  "updated_at": "2026-09-23T14:03:04.415935+00:00"
+  "updated_at": "2026-09-23T14:18:00.237631+00:00"
 }
