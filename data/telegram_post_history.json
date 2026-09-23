@@ -1,6 +1,48 @@
 {
   "posts": [
     {
+      "key": "shopee:10648848842",
+      "marketplace": "shopee",
+      "id": "10648848842",
+      "title": "Mala Case Capa Bolsa Porta Case Notebook Slim 14,6/15,6 Alça Dupla Reforçada",
+      "title_norm": "mala case capa bolsa porta case notebook slim 14 6 15 6 alca dupla reforcada",
+      "url": "https://shopee.com.br/product/391712221/10648848842",
+      "affiliate_url": "https://s.shopee.com.br/3g3tpoZvU7",
+      "category": "Street Man",
+      "bucket": "informatica",
+      "posted_ts": 1790140734,
+      "posted_at": "2026-09-23T05:18:54.400528+00:00",
+      "score": 77.79
+    },
+    {
+      "key": "shopee:7895885450",
+      "marketplace": "shopee",
+      "id": "7895885450",
+      "title": "Bolsa Feminina Pequena De Lado Transversal Alça Corrente Lançamento",
+      "title_norm": "bolsa feminina pequena de lado transversal alca corrente lancamento",
+      "url": "https://shopee.com.br/product/310142566/7895885450",
+      "affiliate_url": "https://s.shopee.com.br/9peXB98Fzv",
+      "category": "Debora Ribeiro Bolsas Oficial",
+      "bucket": "bolsas",
+      "posted_ts": 1790140670,
+      "posted_at": "2026-09-23T05:17:50.302677+00:00",
+      "score": 101.27
+    },
+    {
+      "key": "shopee:23997726120",
+      "marketplace": "shopee",
+      "id": "23997726120",
+      "title": "ROMANTIC CROWN Mochila De Viagem Feminina Multifuncional Impermeável Reforçada Expansível para Trilha Esportiva",
+      "title_norm": "romantic crown mochila de viagem feminina multifuncional impermeavel reforcada expansivel para trilha esportiva",
+      "url": "https://shopee.com.br/product/1198407784/23997726120",
+      "affiliate_url": "https://s.shopee.com.br/W6s3zlyuA",
+      "category": "Romantic Crown.02",
+      "bucket": "bolsas",
+      "posted_ts": 1790140606,
+      "posted_at": "2026-09-23T05:16:46.300361+00:00",
+      "score": 118.68
+    },
+    {
       "key": "mercadolivre:MLB4473728059",
       "marketplace": "mercadolivre",
       "id": "MLB4473728059",
@@ -13957,49 +13999,7 @@
       "posted_ts": 1789383944,
       "posted_at": "2026-09-14T11:05:44.987306+00:00",
       "score": 113.0
-    },
-    {
-      "key": "mercadolivre:MLB3682242367",
-      "marketplace": "mercadolivre",
-      "id": "MLB3682242367",
-      "title": "Conjunto De Panelas Antiaderente 5pc Grafite - Panelux",
-      "title_norm": "conjunto de panelas antiaderente 5pc grafite panelux",
-      "url": "https://www.mercadolivre.com.br/p/MLB33380670?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB33380670?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "category": "Casa e Cozinha",
-      "bucket": "casa_cozinha",
-      "posted_ts": 1789383877,
-      "posted_at": "2026-09-14T11:04:37.079113+00:00",
-      "score": 113.0
-    },
-    {
-      "key": "shopee:58212496584",
-      "marketplace": "shopee",
-      "id": "58212496584",
-      "title": "Nintendo Switch 2 lcd 256gb novo",
-      "title_norm": "nintendo switch 2 lcd 256gb novo",
-      "url": "https://shopee.com.br/product/1470976304/58212496584",
-      "affiliate_url": "https://s.shopee.com.br/AAH9YLqKrx",
-      "category": "AmandaImports8",
-      "bucket": "amandaimports8",
-      "posted_ts": 1789381087,
-      "posted_at": "2026-09-14T10:18:07.952521+00:00",
-      "score": 32.82
-    },
-    {
-      "key": "shopee:47060418366",
-      "marketplace": "shopee",
-      "id": "47060418366",
-      "title": "Controle PS5 Sony Dualsense sem fio JoyStick - Midnight Black",
-      "title_norm": "controle ps5 sony dualsense sem fio joystick midnight black",
-      "url": "https://shopee.com.br/product/1343318906/47060418366",
-      "affiliate_url": "https://s.shopee.com.br/2BEs1eGSZH",
-      "category": "NegociuN",
-      "bucket": "negociun",
-      "posted_ts": 1789381018,
-      "posted_at": "2026-09-14T10:16:58.132810+00:00",
-      "score": 72.11
     }
   ],
-  "updated_at": "2026-09-23T05:03:55.611395+00:00"
+  "updated_at": "2026-09-23T05:18:54.400542+00:00"
 }
