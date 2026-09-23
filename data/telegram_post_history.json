@@ -1,6 +1,20 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB4027376697",
+      "marketplace": "mercadolivre",
+      "id": "MLB4027376697",
+      "title": "Jogo de Panelas Antiaderente 5 Peças Cereja com Revestimento Antiaderente",
+      "title_norm": "jogo de panelas antiaderente 5 pecas cereja com revestimento antiaderente",
+      "url": "https://www.mercadolivre.com.br/p/MLB33652298?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB33652298?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Casa e Cozinha",
+      "bucket": "casa_cozinha",
+      "posted_ts": 1790190202,
+      "posted_at": "2026-09-23T19:03:22.654943+00:00",
+      "score": 107.7
+    },
+    {
       "key": "shopee:23597915053",
       "marketplace": "shopee",
       "id": "23597915053",
@@ -13985,21 +13999,7 @@
       "posted_ts": 1789430555,
       "posted_at": "2026-09-15T00:02:35.376576+00:00",
       "score": 156.96
-    },
-    {
-      "key": "shopee:23693223002",
-      "marketplace": "shopee",
-      "id": "23693223002",
-      "title": "Toalha Umedecida Meu Bebê Ultra 500 Folhas",
-      "title_norm": "toalha umedecida meu bebe ultra 500 folhas",
-      "url": "https://shopee.com.br/product/1045085918/23693223002",
-      "affiliate_url": "https://s.shopee.com.br/8fSMd9Rikj",
-      "category": "Droga Clara",
-      "bucket": "droga_clara",
-      "posted_ts": 1789428065,
-      "posted_at": "2026-09-14T23:21:05.054078+00:00",
-      "score": 67.33
     }
   ],
-  "updated_at": "2026-09-23T18:21:18.620571+00:00"
+  "updated_at": "2026-09-23T19:03:22.654961+00:00"
 }
