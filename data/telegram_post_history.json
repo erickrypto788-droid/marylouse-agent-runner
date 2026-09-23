@@ -1,6 +1,34 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB4622967263",
+      "marketplace": "mercadolivre",
+      "id": "MLB4622967263",
+      "title": "Ração Gato Alimento Vittamax Premium Especial 10kg Mix",
+      "title_norm": "racao gato alimento vittamax premium especial 10kg mix",
+      "url": "https://www.mercadolivre.com.br/p/MLB28886564?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB28886564?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Pet",
+      "bucket": "pet",
+      "posted_ts": 1790168635,
+      "posted_at": "2026-09-23T13:03:55.307897+00:00",
+      "score": 123.34
+    },
+    {
+      "key": "mercadolivre:MLB4974714813",
+      "marketplace": "mercadolivre",
+      "id": "MLB4974714813",
+      "title": "Ração Gato Estimacat Premium Filhote Sabor Frango 10kg",
+      "title_norm": "racao gato estimacat premium filhote sabor frango 10kg",
+      "url": "https://www.mercadolivre.com.br/p/MLB66844874?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB66844874?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Pet",
+      "bucket": "pet",
+      "posted_ts": 1790168571,
+      "posted_at": "2026-09-23T13:02:51.034164+00:00",
+      "score": 154.83
+    },
+    {
       "key": "shopee:22097368520",
       "marketplace": "shopee",
       "id": "22097368520",
@@ -13971,35 +13999,7 @@
       "posted_ts": 1789410023,
       "posted_at": "2026-09-14T18:20:23.239021+00:00",
       "score": 94.18
-    },
-    {
-      "key": "shopee:21678240017",
-      "marketplace": "shopee",
-      "id": "21678240017",
-      "title": "Creme Gel Regenerador Facial Gota de Colágeno Kokeshi 45g",
-      "title_norm": "creme gel regenerador facial gota de colageno kokeshi 45g",
-      "url": "https://shopee.com.br/product/395166866/21678240017",
-      "affiliate_url": "https://s.shopee.com.br/2LYIkv8EH6",
-      "category": "KOKESHI OFICIAL",
-      "bucket": "kokeshi_oficial",
-      "posted_ts": 1789409950,
-      "posted_at": "2026-09-14T18:19:10.751324+00:00",
-      "score": 97.43
-    },
-    {
-      "key": "shopee:58264684239",
-      "marketplace": "shopee",
-      "id": "58264684239",
-      "title": "Kit Clareador Facial - Sabonete Líquido + Protetor Solar Clareador 70 FPS + Sérum Multicorretivo Clareador",
-      "title_norm": "kit clareador facial sabonete liquido protetor solar clareador 70 fps serum multicorretivo clareador",
-      "url": "https://shopee.com.br/product/1860098702/58264684239",
-      "affiliate_url": "https://s.shopee.com.br/1qc2A0A8Hx",
-      "category": "Hidrabene ",
-      "bucket": "supermercado",
-      "posted_ts": 1789409886,
-      "posted_at": "2026-09-14T18:18:06.436972+00:00",
-      "score": 114.18
     }
   ],
-  "updated_at": "2026-09-23T12:21:09.802454+00:00"
+  "updated_at": "2026-09-23T13:03:55.307914+00:00"
 }
