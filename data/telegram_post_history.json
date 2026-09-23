@@ -1,6 +1,48 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB4795061481",
+      "marketplace": "mercadolivre",
+      "id": "MLB4795061481",
+      "title": "Molde Calça Legging Feminina Digital Pp-p-m-g-gg",
+      "title_norm": "molde calca legging feminina digital pp p m g gg",
+      "url": "https://www.mercadolivre.com.br/p/MLB74011420?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB74011420?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Moda Feminina",
+      "bucket": "moda_feminina",
+      "posted_ts": 1790125570,
+      "posted_at": "2026-09-23T01:06:10.902302+00:00",
+      "score": 88.0
+    },
+    {
+      "key": "mercadolivre:MLB7083949146",
+      "marketplace": "mercadolivre",
+      "id": "MLB7083949146",
+      "title": "Molde Calça Feminina Moletom Impresso P/m/g/gg/xg",
+      "title_norm": "molde calca feminina moletom impresso p m g gg xg",
+      "url": "https://www.mercadolivre.com.br/p/MLB74893563?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB74893563?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Moda Feminina",
+      "bucket": "moda_feminina",
+      "posted_ts": 1790125506,
+      "posted_at": "2026-09-23T01:05:06.881975+00:00",
+      "score": 88.0
+    },
+    {
+      "key": "mercadolivre:MLB5276660983",
+      "marketplace": "mercadolivre",
+      "id": "MLB5276660983",
+      "title": "Camisa feminina de gola sintética removível, cor de gravata, tamanho branco, conforme descrito",
+      "title_norm": "camisa feminina de gola sintetica removivel cor de gravata tamanho branco conforme descrito",
+      "url": "https://www.mercadolivre.com.br/p/MLB36370915?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB36370915?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Moda Feminina",
+      "bucket": "moda_feminina",
+      "posted_ts": 1790125442,
+      "posted_at": "2026-09-23T01:04:02.750746+00:00",
+      "score": 88.0
+    },
+    {
       "key": "shopee:23997980121",
       "marketplace": "shopee",
       "id": "23997980121",
@@ -13957,49 +13999,7 @@
       "posted_ts": 1789369351,
       "posted_at": "2026-09-14T07:02:31.921133+00:00",
       "score": 95.32
-    },
-    {
-      "key": "shopee:19044723152",
-      "marketplace": "shopee",
-      "id": "19044723152",
-      "title": "Sapato Social Masculino Confortável Elegante com Carteira Cinto e Relógio DIRETO DA FÁBRICA",
-      "title_norm": "sapato social masculino confortavel elegante com carteira cinto e relogio direto da fabrica",
-      "url": "https://shopee.com.br/product/387517673/19044723152",
-      "affiliate_url": "https://s.shopee.com.br/8fSLVBOHaw",
-      "category": "COURO FRAN",
-      "bucket": "calcados",
-      "posted_ts": 1789366929,
-      "posted_at": "2026-09-14T06:22:09.845007+00:00",
-      "score": 93.76
-    },
-    {
-      "key": "shopee:10908191710",
-      "marketplace": "shopee",
-      "id": "10908191710",
-      "title": "Mochila Bolsa Masculina Impermeável Reforçada Promoção Cor Preta",
-      "title_norm": "mochila bolsa masculina impermeavel reforcada promocao cor preta",
-      "url": "https://shopee.com.br/product/364186110/10908191710",
-      "affiliate_url": "https://s.shopee.com.br/5q8A3mHB5x",
-      "category": "SHIMA & ZAKI",
-      "bucket": "bolsas",
-      "posted_ts": 1789366865,
-      "posted_at": "2026-09-14T06:21:05.705658+00:00",
-      "score": 99.21
-    },
-    {
-      "key": "shopee:23697830604",
-      "marketplace": "shopee",
-      "id": "23697830604",
-      "title": "Mochila Militar Tática Impermeável 50 Litros Grande Reforçada com Brinde Bandeira",
-      "title_norm": "mochila militar tatica impermeavel 50 litros grande reforcada com brinde bandeira",
-      "url": "https://shopee.com.br/product/392260640/23697830604",
-      "affiliate_url": "https://s.shopee.com.br/LnCJUqFha",
-      "category": "Good Vibes Moment Variedade Mochila",
-      "bucket": "bolsas",
-      "posted_ts": 1789366801,
-      "posted_at": "2026-09-14T06:20:01.578343+00:00",
-      "score": 114.51
     }
   ],
-  "updated_at": "2026-09-23T00:21:28.233165+00:00"
+  "updated_at": "2026-09-23T01:06:10.902315+00:00"
 }
