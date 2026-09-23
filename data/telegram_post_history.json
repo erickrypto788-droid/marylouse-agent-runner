@@ -1,6 +1,20 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB7226098148",
+      "marketplace": "mercadolivre",
+      "id": "MLB7226098148",
+      "title": "Fone Bluetooth Esportivo 320mah Fone Sem Fio Fone Academia Preto",
+      "title_norm": "fone bluetooth esportivo 320mah fone sem fio fone academia preto",
+      "url": "https://www.mercadolivre.com.br/p/MLB68059006?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB68059006?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Esportes",
+      "bucket": "esportes",
+      "posted_ts": 1790154154,
+      "posted_at": "2026-09-23T09:02:34.220176+00:00",
+      "score": 110.15
+    },
+    {
       "key": "shopee:16404033482",
       "marketplace": "shopee",
       "id": "16404033482",
@@ -13985,21 +13999,7 @@
       "posted_ts": 1789395405,
       "posted_at": "2026-09-14T14:16:45.201318+00:00",
       "score": 108.97
-    },
-    {
-      "key": "mercadolivre:MLB3474477475",
-      "marketplace": "mercadolivre",
-      "id": "MLB3474477475",
-      "title": "Lamina Aparador Pelos Philips Bodygroom Qg3379 Qg3280 Qg3380",
-      "title_norm": "lamina aparador pelos philips bodygroom qg3379 qg3280 qg3380",
-      "url": "https://www.mercadolivre.com.br/p/MLB24908965?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB24908965?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "category": "Beleza",
-      "bucket": "beleza",
-      "posted_ts": 1789394543,
-      "posted_at": "2026-09-14T14:02:23.576588+00:00",
-      "score": 119.78
     }
   ],
-  "updated_at": "2026-09-23T08:21:33.509633+00:00"
+  "updated_at": "2026-09-23T09:02:34.220191+00:00"
 }
