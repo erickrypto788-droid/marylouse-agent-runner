@@ -1,6 +1,36 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB4450293643",
+      "product_id": "MLB4450293643",
+      "catalog_product_id": "MLB29728116",
+      "item_id": "MLB4450293643",
+      "url": "https://www.mercadolivre.com.br/p/MLB29728116?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB29728116?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "xiaomi poco poco x6 5g dual sim 256gb 12gb branco",
+      "title": "Xiaomi POCO Poco X6 5G Dual SIM 256GB/12GB Branco",
+      "category": "Informática",
+      "price": 3500.0,
+      "score": 124.0,
+      "posted_ts": 1790219040,
+      "posted_at": "2026-09-24T03:04:00.573791+00:00"
+    },
+    {
+      "key": "mercadolivre:MLB4514530845",
+      "product_id": "MLB4514530845",
+      "catalog_product_id": "MLB39957733",
+      "item_id": "MLB4514530845",
+      "url": "https://www.mercadolivre.com.br/p/MLB39957733?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB39957733?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "smartphone samsung galaxy s23 256gb preto",
+      "title": "Smartphone Samsung Galaxy S23 256gb Preto",
+      "category": "Informática",
+      "price": 3702.0,
+      "score": 124.0,
+      "posted_ts": 1790218970,
+      "posted_at": "2026-09-24T03:02:50.867613+00:00"
+    },
+    {
       "key": "mercadolivre:MLB5209357839",
       "product_id": "MLB5209357839",
       "catalog_product_id": "MLB76143330",
@@ -704,22 +734,7 @@
       "score": 130.0,
       "posted_ts": 1790057235,
       "posted_at": "2026-09-22T06:07:15.452787+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB6555948878",
-      "product_id": "MLB6555948878",
-      "catalog_product_id": "MLB22588098",
-      "item_id": "MLB6555948878",
-      "url": "https://www.mercadolivre.com.br/p/MLB22588098?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB22588098?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "racao gato castrado frango 12 anos 500g premier",
-      "title": "Ração Gato Castrado Frango +12 Anos 500g Premier",
-      "category": "Pet",
-      "price": 41.36,
-      "score": 129.0,
-      "posted_ts": 1790042561,
-      "posted_at": "2026-09-22T02:02:41.163826+00:00"
     }
   ],
-  "updated_at": "2026-09-24T01:05:03.602017+00:00"
+  "updated_at": "2026-09-24T03:04:00.573804+00:00"
 }

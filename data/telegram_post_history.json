@@ -1,6 +1,34 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB4450293643",
+      "marketplace": "mercadolivre",
+      "id": "MLB4450293643",
+      "title": "Xiaomi POCO Poco X6 5G Dual SIM 256GB/12GB Branco",
+      "title_norm": "xiaomi poco poco x6 5g dual sim 256gb 12gb branco",
+      "url": "https://www.mercadolivre.com.br/p/MLB29728116?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB29728116?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Informática",
+      "bucket": "celulares",
+      "posted_ts": 1790219040,
+      "posted_at": "2026-09-24T03:04:00.560179+00:00",
+      "score": 124.0
+    },
+    {
+      "key": "mercadolivre:MLB4514530845",
+      "marketplace": "mercadolivre",
+      "id": "MLB4514530845",
+      "title": "Smartphone Samsung Galaxy S23 256gb Preto",
+      "title_norm": "smartphone samsung galaxy s23 256gb preto",
+      "url": "https://www.mercadolivre.com.br/p/MLB39957733?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB39957733?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Informática",
+      "bucket": "celulares",
+      "posted_ts": 1790218970,
+      "posted_at": "2026-09-24T03:02:50.853716+00:00",
+      "score": 124.0
+    },
+    {
       "key": "shopee:23598815356",
       "marketplace": "shopee",
       "id": "23598815356",
@@ -13971,35 +13999,7 @@
       "posted_ts": 1789456877,
       "posted_at": "2026-09-15T07:21:17.984839+00:00",
       "score": 57.76
-    },
-    {
-      "key": "shopee:58216163636",
-      "marketplace": "shopee",
-      "id": "58216163636",
-      "title": "Bota Coturno Masculino Adventure De Qualidade e Barato Envio no Mesmo dia",
-      "title_norm": "bota coturno masculino adventure de qualidade e barato envio no mesmo dia",
-      "url": "https://shopee.com.br/product/1771998887/58216163636",
-      "affiliate_url": "https://s.shopee.com.br/6VNsa8FNbo",
-      "category": "HF_LOJA_3",
-      "bucket": "calcados",
-      "posted_ts": 1789456809,
-      "posted_at": "2026-09-15T07:20:09.341822+00:00",
-      "score": 67.55
-    },
-    {
-      "key": "shopee:22894855467",
-      "marketplace": "shopee",
-      "id": "22894855467",
-      "title": "Bermuda Short Masculino Praia Esporte Treino Corrida 2 Bolsos Zíper Secagem Rápida Poliamida",
-      "title_norm": "bermuda short masculino praia esporte treino corrida 2 bolsos ziper secagem rapida poliamida",
-      "url": "https://shopee.com.br/product/1494466376/22894855467",
-      "affiliate_url": "https://s.shopee.com.br/5VVLOIASLn",
-      "category": "PRIMEVARIEDADESBR",
-      "bucket": "primevariedadesbr",
-      "posted_ts": 1789456738,
-      "posted_at": "2026-09-15T07:18:58.557666+00:00",
-      "score": 69.79
     }
   ],
-  "updated_at": "2026-09-24T02:20:14.426711+00:00"
+  "updated_at": "2026-09-24T03:04:00.560195+00:00"
 }
