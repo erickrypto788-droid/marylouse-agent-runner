@@ -1,6 +1,21 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB6198484798",
+      "product_id": "MLB6198484798",
+      "catalog_product_id": "MLB42822160",
+      "item_id": "MLB6198484798",
+      "url": "https://www.mercadolivre.com.br/p/MLB42822160?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB42822160?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "roteador wifi maxlink ac1200g 10pc",
+      "title": "Roteador Wifi Maxlink Ac1200g (10pc)",
+      "category": "Informática",
+      "price": 265.85,
+      "score": 88.0,
+      "posted_ts": 1790276594,
+      "posted_at": "2026-09-24T19:03:14.314687+00:00"
+    },
+    {
       "key": "mercadolivre:MLB5209308589",
       "product_id": "MLB5209308589",
       "catalog_product_id": "MLB77141871",
@@ -689,37 +704,7 @@
       "score": 149.85,
       "posted_ts": 1790107396,
       "posted_at": "2026-09-22T20:03:16.309593+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB5026800457",
-      "product_id": "MLB5026800457",
-      "catalog_product_id": "MLB20643765",
-      "item_id": "MLB5026800457",
-      "url": "https://www.mercadolivre.com.br/p/MLB20643765?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB20643765?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "carregador iphone tipo usb c cor branco",
-      "title": "Carregador iPhone Tipo USB-C Cor Branco",
-      "category": "Informática",
-      "price": 349.99,
-      "score": 127.0,
-      "posted_ts": 1790096803,
-      "posted_at": "2026-09-22T17:06:43.829285+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB5129093619",
-      "product_id": "MLB5129093619",
-      "catalog_product_id": "MLB78262248",
-      "item_id": "MLB5129093619",
-      "url": "https://www.mercadolivre.com.br/p/MLB78262248?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB78262248?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "celulares smartphones 6 78 polegadas celular 5g 16gb 512gb camera hd 32mpx 18mpx bateria 5000mah celular baratinho",
-      "title": "celulares smartphones 6.78 Polegadas celular 5g 16GB+512GB Câmera HD 32Mpx+18Mpx Bateria 5000mAh celular baratinho",
-      "category": "Informática",
-      "price": 1660.0,
-      "score": 183.67,
-      "posted_ts": 1790096739,
-      "posted_at": "2026-09-22T17:05:39.739330+00:00"
     }
   ],
-  "updated_at": "2026-09-24T16:02:47.744231+00:00"
+  "updated_at": "2026-09-24T19:03:14.314704+00:00"
 }
