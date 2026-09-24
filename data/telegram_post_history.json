@@ -1,6 +1,34 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB5501712742",
+      "marketplace": "mercadolivre",
+      "id": "MLB5501712742",
+      "title": "Estojo magnético da série Crystal para iPhone 13, iPhone 13 Pro, iPhone 13 Pro Max, iPhone 14, iPhone 14 Pro, iPhone 14 Pro Max",
+      "title_norm": "estojo magnetico da serie crystal para iphone 13 iphone 13 pro iphone 13 pro max iphone 14 iphone 14 pro iphone 14 pro max",
+      "url": "https://www.mercadolivre.com.br/p/MLB21090695?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB21090695?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Informática",
+      "bucket": "celulares",
+      "posted_ts": 1790283840,
+      "posted_at": "2026-09-24T21:04:00.187423+00:00",
+      "score": 114.0
+    },
+    {
+      "key": "mercadolivre:MLB4867137953",
+      "marketplace": "mercadolivre",
+      "id": "MLB4867137953",
+      "title": "Celular 5g Smartphone 16gb/512gb Rom Dimensity 7200 Impressão Digital Android 15",
+      "title_norm": "celular 5g smartphone 16gb 512gb rom dimensity 7200 impressao digital android 15",
+      "url": "https://www.mercadolivre.com.br/p/MLB75208845?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB75208845?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Informática",
+      "bucket": "celulares",
+      "posted_ts": 1790283772,
+      "posted_at": "2026-09-24T21:02:52.661980+00:00",
+      "score": 206.47
+    },
+    {
       "key": "shopee:22497089311",
       "marketplace": "shopee",
       "id": "22497089311",
@@ -13971,35 +13999,7 @@
       "posted_ts": 1789525218,
       "posted_at": "2026-09-16T02:20:18.544872+00:00",
       "score": 104.1
-    },
-    {
-      "key": "shopee:22894279136",
-      "marketplace": "shopee",
-      "id": "22894279136",
-      "title": "Conjunto Feminino de Academia Calça Legging + Top com Alta Compressão e Zero Transparência",
-      "title_norm": "conjunto feminino de academia calca legging top com alta compressao e zero transparencia",
-      "url": "https://shopee.com.br/product/1101082974/22894279136",
-      "affiliate_url": "https://s.shopee.com.br/AAHCDAkvo0",
-      "category": "Zayan Moda Fitness",
-      "bucket": "moda_feminina",
-      "posted_ts": 1789525154,
-      "posted_at": "2026-09-16T02:19:14.227945+00:00",
-      "score": 106.84
-    },
-    {
-      "key": "shopee:58209478282",
-      "marketplace": "shopee",
-      "id": "58209478282",
-      "title": "Tomara que Caia Modal Feminino Peplum Estruturado Ajustado Cintura Marcada Elegante Moderno",
-      "title_norm": "tomara que caia modal feminino peplum estruturado ajustado cintura marcada elegante moderno",
-      "url": "https://shopee.com.br/product/1719923404/58209478282",
-      "affiliate_url": "https://s.shopee.com.br/20vUUABgsS",
-      "category": "Maju Malhas",
-      "bucket": "maju_malhas",
-      "posted_ts": 1789525086,
-      "posted_at": "2026-09-16T02:18:06.608303+00:00",
-      "score": 114.51
     }
   ],
-  "updated_at": "2026-09-24T20:19:06.004368+00:00"
+  "updated_at": "2026-09-24T21:04:00.187433+00:00"
 }
