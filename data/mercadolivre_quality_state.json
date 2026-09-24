@@ -1,6 +1,36 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB5209357839",
+      "product_id": "MLB5209357839",
+      "catalog_product_id": "MLB76143330",
+      "item_id": "MLB5209357839",
+      "url": "https://www.mercadolivre.com.br/p/MLB76143330?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB76143330?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "impressora termica impressora de recibos mini impressora bluetooth impressora termica portatil arcashopping mini impressora termica impressora de recibos bluetooth mini impressora termica portatil",
+      "title": "Impressora térmica Impressora de recibos Mini impressora Bluetooth Impressora térmica portátil ARCASHOPPING mini impressora térmica Impressora de recibos Bluetooth Mini impressora térmica portátil",
+      "category": "Informática",
+      "price": 300.0,
+      "score": 88.0,
+      "posted_ts": 1790211903,
+      "posted_at": "2026-09-24T01:05:03.602001+00:00"
+    },
+    {
+      "key": "mercadolivre:MLB5237564467",
+      "product_id": "MLB5237564467",
+      "catalog_product_id": "MLB37332939",
+      "item_id": "MLB5237564467",
+      "url": "https://www.mercadolivre.com.br/p/MLB37332939?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB37332939?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "ssd nvme m 2 256gb pm9b1",
+      "title": "Ssd nvme M.2 256gb PM9B1",
+      "category": "Informática",
+      "price": 346.0,
+      "score": 111.0,
+      "posted_ts": 1790211839,
+      "posted_at": "2026-09-24T01:03:59.392826+00:00"
+    },
+    {
       "key": "mercadolivre:MLB6574930760",
       "product_id": "MLB6574930760",
       "catalog_product_id": "MLB67606890",
@@ -691,5 +721,5 @@
       "posted_at": "2026-09-22T02:02:41.163826+00:00"
     }
   ],
-  "updated_at": "2026-09-24T00:03:09.603838+00:00"
+  "updated_at": "2026-09-24T01:05:03.602017+00:00"
 }
