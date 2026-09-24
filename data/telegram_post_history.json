@@ -1,6 +1,48 @@
 {
   "posts": [
     {
+      "key": "shopee:23394690451",
+      "marketplace": "shopee",
+      "id": "23394690451",
+      "title": "Principia Kit Completo Peles Sensíveis c/ Gel de Limpeza GL-02 + Creme Hidratante CH-01 + Protetor Solar PS-01 FPS 60",
+      "title_norm": "principia kit completo peles sensiveis c gel de limpeza gl 02 creme hidratante ch 01 protetor solar ps 01 fps 60",
+      "url": "https://shopee.com.br/product/373261329/23394690451",
+      "affiliate_url": "https://s.shopee.com.br/70KNvnlI5U",
+      "category": "Principia Skincare",
+      "bucket": "principia_skincare",
+      "posted_ts": 1790255996,
+      "posted_at": "2026-09-24T13:19:56.969887+00:00",
+      "score": 73.59
+    },
+    {
+      "key": "shopee:58263978690",
+      "marketplace": "shopee",
+      "id": "58263978690",
+      "title": "Perfume Masculino 100ml Fragrância Amadeirada Marcante Sofisticada Longa Duração",
+      "title_norm": "perfume masculino 100ml fragrancia amadeirada marcante sofisticada longa duracao",
+      "url": "https://shopee.com.br/product/1769603943/58263978690",
+      "affiliate_url": "https://s.shopee.com.br/6AlGwGWvtx",
+      "category": "ZORZA3",
+      "bucket": "beleza",
+      "posted_ts": 1790255932,
+      "posted_at": "2026-09-24T13:18:52.899884+00:00",
+      "score": 137.33
+    },
+    {
+      "key": "shopee:23694347564",
+      "marketplace": "shopee",
+      "id": "23694347564",
+      "title": "GOKOCO Escova Secadora 5 Em 1 Conjunto De Secador De Cabelo Multifuncional De Alta Velocidade Dupla voltagem 110V-240V",
+      "title_norm": "gokoco escova secadora 5 em 1 conjunto de secador de cabelo multifuncional de alta velocidade dupla voltagem 110v 240v",
+      "url": "https://shopee.com.br/product/1078551010/23694347564",
+      "affiliate_url": "https://s.shopee.com.br/60RqjxblDn",
+      "category": "GOKOCO Offical Shop.BR",
+      "bucket": "beleza",
+      "posted_ts": 1790255862,
+      "posted_at": "2026-09-24T13:17:42.833808+00:00",
+      "score": 139.56
+    },
+    {
       "key": "mercadolivre:MLB6884302164",
       "marketplace": "mercadolivre",
       "id": "MLB6884302164",
@@ -13957,49 +13999,7 @@
       "posted_ts": 1789500003,
       "posted_at": "2026-09-15T19:20:03.505683+00:00",
       "score": 91.09
-    },
-    {
-      "key": "shopee:22894437840",
-      "marketplace": "shopee",
-      "id": "22894437840",
-      "title": "Fralda Infantil Huggies Meguinha Tamanho G 30 Unidades",
-      "title_norm": "fralda infantil huggies meguinha tamanho g 30 unidades",
-      "url": "https://shopee.com.br/product/1045085918/22894437840",
-      "affiliate_url": "https://s.shopee.com.br/2VrkY7UAd6",
-      "category": "Droga Clara",
-      "bucket": "fraldas",
-      "posted_ts": 1789499939,
-      "posted_at": "2026-09-15T19:18:59.304884+00:00",
-      "score": 93.28
-    },
-    {
-      "key": "shopee:18297665963",
-      "marketplace": "shopee",
-      "id": "18297665963",
-      "title": "Fraldas de pano kit com 10 unidades 60x60cm 100% algodão Minasrey Bebê Babete Toalinha Babita Paninho Estampado",
-      "title_norm": "fraldas de pano kit com 10 unidades 60x60cm 100 algodao minasrey bebe babete toalinha babita paninho estampado",
-      "url": "https://shopee.com.br/product/378105312/18297665963",
-      "affiliate_url": "https://s.shopee.com.br/905EMB3kV1",
-      "category": "EssencialBaby",
-      "bucket": "fraldas",
-      "posted_ts": 1789499875,
-      "posted_at": "2026-09-15T19:17:55.112243+00:00",
-      "score": 93.42
-    },
-    {
-      "key": "shopee:42071102324",
-      "marketplace": "shopee",
-      "id": "42071102324",
-      "title": "Troninho Privadinha Assento Redutor Pinico Infantil Para desfralde Marca styll baby",
-      "title_norm": "troninho privadinha assento redutor pinico infantil para desfralde marca styll baby",
-      "url": "https://shopee.com.br/product/1450084195/42071102324",
-      "affiliate_url": "https://s.shopee.com.br/5LBvzRHhw5",
-      "category": "Clube Kids Baby II",
-      "bucket": "clube_kids_baby_ii",
-      "posted_ts": 1789499810,
-      "posted_at": "2026-09-15T19:16:50.858738+00:00",
-      "score": 98.76
     }
   ],
-  "updated_at": "2026-09-24T13:04:33.117870+00:00"
+  "updated_at": "2026-09-24T13:19:56.969899+00:00"
 }
