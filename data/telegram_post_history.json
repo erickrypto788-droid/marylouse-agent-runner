@@ -1,6 +1,20 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB6574930760",
+      "marketplace": "mercadolivre",
+      "id": "MLB6574930760",
+      "title": "Parafusadeira STANLEY + Parafusadeira + Ganhe Bateria 20V",
+      "title_norm": "parafusadeira stanley parafusadeira ganhe bateria 20v",
+      "url": "https://www.mercadolivre.com.br/p/MLB67606890?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB67606890?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Ferramentas",
+      "bucket": "ferramentas",
+      "posted_ts": 1790208189,
+      "posted_at": "2026-09-24T00:03:09.592137+00:00",
+      "score": 124.0
+    },
+    {
       "key": "shopee:23997427973",
       "marketplace": "shopee",
       "id": "23997427973",
@@ -13985,21 +13999,7 @@
       "posted_ts": 1789445878,
       "posted_at": "2026-09-15T04:17:58.998109+00:00",
       "score": 110.51
-    },
-    {
-      "key": "shopee:22098790012",
-      "marketplace": "shopee",
-      "id": "22098790012",
-      "title": "Semente de Chia Comercial Natural - Costa Nature Life",
-      "title_norm": "semente de chia comercial natural costa nature life",
-      "url": "https://shopee.com.br/product/1577798856/22098790012",
-      "affiliate_url": "https://s.shopee.com.br/6Al1zAVI9z",
-      "category": "Costa Nature Life",
-      "bucket": "costa_nature_life",
-      "posted_ts": 1789445814,
-      "posted_at": "2026-09-15T04:16:54.758566+00:00",
-      "score": 114.4
     }
   ],
-  "updated_at": "2026-09-23T23:21:50.195735+00:00"
+  "updated_at": "2026-09-24T00:03:09.592150+00:00"
 }
