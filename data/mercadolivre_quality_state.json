@@ -1,6 +1,21 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB6884302164",
+      "product_id": "MLB6884302164",
+      "catalog_product_id": "MLB70627275",
+      "item_id": "MLB6884302164",
+      "url": "https://www.mercadolivre.com.br/p/MLB70627275?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB70627275?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "rack yescasa rack para tv ate 70 jatoba terroso de mdp",
+      "title": "Rack Yescasa Rack para TV até 70\" jatoba terroso de mdp",
+      "category": "Casa e Cozinha",
+      "price": 855.87,
+      "score": 82.57,
+      "posted_ts": 1790255073,
+      "posted_at": "2026-09-24T13:04:33.129688+00:00"
+    },
+    {
       "key": "mercadolivre:MLB4087393645",
       "product_id": "MLB4087393645",
       "catalog_product_id": "MLB51007372",
@@ -721,5 +736,5 @@
       "posted_at": "2026-09-22T14:03:11.701904+00:00"
     }
   ],
-  "updated_at": "2026-09-24T12:05:15.238371+00:00"
+  "updated_at": "2026-09-24T13:04:33.129698+00:00"
 }

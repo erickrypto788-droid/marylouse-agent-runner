@@ -1,6 +1,20 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB6884302164",
+      "marketplace": "mercadolivre",
+      "id": "MLB6884302164",
+      "title": "Rack Yescasa Rack para TV até 70\" jatoba terroso de mdp",
+      "title_norm": "rack yescasa rack para tv ate 70 jatoba terroso de mdp",
+      "url": "https://www.mercadolivre.com.br/p/MLB70627275?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB70627275?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Casa e Cozinha",
+      "bucket": "casa_e_cozinha",
+      "posted_ts": 1790255073,
+      "posted_at": "2026-09-24T13:04:33.117857+00:00",
+      "score": 82.57
+    },
+    {
       "key": "shopee:23193886166",
       "marketplace": "shopee",
       "id": "23193886166",
@@ -13985,21 +13999,7 @@
       "posted_ts": 1789499810,
       "posted_at": "2026-09-15T19:16:50.858738+00:00",
       "score": 98.76
-    },
-    {
-      "key": "mercadolivre:MLB6825867960",
-      "marketplace": "mercadolivre",
-      "id": "MLB6825867960",
-      "title": "Condicionador Infantil Lowell Mirtilinho 240ml",
-      "title_norm": "condicionador infantil lowell mirtilinho 240ml",
-      "url": "https://www.mercadolivre.com.br/p/MLB68094806?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB68094806?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "category": "Beleza",
-      "bucket": "beleza",
-      "posted_ts": 1789499527,
-      "posted_at": "2026-09-15T19:12:07.682519+00:00",
-      "score": 88.0
     }
   ],
-  "updated_at": "2026-09-24T12:20:04.990599+00:00"
+  "updated_at": "2026-09-24T13:04:33.117870+00:00"
 }
