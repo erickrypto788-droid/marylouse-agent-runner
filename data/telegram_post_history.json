@@ -1,6 +1,20 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB6483255322",
+      "marketplace": "mercadolivre",
+      "id": "MLB6483255322",
+      "title": "Fone Bluetooth Redmi",
+      "title_norm": "fone bluetooth redmi",
+      "url": "https://www.mercadolivre.com.br/p/MLB62010143?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB62010143?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Informática",
+      "bucket": "celulares",
+      "posted_ts": 1790280199,
+      "posted_at": "2026-09-24T20:03:19.644938+00:00",
+      "score": 98.22
+    },
+    {
       "key": "mercadolivre:MLB6198484798",
       "marketplace": "mercadolivre",
       "id": "MLB6198484798",
@@ -13985,21 +13999,7 @@
       "posted_ts": 1789524181,
       "posted_at": "2026-09-16T02:03:01.772063+00:00",
       "score": 124.0
-    },
-    {
-      "key": "shopee:9319243207",
-      "marketplace": "shopee",
-      "id": "9319243207",
-      "title": "Hidratante Creme Facial Pele De Porcelana Kokeshi 30g Milagre do Arroz",
-      "title_norm": "hidratante creme facial pele de porcelana kokeshi 30g milagre do arroz",
-      "url": "https://shopee.com.br/product/395166866/9319243207",
-      "affiliate_url": "https://s.shopee.com.br/4LJP8CTAgR",
-      "category": "KOKESHI OFICIAL",
-      "bucket": "kokeshi_oficial",
-      "posted_ts": 1789518060,
-      "posted_at": "2026-09-16T00:21:00.617336+00:00",
-      "score": 103.25
     }
   ],
-  "updated_at": "2026-09-24T19:03:14.299239+00:00"
+  "updated_at": "2026-09-24T20:03:19.644956+00:00"
 }

@@ -1,6 +1,21 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB6483255322",
+      "product_id": "MLB6483255322",
+      "catalog_product_id": "MLB62010143",
+      "item_id": "MLB6483255322",
+      "url": "https://www.mercadolivre.com.br/p/MLB62010143?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB62010143?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "fone bluetooth redmi",
+      "title": "Fone Bluetooth Redmi",
+      "category": "Informática",
+      "price": 35.0,
+      "score": 98.22,
+      "posted_ts": 1790280199,
+      "posted_at": "2026-09-24T20:03:19.657332+00:00"
+    },
+    {
       "key": "mercadolivre:MLB6198484798",
       "product_id": "MLB6198484798",
       "catalog_product_id": "MLB42822160",
@@ -689,22 +704,7 @@
       "score": 113.0,
       "posted_ts": 1790107466,
       "posted_at": "2026-09-22T20:04:26.974365+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB4694661245",
-      "product_id": "MLB4694661245",
-      "catalog_product_id": "MLB67529462",
-      "item_id": "MLB4694661245",
-      "url": "https://www.mercadolivre.com.br/p/MLB67529462?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB67529462?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "comedouro elevado duplo racao gato porcelana acrilico 190ml porta racao gato comedouro rosa",
-      "title": "Comedouro Elevado Duplo Ração Gato Porcelana Acrilico 190ml Porta Racao Gato Comedouro Rosa",
-      "category": "Pet",
-      "price": 47.64,
-      "score": 149.85,
-      "posted_ts": 1790107396,
-      "posted_at": "2026-09-22T20:03:16.309593+00:00"
     }
   ],
-  "updated_at": "2026-09-24T19:03:14.314704+00:00"
+  "updated_at": "2026-09-24T20:03:19.657345+00:00"
 }
