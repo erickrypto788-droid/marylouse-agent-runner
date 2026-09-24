@@ -1,6 +1,20 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB4109571517",
+      "marketplace": "mercadolivre",
+      "id": "MLB4109571517",
+      "title": "Alimento Royal Canin Hair & Skin 3kg Ração Gato",
+      "title_norm": "alimento royal canin hair skin 3kg racao gato",
+      "url": "https://www.mercadolivre.com.br/p/MLB28523781?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB28523781?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Pet",
+      "bucket": "pet",
+      "posted_ts": 1790229774,
+      "posted_at": "2026-09-24T06:02:54.416556+00:00",
+      "score": 122.92
+    },
+    {
       "key": "shopee:22294544738",
       "marketplace": "shopee",
       "id": "22294544738",
@@ -13985,21 +13999,7 @@
       "posted_ts": 1789471226,
       "posted_at": "2026-09-15T11:20:26.074872+00:00",
       "score": 48.96
-    },
-    {
-      "key": "shopee:23993565028",
-      "marketplace": "shopee",
-      "id": "23993565028",
-      "title": "Suporte Celular Carro Veicular Trava Automática anti queda",
-      "title_norm": "suporte celular carro veicular trava automatica anti queda",
-      "url": "https://shopee.com.br/product/1384055377/23993565028",
-      "affiliate_url": "https://s.shopee.com.br/905DpDB0CW",
-      "category": "vida vida lenta",
-      "bucket": "celulares",
-      "posted_ts": 1789471157,
-      "posted_at": "2026-09-15T11:19:17.487668+00:00",
-      "score": 102.84
     }
   ],
-  "updated_at": "2026-09-24T05:16:55.217239+00:00"
+  "updated_at": "2026-09-24T06:02:54.416575+00:00"
 }
