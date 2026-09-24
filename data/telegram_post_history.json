@@ -1,6 +1,20 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB7601679290",
+      "marketplace": "mercadolivre",
+      "id": "MLB7601679290",
+      "title": "Impressora Etiquetas Portátil Niimbot D11 + 1 Rolo Azul",
+      "title_norm": "impressora etiquetas portatil niimbot d11 1 rolo azul",
+      "url": "https://www.mercadolivre.com.br/p/MLB78736073?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB78736073?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Informática",
+      "bucket": "informatica",
+      "posted_ts": 1790236972,
+      "posted_at": "2026-09-24T08:02:52.022829+00:00",
+      "score": 156.96
+    },
+    {
       "key": "shopee:58205018164",
       "marketplace": "shopee",
       "id": "58205018164",
@@ -13985,21 +13999,7 @@
       "posted_ts": 1789481956,
       "posted_at": "2026-09-15T14:19:16.183196+00:00",
       "score": 103.27
-    },
-    {
-      "key": "shopee:23994836650",
-      "marketplace": "shopee",
-      "id": "23994836650",
-      "title": "Kit 4 Peças 2 Conjunto Infantil Bebê Menino Verão Algodão Promoção 2 Camisas 2 Shorts Envio Sortido",
-      "title_norm": "kit 4 pecas 2 conjunto infantil bebe menino verao algodao promocao 2 camisas 2 shorts envio sortido",
-      "url": "https://shopee.com.br/product/1253552940/23994836650",
-      "affiliate_url": "https://s.shopee.com.br/9Ki4QBqDay",
-      "category": "Rosa Azul K",
-      "bucket": "rosa_azul_k",
-      "posted_ts": 1789481883,
-      "posted_at": "2026-09-15T14:18:03.173342+00:00",
-      "score": 104.03
     }
   ],
-  "updated_at": "2026-09-24T07:21:26.540963+00:00"
+  "updated_at": "2026-09-24T08:02:52.022847+00:00"
 }
