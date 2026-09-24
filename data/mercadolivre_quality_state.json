@@ -1,6 +1,36 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB4087393645",
+      "product_id": "MLB4087393645",
+      "catalog_product_id": "MLB51007372",
+      "item_id": "MLB4087393645",
+      "url": "https://www.mercadolivre.com.br/p/MLB51007372?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB51007372?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "tecido suplex liso bege 1 65m poliester elastano moda fitness bras tecidos",
+      "title": "Tecido Suplex Liso Bege 1.65m Poliéster Elastano Moda Fitness Brás Tecidos",
+      "category": "Esportes",
+      "price": 500.0,
+      "score": 86.0,
+      "posted_ts": 1790251515,
+      "posted_at": "2026-09-24T12:05:15.238362+00:00"
+    },
+    {
+      "key": "mercadolivre:MLB5747632298",
+      "product_id": "MLB5747632298",
+      "catalog_product_id": "MLB58174814",
+      "item_id": "MLB5747632298",
+      "url": "https://www.mercadolivre.com.br/p/MLB58174814?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB58174814?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "calca legging redutora miracle belt cor preto tamanho pp",
+      "title": "Calça Legging Redutora Miracle Belt Cor Preto Tamanho Pp",
+      "category": "Moda Feminina",
+      "price": 289.9,
+      "score": 88.0,
+      "posted_ts": 1790251451,
+      "posted_at": "2026-09-24T12:04:11.054081+00:00"
+    },
+    {
       "key": "mercadolivre:MLB6442123488",
       "product_id": "MLB6442123488",
       "catalog_product_id": "MLB65794107",
@@ -691,5 +721,5 @@
       "posted_at": "2026-09-22T14:03:11.701904+00:00"
     }
   ],
-  "updated_at": "2026-09-24T11:12:22.182954+00:00"
+  "updated_at": "2026-09-24T12:05:15.238371+00:00"
 }

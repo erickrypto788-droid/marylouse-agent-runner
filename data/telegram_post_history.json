@@ -1,6 +1,34 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB4087393645",
+      "marketplace": "mercadolivre",
+      "id": "MLB4087393645",
+      "title": "Tecido Suplex Liso Bege 1.65m Poliéster Elastano Moda Fitness Brás Tecidos",
+      "title_norm": "tecido suplex liso bege 1 65m poliester elastano moda fitness bras tecidos",
+      "url": "https://www.mercadolivre.com.br/p/MLB51007372?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB51007372?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Esportes",
+      "bucket": "esportes",
+      "posted_ts": 1790251515,
+      "posted_at": "2026-09-24T12:05:15.224751+00:00",
+      "score": 86.0
+    },
+    {
+      "key": "mercadolivre:MLB5747632298",
+      "marketplace": "mercadolivre",
+      "id": "MLB5747632298",
+      "title": "Calça Legging Redutora Miracle Belt Cor Preto Tamanho Pp",
+      "title_norm": "calca legging redutora miracle belt cor preto tamanho pp",
+      "url": "https://www.mercadolivre.com.br/p/MLB58174814?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB58174814?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Moda Feminina",
+      "bucket": "moda_feminina",
+      "posted_ts": 1790251451,
+      "posted_at": "2026-09-24T12:04:11.039905+00:00",
+      "score": 88.0
+    },
+    {
       "key": "shopee:23898739327",
       "marketplace": "shopee",
       "id": "23898739327",
@@ -13971,35 +13999,7 @@
       "posted_ts": 1789492935,
       "posted_at": "2026-09-15T17:22:15.256600+00:00",
       "score": 66.58
-    },
-    {
-      "key": "shopee:58211322269",
-      "marketplace": "shopee",
-      "id": "58211322269",
-      "title": "Kit de medidor de glicose: 50 lancetas + medidor de glicemia + 50 tiras de teste",
-      "title_norm": "kit de medidor de glicose 50 lancetas medidor de glicemia 50 tiras de teste",
-      "url": "https://shopee.com.br/product/1589215601/58211322269",
-      "affiliate_url": "https://s.shopee.com.br/4VcnbNRezc",
-      "category": "Saúde & Aroma BR",
-      "bucket": "saude_aroma_br",
-      "posted_ts": 1789492871,
-      "posted_at": "2026-09-15T17:21:11.057613+00:00",
-      "score": 70.12
-    },
-    {
-      "key": "shopee:45504711899",
-      "marketplace": "shopee",
-      "id": "45504711899",
-      "title": "Kit Medidor Glicose 10 Tiras  10 Lancetas  Caneta G-Tech - Lite - Lite Praticidade Rapidez Precisão",
-      "title_norm": "kit medidor glicose 10 tiras 10 lancetas caneta g tech lite lite praticidade rapidez precisao",
-      "url": "https://shopee.com.br/product/1263405995/45504711899",
-      "affiliate_url": "https://s.shopee.com.br/4fwDngR1ed",
-      "category": "Essencial Vida",
-      "bucket": "essencial_vida",
-      "posted_ts": 1789492746,
-      "posted_at": "2026-09-15T17:19:06.894309+00:00",
-      "score": 90.32
     }
   ],
-  "updated_at": "2026-09-24T11:20:16.921827+00:00"
+  "updated_at": "2026-09-24T12:05:15.224764+00:00"
 }
