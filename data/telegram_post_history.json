@@ -1,6 +1,20 @@
 {
   "posts": [
     {
+      "key": "shopee:16284758791",
+      "marketplace": "shopee",
+      "id": "16284758791",
+      "title": "Mochila Reforçada Masculina Faculdade Impermeável Resistente Grande Trabalho Escolar",
+      "title_norm": "mochila reforcada masculina faculdade impermeavel resistente grande trabalho escolar",
+      "url": "https://shopee.com.br/product/409354083/16284758791",
+      "affiliate_url": "https://s.shopee.com.br/9zy02Gxka7",
+      "category": "Isic Fast",
+      "bucket": "bolsas",
+      "posted_ts": 1790284608,
+      "posted_at": "2026-09-24T21:16:48.895617+00:00",
+      "score": 88.0
+    },
+    {
       "key": "mercadolivre:MLB5501712742",
       "marketplace": "mercadolivre",
       "id": "MLB5501712742",
@@ -13985,21 +13999,7 @@
       "posted_ts": 1789525282,
       "posted_at": "2026-09-16T02:21:22.827866+00:00",
       "score": 103.19
-    },
-    {
-      "key": "shopee:22094702926",
-      "marketplace": "shopee",
-      "id": "22094702926",
-      "title": "top fitness feminino top academia feminino  top suplex firme top esportivo com sustentação top treino feminino",
-      "title_norm": "top fitness feminino top academia feminino top suplex firme top esportivo com sustentacao top treino feminino",
-      "url": "https://shopee.com.br/product/1664415227/22094702926",
-      "affiliate_url": "https://s.shopee.com.br/9fKvcFiVJm",
-      "category": "Fej Matos.store",
-      "bucket": "fej_matos_store",
-      "posted_ts": 1789525218,
-      "posted_at": "2026-09-16T02:20:18.544872+00:00",
-      "score": 104.1
     }
   ],
-  "updated_at": "2026-09-24T21:04:00.187433+00:00"
+  "updated_at": "2026-09-24T21:16:48.895635+00:00"
 }
