@@ -1,6 +1,34 @@
 {
   "posts": [
     {
+      "key": "shopee:22694210678",
+      "marketplace": "shopee",
+      "id": "22694210678",
+      "title": "Chinelo asuna RA ESPORT lançamentos Chinela asuno slide nuvem para o dia FEMININO E MASCULINO UNISEX",
+      "title_norm": "chinelo asuna ra esport lancamentos chinela asuno slide nuvem para o dia feminino e masculino unisex",
+      "url": "https://shopee.com.br/product/775523919/22694210678",
+      "affiliate_url": "https://s.shopee.com.br/5fp08ysHXs",
+      "category": "Chinelos ESPORTES",
+      "bucket": "calcados",
+      "posted_ts": 1790245077,
+      "posted_at": "2026-09-24T10:17:57.356302+00:00",
+      "score": 84.18
+    },
+    {
+      "key": "shopee:58264690361",
+      "marketplace": "shopee",
+      "id": "58264690361",
+      "title": "Sandália Feminina Rasteirinha Luxo com Strass Brilho Confortável Casual",
+      "title_norm": "sandalia feminina rasteirinha luxo com strass brilho confortavel casual",
+      "url": "https://shopee.com.br/product/388005801/58264690361",
+      "affiliate_url": "https://s.shopee.com.br/3g3vlJ8hD4",
+      "category": "Sandálias Taty",
+      "bucket": "calcados",
+      "posted_ts": 1790245009,
+      "posted_at": "2026-09-24T10:16:49.357942+00:00",
+      "score": 99.1
+    },
+    {
       "key": "shopee:58205019767",
       "marketplace": "shopee",
       "id": "58205019767",
@@ -13971,35 +13999,7 @@
       "posted_ts": 1789485601,
       "posted_at": "2026-09-15T15:20:01.356901+00:00",
       "score": 88.96
-    },
-    {
-      "key": "shopee:22495070620",
-      "marketplace": "shopee",
-      "id": "22495070620",
-      "title": "550ml Garrafa Térmica Inox Parede Dupla Alça Canudo Quente Fria Academia Escola",
-      "title_norm": "550ml garrafa termica inox parede dupla alca canudo quente fria academia escola",
-      "url": "https://shopee.com.br/product/1827560134/22495070620",
-      "affiliate_url": "https://s.shopee.com.br/2qUakMdPVb",
-      "category": "LD Garrafa Térmica Oficial",
-      "bucket": "ld_garrafa_termica_oficial",
-      "posted_ts": 1789485537,
-      "posted_at": "2026-09-15T15:18:57.159586+00:00",
-      "score": 100.42
-    },
-    {
-      "key": "shopee:20599370356",
-      "marketplace": "shopee",
-      "id": "20599370356",
-      "title": "Calça Legging Canelada de Cintura Alta Sem Costura para Academia Feminina, Elástica e Fitness",
-      "title_norm": "calca legging canelada de cintura alta sem costura para academia feminina elastica e fitness",
-      "url": "https://shopee.com.br/product/1126064857/20599370356",
-      "affiliate_url": "https://s.shopee.com.br/5VVLvGKjYQ",
-      "category": "VICTORIA BAZAR EIRELI",
-      "bucket": "moda_feminina",
-      "posted_ts": 1789485472,
-      "posted_at": "2026-09-15T15:17:52.869770+00:00",
-      "score": 113.96
     }
   ],
-  "updated_at": "2026-09-24T09:18:01.862151+00:00"
+  "updated_at": "2026-09-24T10:17:57.356319+00:00"
 }
