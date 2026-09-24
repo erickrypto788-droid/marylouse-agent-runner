@@ -1,6 +1,20 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB5209308589",
+      "marketplace": "mercadolivre",
+      "id": "MLB5209308589",
+      "title": "Perfume Masculino Millions",
+      "title_norm": "perfume masculino millions",
+      "url": "https://www.mercadolivre.com.br/p/MLB77141871?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB77141871?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Beleza",
+      "bucket": "beleza",
+      "posted_ts": 1790265767,
+      "posted_at": "2026-09-24T16:02:47.729194+00:00",
+      "score": 188.67
+    },
+    {
       "key": "shopee:58261209291",
       "marketplace": "shopee",
       "id": "58261209291",
@@ -13985,21 +13999,7 @@
       "posted_ts": 1789507202,
       "posted_at": "2026-09-15T21:20:02.668147+00:00",
       "score": 84.69
-    },
-    {
-      "key": "shopee:22694672050",
-      "marketplace": "shopee",
-      "id": "22694672050",
-      "title": "KIT Sapato Masculino Italiano Casual Versátil Formal Classico Esporte Fino + cinto + carteira + relogio",
-      "title_norm": "kit sapato masculino italiano casual versatil formal classico esporte fino cinto carteira relogio",
-      "url": "https://shopee.com.br/product/400392100/22694672050",
-      "affiliate_url": "https://s.shopee.com.br/6Al37D66dS",
-      "category": "Shoee Store",
-      "bucket": "calcados",
-      "posted_ts": 1789507138,
-      "posted_at": "2026-09-15T21:18:58.520893+00:00",
-      "score": 91.47
     }
   ],
-  "updated_at": "2026-09-24T15:21:06.524353+00:00"
+  "updated_at": "2026-09-24T16:02:47.729215+00:00"
 }
