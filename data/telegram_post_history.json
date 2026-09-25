@@ -1,6 +1,48 @@
 {
   "posts": [
     {
+      "key": "shopee:23194993945",
+      "marketplace": "shopee",
+      "id": "23194993945",
+      "title": "TOMI MITO Bolsa Feminina Compacta Elegante para Viagem e Trabalho TM9183",
+      "title_norm": "tomi mito bolsa feminina compacta elegante para viagem e trabalho tm9183",
+      "url": "https://shopee.com.br/product/1468415010/23194993945",
+      "affiliate_url": "https://s.shopee.com.br/4B0ELq3wLu",
+      "category": "Amy.Store",
+      "bucket": "bolsas",
+      "posted_ts": 1790353150,
+      "posted_at": "2026-09-25T16:19:10.903840+00:00",
+      "score": 112.22
+    },
+    {
+      "key": "shopee:22993817264",
+      "marketplace": "shopee",
+      "id": "22993817264",
+      "title": "Bolsa Feminina Baú Transversal Média com Lenço Alça Tiracolo Estruturada e Espaçosa",
+      "title_norm": "bolsa feminina bau transversal media com lenco alca tiracolo estruturada e espacosa",
+      "url": "https://shopee.com.br/product/1127030290/22993817264",
+      "affiliate_url": "https://s.shopee.com.br/2gBPAYglAE",
+      "category": "JIMMY.STORE",
+      "bucket": "bolsas",
+      "posted_ts": 1790353082,
+      "posted_at": "2026-09-25T16:18:02.167505+00:00",
+      "score": 119.66
+    },
+    {
+      "key": "shopee:58266854519",
+      "marketplace": "shopee",
+      "id": "58266854519",
+      "title": "Mochila casual feminina, pode guardar notebook de 15,6 polegadas, com costas acolchoadas para aliviar o peso",
+      "title_norm": "mochila casual feminina pode guardar notebook de 15 6 polegadas com costas acolchoadas para aliviar o peso",
+      "url": "https://shopee.com.br/product/1921485008/58266854519",
+      "affiliate_url": "https://s.shopee.com.br/AKarhApCA3",
+      "category": "jiesipote-15",
+      "bucket": "informatica",
+      "posted_ts": 1790353010,
+      "posted_at": "2026-09-25T16:16:50.728473+00:00",
+      "score": 124.91
+    },
+    {
       "key": "shopee:23498038856",
       "marketplace": "shopee",
       "id": "23498038856",
@@ -13957,49 +13999,7 @@
       "posted_ts": 1789586400,
       "posted_at": "2026-09-16T19:20:00.441938+00:00",
       "score": 98.01
-    },
-    {
-      "key": "shopee:19998102356",
-      "marketplace": "shopee",
-      "id": "19998102356",
-      "title": "Panela Elétrica Britânia 2L 5 Temperaturas 650W BPE02A",
-      "title_norm": "panela eletrica britania 2l 5 temperaturas 650w bpe02a",
-      "url": "https://shopee.com.br/product/811879342/19998102356",
-      "affiliate_url": "https://s.shopee.com.br/20vULuc3Q9",
-      "category": "Britânia Oficial",
-      "bucket": "casa_cozinha",
-      "posted_ts": 1789586336,
-      "posted_at": "2026-09-16T19:18:56.423818+00:00",
-      "score": 99.02
-    },
-    {
-      "key": "shopee:22593915398",
-      "marketplace": "shopee",
-      "id": "22593915398",
-      "title": "Chaleira Elétrica Jarra Café Chá Inox 110v",
-      "title_norm": "chaleira eletrica jarra cafe cha inox 110v",
-      "url": "https://shopee.com.br/product/408653169/22593915398",
-      "affiliate_url": "https://s.shopee.com.br/3qN8XHDTdB",
-      "category": "SELLNEEDS",
-      "bucket": "sellneeds",
-      "posted_ts": 1789586271,
-      "posted_at": "2026-09-16T19:17:51.831944+00:00",
-      "score": 99.18
-    },
-    {
-      "key": "shopee:14463127889",
-      "marketplace": "shopee",
-      "id": "14463127889",
-      "title": "Kit S.O.S Hidratação Azeite de Oliva Shampoo e Condicionador Litrão Salon Line",
-      "title_norm": "kit s o s hidratacao azeite de oliva shampoo e condicionador litrao salon line",
-      "url": "https://shopee.com.br/product/616222685/14463127889",
-      "affiliate_url": "https://s.shopee.com.br/5q8CuxESK8",
-      "category": "Salon Line",
-      "bucket": "supermercado",
-      "posted_ts": 1789586207,
-      "posted_at": "2026-09-16T19:16:47.823329+00:00",
-      "score": 102.35
     }
   ],
-  "updated_at": "2026-09-25T15:21:20.514021+00:00"
+  "updated_at": "2026-09-25T16:19:10.903850+00:00"
 }
