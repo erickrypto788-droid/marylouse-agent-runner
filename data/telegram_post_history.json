@@ -1,6 +1,48 @@
 {
   "posts": [
     {
+      "key": "shopee:54463190395",
+      "marketplace": "shopee",
+      "id": "54463190395",
+      "title": "Kit Medidor Glicose Glicemia Gtech Lite 60 Tiras 110 Lanceta Precisão Prático Qualidade Uso Diário",
+      "title_norm": "kit medidor glicose glicemia gtech lite 60 tiras 110 lanceta precisao pratico qualidade uso diario",
+      "url": "https://shopee.com.br/product/1263405995/54463190395",
+      "affiliate_url": "https://s.shopee.com.br/2Vs0EXrm7z",
+      "category": "Essencial Vida",
+      "bucket": "essencial_vida",
+      "posted_ts": 1790345949,
+      "posted_at": "2026-09-25T14:19:09.779347+00:00",
+      "score": 68.74
+    },
+    {
+      "key": "shopee:22891997668",
+      "marketplace": "shopee",
+      "id": "22891997668",
+      "title": "Termômetro Industrial Digital Infravermelho Cozinha Laser Medição Temperatura Industrial -55º- 400ºc",
+      "title_norm": "termometro industrial digital infravermelho cozinha laser medicao temperatura industrial 55 400 c",
+      "url": "https://shopee.com.br/product/1025202028/22891997668",
+      "affiliate_url": "https://s.shopee.com.br/7ptWaLG0hr",
+      "category": "Utime.Brasil",
+      "bucket": "saude",
+      "posted_ts": 1790345883,
+      "posted_at": "2026-09-25T14:18:03.655701+00:00",
+      "score": 109.74
+    },
+    {
+      "key": "shopee:23893497572",
+      "marketplace": "shopee",
+      "id": "23893497572",
+      "title": "Oxímetro Infantil Neonatal Pediátrico De Dedo Digital Crianças Medidor Oxigênio Recarregável Pulse Yihan",
+      "title_norm": "oximetro infantil neonatal pediatrico de dedo digital criancas medidor oxigenio recarregavel pulse yihan",
+      "url": "https://shopee.com.br/product/696313634/23893497572",
+      "affiliate_url": "https://s.shopee.com.br/70KOCI3USz",
+      "category": "Yihan.store",
+      "bucket": "saude",
+      "posted_ts": 1790345819,
+      "posted_at": "2026-09-25T14:16:59.603329+00:00",
+      "score": 109.81
+    },
+    {
       "key": "mercadolivre:MLB5200062049",
       "marketplace": "mercadolivre",
       "id": "MLB5200062049",
@@ -13957,49 +13999,7 @@
       "posted_ts": 1789582609,
       "posted_at": "2026-09-16T18:16:49.996234+00:00",
       "score": 125.36
-    },
-    {
-      "key": "shopee:18499926834",
-      "marketplace": "shopee",
-      "id": "18499926834",
-      "title": "Caneta Marcadora acrílica Glitter Metalizada Ponta Dupla para Colorir Brilhante 24/48/72/96/ 120Cores",
-      "title_norm": "caneta marcadora acrilica glitter metalizada ponta dupla para colorir brilhante 24 48 72 96 120cores",
-      "url": "https://shopee.com.br/product/1656740639/18499926834",
-      "affiliate_url": "https://s.shopee.com.br/112yI7Y8WA",
-      "category": "dake shop",
-      "bucket": "dake_shop",
-      "posted_ts": 1789579267,
-      "posted_at": "2026-09-16T17:21:07.438633+00:00",
-      "score": 42.51
-    },
-    {
-      "key": "shopee:23598815356",
-      "marketplace": "shopee",
-      "id": "23598815356",
-      "title": "Agenda para agendamento de clientes com páginas não datada",
-      "title_norm": "agenda para agendamento de clientes com paginas nao datada",
-      "url": "https://shopee.com.br/product/221799126/23598815356",
-      "affiliate_url": "https://s.shopee.com.br/9Ki4x9RMqt",
-      "category": "PP Personalizado",
-      "bucket": "pp_personalizado",
-      "posted_ts": 1789579203,
-      "posted_at": "2026-09-16T17:20:03.435707+00:00",
-      "score": 62.33
-    },
-    {
-      "key": "shopee:22498805360",
-      "marketplace": "shopee",
-      "id": "22498805360",
-      "title": "Kit de Estiletes de Precisão com 13 Peças (incluindo estojo magnético) - Ideal para artesanato e modelismo",
-      "title_norm": "kit de estiletes de precisao com 13 pecas incluindo estojo magnetico ideal para artesanato e modelismo",
-      "url": "https://shopee.com.br/product/1574625104/22498805360",
-      "affiliate_url": "https://s.shopee.com.br/905FopCcNm",
-      "category": "SorteLuz BR",
-      "bucket": "sorteluz_br",
-      "posted_ts": 1789579139,
-      "posted_at": "2026-09-16T17:18:59.378754+00:00",
-      "score": 71.33
     }
   ],
-  "updated_at": "2026-09-25T14:04:56.968063+00:00"
+  "updated_at": "2026-09-25T14:19:09.779358+00:00"
 }
