@@ -1,6 +1,36 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB6406780222",
+      "product_id": "MLB6406780222",
+      "catalog_product_id": "MLB32106098",
+      "item_id": "MLB6406780222",
+      "url": "https://www.mercadolivre.com.br/p/MLB32106098?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB32106098?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "racao premier pet vitta natural racao cachorro adulto 15k",
+      "title": "Ração Premier Pet Vitta Natural Ração Cachorro Adulto 15k",
+      "category": "Pet",
+      "price": 148.0,
+      "score": 129.0,
+      "posted_ts": 1790294631,
+      "posted_at": "2026-09-25T00:03:51.615183+00:00"
+    },
+    {
+      "key": "mercadolivre:MLB4302548173",
+      "product_id": "MLB4302548173",
+      "catalog_product_id": "MLB44164135",
+      "item_id": "MLB4302548173",
+      "url": "https://www.mercadolivre.com.br/p/MLB44164135?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB44164135?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "comedouro automatico racao aquario terrario peixe tartaruga",
+      "title": "Comedouro Automático Ração Aquário Terrario Peixe Tartaruga",
+      "category": "Pet",
+      "price": 117.85,
+      "score": 137.09,
+      "posted_ts": 1790294567,
+      "posted_at": "2026-09-25T00:02:47.491739+00:00"
+    },
+    {
       "key": "mercadolivre:MLB5501712742",
       "product_id": "MLB5501712742",
       "catalog_product_id": "MLB21090695",
@@ -706,5 +736,5 @@
       "posted_at": "2026-09-23T00:06:58.918698+00:00"
     }
   ],
-  "updated_at": "2026-09-24T21:04:00.196005+00:00"
+  "updated_at": "2026-09-25T00:03:51.615199+00:00"
 }

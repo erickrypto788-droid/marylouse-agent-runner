@@ -1,6 +1,34 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB6406780222",
+      "marketplace": "mercadolivre",
+      "id": "MLB6406780222",
+      "title": "Ração Premier Pet Vitta Natural Ração Cachorro Adulto 15k",
+      "title_norm": "racao premier pet vitta natural racao cachorro adulto 15k",
+      "url": "https://www.mercadolivre.com.br/p/MLB32106098?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB32106098?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Pet",
+      "bucket": "pet",
+      "posted_ts": 1790294631,
+      "posted_at": "2026-09-25T00:03:51.601663+00:00",
+      "score": 129.0
+    },
+    {
+      "key": "mercadolivre:MLB4302548173",
+      "marketplace": "mercadolivre",
+      "id": "MLB4302548173",
+      "title": "Comedouro Automático Ração Aquário Terrario Peixe Tartaruga",
+      "title_norm": "comedouro automatico racao aquario terrario peixe tartaruga",
+      "url": "https://www.mercadolivre.com.br/p/MLB44164135?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB44164135?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Pet",
+      "bucket": "pet",
+      "posted_ts": 1790294567,
+      "posted_at": "2026-09-25T00:02:47.476987+00:00",
+      "score": 137.09
+    },
+    {
       "key": "shopee:58263626064",
       "marketplace": "shopee",
       "id": "58263626064",
@@ -13971,35 +13999,7 @@
       "posted_ts": 1789531343,
       "posted_at": "2026-09-16T04:02:23.829431+00:00",
       "score": 110.15
-    },
-    {
-      "key": "shopee:22097368520",
-      "marketplace": "shopee",
-      "id": "22097368520",
-      "title": "kit 4 peças mijão calça e body manga longa infantil bebe masculino e feminino",
-      "title_norm": "kit 4 pecas mijao calca e body manga longa infantil bebe masculino e feminino",
-      "url": "https://shopee.com.br/product/790794583/22097368520",
-      "affiliate_url": "https://s.shopee.com.br/9Ki5HkmMLR",
-      "category": "Paraíso fashion kids",
-      "bucket": "paraiso_fashion_kids",
-      "posted_ts": 1789528881,
-      "posted_at": "2026-09-16T03:21:21.778643+00:00",
-      "score": 56.57
-    },
-    {
-      "key": "shopee:58205041774",
-      "marketplace": "shopee",
-      "id": "58205041774",
-      "title": "KIT 4 CALÇA MASCULINA JOGGER ACADEMIA COM STYLO REFLETIVO PROMOÇÃO 2K26",
-      "title_norm": "kit 4 calca masculina jogger academia com stylo refletivo promocao 2k26",
-      "url": "https://shopee.com.br/product/1230638366/58205041774",
-      "affiliate_url": "https://s.shopee.com.br/8KpY5uqAN9",
-      "category": "n s confecções",
-      "bucket": "n_s_confeccoes",
-      "posted_ts": 1789528817,
-      "posted_at": "2026-09-16T03:20:17.664855+00:00",
-      "score": 94.77
     }
   ],
-  "updated_at": "2026-09-24T22:21:26.430937+00:00"
+  "updated_at": "2026-09-25T00:03:51.601684+00:00"
 }
