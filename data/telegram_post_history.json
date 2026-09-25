@@ -1,6 +1,34 @@
 {
   "posts": [
     {
+      "key": "shopee:23594076554",
+      "marketplace": "shopee",
+      "id": "23594076554",
+      "title": "Nintendo Switch Lite Desbloqueado Novo",
+      "title_norm": "nintendo switch lite desbloqueado novo",
+      "url": "https://shopee.com.br/product/942745912/23594076554",
+      "affiliate_url": "https://s.shopee.com.br/6L4i08Whar",
+      "category": "Lizis Store",
+      "bucket": "lizis_store",
+      "posted_ts": 1790302680,
+      "posted_at": "2026-09-25T02:18:00.475629+00:00",
+      "score": 37.84
+    },
+    {
+      "key": "shopee:23898328187",
+      "marketplace": "shopee",
+      "id": "23898328187",
+      "title": "2025 Videogame Portatil Tela 4.8\" +10000 Jogos Retro 16GB, Console de Mão Memoria Expansivel",
+      "title_norm": "2025 videogame portatil tela 4 8 10000 jogos retro 16gb console de mao memoria expansivel",
+      "url": "https://shopee.com.br/product/872424585/23898328187",
+      "affiliate_url": "https://s.shopee.com.br/W6v3PsqAy",
+      "category": "lojamegas",
+      "bucket": "lojamegas",
+      "posted_ts": 1790302607,
+      "posted_at": "2026-09-25T02:16:47.998020+00:00",
+      "score": 71.79
+    },
+    {
       "key": "mercadolivre:MLB5095655201",
       "marketplace": "mercadolivre",
       "id": "MLB5095655201",
@@ -13971,35 +13999,7 @@
       "posted_ts": 1789543123,
       "posted_at": "2026-09-16T07:18:43.970544+00:00",
       "score": 102.27
-    },
-    {
-      "key": "shopee:22493935434",
-      "marketplace": "shopee",
-      "id": "22493935434",
-      "title": "Carregador Portatil Mini  Power Bank 1.0000mAh Sem Fio 2em1 Carregador para iPhone e Tipo-C",
-      "title_norm": "carregador portatil mini power bank 1 0000mah sem fio 2em1 carregador para iphone e tipo c",
-      "url": "https://shopee.com.br/product/1043771437/22493935434",
-      "affiliate_url": "https://s.shopee.com.br/1BMNpEDeSL",
-      "category": "Koi Shop Brasil",
-      "bucket": "celulares",
-      "posted_ts": 1789543011,
-      "posted_at": "2026-09-16T07:16:51.242625+00:00",
-      "score": 125.48
-    },
-    {
-      "key": "shopee:23294841043",
-      "marketplace": "shopee",
-      "id": "23294841043",
-      "title": "Papete feminina Tiras Pedraria Strass Sola Confort",
-      "title_norm": "papete feminina tiras pedraria strass sola confort",
-      "url": "https://shopee.com.br/product/1739016198/23294841043",
-      "affiliate_url": "https://s.shopee.com.br/3LQsL5TggA",
-      "category": "sandaliasvalbelle",
-      "bucket": "pet",
-      "posted_ts": 1789539556,
-      "posted_at": "2026-09-16T06:19:16.870175+00:00",
-      "score": 78.41
     }
   ],
-  "updated_at": "2026-09-25T02:03:00.857930+00:00"
+  "updated_at": "2026-09-25T02:18:00.475642+00:00"
 }
