@@ -1,6 +1,20 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB6223026490",
+      "marketplace": "mercadolivre",
+      "id": "MLB6223026490",
+      "title": "Lizz Aparelho Aparador Pelos Elétrico Navalhete Profissional",
+      "title_norm": "lizz aparelho aparador pelos eletrico navalhete profissional",
+      "url": "https://www.mercadolivre.com.br/p/MLB29263256?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB29263256?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Beleza",
+      "bucket": "beleza",
+      "posted_ts": 1790327013,
+      "posted_at": "2026-09-25T09:03:33.347755+00:00",
+      "score": 88.0
+    },
+    {
       "key": "shopee:18799617679",
       "marketplace": "shopee",
       "id": "18799617679",
@@ -13985,21 +13999,7 @@
       "posted_ts": 1789561267,
       "posted_at": "2026-09-16T12:21:07.449067+00:00",
       "score": 72.77
-    },
-    {
-      "key": "shopee:58204723156",
-      "marketplace": "shopee",
-      "id": "58204723156",
-      "title": "Kit 48 Carrinhos com Fricção de Lata Metálica Coloridos - Caixa Container que Vira Pista QUALIDADE",
-      "title_norm": "kit 48 carrinhos com friccao de lata metalica coloridos caixa container que vira pista qualidade",
-      "url": "https://shopee.com.br/product/1609042341/58204723156",
-      "affiliate_url": "https://s.shopee.com.br/3LQrPPdpL6",
-      "category": "LINDU 2025",
-      "bucket": "lindu_2025",
-      "posted_ts": 1789561202,
-      "posted_at": "2026-09-16T12:20:02.503118+00:00",
-      "score": 88.56
     }
   ],
-  "updated_at": "2026-09-25T08:22:09.364317+00:00"
+  "updated_at": "2026-09-25T09:03:33.347775+00:00"
 }
