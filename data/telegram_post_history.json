@@ -1,6 +1,20 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB7270317978",
+      "marketplace": "mercadolivre",
+      "id": "MLB7270317978",
+      "title": "Prancha Esteira Ergométrica Deck Múltipla T3000 Preto",
+      "title_norm": "prancha esteira ergometrica deck multipla t3000 preto",
+      "url": "https://www.mercadolivre.com.br/p/MLB75817587?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB75817587?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Esportes",
+      "bucket": "esportes",
+      "posted_ts": 1790323383,
+      "posted_at": "2026-09-25T08:03:03.315310+00:00",
+      "score": 103.53
+    },
+    {
       "key": "shopee:14263042301",
       "marketplace": "shopee",
       "id": "14263042301",
@@ -13985,21 +13999,7 @@
       "posted_ts": 1789560454,
       "posted_at": "2026-09-16T12:07:34.401249+00:00",
       "score": 133.4
-    },
-    {
-      "key": "mercadolivre:MLB4219197703",
-      "marketplace": "mercadolivre",
-      "id": "MLB4219197703",
-      "title": "Azeite Oliva Extra Virgem Português Vila Oliva 500ml (3 Un)",
-      "title_norm": "azeite oliva extra virgem portugues vila oliva 500ml 3 un",
-      "url": "https://www.mercadolivre.com.br/p/MLB34684493?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB34684493?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "category": "Supermercados",
-      "bucket": "supermercado",
-      "posted_ts": 1789560389,
-      "posted_at": "2026-09-16T12:06:29.644490+00:00",
-      "score": 141.22
     }
   ],
-  "updated_at": "2026-09-25T07:17:56.176099+00:00"
+  "updated_at": "2026-09-25T08:03:03.315324+00:00"
 }
