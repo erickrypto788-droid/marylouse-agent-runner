@@ -1,6 +1,66 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB6581237526",
+      "product_id": "MLB6581237526",
+      "catalog_product_id": "MLB61910184",
+      "item_id": "MLB6581237526",
+      "url": "https://www.mercadolivre.com.br/p/MLB61910184?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB61910184?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "100 saco de lixo 60l preto saco lixo resistente reforcado",
+      "title": "100 Saco De Lixo 60l Preto Saco Lixo Resistente Reforçado",
+      "category": "Supermercados",
+      "price": 45.6,
+      "score": 89.0,
+      "posted_ts": 1790309418,
+      "posted_at": "2026-09-25T04:10:18.661740+00:00"
+    },
+    {
+      "key": "mercadolivre:MLB5118569459",
+      "product_id": "MLB5118569459",
+      "catalog_product_id": "MLB21407698",
+      "item_id": "MLB5118569459",
+      "url": "https://www.mercadolivre.com.br/p/MLB21407698?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB21407698?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "arroz motigome 1kg",
+      "title": "Arroz Motigome 1kg",
+      "category": "Supermercados",
+      "price": 37.4,
+      "score": 93.74,
+      "posted_ts": 1790309354,
+      "posted_at": "2026-09-25T04:09:14.591142+00:00"
+    },
+    {
+      "key": "mercadolivre:MLB5827152542",
+      "product_id": "MLB5827152542",
+      "catalog_product_id": "MLB60416491",
+      "item_id": "MLB5827152542",
+      "url": "https://www.mercadolivre.com.br/p/MLB60416491?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB60416491?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "amaciante roupas macias sensiv titila 5l",
+      "title": "Amaciante Roupas Macias Sensiv Titila 5l",
+      "category": "Supermercados",
+      "price": 47.4,
+      "score": 103.67,
+      "posted_ts": 1790309290,
+      "posted_at": "2026-09-25T04:08:10.526818+00:00"
+    },
+    {
+      "key": "mercadolivre:MLB7657468080",
+      "product_id": "MLB7657468080",
+      "catalog_product_id": "MLB75541518",
+      "item_id": "MLB7657468080",
+      "url": "https://www.mercadolivre.com.br/p/MLB75541518?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB75541518?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "luminaria foguete lava bolha todas as cores decoracao retro",
+      "title": "Luminária Foguete Lava Bolha Todas As Cores Decoração Retrô",
+      "category": "Pet",
+      "price": 125.91,
+      "score": 154.83,
+      "posted_ts": 1790309220,
+      "posted_at": "2026-09-25T04:07:00.979040+00:00"
+    },
+    {
       "key": "mercadolivre:MLB5095655201",
       "product_id": "MLB5095655201",
       "catalog_product_id": "MLB50110319",
@@ -614,37 +674,7 @@
       "score": 124.76,
       "posted_ts": 1790139765,
       "posted_at": "2026-09-23T05:02:45.534287+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB5175310031",
-      "product_id": "MLB5175310031",
-      "catalog_product_id": "MLB32583536",
-      "item_id": "MLB5175310031",
-      "url": "https://www.mercadolivre.com.br/p/MLB32583536?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB32583536?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "jogo panelas vermelho aluminio fundido usinado javaliam16a24",
-      "title": "Jogo Panelas Vermelho Alumínio Fundido Usinado Javaliam16a24",
-      "category": "Casa e Cozinha",
-      "price": 519.0,
-      "score": 111.0,
-      "posted_ts": 1790129085,
-      "posted_at": "2026-09-23T02:04:45.026842+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB6582939094",
-      "product_id": "MLB6582939094",
-      "catalog_product_id": "MLB67685128",
-      "item_id": "MLB6582939094",
-      "url": "https://www.mercadolivre.com.br/p/MLB67685128?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB67685128?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "jogo panelas grandes conjunto cacarolas 40cm 2 un aluminio",
-      "title": "Jogo Panelas Grandes Conjunto Caçarolas 40cm - 2 Un Alumínio",
-      "category": "Casa e Cozinha",
-      "price": 397.61,
-      "score": 111.0,
-      "posted_ts": 1790129015,
-      "posted_at": "2026-09-23T02:03:35.582179+00:00"
     }
   ],
-  "updated_at": "2026-09-25T02:03:00.871288+00:00"
+  "updated_at": "2026-09-25T04:10:18.661751+00:00"
 }

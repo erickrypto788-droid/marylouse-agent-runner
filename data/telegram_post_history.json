@@ -1,6 +1,62 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB6581237526",
+      "marketplace": "mercadolivre",
+      "id": "MLB6581237526",
+      "title": "100 Saco De Lixo 60l Preto Saco Lixo Resistente Reforçado",
+      "title_norm": "100 saco de lixo 60l preto saco lixo resistente reforcado",
+      "url": "https://www.mercadolivre.com.br/p/MLB61910184?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB61910184?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Supermercados",
+      "bucket": "supermercados",
+      "posted_ts": 1790309418,
+      "posted_at": "2026-09-25T04:10:18.647991+00:00",
+      "score": 89.0
+    },
+    {
+      "key": "mercadolivre:MLB5118569459",
+      "marketplace": "mercadolivre",
+      "id": "MLB5118569459",
+      "title": "Arroz Motigome 1kg",
+      "title_norm": "arroz motigome 1kg",
+      "url": "https://www.mercadolivre.com.br/p/MLB21407698?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB21407698?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Supermercados",
+      "bucket": "supermercados",
+      "posted_ts": 1790309354,
+      "posted_at": "2026-09-25T04:09:14.576523+00:00",
+      "score": 93.74
+    },
+    {
+      "key": "mercadolivre:MLB5827152542",
+      "marketplace": "mercadolivre",
+      "id": "MLB5827152542",
+      "title": "Amaciante Roupas Macias Sensiv Titila 5l",
+      "title_norm": "amaciante roupas macias sensiv titila 5l",
+      "url": "https://www.mercadolivre.com.br/p/MLB60416491?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB60416491?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Supermercados",
+      "bucket": "supermercado",
+      "posted_ts": 1790309290,
+      "posted_at": "2026-09-25T04:08:10.511128+00:00",
+      "score": 103.67
+    },
+    {
+      "key": "mercadolivre:MLB7657468080",
+      "marketplace": "mercadolivre",
+      "id": "MLB7657468080",
+      "title": "Luminária Foguete Lava Bolha Todas As Cores Decoração Retrô",
+      "title_norm": "luminaria foguete lava bolha todas as cores decoracao retro",
+      "url": "https://www.mercadolivre.com.br/p/MLB75541518?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB75541518?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Pet",
+      "bucket": "pet",
+      "posted_ts": 1790309220,
+      "posted_at": "2026-09-25T04:07:00.963916+00:00",
+      "score": 154.83
+    },
+    {
       "key": "shopee:58255246133",
       "marketplace": "shopee",
       "id": "58255246133",
@@ -13943,63 +13999,7 @@
       "posted_ts": 1789546941,
       "posted_at": "2026-09-16T08:22:21.196989+00:00",
       "score": 75.94
-    },
-    {
-      "key": "shopee:57205646686",
-      "marketplace": "shopee",
-      "id": "57205646686",
-      "title": "Fritadeira Air Fryer Itatiaia 3,5 Litros 127V Sem Óleo",
-      "title_norm": "fritadeira air fryer itatiaia 3 5 litros 127v sem oleo",
-      "url": "https://shopee.com.br/product/1494297971/57205646686",
-      "affiliate_url": "https://s.shopee.com.br/qjXUj8qSP",
-      "category": "BESTBYBRASILGOLD",
-      "bucket": "casa_cozinha",
-      "posted_ts": 1789546873,
-      "posted_at": "2026-09-16T08:21:13.854301+00:00",
-      "score": 99.45
-    },
-    {
-      "key": "shopee:20999203046",
-      "marketplace": "shopee",
-      "id": "20999203046",
-      "title": "Ventilador Mondial 30cm Vsp 30 B 60hz Loi",
-      "title_norm": "ventilador mondial 30cm vsp 30 b 60hz loi",
-      "url": "https://shopee.com.br/product/359168917/20999203046",
-      "affiliate_url": "https://s.shopee.com.br/4LJPfA42r9",
-      "category": "LOI BRASIL",
-      "bucket": "loi_brasil",
-      "posted_ts": 1789546804,
-      "posted_at": "2026-09-16T08:20:04.967834+00:00",
-      "score": 107.34
-    },
-    {
-      "key": "shopee:23597334946",
-      "marketplace": "shopee",
-      "id": "23597334946",
-      "title": "Liquidificador Britânia BLQE01 2 copos 2,6L 900W",
-      "title_norm": "liquidificador britania blqe01 2 copos 2 6l 900w",
-      "url": "https://shopee.com.br/product/811879342/23597334946",
-      "affiliate_url": "https://s.shopee.com.br/3LQsTK3acv",
-      "category": "Britânia Oficial",
-      "bucket": "casa_cozinha",
-      "posted_ts": 1789546675,
-      "posted_at": "2026-09-16T08:17:55.510329+00:00",
-      "score": 108.76
-    },
-    {
-      "key": "shopee:58202615709",
-      "marketplace": "shopee",
-      "id": "58202615709",
-      "title": "MINI Refrigerador De Ar Ventilador Umidificador Dupla Giratório+rgb Camada Ventilador Climatizador Ar C/ Reservatório",
-      "title_norm": "mini refrigerador de ar ventilador umidificador dupla giratorio rgb camada ventilador climatizador ar c reservatorio",
-      "url": "https://shopee.com.br/product/1103946075/58202615709",
-      "affiliate_url": "https://s.shopee.com.br/3g3irw6aD5",
-      "category": "JX VERDE",
-      "bucket": "jx_verde",
-      "posted_ts": 1789546606,
-      "posted_at": "2026-09-16T08:16:46.962728+00:00",
-      "score": 127.23
     }
   ],
-  "updated_at": "2026-09-25T03:21:33.500132+00:00"
+  "updated_at": "2026-09-25T04:10:18.648004+00:00"
 }
