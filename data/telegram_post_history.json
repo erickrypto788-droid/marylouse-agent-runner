@@ -1,6 +1,34 @@
 {
   "posts": [
     {
+      "key": "shopee:19099304356",
+      "marketplace": "shopee",
+      "id": "19099304356",
+      "title": "Capa Para Notebook Stand Macia De Couro PU Macbook Air Pro 13,3 e 15-16,2 Polegadas Bolsa",
+      "title_norm": "capa para notebook stand macia de couro pu macbook air pro 13 3 e 15 16 2 polegadas bolsa",
+      "url": "https://shopee.com.br/product/1285840220/19099304356",
+      "affiliate_url": "https://s.shopee.com.br/6L4hfXKZpI",
+      "category": "AS PLACE E-COMMERCE LTDA",
+      "bucket": "informatica",
+      "posted_ts": 1790356680,
+      "posted_at": "2026-09-25T17:18:00.303584+00:00",
+      "score": 50.1
+    },
+    {
+      "key": "shopee:15296691065",
+      "marketplace": "shopee",
+      "id": "15296691065",
+      "title": "Mochila Masculina Lona 50 Litros Viagem Passeio Motoboy Esporte Trilha Viagem 803",
+      "title_norm": "mochila masculina lona 50 litros viagem passeio motoboy esporte trilha viagem 803",
+      "url": "https://shopee.com.br/product/960960972/15296691065",
+      "affiliate_url": "https://s.shopee.com.br/1qcIJGXJBJ",
+      "category": "Global Mochilas CHL",
+      "bucket": "bolsas",
+      "posted_ts": 1790356612,
+      "posted_at": "2026-09-25T17:16:52.264478+00:00",
+      "score": 61.14
+    },
+    {
       "key": "mercadolivre:MLB7575871600",
       "marketplace": "mercadolivre",
       "id": "MLB7575871600",
@@ -13971,35 +13999,7 @@
       "posted_ts": 1789589071,
       "posted_at": "2026-09-16T20:04:31.578725+00:00",
       "score": 86.0
-    },
-    {
-      "key": "mercadolivre:MLB5237564467",
-      "marketplace": "mercadolivre",
-      "id": "MLB5237564467",
-      "title": "Ssd nvme M.2 256gb PM9B1",
-      "title_norm": "ssd nvme m 2 256gb pm9b1",
-      "url": "https://www.mercadolivre.com.br/p/MLB37332939?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB37332939?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "category": "Informática",
-      "bucket": "informatica",
-      "posted_ts": 1789589007,
-      "posted_at": "2026-09-16T20:03:27.455025+00:00",
-      "score": 111.0
-    },
-    {
-      "key": "shopee:22398848141",
-      "marketplace": "shopee",
-      "id": "22398848141",
-      "title": "Kit 2 Porta Leite em Pó Para Bebê + Colher de Silicone",
-      "title_norm": "kit 2 porta leite em po para bebe colher de silicone",
-      "url": "https://shopee.com.br/product/404249674/22398848141",
-      "affiliate_url": "https://s.shopee.com.br/8fSOI9zTa3",
-      "category": "CHLOE01",
-      "bucket": "chloe01",
-      "posted_ts": 1789586473,
-      "posted_at": "2026-09-16T19:21:13.038024+00:00",
-      "score": 97.27
     }
   ],
-  "updated_at": "2026-09-25T17:02:38.053560+00:00"
+  "updated_at": "2026-09-25T17:18:00.303603+00:00"
 }
