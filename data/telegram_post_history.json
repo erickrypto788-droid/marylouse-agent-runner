@@ -1,6 +1,20 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB7173723934",
+      "marketplace": "mercadolivre",
+      "id": "MLB7173723934",
+      "title": "Fralda Pampers Pants Ajuste Total Xxg Com 120un",
+      "title_norm": "fralda pampers pants ajuste total xxg com 120un",
+      "url": "https://www.mercadolivre.com.br/p/MLB21853434?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB21853434?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Mãe e Bebê",
+      "bucket": "fraldas",
+      "posted_ts": 1790370367,
+      "posted_at": "2026-09-25T21:06:07.762603+00:00",
+      "score": 121.67
+    },
+    {
       "key": "shopee:58202315800",
       "marketplace": "shopee",
       "id": "58202315800",
@@ -13985,21 +13999,7 @@
       "posted_ts": 1789600677,
       "posted_at": "2026-09-16T23:17:57.616546+00:00",
       "score": 97.23
-    },
-    {
-      "key": "shopee:22898670705",
-      "marketplace": "shopee",
-      "id": "22898670705",
-      "title": ".  Calça PLUS SIZE Pantalona Wide Leg Feminina C/ Bolso Cargo",
-      "title_norm": "calca plus size pantalona wide leg feminina c bolso cargo",
-      "url": "https://shopee.com.br/product/1050130423/22898670705",
-      "affiliate_url": "https://s.shopee.com.br/112ygqdiJ7",
-      "category": "S.A Jeans Plus",
-      "bucket": "s_a_jeans_plus",
-      "posted_ts": 1789600609,
-      "posted_at": "2026-09-16T23:16:49.216974+00:00",
-      "score": 100.43
     }
   ],
-  "updated_at": "2026-09-25T20:21:12.398914+00:00"
+  "updated_at": "2026-09-25T21:06:07.762616+00:00"
 }
