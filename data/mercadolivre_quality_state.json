@@ -1,6 +1,21 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB7079122650",
+      "product_id": "MLB7079122650",
+      "catalog_product_id": "MLB74851412",
+      "item_id": "MLB7079122650",
+      "url": "https://www.mercadolivre.com.br/p/MLB74851412?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB74851412?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "conjunto feminino alfaiataria bermuda blusa elegante peplum conjunto feminino bege",
+      "title": "Conjunto Feminino Alfaiataria Bermuda Blusa Elegante Peplum Conjunto Feminino Bege",
+      "category": "Moda Feminina",
+      "price": 219.9,
+      "score": 88.0,
+      "posted_ts": 1790312653,
+      "posted_at": "2026-09-25T05:04:13.332797+00:00"
+    },
+    {
       "key": "mercadolivre:MLB6581237526",
       "product_id": "MLB6581237526",
       "catalog_product_id": "MLB61910184",
@@ -644,37 +659,7 @@
       "score": 124.33,
       "posted_ts": 1790146987,
       "posted_at": "2026-09-23T07:03:07.064758+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB4473728059",
-      "product_id": "MLB4473728059",
-      "catalog_product_id": "MLB23181287",
-      "item_id": "MLB4473728059",
-      "url": "https://www.mercadolivre.com.br/p/MLB23181287?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB23181287?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "perfume feminino grace gourmand",
-      "title": "Perfume Feminino Grace Gourmand",
-      "category": "Beleza",
-      "price": 139.9,
-      "score": 113.0,
-      "posted_ts": 1790139835,
-      "posted_at": "2026-09-23T05:03:55.626668+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB4960906681",
-      "product_id": "MLB4960906681",
-      "catalog_product_id": "MLB75851983",
-      "item_id": "MLB4960906681",
-      "url": "https://www.mercadolivre.com.br/p/MLB75851983?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB75851983?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "perfume feminino ragazza 100ml",
-      "title": "Perfume Feminino Ragazza 100ml",
-      "category": "Beleza",
-      "price": 132.6,
-      "score": 124.76,
-      "posted_ts": 1790139765,
-      "posted_at": "2026-09-23T05:02:45.534287+00:00"
     }
   ],
-  "updated_at": "2026-09-25T04:10:18.661751+00:00"
+  "updated_at": "2026-09-25T05:04:13.332809+00:00"
 }

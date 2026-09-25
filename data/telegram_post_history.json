@@ -1,6 +1,20 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB7079122650",
+      "marketplace": "mercadolivre",
+      "id": "MLB7079122650",
+      "title": "Conjunto Feminino Alfaiataria Bermuda Blusa Elegante Peplum Conjunto Feminino Bege",
+      "title_norm": "conjunto feminino alfaiataria bermuda blusa elegante peplum conjunto feminino bege",
+      "url": "https://www.mercadolivre.com.br/p/MLB74851412?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB74851412?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Moda Feminina",
+      "bucket": "moda_feminina",
+      "posted_ts": 1790312653,
+      "posted_at": "2026-09-25T05:04:13.321322+00:00",
+      "score": 88.0
+    },
+    {
       "key": "shopee:22392540812",
       "marketplace": "shopee",
       "id": "22392540812",
@@ -13985,21 +13999,7 @@
       "posted_ts": 1789553877,
       "posted_at": "2026-09-16T10:17:57.894150+00:00",
       "score": 120.52
-    },
-    {
-      "key": "shopee:22392476232",
-      "marketplace": "shopee",
-      "id": "22392476232",
-      "title": "kit com 10 Calcinha infantil Kids",
-      "title_norm": "kit com 10 calcinha infantil kids",
-      "url": "https://shopee.com.br/product/321115312/22392476232",
-      "affiliate_url": "https://s.shopee.com.br/4LJPnP4YK3",
-      "category": "Dejuule Modas",
-      "bucket": "dejuule_modas",
-      "posted_ts": 1789553809,
-      "posted_at": "2026-09-16T10:16:49.276312+00:00",
-      "score": 121.04
     }
   ],
-  "updated_at": "2026-09-25T04:21:12.566323+00:00"
+  "updated_at": "2026-09-25T05:04:13.321339+00:00"
 }
