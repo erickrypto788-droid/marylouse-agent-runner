@@ -1,6 +1,34 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB4832226667",
+      "marketplace": "mercadolivre",
+      "id": "MLB4832226667",
+      "title": "Saída Praia Saia Feminina Texturizada Moda Verão Tendências Amarelo P",
+      "title_norm": "saida praia saia feminina texturizada moda verao tendencias amarelo p",
+      "url": "https://www.mercadolivre.com.br/p/MLB74626445?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB74626445?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Moda Feminina",
+      "bucket": "moda_feminina",
+      "posted_ts": 1790373864,
+      "posted_at": "2026-09-25T22:04:24.259794+00:00",
+      "score": 92.32
+    },
+    {
+      "key": "mercadolivre:MLB4617422337",
+      "marketplace": "mercadolivre",
+      "id": "MLB4617422337",
+      "title": "Cropped Feminino Manga Comprida Proteção Solar Malha Fria Uv Cor Preto Tamanho P",
+      "title_norm": "cropped feminino manga comprida protecao solar malha fria uv cor preto tamanho p",
+      "url": "https://www.mercadolivre.com.br/p/MLB68298172?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB68298172?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Moda Feminina",
+      "bucket": "moda_feminina",
+      "posted_ts": 1790373800,
+      "posted_at": "2026-09-25T22:03:20.335639+00:00",
+      "score": 107.47
+    },
+    {
       "key": "shopee:58215579449",
       "marketplace": "shopee",
       "id": "58215579449",
@@ -13971,35 +13999,7 @@
       "posted_ts": 1789604276,
       "posted_at": "2026-09-17T00:17:56.778831+00:00",
       "score": 87.2
-    },
-    {
-      "key": "shopee:20199249608",
-      "marketplace": "shopee",
-      "id": "20199249608",
-      "title": "Tenis Sapatilha Masculino Casual Aquatico de Trilha Impermeável Com Solado Costurado E Elastico Ajustável",
-      "title_norm": "tenis sapatilha masculino casual aquatico de trilha impermeavel com solado costurado e elastico ajustavel",
-      "url": "https://shopee.com.br/product/1246015756/20199249608",
-      "affiliate_url": "https://s.shopee.com.br/40gaKTZD9H",
-      "category": "ShopShooes",
-      "bucket": "calcados",
-      "posted_ts": 1789604208,
-      "posted_at": "2026-09-17T00:16:48.461348+00:00",
-      "score": 100.12
-    },
-    {
-      "key": "shopee:55957074597",
-      "marketplace": "shopee",
-      "id": "55957074597",
-      "title": "Kit 2 Camisas Fitness Plus Size Alongadas Tapa Bumbum em  Premium",
-      "title_norm": "kit 2 camisas fitness plus size alongadas tapa bumbum em premium",
-      "url": "https://shopee.com.br/product/1464110755/55957074597",
-      "affiliate_url": "https://s.shopee.com.br/8AW7xixibO",
-      "category": "Flexicom",
-      "bucket": "flexicom",
-      "posted_ts": 1789600875,
-      "posted_at": "2026-09-16T23:21:15.595405+00:00",
-      "score": 81.35
     }
   ],
-  "updated_at": "2026-09-25T21:18:58.943560+00:00"
+  "updated_at": "2026-09-25T22:04:24.259809+00:00"
 }
