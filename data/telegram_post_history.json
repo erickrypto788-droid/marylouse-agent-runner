@@ -1,6 +1,34 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB5200062049",
+      "marketplace": "mercadolivre",
+      "id": "MLB5200062049",
+      "title": "Celular Samsung Galaxy A06 5g Preto",
+      "title_norm": "celular samsung galaxy a06 5g preto",
+      "url": "https://www.mercadolivre.com.br/p/MLB65973005?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB65973005?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Informática",
+      "bucket": "celulares",
+      "posted_ts": 1790345096,
+      "posted_at": "2026-09-25T14:04:56.968049+00:00",
+      "score": 127.0
+    },
+    {
+      "key": "mercadolivre:MLB5919313906",
+      "marketplace": "mercadolivre",
+      "id": "MLB5919313906",
+      "title": "Carregador Portátil 20000mAh Bahrein Power Bank Universal Power Bank Carga Rápida Com Display Bahrein Compatível Com Todos Celulares Iphone Android IOS apple xiaomi Samsung Motorola",
+      "title_norm": "carregador portatil 20000mah bahrein power bank universal power bank carga rapida com display bahrein compativel com todos celulares iphone android ios apple xiaomi samsung motorola",
+      "url": "https://www.mercadolivre.com.br/p/MLB24099360?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB24099360?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Informática",
+      "bucket": "celulares",
+      "posted_ts": 1790344988,
+      "posted_at": "2026-09-25T14:03:08.901270+00:00",
+      "score": 149.86
+    },
+    {
       "key": "shopee:18299383775",
       "marketplace": "shopee",
       "id": "18299383775",
@@ -13971,35 +13999,7 @@
       "posted_ts": 1789579139,
       "posted_at": "2026-09-16T17:18:59.378754+00:00",
       "score": 71.33
-    },
-    {
-      "key": "shopee:18299332007",
-      "marketplace": "shopee",
-      "id": "18299332007",
-      "title": "Caneta Glitter 4/6 Cores Flash Silver Gel Marcador Metálico para Bullet Journal Agenda Desenho DIY",
-      "title_norm": "caneta glitter 4 6 cores flash silver gel marcador metalico para bullet journal agenda desenho diy",
-      "url": "https://shopee.com.br/product/1234149276/18299332007",
-      "affiliate_url": "https://s.shopee.com.br/AUu2LIMvU0",
-      "category": "KissShe",
-      "bucket": "kissshe",
-      "posted_ts": 1789579075,
-      "posted_at": "2026-09-16T17:17:55.304238+00:00",
-      "score": 75.77
-    },
-    {
-      "key": "shopee:22398809730",
-      "marketplace": "shopee",
-      "id": "22398809730",
-      "title": "Papel Fotográfico Adesivo 130g Glossy Brilhoso A4 200 Folhas Masterprint",
-      "title_norm": "papel fotografico adesivo 130g glossy brilhoso a4 200 folhas masterprint",
-      "url": "https://shopee.com.br/product/1046010418/22398809730",
-      "affiliate_url": "https://s.shopee.com.br/60Rcz1MO9T",
-      "category": "PAPEL.PAPELARIA",
-      "bucket": "papel_papelaria",
-      "posted_ts": 1789579011,
-      "posted_at": "2026-09-16T17:16:51.308002+00:00",
-      "score": 78.21
     }
   ],
-  "updated_at": "2026-09-25T13:21:11.240592+00:00"
+  "updated_at": "2026-09-25T14:04:56.968063+00:00"
 }
