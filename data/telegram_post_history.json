@@ -1,6 +1,20 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB5095655201",
+      "marketplace": "mercadolivre",
+      "id": "MLB5095655201",
+      "title": "Impressora Etiquetas Código Barras + 1.000 Etiquetas Cor Branco",
+      "title_norm": "impressora etiquetas codigo barras 1 000 etiquetas cor branco",
+      "url": "https://www.mercadolivre.com.br/p/MLB50110319?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB50110319?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Informática",
+      "bucket": "informatica",
+      "posted_ts": 1790301780,
+      "posted_at": "2026-09-25T02:03:00.857908+00:00",
+      "score": 86.0
+    },
+    {
       "key": "shopee:23494418394",
       "marketplace": "shopee",
       "id": "23494418394",
@@ -13985,21 +13999,7 @@
       "posted_ts": 1789539556,
       "posted_at": "2026-09-16T06:19:16.870175+00:00",
       "score": 78.41
-    },
-    {
-      "key": "shopee:22892923302",
-      "marketplace": "shopee",
-      "id": "22892923302",
-      "title": "Sapato Feminino Shekinah Scarpin Bico Fino Salto Bloco Grosso Noiva Casamento",
-      "title_norm": "sapato feminino shekinah scarpin bico fino salto bloco grosso noiva casamento",
-      "url": "https://shopee.com.br/product/375175329/22892923302",
-      "affiliate_url": "https://s.shopee.com.br/5LBwil8sIu",
-      "category": "Shekinah Calçados",
-      "bucket": "calcados",
-      "posted_ts": 1789539473,
-      "posted_at": "2026-09-16T06:17:53.983968+00:00",
-      "score": 94.76
     }
   ],
-  "updated_at": "2026-09-25T01:21:42.906809+00:00"
+  "updated_at": "2026-09-25T02:03:00.857930+00:00"
 }
