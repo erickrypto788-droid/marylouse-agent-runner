@@ -1,6 +1,34 @@
 {
   "posts": [
     {
+      "key": "shopee:22094228144",
+      "marketplace": "shopee",
+      "id": "22094228144",
+      "title": "TOMI MITO Bolsa Feminina com Alça Lateral Transversal Faixa de Mão de Couro B736",
+      "title_norm": "tomi mito bolsa feminina com alca lateral transversal faixa de mao de couro b736",
+      "url": "https://shopee.com.br/product/1468415010/22094228144",
+      "affiliate_url": "https://s.shopee.com.br/8fSeyOjiTY",
+      "category": "Amy.Store",
+      "bucket": "bolsas",
+      "posted_ts": 1790421480,
+      "posted_at": "2026-09-26T11:18:00.706614+00:00",
+      "score": 108.51
+    },
+    {
+      "key": "shopee:23294845685",
+      "marketplace": "shopee",
+      "id": "23294845685",
+      "title": "TOMI MITO Bolsa Casual Espaçosa com Zíper e Divisórias para Trabalho e Passeios  TM9181",
+      "title_norm": "tomi mito bolsa casual espacosa com ziper e divisorias para trabalho e passeios tm9181",
+      "url": "https://shopee.com.br/product/1468415010/23294845685",
+      "affiliate_url": "https://s.shopee.com.br/9zy2Yqedlw",
+      "category": "Amy.Store",
+      "bucket": "bolsas",
+      "posted_ts": 1790421411,
+      "posted_at": "2026-09-26T11:16:51.937889+00:00",
+      "score": 112.77
+    },
+    {
       "key": "shopee:22799512255",
       "marketplace": "shopee",
       "id": "22799512255",
@@ -13971,35 +13999,7 @@
       "posted_ts": 1789647671,
       "posted_at": "2026-09-17T12:21:11.331600+00:00",
       "score": 61.18
-    },
-    {
-      "key": "shopee:22199178426",
-      "marketplace": "shopee",
-      "id": "22199178426",
-      "title": "Caderneta Tipo Moleskine SKETCHBOOK Agenda Pauta Liso Wire-o Espiral Caderno Bloco Anotação Desenho",
-      "title_norm": "caderneta tipo moleskine sketchbook agenda pauta liso wire o espiral caderno bloco anotacao desenho",
-      "url": "https://shopee.com.br/product/411138765/22199178426",
-      "affiliate_url": "https://s.shopee.com.br/4VcriqPQ6m",
-      "category": "Papelaria Sinha Moça Shop",
-      "bucket": "papelaria_sinha_moca_shop",
-      "posted_ts": 1789647607,
-      "posted_at": "2026-09-17T12:20:07.210087+00:00",
-      "score": 61.46
-    },
-    {
-      "key": "shopee:23098472200",
-      "marketplace": "shopee",
-      "id": "23098472200",
-      "title": "Caderno Inteligente A5/B5/A4  Capa Dura Pautado  80 Folhas Caderno Diário Agenda Planner",
-      "title_norm": "caderno inteligente a5 b5 a4 capa dura pautado 80 folhas caderno diario agenda planner",
-      "url": "https://shopee.com.br/product/1190440853/23098472200",
-      "affiliate_url": "https://s.shopee.com.br/5AsYW4Mskq",
-      "category": "UMAIL SHOP",
-      "bucket": "umail_shop",
-      "posted_ts": 1789647543,
-      "posted_at": "2026-09-17T12:19:03.256381+00:00",
-      "score": 75.92
     }
   ],
-  "updated_at": "2026-09-26T10:21:30.998925+00:00"
+  "updated_at": "2026-09-26T11:18:00.706635+00:00"
 }
