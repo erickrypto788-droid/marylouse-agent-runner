@@ -1,6 +1,48 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB7517810920",
+      "marketplace": "mercadolivre",
+      "id": "MLB7517810920",
+      "title": "Hidratante Corporal Pessego",
+      "title_norm": "hidratante corporal pessego",
+      "url": "https://www.mercadolivre.com.br/p/MLB76609780?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB76609780?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Beleza",
+      "bucket": "beleza",
+      "posted_ts": 1790431667,
+      "posted_at": "2026-09-26T14:07:47.313030+00:00",
+      "score": 63.0
+    },
+    {
+      "key": "mercadolivre:MLB4897851395",
+      "marketplace": "mercadolivre",
+      "id": "MLB4897851395",
+      "title": "Kit 6 Amaciante Roupas Concentrado Intense Comfort 500ml",
+      "title_norm": "kit 6 amaciante roupas concentrado intense comfort 500ml",
+      "url": "https://www.mercadolivre.com.br/p/MLB32842039?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB32842039?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Supermercados",
+      "bucket": "supermercado",
+      "posted_ts": 1790431599,
+      "posted_at": "2026-09-26T14:06:39.256860+00:00",
+      "score": 114.0
+    },
+    {
+      "key": "mercadolivre:MLB4976025191",
+      "marketplace": "mercadolivre",
+      "id": "MLB4976025191",
+      "title": "2 Amaciante Roupas Concentrado Lavanda Frasco Comfort 1,5l",
+      "title_norm": "2 amaciante roupas concentrado lavanda frasco comfort 1 5l",
+      "url": "https://www.mercadolivre.com.br/p/MLB67005264?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB67005264?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Supermercados",
+      "bucket": "supermercado",
+      "posted_ts": 1790431531,
+      "posted_at": "2026-09-26T14:05:31.010980+00:00",
+      "score": 123.67
+    },
+    {
       "key": "shopee:22199178426",
       "marketplace": "shopee",
       "id": "22199178426",
@@ -13957,49 +13999,7 @@
       "posted_ts": 1789654837,
       "posted_at": "2026-09-17T14:20:37.046904+00:00",
       "score": 93.68
-    },
-    {
-      "key": "shopee:5083234596",
-      "marketplace": "shopee",
-      "id": "5083234596",
-      "title": "Manicrem Pasta De Amendoim Integral 100% Amendoim - 1kg",
-      "title_norm": "manicrem pasta de amendoim integral 100 amendoim 1kg",
-      "url": "https://shopee.com.br/product/409969707/5083234596",
-      "affiliate_url": "https://s.shopee.com.br/3g3krYSxd9",
-      "category": "MUNDO MANI",
-      "bucket": "mundo_mani",
-      "posted_ts": 1789654772,
-      "posted_at": "2026-09-17T14:19:32.147695+00:00",
-      "score": 93.84
-    },
-    {
-      "key": "shopee:18999495639",
-      "marketplace": "shopee",
-      "id": "18999495639",
-      "title": "Kit 2 Borrifadores de Azeite Vinagre Líquidos Pulverizador Culinário 200ml",
-      "title_norm": "kit 2 borrifadores de azeite vinagre liquidos pulverizador culinario 200ml",
-      "url": "https://shopee.com.br/product/1243683750/18999495639",
-      "affiliate_url": "https://s.shopee.com.br/1BMPsxh15C",
-      "category": "Top trends",
-      "bucket": "supermercado",
-      "posted_ts": 1789654707,
-      "posted_at": "2026-09-17T14:18:27.846230+00:00",
-      "score": 100.04
-    },
-    {
-      "key": "shopee:23494418394",
-      "marketplace": "shopee",
-      "id": "23494418394",
-      "title": "Kit 3x Magnésio e Inositol Taurina Melatonina 210g Bodyaction",
-      "title_norm": "kit 3x magnesio e inositol taurina melatonina 210g bodyaction",
-      "url": "https://shopee.com.br/product/443076516/23494418394",
-      "affiliate_url": "https://s.shopee.com.br/9fKy0aJWfP",
-      "category": "Bodyaction Oficial",
-      "bucket": "bodyaction_oficial",
-      "posted_ts": 1789654610,
-      "posted_at": "2026-09-17T14:16:50.243470+00:00",
-      "score": 106.33
     }
   ],
-  "updated_at": "2026-09-26T13:21:44.987149+00:00"
+  "updated_at": "2026-09-26T14:07:47.313045+00:00"
 }
