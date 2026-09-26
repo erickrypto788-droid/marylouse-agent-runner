@@ -1,6 +1,20 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB4353924282",
+      "marketplace": "mercadolivre",
+      "id": "MLB4353924282",
+      "title": "Mesa Computador Escrivaninha Notebook Gamer cor branco AJL",
+      "title_norm": "mesa computador escrivaninha notebook gamer cor branco ajl",
+      "url": "https://www.mercadolivre.com.br/p/MLB29479675?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB29479675?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Informática",
+      "bucket": "informatica",
+      "posted_ts": 1790460170,
+      "posted_at": "2026-09-26T22:02:50.067782+00:00",
+      "score": 113.0
+    },
+    {
       "key": "shopee:23492477701",
       "marketplace": "shopee",
       "id": "23492477701",
@@ -13985,21 +13999,7 @@
       "posted_ts": 1789682853,
       "posted_at": "2026-09-17T22:07:33.579204+00:00",
       "score": 154.83
-    },
-    {
-      "key": "shopee:58255958592",
-      "marketplace": "shopee",
-      "id": "58255958592",
-      "title": "Tênis Feminino Casual Blogueira Confortável e Estiloso Envio Rápido",
-      "title_norm": "tenis feminino casual blogueira confortavel e estiloso envio rapido",
-      "url": "https://shopee.com.br/product/1408365296/58255958592",
-      "affiliate_url": "https://s.shopee.com.br/3LQuvmKrcp",
-      "category": "Essenzia Calçados✔️",
-      "bucket": "calcados",
-      "posted_ts": 1789679874,
-      "posted_at": "2026-09-17T21:17:54.754526+00:00",
-      "score": 109.59
     }
   ],
-  "updated_at": "2026-09-26T21:18:08.214943+00:00"
+  "updated_at": "2026-09-26T22:02:50.067814+00:00"
 }
