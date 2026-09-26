@@ -1,6 +1,48 @@
 {
   "posts": [
     {
+      "key": "shopee:58254696881",
+      "marketplace": "shopee",
+      "id": "58254696881",
+      "title": "Ventilador de Coluna Britânia Maxx Force 6 Pás 75W BVC31A",
+      "title_norm": "ventilador de coluna britania maxx force 6 pas 75w bvc31a",
+      "url": "https://shopee.com.br/product/811879342/58254696881",
+      "affiliate_url": "https://s.shopee.com.br/1AgBd8c9e",
+      "category": "Britânia Oficial",
+      "bucket": "britania_oficial",
+      "posted_ts": 1790396338,
+      "posted_at": "2026-09-26T04:18:58.023586+00:00",
+      "score": 65.35
+    },
+    {
+      "key": "shopee:58257043096",
+      "marketplace": "shopee",
+      "id": "58257043096",
+      "title": "Liquidificador Triturador Compacto para suco com Led - suco e frutas Bivolt 600ml   novo ZZJ",
+      "title_norm": "liquidificador triturador compacto para suco com led suco e frutas bivolt 600ml novo zzj",
+      "url": "https://shopee.com.br/product/1671644940/58257043096",
+      "affiliate_url": "https://s.shopee.com.br/8Kpo6wYhEi",
+      "category": "CAI STORE ELETRONICOS",
+      "bucket": "casa_cozinha",
+      "posted_ts": 1790396273,
+      "posted_at": "2026-09-26T04:17:53.471885+00:00",
+      "score": 115.8
+    },
+    {
+      "key": "shopee:23394548691",
+      "marketplace": "shopee",
+      "id": "23394548691",
+      "title": "Mini Panela elétrica     （110V  /  220V）",
+      "title_norm": "mini panela eletrica 110v 220v",
+      "url": "https://shopee.com.br/product/1388839852/23394548691",
+      "affiliate_url": "https://s.shopee.com.br/5LCCXQxFPz",
+      "category": "RIO CENTER BAZAR E COMERCIO LTDA",
+      "bucket": "casa_cozinha",
+      "posted_ts": 1790396209,
+      "posted_at": "2026-09-26T04:16:49.214671+00:00",
+      "score": 118.29
+    },
+    {
       "key": "shopee:45754796089",
       "marketplace": "shopee",
       "id": "45754796089",
@@ -13957,49 +13999,7 @@
       "posted_ts": 1789622483,
       "posted_at": "2026-09-17T05:21:23.346688+00:00",
       "score": 96.23
-    },
-    {
-      "key": "shopee:40111757733",
-      "marketplace": "shopee",
-      "id": "40111757733",
-      "title": "Shorts Curto Cotton Infantil Menina – Ideal para Usar com Saias e Vestidos | 2 a 12 Anos",
-      "title_norm": "shorts curto cotton infantil menina ideal para usar com saias e vestidos 2 a 12 anos",
-      "url": "https://shopee.com.br/product/391306526/40111757733",
-      "affiliate_url": "https://s.shopee.com.br/1qc657eGsr",
-      "category": "ArtKids",
-      "bucket": "moda_feminina",
-      "posted_ts": 1789622419,
-      "posted_at": "2026-09-17T05:20:19.034845+00:00",
-      "score": 97.76
-    },
-    {
-      "key": "shopee:58263195969",
-      "marketplace": "shopee",
-      "id": "58263195969",
-      "title": "Tênis Infantil Baby Confortável Casual Leve Para Menino e Menina Sapatinho Promoção",
-      "title_norm": "tenis infantil baby confortavel casual leve para menino e menina sapatinho promocao",
-      "url": "https://shopee.com.br/product/1482979442/58263195969",
-      "affiliate_url": "https://s.shopee.com.br/8fSQDgNGKn",
-      "category": "brutinhoss",
-      "bucket": "calcados",
-      "posted_ts": 1789622354,
-      "posted_at": "2026-09-17T05:19:14.781691+00:00",
-      "score": 99.27
-    },
-    {
-      "key": "shopee:22094442475",
-      "marketplace": "shopee",
-      "id": "22094442475",
-      "title": "Kit Tênis Infantil Escolar Masculino Calce Fácil Sem Cardaço Confortável Leve",
-      "title_norm": "kit tenis infantil escolar masculino calce facil sem cardaco confortavel leve",
-      "url": "https://shopee.com.br/product/1458530949/22094442475",
-      "affiliate_url": "https://s.shopee.com.br/8AW9clPALk",
-      "category": "Starkcalçados",
-      "bucket": "calcados",
-      "posted_ts": 1789622290,
-      "posted_at": "2026-09-17T05:18:10.519134+00:00",
-      "score": 99.5
     }
   ],
-  "updated_at": "2026-09-26T03:19:11.211131+00:00"
+  "updated_at": "2026-09-26T04:18:58.023609+00:00"
 }
