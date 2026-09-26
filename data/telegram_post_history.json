@@ -1,6 +1,34 @@
 {
   "posts": [
     {
+      "key": "shopee:23492477701",
+      "marketplace": "shopee",
+      "id": "23492477701",
+      "title": "Tênis Infantil Menino Masculino Casual Sapatenis Infantil",
+      "title_norm": "tenis infantil menino masculino casual sapatenis infantil",
+      "url": "https://shopee.com.br/product/287287585/23492477701",
+      "affiliate_url": "https://s.shopee.com.br/40gokcm1zX",
+      "category": "Comprei Calçados",
+      "bucket": "calcados",
+      "posted_ts": 1790457488,
+      "posted_at": "2026-09-26T21:18:08.214923+00:00",
+      "score": 89.85
+    },
+    {
+      "key": "shopee:23493066342",
+      "marketplace": "shopee",
+      "id": "23493066342",
+      "title": "Bota PVC Chuva Motociclista Moto Impermeável Forrado",
+      "title_norm": "bota pvc chuva motociclista moto impermeavel forrado",
+      "url": "https://shopee.com.br/product/1081929427/23493066342",
+      "affiliate_url": "https://s.shopee.com.br/3g3yM0wJ0M",
+      "category": "Safe_Brasil",
+      "bucket": "calcados",
+      "posted_ts": 1790457419,
+      "posted_at": "2026-09-26T21:16:59.662072+00:00",
+      "score": 103.41
+    },
+    {
       "key": "shopee:58261159718",
       "marketplace": "shopee",
       "id": "58261159718",
@@ -13971,35 +13999,7 @@
       "posted_ts": 1789679874,
       "posted_at": "2026-09-17T21:17:54.754526+00:00",
       "score": 109.59
-    },
-    {
-      "key": "shopee:10339950472",
-      "marketplace": "shopee",
-      "id": "10339950472",
-      "title": "Tênis Para Caminhada Feminino Academia Trança Confortável Leve Novidade",
-      "title_norm": "tenis para caminhada feminino academia tranca confortavel leve novidade",
-      "url": "https://shopee.com.br/product/519901060/10339950472",
-      "affiliate_url": "https://s.shopee.com.br/2gBE8YNOyl",
-      "category": "Evoltenn Point",
-      "bucket": "calcados",
-      "posted_ts": 1789679806,
-      "posted_at": "2026-09-17T21:16:46.572092+00:00",
-      "score": 120.09
-    },
-    {
-      "key": "shopee:58263369269",
-      "marketplace": "shopee",
-      "id": "58263369269",
-      "title": "Tênis Masculino Academia Casual Esportivo Para Treino Crossfit Caminhada",
-      "title_norm": "tenis masculino academia casual esportivo para treino crossfit caminhada",
-      "url": "https://shopee.com.br/product/1598184222/58263369269",
-      "affiliate_url": "https://s.shopee.com.br/3B7UfMEa5D",
-      "category": "De Macedos 2.0",
-      "bucket": "calcados",
-      "posted_ts": 1789676271,
-      "posted_at": "2026-09-17T20:17:51.719279+00:00",
-      "score": 109.4
     }
   ],
-  "updated_at": "2026-09-26T20:18:56.398194+00:00"
+  "updated_at": "2026-09-26T21:18:08.214943+00:00"
 }
