@@ -1,6 +1,21 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB7625830504",
+      "product_id": "MLB7625830504",
+      "catalog_product_id": "MLB78672090",
+      "item_id": "MLB7625830504",
+      "url": "https://www.mercadolivre.com.br/p/MLB78672090?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB78672090?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "impressora etiquetas adesivas 1 000 etiquetas 10x15cm branco",
+      "title": "Impressora Etiquetas Adesivas + 1.000 Etiquetas 10x15cm Branco",
+      "category": "Informática",
+      "price": 589.1,
+      "score": 108.24,
+      "posted_ts": 1790424185,
+      "posted_at": "2026-09-26T12:03:05.512667+00:00"
+    },
+    {
       "key": "mercadolivre:MLB7580832078",
       "product_id": "MLB7580832078",
       "catalog_product_id": "MLB77579661",
@@ -419,82 +434,7 @@
       "score": 88.0,
       "posted_ts": 1790251451,
       "posted_at": "2026-09-24T12:04:11.054081+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB6442123488",
-      "product_id": "MLB6442123488",
-      "catalog_product_id": "MLB65794107",
-      "item_id": "MLB6442123488",
-      "url": "https://www.mercadolivre.com.br/p/MLB65794107?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB65794107?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "hidratante corporal relaxante",
-      "title": "Hidratante Corporal Relaxante",
-      "category": "Beleza",
-      "price": 85.6,
-      "score": 78.87,
-      "posted_ts": 1790248342,
-      "posted_at": "2026-09-24T11:12:22.182944+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB4158770181",
-      "product_id": "MLB4158770181",
-      "catalog_product_id": "MLB35007224",
-      "item_id": "MLB4158770181",
-      "url": "https://www.mercadolivre.com.br/p/MLB35007224?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB35007224?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "vinagreen amaciante roupas campos de lavanda concentrado 1l",
-      "title": "Vinagreen Amaciante Roupas Campos De Lavanda Concentrado 1l",
-      "category": "Supermercados",
-      "price": 46.88,
-      "score": 114.0,
-      "posted_ts": 1790248278,
-      "posted_at": "2026-09-24T11:11:18.024946+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB7480232532",
-      "product_id": "MLB7480232532",
-      "catalog_product_id": "MLB54116785",
-      "item_id": "MLB7480232532",
-      "url": "https://www.mercadolivre.com.br/p/MLB54116785?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB54116785?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "papel higienico folha simples fofopel 30m 16 rolos",
-      "title": "Papel Higiênico Folha Simples Fofopel 30m 16 Rolos",
-      "category": "Supermercados",
-      "price": 84.99,
-      "score": 114.0,
-      "posted_ts": 1790248213,
-      "posted_at": "2026-09-24T11:10:13.945715+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB7585846264",
-      "product_id": "MLB7585846264",
-      "catalog_product_id": "MLB48357469",
-      "item_id": "MLB7585846264",
-      "url": "https://www.mercadolivre.com.br/p/MLB48357469?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB48357469?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "fralda pampers premium care tamanho g 94 unidades",
-      "title": "Fralda Pampers Premium Care Tamanho G 94 Unidades",
-      "category": "Mãe e Bebê",
-      "price": 194.0,
-      "score": 130.0,
-      "posted_ts": 1790248100,
-      "posted_at": "2026-09-24T11:08:20.139388+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB6365986234",
-      "product_id": "MLB6365986234",
-      "catalog_product_id": "MLB20324973",
-      "item_id": "MLB6365986234",
-      "url": "https://www.mercadolivre.com.br/p/MLB20324973?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB20324973?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "papel toalha folha dupla caixa",
-      "title": "Papel Toalha Folha Dupla Caixa",
-      "category": "Supermercados",
-      "price": 155.2,
-      "score": 155.15,
-      "posted_ts": 1790248025,
-      "posted_at": "2026-09-24T11:07:05.097193+00:00"
     }
   ],
-  "updated_at": "2026-09-26T09:02:52.934924+00:00"
+  "updated_at": "2026-09-26T12:03:05.512676+00:00"
 }
