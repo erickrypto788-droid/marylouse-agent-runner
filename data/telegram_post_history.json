@@ -1,6 +1,34 @@
 {
   "posts": [
     {
+      "key": "shopee:43854643103",
+      "marketplace": "shopee",
+      "id": "43854643103",
+      "title": "Oxímetro de Dedo Digital Portátil com Tela LED, Leitura Rápida de SpO2 e Pulso para Uso Doméstico e Viagem",
+      "title_norm": "oximetro de dedo digital portatil com tela led leitura rapida de spo2 e pulso para uso domestico e viagem",
+      "url": "https://shopee.com.br/product/1432047639/43854643103",
+      "affiliate_url": "https://s.shopee.com.br/6VOAGB0Slh",
+      "category": "Tudo e Mais.br",
+      "bucket": "saude",
+      "posted_ts": 1790414282,
+      "posted_at": "2026-09-26T09:18:02.248642+00:00",
+      "score": 99.64
+    },
+    {
+      "key": "shopee:20999244718",
+      "marketplace": "shopee",
+      "id": "20999244718",
+      "title": "Inalador E Nebulizador Compressor De Ar Comprimido Compact DC1 G-Tech Infantil Remédio e Corticoides",
+      "title_norm": "inalador e nebulizador compressor de ar comprimido compact dc1 g tech infantil remedio e corticoides",
+      "url": "https://shopee.com.br/product/961638733/20999244718",
+      "affiliate_url": "https://s.shopee.com.br/qjnVlHhll",
+      "category": "ROMALIZ",
+      "bucket": "saude",
+      "posted_ts": 1790414214,
+      "posted_at": "2026-09-26T09:16:54.367739+00:00",
+      "score": 117.33
+    },
+    {
       "key": "mercadolivre:MLB7580832078",
       "marketplace": "mercadolivre",
       "id": "MLB7580832078",
@@ -13971,35 +13999,7 @@
       "posted_ts": 1789640271,
       "posted_at": "2026-09-17T10:17:51.978038+00:00",
       "score": 106.6
-    },
-    {
-      "key": "shopee:23198643344",
-      "marketplace": "shopee",
-      "id": "23198643344",
-      "title": "Bolsa Feminina Crossbody Transversal Pequena Necessaire Tecido Impermeável",
-      "title_norm": "bolsa feminina crossbody transversal pequena necessaire tecido impermeavel",
-      "url": "https://shopee.com.br/product/1448484843/23198643344",
-      "affiliate_url": "https://s.shopee.com.br/W6ipFw0tt",
-      "category": "YL.BR.BOLSAS",
-      "bucket": "bolsas",
-      "posted_ts": 1789640207,
-      "posted_at": "2026-09-17T10:16:47.806267+00:00",
-      "score": 108.75
-    },
-    {
-      "key": "mercadolivre:MLB7649795198",
-      "marketplace": "mercadolivre",
-      "id": "MLB7649795198",
-      "title": "Barbeador elétrico profissional WAIKIL, barbeador elétrico recarregável, adequado para barba, recarregável Ipx7 sem fio, cabelo e cabelo corporal",
-      "title_norm": "barbeador eletrico profissional waikil barbeador eletrico recarregavel adequado para barba recarregavel ipx7 sem fio cabelo e cabelo corporal",
-      "url": "https://www.mercadolivre.com.br/p/MLB77944817?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB77944817?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "category": "Beleza",
-      "bucket": "beleza",
-      "posted_ts": 1789639422,
-      "posted_at": "2026-09-17T10:03:42.286647+00:00",
-      "score": 113.0
     }
   ],
-  "updated_at": "2026-09-26T09:02:52.919956+00:00"
+  "updated_at": "2026-09-26T09:18:02.248659+00:00"
 }
