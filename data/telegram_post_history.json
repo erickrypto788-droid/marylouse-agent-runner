@@ -1,6 +1,48 @@
 {
   "posts": [
     {
+      "key": "shopee:58216005652",
+      "marketplace": "shopee",
+      "id": "58216005652",
+      "title": "Bota Coturno Masculina de Segurança Adventure Trilha Trabalho Confortável Super Leve de Cano Médio Macia + Carteira",
+      "title_norm": "bota coturno masculina de seguranca adventure trilha trabalho confortavel super leve de cano medio macia carteira",
+      "url": "https://shopee.com.br/product/720028659/58216005652",
+      "affiliate_url": "https://s.shopee.com.br/8pm5EpC4Cd",
+      "category": "LOJAOMAX",
+      "bucket": "calcados",
+      "posted_ts": 1790425144,
+      "posted_at": "2026-09-26T12:19:04.423590+00:00",
+      "score": 93.19
+    },
+    {
+      "key": "shopee:19197658752",
+      "marketplace": "shopee",
+      "id": "19197658752",
+      "title": "Mochila Grande Masculina Feminina De Viagem Bolsa Academia",
+      "title_norm": "mochila grande masculina feminina de viagem bolsa academia",
+      "url": "https://shopee.com.br/product/222975446/19197658752",
+      "affiliate_url": "https://s.shopee.com.br/BU6utejEw",
+      "category": "Luxor Comercial",
+      "bucket": "bolsas",
+      "posted_ts": 1790425080,
+      "posted_at": "2026-09-26T12:18:00.341794+00:00",
+      "score": 94.57
+    },
+    {
+      "key": "shopee:17981546025",
+      "marketplace": "shopee",
+      "id": "17981546025",
+      "title": "Mochila Unissex Notebook Resistente Água para Viagem ou Escola Compartimento interno acolchoado para Notebook  RC-2528",
+      "title_norm": "mochila unissex notebook resistente agua para viagem ou escola compartimento interno acolchoado para notebook rc 2528",
+      "url": "https://shopee.com.br/product/379659209/17981546025",
+      "affiliate_url": "https://s.shopee.com.br/gQNVocpE7",
+      "category": "magiaworld",
+      "bucket": "informatica",
+      "posted_ts": 1790425008,
+      "posted_at": "2026-09-26T12:16:48.461273+00:00",
+      "score": 126.3
+    },
+    {
       "key": "mercadolivre:MLB7625830504",
       "marketplace": "mercadolivre",
       "id": "MLB7625830504",
@@ -13957,49 +13999,7 @@
       "posted_ts": 1789651078,
       "posted_at": "2026-09-17T13:17:58.045812+00:00",
       "score": 114.44
-    },
-    {
-      "key": "shopee:22963103377",
-      "marketplace": "shopee",
-      "id": "22963103377",
-      "title": "Unidade De Estado Sólido Portátil SSD Externa E61 4TB 128TB 1TB 2TB Tipo C A USB 3.2 Gen2 Disco Rígido Móvel Para PC PS5",
-      "title_norm": "unidade de estado solido portatil ssd externa e61 4tb 128tb 1tb 2tb tipo c a usb 3 2 gen2 disco rigido movel para pc ps5",
-      "url": "https://shopee.com.br/product/1141918344/22963103377",
-      "affiliate_url": "https://s.shopee.com.br/2gBDbbPzID",
-      "category": "shuzei.br",
-      "bucket": "informatica",
-      "posted_ts": 1789651013,
-      "posted_at": "2026-09-17T13:16:53.805006+00:00",
-      "score": 117.47
-    },
-    {
-      "key": "mercadolivre:MLB6198484798",
-      "marketplace": "mercadolivre",
-      "id": "MLB6198484798",
-      "title": "Roteador Wifi Maxlink Ac1200g (10pc)",
-      "title_norm": "roteador wifi maxlink ac1200g 10pc",
-      "url": "https://www.mercadolivre.com.br/p/MLB42822160?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB42822160?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "category": "Informática",
-      "bucket": "informatica",
-      "posted_ts": 1789650235,
-      "posted_at": "2026-09-17T13:03:55.462184+00:00",
-      "score": 88.0
-    },
-    {
-      "key": "mercadolivre:MLB4353924282",
-      "marketplace": "mercadolivre",
-      "id": "MLB4353924282",
-      "title": "Mesa Computador Escrivaninha Notebook Gamer cor branco AJL",
-      "title_norm": "mesa computador escrivaninha notebook gamer cor branco ajl",
-      "url": "https://www.mercadolivre.com.br/p/MLB29479675?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB29479675?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "category": "Informática",
-      "bucket": "informatica",
-      "posted_ts": 1789650171,
-      "posted_at": "2026-09-17T13:02:51.323424+00:00",
-      "score": 113.0
     }
   ],
-  "updated_at": "2026-09-26T12:03:05.498758+00:00"
+  "updated_at": "2026-09-26T12:19:04.423604+00:00"
 }
