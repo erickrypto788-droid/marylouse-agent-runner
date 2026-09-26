@@ -1,6 +1,21 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB5454690706",
+      "product_id": "MLB5454690706",
+      "catalog_product_id": "MLB22813112",
+      "item_id": "MLB5454690706",
+      "url": "https://www.mercadolivre.com.br/p/MLB22813112?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB22813112?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "cadeira escritorio secretaria rcp preto",
+      "title": "Cadeira Escritório Secretaria Rcp Preto",
+      "category": "Casa e Cozinha",
+      "price": 261.89,
+      "score": 88.0,
+      "posted_ts": 1790438614,
+      "posted_at": "2026-09-26T16:03:34.357468+00:00"
+    },
+    {
       "key": "mercadolivre:MLB7517810920",
       "product_id": "MLB7517810920",
       "catalog_product_id": "MLB76609780",
@@ -419,22 +434,7 @@
       "score": 88.0,
       "posted_ts": 1790276594,
       "posted_at": "2026-09-24T19:03:14.314687+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB5209308589",
-      "product_id": "MLB5209308589",
-      "catalog_product_id": "MLB77141871",
-      "item_id": "MLB5209308589",
-      "url": "https://www.mercadolivre.com.br/p/MLB77141871?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB77141871?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "perfume masculino millions",
-      "title": "Perfume Masculino Millions",
-      "category": "Beleza",
-      "price": 184.0,
-      "score": 188.67,
-      "posted_ts": 1790265767,
-      "posted_at": "2026-09-24T16:02:47.744214+00:00"
     }
   ],
-  "updated_at": "2026-09-26T14:07:47.326849+00:00"
+  "updated_at": "2026-09-26T16:03:34.357486+00:00"
 }

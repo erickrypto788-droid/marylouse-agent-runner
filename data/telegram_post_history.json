@@ -1,6 +1,20 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB5454690706",
+      "marketplace": "mercadolivre",
+      "id": "MLB5454690706",
+      "title": "Cadeira Escritório Secretaria Rcp Preto",
+      "title_norm": "cadeira escritorio secretaria rcp preto",
+      "url": "https://www.mercadolivre.com.br/p/MLB22813112?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB22813112?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Casa e Cozinha",
+      "bucket": "casa_e_cozinha",
+      "posted_ts": 1790438614,
+      "posted_at": "2026-09-26T16:03:34.341433+00:00",
+      "score": 88.0
+    },
+    {
       "key": "shopee:3775644666",
       "marketplace": "shopee",
       "id": "3775644666",
@@ -13985,21 +13999,7 @@
       "posted_ts": 1789665409,
       "posted_at": "2026-09-17T17:16:49.938955+00:00",
       "score": 99.03
-    },
-    {
-      "key": "mercadolivre:MLB3222635196",
-      "marketplace": "mercadolivre",
-      "id": "MLB3222635196",
-      "title": "Braçadeira para Aparelho Monitor Pressão Digital Infantil Omron",
-      "title_norm": "bracadeira para aparelho monitor pressao digital infantil omron",
-      "url": "https://www.mercadolivre.com.br/p/MLB21719639?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB21719639?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "category": "Informática",
-      "bucket": "informatica",
-      "posted_ts": 1789664564,
-      "posted_at": "2026-09-17T17:02:44.947866+00:00",
-      "score": 95.09
     }
   ],
-  "updated_at": "2026-09-26T15:21:13.065161+00:00"
+  "updated_at": "2026-09-26T16:03:34.341452+00:00"
 }
