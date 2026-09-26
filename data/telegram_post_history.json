@@ -1,6 +1,20 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB5292061071",
+      "marketplace": "mercadolivre",
+      "id": "MLB5292061071",
+      "title": "Ssd Nvme 512gb Ceamere",
+      "title_norm": "ssd nvme 512gb ceamere",
+      "url": "https://www.mercadolivre.com.br/p/MLB24511655?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB24511655?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Informática",
+      "bucket": "informatica",
+      "posted_ts": 1790398960,
+      "posted_at": "2026-09-26T05:02:40.946303+00:00",
+      "score": 111.0
+    },
+    {
       "key": "shopee:58254696881",
       "marketplace": "shopee",
       "id": "58254696881",
@@ -13985,21 +13999,7 @@
       "posted_ts": 1789625031,
       "posted_at": "2026-09-17T06:03:51.195252+00:00",
       "score": 88.0
-    },
-    {
-      "key": "shopee:58208153599",
-      "marketplace": "shopee",
-      "id": "58208153599",
-      "title": "Kit 5 CAMISETAS Lisas Básicas MENINO Coloridas Verão Algodão Confortável",
-      "title_norm": "kit 5 camisetas lisas basicas menino coloridas verao algodao confortavel",
-      "url": "https://shopee.com.br/product/1633765168/58208153599",
-      "affiliate_url": "https://s.shopee.com.br/4B00rPZzhA",
-      "category": "Levibi Modas",
-      "bucket": "levibi_modas",
-      "posted_ts": 1789622483,
-      "posted_at": "2026-09-17T05:21:23.346688+00:00",
-      "score": 96.23
     }
   ],
-  "updated_at": "2026-09-26T04:18:58.023609+00:00"
+  "updated_at": "2026-09-26T05:02:40.946315+00:00"
 }
