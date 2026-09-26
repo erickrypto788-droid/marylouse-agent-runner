@@ -1,6 +1,48 @@
 {
   "posts": [
     {
+      "key": "shopee:58200212094",
+      "marketplace": "shopee",
+      "id": "58200212094",
+      "title": "Capa Capinha Para Samsung A06 A07 A15 A16 A17 A25 A35 A54 A55 S26 Silicone Premium Com MagSafe",
+      "title_norm": "capa capinha para samsung a06 a07 a15 a16 a17 a25 a35 a54 a55 s26 silicone premium com magsafe",
+      "url": "https://shopee.com.br/product/1064476955/58200212094",
+      "affiliate_url": "https://s.shopee.com.br/4qFvsOEUyv",
+      "category": "FÊNIX IMPORT ",
+      "bucket": "fenix_import",
+      "posted_ts": 1790464740,
+      "posted_at": "2026-09-26T23:19:00.545586+00:00",
+      "score": 30.05
+    },
+    {
+      "key": "shopee:23091546001",
+      "marketplace": "shopee",
+      "id": "23091546001",
+      "title": "Amplificador De Imagem Da Tela Do Celular Lupa 3D 21,6CM*16,6CM*2,7CM Promoção",
+      "title_norm": "amplificador de imagem da tela do celular lupa 3d 21 6cm 16 6cm 2 7cm promocao",
+      "url": "https://shopee.com.br/product/832040275/23091546001",
+      "affiliate_url": "https://s.shopee.com.br/60RqbibSYF",
+      "category": "P&H  Oficial",
+      "bucket": "celulares",
+      "posted_ts": 1790464676,
+      "posted_at": "2026-09-26T23:17:56.486162+00:00",
+      "score": 121.37
+    },
+    {
+      "key": "shopee:58202799294",
+      "marketplace": "shopee",
+      "id": "58202799294",
+      "title": "Kit 2 cartões de memória 128gb ultra muito mais memória smartphone",
+      "title_norm": "kit 2 cartoes de memoria 128gb ultra muito mais memoria smartphone",
+      "url": "https://shopee.com.br/product/1399363201/58202799294",
+      "affiliate_url": "https://s.shopee.com.br/4qFvsOA1vE",
+      "category": "Info_SHOP",
+      "bucket": "celulares",
+      "posted_ts": 1790464612,
+      "posted_at": "2026-09-26T23:16:52.303044+00:00",
+      "score": 126.47
+    },
+    {
       "key": "shopee:41672473191",
       "marketplace": "shopee",
       "id": "41672473191",
@@ -13957,49 +13999,7 @@
       "posted_ts": 1789686315,
       "posted_at": "2026-09-17T23:05:15.698049+00:00",
       "score": 107.47
-    },
-    {
-      "key": "mercadolivre:MLB7079122650",
-      "marketplace": "mercadolivre",
-      "id": "MLB7079122650",
-      "title": "Conjunto Feminino Alfaiataria Bermuda Blusa Elegante Peplum Conjunto Feminino Bege",
-      "title_norm": "conjunto feminino alfaiataria bermuda blusa elegante peplum conjunto feminino bege",
-      "url": "https://www.mercadolivre.com.br/p/MLB74851412?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB74851412?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "category": "Moda Feminina",
-      "bucket": "moda_feminina",
-      "posted_ts": 1789686251,
-      "posted_at": "2026-09-17T23:04:11.536472+00:00",
-      "score": 109.5
-    },
-    {
-      "key": "mercadolivre:MLB7594382320",
-      "marketplace": "mercadolivre",
-      "id": "MLB7594382320",
-      "title": "Condicionador de Metais Bardhal BH-CONDICIONADOR 200ml Motor Carro",
-      "title_norm": "condicionador de metais bardhal bh condicionador 200ml motor carro",
-      "url": "https://www.mercadolivre.com.br/p/MLB60550872?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB60550872?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "category": "Beleza",
-      "bucket": "beleza",
-      "posted_ts": 1789683055,
-      "posted_at": "2026-09-17T22:10:55.129710+00:00",
-      "score": 88.0
-    },
-    {
-      "key": "mercadolivre:MLB5118569459",
-      "marketplace": "mercadolivre",
-      "id": "MLB5118569459",
-      "title": "Arroz Motigome 1kg",
-      "title_norm": "arroz motigome 1kg",
-      "url": "https://www.mercadolivre.com.br/p/MLB21407698?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB21407698?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "category": "Supermercados",
-      "bucket": "supermercados",
-      "posted_ts": 1789682987,
-      "posted_at": "2026-09-17T22:09:47.944563+00:00",
-      "score": 93.74
     }
   ],
-  "updated_at": "2026-09-26T22:17:55.568766+00:00"
+  "updated_at": "2026-09-26T23:19:00.545600+00:00"
 }
