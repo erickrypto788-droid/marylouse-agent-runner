@@ -1,6 +1,36 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB7650020050",
+      "product_id": "MLB7650020050",
+      "catalog_product_id": "MLB47306242",
+      "item_id": "MLB7650020050",
+      "url": "https://www.mercadolivre.com.br/p/MLB47306242?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB47306242?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "motorola smartphone motorola razr 50 ultra 5g cor pink",
+      "title": "Motorola Smartphone Motorola Razr 50 Ultra 5g Cor Pink",
+      "category": "Informática",
+      "price": 4199.0,
+      "score": 124.0,
+      "posted_ts": 1790406237,
+      "posted_at": "2026-09-26T07:03:57.387158+00:00"
+    },
+    {
+      "key": "mercadolivre:MLB5292565611",
+      "product_id": "MLB5292565611",
+      "catalog_product_id": "MLB43264591",
+      "item_id": "MLB5292565611",
+      "url": "https://www.mercadolivre.com.br/p/MLB43264591?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB43264591?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "smartphone xiaomi redmi 14c preto 128gb 4gb ram",
+      "title": "Smartphone Xiaomi Redmi 14C Preto 128GB 4GB RAM",
+      "category": "Informática",
+      "price": 859.08,
+      "score": 127.0,
+      "posted_ts": 1790406167,
+      "posted_at": "2026-09-26T07:02:47.444705+00:00"
+    },
+    {
       "key": "mercadolivre:MLB5292061071",
       "product_id": "MLB5292061071",
       "catalog_product_id": "MLB24511655",
@@ -464,22 +494,7 @@
       "score": 156.96,
       "posted_ts": 1790236972,
       "posted_at": "2026-09-24T08:02:52.037933+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB4109571517",
-      "product_id": "MLB4109571517",
-      "catalog_product_id": "MLB28523781",
-      "item_id": "MLB4109571517",
-      "url": "https://www.mercadolivre.com.br/p/MLB28523781?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB28523781?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "alimento royal canin hair skin 3kg racao gato",
-      "title": "Alimento Royal Canin Hair & Skin 3kg Ração Gato",
-      "category": "Pet",
-      "price": 257.0,
-      "score": 122.92,
-      "posted_ts": 1790229774,
-      "posted_at": "2026-09-24T06:02:54.429588+00:00"
     }
   ],
-  "updated_at": "2026-09-26T05:02:40.960322+00:00"
+  "updated_at": "2026-09-26T07:03:57.387167+00:00"
 }

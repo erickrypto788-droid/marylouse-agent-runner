@@ -1,6 +1,34 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB7650020050",
+      "marketplace": "mercadolivre",
+      "id": "MLB7650020050",
+      "title": "Motorola Smartphone Motorola Razr 50 Ultra 5g Cor Pink",
+      "title_norm": "motorola smartphone motorola razr 50 ultra 5g cor pink",
+      "url": "https://www.mercadolivre.com.br/p/MLB47306242?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB47306242?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Informática",
+      "bucket": "celulares",
+      "posted_ts": 1790406237,
+      "posted_at": "2026-09-26T07:03:57.373584+00:00",
+      "score": 124.0
+    },
+    {
+      "key": "mercadolivre:MLB5292565611",
+      "marketplace": "mercadolivre",
+      "id": "MLB5292565611",
+      "title": "Smartphone Xiaomi Redmi 14C Preto 128GB 4GB RAM",
+      "title_norm": "smartphone xiaomi redmi 14c preto 128gb 4gb ram",
+      "url": "https://www.mercadolivre.com.br/p/MLB43264591?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB43264591?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Informática",
+      "bucket": "celulares",
+      "posted_ts": 1790406167,
+      "posted_at": "2026-09-26T07:02:47.430664+00:00",
+      "score": 127.0
+    },
+    {
       "key": "shopee:23092250306",
       "marketplace": "shopee",
       "id": "23092250306",
@@ -13971,35 +13999,7 @@
       "posted_ts": 1789633024,
       "posted_at": "2026-09-17T08:17:04.304992+00:00",
       "score": 118.19
-    },
-    {
-      "key": "shopee:20199323262",
-      "marketplace": "shopee",
-      "id": "20199323262",
-      "title": "MEDOOSI 82/54  Peças Jogos infantil de Pescaria Magnético / Brinquedos Montessori Educacional de Madeira para Crianças",
-      "title_norm": "medoosi 82 54 pecas jogos infantil de pescaria magnetico brinquedos montessori educacional de madeira para criancas",
-      "url": "https://shopee.com.br/product/1257233492/20199323262",
-      "affiliate_url": "https://s.shopee.com.br/BTsEHGal6",
-      "category": "MEDOOSI-BR",
-      "bucket": "medoosi_br",
-      "posted_ts": 1789629688,
-      "posted_at": "2026-09-17T07:21:28.308278+00:00",
-      "score": 83.16
-    },
-    {
-      "key": "shopee:46306062636",
-      "marketplace": "shopee",
-      "id": "46306062636",
-      "title": "Spot It Jogo De Cartas Clássico Para Crianças Tabuleiro Educacional Família Desenvolvimento De Foco 2 8 Jogadores Brinqu",
-      "title_norm": "spot it jogo de cartas classico para criancas tabuleiro educacional familia desenvolvimento de foco 2 8 jogadores brinqu",
-      "url": "https://shopee.com.br/product/1006215031/46306062636",
-      "affiliate_url": "https://s.shopee.com.br/AUu4XGdFmp",
-      "category": "Choice Oficial",
-      "bucket": "choice_oficial",
-      "posted_ts": 1789629618,
-      "posted_at": "2026-09-17T07:20:18.718652+00:00",
-      "score": 83.96
     }
   ],
-  "updated_at": "2026-09-26T06:21:24.870438+00:00"
+  "updated_at": "2026-09-26T07:03:57.373597+00:00"
 }
