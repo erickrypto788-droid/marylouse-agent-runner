@@ -1,6 +1,48 @@
 {
   "posts": [
     {
+      "key": "shopee:45754796089",
+      "marketplace": "shopee",
+      "id": "45754796089",
+      "title": "Tomada de Carregador para Carro com Dupla Entrada Tipo-C e Duplas USB, 4 Portas, Carregamento Rápido, à Prova d'Água",
+      "title_norm": "tomada de carregador para carro com dupla entrada tipo c e duplas usb 4 portas carregamento rapido a prova d agua",
+      "url": "https://shopee.com.br/product/1006215031/45754796089",
+      "affiliate_url": "https://s.shopee.com.br/1Lg3hxalA5",
+      "category": "Choice Oficial",
+      "bucket": "choice_oficial",
+      "posted_ts": 1790392751,
+      "posted_at": "2026-09-26T03:19:11.211117+00:00",
+      "score": 105.09
+    },
+    {
+      "key": "shopee:19899093597",
+      "marketplace": "shopee",
+      "id": "19899093597",
+      "title": "Mini carregador portatil power bank para celular IPNHONE Samsung Xiaomi novo",
+      "title_norm": "mini carregador portatil power bank para celular ipnhone samsung xiaomi novo",
+      "url": "https://shopee.com.br/product/465639879/19899093597",
+      "affiliate_url": "https://s.shopee.com.br/4fwVg5FCZ3",
+      "category": "T&TBem_vindo.br",
+      "bucket": "celulares",
+      "posted_ts": 1790392687,
+      "posted_at": "2026-09-26T03:18:07.245429+00:00",
+      "score": 127.27
+    },
+    {
+      "key": "shopee:18899548586",
+      "marketplace": "shopee",
+      "id": "18899548586",
+      "title": "Caneta Touch Screen Ponta Fina Desenho iPad iPhone Android Alta Precisão Universal Design Grafico",
+      "title_norm": "caneta touch screen ponta fina desenho ipad iphone android alta precisao universal design grafico",
+      "url": "https://shopee.com.br/product/415175805/18899548586",
+      "affiliate_url": "https://s.shopee.com.br/BU6JoaaxQ",
+      "category": "Isabela Top",
+      "bucket": "celulares",
+      "posted_ts": 1790392615,
+      "posted_at": "2026-09-26T03:16:55.195007+00:00",
+      "score": 151.53
+    },
+    {
       "key": "shopee:40360368378",
       "marketplace": "shopee",
       "id": "40360368378",
@@ -13957,49 +13999,7 @@
       "posted_ts": 1789622290,
       "posted_at": "2026-09-17T05:18:10.519134+00:00",
       "score": 99.5
-    },
-    {
-      "key": "shopee:22394495140",
-      "marketplace": "shopee",
-      "id": "22394495140",
-      "title": "KIT Infantil Camiseta e Bermuda Elastano E Juvenil Masculino Com Elástico e BOLSOS  04 á 16",
-      "title_norm": "kit infantil camiseta e bermuda elastano e juvenil masculino com elastico e bolsos 04 a 16",
-      "url": "https://shopee.com.br/product/1326488733/22394495140",
-      "affiliate_url": "https://s.shopee.com.br/7fZt1qMfag",
-      "category": "ORIGIN'S KPDS",
-      "bucket": "origin_s_kpds",
-      "posted_ts": 1789622226,
-      "posted_at": "2026-09-17T05:17:06.245815+00:00",
-      "score": 99.57
-    },
-    {
-      "key": "mercadolivre:MLB6442123488",
-      "marketplace": "mercadolivre",
-      "id": "MLB6442123488",
-      "title": "Hidratante Corporal Relaxante",
-      "title_norm": "hidratante corporal relaxante",
-      "url": "https://www.mercadolivre.com.br/p/MLB65794107?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB65794107?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "category": "Beleza",
-      "bucket": "beleza",
-      "posted_ts": 1789621797,
-      "posted_at": "2026-09-17T05:09:57.684733+00:00",
-      "score": 78.87
-    },
-    {
-      "key": "mercadolivre:MLB5598879476",
-      "marketplace": "mercadolivre",
-      "id": "MLB5598879476",
-      "title": "Papel Toalha Folha Dupla Caixa",
-      "title_norm": "papel toalha folha dupla caixa",
-      "url": "https://www.mercadolivre.com.br/p/MLB20324973?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB20324973?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "category": "Supermercados",
-      "bucket": "supermercados",
-      "posted_ts": 1789621733,
-      "posted_at": "2026-09-17T05:08:53.433360+00:00",
-      "score": 89.0
     }
   ],
-  "updated_at": "2026-09-26T02:18:04.858400+00:00"
+  "updated_at": "2026-09-26T03:19:11.211131+00:00"
 }
