@@ -1,6 +1,20 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB5041528061",
+      "marketplace": "mercadolivre",
+      "id": "MLB5041528061",
+      "title": "Kit Ferramentas Informatica Cor Preto",
+      "title_norm": "kit ferramentas informatica cor preto",
+      "url": "https://www.mercadolivre.com.br/p/MLB43810473?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB43810473?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Ferramentas",
+      "bucket": "ferramentas",
+      "posted_ts": 1790517777,
+      "posted_at": "2026-09-27T14:02:57.578847+00:00",
+      "score": 88.0
+    },
+    {
       "key": "shopee:23694913081",
       "marketplace": "shopee",
       "id": "23694913081",
@@ -13985,21 +13999,7 @@
       "posted_ts": 1789744927,
       "posted_at": "2026-09-18T15:22:07.989644+00:00",
       "score": 58.69
-    },
-    {
-      "key": "shopee:21839872084",
-      "marketplace": "shopee",
-      "id": "21839872084",
-      "title": "Kit 5 ou 10 Cuecas Boxer Masculinas Polo Wear Microfibra Leve e Elástico Confortável",
-      "title_norm": "kit 5 ou 10 cuecas boxer masculinas polo wear microfibra leve e elastico confortavel",
-      "url": "https://shopee.com.br/product/311485828/21839872084",
-      "affiliate_url": "https://s.shopee.com.br/9V1ZPApG6o",
-      "category": "LuckBaby",
-      "bucket": "luckbaby",
-      "posted_ts": 1789744803,
-      "posted_at": "2026-09-18T15:20:03.955511+00:00",
-      "score": 87.02
     }
   ],
-  "updated_at": "2026-09-27T13:21:15.815980+00:00"
+  "updated_at": "2026-09-27T14:02:57.578870+00:00"
 }
