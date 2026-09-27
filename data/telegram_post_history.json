@@ -1,6 +1,34 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB7426398952",
+      "marketplace": "mercadolivre",
+      "id": "MLB7426398952",
+      "title": "Ulefone Note 18 Ultra 256GB 6GB RAM Celular 5G 5450mAh Câmera 50MP Branco",
+      "title_norm": "ulefone note 18 ultra 256gb 6gb ram celular 5g 5450mah camera 50mp branco",
+      "url": "https://www.mercadolivre.com.br/p/MLB77446522?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB77446522?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Informática",
+      "bucket": "celulares",
+      "posted_ts": 1790467448,
+      "posted_at": "2026-09-27T00:04:08.706289+00:00",
+      "score": 117.67
+    },
+    {
+      "key": "mercadolivre:MLB7626010124",
+      "marketplace": "mercadolivre",
+      "id": "MLB7626010124",
+      "title": "Smartphone Xiaomí Redmi 12 Preto 128/4gb + E Fone",
+      "title_norm": "smartphone xiaomi redmi 12 preto 128 4gb e fone",
+      "url": "https://www.mercadolivre.com.br/p/MLB47306212?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB47306212?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Informática",
+      "bucket": "celulares",
+      "posted_ts": 1790467384,
+      "posted_at": "2026-09-27T00:03:04.589836+00:00",
+      "score": 127.0
+    },
+    {
       "key": "shopee:58200212094",
       "marketplace": "shopee",
       "id": "58200212094",
@@ -13971,35 +13999,7 @@
       "posted_ts": 1789687071,
       "posted_at": "2026-09-17T23:17:51.203922+00:00",
       "score": 126.61
-    },
-    {
-      "key": "shopee:22096106124",
-      "marketplace": "shopee",
-      "id": "22096106124",
-      "title": "Pendrive HP USB 2.0 Metal 2TB Giratório De Alta Velocidade Para Smartphone/Notebook/PC Android",
-      "title_norm": "pendrive hp usb 2 0 metal 2tb giratorio de alta velocidade para smartphone notebook pc android",
-      "url": "https://shopee.com.br/product/1021003165/22096106124",
-      "affiliate_url": "https://s.shopee.com.br/5VVPZssf7S",
-      "category": "rflashdrive.br",
-      "bucket": "celulares",
-      "posted_ts": 1789687007,
-      "posted_at": "2026-09-17T23:16:47.116343+00:00",
-      "score": 128.3
-    },
-    {
-      "key": "mercadolivre:MLB4617422337",
-      "marketplace": "mercadolivre",
-      "id": "MLB4617422337",
-      "title": "Cropped Feminino Manga Comprida Proteção Solar Malha Fria Uv Cor Preto Tamanho P",
-      "title_norm": "cropped feminino manga comprida protecao solar malha fria uv cor preto tamanho p",
-      "url": "https://www.mercadolivre.com.br/p/MLB68298172?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB68298172?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "category": "Moda Feminina",
-      "bucket": "moda_feminina",
-      "posted_ts": 1789686315,
-      "posted_at": "2026-09-17T23:05:15.698049+00:00",
-      "score": 107.47
     }
   ],
-  "updated_at": "2026-09-26T23:19:00.545600+00:00"
+  "updated_at": "2026-09-27T00:04:08.706310+00:00"
 }

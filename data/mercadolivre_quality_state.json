@@ -1,6 +1,36 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB7426398952",
+      "product_id": "MLB7426398952",
+      "catalog_product_id": "MLB77446522",
+      "item_id": "MLB7426398952",
+      "url": "https://www.mercadolivre.com.br/p/MLB77446522?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB77446522?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "ulefone note 18 ultra 256gb 6gb ram celular 5g 5450mah camera 50mp branco",
+      "title": "Ulefone Note 18 Ultra 256GB 6GB RAM Celular 5G 5450mAh Câmera 50MP Branco",
+      "category": "Informática",
+      "price": 1867.15,
+      "score": 117.67,
+      "posted_ts": 1790467448,
+      "posted_at": "2026-09-27T00:04:08.720206+00:00"
+    },
+    {
+      "key": "mercadolivre:MLB7626010124",
+      "product_id": "MLB7626010124",
+      "catalog_product_id": "MLB47306212",
+      "item_id": "MLB7626010124",
+      "url": "https://www.mercadolivre.com.br/p/MLB47306212?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB47306212?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "smartphone xiaomi redmi 12 preto 128 4gb e fone",
+      "title": "Smartphone Xiaomí Redmi 12 Preto 128/4gb + E Fone",
+      "category": "Informática",
+      "price": 1399.0,
+      "score": 127.0,
+      "posted_ts": 1790467384,
+      "posted_at": "2026-09-27T00:03:04.604537+00:00"
+    },
+    {
       "key": "mercadolivre:MLB4353924282",
       "product_id": "MLB4353924282",
       "catalog_product_id": "MLB29479675",
@@ -359,37 +389,7 @@
       "score": 86.0,
       "posted_ts": 1790301780,
       "posted_at": "2026-09-25T02:03:00.871271+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB6406780222",
-      "product_id": "MLB6406780222",
-      "catalog_product_id": "MLB32106098",
-      "item_id": "MLB6406780222",
-      "url": "https://www.mercadolivre.com.br/p/MLB32106098?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB32106098?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "racao premier pet vitta natural racao cachorro adulto 15k",
-      "title": "Ração Premier Pet Vitta Natural Ração Cachorro Adulto 15k",
-      "category": "Pet",
-      "price": 148.0,
-      "score": 129.0,
-      "posted_ts": 1790294631,
-      "posted_at": "2026-09-25T00:03:51.615183+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB4302548173",
-      "product_id": "MLB4302548173",
-      "catalog_product_id": "MLB44164135",
-      "item_id": "MLB4302548173",
-      "url": "https://www.mercadolivre.com.br/p/MLB44164135?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB44164135?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "comedouro automatico racao aquario terrario peixe tartaruga",
-      "title": "Comedouro Automático Ração Aquário Terrario Peixe Tartaruga",
-      "category": "Pet",
-      "price": 117.85,
-      "score": 137.09,
-      "posted_ts": 1790294567,
-      "posted_at": "2026-09-25T00:02:47.491739+00:00"
     }
   ],
-  "updated_at": "2026-09-26T22:02:50.082654+00:00"
+  "updated_at": "2026-09-27T00:04:08.720221+00:00"
 }
