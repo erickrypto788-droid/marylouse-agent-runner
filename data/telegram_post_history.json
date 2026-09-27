@@ -1,6 +1,34 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB7526272332",
+      "marketplace": "mercadolivre",
+      "id": "MLB7526272332",
+      "title": "Ração Gato Castrado Life Special Robustus 10,1kg",
+      "title_norm": "racao gato castrado life special robustus 10 1kg",
+      "url": "https://www.mercadolivre.com.br/p/MLB75981402?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB75981402?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Pet",
+      "bucket": "pet",
+      "posted_ts": 1790478231,
+      "posted_at": "2026-09-27T03:03:51.579026+00:00",
+      "score": 113.0
+    },
+    {
+      "key": "mercadolivre:MLB4871337061",
+      "marketplace": "mercadolivre",
+      "id": "MLB4871337061",
+      "title": "Quatree gourmet ração cachorro filhotes Premium 20kg",
+      "title_norm": "quatree gourmet racao cachorro filhotes premium 20kg",
+      "url": "https://www.mercadolivre.com.br/p/MLB36069603?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB36069603?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Pet",
+      "bucket": "pet",
+      "posted_ts": 1790478166,
+      "posted_at": "2026-09-27T03:02:46.751682+00:00",
+      "score": 113.0
+    },
+    {
       "key": "shopee:42508384555",
       "marketplace": "shopee",
       "id": "42508384555",
@@ -13971,35 +13999,7 @@
       "posted_ts": 1789700552,
       "posted_at": "2026-09-18T03:02:32.807373+00:00",
       "score": 113.0
-    },
-    {
-      "key": "shopee:41518716769",
-      "marketplace": "shopee",
-      "id": "41518716769",
-      "title": "Escolha Seu Vestido 3 Marias Roupas de Menina Infantil 100% Algodão Vestido de Criança Confortável l02",
-      "title_norm": "escolha seu vestido 3 marias roupas de menina infantil 100 algodao vestido de crianca confortavel l02",
-      "url": "https://shopee.com.br/product/341167297/41518716769",
-      "affiliate_url": "https://s.shopee.com.br/5foq2fsyMj",
-      "category": "Poloinfantil.store",
-      "bucket": "moda_feminina",
-      "posted_ts": 1789698096,
-      "posted_at": "2026-09-18T02:21:36.999558+00:00",
-      "score": 97.32
-    },
-    {
-      "key": "shopee:22494807898",
-      "marketplace": "shopee",
-      "id": "22494807898",
-      "title": "Camiseta E Bermuda  Infantil Com Bolsos 04 á 16 Moda Infantil Roupa De Criança Para Ir para escola",
-      "title_norm": "camiseta e bermuda infantil com bolsos 04 a 16 moda infantil roupa de crianca para ir para escola",
-      "url": "https://shopee.com.br/product/1488516573/22494807898",
-      "affiliate_url": "https://s.shopee.com.br/7AddpQn7qd",
-      "category": "ORIGIN'S DRJS",
-      "bucket": "origin_s_drjs",
-      "posted_ts": 1789698032,
-      "posted_at": "2026-09-18T02:20:32.918884+00:00",
-      "score": 100.52
     }
   ],
-  "updated_at": "2026-09-27T02:21:05.189080+00:00"
+  "updated_at": "2026-09-27T03:03:51.579045+00:00"
 }
