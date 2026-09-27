@@ -1,6 +1,20 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB7304554148",
+      "marketplace": "mercadolivre",
+      "id": "MLB7304554148",
+      "title": "Comedouro Dispenser De Ração Automático 8l Para Cães Gatos Cor Comedouro Automatico Preto",
+      "title_norm": "comedouro dispenser de racao automatico 8l para caes gatos cor comedouro automatico preto",
+      "url": "https://www.mercadolivre.com.br/p/MLB76161298?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB76161298?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Pet",
+      "bucket": "pet",
+      "posted_ts": 1790539483,
+      "posted_at": "2026-09-27T20:04:43.533960+00:00",
+      "score": 130.95
+    },
+    {
       "key": "shopee:23798828685",
       "marketplace": "shopee",
       "id": "23798828685",
@@ -13985,21 +13999,7 @@
       "posted_ts": 1789762808,
       "posted_at": "2026-09-18T20:20:08.044737+00:00",
       "score": 51.02
-    },
-    {
-      "key": "shopee:58208444702",
-      "marketplace": "shopee",
-      "id": "58208444702",
-      "title": "Principia Kit Protetor Solar PS-01 FPS 60 + PS-05 FPS 70- escolha seu tom",
-      "title_norm": "principia kit protetor solar ps 01 fps 60 ps 05 fps 70 escolha seu tom",
-      "url": "https://shopee.com.br/product/373261329/58208444702",
-      "affiliate_url": "https://s.shopee.com.br/7VGVQDOmgw",
-      "category": "Principia Skincare",
-      "bucket": "principia_skincare",
-      "posted_ts": 1789762740,
-      "posted_at": "2026-09-18T20:19:00.865173+00:00",
-      "score": 66.75
     }
   ],
-  "updated_at": "2026-09-27T19:19:10.197085+00:00"
+  "updated_at": "2026-09-27T20:04:43.533974+00:00"
 }
