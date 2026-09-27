@@ -1,6 +1,21 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB7197070408",
+      "product_id": "MLB7197070408",
+      "catalog_product_id": "MLB75425217",
+      "item_id": "MLB7197070408",
+      "url": "https://www.mercadolivre.com.br/p/MLB75425217?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB75425217?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "monitor pressao omron 7122 saude no seu braco",
+      "title": "Monitor Pressão Omron 7122: Saúde No Seu Braço",
+      "category": "Informática",
+      "price": 285.0,
+      "score": 88.0,
+      "posted_ts": 1790474550,
+      "posted_at": "2026-09-27T02:02:30.505524+00:00"
+    },
+    {
       "key": "mercadolivre:MLB7426398952",
       "product_id": "MLB7426398952",
       "catalog_product_id": "MLB77446522",
@@ -391,5 +406,5 @@
       "posted_at": "2026-09-25T02:03:00.871271+00:00"
     }
   ],
-  "updated_at": "2026-09-27T00:04:08.720221+00:00"
+  "updated_at": "2026-09-27T02:02:30.505540+00:00"
 }
