@@ -1,6 +1,51 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB5909017866",
+      "product_id": "MLB5909017866",
+      "catalog_product_id": "MLB61770185",
+      "item_id": "MLB5909017866",
+      "url": "https://www.mercadolivre.com.br/p/MLB61770185?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB61770185?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "blusa camisa feminina protecao solar bike jetski pesca praia cor branco tamanho m",
+      "title": "Blusa Camisa Feminina Proteção Solar Bike Jetski Pesca Praia Cor Branco Tamanho M",
+      "category": "Moda Feminina",
+      "price": 90.92,
+      "score": 88.0,
+      "posted_ts": 1790496489,
+      "posted_at": "2026-09-27T08:08:09.706710+00:00"
+    },
+    {
+      "key": "mercadolivre:MLB4777447715",
+      "product_id": "MLB4777447715",
+      "catalog_product_id": "MLB73610787",
+      "item_id": "MLB4777447715",
+      "url": "https://www.mercadolivre.com.br/p/MLB73610787?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB73610787?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "colete academia dry fit feminino leve cor bordo tamanho p",
+      "title": "Colete Academia Dry Fit Feminino Leve Cor Bordô Tamanho P",
+      "category": "Moda Feminina",
+      "price": 35.4,
+      "score": 105.86,
+      "posted_ts": 1790496414,
+      "posted_at": "2026-09-27T08:06:54.924089+00:00"
+    },
+    {
+      "key": "mercadolivre:MLB4596616593",
+      "product_id": "MLB4596616593",
+      "catalog_product_id": "MLB67783609",
+      "item_id": "MLB4596616593",
+      "url": "https://www.mercadolivre.com.br/p/MLB67783609?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB67783609?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "saida praia tule kimono amarracao short feminino verao branco m",
+      "title": "Saída Praia Tule Kimono Amarração Short Feminino Verão Branco M",
+      "category": "Moda Feminina",
+      "price": 97.99,
+      "score": 113.0,
+      "posted_ts": 1790496329,
+      "posted_at": "2026-09-27T08:05:29.862464+00:00"
+    },
+    {
       "key": "mercadolivre:MLB4266241495",
       "product_id": "MLB4266241495",
       "catalog_product_id": "MLB43806010",
@@ -419,22 +464,7 @@
       "score": 88.0,
       "posted_ts": 1790327013,
       "posted_at": "2026-09-25T09:03:33.361755+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB7270317978",
-      "product_id": "MLB7270317978",
-      "catalog_product_id": "MLB75817587",
-      "item_id": "MLB7270317978",
-      "url": "https://www.mercadolivre.com.br/p/MLB75817587?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB75817587?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "prancha esteira ergometrica deck multipla t3000 preto",
-      "title": "Prancha Esteira Ergométrica Deck Múltipla T3000 Preto",
-      "category": "Esportes",
-      "price": 270.57,
-      "score": 103.53,
-      "posted_ts": 1790323383,
-      "posted_at": "2026-09-25T08:03:03.330312+00:00"
     }
   ],
-  "updated_at": "2026-09-27T07:09:30.717464+00:00"
+  "updated_at": "2026-09-27T08:08:09.706725+00:00"
 }
