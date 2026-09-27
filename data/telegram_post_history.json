@@ -1,6 +1,62 @@
 {
   "posts": [
     {
+      "key": "shopee:58254619015",
+      "marketplace": "shopee",
+      "id": "58254619015",
+      "title": "KIT APARELHO MEDIDOR GLICOSE GLICOSÍMETRO   Gh83 Medisign",
+      "title_norm": "kit aparelho medidor glicose glicosimetro gh83 medisign",
+      "url": "https://shopee.com.br/product/409223478/58254619015",
+      "affiliate_url": "https://s.shopee.com.br/AAHTxKH8ji",
+      "category": "ZAN LOG",
+      "bucket": "zan_log",
+      "posted_ts": 1790486403,
+      "posted_at": "2026-09-27T05:20:03.300299+00:00",
+      "score": 44.57
+    },
+    {
+      "key": "shopee:58256297823",
+      "marketplace": "shopee",
+      "id": "58256297823",
+      "title": "Balança Corporal Bioimpedância Profissional Bluetooth Digital",
+      "title_norm": "balanca corporal bioimpedancia profissional bluetooth digital",
+      "url": "https://shopee.com.br/product/1749702291/58256297823",
+      "affiliate_url": "https://s.shopee.com.br/7AdsNoSM1R",
+      "category": "Romanti Prime",
+      "bucket": "romanti_prime",
+      "posted_ts": 1790486337,
+      "posted_at": "2026-09-27T05:18:57.512439+00:00",
+      "score": 91.22
+    },
+    {
+      "key": "shopee:22797731885",
+      "marketplace": "shopee",
+      "id": "22797731885",
+      "title": "Aparelho Medidor De Pressão Arterial Digital De Braço Alta Precisão Com Instrução de Voz",
+      "title_norm": "aparelho medidor de pressao arterial digital de braco alta precisao com instrucao de voz",
+      "url": "https://shopee.com.br/product/1338519571/22797731885",
+      "affiliate_url": "https://s.shopee.com.br/7AdsNoFDyN",
+      "category": "TECH ELETRONICO LTDA",
+      "bucket": "saude",
+      "posted_ts": 1790486273,
+      "posted_at": "2026-09-27T05:17:53.248896+00:00",
+      "score": 108.29
+    },
+    {
+      "key": "shopee:22499469939",
+      "marketplace": "shopee",
+      "id": "22499469939",
+      "title": "Monitor De Pressão Arterial De Braço Control+ Hem-7122 Omron Cor Branco",
+      "title_norm": "monitor de pressao arterial de braco control hem 7122 omron cor branco",
+      "url": "https://shopee.com.br/product/1743997303/22499469939",
+      "affiliate_url": "https://s.shopee.com.br/30oJQ9V5Qg",
+      "category": "RahVariedades",
+      "bucket": "saude",
+      "posted_ts": 1790486208,
+      "posted_at": "2026-09-27T05:16:48.991594+00:00",
+      "score": 116.8
+    },
+    {
       "key": "mercadolivre:MLB7513707254",
       "marketplace": "mercadolivre",
       "id": "MLB7513707254",
@@ -13943,63 +13999,7 @@
       "posted_ts": 1789712452,
       "posted_at": "2026-09-18T06:20:52.111661+00:00",
       "score": 72.83
-    },
-    {
-      "key": "shopee:45904373110",
-      "marketplace": "shopee",
-      "id": "45904373110",
-      "title": "Berço Portátil Infantil Cercado Desmontável Com Mosquiteiro pocket Cinza styll baby",
-      "title_norm": "berco portatil infantil cercado desmontavel com mosquiteiro pocket cinza styll baby",
-      "url": "https://shopee.com.br/product/1450084195/45904373110",
-      "affiliate_url": "https://s.shopee.com.br/BTtl3NJPW",
-      "category": "Clube Kids Baby II",
-      "bucket": "clube_kids_baby_ii",
-      "posted_ts": 1789712387,
-      "posted_at": "2026-09-18T06:19:47.941038+00:00",
-      "score": 77.81
-    },
-    {
-      "key": "shopee:28343764024",
-      "marketplace": "shopee",
-      "id": "28343764024",
-      "title": "Fralda Premium Huggies Natural Care Aberta RN/P/M/G",
-      "title_norm": "fralda premium huggies natural care aberta rn p m g",
-      "url": "https://shopee.com.br/product/1261893889/28343764024",
-      "affiliate_url": "https://s.shopee.com.br/BTtl3ABJD",
-      "category": "Oficial Huggies",
-      "bucket": "fraldas",
-      "posted_ts": 1789712323,
-      "posted_at": "2026-09-18T06:18:43.872211+00:00",
-      "score": 87.96
-    },
-    {
-      "key": "shopee:54208903801",
-      "marketplace": "shopee",
-      "id": "54208903801",
-      "title": "Fralda Pampers Supersequinha Tamanho G 80 Unidades",
-      "title_norm": "fralda pampers supersequinha tamanho g 80 unidades",
-      "url": "https://shopee.com.br/product/1045085918/54208903801",
-      "affiliate_url": "https://s.shopee.com.br/3LQvWryC8o",
-      "category": "Droga Clara",
-      "bucket": "fraldas",
-      "posted_ts": 1789712255,
-      "posted_at": "2026-09-18T06:17:35.674502+00:00",
-      "score": 95.6
-    },
-    {
-      "key": "shopee:22994959649",
-      "marketplace": "shopee",
-      "id": "22994959649",
-      "title": "Kit Hospitalar Doméstico Completo: Medidor de Pressão, Termômetro Infravermelho e Oxímetro",
-      "title_norm": "kit hospitalar domestico completo medidor de pressao termometro infravermelho e oximetro",
-      "url": "https://shopee.com.br/product/1242067486/22994959649",
-      "affiliate_url": "https://s.shopee.com.br/5q8GRLCtRO",
-      "category": "Rossi Stores",
-      "bucket": "saude",
-      "posted_ts": 1789708668,
-      "posted_at": "2026-09-18T05:17:48.483868+00:00",
-      "score": 101.93
     }
   ],
-  "updated_at": "2026-09-27T05:02:42.228186+00:00"
+  "updated_at": "2026-09-27T05:20:03.300314+00:00"
 }
