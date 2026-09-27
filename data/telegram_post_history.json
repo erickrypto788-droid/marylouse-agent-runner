@@ -1,6 +1,48 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB6928908142",
+      "marketplace": "mercadolivre",
+      "id": "MLB6928908142",
+      "title": "Esteira Ergometrica Rtx320 Evox Fitness Preto",
+      "title_norm": "esteira ergometrica rtx320 evox fitness preto",
+      "url": "https://www.mercadolivre.com.br/p/MLB62892484?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB62892484?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Esportes",
+      "bucket": "informatica",
+      "posted_ts": 1790507173,
+      "posted_at": "2026-09-27T11:06:13.432012+00:00",
+      "score": 115.92
+    },
+    {
+      "key": "mercadolivre:MLB7119236764",
+      "marketplace": "mercadolivre",
+      "id": "MLB7119236764",
+      "title": "Bike Spinning Bicicleta 6kg Wct Fitness Preta",
+      "title_norm": "bike spinning bicicleta 6kg wct fitness preta",
+      "url": "https://www.mercadolivre.com.br/p/MLB75107533?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB75107533?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Esportes",
+      "bucket": "esportes",
+      "posted_ts": 1790507104,
+      "posted_at": "2026-09-27T11:05:04.648366+00:00",
+      "score": 153.47
+    },
+    {
+      "key": "mercadolivre:MLB6968844088",
+      "marketplace": "mercadolivre",
+      "id": "MLB6968844088",
+      "title": "Esteira Ergométrica Elétrica Dobrável Residencial Com Bluetooth Tela Led 14km/h Jmjn Esteira Ergometrica 120kg",
+      "title_norm": "esteira ergometrica eletrica dobravel residencial com bluetooth tela led 14km h jmjn esteira ergometrica 120kg",
+      "url": "https://www.mercadolivre.com.br/p/MLB73080390?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB73080390?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Esportes",
+      "bucket": "esportes",
+      "posted_ts": 1790507033,
+      "posted_at": "2026-09-27T11:03:53.410593+00:00",
+      "score": 179.79
+    },
+    {
       "key": "shopee:22994696891",
       "marketplace": "shopee",
       "id": "22994696891",
@@ -13957,49 +13999,7 @@
       "posted_ts": 1789733890,
       "posted_at": "2026-09-18T12:18:10.764427+00:00",
       "score": 32.57
-    },
-    {
-      "key": "shopee:50563932416",
-      "marketplace": "shopee",
-      "id": "50563932416",
-      "title": "Console Nintendo Switch 2 – Modelo Nacional",
-      "title_norm": "console nintendo switch 2 modelo nacional",
-      "url": "https://shopee.com.br/product/1343318906/50563932416",
-      "affiliate_url": "https://s.shopee.com.br/7ptLHsHN3s",
-      "category": "NegociuN",
-      "bucket": "negociun",
-      "posted_ts": 1789733818,
-      "posted_at": "2026-09-18T12:16:58.736039+00:00",
-      "score": 58.85
-    },
-    {
-      "key": "mercadolivre:MLB7575871600",
-      "marketplace": "mercadolivre",
-      "id": "MLB7575871600",
-      "title": "Ração Cachorro Selection Adultos Pequenos 10,1kg Harmony",
-      "title_norm": "racao cachorro selection adultos pequenos 10 1kg harmony",
-      "url": "https://www.mercadolivre.com.br/p/MLB49735840?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB49735840?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "category": "Pet",
-      "bucket": "pet",
-      "posted_ts": 1789733091,
-      "posted_at": "2026-09-18T12:04:51.381995+00:00",
-      "score": 113.0
-    },
-    {
-      "key": "shopee:58250754217",
-      "marketplace": "shopee",
-      "id": "58250754217",
-      "title": "Mini Filtro De Café Chá Coador De Café Reutilizável Portátil Inox",
-      "title_norm": "mini filtro de cafe cha coador de cafe reutilizavel portatil inox",
-      "url": "https://shopee.com.br/product/1567163829/58250754217",
-      "affiliate_url": "https://s.shopee.com.br/4Vcrr5PmwM",
-      "category": "NOVOHOME STORE COMECIAL LTDA",
-      "bucket": "novohome_store_comecial_ltda",
-      "posted_ts": 1789730465,
-      "posted_at": "2026-09-18T11:21:05.325089+00:00",
-      "score": 87.69
     }
   ],
-  "updated_at": "2026-09-27T10:21:37.103121+00:00"
+  "updated_at": "2026-09-27T11:06:13.432027+00:00"
 }

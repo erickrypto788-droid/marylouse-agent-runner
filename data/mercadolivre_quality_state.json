@@ -1,6 +1,51 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB6928908142",
+      "product_id": "MLB6928908142",
+      "catalog_product_id": "MLB62892484",
+      "item_id": "MLB6928908142",
+      "url": "https://www.mercadolivre.com.br/p/MLB62892484?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB62892484?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "esteira ergometrica rtx320 evox fitness preto",
+      "title": "Esteira Ergometrica Rtx320 Evox Fitness Preto",
+      "category": "Esportes",
+      "price": 2799.0,
+      "score": 115.92,
+      "posted_ts": 1790507173,
+      "posted_at": "2026-09-27T11:06:13.443395+00:00"
+    },
+    {
+      "key": "mercadolivre:MLB7119236764",
+      "product_id": "MLB7119236764",
+      "catalog_product_id": "MLB75107533",
+      "item_id": "MLB7119236764",
+      "url": "https://www.mercadolivre.com.br/p/MLB75107533?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB75107533?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "bike spinning bicicleta 6kg wct fitness preta",
+      "title": "Bike Spinning Bicicleta 6kg Wct Fitness Preta",
+      "category": "Esportes",
+      "price": 656.28,
+      "score": 153.47,
+      "posted_ts": 1790507104,
+      "posted_at": "2026-09-27T11:05:04.659025+00:00"
+    },
+    {
+      "key": "mercadolivre:MLB6968844088",
+      "product_id": "MLB6968844088",
+      "catalog_product_id": "MLB73080390",
+      "item_id": "MLB6968844088",
+      "url": "https://www.mercadolivre.com.br/p/MLB73080390?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB73080390?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "esteira ergometrica eletrica dobravel residencial com bluetooth tela led 14km h jmjn esteira ergometrica 120kg",
+      "title": "Esteira Ergométrica Elétrica Dobrável Residencial Com Bluetooth Tela Led 14km/h Jmjn Esteira Ergometrica 120kg",
+      "category": "Esportes",
+      "price": 1299.8,
+      "score": 179.79,
+      "posted_ts": 1790507033,
+      "posted_at": "2026-09-27T11:03:53.421850+00:00"
+    },
+    {
       "key": "mercadolivre:MLB5909017866",
       "product_id": "MLB5909017866",
       "catalog_product_id": "MLB61770185",
@@ -449,22 +494,7 @@
       "score": 149.86,
       "posted_ts": 1790344988,
       "posted_at": "2026-09-25T14:03:08.915838+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB6223026490",
-      "product_id": "MLB6223026490",
-      "catalog_product_id": "MLB29263256",
-      "item_id": "MLB6223026490",
-      "url": "https://www.mercadolivre.com.br/p/MLB29263256?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB29263256?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "lizz aparelho aparador pelos eletrico navalhete profissional",
-      "title": "Lizz Aparelho Aparador Pelos Elétrico Navalhete Profissional",
-      "category": "Beleza",
-      "price": 89.9,
-      "score": 88.0,
-      "posted_ts": 1790327013,
-      "posted_at": "2026-09-25T09:03:33.361755+00:00"
     }
   ],
-  "updated_at": "2026-09-27T08:08:09.706725+00:00"
+  "updated_at": "2026-09-27T11:06:13.443406+00:00"
 }
