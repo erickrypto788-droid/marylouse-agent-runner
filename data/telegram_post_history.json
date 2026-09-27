@@ -1,6 +1,20 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB7634606562",
+      "marketplace": "mercadolivre",
+      "id": "MLB7634606562",
+      "title": "Perfume feminino árabe laverne",
+      "title_norm": "perfume feminino arabe laverne",
+      "url": "https://www.mercadolivre.com.br/p/MLB52060701?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB52060701?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Beleza",
+      "bucket": "beleza",
+      "posted_ts": 1790510567,
+      "posted_at": "2026-09-27T12:02:47.300350+00:00",
+      "score": 111.0
+    },
+    {
       "key": "shopee:23898691043",
       "marketplace": "shopee",
       "id": "23898691043",
@@ -13985,21 +13999,7 @@
       "posted_ts": 1789737673,
       "posted_at": "2026-09-18T13:21:13.087134+00:00",
       "score": 100.03
-    },
-    {
-      "key": "shopee:58206364376",
-      "marketplace": "shopee",
-      "id": "58206364376",
-      "title": "kit 3 Blusa Regata Alcinha Básica Com Forro Confortável Casual Verão Suplex Poliamida Com Forro",
-      "title_norm": "kit 3 blusa regata alcinha basica com forro confortavel casual verao suplex poliamida com forro",
-      "url": "https://shopee.com.br/product/751256827/58206364376",
-      "affiliate_url": "https://s.shopee.com.br/7fZtlAI6B5",
-      "category": "Oskley",
-      "bucket": "oskley",
-      "posted_ts": 1789737609,
-      "posted_at": "2026-09-18T13:20:09.075815+00:00",
-      "score": 103.87
     }
   ],
-  "updated_at": "2026-09-27T11:21:15.366508+00:00"
+  "updated_at": "2026-09-27T12:02:47.300363+00:00"
 }

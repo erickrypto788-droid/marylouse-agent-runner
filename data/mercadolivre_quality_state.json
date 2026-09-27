@@ -1,6 +1,21 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB7634606562",
+      "product_id": "MLB7634606562",
+      "catalog_product_id": "MLB52060701",
+      "item_id": "MLB7634606562",
+      "url": "https://www.mercadolivre.com.br/p/MLB52060701?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB52060701?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "perfume feminino arabe laverne",
+      "title": "Perfume feminino árabe laverne",
+      "category": "Beleza",
+      "price": 589.0,
+      "score": 111.0,
+      "posted_ts": 1790510567,
+      "posted_at": "2026-09-27T12:02:47.314061+00:00"
+    },
+    {
       "key": "mercadolivre:MLB6928908142",
       "product_id": "MLB6928908142",
       "catalog_product_id": "MLB62892484",
@@ -496,5 +511,5 @@
       "posted_at": "2026-09-25T14:03:08.915838+00:00"
     }
   ],
-  "updated_at": "2026-09-27T11:06:13.443406+00:00"
+  "updated_at": "2026-09-27T12:02:47.314070+00:00"
 }
