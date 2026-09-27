@@ -1,6 +1,21 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB5293115007",
+      "product_id": "MLB5293115007",
+      "catalog_product_id": "MLB24511657",
+      "item_id": "MLB5293115007",
+      "url": "https://www.mercadolivre.com.br/p/MLB24511657?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB24511657?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "ssd netac nv3000 ssd nvme m2 250gb",
+      "title": "SSD Netac Nv3000 Ssd Nvme M2 250gb",
+      "category": "Informática",
+      "price": 415.0,
+      "score": 111.0,
+      "posted_ts": 1790521363,
+      "posted_at": "2026-09-27T15:02:43.576607+00:00"
+    },
+    {
       "key": "mercadolivre:MLB5041528061",
       "product_id": "MLB5041528061",
       "catalog_product_id": "MLB43810473",
@@ -494,37 +509,7 @@
       "score": 113.0,
       "posted_ts": 1790355758,
       "posted_at": "2026-09-25T17:02:38.070063+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB5200062049",
-      "product_id": "MLB5200062049",
-      "catalog_product_id": "MLB65973005",
-      "item_id": "MLB5200062049",
-      "url": "https://www.mercadolivre.com.br/p/MLB65973005?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB65973005?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "celular samsung galaxy a06 5g preto",
-      "title": "Celular Samsung Galaxy A06 5g Preto",
-      "category": "Informática",
-      "price": 999.0,
-      "score": 127.0,
-      "posted_ts": 1790345096,
-      "posted_at": "2026-09-25T14:04:56.981185+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB5919313906",
-      "product_id": "MLB5919313906",
-      "catalog_product_id": "MLB24099360",
-      "item_id": "MLB5919313906",
-      "url": "https://www.mercadolivre.com.br/p/MLB24099360?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB24099360?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "carregador portatil 20000mah bahrein power bank universal power bank carga rapida com display bahrein compativel com todos celulares iphone android ios apple xiaomi samsung motorola",
-      "title": "Carregador Portátil 20000mAh Bahrein Power Bank Universal Power Bank Carga Rápida Com Display Bahrein Compatível Com Todos Celulares Iphone Android IOS apple xiaomi Samsung Motorola",
-      "category": "Informática",
-      "price": 66.9,
-      "score": 149.86,
-      "posted_ts": 1790344988,
-      "posted_at": "2026-09-25T14:03:08.915838+00:00"
     }
   ],
-  "updated_at": "2026-09-27T14:02:57.591963+00:00"
+  "updated_at": "2026-09-27T15:02:43.576615+00:00"
 }
