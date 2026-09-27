@@ -1,6 +1,20 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB7513707254",
+      "marketplace": "mercadolivre",
+      "id": "MLB7513707254",
+      "title": "Mini Impressora Niimbot B1 etiqueta Bluetooth Cor Prateado impressora etiquetas adesivas",
+      "title_norm": "mini impressora niimbot b1 etiqueta bluetooth cor prateado impressora etiquetas adesivas",
+      "url": "https://www.mercadolivre.com.br/p/MLB57578486?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB57578486?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Informática",
+      "bucket": "informatica",
+      "posted_ts": 1790485362,
+      "posted_at": "2026-09-27T05:02:42.228175+00:00",
+      "score": 88.0
+    },
+    {
       "key": "shopee:58208382454",
       "marketplace": "shopee",
       "id": "58208382454",
@@ -13985,21 +13999,7 @@
       "posted_ts": 1789708668,
       "posted_at": "2026-09-18T05:17:48.483868+00:00",
       "score": 101.93
-    },
-    {
-      "key": "shopee:23893497572",
-      "marketplace": "shopee",
-      "id": "23893497572",
-      "title": "Oxímetro Infantil Neonatal Pediátrico De Dedo Digital Crianças Medidor Oxigênio Recarregável Pulse Yihan",
-      "title_norm": "oximetro infantil neonatal pediatrico de dedo digital criancas medidor oxigenio recarregavel pulse yihan",
-      "url": "https://shopee.com.br/product/696313634/23893497572",
-      "affiliate_url": "https://s.shopee.com.br/8Kpa1Pf5jM",
-      "category": "Yihan.store",
-      "bucket": "saude",
-      "posted_ts": 1789708604,
-      "posted_at": "2026-09-18T05:16:44.328309+00:00",
-      "score": 107.78
     }
   ],
-  "updated_at": "2026-09-27T04:21:17.839450+00:00"
+  "updated_at": "2026-09-27T05:02:42.228186+00:00"
 }
