@@ -1,6 +1,48 @@
 {
   "posts": [
     {
+      "key": "shopee:23798828685",
+      "marketplace": "shopee",
+      "id": "23798828685",
+      "title": "Kit 6 Potes Com Tampa e Trava 2,2L Alto Cinza Freezer E Microondas Marmitas Fitness Giotto",
+      "title_norm": "kit 6 potes com tampa e trava 2 2l alto cinza freezer e microondas marmitas fitness giotto",
+      "url": "https://shopee.com.br/product/570523049/23798828685",
+      "affiliate_url": "https://s.shopee.com.br/AKatp4KxsC",
+      "category": "Produtos Giotto",
+      "bucket": "produtos_giotto",
+      "posted_ts": 1790536750,
+      "posted_at": "2026-09-27T19:19:10.197073+00:00",
+      "score": 67.26
+    },
+    {
+      "key": "shopee:20298661096",
+      "marketplace": "shopee",
+      "id": "20298661096",
+      "title": "Aspirador de Pó Vertical Britânia 2 em 1 1200W BAS1200C",
+      "title_norm": "aspirador de po vertical britania 2 em 1 1200w bas1200c",
+      "url": "https://shopee.com.br/product/811879342/20298661096",
+      "affiliate_url": "https://s.shopee.com.br/8Kpqhe4hy9",
+      "category": "Britânia Oficial",
+      "bucket": "casa_cozinha",
+      "posted_ts": 1790536681,
+      "posted_at": "2026-09-27T19:18:01.697138+00:00",
+      "score": 111.68
+    },
+    {
+      "key": "shopee:22998383507",
+      "marketplace": "shopee",
+      "id": "22998383507",
+      "title": "Panela De Pressão 4,5litros Panelux Linha Classic Alto Brilho A Mais Vendida Do Brasil",
+      "title_norm": "panela de pressao 4 5litros panelux linha classic alto brilho a mais vendida do brasil",
+      "url": "https://shopee.com.br/product/472053026/22998383507",
+      "affiliate_url": "https://s.shopee.com.br/8KppROSeE2",
+      "category": "MBShopp",
+      "bucket": "casa_cozinha",
+      "posted_ts": 1790536617,
+      "posted_at": "2026-09-27T19:16:57.594438+00:00",
+      "score": 126.09
+    },
+    {
       "key": "shopee:21999706453",
       "marketplace": "shopee",
       "id": "21999706453",
@@ -13957,49 +13999,7 @@
       "posted_ts": 1789762740,
       "posted_at": "2026-09-18T20:19:00.865173+00:00",
       "score": 66.75
-    },
-    {
-      "key": "shopee:22199484096",
-      "marketplace": "shopee",
-      "id": "22199484096",
-      "title": "Body Splash Femininos Kit 2 Perfumes 200ml Floratta Red e Lily Pós Banho Refrescante Duradouro",
-      "title_norm": "body splash femininos kit 2 perfumes 200ml floratta red e lily pos banho refrescante duradouro",
-      "url": "https://shopee.com.br/product/1654851165/22199484096",
-      "affiliate_url": "https://s.shopee.com.br/5q8HR94rto",
-      "category": "Nobre.Essências",
-      "bucket": "beleza",
-      "posted_ts": 1789762676,
-      "posted_at": "2026-09-18T20:17:56.771998+00:00",
-      "score": 126.7
-    },
-    {
-      "key": "shopee:23198900707",
-      "marketplace": "shopee",
-      "id": "23198900707",
-      "title": "Chapinha 2 em 1 Profissional | Modelador Cachos Barril 30mm | Para Cabelos Todos Tipos",
-      "title_norm": "chapinha 2 em 1 profissional modelador cachos barril 30mm para cabelos todos tipos",
-      "url": "https://shopee.com.br/product/386512962/23198900707",
-      "affiliate_url": "https://s.shopee.com.br/3LQvCGYjVc",
-      "category": "OPA LEGAL",
-      "bucket": "beleza",
-      "posted_ts": 1789762607,
-      "posted_at": "2026-09-18T20:16:47.999001+00:00",
-      "score": 129.23
-    },
-    {
-      "key": "mercadolivre:MLB6714509354",
-      "marketplace": "mercadolivre",
-      "id": "MLB6714509354",
-      "title": "Luva Academia Musculação Fitness Tamanho P",
-      "title_norm": "luva academia musculacao fitness tamanho p",
-      "url": "https://www.mercadolivre.com.br/p/MLB69134972?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB69134972?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "category": "Esportes",
-      "bucket": "esportes",
-      "posted_ts": 1789761793,
-      "posted_at": "2026-09-18T20:03:13.202679+00:00",
-      "score": 103.03
     }
   ],
-  "updated_at": "2026-09-27T18:21:23.494672+00:00"
+  "updated_at": "2026-09-27T19:19:10.197085+00:00"
 }
