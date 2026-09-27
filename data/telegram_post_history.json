@@ -1,6 +1,20 @@
 {
   "posts": [
     {
+      "key": "shopee:58257736580",
+      "marketplace": "shopee",
+      "id": "58257736580",
+      "title": "Mochila Pochete Tática Masculina Impermeável Preta Versátil - Bolsa de Peito Esportiva",
+      "title_norm": "mochila pochete tatica masculina impermeavel preta versatil bolsa de peito esportiva",
+      "url": "https://shopee.com.br/product/328215051/58257736580",
+      "affiliate_url": "https://s.shopee.com.br/6q10r9FQ29",
+      "category": "Loja da Su__",
+      "bucket": "bolsas",
+      "posted_ts": 1790497007,
+      "posted_at": "2026-09-27T08:16:47.750310+00:00",
+      "score": 115.25
+    },
+    {
       "key": "mercadolivre:MLB5909017866",
       "marketplace": "mercadolivre",
       "id": "MLB5909017866",
@@ -13985,21 +13999,7 @@
       "posted_ts": 1789723615,
       "posted_at": "2026-09-18T09:26:55.830546+00:00",
       "score": 39.13
-    },
-    {
-      "key": "shopee:27094198997",
-      "marketplace": "shopee",
-      "id": "27094198997",
-      "title": "Conjunto de 4 peças 10 ml de gel sólido antiderrapante com caneta de ponta dupla, kit 3D para unhas em relevo e",
-      "title_norm": "conjunto de 4 pecas 10 ml de gel solido antiderrapante com caneta de ponta dupla kit 3d para unhas em relevo e",
-      "url": "https://shopee.com.br/product/1006215031/27094198997",
-      "affiliate_url": "https://s.shopee.com.br/2LYOXP4Lco",
-      "category": "Choice Oficial",
-      "bucket": "choice_oficial",
-      "posted_ts": 1789723551,
-      "posted_at": "2026-09-18T09:25:51.782875+00:00",
-      "score": 53.68
     }
   ],
-  "updated_at": "2026-09-27T08:08:09.692490+00:00"
+  "updated_at": "2026-09-27T08:16:47.750346+00:00"
 }
