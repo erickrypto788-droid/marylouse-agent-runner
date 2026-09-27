@@ -1,6 +1,34 @@
 {
   "posts": [
     {
+      "key": "shopee:22099705516",
+      "marketplace": "shopee",
+      "id": "22099705516",
+      "title": "Chinelo Babuche Feminino + CHARMS GRÁTIS! Antiderrapante EVA Macio Confortável",
+      "title_norm": "chinelo babuche feminino charms gratis antiderrapante eva macio confortavel",
+      "url": "https://shopee.com.br/product/1822410394/22099705516",
+      "affiliate_url": "https://s.shopee.com.br/3B7kPu6GsU",
+      "category": "Loja Calqiu",
+      "bucket": "calcados",
+      "posted_ts": 1790529481,
+      "posted_at": "2026-09-27T17:18:01.598801+00:00",
+      "score": 106.46
+    },
+    {
+      "key": "shopee:23999314273",
+      "marketplace": "shopee",
+      "id": "23999314273",
+      "title": "Tênis SNEEKS Feminino para Uso Diário Prático e Estiloso Super Promoção",
+      "title_norm": "tenis sneeks feminino para uso diario pratico e estiloso super promocao",
+      "url": "https://shopee.com.br/product/1737398657/23999314273",
+      "affiliate_url": "https://s.shopee.com.br/6fhcaKk9Ba",
+      "category": "IRON Shop O2x",
+      "bucket": "calcados",
+      "posted_ts": 1790529410,
+      "posted_at": "2026-09-27T17:16:50.981677+00:00",
+      "score": 123.26
+    },
+    {
       "key": "shopee:23599241533",
       "marketplace": "shopee",
       "id": "23599241533",
@@ -13971,35 +13999,7 @@
       "posted_ts": 1789755607,
       "posted_at": "2026-09-18T18:20:07.943474+00:00",
       "score": 68.27
-    },
-    {
-      "key": "shopee:45754796089",
-      "marketplace": "shopee",
-      "id": "45754796089",
-      "title": "Tomada de Carregador para Carro com Dupla Entrada Tipo-C e Duplas USB, 4 Portas, Carregamento Rápido, à Prova d'Água",
-      "title_norm": "tomada de carregador para carro com dupla entrada tipo c e duplas usb 4 portas carregamento rapido a prova d agua",
-      "url": "https://shopee.com.br/product/1006215031/45754796089",
-      "affiliate_url": "https://s.shopee.com.br/1130DcRb9H",
-      "category": "Choice Oficial",
-      "bucket": "choice_oficial",
-      "posted_ts": 1789755543,
-      "posted_at": "2026-09-18T18:19:03.997919+00:00",
-      "score": 105.09
-    },
-    {
-      "key": "shopee:58202799294",
-      "marketplace": "shopee",
-      "id": "58202799294",
-      "title": "Kit 2 cartões de memória 128gb ultra muito mais memória smartphone",
-      "title_norm": "kit 2 cartoes de memoria 128gb ultra muito mais memoria smartphone",
-      "url": "https://shopee.com.br/product/1399363201/58202799294",
-      "affiliate_url": "https://s.shopee.com.br/6Al7hWGQcj",
-      "category": "Info_SHOP",
-      "bucket": "celulares",
-      "posted_ts": 1789755479,
-      "posted_at": "2026-09-18T18:17:59.985199+00:00",
-      "score": 124.43
     }
   ],
-  "updated_at": "2026-09-27T16:17:57.827511+00:00"
+  "updated_at": "2026-09-27T17:18:01.598814+00:00"
 }
