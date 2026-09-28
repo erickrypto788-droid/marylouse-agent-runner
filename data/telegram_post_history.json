@@ -1,6 +1,20 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB7639579812",
+      "marketplace": "mercadolivre",
+      "id": "MLB7639579812",
+      "title": "Ração Gato Estimacat Premium Adulto Sabor Carne 15kg",
+      "title_norm": "racao gato estimacat premium adulto sabor carne 15kg",
+      "url": "https://www.mercadolivre.com.br/p/MLB66541712?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB66541712?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Pet",
+      "bucket": "pet",
+      "posted_ts": 1790600563,
+      "posted_at": "2026-09-28T13:02:43.571118+00:00",
+      "score": 154.83
+    },
+    {
       "key": "shopee:23893703937",
       "marketplace": "shopee",
       "id": "23893703937",
@@ -13985,21 +13999,7 @@
       "posted_ts": 1789838401,
       "posted_at": "2026-09-19T17:20:01.437426+00:00",
       "score": 92.2
-    },
-    {
-      "key": "shopee:22998768336",
-      "marketplace": "shopee",
-      "id": "22998768336",
-      "title": "Sandália Infantil Chinelo Eva Anti-Derrapante",
-      "title_norm": "sandalia infantil chinelo eva anti derrapante",
-      "url": "https://shopee.com.br/product/1310381126/22998768336",
-      "affiliate_url": "https://s.shopee.com.br/7Adf5iohs7",
-      "category": "Bliss Femme",
-      "bucket": "calcados",
-      "posted_ts": 1789838337,
-      "posted_at": "2026-09-19T17:18:57.450204+00:00",
-      "score": 92.85
     }
   ],
-  "updated_at": "2026-09-28T12:19:04.079747+00:00"
+  "updated_at": "2026-09-28T13:02:43.571133+00:00"
 }
