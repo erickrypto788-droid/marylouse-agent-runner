@@ -1,6 +1,20 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB4110890853",
+      "marketplace": "mercadolivre",
+      "id": "MLB4110890853",
+      "title": "Babá Eletrônica Hellobaby Hb66pro Monitor Bebê 3.2 White",
+      "title_norm": "baba eletronica hellobaby hb66pro monitor bebe 3 2 white",
+      "url": "https://www.mercadolivre.com.br/p/MLB51893724?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB51893724?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Informática",
+      "bucket": "informatica",
+      "posted_ts": 1790604154,
+      "posted_at": "2026-09-28T14:02:34.257585+00:00",
+      "score": 86.0
+    },
+    {
       "key": "shopee:23599239610",
       "marketplace": "shopee",
       "id": "23599239610",
@@ -13985,21 +13999,7 @@
       "posted_ts": 1789841868,
       "posted_at": "2026-09-19T18:17:48.342946+00:00",
       "score": 92.77
-    },
-    {
-      "key": "shopee:23299354946",
-      "marketplace": "shopee",
-      "id": "23299354946",
-      "title": "Garrafa Térmica 600ml Personalizada Com Base De Silicone Para Academia Escola E Trabalho",
-      "title_norm": "garrafa termica 600ml personalizada com base de silicone para academia escola e trabalho",
-      "url": "https://shopee.com.br/product/523894203/23299354946",
-      "affiliate_url": "https://s.shopee.com.br/6Al9IPPb8t",
-      "category": "Twin Laser brindes",
-      "bucket": "twin_laser_brindes",
-      "posted_ts": 1789841804,
-      "posted_at": "2026-09-19T18:16:44.441827+00:00",
-      "score": 95.81
     }
   ],
-  "updated_at": "2026-09-28T13:17:55.829492+00:00"
+  "updated_at": "2026-09-28T14:02:34.257598+00:00"
 }
