@@ -1,6 +1,48 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB7003862824",
+      "marketplace": "mercadolivre",
+      "id": "MLB7003862824",
+      "title": "Painel D'Rossi Painel Para TV para TV até 60\" cumaru de mdf/mdp",
+      "title_norm": "painel d rossi painel para tv para tv ate 60 cumaru de mdf mdp",
+      "url": "https://www.mercadolivre.com.br/p/MLB74184723?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB74184723?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Casa e Cozinha",
+      "bucket": "casa_e_cozinha",
+      "posted_ts": 1790622385,
+      "posted_at": "2026-09-28T19:06:25.686741+00:00",
+      "score": 104.9
+    },
+    {
+      "key": "mercadolivre:MLB5195207435",
+      "marketplace": "mercadolivre",
+      "id": "MLB5195207435",
+      "title": "Miniatura Aspirador Pó Infantil Bw165",
+      "title_norm": "miniatura aspirador po infantil bw165",
+      "url": "https://www.mercadolivre.com.br/p/MLB28353455?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB28353455?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Casa e Cozinha",
+      "bucket": "casa_cozinha",
+      "posted_ts": 1790622314,
+      "posted_at": "2026-09-28T19:05:14.240031+00:00",
+      "score": 113.0
+    },
+    {
+      "key": "mercadolivre:MLB4098790465",
+      "marketplace": "mercadolivre",
+      "id": "MLB4098790465",
+      "title": "Jogo Panelas 5 Peças Tradicional Preto Nacional",
+      "title_norm": "jogo panelas 5 pecas tradicional preto nacional",
+      "url": "https://www.mercadolivre.com.br/p/MLB50984468?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB50984468?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Casa e Cozinha",
+      "bucket": "casa_cozinha",
+      "posted_ts": 1790622249,
+      "posted_at": "2026-09-28T19:04:09.998014+00:00",
+      "score": 116.52
+    },
+    {
       "key": "shopee:46861349792",
       "marketplace": "shopee",
       "id": "46861349792",
@@ -13957,49 +13999,7 @@
       "posted_ts": 1789870606,
       "posted_at": "2026-09-20T02:16:46.410881+00:00",
       "score": 105.96
-    },
-    {
-      "key": "mercadolivre:MLB4266241495",
-      "marketplace": "mercadolivre",
-      "id": "MLB4266241495",
-      "title": "Absorvente Mulher Ativa Com Abas Kit 80 Pacotes Gel Super Absorvente",
-      "title_norm": "absorvente mulher ativa com abas kit 80 pacotes gel super absorvente",
-      "url": "https://www.mercadolivre.com.br/p/MLB43806010?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB43806010?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "category": "Moda Feminina",
-      "bucket": "moda_feminina",
-      "posted_ts": 1789870152,
-      "posted_at": "2026-09-20T02:09:12.871602+00:00",
-      "score": 88.0
-    },
-    {
-      "key": "mercadolivre:MLB6935275144",
-      "marketplace": "mercadolivre",
-      "id": "MLB6935275144",
-      "title": "Base Amaciante 500 Faz 100 Litros Amaciante",
-      "title_norm": "base amaciante 500 faz 100 litros amaciante",
-      "url": "https://www.mercadolivre.com.br/p/MLB73023961?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB73023961?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "category": "Supermercados",
-      "bucket": "supermercado",
-      "posted_ts": 1789870088,
-      "posted_at": "2026-09-20T02:08:08.543437+00:00",
-      "score": 102.2
-    },
-    {
-      "key": "mercadolivre:MLB6660297382",
-      "marketplace": "mercadolivre",
-      "id": "MLB6660297382",
-      "title": "Preparo Essência Amaciante Roupas Concentrado Perfume",
-      "title_norm": "preparo essencia amaciante roupas concentrado perfume",
-      "url": "https://www.mercadolivre.com.br/p/MLB67844007?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB67844007?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "category": "Supermercados",
-      "bucket": "beleza",
-      "posted_ts": 1789870024,
-      "posted_at": "2026-09-20T02:07:04.217821+00:00",
-      "score": 114.0
     }
   ],
-  "updated_at": "2026-09-28T18:21:19.127067+00:00"
+  "updated_at": "2026-09-28T19:06:25.686759+00:00"
 }
