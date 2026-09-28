@@ -1,6 +1,36 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB4657112471",
+      "product_id": "MLB4657112471",
+      "catalog_product_id": "MLB61421090",
+      "item_id": "MLB4657112471",
+      "url": "https://www.mercadolivre.com.br/p/MLB61421090?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB61421090?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "smartphone xiaomi redmi 15c 256gb global azul",
+      "title": "Smartphone Xiaomi Redmi 15c 256gb Global Azul",
+      "category": "Informática",
+      "price": 1165.0,
+      "score": 127.0,
+      "posted_ts": 1790589857,
+      "posted_at": "2026-09-28T10:04:17.236260+00:00"
+    },
+    {
+      "key": "mercadolivre:MLB5291717533",
+      "product_id": "MLB5291717533",
+      "catalog_product_id": "MLB65214612",
+      "item_id": "MLB5291717533",
+      "url": "https://www.mercadolivre.com.br/p/MLB65214612?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB65214612?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "smartphone xiaomi 15 5g 16gb 512gb preto",
+      "title": "Smartphone Xiaomi 15 5g 16gb/512gb Preto",
+      "category": "Informática",
+      "price": 1000.0,
+      "score": 127.0,
+      "posted_ts": 1790589793,
+      "posted_at": "2026-09-28T10:03:13.252371+00:00"
+    },
+    {
       "key": "mercadolivre:MLB4442585419",
       "product_id": "MLB4442585419",
       "catalog_product_id": "MLB64939142",
@@ -676,5 +706,5 @@
       "posted_at": "2026-09-26T12:03:05.512667+00:00"
     }
   ],
-  "updated_at": "2026-09-28T09:04:12.595111+00:00"
+  "updated_at": "2026-09-28T10:04:17.236274+00:00"
 }
