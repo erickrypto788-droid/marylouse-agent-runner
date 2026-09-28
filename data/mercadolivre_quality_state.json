@@ -1,6 +1,21 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB6512536586",
+      "product_id": "MLB6512536586",
+      "catalog_product_id": "MLB25981434",
+      "item_id": "MLB6512536586",
+      "url": "https://www.mercadolivre.com.br/p/MLB25981434?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB25981434?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "vestido feminino casual feminino guess relogio esportivo pulseira cor dourada",
+      "title": "Vestido feminino casual feminino Guess, relógio esportivo, pulseira, cor dourada",
+      "category": "Moda Feminina",
+      "price": 684.4,
+      "score": 86.0,
+      "posted_ts": 1790625874,
+      "posted_at": "2026-09-28T20:04:34.883527+00:00"
+    },
+    {
       "key": "mercadolivre:MLB7003862824",
       "product_id": "MLB7003862824",
       "catalog_product_id": "MLB74184723",
@@ -856,5 +871,5 @@
       "posted_at": "2026-09-26T22:02:50.082640+00:00"
     }
   ],
-  "updated_at": "2026-09-28T19:06:25.700881+00:00"
+  "updated_at": "2026-09-28T20:04:34.883545+00:00"
 }
