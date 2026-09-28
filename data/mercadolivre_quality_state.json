@@ -1,6 +1,51 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB4677897405",
+      "product_id": "MLB4677897405",
+      "catalog_product_id": "MLB64424896",
+      "item_id": "MLB4677897405",
+      "url": "https://www.mercadolivre.com.br/p/MLB64424896?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB64424896?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "luva academia esporte neoprene academia luva protecao preto lisa unico",
+      "title": "Luva Academia Esporte Neoprene Academia Luva Proteção Preto Lisa Unico",
+      "category": "Esportes",
+      "price": 19.98,
+      "score": 83.87,
+      "posted_ts": 1790568293,
+      "posted_at": "2026-09-28T04:04:53.785045+00:00"
+    },
+    {
+      "key": "mercadolivre:MLB4552665179",
+      "product_id": "MLB4552665179",
+      "catalog_product_id": "MLB20818317",
+      "item_id": "MLB4552665179",
+      "url": "https://www.mercadolivre.com.br/p/MLB20818317?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB20818317?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "whey protein concentrado whey protein isolado cafeina",
+      "title": "Whey Protein Concentrado + Whey Protein Isolado + Cafeína",
+      "category": "Esportes",
+      "price": 658.0,
+      "score": 86.0,
+      "posted_ts": 1790568229,
+      "posted_at": "2026-09-28T04:03:49.739877+00:00"
+    },
+    {
+      "key": "mercadolivre:MLB6827581422",
+      "product_id": "MLB6827581422",
+      "catalog_product_id": "MLB70114350",
+      "item_id": "MLB6827581422",
+      "url": "https://www.mercadolivre.com.br/p/MLB70114350?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB70114350?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "prancha esteira ergometrica kikos e600ix preto",
+      "title": "Prancha Esteira Ergometrica Kikos E600ix Preto",
+      "category": "Esportes",
+      "price": 191.28,
+      "score": 120.27,
+      "posted_ts": 1790568165,
+      "posted_at": "2026-09-28T04:02:45.700086+00:00"
+    },
+    {
       "key": "mercadolivre:MLB5331790354",
       "product_id": "MLB5331790354",
       "catalog_product_id": "MLB45458466",
@@ -601,5 +646,5 @@
       "posted_at": "2026-09-26T05:02:40.960313+00:00"
     }
   ],
-  "updated_at": "2026-09-28T02:05:19.180089+00:00"
+  "updated_at": "2026-09-28T04:04:53.785056+00:00"
 }
