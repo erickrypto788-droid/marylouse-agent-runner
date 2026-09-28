@@ -1,6 +1,36 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB3523354285",
+      "product_id": "MLB3523354285",
+      "catalog_product_id": "MLB22958206",
+      "item_id": "MLB3523354285",
+      "url": "https://www.mercadolivre.com.br/p/MLB22958206?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB22958206?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "aparelho monitor pressao arterial portatil pulso omron",
+      "title": "Aparelho Monitor Pressão Arterial Portátil Pulso Omron",
+      "category": "Informática",
+      "price": 189.88,
+      "score": 88.0,
+      "posted_ts": 1790597052,
+      "posted_at": "2026-09-28T12:04:12.636153+00:00"
+    },
+    {
+      "key": "mercadolivre:MLB3222635196",
+      "product_id": "MLB3222635196",
+      "catalog_product_id": "MLB21719639",
+      "item_id": "MLB3222635196",
+      "url": "https://www.mercadolivre.com.br/p/MLB21719639?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB21719639?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "bracadeira para aparelho monitor pressao digital infantil omron",
+      "title": "Braçadeira para Aparelho Monitor Pressão Digital Infantil Omron",
+      "category": "Informática",
+      "price": 135.0,
+      "score": 95.09,
+      "posted_ts": 1790596988,
+      "posted_at": "2026-09-28T12:03:08.599004+00:00"
+    },
+    {
       "key": "mercadolivre:MLB4657112471",
       "product_id": "MLB4657112471",
       "catalog_product_id": "MLB61421090",
@@ -689,22 +719,7 @@
       "score": 123.67,
       "posted_ts": 1790431531,
       "posted_at": "2026-09-26T14:05:31.025075+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB7625830504",
-      "product_id": "MLB7625830504",
-      "catalog_product_id": "MLB78672090",
-      "item_id": "MLB7625830504",
-      "url": "https://www.mercadolivre.com.br/p/MLB78672090?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB78672090?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "impressora etiquetas adesivas 1 000 etiquetas 10x15cm branco",
-      "title": "Impressora Etiquetas Adesivas + 1.000 Etiquetas 10x15cm Branco",
-      "category": "Informática",
-      "price": 589.1,
-      "score": 108.24,
-      "posted_ts": 1790424185,
-      "posted_at": "2026-09-26T12:03:05.512667+00:00"
     }
   ],
-  "updated_at": "2026-09-28T10:04:17.236274+00:00"
+  "updated_at": "2026-09-28T12:04:12.636168+00:00"
 }
