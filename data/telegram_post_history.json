@@ -1,6 +1,34 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB6815537068",
+      "marketplace": "mercadolivre",
+      "id": "MLB6815537068",
+      "title": "Bike Spinning Ergométrica Cor Preto",
+      "title_norm": "bike spinning ergometrica cor preto",
+      "url": "https://www.mercadolivre.com.br/p/MLB36405300?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB36405300?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Esportes",
+      "bucket": "esportes",
+      "posted_ts": 1790629435,
+      "posted_at": "2026-09-28T21:03:55.867932+00:00",
+      "score": 83.0
+    },
+    {
+      "key": "mercadolivre:MLB7359539976",
+      "marketplace": "mercadolivre",
+      "id": "MLB7359539976",
+      "title": "Bike Spinning Kikos Max-ks5 Preto",
+      "title_norm": "bike spinning kikos max ks5 preto",
+      "url": "https://www.mercadolivre.com.br/p/MLB18603556?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB18603556?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Esportes",
+      "bucket": "esportes",
+      "posted_ts": 1790629369,
+      "posted_at": "2026-09-28T21:02:49.802663+00:00",
+      "score": 84.0
+    },
+    {
       "key": "shopee:23298641767",
       "marketplace": "shopee",
       "id": "23298641767",
@@ -13971,35 +13999,7 @@
       "posted_ts": 1789877807,
       "posted_at": "2026-09-20T04:16:47.666467+00:00",
       "score": 120.52
-    },
-    {
-      "key": "shopee:8337843814",
-      "marketplace": "shopee",
-      "id": "8337843814",
-      "title": "Pasta De Amendoim Integral Vários Sabores Maniforce",
-      "title_norm": "pasta de amendoim integral varios sabores maniforce",
-      "url": "https://shopee.com.br/product/409969707/8337843814",
-      "affiliate_url": "https://s.shopee.com.br/9AOlT0mu32",
-      "category": "MUNDO MANI",
-      "bucket": "mundo_mani",
-      "posted_ts": 1789874467,
-      "posted_at": "2026-09-20T03:21:07.321128+00:00",
-      "score": 83.01
-    },
-    {
-      "key": "shopee:58265349883",
-      "marketplace": "shopee",
-      "id": "58265349883",
-      "title": "Caixa de Bombom Lacta Favoritos 250,6g",
-      "title_norm": "caixa de bombom lacta favoritos 250 6g",
-      "url": "https://shopee.com.br/product/1248266601/58265349883",
-      "affiliate_url": "https://s.shopee.com.br/AKair9mvl1",
-      "category": "Chegô",
-      "bucket": "chego",
-      "posted_ts": 1789874403,
-      "posted_at": "2026-09-20T03:20:03.284094+00:00",
-      "score": 83.51
     }
   ],
-  "updated_at": "2026-09-28T20:21:17.837821+00:00"
+  "updated_at": "2026-09-28T21:03:55.867947+00:00"
 }
