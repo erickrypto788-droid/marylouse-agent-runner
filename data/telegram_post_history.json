@@ -1,6 +1,34 @@
 {
   "posts": [
     {
+      "key": "shopee:23599239610",
+      "marketplace": "shopee",
+      "id": "23599239610",
+      "title": "Sandália Feminina Conforto Premium Com Detalhe Dourado Elegante | Casual E Sofisticada GABI",
+      "title_norm": "sandalia feminina conforto premium com detalhe dourado elegante casual e sofisticada gabi",
+      "url": "https://shopee.com.br/product/1648608636/23599239610",
+      "affiliate_url": "https://s.shopee.com.br/AAHUklk1U6",
+      "category": "cravorosa267",
+      "bucket": "calcados",
+      "posted_ts": 1790601475,
+      "posted_at": "2026-09-28T13:17:55.829473+00:00",
+      "score": 109.27
+    },
+    {
+      "key": "shopee:22294416370",
+      "marketplace": "shopee",
+      "id": "22294416370",
+      "title": "Sandália Feminina Asa Delta Rasteira Conforto Medalhas Douradas com Fivela Reveillon",
+      "title_norm": "sandalia feminina asa delta rasteira conforto medalhas douradas com fivela reveillon",
+      "url": "https://shopee.com.br/product/1022219186/22294416370",
+      "affiliate_url": "https://s.shopee.com.br/9peeM9lI9w",
+      "category": "Eudorashoes",
+      "bucket": "calcados",
+      "posted_ts": 1790601411,
+      "posted_at": "2026-09-28T13:16:51.754907+00:00",
+      "score": 127.88
+    },
+    {
       "key": "mercadolivre:MLB7639579812",
       "marketplace": "mercadolivre",
       "id": "MLB7639579812",
@@ -13971,35 +13999,7 @@
       "posted_ts": 1789841804,
       "posted_at": "2026-09-19T18:16:44.441827+00:00",
       "score": 95.81
-    },
-    {
-      "key": "shopee:9879082764",
-      "marketplace": "shopee",
-      "id": "9879082764",
-      "title": "Kit 12 Pares de Meias Menina Recém Nascidos e Bebê com Antiderrapante Feminina",
-      "title_norm": "kit 12 pares de meias menina recem nascidos e bebe com antiderrapante feminina",
-      "url": "https://shopee.com.br/product/379507619/9879082764",
-      "affiliate_url": "https://s.shopee.com.br/9zxqSvUz20",
-      "category": "Ferraz Modas",
-      "bucket": "ferraz_modas",
-      "posted_ts": 1789838465,
-      "posted_at": "2026-09-19T17:21:05.413245+00:00",
-      "score": 84.92
-    },
-    {
-      "key": "shopee:58214519187",
-      "marketplace": "shopee",
-      "id": "58214519187",
-      "title": "Kit 6 Peças Roupa De Bebê Body Menina Animado Estampado Algodão",
-      "title_norm": "kit 6 pecas roupa de bebe body menina animado estampado algodao",
-      "url": "https://shopee.com.br/product/1700242901/58214519187",
-      "affiliate_url": "https://s.shopee.com.br/qjcsUPiSn",
-      "category": "Meu Bebê Kids",
-      "bucket": "meu_bebe_kids",
-      "posted_ts": 1789838401,
-      "posted_at": "2026-09-19T17:20:01.437426+00:00",
-      "score": 92.2
     }
   ],
-  "updated_at": "2026-09-28T13:02:43.571133+00:00"
+  "updated_at": "2026-09-28T13:17:55.829492+00:00"
 }
