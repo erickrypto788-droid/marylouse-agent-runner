@@ -1,6 +1,20 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB3474477475",
+      "marketplace": "mercadolivre",
+      "id": "MLB3474477475",
+      "title": "Lamina Aparador Pelos Philips Bodygroom Qg3379 Qg3280 Qg3380",
+      "title_norm": "lamina aparador pelos philips bodygroom qg3379 qg3280 qg3380",
+      "url": "https://www.mercadolivre.com.br/p/MLB24908965?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB24908965?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Beleza",
+      "bucket": "beleza",
+      "posted_ts": 1790632977,
+      "posted_at": "2026-09-28T22:02:57.698308+00:00",
+      "score": 119.78
+    },
+    {
       "key": "shopee:21032149959",
       "marketplace": "shopee",
       "id": "21032149959",
@@ -13985,21 +13999,7 @@
       "posted_ts": 1789881543,
       "posted_at": "2026-09-20T05:19:03.777088+00:00",
       "score": 116.18
-    },
-    {
-      "key": "shopee:22797545994",
-      "marketplace": "shopee",
-      "id": "22797545994",
-      "title": "Calça Legging Flare Flanelada Leg Boca De Sino Bailarina Grossa Zero Transparência",
-      "title_norm": "calca legging flare flanelada leg boca de sino bailarina grossa zero transparencia",
-      "url": "https://shopee.com.br/product/869193731/22797545994",
-      "affiliate_url": "https://s.shopee.com.br/AKahez5fgW",
-      "category": "OxeanJeans",
-      "bucket": "moda_feminina",
-      "posted_ts": 1789881479,
-      "posted_at": "2026-09-20T05:17:59.434307+00:00",
-      "score": 126.53
     }
   ],
-  "updated_at": "2026-09-28T21:21:16.361074+00:00"
+  "updated_at": "2026-09-28T22:02:57.698324+00:00"
 }
