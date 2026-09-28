@@ -1,6 +1,20 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB4669888929",
+      "marketplace": "mercadolivre",
+      "id": "MLB4669888929",
+      "title": "Kit 10 Cateteres Speedicath Short Feminino Ch10",
+      "title_norm": "kit 10 cateteres speedicath short feminino ch10",
+      "url": "https://www.mercadolivre.com.br/p/MLB69426926?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB69426926?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Moda Feminina",
+      "bucket": "moda_feminina",
+      "posted_ts": 1790618596,
+      "posted_at": "2026-09-28T18:03:16.048270+00:00",
+      "score": 88.0
+    },
+    {
       "key": "shopee:58214671619",
       "marketplace": "shopee",
       "id": "58214671619",
@@ -13985,21 +13999,7 @@
       "posted_ts": 1789863412,
       "posted_at": "2026-09-20T00:16:52.628381+00:00",
       "score": 92.64
-    },
-    {
-      "key": "mercadolivre:MLB7513707254",
-      "marketplace": "mercadolivre",
-      "id": "MLB7513707254",
-      "title": "Mini Impressora Niimbot B1 etiqueta Bluetooth Cor Prateado impressora etiquetas adesivas",
-      "title_norm": "mini impressora niimbot b1 etiqueta bluetooth cor prateado impressora etiquetas adesivas",
-      "url": "https://www.mercadolivre.com.br/p/MLB57578486?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB57578486?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "category": "Informática",
-      "bucket": "informatica",
-      "posted_ts": 1789862563,
-      "posted_at": "2026-09-20T00:02:43.947629+00:00",
-      "score": 88.0
     }
   ],
-  "updated_at": "2026-09-28T17:21:09.678684+00:00"
+  "updated_at": "2026-09-28T18:03:16.048288+00:00"
 }
