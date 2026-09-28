@@ -1,6 +1,48 @@
 {
   "posts": [
     {
+      "key": "shopee:22893701336",
+      "marketplace": "shopee",
+      "id": "22893701336",
+      "title": "Mala Esportiva Academia Unissex Transversal e Mochila",
+      "title_norm": "mala esportiva academia unissex transversal e mochila",
+      "url": "https://shopee.com.br/product/1284795277/22893701336",
+      "affiliate_url": "https://s.shopee.com.br/50ZPGTWGxJ",
+      "category": "DIVA IMPORT",
+      "bucket": "bolsas",
+      "posted_ts": 1790565538,
+      "posted_at": "2026-09-28T03:18:58.662152+00:00",
+      "score": 108.68
+    },
+    {
+      "key": "shopee:22693513091",
+      "marketplace": "shopee",
+      "id": "22693513091",
+      "title": "ROMANTIC CROWN Bolsa de Ombra Feminina com Alça Ajustável, Bolsa Feminina Elegante com Couro Sintetico Preto, Presente",
+      "title_norm": "romantic crown bolsa de ombra feminina com alca ajustavel bolsa feminina elegante com couro sintetico preto presente",
+      "url": "https://shopee.com.br/product/1345043704/22693513091",
+      "affiliate_url": "https://s.shopee.com.br/6L4ivovgxM",
+      "category": "Romantic Crown 02",
+      "bucket": "bolsas",
+      "posted_ts": 1790565468,
+      "posted_at": "2026-09-28T03:17:48.599681+00:00",
+      "score": 121.0
+    },
+    {
+      "key": "shopee:23497594302",
+      "marketplace": "shopee",
+      "id": "23497594302",
+      "title": "ROMANTIC CROWN Mochla de Viagem MascuIino e Feminina ImpermeaveI Reforçada Executiva para Notebook",
+      "title_norm": "romantic crown mochla de viagem mascuiino e feminina impermeavei reforcada executiva para notebook",
+      "url": "https://shopee.com.br/product/1198407784/23497594302",
+      "affiliate_url": "https://s.shopee.com.br/8AWR2IFoju",
+      "category": "Romantic Crown.02",
+      "bucket": "informatica",
+      "posted_ts": 1790565404,
+      "posted_at": "2026-09-28T03:16:44.430392+00:00",
+      "score": 146.0
+    },
+    {
       "key": "shopee:21820451014",
       "marketplace": "shopee",
       "id": "21820451014",
@@ -13957,49 +13999,7 @@
       "posted_ts": 1789798813,
       "posted_at": "2026-09-19T06:20:13.406251+00:00",
       "score": 69.52
-    },
-    {
-      "key": "shopee:22097785703",
-      "marketplace": "shopee",
-      "id": "22097785703",
-      "title": "Amplificador de sinal Wi-Fi repetidor e roteador sem fio rede sem fio através da parede Dupla pressão/2.4G - G8",
-      "title_norm": "amplificador de sinal wi fi repetidor e roteador sem fio rede sem fio atraves da parede dupla pressao 2 4g g8",
-      "url": "https://shopee.com.br/product/1217782773/22097785703",
-      "affiliate_url": "https://s.shopee.com.br/9fKzKzwklf",
-      "category": "JR905",
-      "bucket": "pet",
-      "posted_ts": 1789798749,
-      "posted_at": "2026-09-19T06:19:09.496010+00:00",
-      "score": 89.34
-    },
-    {
-      "key": "shopee:23698804974",
-      "marketplace": "shopee",
-      "id": "23698804974",
-      "title": "Papel Fotográfico 180g Glossy A4 Brilhante à Prova D'água MASTERPRINT",
-      "title_norm": "papel fotografico 180g glossy a4 brilhante a prova d agua masterprint",
-      "url": "https://shopee.com.br/product/1046010418/23698804974",
-      "affiliate_url": "https://s.shopee.com.br/20vZTBjWZV",
-      "category": "PAPEL.PAPELARIA",
-      "bucket": "papel_papelaria",
-      "posted_ts": 1789798685,
-      "posted_at": "2026-09-19T06:18:05.594789+00:00",
-      "score": 97.1
-    },
-    {
-      "key": "shopee:22899555830",
-      "marketplace": "shopee",
-      "id": "22899555830",
-      "title": "Monitor Gamer Mancer Valak Z186, 23.8 Pol, VA, Curvo, FHD, 1ms, 180Hz, HDMI/VGA, MCR-VKZ186-BL01",
-      "title_norm": "monitor gamer mancer valak z186 23 8 pol va curvo fhd 1ms 180hz hdmi vga mcr vkz186 bl01",
-      "url": "https://shopee.com.br/product/627750190/22899555830",
-      "affiliate_url": "https://s.shopee.com.br/8fSTTZ07g3",
-      "category": "Pichau",
-      "bucket": "informatica",
-      "posted_ts": 1789798614,
-      "posted_at": "2026-09-19T06:16:54.508312+00:00",
-      "score": 113.57
     }
   ],
-  "updated_at": "2026-09-28T02:21:39.597905+00:00"
+  "updated_at": "2026-09-28T03:18:58.662166+00:00"
 }
