@@ -1,6 +1,20 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB7158074090",
+      "marketplace": "mercadolivre",
+      "id": "MLB7158074090",
+      "title": "Liquidificador portátil, Mini liquidificador recarregável USB, Liquidificador",
+      "title_norm": "liquidificador portatil mini liquidificador recarregavel usb liquidificador",
+      "url": "https://www.mercadolivre.com.br/p/MLB38338044?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB38338044?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Casa e Cozinha",
+      "bucket": "casa_cozinha",
+      "posted_ts": 1790575380,
+      "posted_at": "2026-09-28T06:03:00.586045+00:00",
+      "score": 113.0
+    },
+    {
       "key": "shopee:23997651063",
       "marketplace": "shopee",
       "id": "23997651063",
@@ -13985,21 +13999,7 @@
       "posted_ts": 1789809415,
       "posted_at": "2026-09-19T09:16:55.740075+00:00",
       "score": 132.55
-    },
-    {
-      "key": "mercadolivre:MLB4976025191",
-      "marketplace": "mercadolivre",
-      "id": "MLB4976025191",
-      "title": "2 Amaciante Roupas Concentrado Lavanda Frasco Comfort 1,5l",
-      "title_norm": "2 amaciante roupas concentrado lavanda frasco comfort 1 5l",
-      "url": "https://www.mercadolivre.com.br/p/MLB67005264?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB67005264?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "category": "Supermercados",
-      "bucket": "supermercado",
-      "posted_ts": 1789808951,
-      "posted_at": "2026-09-19T09:09:11.657727+00:00",
-      "score": 114.0
     }
   ],
-  "updated_at": "2026-09-28T05:21:07.322834+00:00"
+  "updated_at": "2026-09-28T06:03:00.586057+00:00"
 }
