@@ -1,6 +1,48 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB7634917954",
+      "marketplace": "mercadolivre",
+      "id": "MLB7634917954",
+      "title": "Shampoo Infantil Meu Bebê",
+      "title_norm": "shampoo infantil meu bebe",
+      "url": "https://www.mercadolivre.com.br/p/MLB21780816?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB21780816?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Beleza",
+      "bucket": "beleza",
+      "posted_ts": 1790615383,
+      "posted_at": "2026-09-28T17:09:43.634494+00:00",
+      "score": 88.0
+    },
+    {
+      "key": "mercadolivre:MLB5930796330",
+      "marketplace": "mercadolivre",
+      "id": "MLB5930796330",
+      "title": "Papel higiênico INDAIAL CAICAI PAPEL HIGIENICO folha dupla de 1 un",
+      "title_norm": "papel higienico indaial caicai papel higienico folha dupla de 1 un",
+      "url": "https://www.mercadolivre.com.br/p/MLB43609445?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB43609445?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Supermercados",
+      "bucket": "supermercado",
+      "posted_ts": 1790615269,
+      "posted_at": "2026-09-28T17:07:49.278777+00:00",
+      "score": 114.0
+    },
+    {
+      "key": "mercadolivre:MLB7597764796",
+      "marketplace": "mercadolivre",
+      "id": "MLB7597764796",
+      "title": "Fralda Huggies Jumbinho M - 36 Unidades",
+      "title_norm": "fralda huggies jumbinho m 36 unidades",
+      "url": "https://www.mercadolivre.com.br/p/MLB25251850?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB25251850?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Mãe e Bebê",
+      "bucket": "fraldas",
+      "posted_ts": 1790615205,
+      "posted_at": "2026-09-28T17:06:45.204768+00:00",
+      "score": 182.06
+    },
+    {
       "key": "shopee:44074380649",
       "marketplace": "shopee",
       "id": "44074380649",
@@ -13957,49 +13999,7 @@
       "posted_ts": 1789856204,
       "posted_at": "2026-09-19T22:16:44.992489+00:00",
       "score": 102.01
-    },
-    {
-      "key": "mercadolivre:MLB7526272332",
-      "marketplace": "mercadolivre",
-      "id": "MLB7526272332",
-      "title": "Ração Gato Castrado Life Special Robustus 10,1kg",
-      "title_norm": "racao gato castrado life special robustus 10 1kg",
-      "url": "https://www.mercadolivre.com.br/p/MLB75981402?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB75981402?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "category": "Pet",
-      "bucket": "pet",
-      "posted_ts": 1789855371,
-      "posted_at": "2026-09-19T22:02:51.606968+00:00",
-      "score": 113.0
-    },
-    {
-      "key": "shopee:22193520552",
-      "marketplace": "shopee",
-      "id": "22193520552",
-      "title": "KIT 3 LENÇOL PARA BERÇO PORTATIL SIDE BY SIDE SAFETY OU COSCO PLUGGY 100% Algodão",
-      "title_norm": "kit 3 lencol para berco portatil side by side safety ou cosco pluggy 100 algodao",
-      "url": "https://shopee.com.br/product/446109173/22193520552",
-      "affiliate_url": "https://s.shopee.com.br/7VGUUWvOWd",
-      "category": "LOJA DE CASA ",
-      "bucket": "loja_de_casa",
-      "posted_ts": 1789852892,
-      "posted_at": "2026-09-19T21:21:32.929709+00:00",
-      "score": 49.82
-    },
-    {
-      "key": "shopee:58264675380",
-      "marketplace": "shopee",
-      "id": "58264675380",
-      "title": "Boneca Bebê Reborn Realista Silicone Corpo Inteiro com Chupeta Mamadeira Fralda Kit Completo Love Reborn Realista",
-      "title_norm": "boneca bebe reborn realista silicone corpo inteiro com chupeta mamadeira fralda kit completo love reborn realista",
-      "url": "https://shopee.com.br/product/1120937068/58264675380",
-      "affiliate_url": "https://s.shopee.com.br/2BEzP0hwco",
-      "category": "AMGSUPERSHOP",
-      "bucket": "fraldas",
-      "posted_ts": 1789852828,
-      "posted_at": "2026-09-19T21:20:28.598202+00:00",
-      "score": 68.76
     }
   ],
-  "updated_at": "2026-09-28T16:21:17.603016+00:00"
+  "updated_at": "2026-09-28T17:09:43.634511+00:00"
 }

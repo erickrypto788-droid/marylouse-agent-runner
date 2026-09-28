@@ -1,6 +1,51 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB7634917954",
+      "product_id": "MLB7634917954",
+      "catalog_product_id": "MLB21780816",
+      "item_id": "MLB7634917954",
+      "url": "https://www.mercadolivre.com.br/p/MLB21780816?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB21780816?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "shampoo infantil meu bebe",
+      "title": "Shampoo Infantil Meu Bebê",
+      "category": "Beleza",
+      "price": 39.9,
+      "score": 88.0,
+      "posted_ts": 1790615383,
+      "posted_at": "2026-09-28T17:09:43.647369+00:00"
+    },
+    {
+      "key": "mercadolivre:MLB5930796330",
+      "product_id": "MLB5930796330",
+      "catalog_product_id": "MLB43609445",
+      "item_id": "MLB5930796330",
+      "url": "https://www.mercadolivre.com.br/p/MLB43609445?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB43609445?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "papel higienico indaial caicai papel higienico folha dupla de 1 un",
+      "title": "Papel higiênico INDAIAL CAICAI PAPEL HIGIENICO folha dupla de 1 un",
+      "category": "Supermercados",
+      "price": 147.9,
+      "score": 114.0,
+      "posted_ts": 1790615269,
+      "posted_at": "2026-09-28T17:07:49.291661+00:00"
+    },
+    {
+      "key": "mercadolivre:MLB7597764796",
+      "product_id": "MLB7597764796",
+      "catalog_product_id": "MLB25251850",
+      "item_id": "MLB7597764796",
+      "url": "https://www.mercadolivre.com.br/p/MLB25251850?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB25251850?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "fralda huggies jumbinho m 36 unidades",
+      "title": "Fralda Huggies Jumbinho M - 36 Unidades",
+      "category": "Mãe e Bebê",
+      "price": 42.9,
+      "score": 182.06,
+      "posted_ts": 1790615205,
+      "posted_at": "2026-09-28T17:06:45.216253+00:00"
+    },
+    {
       "key": "mercadolivre:MLB6194259162",
       "product_id": "MLB6194259162",
       "catalog_product_id": "MLB26008929",
@@ -751,5 +796,5 @@
       "posted_at": "2026-09-26T22:02:50.082640+00:00"
     }
   ],
-  "updated_at": "2026-09-28T16:04:07.114534+00:00"
+  "updated_at": "2026-09-28T17:09:43.647380+00:00"
 }
