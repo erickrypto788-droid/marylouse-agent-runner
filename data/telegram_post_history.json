@@ -1,6 +1,34 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB4442585419",
+      "marketplace": "mercadolivre",
+      "id": "MLB4442585419",
+      "title": "Soundbar Samsung Hw-b650f + Soundbar Hw-b400f Preto",
+      "title_norm": "soundbar samsung hw b650f soundbar hw b400f preto",
+      "url": "https://www.mercadolivre.com.br/p/MLB64939142?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB64939142?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Informática",
+      "bucket": "informatica",
+      "posted_ts": 1790586252,
+      "posted_at": "2026-09-28T09:04:12.581755+00:00",
+      "score": 104.0
+    },
+    {
+      "key": "mercadolivre:MLB5175098567",
+      "marketplace": "mercadolivre",
+      "id": "MLB5175098567",
+      "title": "Soundbar Samsung Hw-b450f + Soundbar Hw-b400f",
+      "title_norm": "soundbar samsung hw b450f soundbar hw b400f",
+      "url": "https://www.mercadolivre.com.br/p/MLB65128496?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB65128496?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Informática",
+      "bucket": "informatica",
+      "posted_ts": 1790586182,
+      "posted_at": "2026-09-28T09:03:02.860902+00:00",
+      "score": 127.0
+    },
+    {
       "key": "shopee:52902130185",
       "marketplace": "shopee",
       "id": "52902130185",
@@ -13971,35 +13999,7 @@
       "posted_ts": 1789823809,
       "posted_at": "2026-09-19T13:16:49.153699+00:00",
       "score": 103.38
-    },
-    {
-      "key": "shopee:23493066342",
-      "marketplace": "shopee",
-      "id": "23493066342",
-      "title": "Bota PVC Chuva Motociclista Moto Impermeável Forrado",
-      "title_norm": "bota pvc chuva motociclista moto impermeavel forrado",
-      "url": "https://shopee.com.br/product/1081929427/23493066342",
-      "affiliate_url": "https://s.shopee.com.br/4B04W0jN5Y",
-      "category": "Safe_Brasil",
-      "bucket": "calcados",
-      "posted_ts": 1789820269,
-      "posted_at": "2026-09-19T12:17:49.918988+00:00",
-      "score": 86.36
-    },
-    {
-      "key": "shopee:23492477701",
-      "marketplace": "shopee",
-      "id": "23492477701",
-      "title": "Tênis Infantil Menino Masculino Casual Sapatenis Infantil",
-      "title_norm": "tenis infantil menino masculino casual sapatenis infantil",
-      "url": "https://shopee.com.br/product/287287585/23492477701",
-      "affiliate_url": "https://s.shopee.com.br/AUu83eGiv9",
-      "category": "Comprei Calçados",
-      "bucket": "calcados",
-      "posted_ts": 1789820205,
-      "posted_at": "2026-09-19T12:16:45.961691+00:00",
-      "score": 89.75
     }
   ],
-  "updated_at": "2026-09-28T08:18:08.428573+00:00"
+  "updated_at": "2026-09-28T09:04:12.581770+00:00"
 }
