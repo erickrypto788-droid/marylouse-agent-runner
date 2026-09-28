@@ -1,6 +1,48 @@
 {
   "posts": [
     {
+      "key": "shopee:20197497479",
+      "marketplace": "shopee",
+      "id": "20197497479",
+      "title": "Mochila Reforçada Casal Feminina Escolar Grande Capacidade Mochila De Coreana Promocao",
+      "title_norm": "mochila reforcada casal feminina escolar grande capacidade mochila de coreana promocao",
+      "url": "https://shopee.com.br/product/476198790/20197497479",
+      "affiliate_url": "https://s.shopee.com.br/8pm7pWDHNy",
+      "category": "GlobeOficialBR",
+      "bucket": "bolsas",
+      "posted_ts": 1790633945,
+      "posted_at": "2026-09-28T22:19:05.052417+00:00",
+      "score": 102.01
+    },
+    {
+      "key": "shopee:21099546181",
+      "marketplace": "shopee",
+      "id": "21099546181",
+      "title": "ROMANTIC CROWN Bolsa Feminina Pequena de Ombro Impermeável, Mini Tiracolo de Couro para Trabalho e Festa",
+      "title_norm": "romantic crown bolsa feminina pequena de ombro impermeavel mini tiracolo de couro para trabalho e festa",
+      "url": "https://shopee.com.br/product/1198407784/21099546181",
+      "affiliate_url": "https://s.shopee.com.br/7ptadgH5Qv",
+      "category": "Romantic Crown.02",
+      "bucket": "bolsas",
+      "posted_ts": 1790633880,
+      "posted_at": "2026-09-28T22:18:00.724394+00:00",
+      "score": 115.34
+    },
+    {
+      "key": "shopee:58209895415",
+      "marketplace": "shopee",
+      "id": "58209895415",
+      "title": "Mochila de Viagem Masculina e Feminina Impermeável e Reforçada com Compartimento para Notebook",
+      "title_norm": "mochila de viagem masculina e feminina impermeavel e reforcada com compartimento para notebook",
+      "url": "https://shopee.com.br/product/1789754785/58209895415",
+      "affiliate_url": "https://s.shopee.com.br/9fLEtB81lP",
+      "category": "Solperk",
+      "bucket": "informatica",
+      "posted_ts": 1790633816,
+      "posted_at": "2026-09-28T22:16:56.282378+00:00",
+      "score": 140.68
+    },
+    {
       "key": "mercadolivre:MLB3474477475",
       "marketplace": "mercadolivre",
       "id": "MLB3474477475",
@@ -13957,49 +13999,7 @@
       "posted_ts": 1789884182,
       "posted_at": "2026-09-20T06:03:02.243200+00:00",
       "score": 170.47
-    },
-    {
-      "key": "shopee:58258296035",
-      "marketplace": "shopee",
-      "id": "58258296035",
-      "title": "CONJUNTO PATY FEMININO LUXO - SAIA COM CROPPED DE AMARRAÇÃO (PAULA)",
-      "title_norm": "conjunto paty feminino luxo saia com cropped de amarracao paula",
-      "url": "https://shopee.com.br/product/941361217/58258296035",
-      "affiliate_url": "https://s.shopee.com.br/70KH1GdvE0",
-      "category": "UseLunnaStore",
-      "bucket": "pet",
-      "posted_ts": 1789881672,
-      "posted_at": "2026-09-20T05:21:12.115247+00:00",
-      "score": 89.04
-    },
-    {
-      "key": "shopee:54711820700",
-      "marketplace": "shopee",
-      "id": "54711820700",
-      "title": "Vestido Longo Feminino Costa Nua Midi Inverno Elegante de Festa Plus Size Praia",
-      "title_norm": "vestido longo feminino costa nua midi inverno elegante de festa plus size praia",
-      "url": "https://shopee.com.br/product/1330105172/54711820700",
-      "affiliate_url": "https://s.shopee.com.br/4fwMEyiPAI",
-      "category": "GRA JEANS OFICIAL",
-      "bucket": "moda_feminina",
-      "posted_ts": 1789881607,
-      "posted_at": "2026-09-20T05:20:07.991390+00:00",
-      "score": 114.51
-    },
-    {
-      "key": "shopee:58255069695",
-      "marketplace": "shopee",
-      "id": "58255069695",
-      "title": "Calça Cintura média Versátil - Perfeita para Looks Casuais e Elegantes",
-      "title_norm": "calca cintura media versatil perfeita para looks casuais e elegantes",
-      "url": "https://shopee.com.br/product/1641027419/58255069695",
-      "affiliate_url": "https://s.shopee.com.br/7Kx65TcxBK",
-      "category": "Vmts Femenina",
-      "bucket": "vmts_femenina",
-      "posted_ts": 1789881543,
-      "posted_at": "2026-09-20T05:19:03.777088+00:00",
-      "score": 116.18
     }
   ],
-  "updated_at": "2026-09-28T22:02:57.698324+00:00"
+  "updated_at": "2026-09-28T22:19:05.052437+00:00"
 }
