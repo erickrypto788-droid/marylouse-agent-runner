@@ -1,6 +1,20 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB6194259162",
+      "marketplace": "mercadolivre",
+      "id": "MLB6194259162",
+      "title": "Cadeira Gamer Profissional Ergonômica Giratória Vermelha para Escritório",
+      "title_norm": "cadeira gamer profissional ergonomica giratoria vermelha para escritorio",
+      "url": "https://www.mercadolivre.com.br/p/MLB26008929?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB26008929?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Casa e Cozinha",
+      "bucket": "casa_e_cozinha",
+      "posted_ts": 1790611447,
+      "posted_at": "2026-09-28T16:04:07.100509+00:00",
+      "score": 86.0
+    },
+    {
       "key": "shopee:21897737849",
       "marketplace": "shopee",
       "id": "21897737849",
@@ -13985,21 +13999,7 @@
       "posted_ts": 1789849142,
       "posted_at": "2026-09-19T20:19:02.327791+00:00",
       "score": 96.78
-    },
-    {
-      "key": "shopee:22797731885",
-      "marketplace": "shopee",
-      "id": "22797731885",
-      "title": "Aparelho Medidor De Pressão Arterial Digital De Braço Alta Precisão Com Instrução de Voz",
-      "title_norm": "aparelho medidor de pressao arterial digital de braco alta precisao com instrucao de voz",
-      "url": "https://shopee.com.br/product/1338519571/22797731885",
-      "affiliate_url": "https://s.shopee.com.br/7VGX16GM5t",
-      "category": "TECH ELETRONICO LTDA",
-      "bucket": "saude",
-      "posted_ts": 1789849078,
-      "posted_at": "2026-09-19T20:17:58.291557+00:00",
-      "score": 104.47
     }
   ],
-  "updated_at": "2026-09-28T15:21:08.614294+00:00"
+  "updated_at": "2026-09-28T16:04:07.100525+00:00"
 }
