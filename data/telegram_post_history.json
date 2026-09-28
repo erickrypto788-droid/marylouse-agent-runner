@@ -1,6 +1,48 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB6978080348",
+      "marketplace": "mercadolivre",
+      "id": "MLB6978080348",
+      "title": "Impressora Etiquetas Monocromática Toledo Prix IT400M USB",
+      "title_norm": "impressora etiquetas monocromatica toledo prix it400m usb",
+      "url": "https://www.mercadolivre.com.br/p/MLB46173110?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB46173110?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Informática",
+      "bucket": "informatica",
+      "posted_ts": 1790607906,
+      "posted_at": "2026-09-28T15:05:06.611142+00:00",
+      "score": 86.0
+    },
+    {
+      "key": "mercadolivre:MLB5201599262",
+      "marketplace": "mercadolivre",
+      "id": "MLB5201599262",
+      "title": "Ribbon Resina Mastercorp 110x300 Para Impressora Etiquetas BOPP Vinil",
+      "title_norm": "ribbon resina mastercorp 110x300 para impressora etiquetas bopp vinil",
+      "url": "https://www.mercadolivre.com.br/p/MLB44215301?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB44215301?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Informática",
+      "bucket": "informatica",
+      "posted_ts": 1790607836,
+      "posted_at": "2026-09-28T15:03:56.497803+00:00",
+      "score": 86.0
+    },
+    {
+      "key": "mercadolivre:MLB3929416863",
+      "marketplace": "mercadolivre",
+      "id": "MLB3929416863",
+      "title": "Impressora Etiquetas Logistica Código De Barras Usb",
+      "title_norm": "impressora etiquetas logistica codigo de barras usb",
+      "url": "https://www.mercadolivre.com.br/p/MLB39019401?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB39019401?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Informática",
+      "bucket": "informatica",
+      "posted_ts": 1790607772,
+      "posted_at": "2026-09-28T15:02:52.540636+00:00",
+      "score": 110.48
+    },
+    {
       "key": "shopee:24342471495",
       "marketplace": "shopee",
       "id": "24342471495",
@@ -13957,49 +13999,7 @@
       "posted_ts": 1789845471,
       "posted_at": "2026-09-19T19:17:51.479661+00:00",
       "score": 93.79
-    },
-    {
-      "key": "shopee:58265605630",
-      "marketplace": "shopee",
-      "id": "58265605630",
-      "title": "Miniatura Fusca Volkswagen 1:32 Carrinho Metal Abre Capô e Portas Fricção Coleção 12cm",
-      "title_norm": "miniatura fusca volkswagen 1 32 carrinho metal abre capo e portas friccao colecao 12cm",
-      "url": "https://shopee.com.br/product/1908026773/58265605630",
-      "affiliate_url": "https://s.shopee.com.br/80CnXu3GwG",
-      "category": "VIYU Brinquedos",
-      "bucket": "viyu_brinquedos",
-      "posted_ts": 1789845407,
-      "posted_at": "2026-09-19T19:16:47.267553+00:00",
-      "score": 101.42
-    },
-    {
-      "key": "mercadolivre:MLB7426392498",
-      "marketplace": "mercadolivre",
-      "id": "MLB7426392498",
-      "title": "Ulefone Note 18 Ultra 256GB 6GB RAM Celular 5G 5450mAh Câmera 50MP Preto",
-      "title_norm": "ulefone note 18 ultra 256gb 6gb ram celular 5g 5450mah camera 50mp preto",
-      "url": "https://www.mercadolivre.com.br/p/MLB77446524?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB77446524?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "category": "Informática",
-      "bucket": "celulares",
-      "posted_ts": 1789844652,
-      "posted_at": "2026-09-19T19:04:12.236524+00:00",
-      "score": 117.67
-    },
-    {
-      "key": "mercadolivre:MLB7626010124",
-      "marketplace": "mercadolivre",
-      "id": "MLB7626010124",
-      "title": "Smartphone Xiaomí Redmi 12 Preto 128/4gb + E Fone",
-      "title_norm": "smartphone xiaomi redmi 12 preto 128 4gb e fone",
-      "url": "https://www.mercadolivre.com.br/p/MLB47306212?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB47306212?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "category": "Informática",
-      "bucket": "celulares",
-      "posted_ts": 1789844582,
-      "posted_at": "2026-09-19T19:03:02.699289+00:00",
-      "score": 127.0
     }
   ],
-  "updated_at": "2026-09-28T14:20:13.697956+00:00"
+  "updated_at": "2026-09-28T15:05:06.611157+00:00"
 }

@@ -1,6 +1,51 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB6978080348",
+      "product_id": "MLB6978080348",
+      "catalog_product_id": "MLB46173110",
+      "item_id": "MLB6978080348",
+      "url": "https://www.mercadolivre.com.br/p/MLB46173110?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB46173110?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "impressora etiquetas monocromatica toledo prix it400m usb",
+      "title": "Impressora Etiquetas Monocromática Toledo Prix IT400M USB",
+      "category": "Informática",
+      "price": 1089.0,
+      "score": 86.0,
+      "posted_ts": 1790607906,
+      "posted_at": "2026-09-28T15:05:06.625518+00:00"
+    },
+    {
+      "key": "mercadolivre:MLB5201599262",
+      "product_id": "MLB5201599262",
+      "catalog_product_id": "MLB44215301",
+      "item_id": "MLB5201599262",
+      "url": "https://www.mercadolivre.com.br/p/MLB44215301?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB44215301?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "ribbon resina mastercorp 110x300 para impressora etiquetas bopp vinil",
+      "title": "Ribbon Resina Mastercorp 110x300 Para Impressora Etiquetas BOPP Vinil",
+      "category": "Informática",
+      "price": 638.4,
+      "score": 86.0,
+      "posted_ts": 1790607836,
+      "posted_at": "2026-09-28T15:03:56.512058+00:00"
+    },
+    {
+      "key": "mercadolivre:MLB3929416863",
+      "product_id": "MLB3929416863",
+      "catalog_product_id": "MLB39019401",
+      "item_id": "MLB3929416863",
+      "url": "https://www.mercadolivre.com.br/p/MLB39019401?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB39019401?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "impressora etiquetas logistica codigo de barras usb",
+      "title": "Impressora Etiquetas Logistica Código De Barras Usb",
+      "category": "Informática",
+      "price": 565.0,
+      "score": 110.48,
+      "posted_ts": 1790607772,
+      "posted_at": "2026-09-28T15:02:52.555538+00:00"
+    },
+    {
       "key": "mercadolivre:MLB4110890853",
       "product_id": "MLB4110890853",
       "catalog_product_id": "MLB51893724",
@@ -704,52 +749,7 @@
       "score": 88.0,
       "posted_ts": 1790438614,
       "posted_at": "2026-09-26T16:03:34.357468+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB7517810920",
-      "product_id": "MLB7517810920",
-      "catalog_product_id": "MLB76609780",
-      "item_id": "MLB7517810920",
-      "url": "https://www.mercadolivre.com.br/p/MLB76609780?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB76609780?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "hidratante corporal pessego",
-      "title": "Hidratante Corporal Pessego",
-      "category": "Beleza",
-      "price": 120.0,
-      "score": 63.0,
-      "posted_ts": 1790431667,
-      "posted_at": "2026-09-26T14:07:47.326840+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB4897851395",
-      "product_id": "MLB4897851395",
-      "catalog_product_id": "MLB32842039",
-      "item_id": "MLB4897851395",
-      "url": "https://www.mercadolivre.com.br/p/MLB32842039?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB32842039?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "kit 6 amaciante roupas concentrado intense comfort 500ml",
-      "title": "Kit 6 Amaciante Roupas Concentrado Intense Comfort 500ml",
-      "category": "Supermercados",
-      "price": 122.99,
-      "score": 114.0,
-      "posted_ts": 1790431599,
-      "posted_at": "2026-09-26T14:06:39.270505+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB4976025191",
-      "product_id": "MLB4976025191",
-      "catalog_product_id": "MLB67005264",
-      "item_id": "MLB4976025191",
-      "url": "https://www.mercadolivre.com.br/p/MLB67005264?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB67005264?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "2 amaciante roupas concentrado lavanda frasco comfort 1 5l",
-      "title": "2 Amaciante Roupas Concentrado Lavanda Frasco Comfort 1,5l",
-      "category": "Supermercados",
-      "price": 80.65,
-      "score": 123.67,
-      "posted_ts": 1790431531,
-      "posted_at": "2026-09-26T14:05:31.025075+00:00"
     }
   ],
-  "updated_at": "2026-09-28T14:02:34.271229+00:00"
+  "updated_at": "2026-09-28T15:05:06.625528+00:00"
 }
