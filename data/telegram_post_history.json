@@ -1,6 +1,48 @@
 {
   "posts": [
     {
+      "key": "shopee:22493725920",
+      "marketplace": "shopee",
+      "id": "22493725920",
+      "title": "SHORT CINTA MODELADOR ORIGINAL 4 Barbatanas Alta Compressão Não Enrola Empina Bumbum Plus Size",
+      "title_norm": "short cinta modelador original 4 barbatanas alta compressao nao enrola empina bumbum plus size",
+      "url": "https://shopee.com.br/product/760344136/22493725920",
+      "affiliate_url": "https://s.shopee.com.br/AUuMDJYeF1",
+      "category": "AKAPE CLOTHING",
+      "bucket": "akape_clothing",
+      "posted_ts": 1790594385,
+      "posted_at": "2026-09-28T11:19:45.937512+00:00",
+      "score": 88.43
+    },
+    {
+      "key": "shopee:18997669654",
+      "marketplace": "shopee",
+      "id": "18997669654",
+      "title": "Conjunto na Alfaiataria Calça  Pantalona + Colete Social Escritório Plus SIze",
+      "title_norm": "conjunto na alfaiataria calca pantalona colete social escritorio plus size",
+      "url": "https://shopee.com.br/product/1239041434/18997669654",
+      "affiliate_url": "https://s.shopee.com.br/5AsprVxHal",
+      "category": "Elizye Delicato",
+      "bucket": "elizye_delicato",
+      "posted_ts": 1790594318,
+      "posted_at": "2026-09-28T11:18:38.576218+00:00",
+      "score": 101.1
+    },
+    {
+      "key": "shopee:58204813363",
+      "marketplace": "shopee",
+      "id": "58204813363",
+      "title": "Vestido longo casual basico feminino ribana canelada manga muscle moda gringa preto marrom plus size",
+      "title_norm": "vestido longo casual basico feminino ribana canelada manga muscle moda gringa preto marrom plus size",
+      "url": "https://shopee.com.br/product/1252857157/58204813363",
+      "affiliate_url": "https://s.shopee.com.br/5AsprW65AB",
+      "category": "Visionaria Closet",
+      "bucket": "moda_feminina",
+      "posted_ts": 1790594251,
+      "posted_at": "2026-09-28T11:17:31.021681+00:00",
+      "score": 106.1
+    },
+    {
       "key": "shopee:19399337322",
       "marketplace": "shopee",
       "id": "19399337322",
@@ -13957,49 +13999,7 @@
       "posted_ts": 1789834803,
       "posted_at": "2026-09-19T16:20:03.315709+00:00",
       "score": 103.26
-    },
-    {
-      "key": "shopee:18299260537",
-      "marketplace": "shopee",
-      "id": "18299260537",
-      "title": "Escova Rotativa Elétrica Secador de cabelo Professinal 2 em 1  110v e 220v",
-      "title_norm": "escova rotativa eletrica secador de cabelo professinal 2 em 1 110v e 220v",
-      "url": "https://shopee.com.br/product/372103398/18299260537",
-      "affiliate_url": "https://s.shopee.com.br/3LQxmxePnA",
-      "category": "ADS-store",
-      "bucket": "beleza",
-      "posted_ts": 1789834739,
-      "posted_at": "2026-09-19T16:18:59.230064+00:00",
-      "score": 129.65
-    },
-    {
-      "key": "shopee:20997924613",
-      "marketplace": "shopee",
-      "id": "20997924613",
-      "title": "Escova Secadora 3 em 1 Profissional",
-      "title_norm": "escova secadora 3 em 1 profissional",
-      "url": "https://shopee.com.br/product/1372149000/20997924613",
-      "affiliate_url": "https://s.shopee.com.br/6q0pxOVQDC",
-      "category": "OLIVIA.OFICIAIS",
-      "bucket": "beleza",
-      "posted_ts": 1789834671,
-      "posted_at": "2026-09-19T16:17:51.013147+00:00",
-      "score": 131.85
-    },
-    {
-      "key": "shopee:22099483975",
-      "marketplace": "shopee",
-      "id": "22099483975",
-      "title": "Kit 2 Body Splash Feminino Perfumado Encanto Lily + Florata Rose Presente Cheiroso Longa Duração",
-      "title_norm": "kit 2 body splash feminino perfumado encanto lily florata rose presente cheiroso longa duracao",
-      "url": "https://shopee.com.br/product/1289607950/22099483975",
-      "affiliate_url": "https://s.shopee.com.br/3g3mrAD7ID",
-      "category": "AH.BOUTIQUE",
-      "bucket": "pet",
-      "posted_ts": 1789834606,
-      "posted_at": "2026-09-19T16:16:46.852350+00:00",
-      "score": 150.05
     }
   ],
-  "updated_at": "2026-09-28T10:21:24.319578+00:00"
+  "updated_at": "2026-09-28T11:19:45.937537+00:00"
 }
