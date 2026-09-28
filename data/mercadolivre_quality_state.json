@@ -1,6 +1,51 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB5331790354",
+      "product_id": "MLB5331790354",
+      "catalog_product_id": "MLB45458466",
+      "item_id": "MLB5331790354",
+      "url": "https://www.mercadolivre.com.br/p/MLB45458466?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB45458466?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "air fryer br house fritadeira eletrica air fryer air fryer family preto",
+      "title": "Air fryer Br House Fritadeira ELETRICA AIR FRYER Air Fryer Family preto",
+      "category": "Casa e Cozinha",
+      "price": 279.9,
+      "score": 113.0,
+      "posted_ts": 1790561119,
+      "posted_at": "2026-09-28T02:05:19.180075+00:00"
+    },
+    {
+      "key": "mercadolivre:MLB5286746537",
+      "product_id": "MLB5286746537",
+      "catalog_product_id": "MLB39315109",
+      "item_id": "MLB5286746537",
+      "url": "https://www.mercadolivre.com.br/p/MLB39315109?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB39315109?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "rack para sala de estar rack para tv c prateleira flex cor preto",
+      "title": "Rack Para Sala De Estar Rack Para Tv C/ Prateleira Flex Cor Preto",
+      "category": "Casa e Cozinha",
+      "price": 336.87,
+      "score": 133.0,
+      "posted_ts": 1790561055,
+      "posted_at": "2026-09-28T02:04:15.218285+00:00"
+    },
+    {
+      "key": "mercadolivre:MLB6738465128",
+      "product_id": "MLB6738465128",
+      "catalog_product_id": "MLB59413555",
+      "item_id": "MLB6738465128",
+      "url": "https://www.mercadolivre.com.br/p/MLB59413555?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB59413555?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "cadeira massagem escritorio cadeira escritorio presidente cor ambar",
+      "title": "Cadeira Massagem Escritorio Cadeira Escritorio Presidente Cor Âmbar",
+      "category": "Casa e Cozinha",
+      "price": 743.0,
+      "score": 179.1,
+      "posted_ts": 1790560985,
+      "posted_at": "2026-09-28T02:03:05.207900+00:00"
+    },
+    {
       "key": "mercadolivre:MLB7059191208",
       "product_id": "MLB7059191208",
       "catalog_product_id": "MLB38422370",
@@ -556,5 +601,5 @@
       "posted_at": "2026-09-26T05:02:40.960313+00:00"
     }
   ],
-  "updated_at": "2026-09-28T01:08:17.676940+00:00"
+  "updated_at": "2026-09-28T02:05:19.180089+00:00"
 }
