@@ -1,6 +1,36 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB4654205549",
+      "product_id": "MLB4654205549",
+      "catalog_product_id": "MLB47353377",
+      "item_id": "MLB4654205549",
+      "url": "https://www.mercadolivre.com.br/p/MLB47353377?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB47353377?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "roteador wifi ac 1200 2 flex",
+      "title": "Roteador Wifi Ac 1200 2 Flex",
+      "category": "Informática",
+      "price": 173.46,
+      "score": 99.76,
+      "posted_ts": 1790582681,
+      "posted_at": "2026-09-28T08:04:41.325956+00:00"
+    },
+    {
+      "key": "mercadolivre:MLB6459080170",
+      "product_id": "MLB6459080170",
+      "catalog_product_id": "MLB24522367",
+      "item_id": "MLB6459080170",
+      "url": "https://www.mercadolivre.com.br/p/MLB24522367?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB24522367?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "ssd nvme asgard an4 1tb gen4",
+      "title": "SSD Nvme Asgard AN4 1tb Gen4",
+      "category": "Informática",
+      "price": 1000.0,
+      "score": 111.0,
+      "posted_ts": 1790582613,
+      "posted_at": "2026-09-28T08:03:33.544505+00:00"
+    },
+    {
       "key": "mercadolivre:MLB7158074090",
       "product_id": "MLB7158074090",
       "catalog_product_id": "MLB38338044",
@@ -629,37 +659,7 @@
       "score": 206.9,
       "posted_ts": 1790413372,
       "posted_at": "2026-09-26T09:02:52.934911+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB7650020050",
-      "product_id": "MLB7650020050",
-      "catalog_product_id": "MLB47306242",
-      "item_id": "MLB7650020050",
-      "url": "https://www.mercadolivre.com.br/p/MLB47306242?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB47306242?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "motorola smartphone motorola razr 50 ultra 5g cor pink",
-      "title": "Motorola Smartphone Motorola Razr 50 Ultra 5g Cor Pink",
-      "category": "Informática",
-      "price": 4199.0,
-      "score": 124.0,
-      "posted_ts": 1790406237,
-      "posted_at": "2026-09-26T07:03:57.387158+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB5292565611",
-      "product_id": "MLB5292565611",
-      "catalog_product_id": "MLB43264591",
-      "item_id": "MLB5292565611",
-      "url": "https://www.mercadolivre.com.br/p/MLB43264591?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB43264591?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "smartphone xiaomi redmi 14c preto 128gb 4gb ram",
-      "title": "Smartphone Xiaomi Redmi 14C Preto 128GB 4GB RAM",
-      "category": "Informática",
-      "price": 859.08,
-      "score": 127.0,
-      "posted_ts": 1790406167,
-      "posted_at": "2026-09-26T07:02:47.444705+00:00"
     }
   ],
-  "updated_at": "2026-09-28T06:03:00.597802+00:00"
+  "updated_at": "2026-09-28T08:04:41.325973+00:00"
 }
