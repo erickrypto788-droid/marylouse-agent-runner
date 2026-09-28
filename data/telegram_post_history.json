@@ -1,6 +1,34 @@
 {
   "posts": [
     {
+      "key": "shopee:20597347457",
+      "marketplace": "shopee",
+      "id": "20597347457",
+      "title": "Kit 2 Tênis Masculino Polo Fran Sapatênis Básico Casual Com Carteira Cinto e Relógio London",
+      "title_norm": "kit 2 tenis masculino polo fran sapatenis basico casual com carteira cinto e relogio london",
+      "url": "https://shopee.com.br/product/324642050/20597347457",
+      "affiliate_url": "https://s.shopee.com.br/LnZm1qDkl",
+      "category": " MISTERBOOT",
+      "bucket": "calcados",
+      "posted_ts": 1790569083,
+      "posted_at": "2026-09-28T04:18:03.954619+00:00",
+      "score": 93.36
+    },
+    {
+      "key": "shopee:23594304295",
+      "marketplace": "shopee",
+      "id": "23594304295",
+      "title": "Mochila CHL Bolsa Reforçada Notebook Impermeavel Material Premium Colorido Excecultivo 888",
+      "title_norm": "mochila chl bolsa reforcada notebook impermeavel material premium colorido excecultivo 888",
+      "url": "https://shopee.com.br/product/960960972/23594304295",
+      "affiliate_url": "https://s.shopee.com.br/AKavgP5UPT",
+      "category": "Global Mochilas CHL",
+      "bucket": "informatica",
+      "posted_ts": 1790569015,
+      "posted_at": "2026-09-28T04:16:55.418525+00:00",
+      "score": 133.48
+    },
+    {
       "key": "mercadolivre:MLB4677897405",
       "marketplace": "mercadolivre",
       "id": "MLB4677897405",
@@ -13971,35 +13999,7 @@
       "posted_ts": 1789802347,
       "posted_at": "2026-09-19T07:19:07.547109+00:00",
       "score": 93.67
-    },
-    {
-      "key": "shopee:58216282576",
-      "marketplace": "shopee",
-      "id": "58216282576",
-      "title": "Chocolate Ao Leite Gold 1,01kg Sicao Nobre Barry Callebaut Barra",
-      "title_norm": "chocolate ao leite gold 1 01kg sicao nobre barry callebaut barra",
-      "url": "https://shopee.com.br/product/1867089170/58216282576",
-      "affiliate_url": "https://s.shopee.com.br/9fL0jW3Inc",
-      "category": "DOCE_CLICK",
-      "bucket": "doce_click",
-      "posted_ts": 1789802279,
-      "posted_at": "2026-09-19T07:17:59.634728+00:00",
-      "score": 96.33
-    },
-    {
-      "key": "shopee:20299558422",
-      "marketplace": "shopee",
-      "id": "20299558422",
-      "title": "Creatina Ultra Pote 300g - FTW",
-      "title_norm": "creatina ultra pote 300g ftw",
-      "url": "https://shopee.com.br/product/1397772996/20299558422",
-      "affiliate_url": "https://s.shopee.com.br/3g3naUZ54a",
-      "category": "Loja Oficial FTW",
-      "bucket": "loja_oficial_ftw",
-      "posted_ts": 1789802208,
-      "posted_at": "2026-09-19T07:16:48.912617+00:00",
-      "score": 127.59
     }
   ],
-  "updated_at": "2026-09-28T04:04:53.769855+00:00"
+  "updated_at": "2026-09-28T04:18:03.954638+00:00"
 }
