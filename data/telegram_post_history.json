@@ -1,6 +1,48 @@
 {
   "posts": [
     {
+      "key": "shopee:23697991877",
+      "marketplace": "shopee",
+      "id": "23697991877",
+      "title": "Sapatenis Casual Masculino Sola Escura Sapato esportivo tênis confortável para trabalho festas",
+      "title_norm": "sapatenis casual masculino sola escura sapato esportivo tenis confortavel para trabalho festas",
+      "url": "https://shopee.com.br/product/564429563/23697991877",
+      "affiliate_url": "https://s.shopee.com.br/9V1qU7gr5U",
+      "category": "By Jack",
+      "bucket": "calcados",
+      "posted_ts": 1790666349,
+      "posted_at": "2026-09-29T07:19:09.965566+00:00",
+      "score": 87.09
+    },
+    {
+      "key": "shopee:20198028410",
+      "marketplace": "shopee",
+      "id": "20198028410",
+      "title": "Bota CAT Coturno Preto Palmilha Gel Ortopédica Couro Masculino Promoção Envio Rápido",
+      "title_norm": "bota cat coturno preto palmilha gel ortopedica couro masculino promocao envio rapido",
+      "url": "https://shopee.com.br/product/391757444/20198028410",
+      "affiliate_url": "https://s.shopee.com.br/7VGm6RsjPf",
+      "category": "ELITE SHOES ",
+      "bucket": "calcados",
+      "posted_ts": 1790666281,
+      "posted_at": "2026-09-29T07:18:01.218049+00:00",
+      "score": 100.05
+    },
+    {
+      "key": "shopee:22013474107",
+      "marketplace": "shopee",
+      "id": "22013474107",
+      "title": "Botina Botinha Caterpillar Masculina De Couro Impermeável Antiderrapante Reforçado Promoção Barato",
+      "title_norm": "botina botinha caterpillar masculina de couro impermeavel antiderrapante reforcado promocao barato",
+      "url": "https://shopee.com.br/product/258776766/22013474107",
+      "affiliate_url": "https://s.shopee.com.br/6q15JDvGlb",
+      "category": "THORO SHOES",
+      "bucket": "thoro_shoes",
+      "posted_ts": 1790666213,
+      "posted_at": "2026-09-29T07:16:53.569556+00:00",
+      "score": 102.47
+    },
+    {
       "key": "mercadolivre:MLB5468706054",
       "marketplace": "mercadolivre",
       "id": "MLB5468706054",
@@ -13957,49 +13999,7 @@
       "posted_ts": 1789917611,
       "posted_at": "2026-09-20T15:20:11.186037+00:00",
       "score": 108.19
-    },
-    {
-      "key": "shopee:22998920151",
-      "marketplace": "shopee",
-      "id": "22998920151",
-      "title": "Copo com Canudo Hot Wheels - Aventura Sobre Rodas! 1200ml Em Policarbonato + Brinde",
-      "title_norm": "copo com canudo hot wheels aventura sobre rodas 1200ml em policarbonato brinde",
-      "url": "https://shopee.com.br/product/1625539033/22998920151",
-      "affiliate_url": "https://s.shopee.com.br/AAHJSICBXi",
-      "category": "MAX STORE VARIEDADES LTDA",
-      "bucket": "max_store_variedades_ltda",
-      "posted_ts": 1789917547,
-      "posted_at": "2026-09-20T15:19:07.107314+00:00",
-      "score": 117.11
-    },
-    {
-      "key": "shopee:23398908978",
-      "marketplace": "shopee",
-      "id": "23398908978",
-      "title": "Brinquedo Caminhão Dinossauro Engolidor 2026 Porta-Carrinhos com 4 Carrinhos de Metal – Kit Infantil🦖🚚",
-      "title_norm": "brinquedo caminhao dinossauro engolidor 2026 porta carrinhos com 4 carrinhos de metal kit infantil",
-      "url": "https://shopee.com.br/product/1634545368/23398908978",
-      "affiliate_url": "https://s.shopee.com.br/9zxrvZvesi",
-      "category": "CANDYSTAR",
-      "bucket": "candystar",
-      "posted_ts": 1789917483,
-      "posted_at": "2026-09-20T15:18:03.055125+00:00",
-      "score": 119.22
-    },
-    {
-      "key": "shopee:56556653787",
-      "marketplace": "shopee",
-      "id": "56556653787",
-      "title": "Boneca Bebê Reborn Unicórnio Menina Original Realista de Silicone Pode Dar Banho Com Bolsa Maternidade",
-      "title_norm": "boneca bebe reborn unicornio menina original realista de silicone pode dar banho com bolsa maternidade",
-      "url": "https://shopee.com.br/product/976415369/56556653787",
-      "affiliate_url": "https://s.shopee.com.br/70KF1eca45",
-      "category": "Gaby Reborn",
-      "bucket": "bolsas",
-      "posted_ts": 1789917414,
-      "posted_at": "2026-09-20T15:16:54.910474+00:00",
-      "score": 125.82
     }
   ],
-  "updated_at": "2026-09-29T07:03:35.916936+00:00"
+  "updated_at": "2026-09-29T07:19:09.965577+00:00"
 }
