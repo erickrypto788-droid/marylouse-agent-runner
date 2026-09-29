@@ -1,6 +1,36 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB5653921846",
+      "product_id": "MLB5653921846",
+      "catalog_product_id": "MLB45798788",
+      "item_id": "MLB5653921846",
+      "url": "https://www.mercadolivre.com.br/p/MLB45798788?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB45798788?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "monitor 24 polegadas 1920x1200px vga hdmi 5ms rapido",
+      "title": "Monitor 24 Polegadas 1920x1200px Vga Hdmi 5ms Rápido",
+      "category": "Informática",
+      "price": 565.0,
+      "score": 86.0,
+      "posted_ts": 1790643828,
+      "posted_at": "2026-09-29T01:03:48.315054+00:00"
+    },
+    {
+      "key": "mercadolivre:MLB7634976292",
+      "product_id": "MLB7634976292",
+      "catalog_product_id": "MLB78811728",
+      "item_id": "MLB7634976292",
+      "url": "https://www.mercadolivre.com.br/p/MLB78811728?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB78811728?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "impressora monocromatica impressora termica portatil etiquetadora bluetooth impressora etiqueta termica mini impressora de etiquetas impressora bluetooth para etiquetas e codigos de barras conexao",
+      "title": "Impressora Monocromática Impressora Térmica Portátil Etiquetadora Bluetooth Impressora Etiqueta Térmica Mini Impressora De Etiquetas Impressora Bluetooth Para Etiquetas E Códigos De Barras Conexão",
+      "category": "Informática",
+      "price": 78.86,
+      "score": 150.5,
+      "posted_ts": 1790643755,
+      "posted_at": "2026-09-29T01:02:35.537895+00:00"
+    },
+    {
       "key": "mercadolivre:MLB5297261932",
       "product_id": "MLB5297261932",
       "catalog_product_id": "MLB45785598",
@@ -901,5 +931,5 @@
       "posted_at": "2026-09-27T02:02:30.505524+00:00"
     }
   ],
-  "updated_at": "2026-09-29T00:06:47.061608+00:00"
+  "updated_at": "2026-09-29T01:03:48.315073+00:00"
 }

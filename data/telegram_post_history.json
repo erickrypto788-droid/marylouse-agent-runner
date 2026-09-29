@@ -1,6 +1,34 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB5653921846",
+      "marketplace": "mercadolivre",
+      "id": "MLB5653921846",
+      "title": "Monitor 24 Polegadas 1920x1200px Vga Hdmi 5ms Rápido",
+      "title_norm": "monitor 24 polegadas 1920x1200px vga hdmi 5ms rapido",
+      "url": "https://www.mercadolivre.com.br/p/MLB45798788?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB45798788?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Informática",
+      "bucket": "informatica",
+      "posted_ts": 1790643828,
+      "posted_at": "2026-09-29T01:03:48.300369+00:00",
+      "score": 86.0
+    },
+    {
+      "key": "mercadolivre:MLB7634976292",
+      "marketplace": "mercadolivre",
+      "id": "MLB7634976292",
+      "title": "Impressora Monocromática Impressora Térmica Portátil Etiquetadora Bluetooth Impressora Etiqueta Térmica Mini Impressora De Etiquetas Impressora Bluetooth Para Etiquetas E Códigos De Barras Conexão",
+      "title_norm": "impressora monocromatica impressora termica portatil etiquetadora bluetooth impressora etiqueta termica mini impressora de etiquetas impressora bluetooth para etiquetas e codigos de barras conexao",
+      "url": "https://www.mercadolivre.com.br/p/MLB78811728?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB78811728?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Informática",
+      "bucket": "informatica",
+      "posted_ts": 1790643755,
+      "posted_at": "2026-09-29T01:02:35.522519+00:00",
+      "score": 150.5
+    },
+    {
       "key": "shopee:22394647600",
       "marketplace": "shopee",
       "id": "22394647600",
@@ -13971,35 +13999,7 @@
       "posted_ts": 1789895016,
       "posted_at": "2026-09-20T09:03:36.599862+00:00",
       "score": 88.0
-    },
-    {
-      "key": "shopee:23599241533",
-      "marketplace": "shopee",
-      "id": "23599241533",
-      "title": "Tênis Masculino Running Academia Esportivo Corrida Caminhada Anti Impacto Respirável Macio Ultra Leve",
-      "title_norm": "tenis masculino running academia esportivo corrida caminhada anti impacto respiravel macio ultra leve",
-      "url": "https://shopee.com.br/product/1638165366/23599241533",
-      "affiliate_url": "https://s.shopee.com.br/40geJhWo8i",
-      "category": "Evox Calçados e Acessórios LTDA",
-      "bucket": "calcados",
-      "posted_ts": 1789892278,
-      "posted_at": "2026-09-20T08:17:58.050465+00:00",
-      "score": 113.37
-    },
-    {
-      "key": "shopee:22494665073",
-      "marketplace": "shopee",
-      "id": "22494665073",
-      "title": "Botina Bota Segurança Couro Legitimo Com Biqueira Elastico Com CA",
-      "title_norm": "botina bota seguranca couro legitimo com biqueira elastico com ca",
-      "url": "https://shopee.com.br/product/1406953915/22494665073",
-      "affiliate_url": "https://s.shopee.com.br/4LJW2j4MoL",
-      "category": "VELLUDINE",
-      "bucket": "calcados",
-      "posted_ts": 1789892206,
-      "posted_at": "2026-09-20T08:16:46.763817+00:00",
-      "score": 114.27
     }
   ],
-  "updated_at": "2026-09-29T00:21:05.753650+00:00"
+  "updated_at": "2026-09-29T01:03:48.300390+00:00"
 }
