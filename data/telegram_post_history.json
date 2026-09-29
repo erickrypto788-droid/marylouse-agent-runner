@@ -1,6 +1,34 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB5297261932",
+      "marketplace": "mercadolivre",
+      "id": "MLB5297261932",
+      "title": "Brinquedo Lider Kit Ferramentas - 2381",
+      "title_norm": "brinquedo lider kit ferramentas 2381",
+      "url": "https://www.mercadolivre.com.br/p/MLB45785598?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB45785598?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Ferramentas",
+      "bucket": "ferramentas",
+      "posted_ts": 1790640407,
+      "posted_at": "2026-09-29T00:06:47.049561+00:00",
+      "score": 88.0
+    },
+    {
+      "key": "mercadolivre:MLB5283535127",
+      "marketplace": "mercadolivre",
+      "id": "MLB5283535127",
+      "title": "Combo Parafusadeira Furadeira de Impacto 13mm + Parafusadeira de Impacto 6,3mm DEWALT DCK276D2",
+      "title_norm": "combo parafusadeira furadeira de impacto 13mm parafusadeira de impacto 6 3mm dewalt dck276d2",
+      "url": "https://www.mercadolivre.com.br/p/MLB21865416?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB21865416?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Ferramentas",
+      "bucket": "ferramentas",
+      "posted_ts": 1790640280,
+      "posted_at": "2026-09-29T00:04:40.797911+00:00",
+      "score": 160.67
+    },
+    {
       "key": "shopee:10908191710",
       "marketplace": "shopee",
       "id": "10908191710",
@@ -13971,35 +13999,7 @@
       "posted_ts": 1789885263,
       "posted_at": "2026-09-20T06:21:03.342520+00:00",
       "score": 75.62
-    },
-    {
-      "key": "shopee:20499072504",
-      "marketplace": "shopee",
-      "id": "20499072504",
-      "title": "Bermuda Moletom Masculina Academia Short Esporte Fitness Casual",
-      "title_norm": "bermuda moletom masculina academia short esporte fitness casual",
-      "url": "https://shopee.com.br/product/356114339/20499072504",
-      "affiliate_url": "https://s.shopee.com.br/8AWETX2bRI",
-      "category": "Guwon Oficial ",
-      "bucket": "guwon_oficial",
-      "posted_ts": 1789885199,
-      "posted_at": "2026-09-20T06:19:59.232462+00:00",
-      "score": 82.28
-    },
-    {
-      "key": "shopee:19274006007",
-      "marketplace": "shopee",
-      "id": "19274006007",
-      "title": "Kit 5 Cuecas Box Microfibra Lisa Sem Costura Polo Wear",
-      "title_norm": "kit 5 cuecas box microfibra lisa sem costura polo wear",
-      "url": "https://shopee.com.br/product/328687466/19274006007",
-      "affiliate_url": "https://s.shopee.com.br/7ptO4v88NO",
-      "category": "UP UNDERWEAR",
-      "bucket": "up_underwear",
-      "posted_ts": 1789885135,
-      "posted_at": "2026-09-20T06:18:55.163968+00:00",
-      "score": 105.27
     }
   ],
-  "updated_at": "2026-09-28T23:21:16.362949+00:00"
+  "updated_at": "2026-09-29T00:06:47.049577+00:00"
 }

@@ -1,6 +1,36 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB5297261932",
+      "product_id": "MLB5297261932",
+      "catalog_product_id": "MLB45785598",
+      "item_id": "MLB5297261932",
+      "url": "https://www.mercadolivre.com.br/p/MLB45785598?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB45785598?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "brinquedo lider kit ferramentas 2381",
+      "title": "Brinquedo Lider Kit Ferramentas - 2381",
+      "category": "Ferramentas",
+      "price": 119.0,
+      "score": 88.0,
+      "posted_ts": 1790640407,
+      "posted_at": "2026-09-29T00:06:47.061596+00:00"
+    },
+    {
+      "key": "mercadolivre:MLB5283535127",
+      "product_id": "MLB5283535127",
+      "catalog_product_id": "MLB21865416",
+      "item_id": "MLB5283535127",
+      "url": "https://www.mercadolivre.com.br/p/MLB21865416?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB21865416?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "combo parafusadeira furadeira de impacto 13mm parafusadeira de impacto 6 3mm dewalt dck276d2",
+      "title": "Combo Parafusadeira Furadeira de Impacto 13mm + Parafusadeira de Impacto 6,3mm DEWALT DCK276D2",
+      "category": "Ferramentas",
+      "price": 1599.0,
+      "score": 160.67,
+      "posted_ts": 1790640280,
+      "posted_at": "2026-09-29T00:04:40.808763+00:00"
+    },
+    {
       "key": "mercadolivre:MLB3474477475",
       "product_id": "MLB3474477475",
       "catalog_product_id": "MLB24908965",
@@ -869,37 +899,7 @@
       "score": 88.0,
       "posted_ts": 1790474550,
       "posted_at": "2026-09-27T02:02:30.505524+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB7426398952",
-      "product_id": "MLB7426398952",
-      "catalog_product_id": "MLB77446522",
-      "item_id": "MLB7426398952",
-      "url": "https://www.mercadolivre.com.br/p/MLB77446522?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB77446522?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "ulefone note 18 ultra 256gb 6gb ram celular 5g 5450mah camera 50mp branco",
-      "title": "Ulefone Note 18 Ultra 256GB 6GB RAM Celular 5G 5450mAh Câmera 50MP Branco",
-      "category": "Informática",
-      "price": 1867.15,
-      "score": 117.67,
-      "posted_ts": 1790467448,
-      "posted_at": "2026-09-27T00:04:08.720206+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB7626010124",
-      "product_id": "MLB7626010124",
-      "catalog_product_id": "MLB47306212",
-      "item_id": "MLB7626010124",
-      "url": "https://www.mercadolivre.com.br/p/MLB47306212?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB47306212?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "smartphone xiaomi redmi 12 preto 128 4gb e fone",
-      "title": "Smartphone Xiaomí Redmi 12 Preto 128/4gb + E Fone",
-      "category": "Informática",
-      "price": 1399.0,
-      "score": 127.0,
-      "posted_ts": 1790467384,
-      "posted_at": "2026-09-27T00:03:04.604537+00:00"
     }
   ],
-  "updated_at": "2026-09-28T22:02:57.712537+00:00"
+  "updated_at": "2026-09-29T00:06:47.061608+00:00"
 }
