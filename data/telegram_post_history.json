@@ -1,6 +1,34 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB4139317597",
+      "marketplace": "mercadolivre",
+      "id": "MLB4139317597",
+      "title": "Furadeira Parafusadeira Imp C/ Parafusadeira Imp Dlx2336syx",
+      "title_norm": "furadeira parafusadeira imp c parafusadeira imp dlx2336syx",
+      "url": "https://www.mercadolivre.com.br/p/MLB23649057?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB23649057?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Ferramentas",
+      "bucket": "ferramentas",
+      "posted_ts": 1790705021,
+      "posted_at": "2026-09-29T18:03:41.182048+00:00",
+      "score": 108.0
+    },
+    {
+      "key": "mercadolivre:MLB3583861201",
+      "marketplace": "mercadolivre",
+      "id": "MLB3583861201",
+      "title": "Combo Furadeira Parafusadeira DF333D + Parafusadeira de Impacto TD110D 12V - CLX224SAX",
+      "title_norm": "combo furadeira parafusadeira df333d parafusadeira de impacto td110d 12v clx224sax",
+      "url": "https://www.mercadolivre.com.br/p/MLB19765397?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB19765397?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Ferramentas",
+      "bucket": "ferramentas",
+      "posted_ts": 1790704957,
+      "posted_at": "2026-09-29T18:02:37.039134+00:00",
+      "score": 133.63
+    },
+    {
       "key": "shopee:19198016301",
       "marketplace": "shopee",
       "id": "19198016301",
@@ -13971,35 +13999,7 @@
       "posted_ts": 1789957011,
       "posted_at": "2026-09-21T02:16:51.678477+00:00",
       "score": 106.1
-    },
-    {
-      "key": "shopee:19099500190",
-      "marketplace": "shopee",
-      "id": "19099500190",
-      "title": "KIT 3  Bermudas Dry Fit de Alto Padrão Premium Casual Academia e Treinamento Externos e Internos",
-      "title_norm": "kit 3 bermudas dry fit de alto padrao premium casual academia e treinamento externos e internos",
-      "url": "https://shopee.com.br/product/413762733/19099500190",
-      "affiliate_url": "https://s.shopee.com.br/2BF2an4p0X",
-      "category": "ALAN.FONTE.888",
-      "bucket": "alan_fonte_888",
-      "posted_ts": 1789953676,
-      "posted_at": "2026-09-21T01:21:16.200939+00:00",
-      "score": 82.83
-    },
-    {
-      "key": "shopee:58215900429",
-      "marketplace": "shopee",
-      "id": "58215900429",
-      "title": "Conjunto Masculino Jaqueta Calça Jogger Esportivo Academia Treino Fitness Inverno Frio Casual Confortável",
-      "title_norm": "conjunto masculino jaqueta calca jogger esportivo academia treino fitness inverno frio casual confortavel",
-      "url": "https://shopee.com.br/product/1169146045/58215900429",
-      "affiliate_url": "https://s.shopee.com.br/9fL2GI1MR9",
-      "category": "VIP ATACADOS LTDA",
-      "bucket": "vip_atacados_ltda",
-      "posted_ts": 1789953612,
-      "posted_at": "2026-09-21T01:20:12.270332+00:00",
-      "score": 101.2
     }
   ],
-  "updated_at": "2026-09-29T17:19:12.585136+00:00"
+  "updated_at": "2026-09-29T18:03:41.182062+00:00"
 }
