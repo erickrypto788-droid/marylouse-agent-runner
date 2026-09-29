@@ -1,6 +1,62 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB5669950086",
+      "marketplace": "mercadolivre",
+      "id": "MLB5669950086",
+      "title": "Shampoo Infantil 250ml Buba Care",
+      "title_norm": "shampoo infantil 250ml buba care",
+      "url": "https://www.mercadolivre.com.br/p/MLB29412135?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB29412135?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Beleza",
+      "bucket": "beleza",
+      "posted_ts": 1790676519,
+      "posted_at": "2026-09-29T10:08:39.404169+00:00",
+      "score": 88.0
+    },
+    {
+      "key": "mercadolivre:MLB6302363224",
+      "marketplace": "mercadolivre",
+      "id": "MLB6302363224",
+      "title": "35 Escova Dental + 35 Porta Escova Dental + 35 Creme Dental Sortidas",
+      "title_norm": "35 escova dental 35 porta escova dental 35 creme dental sortidas",
+      "url": "https://www.mercadolivre.com.br/p/MLB65932271?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB65932271?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Supermercados",
+      "bucket": "supermercados",
+      "posted_ts": 1790676451,
+      "posted_at": "2026-09-29T10:07:31.816826+00:00",
+      "score": 89.0
+    },
+    {
+      "key": "mercadolivre:MLB5709004240",
+      "marketplace": "mercadolivre",
+      "id": "MLB5709004240",
+      "title": "Detergente Sabão Lava Louça Pastilha + Lava Máquina Unik",
+      "title_norm": "detergente sabao lava louca pastilha lava maquina unik",
+      "url": "https://www.mercadolivre.com.br/p/MLB56414429?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB56414429?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Supermercados",
+      "bucket": "supermercado",
+      "posted_ts": 1790676383,
+      "posted_at": "2026-09-29T10:06:23.719139+00:00",
+      "score": 118.39
+    },
+    {
+      "key": "mercadolivre:MLB6428938830",
+      "marketplace": "mercadolivre",
+      "id": "MLB6428938830",
+      "title": "Fralda Pampers Supersec M 30 Unidades",
+      "title_norm": "fralda pampers supersec m 30 unidades",
+      "url": "https://www.mercadolivre.com.br/p/MLB36175310?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB36175310?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Mãe e Bebê",
+      "bucket": "fraldas",
+      "posted_ts": 1790676310,
+      "posted_at": "2026-09-29T10:05:10.984336+00:00",
+      "score": 130.0
+    },
+    {
       "key": "shopee:22494456015",
       "marketplace": "shopee",
       "id": "22494456015",
@@ -13943,63 +13999,7 @@
       "posted_ts": 1789928202,
       "posted_at": "2026-09-20T18:16:42.912166+00:00",
       "score": 146.0
-    },
-    {
-      "key": "shopee:19098318298",
-      "marketplace": "shopee",
-      "id": "19098318298",
-      "title": "Berço Co-Bed Balanço Portátil Moises Mosqueteiro Infantil Trava de Segurança Regulável",
-      "title_norm": "berco co bed balanco portatil moises mosqueteiro infantil trava de seguranca regulavel",
-      "url": "https://shopee.com.br/product/461736131/19098318298",
-      "affiliate_url": "https://s.shopee.com.br/30o93MvMoO",
-      "category": "Versátil Varejo",
-      "bucket": "versatil_varejo",
-      "posted_ts": 1789924879,
-      "posted_at": "2026-09-20T17:21:19.660573+00:00",
-      "score": 49.41
-    },
-    {
-      "key": "shopee:21820451014",
-      "marketplace": "shopee",
-      "id": "21820451014",
-      "title": "Kit 2 Baldes Lenços Umedecidos Fiesta + Refil (1200 Toalhas)",
-      "title_norm": "kit 2 baldes lencos umedecidos fiesta refil 1200 toalhas",
-      "url": "https://shopee.com.br/product/541585641/21820451014",
-      "affiliate_url": "https://s.shopee.com.br/9peTBvDtPa",
-      "category": "Maxi Confort",
-      "bucket": "maxi_confort",
-      "posted_ts": 1789924815,
-      "posted_at": "2026-09-20T17:20:15.448064+00:00",
-      "score": 50.37
-    },
-    {
-      "key": "shopee:22694017124",
-      "marketplace": "shopee",
-      "id": "22694017124",
-      "title": "Caixa Lenços/Toalhas Umedecidas Baby Free Plus c/ 120 Unidades Cada – Sem Tampa FlipTop",
-      "title_norm": "caixa lencos toalhas umedecidas baby free plus c 120 unidades cada sem tampa fliptop",
-      "url": "https://shopee.com.br/product/287778538/22694017124",
-      "affiliate_url": "https://s.shopee.com.br/5LC3peV1XZ",
-      "category": "PLUMA_BABy",
-      "bucket": "pluma_baby",
-      "posted_ts": 1789924751,
-      "posted_at": "2026-09-20T17:19:11.213089+00:00",
-      "score": 51.76
-    },
-    {
-      "key": "shopee:26184218965",
-      "marketplace": "shopee",
-      "id": "26184218965",
-      "title": "SUMIKKO 50 e 100 unidades Infantil Calça Fraldas Ajustável total max Baby P/M/G/XG/XXG/XXXG",
-      "title_norm": "sumikko 50 e 100 unidades infantil calca fraldas ajustavel total max baby p m g xg xxg xxxg",
-      "url": "https://shopee.com.br/product/1509457194/26184218965",
-      "affiliate_url": "https://s.shopee.com.br/5q8KQZOmwE",
-      "category": "BE_LOVE.br",
-      "bucket": "fraldas",
-      "posted_ts": 1789924686,
-      "posted_at": "2026-09-20T17:18:06.796059+00:00",
-      "score": 79.51
     }
   ],
-  "updated_at": "2026-09-29T09:20:14.170470+00:00"
+  "updated_at": "2026-09-29T10:08:39.404183+00:00"
 }
