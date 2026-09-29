@@ -1,6 +1,62 @@
 {
   "posts": [
     {
+      "key": "shopee:23898526571",
+      "marketplace": "shopee",
+      "id": "23898526571",
+      "title": "Protetor Solar Facial PS-01 FPS 40 Principia - 40ml",
+      "title_norm": "protetor solar facial ps 01 fps 40 principia 40ml",
+      "url": "https://shopee.com.br/product/373261329/23898526571",
+      "affiliate_url": "https://s.shopee.com.br/1gIzQDBLZL",
+      "category": "Principia Skincare",
+      "bucket": "principia_skincare",
+      "posted_ts": 1790680802,
+      "posted_at": "2026-09-29T11:20:02.744387+00:00",
+      "score": 46.41
+    },
+    {
+      "key": "shopee:21678240017",
+      "marketplace": "shopee",
+      "id": "21678240017",
+      "title": "Creme Gel Regenerador Facial Gota de Colágeno Kokeshi 45g",
+      "title_norm": "creme gel regenerador facial gota de colageno kokeshi 45g",
+      "url": "https://shopee.com.br/product/395166866/21678240017",
+      "affiliate_url": "https://s.shopee.com.br/3g43nszOzH",
+      "category": "KOKESHI OFICIAL",
+      "bucket": "kokeshi_oficial",
+      "posted_ts": 1790680738,
+      "posted_at": "2026-09-29T11:18:58.662725+00:00",
+      "score": 104.43
+    },
+    {
+      "key": "shopee:58264684239",
+      "marketplace": "shopee",
+      "id": "58264684239",
+      "title": "Kit Clareador Facial - Sabonete Líquido + Protetor Solar Clareador 70 FPS + Sérum Multicorretivo Clareador",
+      "title_norm": "kit clareador facial sabonete liquido protetor solar clareador 70 fps serum multicorretivo clareador",
+      "url": "https://shopee.com.br/product/1860098702/58264684239",
+      "affiliate_url": "https://s.shopee.com.br/30oN0f1wL5",
+      "category": "Hidrabene ",
+      "bucket": "supermercado",
+      "posted_ts": 1790680674,
+      "posted_at": "2026-09-29T11:17:54.708666+00:00",
+      "score": 114.18
+    },
+    {
+      "key": "shopee:20599198575",
+      "marketplace": "shopee",
+      "id": "20599198575",
+      "title": "Chapinha Prancha Cabelo Profissional Nano Titanium 450F BIVOLT",
+      "title_norm": "chapinha prancha cabelo profissional nano titanium 450f bivolt",
+      "url": "https://shopee.com.br/product/391739739/20599198575",
+      "affiliate_url": "https://s.shopee.com.br/3LRC8zYQPc",
+      "category": "ANJ.GG store",
+      "bucket": "beleza",
+      "posted_ts": 1790680610,
+      "posted_at": "2026-09-29T11:16:50.615515+00:00",
+      "score": 146.24
+    },
+    {
       "key": "mercadolivre:MLB3957584779",
       "marketplace": "mercadolivre",
       "id": "MLB3957584779",
@@ -13943,63 +13999,7 @@
       "posted_ts": 1789935413,
       "posted_at": "2026-09-20T20:16:53.249417+00:00",
       "score": 121.65
-    },
-    {
-      "key": "mercadolivre:MLB7059191208",
-      "marketplace": "mercadolivre",
-      "id": "MLB7059191208",
-      "title": "Boneca Sophia Deluxe com Roupa Academia Unicórnio 24cm Sunny",
-      "title_norm": "boneca sophia deluxe com roupa academia unicornio 24cm sunny",
-      "url": "https://www.mercadolivre.com.br/p/MLB38422370?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB38422370?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "category": "Esportes",
-      "bucket": "esportes",
-      "posted_ts": 1789934957,
-      "posted_at": "2026-09-20T20:09:17.921740+00:00",
-      "score": 88.0
-    },
-    {
-      "key": "mercadolivre:MLB5248354709",
-      "marketplace": "mercadolivre",
-      "id": "MLB5248354709",
-      "title": "Kit 7 Shorts Feminino Modelador Selene Levanta Bumbum Bege Eg",
-      "title_norm": "kit 7 shorts feminino modelador selene levanta bumbum bege eg",
-      "url": "https://www.mercadolivre.com.br/p/MLB74383241?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB74383241?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "category": "Moda Feminina",
-      "bucket": "moda_feminina",
-      "posted_ts": 1789934893,
-      "posted_at": "2026-09-20T20:08:13.672502+00:00",
-      "score": 97.67
-    },
-    {
-      "key": "mercadolivre:MLB5941366026",
-      "marketplace": "mercadolivre",
-      "id": "MLB5941366026",
-      "title": "Shorts Feminino Sem Costura Loba Plus Size Redutor Tamanho XXG Sortido",
-      "title_norm": "shorts feminino sem costura loba plus size redutor tamanho xxg sortido",
-      "url": "https://www.mercadolivre.com.br/p/MLB62222654?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB62222654?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "category": "Moda Feminina",
-      "bucket": "moda_feminina",
-      "posted_ts": 1789934829,
-      "posted_at": "2026-09-20T20:07:09.416081+00:00",
-      "score": 99.14
-    },
-    {
-      "key": "mercadolivre:MLB4637663771",
-      "marketplace": "mercadolivre",
-      "id": "MLB4637663771",
-      "title": "Blusa Fitness Feminina Ausare Para Academia de Poliamida Dry Fit",
-      "title_norm": "blusa fitness feminina ausare para academia de poliamida dry fit",
-      "url": "https://www.mercadolivre.com.br/p/MLB68415141?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB68415141?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "category": "Esportes",
-      "bucket": "esportes",
-      "posted_ts": 1789934765,
-      "posted_at": "2026-09-20T20:06:05.132397+00:00",
-      "score": 139.69
     }
   ],
-  "updated_at": "2026-09-29T11:07:55.423453+00:00"
+  "updated_at": "2026-09-29T11:20:02.744418+00:00"
 }
