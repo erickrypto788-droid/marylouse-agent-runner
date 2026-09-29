@@ -1,6 +1,34 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB5026800457",
+      "marketplace": "mercadolivre",
+      "id": "MLB5026800457",
+      "title": "Carregador iPhone Tipo USB-C Cor Branco",
+      "title_norm": "carregador iphone tipo usb c cor branco",
+      "url": "https://www.mercadolivre.com.br/p/MLB20643765?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB20643765?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Informática",
+      "bucket": "celulares",
+      "posted_ts": 1790715869,
+      "posted_at": "2026-09-29T21:04:29.894358+00:00",
+      "score": 127.0
+    },
+    {
+      "key": "mercadolivre:MLB5129093619",
+      "marketplace": "mercadolivre",
+      "id": "MLB5129093619",
+      "title": "celulares smartphones 6.78 Polegadas celular 5g 16GB+512GB Câmera HD 32Mpx+18Mpx Bateria 5000mAh celular baratinho",
+      "title_norm": "celulares smartphones 6 78 polegadas celular 5g 16gb 512gb camera hd 32mpx 18mpx bateria 5000mah celular baratinho",
+      "url": "https://www.mercadolivre.com.br/p/MLB78262248?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB78262248?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Informática",
+      "bucket": "celulares",
+      "posted_ts": 1790715800,
+      "posted_at": "2026-09-29T21:03:20.167256+00:00",
+      "score": 195.37
+    },
+    {
       "key": "shopee:23099342707",
       "marketplace": "shopee",
       "id": "23099342707",
@@ -13971,35 +13999,7 @@
       "posted_ts": 1789971404,
       "posted_at": "2026-09-21T06:16:44.661984+00:00",
       "score": 130.07
-    },
-    {
-      "key": "shopee:22392685500",
-      "marketplace": "shopee",
-      "id": "22392685500",
-      "title": "Carregador iPhone Turbo Tipo-C 20W + Cabo Lightining para IPhone Carga rápida",
-      "title_norm": "carregador iphone turbo tipo c 20w cabo lightining para iphone carga rapida",
-      "url": "https://shopee.com.br/product/390307022/22392685500",
-      "affiliate_url": "https://s.shopee.com.br/gQF4WK4Rx",
-      "category": "ZSZ_brasil",
-      "bucket": "celulares",
-      "posted_ts": 1789967882,
-      "posted_at": "2026-09-21T05:18:02.406097+00:00",
-      "score": 109.77
-    },
-    {
-      "key": "shopee:23399043568",
-      "marketplace": "shopee",
-      "id": "23399043568",
-      "title": "Fone Bluetooth Pro5 Premium | Imersão Total c Cancelamento Ruído Qualidade Superior p iPhoneAndroid",
-      "title_norm": "fone bluetooth pro5 premium imersao total c cancelamento ruido qualidade superior p iphoneandroid",
-      "url": "https://shopee.com.br/product/976285267/23399043568",
-      "affiliate_url": "https://s.shopee.com.br/80Cpo019uP",
-      "category": "TOP SELECAO",
-      "bucket": "celulares",
-      "posted_ts": 1789967814,
-      "posted_at": "2026-09-21T05:16:54.270630+00:00",
-      "score": 139.03
     }
   ],
-  "updated_at": "2026-09-29T20:21:21.583911+00:00"
+  "updated_at": "2026-09-29T21:04:29.894379+00:00"
 }
