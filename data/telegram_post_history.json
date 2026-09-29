@@ -1,6 +1,48 @@
 {
   "posts": [
     {
+      "key": "shopee:42600768970",
+      "marketplace": "shopee",
+      "id": "42600768970",
+      "title": "Cafeteira Elétrica Coffee Break 15 xicaras Elgin 127V",
+      "title_norm": "cafeteira eletrica coffee break 15 xicaras elgin 127v",
+      "url": "https://shopee.com.br/product/299268841/42600768970",
+      "affiliate_url": "https://s.shopee.com.br/9zy617B3Yo",
+      "category": "Lojas Bid",
+      "bucket": "casa_cozinha",
+      "posted_ts": 1790677155,
+      "posted_at": "2026-09-29T10:19:15.565006+00:00",
+      "score": 79.6
+    },
+    {
+      "key": "shopee:23898692172",
+      "marketplace": "shopee",
+      "id": "23898692172",
+      "title": "Ventilador de Teto com Luz Silencioso Controle Remoto Economica Instalação Fácil LED Bivolt E27",
+      "title_norm": "ventilador de teto com luz silencioso controle remoto economica instalacao facil led bivolt e27",
+      "url": "https://shopee.com.br/product/1521699574/23898692172",
+      "affiliate_url": "https://s.shopee.com.br/30oLgFgJHY",
+      "category": "LUZORA",
+      "bucket": "luzora",
+      "posted_ts": 1790677088,
+      "posted_at": "2026-09-29T10:18:08.242091+00:00",
+      "score": 91.35
+    },
+    {
+      "key": "shopee:8020679826",
+      "marketplace": "shopee",
+      "id": "8020679826",
+      "title": "Liquidificador Mondial L‑99 Turbo 550 W 3 Velocidades",
+      "title_norm": "liquidificador mondial l 99 turbo 550 w 3 velocidades",
+      "url": "https://shopee.com.br/product/359168917/8020679826",
+      "affiliate_url": "https://s.shopee.com.br/1VzZ9mj45q",
+      "category": "LOI BRASIL",
+      "bucket": "casa_cozinha",
+      "posted_ts": 1790677019,
+      "posted_at": "2026-09-29T10:16:59.798174+00:00",
+      "score": 125.18
+    },
+    {
       "key": "mercadolivre:MLB5669950086",
       "marketplace": "mercadolivre",
       "id": "MLB5669950086",
@@ -13957,49 +13999,7 @@
       "posted_ts": 1789931206,
       "posted_at": "2026-09-20T19:06:46.274829+00:00",
       "score": 89.0
-    },
-    {
-      "key": "shopee:22893701336",
-      "marketplace": "shopee",
-      "id": "22893701336",
-      "title": "Mala Esportiva Academia Unissex Transversal e Mochila",
-      "title_norm": "mala esportiva academia unissex transversal e mochila",
-      "url": "https://shopee.com.br/product/1284795277/22893701336",
-      "affiliate_url": "https://s.shopee.com.br/5VVU64fm7F",
-      "category": "DIVA IMPORT",
-      "bucket": "bolsas",
-      "posted_ts": 1789928334,
-      "posted_at": "2026-09-20T18:18:54.732223+00:00",
-      "score": 110.02
-    },
-    {
-      "key": "shopee:22693513091",
-      "marketplace": "shopee",
-      "id": "22693513091",
-      "title": "ROMANTIC CROWN Bolsa de Ombra Feminina com Alça Ajustável, Bolsa Feminina Elegante com Couro Sintetico Preto, Presente",
-      "title_norm": "romantic crown bolsa de ombra feminina com alca ajustavel bolsa feminina elegante com couro sintetico preto presente",
-      "url": "https://shopee.com.br/product/1345043704/22693513091",
-      "affiliate_url": "https://s.shopee.com.br/70KGYQEEDO",
-      "category": "Romantic Crown 02",
-      "bucket": "bolsas",
-      "posted_ts": 1789928267,
-      "posted_at": "2026-09-20T18:17:47.131590+00:00",
-      "score": 121.0
-    },
-    {
-      "key": "shopee:23497594302",
-      "marketplace": "shopee",
-      "id": "23497594302",
-      "title": "ROMANTIC CROWN Mochla de Viagem MascuIino e Feminina ImpermeaveI Reforçada Executiva para Notebook",
-      "title_norm": "romantic crown mochla de viagem mascuiino e feminina impermeavei reforcada executiva para notebook",
-      "url": "https://shopee.com.br/product/1198407784/23497594302",
-      "affiliate_url": "https://s.shopee.com.br/6q0rgWRlI2",
-      "category": "Romantic Crown.02",
-      "bucket": "informatica",
-      "posted_ts": 1789928202,
-      "posted_at": "2026-09-20T18:16:42.912166+00:00",
-      "score": 146.0
     }
   ],
-  "updated_at": "2026-09-29T10:08:39.404183+00:00"
+  "updated_at": "2026-09-29T10:19:15.565033+00:00"
 }
