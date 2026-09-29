@@ -1,6 +1,34 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB5773064424",
+      "marketplace": "mercadolivre",
+      "id": "MLB5773064424",
+      "title": "Elgin Air Fryer Fritadeira Air Fryer",
+      "title_norm": "elgin air fryer fritadeira air fryer",
+      "url": "https://www.mercadolivre.com.br/p/MLB50493068?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB50493068?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Casa e Cozinha",
+      "bucket": "casa_cozinha",
+      "posted_ts": 1790683497,
+      "posted_at": "2026-09-29T12:04:57.824751+00:00",
+      "score": 129.0
+    },
+    {
+      "key": "mercadolivre:MLB6218013518",
+      "marketplace": "mercadolivre",
+      "id": "MLB6218013518",
+      "title": "Jogo Panelas Tramontina Coimbra 5pçs Preto Antiaderente",
+      "title_norm": "jogo panelas tramontina coimbra 5pcs preto antiaderente",
+      "url": "https://www.mercadolivre.com.br/p/MLB39387638?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB39387638?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Casa e Cozinha",
+      "bucket": "casa_cozinha",
+      "posted_ts": 1790683433,
+      "posted_at": "2026-09-29T12:03:53.536912+00:00",
+      "score": 129.0
+    },
+    {
       "key": "shopee:23898526571",
       "marketplace": "shopee",
       "id": "23898526571",
@@ -13971,35 +13999,7 @@
       "posted_ts": 1789935541,
       "posted_at": "2026-09-20T20:19:01.448862+00:00",
       "score": 99.78
-    },
-    {
-      "key": "shopee:23498951046",
-      "marketplace": "shopee",
-      "id": "23498951046",
-      "title": "kit 10  24 Cores Caneta Marcadora De Cabeça Dupla Oleosa Montagem Artística Para Estudantes Material Escolar su",
-      "title_norm": "kit 10 24 cores caneta marcadora de cabeca dupla oleosa montagem artistica para estudantes material escolar su",
-      "url": "https://shopee.com.br/product/526615488/23498951046",
-      "affiliate_url": "https://s.shopee.com.br/9zxtaay8rc",
-      "category": "Sus.store",
-      "bucket": "sus_store",
-      "posted_ts": 1789935477,
-      "posted_at": "2026-09-20T20:17:57.371521+00:00",
-      "score": 103.08
-    },
-    {
-      "key": "shopee:22696925642",
-      "marketplace": "shopee",
-      "id": "22696925642",
-      "title": "Aplique Finalizador de Laço e Agenda KIT 100 UN (5 Modelos) Passante Elástico, Decoração, Artesanato",
-      "title_norm": "aplique finalizador de laco e agenda kit 100 un 5 modelos passante elastico decoracao artesanato",
-      "url": "https://shopee.com.br/product/1076961691/22696925642",
-      "affiliate_url": "https://s.shopee.com.br/1134s3fGwU",
-      "category": "E-Bureau",
-      "bucket": "pet",
-      "posted_ts": 1789935413,
-      "posted_at": "2026-09-20T20:16:53.249417+00:00",
-      "score": 121.65
     }
   ],
-  "updated_at": "2026-09-29T11:20:02.744418+00:00"
+  "updated_at": "2026-09-29T12:04:57.824769+00:00"
 }

@@ -1,6 +1,36 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB5773064424",
+      "product_id": "MLB5773064424",
+      "catalog_product_id": "MLB50493068",
+      "item_id": "MLB5773064424",
+      "url": "https://www.mercadolivre.com.br/p/MLB50493068?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB50493068?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "elgin air fryer fritadeira air fryer",
+      "title": "Elgin Air Fryer Fritadeira Air Fryer",
+      "category": "Casa e Cozinha",
+      "price": 229.0,
+      "score": 129.0,
+      "posted_ts": 1790683497,
+      "posted_at": "2026-09-29T12:04:57.838859+00:00"
+    },
+    {
+      "key": "mercadolivre:MLB6218013518",
+      "product_id": "MLB6218013518",
+      "catalog_product_id": "MLB39387638",
+      "item_id": "MLB6218013518",
+      "url": "https://www.mercadolivre.com.br/p/MLB39387638?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB39387638?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "jogo panelas tramontina coimbra 5pcs preto antiaderente",
+      "title": "Jogo Panelas Tramontina Coimbra 5pçs Preto Antiaderente",
+      "category": "Casa e Cozinha",
+      "price": 213.89,
+      "score": 129.0,
+      "posted_ts": 1790683433,
+      "posted_at": "2026-09-29T12:03:53.552211+00:00"
+    },
+    {
       "key": "mercadolivre:MLB3957584779",
       "product_id": "MLB3957584779",
       "catalog_product_id": "MLB45621460",
@@ -869,22 +899,7 @@
       "score": 88.0,
       "posted_ts": 1790517777,
       "posted_at": "2026-09-27T14:02:57.591943+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB7634606562",
-      "product_id": "MLB7634606562",
-      "catalog_product_id": "MLB52060701",
-      "item_id": "MLB7634606562",
-      "url": "https://www.mercadolivre.com.br/p/MLB52060701?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB52060701?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "perfume feminino arabe laverne",
-      "title": "Perfume feminino árabe laverne",
-      "category": "Beleza",
-      "price": 589.0,
-      "score": 111.0,
-      "posted_ts": 1790510567,
-      "posted_at": "2026-09-27T12:02:47.314061+00:00"
     }
   ],
-  "updated_at": "2026-09-29T11:07:55.437369+00:00"
+  "updated_at": "2026-09-29T12:04:57.838874+00:00"
 }
