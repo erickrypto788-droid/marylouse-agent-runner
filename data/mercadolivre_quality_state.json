@@ -1,6 +1,36 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB6991422356",
+      "product_id": "MLB6991422356",
+      "catalog_product_id": "MLB67933956",
+      "item_id": "MLB6991422356",
+      "url": "https://www.mercadolivre.com.br/p/MLB67933956?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB67933956?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "shorts feminino modelador up line loba 5690 003 cor bege tamanho m",
+      "title": "Shorts Feminino Modelador Up Line Loba 5690-003 Cor Bege Tamanho M",
+      "category": "Moda Feminina",
+      "price": 48.28,
+      "score": 77.67,
+      "posted_ts": 1790690653,
+      "posted_at": "2026-09-29T14:04:13.317749+00:00"
+    },
+    {
+      "key": "mercadolivre:MLB5120190903",
+      "product_id": "MLB5120190903",
+      "catalog_product_id": "MLB77976379",
+      "item_id": "MLB5120190903",
+      "url": "https://www.mercadolivre.com.br/p/MLB77976379?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB77976379?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "tecido paete tribal africano 1 30x1 50m vestido feminino cor preto",
+      "title": "Tecido Paetê Tribal Africano 1,30x1,50m Vestido Feminino Cor Preto",
+      "category": "Moda Feminina",
+      "price": 305.0,
+      "score": 86.0,
+      "posted_ts": 1790690589,
+      "posted_at": "2026-09-29T14:03:09.212184+00:00"
+    },
+    {
       "key": "mercadolivre:MLB5773064424",
       "product_id": "MLB5773064424",
       "catalog_product_id": "MLB50493068",
@@ -884,22 +914,7 @@
       "score": 111.0,
       "posted_ts": 1790521363,
       "posted_at": "2026-09-27T15:02:43.576607+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB5041528061",
-      "product_id": "MLB5041528061",
-      "catalog_product_id": "MLB43810473",
-      "item_id": "MLB5041528061",
-      "url": "https://www.mercadolivre.com.br/p/MLB43810473?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB43810473?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "kit ferramentas informatica cor preto",
-      "title": "Kit Ferramentas Informatica Cor Preto",
-      "category": "Ferramentas",
-      "price": 115.0,
-      "score": 88.0,
-      "posted_ts": 1790517777,
-      "posted_at": "2026-09-27T14:02:57.591943+00:00"
     }
   ],
-  "updated_at": "2026-09-29T12:04:57.838874+00:00"
+  "updated_at": "2026-09-29T14:04:13.317766+00:00"
 }
