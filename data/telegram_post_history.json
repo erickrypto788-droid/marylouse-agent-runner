@@ -1,6 +1,20 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB6555948878",
+      "marketplace": "mercadolivre",
+      "id": "MLB6555948878",
+      "title": "Ração Gato Castrado Frango +12 Anos 500g Premier",
+      "title_norm": "racao gato castrado frango 12 anos 500g premier",
+      "url": "https://www.mercadolivre.com.br/p/MLB22588098?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB22588098?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Pet",
+      "bucket": "pet",
+      "posted_ts": 1790661807,
+      "posted_at": "2026-09-29T06:03:27.160560+00:00",
+      "score": 129.0
+    },
+    {
       "key": "shopee:58250779487",
       "marketplace": "shopee",
       "id": "58250779487",
@@ -13985,21 +13999,7 @@
       "posted_ts": 1789914073,
       "posted_at": "2026-09-20T14:21:13.384404+00:00",
       "score": 119.51
-    },
-    {
-      "key": "shopee:23093824562",
-      "marketplace": "shopee",
-      "id": "23093824562",
-      "title": "Tênis Casual Branco Feminino Masculino Conforto Premium Academia Original",
-      "title_norm": "tenis casual branco feminino masculino conforto premium academia original",
-      "url": "https://shopee.com.br/product/391757444/23093824562",
-      "affiliate_url": "https://s.shopee.com.br/2VrsG4zBdP",
-      "category": "ELITE SHOES ",
-      "bucket": "calcados",
-      "posted_ts": 1789914009,
-      "posted_at": "2026-09-20T14:20:09.255980+00:00",
-      "score": 120.76
     }
   ],
-  "updated_at": "2026-09-29T05:21:44.951213+00:00"
+  "updated_at": "2026-09-29T06:03:27.160576+00:00"
 }
