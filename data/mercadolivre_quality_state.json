@@ -1,6 +1,36 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB5296476853",
+      "product_id": "MLB5296476853",
+      "catalog_product_id": "MLB79929864",
+      "item_id": "MLB5296476853",
+      "url": "https://www.mercadolivre.com.br/p/MLB79929864?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB79929864?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "celular smartphone xiaomi poco m7 pro 5g verde",
+      "title": "Celular Smartphone Xiaomi Poco M7 Pro 5g Verde",
+      "category": "Informática",
+      "price": 1299.0,
+      "score": 127.0,
+      "posted_ts": 1790651023,
+      "posted_at": "2026-09-29T03:03:43.796056+00:00"
+    },
+    {
+      "key": "mercadolivre:MLB3900697873",
+      "product_id": "MLB3900697873",
+      "catalog_product_id": "MLB41629336",
+      "item_id": "MLB3900697873",
+      "url": "https://www.mercadolivre.com.br/p/MLB41629336?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB41629336?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "smartphone xiaomi redmi 13 cor azul marinho",
+      "title": "Smartphone Xiaomi Redmi 13 Cor Azul-marinho",
+      "category": "Informática",
+      "price": 1337.4,
+      "score": 127.0,
+      "posted_ts": 1790650957,
+      "posted_at": "2026-09-29T03:02:37.405132+00:00"
+    },
+    {
       "key": "mercadolivre:MLB5653921846",
       "product_id": "MLB5653921846",
       "catalog_product_id": "MLB45798788",
@@ -899,37 +929,7 @@
       "score": 113.0,
       "posted_ts": 1790478231,
       "posted_at": "2026-09-27T03:03:51.589056+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB4871337061",
-      "product_id": "MLB4871337061",
-      "catalog_product_id": "MLB36069603",
-      "item_id": "MLB4871337061",
-      "url": "https://www.mercadolivre.com.br/p/MLB36069603?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB36069603?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "quatree gourmet racao cachorro filhotes premium 20kg",
-      "title": "Quatree gourmet ração cachorro filhotes Premium 20kg",
-      "category": "Pet",
-      "price": 243.0,
-      "score": 113.0,
-      "posted_ts": 1790478166,
-      "posted_at": "2026-09-27T03:02:46.761262+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB7197070408",
-      "product_id": "MLB7197070408",
-      "catalog_product_id": "MLB75425217",
-      "item_id": "MLB7197070408",
-      "url": "https://www.mercadolivre.com.br/p/MLB75425217?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB75425217?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "monitor pressao omron 7122 saude no seu braco",
-      "title": "Monitor Pressão Omron 7122: Saúde No Seu Braço",
-      "category": "Informática",
-      "price": 285.0,
-      "score": 88.0,
-      "posted_ts": 1790474550,
-      "posted_at": "2026-09-27T02:02:30.505524+00:00"
     }
   ],
-  "updated_at": "2026-09-29T01:03:48.315073+00:00"
+  "updated_at": "2026-09-29T03:03:43.796065+00:00"
 }

@@ -1,6 +1,34 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB5296476853",
+      "marketplace": "mercadolivre",
+      "id": "MLB5296476853",
+      "title": "Celular Smartphone Xiaomi Poco M7 Pro 5g Verde",
+      "title_norm": "celular smartphone xiaomi poco m7 pro 5g verde",
+      "url": "https://www.mercadolivre.com.br/p/MLB79929864?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB79929864?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Informática",
+      "bucket": "celulares",
+      "posted_ts": 1790651023,
+      "posted_at": "2026-09-29T03:03:43.782819+00:00",
+      "score": 127.0
+    },
+    {
+      "key": "mercadolivre:MLB3900697873",
+      "marketplace": "mercadolivre",
+      "id": "MLB3900697873",
+      "title": "Smartphone Xiaomi Redmi 13 Cor Azul-marinho",
+      "title_norm": "smartphone xiaomi redmi 13 cor azul marinho",
+      "url": "https://www.mercadolivre.com.br/p/MLB41629336?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB41629336?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Informática",
+      "bucket": "celulares",
+      "posted_ts": 1790650957,
+      "posted_at": "2026-09-29T03:02:37.391190+00:00",
+      "score": 127.0
+    },
+    {
       "key": "shopee:26444120861",
       "marketplace": "shopee",
       "id": "26444120861",
@@ -13971,35 +13999,7 @@
       "posted_ts": 1789906611,
       "posted_at": "2026-09-20T12:16:51.728510+00:00",
       "score": 145.52
-    },
-    {
-      "key": "mercadolivre:MLB7609027366",
-      "marketplace": "mercadolivre",
-      "id": "MLB7609027366",
-      "title": "Smartphone Xiaomi 15t 5g 12+12gb Ram + 512gb, Cinza",
-      "title_norm": "smartphone xiaomi 15t 5g 12 12gb ram 512gb cinza",
-      "url": "https://www.mercadolivre.com.br/p/MLB59103594?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB59103594?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "category": "Informática",
-      "bucket": "celulares",
-      "posted_ts": 1789905939,
-      "posted_at": "2026-09-20T12:05:39.523582+00:00",
-      "score": 124.0
-    },
-    {
-      "key": "mercadolivre:MLB5226133125",
-      "marketplace": "mercadolivre",
-      "id": "MLB5226133125",
-      "title": "Smartphone Xiaomi 15 5g 16gb/512gb Preto",
-      "title_norm": "smartphone xiaomi 15 5g 16gb 512gb preto",
-      "url": "https://www.mercadolivre.com.br/p/MLB65214612?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB65214612?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "category": "Informática",
-      "bucket": "celulares",
-      "posted_ts": 1789905868,
-      "posted_at": "2026-09-20T12:04:28.047121+00:00",
-      "score": 127.0
     }
   ],
-  "updated_at": "2026-09-29T02:21:14.517062+00:00"
+  "updated_at": "2026-09-29T03:03:43.782832+00:00"
 }
