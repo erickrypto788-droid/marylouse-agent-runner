@@ -1,6 +1,20 @@
 {
   "posts": [
     {
+      "key": "shopee:58213040580",
+      "marketplace": "shopee",
+      "id": "58213040580",
+      "title": "Controle Playstation 5 Sem Fio Dualsense Midnight Black - PS5",
+      "title_norm": "controle playstation 5 sem fio dualsense midnight black ps5",
+      "url": "https://shopee.com.br/product/829012010/58213040580",
+      "affiliate_url": "https://s.shopee.com.br/80D2QshMGC",
+      "category": "Webfones",
+      "bucket": "webfones",
+      "posted_ts": 1790720208,
+      "posted_at": "2026-09-29T22:16:48.335368+00:00",
+      "score": 46.2
+    },
+    {
       "key": "shopee:8337843814",
       "marketplace": "shopee",
       "id": "8337843814",
@@ -13985,21 +13999,7 @@
       "posted_ts": 1789975086,
       "posted_at": "2026-09-21T07:18:06.918136+00:00",
       "score": 152.17
-    },
-    {
-      "key": "shopee:21897981294",
-      "marketplace": "shopee",
-      "id": "21897981294",
-      "title": "Attracione Men (Perfume Masculino com Feromônios Ativados)",
-      "title_norm": "attracione men perfume masculino com feromonios ativados",
-      "url": "https://shopee.com.br/product/1266325318/21897981294",
-      "affiliate_url": "https://s.shopee.com.br/3VkPJg3sWC",
-      "category": "Attracione Men & Attracione",
-      "bucket": "beleza",
-      "posted_ts": 1789975018,
-      "posted_at": "2026-09-21T07:16:58.471754+00:00",
-      "score": 160.52
     }
   ],
-  "updated_at": "2026-09-29T21:21:17.170333+00:00"
+  "updated_at": "2026-09-29T22:16:48.335387+00:00"
 }
