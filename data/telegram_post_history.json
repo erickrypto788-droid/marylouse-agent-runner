@@ -1,6 +1,34 @@
 {
   "posts": [
     {
+      "key": "shopee:23293827748",
+      "marketplace": "shopee",
+      "id": "23293827748",
+      "title": "Bota Feminina GiGiL Cano Longo Enrugado Slouch Bico Fino Salto Bloco Médio Elegante Clássica Casual",
+      "title_norm": "bota feminina gigil cano longo enrugado slouch bico fino salto bloco medio elegante classica casual",
+      "url": "https://shopee.com.br/product/387348115/23293827748",
+      "affiliate_url": "https://s.shopee.com.br/3g43bYMRKn",
+      "category": "GiGiL",
+      "bucket": "calcados",
+      "posted_ts": 1790669905,
+      "posted_at": "2026-09-29T08:18:25.422947+00:00",
+      "score": 105.53
+    },
+    {
+      "key": "shopee:20497149341",
+      "marketplace": "shopee",
+      "id": "20497149341",
+      "title": "Bota Coturno Feminino Tratorada Chelsea Macia Confortável Snapshoes",
+      "title_norm": "bota coturno feminino tratorada chelsea macia confortavel snapshoes",
+      "url": "https://shopee.com.br/product/428566450/20497149341",
+      "affiliate_url": "https://s.shopee.com.br/1BMicxVxPY",
+      "category": "SHOESCOM Boots",
+      "bucket": "calcados",
+      "posted_ts": 1790669836,
+      "posted_at": "2026-09-29T08:17:16.692980+00:00",
+      "score": 110.44
+    },
+    {
       "key": "shopee:23697991877",
       "marketplace": "shopee",
       "id": "23697991877",
@@ -13971,35 +13999,7 @@
       "posted_ts": 1789921011,
       "posted_at": "2026-09-20T16:16:51.888506+00:00",
       "score": 139.27
-    },
-    {
-      "key": "shopee:23494419895",
-      "marketplace": "shopee",
-      "id": "23494419895",
-      "title": "Casinha de Boneca com 14/7/4 Quartos Corda de Luzes Brinquedo para Crianças Presente De Aniversário",
-      "title_norm": "casinha de boneca com 14 7 4 quartos corda de luzes brinquedo para criancas presente de aniversario",
-      "url": "https://shopee.com.br/product/1625500226/23494419895",
-      "affiliate_url": "https://s.shopee.com.br/7fZyThUVB7",
-      "category": "Domibro.br",
-      "bucket": "domibro_br",
-      "posted_ts": 1789917675,
-      "posted_at": "2026-09-20T15:21:15.303061+00:00",
-      "score": 96.27
-    },
-    {
-      "key": "shopee:23799369338",
-      "marketplace": "shopee",
-      "id": "23799369338",
-      "title": "Kit 48 Carrinhos De Metal Fricção Brinquedo Menino Maleta Pista Presente",
-      "title_norm": "kit 48 carrinhos de metal friccao brinquedo menino maleta pista presente",
-      "url": "https://shopee.com.br/product/1377920727/23799369338",
-      "affiliate_url": "https://s.shopee.com.br/9V1a8UKQX8",
-      "category": "rcacomercial",
-      "bucket": "rcacomercial",
-      "posted_ts": 1789917611,
-      "posted_at": "2026-09-20T15:20:11.186037+00:00",
-      "score": 108.19
     }
   ],
-  "updated_at": "2026-09-29T07:19:09.965577+00:00"
+  "updated_at": "2026-09-29T08:18:25.422959+00:00"
 }
