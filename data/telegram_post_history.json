@@ -1,6 +1,20 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB6714509354",
+      "marketplace": "mercadolivre",
+      "id": "MLB6714509354",
+      "title": "Luva Academia Musculação Fitness Tamanho P",
+      "title_norm": "luva academia musculacao fitness tamanho p",
+      "url": "https://www.mercadolivre.com.br/p/MLB69134972?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB69134972?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Esportes",
+      "bucket": "esportes",
+      "posted_ts": 1790694173,
+      "posted_at": "2026-09-29T15:02:53.787065+00:00",
+      "score": 82.71
+    },
+    {
       "key": "shopee:23193491200",
       "marketplace": "shopee",
       "id": "23193491200",
@@ -13985,21 +13999,7 @@
       "posted_ts": 1789945480,
       "posted_at": "2026-09-20T23:04:40.247364+00:00",
       "score": 86.0
-    },
-    {
-      "key": "mercadolivre:MLB5163519527",
-      "marketplace": "mercadolivre",
-      "id": "MLB5163519527",
-      "title": "Luva Academia Esporte Neoprene Academia Luva Proteção Preto Lisa Unico",
-      "title_norm": "luva academia esporte neoprene academia luva protecao preto lisa unico",
-      "url": "https://www.mercadolivre.com.br/p/MLB64424896?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB64424896?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "category": "Esportes",
-      "bucket": "esportes",
-      "posted_ts": 1789945416,
-      "posted_at": "2026-09-20T23:03:36.166459+00:00",
-      "score": 88.34
     }
   ],
-  "updated_at": "2026-09-29T14:21:13.053695+00:00"
+  "updated_at": "2026-09-29T15:02:53.787079+00:00"
 }

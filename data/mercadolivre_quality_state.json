@@ -1,6 +1,21 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB6714509354",
+      "product_id": "MLB6714509354",
+      "catalog_product_id": "MLB69134972",
+      "item_id": "MLB6714509354",
+      "url": "https://www.mercadolivre.com.br/p/MLB69134972?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB69134972?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "luva academia musculacao fitness tamanho p",
+      "title": "Luva Academia Musculação Fitness Tamanho P",
+      "category": "Esportes",
+      "price": 35.25,
+      "score": 82.71,
+      "posted_ts": 1790694173,
+      "posted_at": "2026-09-29T15:02:53.803064+00:00"
+    },
+    {
       "key": "mercadolivre:MLB6991422356",
       "product_id": "MLB6991422356",
       "catalog_product_id": "MLB67933956",
@@ -899,22 +914,7 @@
       "score": 130.95,
       "posted_ts": 1790539483,
       "posted_at": "2026-09-27T20:04:43.548198+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB5293115007",
-      "product_id": "MLB5293115007",
-      "catalog_product_id": "MLB24511657",
-      "item_id": "MLB5293115007",
-      "url": "https://www.mercadolivre.com.br/p/MLB24511657?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB24511657?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "ssd netac nv3000 ssd nvme m2 250gb",
-      "title": "SSD Netac Nv3000 Ssd Nvme M2 250gb",
-      "category": "Informática",
-      "price": 415.0,
-      "score": 111.0,
-      "posted_ts": 1790521363,
-      "posted_at": "2026-09-27T15:02:43.576607+00:00"
     }
   ],
-  "updated_at": "2026-09-29T14:04:13.317766+00:00"
+  "updated_at": "2026-09-29T15:02:53.803077+00:00"
 }
