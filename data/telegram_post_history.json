@@ -1,6 +1,48 @@
 {
   "posts": [
     {
+      "key": "shopee:10648848842",
+      "marketplace": "shopee",
+      "id": "10648848842",
+      "title": "Mala Case Capa Bolsa Porta Case Notebook Slim 14,6/15,6 Alça Dupla Reforçada",
+      "title_norm": "mala case capa bolsa porta case notebook slim 14 6 15 6 alca dupla reforcada",
+      "url": "https://shopee.com.br/product/391712221/10648848842",
+      "affiliate_url": "https://s.shopee.com.br/7VGo63ygBL",
+      "category": "Street Man",
+      "bucket": "informatica",
+      "posted_ts": 1790774347,
+      "posted_at": "2026-09-30T13:19:07.393458+00:00",
+      "score": 78.42
+    },
+    {
+      "key": "shopee:22899036423",
+      "marketplace": "shopee",
+      "id": "22899036423",
+      "title": "TOMI MITO Bolsa de Ombro Acolchoada com Alça de Corrente Estilo Casual Elegante para Trabalho e Passeio T310",
+      "title_norm": "tomi mito bolsa de ombro acolchoada com alca de corrente estilo casual elegante para trabalho e passeio t310",
+      "url": "https://shopee.com.br/product/1468415010/22899036423",
+      "affiliate_url": "https://s.shopee.com.br/4B0M7w6y8M",
+      "category": "Amy.Store",
+      "bucket": "bolsas",
+      "posted_ts": 1790774283,
+      "posted_at": "2026-09-30T13:18:03.307364+00:00",
+      "score": 101.09
+    },
+    {
+      "key": "shopee:23997726120",
+      "marketplace": "shopee",
+      "id": "23997726120",
+      "title": "ROMANTIC CROWN Mochila De Viagem Feminina Multifuncional Impermeável Reforçada Expansível para Trilha Esportiva",
+      "title_norm": "romantic crown mochila de viagem feminina multifuncional impermeavel reforcada expansivel para trilha esportiva",
+      "url": "https://shopee.com.br/product/1198407784/23997726120",
+      "affiliate_url": "https://s.shopee.com.br/6AlQVc3tOY",
+      "category": "Romantic Crown.02",
+      "bucket": "bolsas",
+      "posted_ts": 1790774215,
+      "posted_at": "2026-09-30T13:16:55.728792+00:00",
+      "score": 118.79
+    },
+    {
       "key": "mercadolivre:MLB5312148151",
       "marketplace": "mercadolivre",
       "id": "MLB5312148151",
@@ -13957,49 +13999,7 @@
       "posted_ts": 1790024610,
       "posted_at": "2026-09-21T21:03:30.605941+00:00",
       "score": 86.0
-    },
-    {
-      "key": "mercadolivre:MLB7634976292",
-      "marketplace": "mercadolivre",
-      "id": "MLB7634976292",
-      "title": "Impressora Bluetooth Mini Impressora De Etiquetas Impressora Bluetooth Termica Mini Impressora Portatil Bluetooth Para Etiquetas Codigos De Barras Impressao Nítida Conexao Rapida Facil De Usar",
-      "title_norm": "impressora bluetooth mini impressora de etiquetas impressora bluetooth termica mini impressora portatil bluetooth para etiquetas codigos de barras impressao nitida conexao rapida facil de usar",
-      "url": "https://www.mercadolivre.com.br/p/MLB78811728?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB78811728?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "category": "Informática",
-      "bucket": "informatica",
-      "posted_ts": 1790024546,
-      "posted_at": "2026-09-21T21:02:26.607797+00:00",
-      "score": 166.9
-    },
-    {
-      "key": "shopee:22493863963",
-      "marketplace": "shopee",
-      "id": "22493863963",
-      "title": "The Perfect Top Insider",
-      "title_norm": "the perfect top insider",
-      "url": "https://shopee.com.br/product/1462595809/22493863963",
-      "affiliate_url": "https://s.shopee.com.br/80CpTOp29j",
-      "category": "INSIDER",
-      "bucket": "insider",
-      "posted_ts": 1790022081,
-      "posted_at": "2026-09-21T20:21:21.958975+00:00",
-      "score": 107.01
-    },
-    {
-      "key": "shopee:58262387784",
-      "marketplace": "shopee",
-      "id": "58262387784",
-      "title": "Tênis O2x Feminino Esportivo Confortável Leve Treino Caminhada Corrida Moda Fitness",
-      "title_norm": "tenis o2x feminino esportivo confortavel leve treino caminhada corrida moda fitness",
-      "url": "https://shopee.com.br/product/1234991453/58262387784",
-      "affiliate_url": "https://s.shopee.com.br/2LYSizS4Ee",
-      "category": ".ELITE SHOES",
-      "bucket": "calcados",
-      "posted_ts": 1790022017,
-      "posted_at": "2026-09-21T20:20:17.932149+00:00",
-      "score": 114.51
     }
   ],
-  "updated_at": "2026-09-30T12:04:01.471943+00:00"
+  "updated_at": "2026-09-30T13:19:07.393469+00:00"
 }
