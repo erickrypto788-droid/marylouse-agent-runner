@@ -1,6 +1,48 @@
 {
   "posts": [
     {
+      "key": "shopee:22894748403",
+      "marketplace": "shopee",
+      "id": "22894748403",
+      "title": "Kit 3 Blusas Feminina Plus Size Gola V Básica Casual - H00",
+      "title_norm": "kit 3 blusas feminina plus size gola v basica casual h00",
+      "url": "https://shopee.com.br/product/441206033/22894748403",
+      "affiliate_url": "https://s.shopee.com.br/2BFIHEXjJO",
+      "category": "Uzze.K ",
+      "bucket": "uzze_k",
+      "posted_ts": 1790803222,
+      "posted_at": "2026-09-30T21:20:22.338991+00:00",
+      "score": 69.58
+    },
+    {
+      "key": "shopee:23095731294",
+      "marketplace": "shopee",
+      "id": "23095731294",
+      "title": "Kit 2 Calças Legging Plus Size Suplex Cintura Alta Costura Reforça G1 G2 G3",
+      "title_norm": "kit 2 calcas legging plus size suplex cintura alta costura reforca g1 g2 g3",
+      "url": "https://shopee.com.br/product/356848158/23095731294",
+      "affiliate_url": "https://s.shopee.com.br/8pmCDUColW",
+      "category": "TGL CONFECÇÕES ",
+      "bucket": "moda_feminina",
+      "posted_ts": 1790803158,
+      "posted_at": "2026-09-30T21:19:18.097844+00:00",
+      "score": 73.16
+    },
+    {
+      "key": "shopee:58252602711",
+      "marketplace": "shopee",
+      "id": "58252602711",
+      "title": "Blazer Feminino Plus Size Alfaiataria Sem Forro | Botões Dourados Decorativos | Elegante para , Escritório e Casual",
+      "title_norm": "blazer feminino plus size alfaiataria sem forro botoes dourados decorativos elegante para escritorio e casual",
+      "url": "https://shopee.com.br/product/1076483874/58252602711",
+      "affiliate_url": "https://s.shopee.com.br/4qG3S8Euol",
+      "category": "MILUÍ Moda Feminina",
+      "bucket": "milui_moda_feminina",
+      "posted_ts": 1790803024,
+      "posted_at": "2026-09-30T21:17:04.755088+00:00",
+      "score": 103.49
+    },
+    {
       "key": "mercadolivre:MLB4173026618",
       "marketplace": "mercadolivre",
       "id": "MLB4173026618",
@@ -13957,49 +13999,7 @@
       "posted_ts": 1790057810,
       "posted_at": "2026-09-22T06:16:50.397015+00:00",
       "score": 120.52
-    },
-    {
-      "key": "mercadolivre:MLB4623864041",
-      "marketplace": "mercadolivre",
-      "id": "MLB4623864041",
-      "title": "Condicionador Infantil 250ml Buba Care",
-      "title_norm": "condicionador infantil 250ml buba care",
-      "url": "https://www.mercadolivre.com.br/p/MLB29684586?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB29684586?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "category": "Beleza",
-      "bucket": "beleza",
-      "posted_ts": 1790057499,
-      "posted_at": "2026-09-22T06:11:39.414604+00:00",
-      "score": 88.0
-    },
-    {
-      "key": "mercadolivre:MLB6302363224",
-      "marketplace": "mercadolivre",
-      "id": "MLB6302363224",
-      "title": "35 Escova Dental + 35 Porta Escova Dental + 35 Creme Dental Sortidas",
-      "title_norm": "35 escova dental 35 porta escova dental 35 creme dental sortidas",
-      "url": "https://www.mercadolivre.com.br/p/MLB65932271?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB65932271?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "category": "Supermercados",
-      "bucket": "supermercados",
-      "posted_ts": 1790057435,
-      "posted_at": "2026-09-22T06:10:35.292311+00:00",
-      "score": 89.0
-    },
-    {
-      "key": "mercadolivre:MLB5709004240",
-      "marketplace": "mercadolivre",
-      "id": "MLB5709004240",
-      "title": "Detergente Sabão Lava Louça Pastilha + Lava Máquina Unik",
-      "title_norm": "detergente sabao lava louca pastilha lava maquina unik",
-      "url": "https://www.mercadolivre.com.br/p/MLB56414429?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB56414429?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "category": "Supermercados",
-      "bucket": "supermercado",
-      "posted_ts": 1790057371,
-      "posted_at": "2026-09-22T06:09:31.116957+00:00",
-      "score": 118.39
     }
   ],
-  "updated_at": "2026-09-30T21:07:55.628128+00:00"
+  "updated_at": "2026-09-30T21:20:22.339006+00:00"
 }
