@@ -1,6 +1,48 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB6149389980",
+      "marketplace": "mercadolivre",
+      "id": "MLB6149389980",
+      "title": "Kit Furadeira e Parafusadeira com Parafusadeira Dewalt Modelo DCK200ME2GT 2 Baterias 20V",
+      "title_norm": "kit furadeira e parafusadeira com parafusadeira dewalt modelo dck200me2gt 2 baterias 20v",
+      "url": "https://www.mercadolivre.com.br/p/MLB37180897?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB37180897?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Ferramentas",
+      "bucket": "ferramentas",
+      "posted_ts": 1790766354,
+      "posted_at": "2026-09-30T11:05:54.879084+00:00",
+      "score": 109.0
+    },
+    {
+      "key": "mercadolivre:MLB4773133945",
+      "marketplace": "mercadolivre",
+      "id": "MLB4773133945",
+      "title": "Kit Ferramentas Furadeira Esmerilhadeira Parafusadeira",
+      "title_norm": "kit ferramentas furadeira esmerilhadeira parafusadeira",
+      "url": "https://www.mercadolivre.com.br/p/MLB70110890?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB70110890?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Ferramentas",
+      "bucket": "ferramentas",
+      "posted_ts": 1790766284,
+      "posted_at": "2026-09-30T11:04:44.641672+00:00",
+      "score": 147.67
+    },
+    {
+      "key": "mercadolivre:MLB7725552452",
+      "marketplace": "mercadolivre",
+      "id": "MLB7725552452",
+      "title": "Brushless Parafusadeira Furadeira e Parafusadeira Brushless Parafusadeira e Furadeira Kit Parafusadeira 21V Com Impacto Profissional 1750r/min 65N.m Com 2 Bateria",
+      "title_norm": "brushless parafusadeira furadeira e parafusadeira brushless parafusadeira e furadeira kit parafusadeira 21v com impacto profissional 1750r min 65n m com 2 bateria",
+      "url": "https://www.mercadolivre.com.br/p/MLB80064803?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB80064803?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Ferramentas",
+      "bucket": "ferramentas",
+      "posted_ts": 1790766214,
+      "posted_at": "2026-09-30T11:03:34.578817+00:00",
+      "score": 169.3
+    },
+    {
       "key": "shopee:18199606563",
       "marketplace": "shopee",
       "id": "18199606563",
@@ -13957,49 +13999,7 @@
       "posted_ts": 1790014867,
       "posted_at": "2026-09-21T18:21:07.402313+00:00",
       "score": 81.4
-    },
-    {
-      "key": "shopee:26444120861",
-      "marketplace": "shopee",
-      "id": "26444120861",
-      "title": "Substrato Pronto 10L | Turfa + Perlita + Casca de Arroz Carbonizada | FERTBAC",
-      "title_norm": "substrato pronto 10l turfa perlita casca de arroz carbonizada fertbac",
-      "url": "https://shopee.com.br/product/1117805599/26444120861",
-      "affiliate_url": "https://s.shopee.com.br/6q0rx0Wtu0",
-      "category": "Fert Decor LTDA",
-      "bucket": "fert_decor_ltda",
-      "posted_ts": 1790014802,
-      "posted_at": "2026-09-21T18:20:02.967832+00:00",
-      "score": 82.31
-    },
-    {
-      "key": "shopee:22394446295",
-      "marketplace": "shopee",
-      "id": "22394446295",
-      "title": "Bola Feijão ioga yoga com bomba Amendoim pilates ginastica exercicio peanut ball fisioterapia - Escolha a cor!",
-      "title_norm": "bola feijao ioga yoga com bomba amendoim pilates ginastica exercicio peanut ball fisioterapia escolha a cor",
-      "url": "https://shopee.com.br/product/1639424744/22394446295",
-      "affiliate_url": "https://s.shopee.com.br/6q0tHQEnyW",
-      "category": "J1ECCOM",
-      "bucket": "j1eccom",
-      "posted_ts": 1790014738,
-      "posted_at": "2026-09-21T18:18:58.760426+00:00",
-      "score": 88.9
-    },
-    {
-      "key": "shopee:22392992790",
-      "marketplace": "shopee",
-      "id": "22392992790",
-      "title": "Batedor Misturador Mixer Elétrico para Bebidas Leite Café Clara de Ovo 2 em 1",
-      "title_norm": "batedor misturador mixer eletrico para bebidas leite cafe clara de ovo 2 em 1",
-      "url": "https://shopee.com.br/product/415175805/22392992790",
-      "affiliate_url": "https://s.shopee.com.br/8V95w4DQXY",
-      "category": "Isabela Top",
-      "bucket": "isabela_top",
-      "posted_ts": 1790014674,
-      "posted_at": "2026-09-21T18:17:54.501537+00:00",
-      "score": 114.77
     }
   ],
-  "updated_at": "2026-09-30T10:20:00.650221+00:00"
+  "updated_at": "2026-09-30T11:05:54.879105+00:00"
 }

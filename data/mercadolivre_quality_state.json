@@ -1,6 +1,51 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB6149389980",
+      "product_id": "MLB6149389980",
+      "catalog_product_id": "MLB37180897",
+      "item_id": "MLB6149389980",
+      "url": "https://www.mercadolivre.com.br/p/MLB37180897?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB37180897?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "kit furadeira e parafusadeira com parafusadeira dewalt modelo dck200me2gt 2 baterias 20v",
+      "title": "Kit Furadeira e Parafusadeira com Parafusadeira Dewalt Modelo DCK200ME2GT 2 Baterias 20V",
+      "category": "Ferramentas",
+      "price": 2999.0,
+      "score": 109.0,
+      "posted_ts": 1790766354,
+      "posted_at": "2026-09-30T11:05:54.888962+00:00"
+    },
+    {
+      "key": "mercadolivre:MLB4773133945",
+      "product_id": "MLB4773133945",
+      "catalog_product_id": "MLB70110890",
+      "item_id": "MLB4773133945",
+      "url": "https://www.mercadolivre.com.br/p/MLB70110890?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB70110890?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "kit ferramentas furadeira esmerilhadeira parafusadeira",
+      "title": "Kit Ferramentas Furadeira Esmerilhadeira Parafusadeira",
+      "category": "Ferramentas",
+      "price": 804.63,
+      "score": 147.67,
+      "posted_ts": 1790766284,
+      "posted_at": "2026-09-30T11:04:44.650979+00:00"
+    },
+    {
+      "key": "mercadolivre:MLB7725552452",
+      "product_id": "MLB7725552452",
+      "catalog_product_id": "MLB80064803",
+      "item_id": "MLB7725552452",
+      "url": "https://www.mercadolivre.com.br/p/MLB80064803?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB80064803?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "brushless parafusadeira furadeira e parafusadeira brushless parafusadeira e furadeira kit parafusadeira 21v com impacto profissional 1750r min 65n m com 2 bateria",
+      "title": "Brushless Parafusadeira Furadeira e Parafusadeira Brushless Parafusadeira e Furadeira Kit Parafusadeira 21V Com Impacto Profissional 1750r/min 65N.m Com 2 Bateria",
+      "category": "Ferramentas",
+      "price": 206.18,
+      "score": 169.3,
+      "posted_ts": 1790766214,
+      "posted_at": "2026-09-30T11:03:34.587987+00:00"
+    },
+    {
       "key": "mercadolivre:MLB6392071978",
       "product_id": "MLB6392071978",
       "catalog_product_id": "MLB29763388",
@@ -854,37 +899,7 @@
       "score": 95.09,
       "posted_ts": 1790596988,
       "posted_at": "2026-09-28T12:03:08.599004+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB4657112471",
-      "product_id": "MLB4657112471",
-      "catalog_product_id": "MLB61421090",
-      "item_id": "MLB4657112471",
-      "url": "https://www.mercadolivre.com.br/p/MLB61421090?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB61421090?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "smartphone xiaomi redmi 15c 256gb global azul",
-      "title": "Smartphone Xiaomi Redmi 15c 256gb Global Azul",
-      "category": "Informática",
-      "price": 1165.0,
-      "score": 127.0,
-      "posted_ts": 1790589857,
-      "posted_at": "2026-09-28T10:04:17.236260+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB5291717533",
-      "product_id": "MLB5291717533",
-      "catalog_product_id": "MLB65214612",
-      "item_id": "MLB5291717533",
-      "url": "https://www.mercadolivre.com.br/p/MLB65214612?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB65214612?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "smartphone xiaomi 15 5g 16gb 512gb preto",
-      "title": "Smartphone Xiaomi 15 5g 16gb/512gb Preto",
-      "category": "Informática",
-      "price": 1000.0,
-      "score": 127.0,
-      "posted_ts": 1790589793,
-      "posted_at": "2026-09-28T10:03:13.252371+00:00"
     }
   ],
-  "updated_at": "2026-09-30T09:05:15.879368+00:00"
+  "updated_at": "2026-09-30T11:05:54.888975+00:00"
 }
