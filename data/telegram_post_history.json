@@ -1,6 +1,48 @@
 {
   "posts": [
     {
+      "key": "shopee:23493522483",
+      "marketplace": "shopee",
+      "id": "23493522483",
+      "title": "Pipoqueira Elétrica Sem Óleo Philco 1200W PPIE01A",
+      "title_norm": "pipoqueira eletrica sem oleo philco 1200w ppie01a",
+      "url": "https://shopee.com.br/product/811034337/23493522483",
+      "affiliate_url": "https://s.shopee.com.br/4fwcBtLBbA",
+      "category": "Philco Oficial",
+      "bucket": "philco_oficial",
+      "posted_ts": 1790745543,
+      "posted_at": "2026-09-30T05:19:03.555381+00:00",
+      "score": 66.13
+    },
+    {
+      "key": "shopee:18299266586",
+      "marketplace": "shopee",
+      "id": "18299266586",
+      "title": "Aspirador de Pó 2 em 1 Limpeza Portátil Sem Fio Multifuncional Para Limpeza De Casa Manual",
+      "title_norm": "aspirador de po 2 em 1 limpeza portatil sem fio multifuncional para limpeza de casa manual",
+      "url": "https://shopee.com.br/product/465639879/18299266586",
+      "affiliate_url": "https://s.shopee.com.br/9zy8XgwTzT",
+      "category": "T&TBem_vindo.br",
+      "bucket": "casa_cozinha",
+      "posted_ts": 1790745479,
+      "posted_at": "2026-09-30T05:17:59.460503+00:00",
+      "score": 97.16
+    },
+    {
+      "key": "shopee:23392997431",
+      "marketplace": "shopee",
+      "id": "23392997431",
+      "title": "Aspirador de Pó Doméstico 3 em 1 Sem Fio Limpeza Sucção USB",
+      "title_norm": "aspirador de po domestico 3 em 1 sem fio limpeza succao usb",
+      "url": "https://shopee.com.br/product/1232649860/23392997431",
+      "affiliate_url": "https://s.shopee.com.br/9V1rwlyO0I",
+      "category": "SLX 123",
+      "bucket": "casa_cozinha",
+      "posted_ts": 1790745415,
+      "posted_at": "2026-09-30T05:16:55.123277+00:00",
+      "score": 119.67
+    },
+    {
       "key": "mercadolivre:MLB4795061481",
       "marketplace": "mercadolivre",
       "id": "MLB4795061481",
@@ -13957,49 +13999,7 @@
       "posted_ts": 1789993069,
       "posted_at": "2026-09-21T12:17:49.040008+00:00",
       "score": 124.93
-    },
-    {
-      "key": "shopee:19699242179",
-      "marketplace": "shopee",
-      "id": "19699242179",
-      "title": "Kit C/12 Lenço Umedecido Lara Baby Premium 100 Unidades Total 1200",
-      "title_norm": "kit c 12 lenco umedecido lara baby premium 100 unidades total 1200",
-      "url": "https://shopee.com.br/product/1230684338/19699242179",
-      "affiliate_url": "https://s.shopee.com.br/AAHJaXCcjY",
-      "category": "Novva BPO ",
-      "bucket": "fraldas",
-      "posted_ts": 1789993005,
-      "posted_at": "2026-09-21T12:16:45.137378+00:00",
-      "score": 136.53
-    },
-    {
-      "key": "mercadolivre:MLB7634917954",
-      "marketplace": "mercadolivre",
-      "id": "MLB7634917954",
-      "title": "Shampoo Infantil Meu Bebê",
-      "title_norm": "shampoo infantil meu bebe",
-      "url": "https://www.mercadolivre.com.br/p/MLB21780816?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB21780816?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "category": "Beleza",
-      "bucket": "beleza",
-      "posted_ts": 1789992530,
-      "posted_at": "2026-09-21T12:08:50.016094+00:00",
-      "score": 88.0
-    },
-    {
-      "key": "mercadolivre:MLB5930796330",
-      "marketplace": "mercadolivre",
-      "id": "MLB5930796330",
-      "title": "Papel higiênico INDAIAL CAICAI PAPEL HIGIENICO folha dupla de 1 un",
-      "title_norm": "papel higienico indaial caicai papel higienico folha dupla de 1 un",
-      "url": "https://www.mercadolivre.com.br/p/MLB43609445?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB43609445?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "category": "Supermercados",
-      "bucket": "supermercado",
-      "posted_ts": 1789992465,
-      "posted_at": "2026-09-21T12:07:45.898475+00:00",
-      "score": 114.0
     }
   ],
-  "updated_at": "2026-09-30T05:04:51.181079+00:00"
+  "updated_at": "2026-09-30T05:19:03.555407+00:00"
 }
