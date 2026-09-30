@@ -1,6 +1,20 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB7209542710",
+      "marketplace": "mercadolivre",
+      "id": "MLB7209542710",
+      "title": "Calça Legging Fitness Feminina Ausare com Proteção UV 50+ para Academia, Yoga e Pilates",
+      "title_norm": "calca legging fitness feminina ausare com protecao uv 50 para academia yoga e pilates",
+      "url": "https://www.mercadolivre.com.br/p/MLB69276346?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB69276346?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Moda Feminina",
+      "bucket": "moda_feminina",
+      "posted_ts": 1790805828,
+      "posted_at": "2026-09-30T22:03:48.845653+00:00",
+      "score": 88.0
+    },
+    {
       "key": "shopee:22894748403",
       "marketplace": "shopee",
       "id": "22894748403",
@@ -13985,21 +13999,7 @@
       "posted_ts": 1790057874,
       "posted_at": "2026-09-22T06:17:54.582748+00:00",
       "score": 109.57
-    },
-    {
-      "key": "shopee:58251518035",
-      "marketplace": "shopee",
-      "id": "58251518035",
-      "title": "Livro Infantil Falante Bilíngue Português/Inglês Educativo Interativo com Som",
-      "title_norm": "livro infantil falante bilingue portugues ingles educativo interativo com som",
-      "url": "https://shopee.com.br/product/1223506816/58251518035",
-      "affiliate_url": "https://s.shopee.com.br/4B08txrq11",
-      "category": "AUMOX",
-      "bucket": "aumox",
-      "posted_ts": 1790057810,
-      "posted_at": "2026-09-22T06:16:50.397015+00:00",
-      "score": 120.52
     }
   ],
-  "updated_at": "2026-09-30T21:20:22.339006+00:00"
+  "updated_at": "2026-09-30T22:03:48.845669+00:00"
 }

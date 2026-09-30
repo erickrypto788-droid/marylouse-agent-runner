@@ -1,6 +1,21 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB7209542710",
+      "product_id": "MLB7209542710",
+      "catalog_product_id": "MLB69276346",
+      "item_id": "MLB7209542710",
+      "url": "https://www.mercadolivre.com.br/p/MLB69276346?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB69276346?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "calca legging fitness feminina ausare com protecao uv 50 para academia yoga e pilates",
+      "title": "Calça Legging Fitness Feminina Ausare com Proteção UV 50+ para Academia, Yoga e Pilates",
+      "category": "Moda Feminina",
+      "price": 78.9,
+      "score": 88.0,
+      "posted_ts": 1790805828,
+      "posted_at": "2026-09-30T22:03:48.860196+00:00"
+    },
+    {
       "key": "mercadolivre:MLB4173026618",
       "product_id": "MLB4173026618",
       "catalog_product_id": "MLB16134904",
@@ -704,22 +719,7 @@
       "score": 160.67,
       "posted_ts": 1790640280,
       "posted_at": "2026-09-29T00:04:40.808763+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB3474477475",
-      "product_id": "MLB3474477475",
-      "catalog_product_id": "MLB24908965",
-      "item_id": "MLB3474477475",
-      "url": "https://www.mercadolivre.com.br/p/MLB24908965?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB24908965?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "lamina aparador pelos philips bodygroom qg3379 qg3280 qg3380",
-      "title": "Lamina Aparador Pelos Philips Bodygroom Qg3379 Qg3280 Qg3380",
-      "category": "Beleza",
-      "price": 129.9,
-      "score": 119.78,
-      "posted_ts": 1790632977,
-      "posted_at": "2026-09-28T22:02:57.712525+00:00"
     }
   ],
-  "updated_at": "2026-09-30T21:07:55.641588+00:00"
+  "updated_at": "2026-09-30T22:03:48.860232+00:00"
 }
