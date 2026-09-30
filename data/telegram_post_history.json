@@ -1,6 +1,62 @@
 {
   "posts": [
     {
+      "key": "shopee:18199606563",
+      "marketplace": "shopee",
+      "id": "18199606563",
+      "title": "Accu-Chek Active Kit Medidor De Glicose Glicosimetro",
+      "title_norm": "accu chek active kit medidor de glicose glicosimetro",
+      "url": "https://shopee.com.br/product/1039727357/18199606563",
+      "affiliate_url": "https://s.shopee.com.br/4fwcWUXNdI",
+      "category": "MELHORIN ONLINE",
+      "bucket": "melhorin_online",
+      "posted_ts": 1790763600,
+      "posted_at": "2026-09-30T10:20:00.650200+00:00",
+      "score": 48.13
+    },
+    {
+      "key": "shopee:58211322269",
+      "marketplace": "shopee",
+      "id": "58211322269",
+      "title": "Kit de medidor de glicose: 50 lancetas + medidor de glicemia + 50 tiras de teste",
+      "title_norm": "kit de medidor de glicose 50 lancetas medidor de glicemia 50 tiras de teste",
+      "url": "https://shopee.com.br/product/1589215601/58211322269",
+      "affiliate_url": "https://s.shopee.com.br/6L4pFH7emX",
+      "category": "Saúde & Aroma BR",
+      "bucket": "saude_aroma_br",
+      "posted_ts": 1790763535,
+      "posted_at": "2026-09-30T10:18:55.005728+00:00",
+      "score": 69.41
+    },
+    {
+      "key": "shopee:58261832843",
+      "marketplace": "shopee",
+      "id": "58261832843",
+      "title": "Garrafa Térmica 1 Litro Inox com Termômetro Digital LED",
+      "title_norm": "garrafa termica 1 litro inox com termometro digital led",
+      "url": "https://shopee.com.br/product/1509693986/58261832843",
+      "affiliate_url": "https://s.shopee.com.br/2Vs7wVO6F8",
+      "category": "AINY ECO",
+      "bucket": "saude",
+      "posted_ts": 1790763470,
+      "posted_at": "2026-09-30T10:17:50.949705+00:00",
+      "score": 85.25
+    },
+    {
+      "key": "shopee:20598276031",
+      "marketplace": "shopee",
+      "id": "20598276031",
+      "title": "Kit Oximetro de Dedo Digital + Termometro Infravermelho + Inalador Portatil",
+      "title_norm": "kit oximetro de dedo digital termometro infravermelho inalador portatil",
+      "url": "https://shopee.com.br/product/1242067486/20598276031",
+      "affiliate_url": "https://s.shopee.com.br/6fhguALR2i",
+      "category": "Rossi Stores",
+      "bucket": "saude",
+      "posted_ts": 1790763406,
+      "posted_at": "2026-09-30T10:16:46.929970+00:00",
+      "score": 129.05
+    },
+    {
       "key": "shopee:58212460845",
       "marketplace": "shopee",
       "id": "58212460845",
@@ -13943,63 +13999,7 @@
       "posted_ts": 1790014674,
       "posted_at": "2026-09-21T18:17:54.501537+00:00",
       "score": 114.77
-    },
-    {
-      "key": "shopee:54656294977",
-      "marketplace": "shopee",
-      "id": "54656294977",
-      "title": "Hibisco + Cavalinha Suplemento Diurético Retenção de Líquido e Queima de Gordura",
-      "title_norm": "hibisco cavalinha suplemento diuretico retencao de liquido e queima de gordura",
-      "url": "https://shopee.com.br/product/1482104455/54656294977",
-      "affiliate_url": "https://s.shopee.com.br/9KiCvbRvBk",
-      "category": "Wellness Hub",
-      "bucket": "wellness_hub",
-      "posted_ts": 1790014610,
-      "posted_at": "2026-09-21T18:16:50.075239+00:00",
-      "score": 121.68
-    },
-    {
-      "key": "shopee:21399231257",
-      "marketplace": "shopee",
-      "id": "21399231257",
-      "title": "Insulfilm Película fume G5 G20 ou G35 Automotiva e Residencial Para Vidros",
-      "title_norm": "insulfilm pelicula fume g5 g20 ou g35 automotiva e residencial para vidros",
-      "url": "https://shopee.com.br/product/1178214197/21399231257",
-      "affiliate_url": "https://s.shopee.com.br/50ZF1vk021",
-      "category": "Nox Importss",
-      "bucket": "nox_importss",
-      "posted_ts": 1790011279,
-      "posted_at": "2026-09-21T17:21:19.712599+00:00",
-      "score": 61.81
-    },
-    {
-      "key": "shopee:23992747038",
-      "marketplace": "shopee",
-      "id": "23992747038",
-      "title": "36 Etiquetas para Potes de Condimentos Temperos Mantimentos 3,8x3,8cm",
-      "title_norm": "36 etiquetas para potes de condimentos temperos mantimentos 3 8x3 8cm",
-      "url": "https://shopee.com.br/product/1082769865/23992747038",
-      "affiliate_url": "https://s.shopee.com.br/4LJYEhmXNp",
-      "category": "Casa do Condi",
-      "bucket": "casa_do_condi",
-      "posted_ts": 1790011215,
-      "posted_at": "2026-09-21T17:20:15.416308+00:00",
-      "score": 87.95
-    },
-    {
-      "key": "shopee:23694320738",
-      "marketplace": "shopee",
-      "id": "23694320738",
-      "title": "Kit Mobilador One Hand Gamer Completo Para Celular Com Teclado + Mouse Gamer Led RGB",
-      "title_norm": "kit mobilador one hand gamer completo para celular com teclado mouse gamer led rgb",
-      "url": "https://shopee.com.br/product/786353833/23694320738",
-      "affiliate_url": "https://s.shopee.com.br/9peUmoVrTQ",
-      "category": "Traxen",
-      "bucket": "celulares",
-      "posted_ts": 1790011151,
-      "posted_at": "2026-09-21T17:19:11.127251+00:00",
-      "score": 111.56
     }
   ],
-  "updated_at": "2026-09-30T09:21:26.428072+00:00"
+  "updated_at": "2026-09-30T10:20:00.650221+00:00"
 }
