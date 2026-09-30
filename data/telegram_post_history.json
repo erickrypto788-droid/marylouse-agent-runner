@@ -1,6 +1,34 @@
 {
   "posts": [
     {
+      "key": "shopee:43662858663",
+      "marketplace": "shopee",
+      "id": "43662858663",
+      "title": "Esportes Tênis De Corrida Sapatos Masculinos Femininos Pai-Tamanho 34-44",
+      "title_norm": "esportes tenis de corrida sapatos masculinos femininos pai tamanho 34 44",
+      "url": "https://shopee.com.br/product/1217466513/43662858663",
+      "affiliate_url": "https://s.shopee.com.br/40gwapaFni",
+      "category": "rong9988.br",
+      "bucket": "calcados",
+      "posted_ts": 1790810283,
+      "posted_at": "2026-09-30T23:18:03.369219+00:00",
+      "score": 109.48
+    },
+    {
+      "key": "shopee:22428942973",
+      "marketplace": "shopee",
+      "id": "22428942973",
+      "title": "Bota Feminina Western Texana Cano Curto Bordada",
+      "title_norm": "bota feminina western texana cano curto bordada",
+      "url": "https://shopee.com.br/product/387348115/22428942973",
+      "affiliate_url": "https://s.shopee.com.br/80D5MBccoP",
+      "category": "GiGiL",
+      "bucket": "calcados",
+      "posted_ts": 1790810214,
+      "posted_at": "2026-09-30T23:16:54.486162+00:00",
+      "score": 112.01
+    },
+    {
       "key": "mercadolivre:MLB5175310031",
       "marketplace": "mercadolivre",
       "id": "MLB5175310031",
@@ -13971,35 +13999,7 @@
       "posted_ts": 1790060687,
       "posted_at": "2026-09-22T07:04:47.591171+00:00",
       "score": 88.0
-    },
-    {
-      "key": "mercadolivre:MLB5049841699",
-      "marketplace": "mercadolivre",
-      "id": "MLB5049841699",
-      "title": "Camiseta feminina modeladora",
-      "title_norm": "camiseta feminina modeladora",
-      "url": "https://www.mercadolivre.com.br/p/MLB59779508?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB59779508?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "category": "Moda Feminina",
-      "bucket": "moda_feminina",
-      "posted_ts": 1790060618,
-      "posted_at": "2026-09-22T07:03:38.797697+00:00",
-      "score": 88.0
-    },
-    {
-      "key": "shopee:41125555288",
-      "marketplace": "shopee",
-      "id": "41125555288",
-      "title": "Bebe Menino Barato Reborn Silicone Original Envio Imediato",
-      "title_norm": "bebe menino barato reborn silicone original envio imediato",
-      "url": "https://shopee.com.br/product/338155653/41125555288",
-      "affiliate_url": "https://s.shopee.com.br/70KKHAlNnB",
-      "category": "Princesa reborn GM",
-      "bucket": "princesa_reborn_gm",
-      "posted_ts": 1790058067,
-      "posted_at": "2026-09-22T06:21:07.798344+00:00",
-      "score": 103.88
     }
   ],
-  "updated_at": "2026-09-30T23:04:03.074492+00:00"
+  "updated_at": "2026-09-30T23:18:03.369233+00:00"
 }
