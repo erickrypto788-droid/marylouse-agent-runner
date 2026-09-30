@@ -1,6 +1,34 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB4795061481",
+      "marketplace": "mercadolivre",
+      "id": "MLB4795061481",
+      "title": "Molde Calça Legging Feminina Digital Pp-p-m-g-gg",
+      "title_norm": "molde calca legging feminina digital pp p m g gg",
+      "url": "https://www.mercadolivre.com.br/p/MLB74011420?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB74011420?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Moda Feminina",
+      "bucket": "moda_feminina",
+      "posted_ts": 1790744691,
+      "posted_at": "2026-09-30T05:04:51.181061+00:00",
+      "score": 88.0
+    },
+    {
+      "key": "mercadolivre:MLB7083949146",
+      "marketplace": "mercadolivre",
+      "id": "MLB7083949146",
+      "title": "Molde Calça Feminina Moletom Impresso P/m/g/gg/xg",
+      "title_norm": "molde calca feminina moletom impresso p m g gg xg",
+      "url": "https://www.mercadolivre.com.br/p/MLB74893563?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB74893563?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Moda Feminina",
+      "bucket": "moda_feminina",
+      "posted_ts": 1790744626,
+      "posted_at": "2026-09-30T05:03:46.460484+00:00",
+      "score": 88.0
+    },
+    {
       "key": "shopee:20798022468",
       "marketplace": "shopee",
       "id": "20798022468",
@@ -13971,35 +13999,7 @@
       "posted_ts": 1789992465,
       "posted_at": "2026-09-21T12:07:45.898475+00:00",
       "score": 114.0
-    },
-    {
-      "key": "mercadolivre:MLB7597764796",
-      "marketplace": "mercadolivre",
-      "id": "MLB7597764796",
-      "title": "Fralda Huggies Jumbinho M - 36 Unidades",
-      "title_norm": "fralda huggies jumbinho m 36 unidades",
-      "url": "https://www.mercadolivre.com.br/p/MLB25251850?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB25251850?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "category": "Mãe e Bebê",
-      "bucket": "fraldas",
-      "posted_ts": 1789992401,
-      "posted_at": "2026-09-21T12:06:41.900375+00:00",
-      "score": 182.06
-    },
-    {
-      "key": "shopee:23298641767",
-      "marketplace": "shopee",
-      "id": "23298641767",
-      "title": "Medidor Pressão Digital De Pulso Com Voz Monitor Inteligente,Aparelho De Pressão",
-      "title_norm": "medidor pressao digital de pulso com voz monitor inteligente aparelho de pressao",
-      "url": "https://shopee.com.br/product/1372008216/23298641767",
-      "affiliate_url": "https://s.shopee.com.br/8fSVjec9K2",
-      "category": "CLICK TECH BR",
-      "bucket": "click_tech_br",
-      "posted_ts": 1789989668,
-      "posted_at": "2026-09-21T11:21:08.214244+00:00",
-      "score": 100.95
     }
   ],
-  "updated_at": "2026-09-30T04:21:06.252491+00:00"
+  "updated_at": "2026-09-30T05:04:51.181079+00:00"
 }

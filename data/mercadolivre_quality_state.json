@@ -1,6 +1,36 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB4795061481",
+      "product_id": "MLB4795061481",
+      "catalog_product_id": "MLB74011420",
+      "item_id": "MLB4795061481",
+      "url": "https://www.mercadolivre.com.br/p/MLB74011420?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB74011420?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "molde calca legging feminina digital pp p m g gg",
+      "title": "Molde Calça Legging Feminina Digital Pp-p-m-g-gg",
+      "category": "Moda Feminina",
+      "price": 88.9,
+      "score": 88.0,
+      "posted_ts": 1790744691,
+      "posted_at": "2026-09-30T05:04:51.195408+00:00"
+    },
+    {
+      "key": "mercadolivre:MLB7083949146",
+      "product_id": "MLB7083949146",
+      "catalog_product_id": "MLB74893563",
+      "item_id": "MLB7083949146",
+      "url": "https://www.mercadolivre.com.br/p/MLB74893563?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB74893563?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "molde calca feminina moletom impresso p m g gg xg",
+      "title": "Molde Calça Feminina Moletom Impresso P/m/g/gg/xg",
+      "category": "Moda Feminina",
+      "price": 129.9,
+      "score": 88.0,
+      "posted_ts": 1790744626,
+      "posted_at": "2026-09-30T05:03:46.474733+00:00"
+    },
+    {
       "key": "mercadolivre:MLB3649165215",
       "product_id": "MLB3649165215",
       "catalog_product_id": "MLB35368172",
@@ -854,22 +884,7 @@
       "score": 113.0,
       "posted_ts": 1790575380,
       "posted_at": "2026-09-28T06:03:00.597794+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB4100148177",
-      "product_id": "MLB4100148177",
-      "catalog_product_id": "MLB51434487",
-      "item_id": "MLB4100148177",
-      "url": "https://www.mercadolivre.com.br/p/MLB51434487?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB51434487?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "barbeador costas masculino traseiro dobravel aparador pelos",
-      "title": "Barbeador Costas Masculino Traseiro Dobrável Aparador Pelos",
-      "category": "Beleza",
-      "price": 223.0,
-      "score": 149.76,
-      "posted_ts": 1790571760,
-      "posted_at": "2026-09-28T05:02:40.799683+00:00"
     }
   ],
-  "updated_at": "2026-09-30T04:08:54.751965+00:00"
+  "updated_at": "2026-09-30T05:04:51.195421+00:00"
 }
