@@ -1,6 +1,20 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB4694661245",
+      "marketplace": "mercadolivre",
+      "id": "MLB4694661245",
+      "title": "Comedouro Elevado Duplo Ração Gato Porcelana Acrilico 190ml Porta Racao Gato Comedouro Rosa",
+      "title_norm": "comedouro elevado duplo racao gato porcelana acrilico 190ml porta racao gato comedouro rosa",
+      "url": "https://www.mercadolivre.com.br/p/MLB67529462?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB67529462?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Pet",
+      "bucket": "pet",
+      "posted_ts": 1790726573,
+      "posted_at": "2026-09-30T00:02:53.264808+00:00",
+      "score": 149.85
+    },
+    {
       "key": "shopee:22293752341",
       "marketplace": "shopee",
       "id": "22293752341",
@@ -13985,21 +13999,7 @@
       "posted_ts": 1789978676,
       "posted_at": "2026-09-21T08:17:56.146526+00:00",
       "score": 113.99
-    },
-    {
-      "key": "shopee:23292945743",
-      "marketplace": "shopee",
-      "id": "23292945743",
-      "title": "Tenis Infantil Masculino Led Menino Aranha Tenis De Menino Masculino Tenis Infantil Menino",
-      "title_norm": "tenis infantil masculino led menino aranha tenis de menino masculino tenis infantil menino",
-      "url": "https://shopee.com.br/product/499950777/23292945743",
-      "affiliate_url": "https://s.shopee.com.br/50ZEQqJnWs",
-      "category": "Club_Happy",
-      "bucket": "calcados",
-      "posted_ts": 1789978607,
-      "posted_at": "2026-09-21T08:16:47.455011+00:00",
-      "score": 116.44
     }
   ],
-  "updated_at": "2026-09-29T23:21:39.384562+00:00"
+  "updated_at": "2026-09-30T00:02:53.264824+00:00"
 }

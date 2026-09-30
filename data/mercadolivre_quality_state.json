@@ -1,6 +1,21 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB4694661245",
+      "product_id": "MLB4694661245",
+      "catalog_product_id": "MLB67529462",
+      "item_id": "MLB4694661245",
+      "url": "https://www.mercadolivre.com.br/p/MLB67529462?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB67529462?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "comedouro elevado duplo racao gato porcelana acrilico 190ml porta racao gato comedouro rosa",
+      "title": "Comedouro Elevado Duplo Ração Gato Porcelana Acrilico 190ml Porta Racao Gato Comedouro Rosa",
+      "category": "Pet",
+      "price": 47.64,
+      "score": 149.85,
+      "posted_ts": 1790726573,
+      "posted_at": "2026-09-30T00:02:53.278936+00:00"
+    },
+    {
       "key": "mercadolivre:MLB5026800457",
       "product_id": "MLB5026800457",
       "catalog_product_id": "MLB20643765",
@@ -961,5 +976,5 @@
       "posted_at": "2026-09-28T00:08:46.165699+00:00"
     }
   ],
-  "updated_at": "2026-09-29T21:04:29.903881+00:00"
+  "updated_at": "2026-09-30T00:02:53.278947+00:00"
 }
