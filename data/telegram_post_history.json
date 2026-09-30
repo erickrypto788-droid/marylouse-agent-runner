@@ -1,6 +1,48 @@
 {
   "posts": [
     {
+      "key": "shopee:23497904418",
+      "marketplace": "shopee",
+      "id": "23497904418",
+      "title": "Mochila de Ombro Transversal Compacta Unilateral USB Trava de Código Resistente água",
+      "title_norm": "mochila de ombro transversal compacta unilateral usb trava de codigo resistente agua",
+      "url": "https://shopee.com.br/product/392260640/23497904418",
+      "affiliate_url": "https://s.shopee.com.br/5fp9yoLa9j",
+      "category": "Good Vibes Moment Variedade Mochila",
+      "bucket": "bolsas",
+      "posted_ts": 1790777953,
+      "posted_at": "2026-09-30T14:19:13.236756+00:00",
+      "score": 108.42
+    },
+    {
+      "key": "shopee:22092313748",
+      "marketplace": "shopee",
+      "id": "22092313748",
+      "title": "Calças Sarja Masculina Jeans Colorido Slim Oferta especial de fábrica de vendas diretas bolsa de faca",
+      "title_norm": "calcas sarja masculina jeans colorido slim oferta especial de fabrica de vendas diretas bolsa de faca",
+      "url": "https://shopee.com.br/product/602589166/22092313748",
+      "affiliate_url": "https://s.shopee.com.br/AAHYPOWf8A",
+      "category": "Sucesso Em Variedades shop",
+      "bucket": "bolsas",
+      "posted_ts": 1790777889,
+      "posted_at": "2026-09-30T14:18:09.155957+00:00",
+      "score": 118.05
+    },
+    {
+      "key": "shopee:22999054525",
+      "marketplace": "shopee",
+      "id": "22999054525",
+      "title": "Mochila de Couro Executiva Impermeável Reforçada com Porta USB e Fone para Notebook Viagem e Trabalho",
+      "title_norm": "mochila de couro executiva impermeavel reforcada com porta usb e fone para notebook viagem e trabalho",
+      "url": "https://shopee.com.br/product/1658947107/22999054525",
+      "affiliate_url": "https://s.shopee.com.br/113KQEmDQO",
+      "category": "RON CHANG",
+      "bucket": "informatica",
+      "posted_ts": 1790777816,
+      "posted_at": "2026-09-30T14:16:56.342902+00:00",
+      "score": 127.2
+    },
+    {
       "key": "mercadolivre:MLB7609027366",
       "marketplace": "mercadolivre",
       "id": "MLB7609027366",
@@ -13957,49 +13999,7 @@
       "posted_ts": 1790025623,
       "posted_at": "2026-09-21T21:20:23.163468+00:00",
       "score": 88.83
-    },
-    {
-      "key": "shopee:22398531446",
-      "marketplace": "shopee",
-      "id": "22398531446",
-      "title": "Kit 10 ou 5 Cuecas Boxer Microfibra Adulto Sem Costura Confortável",
-      "title_norm": "kit 10 ou 5 cuecas boxer microfibra adulto sem costura confortavel",
-      "url": "https://shopee.com.br/product/287423701/22398531446",
-      "affiliate_url": "https://s.shopee.com.br/40ggmA2NaW",
-      "category": "MDPresentes",
-      "bucket": "mdpresentes",
-      "posted_ts": 1790025554,
-      "posted_at": "2026-09-21T21:19:14.340724+00:00",
-      "score": 107.35
-    },
-    {
-      "key": "shopee:22393516179",
-      "marketplace": "shopee",
-      "id": "22393516179",
-      "title": "Conjunto Infantil Masculino - Camisa + Bermuda Para O Verão 2025",
-      "title_norm": "conjunto infantil masculino camisa bermuda para o verao 2025",
-      "url": "https://shopee.com.br/product/1396316927/22393516179",
-      "affiliate_url": "https://s.shopee.com.br/20vcOU5SLU",
-      "category": "KJ Company",
-      "bucket": "kj_company",
-      "posted_ts": 1790025490,
-      "posted_at": "2026-09-21T21:18:10.100169+00:00",
-      "score": 108.09
-    },
-    {
-      "key": "shopee:23793879757",
-      "marketplace": "shopee",
-      "id": "23793879757",
-      "title": "Daily T-shirt Insider",
-      "title_norm": "daily t shirt insider",
-      "url": "https://shopee.com.br/product/1462595809/23793879757",
-      "affiliate_url": "https://s.shopee.com.br/9KiD7xUsPJ",
-      "category": "INSIDER",
-      "bucket": "insider",
-      "posted_ts": 1790025425,
-      "posted_at": "2026-09-21T21:17:05.578393+00:00",
-      "score": 117.76
     }
   ],
-  "updated_at": "2026-09-30T14:03:00.767640+00:00"
+  "updated_at": "2026-09-30T14:19:13.236769+00:00"
 }
