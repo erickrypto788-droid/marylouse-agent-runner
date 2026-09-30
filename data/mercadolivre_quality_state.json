@@ -1,6 +1,36 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB5355035490",
+      "product_id": "MLB5355035490",
+      "catalog_product_id": "MLB48409016",
+      "item_id": "MLB5355035490",
+      "url": "https://www.mercadolivre.com.br/p/MLB48409016?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB48409016?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "cama box solteiro colchao molas ensacadas orthoflex memor",
+      "title": "Cama Box Solteiro: Colchão Molas Ensacadas Orthoflex Memor",
+      "category": "Casa e Cozinha",
+      "price": 1235.89,
+      "score": 75.67,
+      "posted_ts": 1790748302,
+      "posted_at": "2026-09-30T06:05:02.886644+00:00"
+    },
+    {
+      "key": "mercadolivre:MLB3845821781",
+      "product_id": "MLB3845821781",
+      "catalog_product_id": "MLB38279289",
+      "item_id": "MLB3845821781",
+      "url": "https://www.mercadolivre.com.br/p/MLB38279289?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB38279289?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "armario organizador cozinha balcao microondas jet cinza",
+      "title": "Armário Organizador Cozinha Balcão Microondas Jet - Cinza",
+      "category": "Casa e Cozinha",
+      "price": 399.9,
+      "score": 86.0,
+      "posted_ts": 1790748233,
+      "posted_at": "2026-09-30T06:03:53.603222+00:00"
+    },
+    {
       "key": "mercadolivre:MLB4795061481",
       "product_id": "MLB4795061481",
       "catalog_product_id": "MLB74011420",
@@ -869,22 +899,7 @@
       "score": 111.0,
       "posted_ts": 1790582613,
       "posted_at": "2026-09-28T08:03:33.544505+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB7158074090",
-      "product_id": "MLB7158074090",
-      "catalog_product_id": "MLB38338044",
-      "item_id": "MLB7158074090",
-      "url": "https://www.mercadolivre.com.br/p/MLB38338044?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB38338044?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "liquidificador portatil mini liquidificador recarregavel usb liquidificador",
-      "title": "Liquidificador portátil, Mini liquidificador recarregável USB, Liquidificador",
-      "category": "Casa e Cozinha",
-      "price": 98.0,
-      "score": 113.0,
-      "posted_ts": 1790575380,
-      "posted_at": "2026-09-28T06:03:00.597794+00:00"
     }
   ],
-  "updated_at": "2026-09-30T05:04:51.195421+00:00"
+  "updated_at": "2026-09-30T06:05:02.886651+00:00"
 }
