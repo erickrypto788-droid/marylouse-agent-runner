@@ -1,6 +1,20 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB7609027366",
+      "marketplace": "mercadolivre",
+      "id": "MLB7609027366",
+      "title": "Smartphone Xiaomi 15t 5g 12+12gb Ram + 512gb, Cinza",
+      "title_norm": "smartphone xiaomi 15t 5g 12 12gb ram 512gb cinza",
+      "url": "https://www.mercadolivre.com.br/p/MLB59103594?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB59103594?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Informática",
+      "bucket": "celulares",
+      "posted_ts": 1790776980,
+      "posted_at": "2026-09-30T14:03:00.767623+00:00",
+      "score": 124.0
+    },
+    {
       "key": "shopee:10648848842",
       "marketplace": "shopee",
       "id": "10648848842",
@@ -13985,21 +13999,7 @@
       "posted_ts": 1790025425,
       "posted_at": "2026-09-21T21:17:05.578393+00:00",
       "score": 117.76
-    },
-    {
-      "key": "mercadolivre:MLB5653921846",
-      "marketplace": "mercadolivre",
-      "id": "MLB5653921846",
-      "title": "Monitor 24 Polegadas 1920x1200px Vga Hdmi 5ms Rápido",
-      "title_norm": "monitor 24 polegadas 1920x1200px vga hdmi 5ms rapido",
-      "url": "https://www.mercadolivre.com.br/p/MLB45798788?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB45798788?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "category": "Informática",
-      "bucket": "informatica",
-      "posted_ts": 1790024610,
-      "posted_at": "2026-09-21T21:03:30.605941+00:00",
-      "score": 86.0
     }
   ],
-  "updated_at": "2026-09-30T13:19:07.393469+00:00"
+  "updated_at": "2026-09-30T14:03:00.767640+00:00"
 }

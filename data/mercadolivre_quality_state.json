@@ -1,6 +1,21 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB7609027366",
+      "product_id": "MLB7609027366",
+      "catalog_product_id": "MLB59103594",
+      "item_id": "MLB7609027366",
+      "url": "https://www.mercadolivre.com.br/p/MLB59103594?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB59103594?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "smartphone xiaomi 15t 5g 12 12gb ram 512gb cinza",
+      "title": "Smartphone Xiaomi 15t 5g 12+12gb Ram + 512gb, Cinza",
+      "category": "Informática",
+      "price": 4950.0,
+      "score": 124.0,
+      "posted_ts": 1790776980,
+      "posted_at": "2026-09-30T14:03:00.777858+00:00"
+    },
+    {
       "key": "mercadolivre:MLB5312148151",
       "product_id": "MLB5312148151",
       "catalog_product_id": "MLB23697502",
@@ -854,52 +869,7 @@
       "score": 110.48,
       "posted_ts": 1790607772,
       "posted_at": "2026-09-28T15:02:52.555538+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB4110890853",
-      "product_id": "MLB4110890853",
-      "catalog_product_id": "MLB51893724",
-      "item_id": "MLB4110890853",
-      "url": "https://www.mercadolivre.com.br/p/MLB51893724?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB51893724?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "baba eletronica hellobaby hb66pro monitor bebe 3 2 white",
-      "title": "Babá Eletrônica Hellobaby Hb66pro Monitor Bebê 3.2 White",
-      "category": "Informática",
-      "price": 393.99,
-      "score": 86.0,
-      "posted_ts": 1790604154,
-      "posted_at": "2026-09-28T14:02:34.271219+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB7639579812",
-      "product_id": "MLB7639579812",
-      "catalog_product_id": "MLB66541712",
-      "item_id": "MLB7639579812",
-      "url": "https://www.mercadolivre.com.br/p/MLB66541712?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB66541712?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "racao gato estimacat premium adulto sabor carne 15kg",
-      "title": "Ração Gato Estimacat Premium Adulto Sabor Carne 15kg",
-      "category": "Pet",
-      "price": 267.25,
-      "score": 154.83,
-      "posted_ts": 1790600563,
-      "posted_at": "2026-09-28T13:02:43.586001+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB3523354285",
-      "product_id": "MLB3523354285",
-      "catalog_product_id": "MLB22958206",
-      "item_id": "MLB3523354285",
-      "url": "https://www.mercadolivre.com.br/p/MLB22958206?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB22958206?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "aparelho monitor pressao arterial portatil pulso omron",
-      "title": "Aparelho Monitor Pressão Arterial Portátil Pulso Omron",
-      "category": "Informática",
-      "price": 189.88,
-      "score": 88.0,
-      "posted_ts": 1790597052,
-      "posted_at": "2026-09-28T12:04:12.636153+00:00"
     }
   ],
-  "updated_at": "2026-09-30T12:04:01.483642+00:00"
+  "updated_at": "2026-09-30T14:03:00.777872+00:00"
 }
