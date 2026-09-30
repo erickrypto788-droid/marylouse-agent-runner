@@ -1,6 +1,62 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB3649165215",
+      "marketplace": "mercadolivre",
+      "id": "MLB3649165215",
+      "title": "Arroz Jasmine Tailandês Aromático 1kg Arroz De Altitude",
+      "title_norm": "arroz jasmine tailandes aromatico 1kg arroz de altitude",
+      "url": "https://www.mercadolivre.com.br/p/MLB35368172?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB35368172?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Supermercados",
+      "bucket": "supermercados",
+      "posted_ts": 1790741334,
+      "posted_at": "2026-09-30T04:08:54.738370+00:00",
+      "score": 78.68
+    },
+    {
+      "key": "mercadolivre:MLB5281214491",
+      "marketplace": "mercadolivre",
+      "id": "MLB5281214491",
+      "title": "Kaisasa Shampoo Tonalizante Para Cobrir Cabelo Cinzento，shampoo cabelo branco，shampoo barba，shampoo redutor grisalhos，shampoo tonalizante preto，hair dye shampoo，black hair dye，500ml-Preto",
+      "title_norm": "kaisasa shampoo tonalizante para cobrir cabelo cinzento shampoo cabelo branco shampoo barba shampoo redutor grisalhos shampoo tonalizante preto hair dye shampoo black hair dye 500ml preto",
+      "url": "https://www.mercadolivre.com.br/p/MLB50178919?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB50178919?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Beleza",
+      "bucket": "beleza",
+      "posted_ts": 1790741270,
+      "posted_at": "2026-09-30T04:07:50.266844+00:00",
+      "score": 88.0
+    },
+    {
+      "key": "mercadolivre:MLB5532475634",
+      "marketplace": "mercadolivre",
+      "id": "MLB5532475634",
+      "title": "Miniatura Creme Dental 15g",
+      "title_norm": "miniatura creme dental 15g",
+      "url": "https://www.mercadolivre.com.br/p/MLB53217462?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB53217462?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Supermercados",
+      "bucket": "supermercados",
+      "posted_ts": 1790741206,
+      "posted_at": "2026-09-30T04:06:46.250114+00:00",
+      "score": 89.0
+    },
+    {
+      "key": "mercadolivre:MLB4189107767",
+      "marketplace": "mercadolivre",
+      "id": "MLB4189107767",
+      "title": "Azeite Oliva Extra Virgem Italiano 500ml Mercatto",
+      "title_norm": "azeite oliva extra virgem italiano 500ml mercatto",
+      "url": "https://www.mercadolivre.com.br/p/MLB54332454?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB54332454?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Supermercados",
+      "bucket": "supermercado",
+      "posted_ts": 1790741129,
+      "posted_at": "2026-09-30T04:05:29.783609+00:00",
+      "score": 116.39
+    },
+    {
       "key": "shopee:58253347883",
       "marketplace": "shopee",
       "id": "58253347883",
@@ -13943,63 +13999,7 @@
       "posted_ts": 1789988635,
       "posted_at": "2026-09-21T11:03:55.239075+00:00",
       "score": 86.0
-    },
-    {
-      "key": "shopee:23493687045",
-      "marketplace": "shopee",
-      "id": "23493687045",
-      "title": "Tapete Termico Infantil Bebe Estampas Atividades Educativo Tapetinho Lavável Impermeavel",
-      "title_norm": "tapete termico infantil bebe estampas atividades educativo tapetinho lavavel impermeavel",
-      "url": "https://shopee.com.br/product/1109882342/23493687045",
-      "affiliate_url": "https://s.shopee.com.br/3LR0a1Uysy",
-      "category": "PIPOCA_IMPORTS",
-      "bucket": "pet",
-      "posted_ts": 1789986270,
-      "posted_at": "2026-09-21T10:24:30.419122+00:00",
-      "score": 81.1
-    },
-    {
-      "key": "shopee:58215811795",
-      "marketplace": "shopee",
-      "id": "58215811795",
-      "title": "Xadrez Magnético Jogo de Xadrez Magnético Jogos De Tabuleiro Jogo Magnético Jogos Educativos",
-      "title_norm": "xadrez magnetico jogo de xadrez magnetico jogos de tabuleiro jogo magnetico jogos educativos",
-      "url": "https://shopee.com.br/product/1717663781/58215811795",
-      "affiliate_url": "https://s.shopee.com.br/70KIwlYU3L",
-      "category": "IMPERIAL TOYS",
-      "bucket": "imperial_toys",
-      "posted_ts": 1789986206,
-      "posted_at": "2026-09-21T10:23:26.232744+00:00",
-      "score": 101.56
-    },
-    {
-      "key": "shopee:22098666307",
-      "marketplace": "shopee",
-      "id": "22098666307",
-      "title": "Jogo De Xadrez Magnético Tabuleiro Portátil Pedras Magnéticas Educativas Damas Presentes Crianças",
-      "title_norm": "jogo de xadrez magnetico tabuleiro portatil pedras magneticas educativas damas presentes criancas",
-      "url": "https://shopee.com.br/product/340113364/22098666307",
-      "affiliate_url": "https://s.shopee.com.br/6AlBxEbekC",
-      "category": "Sophia Mundo Encantado",
-      "bucket": "sophia_mundo_encantado",
-      "posted_ts": 1789986099,
-      "posted_at": "2026-09-21T10:21:39.862165+00:00",
-      "score": 110.35
-    },
-    {
-      "key": "shopee:23794965742",
-      "marketplace": "shopee",
-      "id": "23794965742",
-      "title": "Brinquedos infantis do Homem-Aranha - conjunto de 1 a 3 com luvas de tiro na teia e dardos",
-      "title_norm": "brinquedos infantis do homem aranha conjunto de 1 a 3 com luvas de tiro na teia e dardos",
-      "url": "https://shopee.com.br/product/1692649392/23794965742",
-      "affiliate_url": "https://s.shopee.com.br/5fovMJM69G",
-      "category": "VELORA Beauty",
-      "bucket": "velora_beauty",
-      "posted_ts": 1789986029,
-      "posted_at": "2026-09-21T10:20:29.206974+00:00",
-      "score": 119.27
     }
   ],
-  "updated_at": "2026-09-30T03:17:52.967804+00:00"
+  "updated_at": "2026-09-30T04:08:54.738384+00:00"
 }
