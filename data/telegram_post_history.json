@@ -1,6 +1,34 @@
 {
   "posts": [
     {
+      "key": "shopee:58253347883",
+      "marketplace": "shopee",
+      "id": "58253347883",
+      "title": "Bota Feminina Cano Curto Preta Salto Grosso Tratorada Confortável Moda Inverno",
+      "title_norm": "bota feminina cano curto preta salto grosso tratorada confortavel moda inverno",
+      "url": "https://shopee.com.br/product/702625496/58253347883",
+      "affiliate_url": "https://s.shopee.com.br/9AP1PuqYTw",
+      "category": "ENCAST CONTRY GIRL",
+      "bucket": "calcados",
+      "posted_ts": 1790738272,
+      "posted_at": "2026-09-30T03:17:52.967791+00:00",
+      "score": 104.56
+    },
+    {
+      "key": "shopee:58203391596",
+      "marketplace": "shopee",
+      "id": "58203391596",
+      "title": "pronta entrega envio imediato Sandália Saltinho 4 cm Tira de Strass Brilho  Calce Fácil Confortável elegante dia a dia",
+      "title_norm": "pronta entrega envio imediato sandalia saltinho 4 cm tira de strass brilho calce facil confortavel elegante dia a dia",
+      "url": "https://shopee.com.br/product/1715117439/58203391596",
+      "affiliate_url": "https://s.shopee.com.br/8fSkozjaek",
+      "category": "finnaflorr",
+      "bucket": "calcados",
+      "posted_ts": 1790738206,
+      "posted_at": "2026-09-30T03:16:46.540465+00:00",
+      "score": 121.27
+    },
+    {
       "key": "shopee:12820428668",
       "marketplace": "shopee",
       "id": "12820428668",
@@ -13971,35 +13999,7 @@
       "posted_ts": 1789986029,
       "posted_at": "2026-09-21T10:20:29.206974+00:00",
       "score": 119.27
-    },
-    {
-      "key": "shopee:20099772982",
-      "marketplace": "shopee",
-      "id": "20099772982",
-      "title": "Kit com 6/8 Carrinhos Com e Sem Fricção Filme Carros Relâmpago Mcqueen Brinquedo Infantil Envio Imediato",
-      "title_norm": "kit com 6 8 carrinhos com e sem friccao filme carros relampago mcqueen brinquedo infantil envio imediato",
-      "url": "https://shopee.com.br/product/880810024/20099772982",
-      "affiliate_url": "https://s.shopee.com.br/50ZEZ5kZ8M",
-      "category": "Ariani Utilidades",
-      "bucket": "ariani_utilidades",
-      "posted_ts": 1789985844,
-      "posted_at": "2026-09-21T10:17:24.906123+00:00",
-      "score": 123.53
-    },
-    {
-      "key": "mercadolivre:MLB6978080348",
-      "marketplace": "mercadolivre",
-      "id": "MLB6978080348",
-      "title": "Impressora Etiquetas Monocromática Toledo Prix IT400M USB",
-      "title_norm": "impressora etiquetas monocromatica toledo prix it400m usb",
-      "url": "https://www.mercadolivre.com.br/p/MLB46173110?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB46173110?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "category": "Informática",
-      "bucket": "informatica",
-      "posted_ts": 1789985116,
-      "posted_at": "2026-09-21T10:05:16.168265+00:00",
-      "score": 86.0
     }
   ],
-  "updated_at": "2026-09-30T02:17:48.304829+00:00"
+  "updated_at": "2026-09-30T03:17:52.967804+00:00"
 }
