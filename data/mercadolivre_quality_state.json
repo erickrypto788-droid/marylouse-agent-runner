@@ -1,6 +1,21 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB4949684225",
+      "product_id": "MLB4949684225",
+      "catalog_product_id": "MLB75635951",
+      "item_id": "MLB4949684225",
+      "url": "https://www.mercadolivre.com.br/p/MLB75635951?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB75635951?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "fralda geriatrica prevent care tamanho fralda geriatrica prevent care m c 50",
+      "title": "Fralda Geriatrica Prevent Care Tamanho FRALDA GERIATRICA PREVENT CARE M C/50",
+      "category": "Mãe e Bebê",
+      "price": 112.9,
+      "score": 114.0,
+      "posted_ts": 1790730164,
+      "posted_at": "2026-09-30T01:02:44.462814+00:00"
+    },
+    {
       "key": "mercadolivre:MLB4694661245",
       "product_id": "MLB4694661245",
       "catalog_product_id": "MLB67529462",
@@ -959,22 +974,7 @@
       "score": 183.81,
       "posted_ts": 1790557440,
       "posted_at": "2026-09-28T01:04:00.856388+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB6711202980",
-      "product_id": "MLB6711202980",
-      "catalog_product_id": "MLB68578906",
-      "item_id": "MLB6711202980",
-      "url": "https://www.mercadolivre.com.br/p/MLB68578906?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB68578906?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "bepantol baby pomada assadura bebe hipoalergenica 200g",
-      "title": "Bepantol Baby Pomada Assadura Bebe Hipoalergênica, 200g",
-      "category": "Mãe e Bebê",
-      "price": 99.0,
-      "score": 93.01,
-      "posted_ts": 1790554126,
-      "posted_at": "2026-09-28T00:08:46.165699+00:00"
     }
   ],
-  "updated_at": "2026-09-30T00:02:53.278947+00:00"
+  "updated_at": "2026-09-30T01:02:44.462830+00:00"
 }

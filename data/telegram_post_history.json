@@ -1,6 +1,20 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB4949684225",
+      "marketplace": "mercadolivre",
+      "id": "MLB4949684225",
+      "title": "Fralda Geriatrica Prevent Care Tamanho FRALDA GERIATRICA PREVENT CARE M C/50",
+      "title_norm": "fralda geriatrica prevent care tamanho fralda geriatrica prevent care m c 50",
+      "url": "https://www.mercadolivre.com.br/p/MLB75635951?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB75635951?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Mãe e Bebê",
+      "bucket": "fraldas",
+      "posted_ts": 1790730164,
+      "posted_at": "2026-09-30T01:02:44.447568+00:00",
+      "score": 114.0
+    },
+    {
       "key": "shopee:23893216352",
       "marketplace": "shopee",
       "id": "23893216352",
@@ -13985,21 +13999,7 @@
       "posted_ts": 1789982280,
       "posted_at": "2026-09-21T09:18:00.298893+00:00",
       "score": 124.68
-    },
-    {
-      "key": "shopee:21798597083",
-      "marketplace": "shopee",
-      "id": "21798597083",
-      "title": "Patinete infantil 3 rodas com led ajustável scooter dobrável menino menina",
-      "title_norm": "patinete infantil 3 rodas com led ajustavel scooter dobravel menino menina",
-      "url": "https://shopee.com.br/product/325008325/21798597083",
-      "affiliate_url": "https://s.shopee.com.br/2LYTK3sSxD",
-      "category": "Na Web Group De Marcas",
-      "bucket": "na_web_group_de_marcas",
-      "posted_ts": 1789982211,
-      "posted_at": "2026-09-21T09:16:51.602243+00:00",
-      "score": 133.02
     }
   ],
-  "updated_at": "2026-09-30T00:21:17.361044+00:00"
+  "updated_at": "2026-09-30T01:02:44.447590+00:00"
 }
