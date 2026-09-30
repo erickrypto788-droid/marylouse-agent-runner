@@ -1,6 +1,48 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB4173026618",
+      "marketplace": "mercadolivre",
+      "id": "MLB4173026618",
+      "title": "Creme Dental Anticáries 90g Elmex",
+      "title_norm": "creme dental anticaries 90g elmex",
+      "url": "https://www.mercadolivre.com.br/p/MLB16134904?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB16134904?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Supermercados",
+      "bucket": "supermercados",
+      "posted_ts": 1790802475,
+      "posted_at": "2026-09-30T21:07:55.628114+00:00",
+      "score": 78.44
+    },
+    {
+      "key": "mercadolivre:MLB6425142428",
+      "marketplace": "mercadolivre",
+      "id": "MLB6425142428",
+      "title": "Fralda Pampers Confort Sec G 38 Unidades",
+      "title_norm": "fralda pampers confort sec g 38 unidades",
+      "url": "https://www.mercadolivre.com.br/p/MLB33581064?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB33581064?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Mãe e Bebê",
+      "bucket": "fraldas",
+      "posted_ts": 1790802410,
+      "posted_at": "2026-09-30T21:06:50.983114+00:00",
+      "score": 130.0
+    },
+    {
+      "key": "mercadolivre:MLB4219197703",
+      "marketplace": "mercadolivre",
+      "id": "MLB4219197703",
+      "title": "Azeite Oliva Extra Virgem Português Vila Oliva 500ml (3 Un)",
+      "title_norm": "azeite oliva extra virgem portugues vila oliva 500ml 3 un",
+      "url": "https://www.mercadolivre.com.br/p/MLB34684493?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB34684493?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Supermercados",
+      "bucket": "supermercado",
+      "posted_ts": 1790802347,
+      "posted_at": "2026-09-30T21:05:47.025004+00:00",
+      "score": 141.22
+    },
+    {
       "key": "shopee:58205041774",
       "marketplace": "shopee",
       "id": "58205041774",
@@ -13957,49 +13999,7 @@
       "posted_ts": 1790057371,
       "posted_at": "2026-09-22T06:09:31.116957+00:00",
       "score": 118.39
-    },
-    {
-      "key": "mercadolivre:MLB6428938830",
-      "marketplace": "mercadolivre",
-      "id": "MLB6428938830",
-      "title": "Fralda Pampers Supersec M 30 Unidades",
-      "title_norm": "fralda pampers supersec m 30 unidades",
-      "url": "https://www.mercadolivre.com.br/p/MLB36175310?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB36175310?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "category": "Mãe e Bebê",
-      "bucket": "fraldas",
-      "posted_ts": 1790057235,
-      "posted_at": "2026-09-22T06:07:15.441870+00:00",
-      "score": 130.0
-    },
-    {
-      "key": "shopee:22593481622",
-      "marketplace": "shopee",
-      "id": "22593481622",
-      "title": "Kit Whey Protein Primal 1kg + Creatina 500g 100% Pura - Soldiers Nutrition",
-      "title_norm": "kit whey protein primal 1kg creatina 500g 100 pura soldiers nutrition",
-      "url": "https://shopee.com.br/product/347988064/22593481622",
-      "affiliate_url": "https://s.shopee.com.br/40gidX7tAB",
-      "category": "Soldiers Nutrition",
-      "bucket": "soldiers_nutrition",
-      "posted_ts": 1790054460,
-      "posted_at": "2026-09-22T05:21:00.954787+00:00",
-      "score": 86.92
-    },
-    {
-      "key": "shopee:23295160242",
-      "marketplace": "shopee",
-      "id": "23295160242",
-      "title": "ROMANTIC CROWN Garrafa Térmica 900ml Inox com Bico e Alça Flip Tumbler para Academia e Trabalho",
-      "title_norm": "romantic crown garrafa termica 900ml inox com bico e alca flip tumbler para academia e trabalho",
-      "url": "https://shopee.com.br/product/1240652277/23295160242",
-      "affiliate_url": "https://s.shopee.com.br/4fwPQl5UJi",
-      "category": "Romantic Crown",
-      "bucket": "romantic_crown",
-      "posted_ts": 1790054396,
-      "posted_at": "2026-09-22T05:19:56.888956+00:00",
-      "score": 105.04
     }
   ],
-  "updated_at": "2026-09-30T20:21:15.095299+00:00"
+  "updated_at": "2026-09-30T21:07:55.628128+00:00"
 }
