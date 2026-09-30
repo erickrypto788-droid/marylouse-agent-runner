@@ -1,6 +1,34 @@
 {
   "posts": [
     {
+      "key": "shopee:12820428668",
+      "marketplace": "shopee",
+      "id": "12820428668",
+      "title": "Sapatenis Masculino Star Fox Ziper e Cadarço Calce Casual A1",
+      "title_norm": "sapatenis masculino star fox ziper e cadarco calce casual a1",
+      "url": "https://shopee.com.br/product/294355829/12820428668",
+      "affiliate_url": "https://s.shopee.com.br/3B7oClbgHE",
+      "category": "Star Fox Calçados",
+      "bucket": "calcados",
+      "posted_ts": 1790734668,
+      "posted_at": "2026-09-30T02:17:48.304808+00:00",
+      "score": 87.09
+    },
+    {
+      "key": "shopee:23899355811",
+      "marketplace": "shopee",
+      "id": "23899355811",
+      "title": "Tênis Sapatênis Masculino Knit Confortável Respirável Estilso Fácil de Calçar Resistente para o Dia a Dia",
+      "title_norm": "tenis sapatenis masculino knit confortavel respiravel estilso facil de calcar resistente para o dia a dia",
+      "url": "https://shopee.com.br/product/954342223/23899355811",
+      "affiliate_url": "https://s.shopee.com.br/70KWloN5V7",
+      "category": "DN VAREJO",
+      "bucket": "calcados",
+      "posted_ts": 1790734604,
+      "posted_at": "2026-09-30T02:16:44.275357+00:00",
+      "score": 107.39
+    },
+    {
       "key": "shopee:23893178722",
       "marketplace": "shopee",
       "id": "23893178722",
@@ -13971,35 +13999,7 @@
       "posted_ts": 1789985116,
       "posted_at": "2026-09-21T10:05:16.168265+00:00",
       "score": 86.0
-    },
-    {
-      "key": "mercadolivre:MLB5201599262",
-      "marketplace": "mercadolivre",
-      "id": "MLB5201599262",
-      "title": "Ribbon Resina Mastercorp 110x300 Para Impressora Etiquetas BOPP Vinil",
-      "title_norm": "ribbon resina mastercorp 110x300 para impressora etiquetas bopp vinil",
-      "url": "https://www.mercadolivre.com.br/p/MLB44215301?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB44215301?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "category": "Informática",
-      "bucket": "informatica",
-      "posted_ts": 1789985048,
-      "posted_at": "2026-09-21T10:04:08.266832+00:00",
-      "score": 86.0
-    },
-    {
-      "key": "mercadolivre:MLB3929416863",
-      "marketplace": "mercadolivre",
-      "id": "MLB3929416863",
-      "title": "Impressora Etiquetas Logistica Código De Barras Usb",
-      "title_norm": "impressora etiquetas logistica codigo de barras usb",
-      "url": "https://www.mercadolivre.com.br/p/MLB39019401?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB39019401?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "category": "Informática",
-      "bucket": "informatica",
-      "posted_ts": 1789984984,
-      "posted_at": "2026-09-21T10:03:04.196792+00:00",
-      "score": 110.48
     }
   ],
-  "updated_at": "2026-09-30T01:20:20.277763+00:00"
+  "updated_at": "2026-09-30T02:17:48.304829+00:00"
 }
