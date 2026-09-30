@@ -1,6 +1,20 @@
 {
   "posts": [
     {
+      "key": "shopee:55913136538",
+      "marketplace": "shopee",
+      "id": "55913136538",
+      "title": "Jogo Grand Theft Auto VI Edição Standard - PS5",
+      "title_norm": "jogo grand theft auto vi edicao standard ps5",
+      "url": "https://shopee.com.br/product/413072701/55913136538",
+      "affiliate_url": "https://s.shopee.com.br/40gwGExSor",
+      "category": "Webfones Express",
+      "bucket": "webfones_express",
+      "posted_ts": 1790792223,
+      "posted_at": "2026-09-30T18:17:03.473059+00:00",
+      "score": 20.5
+    },
+    {
       "key": "shopee:23094054590",
       "marketplace": "shopee",
       "id": "23094054590",
@@ -13985,21 +13999,7 @@
       "posted_ts": 1790047335,
       "posted_at": "2026-09-22T03:22:15.277470+00:00",
       "score": 98.59
-    },
-    {
-      "key": "shopee:58209769278",
-      "marketplace": "shopee",
-      "id": "58209769278",
-      "title": "Kit Glow Kokeshi Colágeno Anti Olheiras Hidratação Completa",
-      "title_norm": "kit glow kokeshi colageno anti olheiras hidratacao completa",
-      "url": "https://shopee.com.br/product/395166866/58209769278",
-      "affiliate_url": "https://s.shopee.com.br/9AOoeneiP7",
-      "category": "KOKESHI OFICIAL",
-      "bucket": "kokeshi_oficial",
-      "posted_ts": 1790047271,
-      "posted_at": "2026-09-22T03:21:11.244068+00:00",
-      "score": 103.26
     }
   ],
-  "updated_at": "2026-09-30T17:21:09.580342+00:00"
+  "updated_at": "2026-09-30T18:17:03.473075+00:00"
 }
