@@ -1,6 +1,21 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB5312148151",
+      "product_id": "MLB5312148151",
+      "catalog_product_id": "MLB23697502",
+      "item_id": "MLB5312148151",
+      "url": "https://www.mercadolivre.com.br/p/MLB23697502?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB23697502?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "ssd 1tb m 2 2280 sata",
+      "title": "Ssd 1tb M.2 2280 Sata",
+      "category": "Informática",
+      "price": 709.0,
+      "score": 111.0,
+      "posted_ts": 1790769841,
+      "posted_at": "2026-09-30T12:04:01.483632+00:00"
+    },
+    {
       "key": "mercadolivre:MLB6149389980",
       "product_id": "MLB6149389980",
       "catalog_product_id": "MLB37180897",
@@ -884,22 +899,7 @@
       "score": 88.0,
       "posted_ts": 1790597052,
       "posted_at": "2026-09-28T12:04:12.636153+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB3222635196",
-      "product_id": "MLB3222635196",
-      "catalog_product_id": "MLB21719639",
-      "item_id": "MLB3222635196",
-      "url": "https://www.mercadolivre.com.br/p/MLB21719639?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB21719639?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "bracadeira para aparelho monitor pressao digital infantil omron",
-      "title": "Braçadeira para Aparelho Monitor Pressão Digital Infantil Omron",
-      "category": "Informática",
-      "price": 135.0,
-      "score": 95.09,
-      "posted_ts": 1790596988,
-      "posted_at": "2026-09-28T12:03:08.599004+00:00"
     }
   ],
-  "updated_at": "2026-09-30T11:05:54.888975+00:00"
+  "updated_at": "2026-09-30T12:04:01.483642+00:00"
 }
