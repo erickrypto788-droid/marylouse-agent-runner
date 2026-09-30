@@ -1,6 +1,20 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB4974714813",
+      "marketplace": "mercadolivre",
+      "id": "MLB4974714813",
+      "title": "Ração Gato Estimacat Premium Filhote Sabor Frango 10kg",
+      "title_norm": "racao gato estimacat premium filhote sabor frango 10kg",
+      "url": "https://www.mercadolivre.com.br/p/MLB66844874?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB66844874?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Pet",
+      "bucket": "pet",
+      "posted_ts": 1790787763,
+      "posted_at": "2026-09-30T17:02:43.715122+00:00",
+      "score": 154.83
+    },
+    {
       "key": "shopee:16404033482",
       "marketplace": "shopee",
       "id": "16404033482",
@@ -13985,21 +13999,7 @@
       "posted_ts": 1790042561,
       "posted_at": "2026-09-22T02:02:41.152248+00:00",
       "score": 129.0
-    },
-    {
-      "key": "shopee:22494456015",
-      "marketplace": "shopee",
-      "id": "22494456015",
-      "title": "Fone de ouvido Bluetooth Sem Fio Headphone Bluetooth Recarregável P9 Air Top Casual Esportivo",
-      "title_norm": "fone de ouvido bluetooth sem fio headphone bluetooth recarregavel p9 air top casual esportivo",
-      "url": "https://shopee.com.br/product/1396355892/22494456015",
-      "affiliate_url": "https://s.shopee.com.br/6q0tkGipRK",
-      "category": "TOP LOJA ELETRONICO",
-      "bucket": "top_loja_eletronico",
-      "posted_ts": 1790040100,
-      "posted_at": "2026-09-22T01:21:40.902531+00:00",
-      "score": 99.44
     }
   ],
-  "updated_at": "2026-09-30T16:21:15.105238+00:00"
+  "updated_at": "2026-09-30T17:02:43.715137+00:00"
 }
