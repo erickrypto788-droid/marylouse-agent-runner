@@ -1,6 +1,20 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB6574930760",
+      "marketplace": "mercadolivre",
+      "id": "MLB6574930760",
+      "title": "Parafusadeira STANLEY + Parafusadeira + Ganhe Bateria 20V",
+      "title_norm": "parafusadeira stanley parafusadeira ganhe bateria 20v",
+      "url": "https://www.mercadolivre.com.br/p/MLB67606890?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB67606890?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Ferramentas",
+      "bucket": "ferramentas",
+      "posted_ts": 1790888557,
+      "posted_at": "2026-10-01T21:02:37.294889+00:00",
+      "score": 124.0
+    },
+    {
       "key": "shopee:58205902043",
       "marketplace": "shopee",
       "id": "58205902043",
@@ -13985,21 +13999,7 @@
       "posted_ts": 1790122018,
       "posted_at": "2026-09-23T00:06:58.904316+00:00",
       "score": 116.39
-    },
-    {
-      "key": "shopee:52054081014",
-      "marketplace": "shopee",
-      "id": "52054081014",
-      "title": "Principia Protetor Solar PS-05 Cor 3.0 c/ 14,5% Mix de Filtros UV + 5% Niacinamida FPS 70 - 30ml",
-      "title_norm": "principia protetor solar ps 05 cor 3 0 c 14 5 mix de filtros uv 5 niacinamida fps 70 30ml",
-      "url": "https://shopee.com.br/product/373261329/52054081014",
-      "affiliate_url": "https://s.shopee.com.br/50ZGxQVYSP",
-      "category": "Principia Skincare",
-      "bucket": "principia_skincare",
-      "posted_ts": 1790119146,
-      "posted_at": "2026-09-22T23:19:06.415033+00:00",
-      "score": 51.02
     }
   ],
-  "updated_at": "2026-10-01T20:22:26.852983+00:00"
+  "updated_at": "2026-10-01T21:02:37.294904+00:00"
 }
