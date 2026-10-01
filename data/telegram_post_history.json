@@ -1,6 +1,20 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB7601679290",
+      "marketplace": "mercadolivre",
+      "id": "MLB7601679290",
+      "title": "Impressora Etiquetas Portátil Niimbot D11 + 1 Rolo Azul",
+      "title_norm": "impressora etiquetas portatil niimbot d11 1 rolo azul",
+      "url": "https://www.mercadolivre.com.br/p/MLB78736073?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB78736073?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Informática",
+      "bucket": "informatica",
+      "posted_ts": 1790856213,
+      "posted_at": "2026-10-01T12:03:33.487487+00:00",
+      "score": 155.08
+    },
+    {
       "key": "shopee:21299179885",
       "marketplace": "shopee",
       "id": "21299179885",
@@ -13985,21 +13999,7 @@
       "posted_ts": 1790072277,
       "posted_at": "2026-09-22T10:17:57.656671+00:00",
       "score": 108.34
-    },
-    {
-      "key": "shopee:18350470458",
-      "marketplace": "shopee",
-      "id": "18350470458",
-      "title": "Mochila Bolsa Reforçada Notebook Resistente Trabalho Faculdade Coreana",
-      "title_norm": "mochila bolsa reforcada notebook resistente trabalho faculdade coreana",
-      "url": "https://shopee.com.br/product/752743341/18350470458",
-      "affiliate_url": "https://s.shopee.com.br/6AlAxQscOS",
-      "category": "Fenix Abdon",
-      "bucket": "informatica",
-      "posted_ts": 1790072210,
-      "posted_at": "2026-09-22T10:16:50.547205+00:00",
-      "score": 120.64
     }
   ],
-  "updated_at": "2026-10-01T11:22:09.328179+00:00"
+  "updated_at": "2026-10-01T12:03:33.487508+00:00"
 }
