@@ -1,6 +1,48 @@
 {
   "posts": [
     {
+      "key": "shopee:11298889483",
+      "marketplace": "shopee",
+      "id": "11298889483",
+      "title": "Kit chinelo Luiza Liz e necessaire bolsa de mão pequena kit dia a dia blogueira",
+      "title_norm": "kit chinelo luiza liz e necessaire bolsa de mao pequena kit dia a dia blogueira",
+      "url": "https://shopee.com.br/product/333046879/11298889483",
+      "affiliate_url": "https://s.shopee.com.br/2qV0Sz2Pgs",
+      "category": "Luiza Liz calçados",
+      "bucket": "calcados",
+      "posted_ts": 1790878753,
+      "posted_at": "2026-10-01T18:19:13.556597+00:00",
+      "score": 92.72
+    },
+    {
+      "key": "shopee:58254359534",
+      "marketplace": "shopee",
+      "id": "58254359534",
+      "title": "Bolsa Feminina de Ombro Média Universidade Lazer Casual Viagem Linda",
+      "title_norm": "bolsa feminina de ombro media universidade lazer casual viagem linda",
+      "url": "https://shopee.com.br/product/1068796498/58254359534",
+      "affiliate_url": "https://s.shopee.com.br/3qNXeopfYh",
+      "category": "BAO SHI IMPORTADOS",
+      "bucket": "bolsas",
+      "posted_ts": 1790878689,
+      "posted_at": "2026-10-01T18:18:09.489380+00:00",
+      "score": 107.43
+    },
+    {
+      "key": "shopee:23593847901",
+      "marketplace": "shopee",
+      "id": "23593847901",
+      "title": "Mochila Bolsa Viagem Resistente Coreana Masculina Feminina Colorida",
+      "title_norm": "mochila bolsa viagem resistente coreana masculina feminina colorida",
+      "url": "https://shopee.com.br/product/1127030290/23593847901",
+      "affiliate_url": "https://s.shopee.com.br/6L4sdPXHhM",
+      "category": "JIMMY.STORE",
+      "bucket": "bolsas",
+      "posted_ts": 1790878625,
+      "posted_at": "2026-10-01T18:17:05.338972+00:00",
+      "score": 124.27
+    },
+    {
       "key": "shopee:23498386191",
       "marketplace": "shopee",
       "id": "23498386191",
@@ -13957,49 +13999,7 @@
       "posted_ts": 1790107466,
       "posted_at": "2026-09-22T20:04:26.960473+00:00",
       "score": 113.0
-    },
-    {
-      "key": "mercadolivre:MLB4694661245",
-      "marketplace": "mercadolivre",
-      "id": "MLB4694661245",
-      "title": "Comedouro Elevado Duplo Ração Gato Porcelana Acrilico 190ml Porta Racao Gato Comedouro Rosa",
-      "title_norm": "comedouro elevado duplo racao gato porcelana acrilico 190ml porta racao gato comedouro rosa",
-      "url": "https://www.mercadolivre.com.br/p/MLB67529462?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB67529462?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "category": "Pet",
-      "bucket": "pet",
-      "posted_ts": 1790107396,
-      "posted_at": "2026-09-22T20:03:16.294086+00:00",
-      "score": 149.85
-    },
-    {
-      "key": "shopee:58203391596",
-      "marketplace": "shopee",
-      "id": "58203391596",
-      "title": "pronta entrega envio imediato Sandália Saltinho 4 cm Tira de Strass Brilho  Calce Fácil Confortável elegante dia a dia",
-      "title_norm": "pronta entrega envio imediato sandalia saltinho 4 cm tira de strass brilho calce facil confortavel elegante dia a dia",
-      "url": "https://shopee.com.br/product/1715117439/58203391596",
-      "affiliate_url": "https://s.shopee.com.br/3LR2lzzkMc",
-      "category": "finnaflorr",
-      "bucket": "calcados",
-      "posted_ts": 1790104611,
-      "posted_at": "2026-09-22T19:16:51.674540+00:00",
-      "score": 121.85
-    },
-    {
-      "key": "shopee:23899355811",
-      "marketplace": "shopee",
-      "id": "23899355811",
-      "title": "Tênis Sapatênis Masculino Knit Confortável Respirável Estilso Fácil de Calçar Resistente para o Dia a Dia",
-      "title_norm": "tenis sapatenis masculino knit confortavel respiravel estilso facil de calcar resistente para o dia a dia",
-      "url": "https://shopee.com.br/product/954342223/23899355811",
-      "affiliate_url": "https://s.shopee.com.br/9AOpebSMJj",
-      "category": "DN VAREJO",
-      "bucket": "calcados",
-      "posted_ts": 1790101076,
-      "posted_at": "2026-09-22T18:17:56.147037+00:00",
-      "score": 104.71
     }
   ],
-  "updated_at": "2026-10-01T17:21:22.889771+00:00"
+  "updated_at": "2026-10-01T18:19:13.556619+00:00"
 }
