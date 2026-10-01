@@ -1,6 +1,34 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB4717283811",
+      "marketplace": "mercadolivre",
+      "id": "MLB4717283811",
+      "title": "Perfume Feminino Therena 50ml",
+      "title_norm": "perfume feminino therena 50ml",
+      "url": "https://www.mercadolivre.com.br/p/MLB70345293?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB70345293?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Beleza",
+      "bucket": "beleza",
+      "posted_ts": 1790881439,
+      "posted_at": "2026-10-01T19:03:59.184607+00:00",
+      "score": 113.0
+    },
+    {
+      "key": "mercadolivre:MLB5274916605",
+      "marketplace": "mercadolivre",
+      "id": "MLB5274916605",
+      "title": "Perfume Masculino Millions",
+      "title_norm": "perfume masculino millions",
+      "url": "https://www.mercadolivre.com.br/p/MLB77141871?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB77141871?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Beleza",
+      "bucket": "beleza",
+      "posted_ts": 1790881369,
+      "posted_at": "2026-10-01T19:02:49.723589+00:00",
+      "score": 188.67
+    },
+    {
       "key": "shopee:11298889483",
       "marketplace": "shopee",
       "id": "11298889483",
@@ -13971,35 +13999,7 @@
       "posted_ts": 1790108279,
       "posted_at": "2026-09-22T20:17:59.998556+00:00",
       "score": 123.75
-    },
-    {
-      "key": "shopee:23093480302",
-      "marketplace": "shopee",
-      "id": "23093480302",
-      "title": "Basike Carregador Portátil Power Bank 20000mAh Bateria Externa Para iPhone Samsung Pow079",
-      "title_norm": "basike carregador portatil power bank 20000mah bateria externa para iphone samsung pow079",
-      "url": "https://shopee.com.br/product/1371911195/23093480302",
-      "affiliate_url": "https://s.shopee.com.br/8fSZBv8dNO",
-      "category": "Basike Loja Oficial",
-      "bucket": "celulares",
-      "posted_ts": 1790108215,
-      "posted_at": "2026-09-22T20:16:55.931069+00:00",
-      "score": 132.38
-    },
-    {
-      "key": "mercadolivre:MLB5064332025",
-      "marketplace": "mercadolivre",
-      "id": "MLB5064332025",
-      "title": "Ração Gato Castrado Cat Excellence Salmão 10,1 Kg",
-      "title_norm": "racao gato castrado cat excellence salmao 10 1 kg",
-      "url": "https://www.mercadolivre.com.br/p/MLB38338089?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB38338089?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "category": "Pet",
-      "bucket": "pet",
-      "posted_ts": 1790107466,
-      "posted_at": "2026-09-22T20:04:26.960473+00:00",
-      "score": 113.0
     }
   ],
-  "updated_at": "2026-10-01T18:19:13.556619+00:00"
+  "updated_at": "2026-10-01T19:03:59.184620+00:00"
 }

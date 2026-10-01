@@ -1,6 +1,36 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB4717283811",
+      "product_id": "MLB4717283811",
+      "catalog_product_id": "MLB70345293",
+      "item_id": "MLB4717283811",
+      "url": "https://www.mercadolivre.com.br/p/MLB70345293?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB70345293?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "perfume feminino therena 50ml",
+      "title": "Perfume Feminino Therena 50ml",
+      "category": "Beleza",
+      "price": 149.9,
+      "score": 113.0,
+      "posted_ts": 1790881439,
+      "posted_at": "2026-10-01T19:03:59.199399+00:00"
+    },
+    {
+      "key": "mercadolivre:MLB5274916605",
+      "product_id": "MLB5274916605",
+      "catalog_product_id": "MLB77141871",
+      "item_id": "MLB5274916605",
+      "url": "https://www.mercadolivre.com.br/p/MLB77141871?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB77141871?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "perfume masculino millions",
+      "title": "Perfume Masculino Millions",
+      "category": "Beleza",
+      "price": 184.0,
+      "score": 188.67,
+      "posted_ts": 1790881369,
+      "posted_at": "2026-10-01T19:02:49.738433+00:00"
+    },
+    {
       "key": "mercadolivre:MLB6884302164",
       "product_id": "MLB6884302164",
       "catalog_product_id": "MLB70627275",
@@ -629,37 +659,7 @@
       "score": 195.37,
       "posted_ts": 1790715800,
       "posted_at": "2026-09-29T21:03:20.176703+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB4139317597",
-      "product_id": "MLB4139317597",
-      "catalog_product_id": "MLB23649057",
-      "item_id": "MLB4139317597",
-      "url": "https://www.mercadolivre.com.br/p/MLB23649057?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB23649057?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "furadeira parafusadeira imp c parafusadeira imp dlx2336syx",
-      "title": "Furadeira Parafusadeira Imp C/ Parafusadeira Imp Dlx2336syx",
-      "category": "Ferramentas",
-      "price": 1659.5,
-      "score": 108.0,
-      "posted_ts": 1790705021,
-      "posted_at": "2026-09-29T18:03:41.196195+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB3583861201",
-      "product_id": "MLB3583861201",
-      "catalog_product_id": "MLB19765397",
-      "item_id": "MLB3583861201",
-      "url": "https://www.mercadolivre.com.br/p/MLB19765397?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB19765397?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "combo furadeira parafusadeira df333d parafusadeira de impacto td110d 12v clx224sax",
-      "title": "Combo Furadeira Parafusadeira DF333D + Parafusadeira de Impacto TD110D 12V - CLX224SAX",
-      "category": "Ferramentas",
-      "price": 1199.0,
-      "score": 133.63,
-      "posted_ts": 1790704957,
-      "posted_at": "2026-09-29T18:02:37.053980+00:00"
     }
   ],
-  "updated_at": "2026-10-01T16:04:08.822470+00:00"
+  "updated_at": "2026-10-01T19:03:59.199411+00:00"
 }
