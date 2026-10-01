@@ -1,6 +1,34 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB5004723989",
+      "marketplace": "mercadolivre",
+      "id": "MLB5004723989",
+      "title": "Ração Gato Alimento Vittamax Premium Especial 10,1kg - Peixe",
+      "title_norm": "racao gato alimento vittamax premium especial 10 1kg peixe",
+      "url": "https://www.mercadolivre.com.br/p/MLB24839034?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB24839034?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Pet",
+      "bucket": "pet",
+      "posted_ts": 1790849068,
+      "posted_at": "2026-10-01T10:04:28.817297+00:00",
+      "score": 113.0
+    },
+    {
+      "key": "mercadolivre:MLB5318221279",
+      "marketplace": "mercadolivre",
+      "id": "MLB5318221279",
+      "title": "Kidan Mix ração cachorro rigorosamente balanceado 15kg",
+      "title_norm": "kidan mix racao cachorro rigorosamente balanceado 15kg",
+      "url": "https://www.mercadolivre.com.br/p/MLB28294404?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB28294404?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Pet",
+      "bucket": "pet",
+      "posted_ts": 1790848991,
+      "posted_at": "2026-10-01T10:03:11.274659+00:00",
+      "score": 113.0
+    },
+    {
       "key": "mercadolivre:MLB6405166350",
       "marketplace": "mercadolivre",
       "id": "MLB6405166350",
@@ -13971,35 +13999,7 @@
       "posted_ts": 1790065214,
       "posted_at": "2026-09-22T08:20:14.617107+00:00",
       "score": 69.71
-    },
-    {
-      "key": "shopee:22597636169",
-      "marketplace": "shopee",
-      "id": "22597636169",
-      "title": "Promo Pack 4 Lenços Umedecidos Free Wipes nº 2 – Higiene Completa (200 un.)",
-      "title_norm": "promo pack 4 lencos umedecidos free wipes n 2 higiene completa 200 un",
-      "url": "https://shopee.com.br/product/283442002/22597636169",
-      "affiliate_url": "https://s.shopee.com.br/1137GNiCAR",
-      "category": "FreeBrands",
-      "bucket": "freebrands",
-      "posted_ts": 1790065147,
-      "posted_at": "2026-09-22T08:19:07.704888+00:00",
-      "score": 96.42
-    },
-    {
-      "key": "shopee:23193491200",
-      "marketplace": "shopee",
-      "id": "23193491200",
-      "title": "Boneca Lola Baby Com Chupeta Rosa Menina Brinquedo Infantil Bebê",
-      "title_norm": "boneca lola baby com chupeta rosa menina brinquedo infantil bebe",
-      "url": "https://shopee.com.br/product/769529304/23193491200",
-      "affiliate_url": "https://s.shopee.com.br/6L4dcBSMOt",
-      "category": "Icomprei.com.br",
-      "bucket": "pet",
-      "posted_ts": 1790065078,
-      "posted_at": "2026-09-22T08:17:58.517995+00:00",
-      "score": 100.41
     }
   ],
-  "updated_at": "2026-10-01T07:04:53.568737+00:00"
+  "updated_at": "2026-10-01T10:04:28.817313+00:00"
 }

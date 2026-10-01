@@ -1,6 +1,36 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB5004723989",
+      "product_id": "MLB5004723989",
+      "catalog_product_id": "MLB24839034",
+      "item_id": "MLB5004723989",
+      "url": "https://www.mercadolivre.com.br/p/MLB24839034?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB24839034?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "racao gato alimento vittamax premium especial 10 1kg peixe",
+      "title": "Ração Gato Alimento Vittamax Premium Especial 10,1kg - Peixe",
+      "category": "Pet",
+      "price": 146.0,
+      "score": 113.0,
+      "posted_ts": 1790849068,
+      "posted_at": "2026-10-01T10:04:28.828278+00:00"
+    },
+    {
+      "key": "mercadolivre:MLB5318221279",
+      "product_id": "MLB5318221279",
+      "catalog_product_id": "MLB28294404",
+      "item_id": "MLB5318221279",
+      "url": "https://www.mercadolivre.com.br/p/MLB28294404?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB28294404?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "kidan mix racao cachorro rigorosamente balanceado 15kg",
+      "title": "Kidan Mix ração cachorro rigorosamente balanceado 15kg",
+      "category": "Pet",
+      "price": 112.21,
+      "score": 113.0,
+      "posted_ts": 1790848991,
+      "posted_at": "2026-10-01T10:03:11.285726+00:00"
+    },
+    {
       "key": "mercadolivre:MLB6405166350",
       "product_id": "MLB6405166350",
       "catalog_product_id": "MLB48332910",
@@ -706,5 +736,5 @@
       "posted_at": "2026-09-29T10:05:10.998526+00:00"
     }
   ],
-  "updated_at": "2026-10-01T07:04:53.582785+00:00"
+  "updated_at": "2026-10-01T10:04:28.828288+00:00"
 }
