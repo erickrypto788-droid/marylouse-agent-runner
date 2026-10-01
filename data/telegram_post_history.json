@@ -1,6 +1,20 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB6884302164",
+      "marketplace": "mercadolivre",
+      "id": "MLB6884302164",
+      "title": "Rack Yescasa Rack para TV até 70\" jatoba terroso de mdp",
+      "title_norm": "rack yescasa rack para tv ate 70 jatoba terroso de mdp",
+      "url": "https://www.mercadolivre.com.br/p/MLB70627275?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB70627275?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Casa e Cozinha",
+      "bucket": "casa_e_cozinha",
+      "posted_ts": 1790870648,
+      "posted_at": "2026-10-01T16:04:08.808560+00:00",
+      "score": 82.57
+    },
+    {
       "key": "shopee:47353036643",
       "marketplace": "shopee",
       "id": "47353036643",
@@ -13985,21 +13999,7 @@
       "posted_ts": 1790093957,
       "posted_at": "2026-09-22T16:19:17.108799+00:00",
       "score": 76.21
-    },
-    {
-      "key": "shopee:58216163636",
-      "marketplace": "shopee",
-      "id": "58216163636",
-      "title": "Bota Coturno Masculino Adventure De Qualidade e Barato Envio no Mesmo dia",
-      "title_norm": "bota coturno masculino adventure de qualidade e barato envio no mesmo dia",
-      "url": "https://shopee.com.br/product/1771998887/58216163636",
-      "affiliate_url": "https://s.shopee.com.br/9V1fuz8eKJ",
-      "category": "HF_LOJA_3",
-      "bucket": "calcados",
-      "posted_ts": 1790093892,
-      "posted_at": "2026-09-22T16:18:12.783620+00:00",
-      "score": 76.58
     }
   ],
-  "updated_at": "2026-10-01T15:21:11.270550+00:00"
+  "updated_at": "2026-10-01T16:04:08.808575+00:00"
 }
