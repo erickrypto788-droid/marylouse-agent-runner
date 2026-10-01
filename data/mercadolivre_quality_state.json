@@ -1,6 +1,36 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB5761840078",
+      "product_id": "MLB5761840078",
+      "catalog_product_id": "MLB54682297",
+      "item_id": "MLB5761840078",
+      "url": "https://www.mercadolivre.com.br/p/MLB54682297?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB54682297?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "tecido suplex bege bras tecidos 2m liso para moda fitness",
+      "title": "Tecido Suplex Bege Brás Tecidos 2m Liso para Moda Fitness",
+      "category": "Esportes",
+      "price": 58.7,
+      "score": 77.68,
+      "posted_ts": 1790867063,
+      "posted_at": "2026-10-01T15:04:23.365595+00:00"
+    },
+    {
+      "key": "mercadolivre:MLB5747632298",
+      "product_id": "MLB5747632298",
+      "catalog_product_id": "MLB58174814",
+      "item_id": "MLB5747632298",
+      "url": "https://www.mercadolivre.com.br/p/MLB58174814?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB58174814?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "calca legging redutora miracle belt cor preto tamanho pp",
+      "title": "Calça Legging Redutora Miracle Belt Cor Preto Tamanho Pp",
+      "category": "Moda Feminina",
+      "price": 260.91,
+      "score": 101.33,
+      "posted_ts": 1790866998,
+      "posted_at": "2026-10-01T15:03:18.381153+00:00"
+    },
+    {
       "key": "mercadolivre:MLB6442123488",
       "product_id": "MLB6442123488",
       "catalog_product_id": "MLB65794107",
@@ -614,22 +644,7 @@
       "score": 133.63,
       "posted_ts": 1790704957,
       "posted_at": "2026-09-29T18:02:37.053980+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB6714509354",
-      "product_id": "MLB6714509354",
-      "catalog_product_id": "MLB69134972",
-      "item_id": "MLB6714509354",
-      "url": "https://www.mercadolivre.com.br/p/MLB69134972?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB69134972?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "luva academia musculacao fitness tamanho p",
-      "title": "Luva Academia Musculação Fitness Tamanho P",
-      "category": "Esportes",
-      "price": 35.25,
-      "score": 82.71,
-      "posted_ts": 1790694173,
-      "posted_at": "2026-09-29T15:02:53.803064+00:00"
     }
   ],
-  "updated_at": "2026-10-01T14:10:04.125487+00:00"
+  "updated_at": "2026-10-01T15:04:23.365611+00:00"
 }

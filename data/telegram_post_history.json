@@ -1,6 +1,34 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB5761840078",
+      "marketplace": "mercadolivre",
+      "id": "MLB5761840078",
+      "title": "Tecido Suplex Bege Brás Tecidos 2m Liso para Moda Fitness",
+      "title_norm": "tecido suplex bege bras tecidos 2m liso para moda fitness",
+      "url": "https://www.mercadolivre.com.br/p/MLB54682297?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB54682297?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Esportes",
+      "bucket": "esportes",
+      "posted_ts": 1790867063,
+      "posted_at": "2026-10-01T15:04:23.350851+00:00",
+      "score": 77.68
+    },
+    {
+      "key": "mercadolivre:MLB5747632298",
+      "marketplace": "mercadolivre",
+      "id": "MLB5747632298",
+      "title": "Calça Legging Redutora Miracle Belt Cor Preto Tamanho Pp",
+      "title_norm": "calca legging redutora miracle belt cor preto tamanho pp",
+      "url": "https://www.mercadolivre.com.br/p/MLB58174814?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB58174814?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Moda Feminina",
+      "bucket": "moda_feminina",
+      "posted_ts": 1790866998,
+      "posted_at": "2026-10-01T15:03:18.365340+00:00",
+      "score": 101.33
+    },
+    {
       "key": "shopee:23998684746",
       "marketplace": "shopee",
       "id": "23998684746",
@@ -13971,35 +13999,7 @@
       "posted_ts": 1790090302,
       "posted_at": "2026-09-22T15:18:22.104326+00:00",
       "score": 114.03
-    },
-    {
-      "key": "shopee:52660324546",
-      "marketplace": "shopee",
-      "id": "52660324546",
-      "title": "Blusa Manga 3/4 Feminina Elegante Casual Detalhe em V Moda Evangica Duna Social Básica Várias Cores",
-      "title_norm": "blusa manga 3 4 feminina elegante casual detalhe em v moda evangica duna social basica varias cores",
-      "url": "https://shopee.com.br/product/1167945223/52660324546",
-      "affiliate_url": "https://s.shopee.com.br/9AOpSFlOzI",
-      "category": "six fashion",
-      "bucket": "six_fashion",
-      "posted_ts": 1790090232,
-      "posted_at": "2026-09-22T15:17:12.827948+00:00",
-      "score": 135.04
-    },
-    {
-      "key": "shopee:55913136538",
-      "marketplace": "shopee",
-      "id": "55913136538",
-      "title": "Jogo Grand Theft Auto VI Edição Standard - PS5",
-      "title_norm": "jogo grand theft auto vi edicao standard ps5",
-      "url": "https://shopee.com.br/product/413072701/55913136538",
-      "affiliate_url": "https://s.shopee.com.br/4qFqE9ZFSf",
-      "category": "Webfones Express",
-      "bucket": "webfones_express",
-      "posted_ts": 1790086677,
-      "posted_at": "2026-09-22T14:17:57.249684+00:00",
-      "score": 20.5
     }
   ],
-  "updated_at": "2026-10-01T14:21:12.627380+00:00"
+  "updated_at": "2026-10-01T15:04:23.350868+00:00"
 }
