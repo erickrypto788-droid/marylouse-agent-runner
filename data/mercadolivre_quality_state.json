@@ -1,6 +1,36 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB6405166350",
+      "product_id": "MLB6405166350",
+      "catalog_product_id": "MLB48332910",
+      "item_id": "MLB6405166350",
+      "url": "https://www.mercadolivre.com.br/p/MLB48332910?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB48332910?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "redmi note 14s cor preto",
+      "title": "Redmi Note 14s Cor Preto",
+      "category": "Informática",
+      "price": 1649.0,
+      "score": 108.0,
+      "posted_ts": 1790838293,
+      "posted_at": "2026-10-01T07:04:53.582769+00:00"
+    },
+    {
+      "key": "mercadolivre:MLB7651756034",
+      "product_id": "MLB7651756034",
+      "catalog_product_id": "MLB39957733",
+      "item_id": "MLB7651756034",
+      "url": "https://www.mercadolivre.com.br/p/MLB39957733?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB39957733?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "smartphone samsung galaxy s23 256gb preto",
+      "title": "Smartphone Samsung Galaxy S23 256gb Preto",
+      "category": "Informática",
+      "price": 3999.0,
+      "score": 124.0,
+      "posted_ts": 1790838197,
+      "posted_at": "2026-10-01T07:03:17.577154+00:00"
+    },
+    {
       "key": "mercadolivre:MLB5209357839",
       "product_id": "MLB5209357839",
       "catalog_product_id": "MLB76143330",
@@ -674,37 +704,7 @@
       "score": 130.0,
       "posted_ts": 1790676310,
       "posted_at": "2026-09-29T10:05:10.998526+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB5468706054",
-      "product_id": "MLB5468706054",
-      "catalog_product_id": "MLB51901869",
-      "item_id": "MLB5468706054",
-      "url": "https://www.mercadolivre.com.br/p/MLB51901869?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB51901869?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "baba eletronica hellobaby hb65 2 monitor bebe 3 2 branco",
-      "title": "Babá Eletrônica Hellobaby Hb65-2 Monitor Bebê 3.2 Branco",
-      "category": "Informática",
-      "price": 655.99,
-      "score": 86.0,
-      "posted_ts": 1790665415,
-      "posted_at": "2026-09-29T07:03:35.931547+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB6555948878",
-      "product_id": "MLB6555948878",
-      "catalog_product_id": "MLB22588098",
-      "item_id": "MLB6555948878",
-      "url": "https://www.mercadolivre.com.br/p/MLB22588098?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB22588098?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "racao gato castrado frango 12 anos 500g premier",
-      "title": "Ração Gato Castrado Frango +12 Anos 500g Premier",
-      "category": "Pet",
-      "price": 41.36,
-      "score": 129.0,
-      "posted_ts": 1790661807,
-      "posted_at": "2026-09-29T06:03:27.174568+00:00"
     }
   ],
-  "updated_at": "2026-10-01T05:03:45.765524+00:00"
+  "updated_at": "2026-10-01T07:04:53.582785+00:00"
 }
