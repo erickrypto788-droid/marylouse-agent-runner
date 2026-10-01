@@ -1,6 +1,36 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB6198484798",
+      "product_id": "MLB6198484798",
+      "catalog_product_id": "MLB42822160",
+      "item_id": "MLB6198484798",
+      "url": "https://www.mercadolivre.com.br/p/MLB42822160?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB42822160?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "roteador wifi maxlink ac1200g 10pc",
+      "title": "Roteador Wifi Maxlink Ac1200g (10pc)",
+      "category": "Informática",
+      "price": 265.85,
+      "score": 88.0,
+      "posted_ts": 1790892247,
+      "posted_at": "2026-10-01T22:04:07.915198+00:00"
+    },
+    {
+      "key": "mercadolivre:MLB5237564467",
+      "product_id": "MLB5237564467",
+      "catalog_product_id": "MLB37332939",
+      "item_id": "MLB5237564467",
+      "url": "https://www.mercadolivre.com.br/p/MLB37332939?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB37332939?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "ssd nvme m 2 256gb pm9b1",
+      "title": "Ssd nvme M.2 256gb PM9B1",
+      "category": "Informática",
+      "price": 346.0,
+      "score": 111.0,
+      "posted_ts": 1790892183,
+      "posted_at": "2026-10-01T22:03:03.619711+00:00"
+    },
+    {
       "key": "mercadolivre:MLB6574930760",
       "product_id": "MLB6574930760",
       "catalog_product_id": "MLB67606890",
@@ -644,37 +674,7 @@
       "score": 149.85,
       "posted_ts": 1790726573,
       "posted_at": "2026-09-30T00:02:53.278936+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB5026800457",
-      "product_id": "MLB5026800457",
-      "catalog_product_id": "MLB20643765",
-      "item_id": "MLB5026800457",
-      "url": "https://www.mercadolivre.com.br/p/MLB20643765?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB20643765?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "carregador iphone tipo usb c cor branco",
-      "title": "Carregador iPhone Tipo USB-C Cor Branco",
-      "category": "Informática",
-      "price": 349.99,
-      "score": 127.0,
-      "posted_ts": 1790715869,
-      "posted_at": "2026-09-29T21:04:29.903868+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB5129093619",
-      "product_id": "MLB5129093619",
-      "catalog_product_id": "MLB78262248",
-      "item_id": "MLB5129093619",
-      "url": "https://www.mercadolivre.com.br/p/MLB78262248?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB78262248?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "celulares smartphones 6 78 polegadas celular 5g 16gb 512gb camera hd 32mpx 18mpx bateria 5000mah celular baratinho",
-      "title": "celulares smartphones 6.78 Polegadas celular 5g 16GB+512GB Câmera HD 32Mpx+18Mpx Bateria 5000mAh celular baratinho",
-      "category": "Informática",
-      "price": 1380.0,
-      "score": 195.37,
-      "posted_ts": 1790715800,
-      "posted_at": "2026-09-29T21:03:20.176703+00:00"
     }
   ],
-  "updated_at": "2026-10-01T21:02:37.309240+00:00"
+  "updated_at": "2026-10-01T22:04:07.915208+00:00"
 }

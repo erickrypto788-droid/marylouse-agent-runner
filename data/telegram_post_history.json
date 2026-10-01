@@ -1,6 +1,34 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB6198484798",
+      "marketplace": "mercadolivre",
+      "id": "MLB6198484798",
+      "title": "Roteador Wifi Maxlink Ac1200g (10pc)",
+      "title_norm": "roteador wifi maxlink ac1200g 10pc",
+      "url": "https://www.mercadolivre.com.br/p/MLB42822160?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB42822160?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Informática",
+      "bucket": "informatica",
+      "posted_ts": 1790892247,
+      "posted_at": "2026-10-01T22:04:07.899095+00:00",
+      "score": 88.0
+    },
+    {
+      "key": "mercadolivre:MLB5237564467",
+      "marketplace": "mercadolivre",
+      "id": "MLB5237564467",
+      "title": "Ssd nvme M.2 256gb PM9B1",
+      "title_norm": "ssd nvme m 2 256gb pm9b1",
+      "url": "https://www.mercadolivre.com.br/p/MLB37332939?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB37332939?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Informática",
+      "bucket": "informatica",
+      "posted_ts": 1790892183,
+      "posted_at": "2026-10-01T22:03:03.605094+00:00",
+      "score": 111.0
+    },
+    {
       "key": "shopee:18398124948",
       "marketplace": "shopee",
       "id": "18398124948",
@@ -13971,35 +13999,7 @@
       "posted_ts": 1790122824,
       "posted_at": "2026-09-23T00:20:24.097882+00:00",
       "score": 103.87
-    },
-    {
-      "key": "shopee:23994836650",
-      "marketplace": "shopee",
-      "id": "23994836650",
-      "title": "Kit 4 Peças 2 Conjunto Infantil Bebê Menino Verão Algodão Promoção 2 Camisas + 2 Shorts Envio Sortido",
-      "title_norm": "kit 4 pecas 2 conjunto infantil bebe menino verao algodao promocao 2 camisas 2 shorts envio sortido",
-      "url": "https://shopee.com.br/product/1253552940/23994836650",
-      "affiliate_url": "https://s.shopee.com.br/1LfyivNsxb",
-      "category": "Rosa Azul K",
-      "bucket": "rosa_azul_k",
-      "posted_ts": 1790122760,
-      "posted_at": "2026-09-23T00:19:20.085755+00:00",
-      "score": 104.03
-    },
-    {
-      "key": "shopee:23197595875",
-      "marketplace": "shopee",
-      "id": "23197595875",
-      "title": "SANDÁLIA Cartago BABY MASCULINO SLIDE PERCATA MILÃO LANÇAMENTO",
-      "title_norm": "sandalia cartago baby masculino slide percata milao lancamento",
-      "url": "https://shopee.com.br/product/857483479/23197595875",
-      "affiliate_url": "https://s.shopee.com.br/8plzeiD054",
-      "category": "Juliashoes-ns",
-      "bucket": "calcados",
-      "posted_ts": 1790122693,
-      "posted_at": "2026-09-23T00:18:13.885659+00:00",
-      "score": 116.77
     }
   ],
-  "updated_at": "2026-10-01T21:22:31.517307+00:00"
+  "updated_at": "2026-10-01T22:04:07.899110+00:00"
 }
