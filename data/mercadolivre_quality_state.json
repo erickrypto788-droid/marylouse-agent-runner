@@ -1,6 +1,36 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB7733943626",
+      "product_id": "MLB7733943626",
+      "catalog_product_id": "MLB65973005",
+      "item_id": "MLB7733943626",
+      "url": "https://www.mercadolivre.com.br/p/MLB65973005?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB65973005?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "celular samsung galaxy a06 5g preto",
+      "title": "Celular Samsung Galaxy A06 5g Preto",
+      "category": "Informática",
+      "price": 899.0,
+      "score": 127.0,
+      "posted_ts": 1790964250,
+      "posted_at": "2026-10-02T18:04:10.608803+00:00"
+    },
+    {
+      "key": "mercadolivre:MLB5919313906",
+      "product_id": "MLB5919313906",
+      "catalog_product_id": "MLB24099360",
+      "item_id": "MLB5919313906",
+      "url": "https://www.mercadolivre.com.br/p/MLB24099360?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB24099360?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "carregador portatil 20000mah bahrein power bank universal power bank carga rapida com display bahrein compativel com todos celulares iphone android ios apple xiaomi samsung motorola",
+      "title": "Carregador Portátil 20000mAh Bahrein Power Bank Universal Power Bank Carga Rápida Com Display Bahrein Compatível Com Todos Celulares Iphone Android IOS apple xiaomi Samsung Motorola",
+      "category": "Informática",
+      "price": 64.24,
+      "score": 160.37,
+      "posted_ts": 1790964186,
+      "posted_at": "2026-10-02T18:03:06.395804+00:00"
+    },
+    {
       "key": "mercadolivre:MLB4660765859",
       "product_id": "MLB4660765859",
       "catalog_product_id": "MLB69073417",
@@ -584,22 +614,7 @@
       "score": 141.22,
       "posted_ts": 1790802347,
       "posted_at": "2026-09-30T21:05:47.039132+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB4974714813",
-      "product_id": "MLB4974714813",
-      "catalog_product_id": "MLB66844874",
-      "item_id": "MLB4974714813",
-      "url": "https://www.mercadolivre.com.br/p/MLB66844874?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB66844874?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "racao gato estimacat premium filhote sabor frango 10kg",
-      "title": "Ração Gato Estimacat Premium Filhote Sabor Frango 10kg",
-      "category": "Pet",
-      "price": 253.07,
-      "score": 154.83,
-      "posted_ts": 1790787763,
-      "posted_at": "2026-09-30T17:02:43.729202+00:00"
     }
   ],
-  "updated_at": "2026-10-02T16:03:19.478471+00:00"
+  "updated_at": "2026-10-02T18:04:10.608816+00:00"
 }
