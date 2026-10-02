@@ -1,6 +1,21 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB5095655201",
+      "product_id": "MLB5095655201",
+      "catalog_product_id": "MLB50110319",
+      "item_id": "MLB5095655201",
+      "url": "https://www.mercadolivre.com.br/p/MLB50110319?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB50110319?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "impressora etiquetas codigo barras 1 000 etiquetas cor branco",
+      "title": "Impressora Etiquetas Código Barras + 1.000 Etiquetas Cor Branco",
+      "category": "Informática",
+      "price": 422.05,
+      "score": 96.4,
+      "posted_ts": 1790917378,
+      "posted_at": "2026-10-02T05:02:58.858700+00:00"
+    },
+    {
       "key": "mercadolivre:MLB4302548173",
       "product_id": "MLB4302548173",
       "catalog_product_id": "MLB44164135",
@@ -629,67 +644,7 @@
       "score": 88.0,
       "posted_ts": 1790744626,
       "posted_at": "2026-09-30T05:03:46.474733+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB3649165215",
-      "product_id": "MLB3649165215",
-      "catalog_product_id": "MLB35368172",
-      "item_id": "MLB3649165215",
-      "url": "https://www.mercadolivre.com.br/p/MLB35368172?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB35368172?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "arroz jasmine tailandes aromatico 1kg arroz de altitude",
-      "title": "Arroz Jasmine Tailandês Aromático 1kg Arroz De Altitude",
-      "category": "Supermercados",
-      "price": 21.56,
-      "score": 78.68,
-      "posted_ts": 1790741334,
-      "posted_at": "2026-09-30T04:08:54.751955+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB5281214491",
-      "product_id": "MLB5281214491",
-      "catalog_product_id": "MLB50178919",
-      "item_id": "MLB5281214491",
-      "url": "https://www.mercadolivre.com.br/p/MLB50178919?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB50178919?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "kaisasa shampoo tonalizante para cobrir cabelo cinzento shampoo cabelo branco shampoo barba shampoo redutor grisalhos shampoo tonalizante preto hair dye shampoo black hair dye 500ml preto",
-      "title": "Kaisasa Shampoo Tonalizante Para Cobrir Cabelo Cinzento，shampoo cabelo branco，shampoo barba，shampoo redutor grisalhos，shampoo tonalizante preto，hair dye shampoo，black hair dye，500ml-Preto",
-      "category": "Beleza",
-      "price": 189.9,
-      "score": 88.0,
-      "posted_ts": 1790741270,
-      "posted_at": "2026-09-30T04:07:50.280295+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB5532475634",
-      "product_id": "MLB5532475634",
-      "catalog_product_id": "MLB53217462",
-      "item_id": "MLB5532475634",
-      "url": "https://www.mercadolivre.com.br/p/MLB53217462?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB53217462?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "miniatura creme dental 15g",
-      "title": "Miniatura Creme Dental 15g",
-      "category": "Supermercados",
-      "price": 179.89,
-      "score": 89.0,
-      "posted_ts": 1790741206,
-      "posted_at": "2026-09-30T04:06:46.263675+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB4189107767",
-      "product_id": "MLB4189107767",
-      "catalog_product_id": "MLB54332454",
-      "item_id": "MLB4189107767",
-      "url": "https://www.mercadolivre.com.br/p/MLB54332454?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB54332454?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "azeite oliva extra virgem italiano 500ml mercatto",
-      "title": "Azeite Oliva Extra Virgem Italiano 500ml Mercatto",
-      "category": "Supermercados",
-      "price": 54.92,
-      "score": 116.39,
-      "posted_ts": 1790741129,
-      "posted_at": "2026-09-30T04:05:29.797478+00:00"
     }
   ],
-  "updated_at": "2026-10-02T03:02:29.272301+00:00"
+  "updated_at": "2026-10-02T05:02:58.858708+00:00"
 }

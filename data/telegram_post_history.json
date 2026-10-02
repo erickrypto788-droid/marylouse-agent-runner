@@ -1,6 +1,20 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB5095655201",
+      "marketplace": "mercadolivre",
+      "id": "MLB5095655201",
+      "title": "Impressora Etiquetas Código Barras + 1.000 Etiquetas Cor Branco",
+      "title_norm": "impressora etiquetas codigo barras 1 000 etiquetas cor branco",
+      "url": "https://www.mercadolivre.com.br/p/MLB50110319?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB50110319?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Informática",
+      "bucket": "informatica",
+      "posted_ts": 1790917378,
+      "posted_at": "2026-10-02T05:02:58.849948+00:00",
+      "score": 96.4
+    },
+    {
       "key": "shopee:58255239538",
       "marketplace": "shopee",
       "id": "58255239538",
@@ -13985,21 +13999,7 @@
       "posted_ts": 1790146987,
       "posted_at": "2026-09-23T07:03:07.049845+00:00",
       "score": 124.33
-    },
-    {
-      "key": "shopee:18077247106",
-      "marketplace": "shopee",
-      "id": "18077247106",
-      "title": "Mochila Unissex para Viagem Cabo de Aço Reforçado Resistente Elegantes Moderno RC9801",
-      "title_norm": "mochila unissex para viagem cabo de aco reforcado resistente elegantes moderno rc9801",
-      "url": "https://shopee.com.br/product/379659209/18077247106",
-      "affiliate_url": "https://s.shopee.com.br/5LC7szwlx8",
-      "category": "magiaworld",
-      "bucket": "bolsas",
-      "posted_ts": 1790144406,
-      "posted_at": "2026-09-23T06:20:06.804632+00:00",
-      "score": 85.32
     }
   ],
-  "updated_at": "2026-10-02T04:18:01.669677+00:00"
+  "updated_at": "2026-10-02T05:02:58.849961+00:00"
 }
