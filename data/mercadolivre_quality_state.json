@@ -1,6 +1,36 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB5501712742",
+      "product_id": "MLB5501712742",
+      "catalog_product_id": "MLB21090695",
+      "item_id": "MLB5501712742",
+      "url": "https://www.mercadolivre.com.br/p/MLB21090695?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB21090695?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "estojo magnetico da serie crystal para iphone 13 iphone 13 pro iphone 13 pro max iphone 14 iphone 14 pro iphone 14 pro max",
+      "title": "Estojo magnético da série Crystal para iPhone 13, iPhone 13 Pro, iPhone 13 Pro Max, iPhone 14, iPhone 14 Pro, iPhone 14 Pro Max",
+      "category": "Informática",
+      "price": 99.9,
+      "score": 114.0,
+      "posted_ts": 1790899413,
+      "posted_at": "2026-10-02T00:03:33.843885+00:00"
+    },
+    {
+      "key": "mercadolivre:MLB4867137953",
+      "product_id": "MLB4867137953",
+      "catalog_product_id": "MLB75208845",
+      "item_id": "MLB4867137953",
+      "url": "https://www.mercadolivre.com.br/p/MLB75208845?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB75208845?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "celular 5g smartphone 16gb 512gb rom dimensity 7200 impressao digital android 15",
+      "title": "Celular 5g Smartphone 16gb/512gb Rom Dimensity 7200 Impressão Digital Android 15",
+      "category": "Informática",
+      "price": 1380.0,
+      "score": 206.47,
+      "posted_ts": 1790899349,
+      "posted_at": "2026-10-02T00:02:29.915277+00:00"
+    },
+    {
       "key": "mercadolivre:MLB6198484798",
       "product_id": "MLB6198484798",
       "catalog_product_id": "MLB42822160",
@@ -659,22 +689,7 @@
       "score": 114.0,
       "posted_ts": 1790730164,
       "posted_at": "2026-09-30T01:02:44.462814+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB4694661245",
-      "product_id": "MLB4694661245",
-      "catalog_product_id": "MLB67529462",
-      "item_id": "MLB4694661245",
-      "url": "https://www.mercadolivre.com.br/p/MLB67529462?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB67529462?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "comedouro elevado duplo racao gato porcelana acrilico 190ml porta racao gato comedouro rosa",
-      "title": "Comedouro Elevado Duplo Ração Gato Porcelana Acrilico 190ml Porta Racao Gato Comedouro Rosa",
-      "category": "Pet",
-      "price": 47.64,
-      "score": 149.85,
-      "posted_ts": 1790726573,
-      "posted_at": "2026-09-30T00:02:53.278936+00:00"
     }
   ],
-  "updated_at": "2026-10-01T22:04:07.915208+00:00"
+  "updated_at": "2026-10-02T00:03:33.843899+00:00"
 }

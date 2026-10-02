@@ -1,6 +1,34 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB5501712742",
+      "marketplace": "mercadolivre",
+      "id": "MLB5501712742",
+      "title": "Estojo magnético da série Crystal para iPhone 13, iPhone 13 Pro, iPhone 13 Pro Max, iPhone 14, iPhone 14 Pro, iPhone 14 Pro Max",
+      "title_norm": "estojo magnetico da serie crystal para iphone 13 iphone 13 pro iphone 13 pro max iphone 14 iphone 14 pro iphone 14 pro max",
+      "url": "https://www.mercadolivre.com.br/p/MLB21090695?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB21090695?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Informática",
+      "bucket": "celulares",
+      "posted_ts": 1790899413,
+      "posted_at": "2026-10-02T00:03:33.830080+00:00",
+      "score": 114.0
+    },
+    {
+      "key": "mercadolivre:MLB4867137953",
+      "marketplace": "mercadolivre",
+      "id": "MLB4867137953",
+      "title": "Celular 5g Smartphone 16gb/512gb Rom Dimensity 7200 Impressão Digital Android 15",
+      "title_norm": "celular 5g smartphone 16gb 512gb rom dimensity 7200 impressao digital android 15",
+      "url": "https://www.mercadolivre.com.br/p/MLB75208845?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB75208845?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Informática",
+      "bucket": "celulares",
+      "posted_ts": 1790899349,
+      "posted_at": "2026-10-02T00:02:29.901644+00:00",
+      "score": 206.47
+    },
+    {
       "key": "shopee:58218079550",
       "marketplace": "shopee",
       "id": "58218079550",
@@ -13971,35 +13999,7 @@
       "posted_ts": 1790129816,
       "posted_at": "2026-09-23T02:16:56.196106+00:00",
       "score": 103.38
-    },
-    {
-      "key": "mercadolivre:MLB5175310031",
-      "marketplace": "mercadolivre",
-      "id": "MLB5175310031",
-      "title": "Jogo Panelas Vermelho Alumínio Fundido Usinado Javaliam16a24",
-      "title_norm": "jogo panelas vermelho aluminio fundido usinado javaliam16a24",
-      "url": "https://www.mercadolivre.com.br/p/MLB32583536?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB32583536?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "category": "Casa e Cozinha",
-      "bucket": "casa_cozinha",
-      "posted_ts": 1790129085,
-      "posted_at": "2026-09-23T02:04:45.016197+00:00",
-      "score": 111.0
-    },
-    {
-      "key": "mercadolivre:MLB6582939094",
-      "marketplace": "mercadolivre",
-      "id": "MLB6582939094",
-      "title": "Jogo Panelas Grandes Conjunto Caçarolas 40cm - 2 Un Alumínio",
-      "title_norm": "jogo panelas grandes conjunto cacarolas 40cm 2 un aluminio",
-      "url": "https://www.mercadolivre.com.br/p/MLB67685128?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB67685128?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "category": "Casa e Cozinha",
-      "bucket": "casa_cozinha",
-      "posted_ts": 1790129015,
-      "posted_at": "2026-09-23T02:03:35.571164+00:00",
-      "score": 111.0
     }
   ],
-  "updated_at": "2026-10-01T23:21:08.857888+00:00"
+  "updated_at": "2026-10-02T00:03:33.830111+00:00"
 }
