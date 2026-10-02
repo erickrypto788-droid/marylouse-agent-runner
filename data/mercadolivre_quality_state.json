@@ -1,6 +1,21 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB7270317978",
+      "product_id": "MLB7270317978",
+      "catalog_product_id": "MLB75817587",
+      "item_id": "MLB7270317978",
+      "url": "https://www.mercadolivre.com.br/p/MLB75817587?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB75817587?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "prancha esteira ergometrica deck multipla t3000 preto",
+      "title": "Prancha Esteira Ergométrica Deck Múltipla T3000 Preto",
+      "category": "Esportes",
+      "price": 270.57,
+      "score": 103.53,
+      "posted_ts": 1790942582,
+      "posted_at": "2026-10-02T12:03:02.126870+00:00"
+    },
+    {
       "key": "mercadolivre:MLB6582939094",
       "product_id": "MLB6582939094",
       "catalog_product_id": "MLB67685128",
@@ -584,52 +599,7 @@
       "score": 111.0,
       "posted_ts": 1790769841,
       "posted_at": "2026-09-30T12:04:01.483632+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB6149389980",
-      "product_id": "MLB6149389980",
-      "catalog_product_id": "MLB37180897",
-      "item_id": "MLB6149389980",
-      "url": "https://www.mercadolivre.com.br/p/MLB37180897?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB37180897?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "kit furadeira e parafusadeira com parafusadeira dewalt modelo dck200me2gt 2 baterias 20v",
-      "title": "Kit Furadeira e Parafusadeira com Parafusadeira Dewalt Modelo DCK200ME2GT 2 Baterias 20V",
-      "category": "Ferramentas",
-      "price": 2999.0,
-      "score": 109.0,
-      "posted_ts": 1790766354,
-      "posted_at": "2026-09-30T11:05:54.888962+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB4773133945",
-      "product_id": "MLB4773133945",
-      "catalog_product_id": "MLB70110890",
-      "item_id": "MLB4773133945",
-      "url": "https://www.mercadolivre.com.br/p/MLB70110890?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB70110890?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "kit ferramentas furadeira esmerilhadeira parafusadeira",
-      "title": "Kit Ferramentas Furadeira Esmerilhadeira Parafusadeira",
-      "category": "Ferramentas",
-      "price": 804.63,
-      "score": 147.67,
-      "posted_ts": 1790766284,
-      "posted_at": "2026-09-30T11:04:44.650979+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB7725552452",
-      "product_id": "MLB7725552452",
-      "catalog_product_id": "MLB80064803",
-      "item_id": "MLB7725552452",
-      "url": "https://www.mercadolivre.com.br/p/MLB80064803?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB80064803?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "brushless parafusadeira furadeira e parafusadeira brushless parafusadeira e furadeira kit parafusadeira 21v com impacto profissional 1750r min 65n m com 2 bateria",
-      "title": "Brushless Parafusadeira Furadeira e Parafusadeira Brushless Parafusadeira e Furadeira Kit Parafusadeira 21V Com Impacto Profissional 1750r/min 65N.m Com 2 Bateria",
-      "category": "Ferramentas",
-      "price": 206.18,
-      "score": 169.3,
-      "posted_ts": 1790766214,
-      "posted_at": "2026-09-30T11:03:34.587987+00:00"
     }
   ],
-  "updated_at": "2026-10-02T10:03:27.464084+00:00"
+  "updated_at": "2026-10-02T12:03:02.126879+00:00"
 }

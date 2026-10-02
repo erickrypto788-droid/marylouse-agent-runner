@@ -1,6 +1,20 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB7270317978",
+      "marketplace": "mercadolivre",
+      "id": "MLB7270317978",
+      "title": "Prancha Esteira Ergométrica Deck Múltipla T3000 Preto",
+      "title_norm": "prancha esteira ergometrica deck multipla t3000 preto",
+      "url": "https://www.mercadolivre.com.br/p/MLB75817587?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB75817587?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Esportes",
+      "bucket": "esportes",
+      "posted_ts": 1790942582,
+      "posted_at": "2026-10-02T12:03:02.116667+00:00",
+      "score": 103.53
+    },
+    {
       "key": "shopee:23993814406",
       "marketplace": "shopee",
       "id": "23993814406",
@@ -13985,21 +13999,7 @@
       "posted_ts": 1790180354,
       "posted_at": "2026-09-23T16:19:14.023740+00:00",
       "score": 102.27
-    },
-    {
-      "key": "shopee:23899333842",
-      "marketplace": "shopee",
-      "id": "23899333842",
-      "title": "Smartphone Motorola Moto G06 4G 256GB 4GB RAM Câmera Traseira 50MP + Câmera Frontal 8MP Tela de 6,9\" 5200 mAh -  Bege",
-      "title_norm": "smartphone motorola moto g06 4g 256gb 4gb ram camera traseira 50mp camera frontal 8mp tela de 6 9 5200 mah bege",
-      "url": "https://shopee.com.br/product/1602856616/23899333842",
-      "affiliate_url": "https://s.shopee.com.br/5LC8YCh1Pf",
-      "category": "MOBCOM STORE",
-      "bucket": "celulares",
-      "posted_ts": 1790180286,
-      "posted_at": "2026-09-23T16:18:06.182851+00:00",
-      "score": 104.36
     }
   ],
-  "updated_at": "2026-10-02T11:21:19.222655+00:00"
+  "updated_at": "2026-10-02T12:03:02.116682+00:00"
 }
