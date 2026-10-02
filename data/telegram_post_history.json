@@ -1,6 +1,48 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB5827798066",
+      "marketplace": "mercadolivre",
+      "id": "MLB5827798066",
+      "title": "Kit Papel Toalha Interfolha Supremo E Papel Toalha Mili",
+      "title_norm": "kit papel toalha interfolha supremo e papel toalha mili",
+      "url": "https://www.mercadolivre.com.br/p/MLB47658528?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB47658528?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Supermercados",
+      "bucket": "supermercados",
+      "posted_ts": 1790928587,
+      "posted_at": "2026-10-02T08:09:47.006587+00:00",
+      "score": 98.67
+    },
+    {
+      "key": "mercadolivre:MLB5827152542",
+      "marketplace": "mercadolivre",
+      "id": "MLB5827152542",
+      "title": "Amaciante Roupas Macias Sensiv Titila 5l",
+      "title_norm": "amaciante roupas macias sensiv titila 5l",
+      "url": "https://www.mercadolivre.com.br/p/MLB60416491?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB60416491?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Supermercados",
+      "bucket": "supermercado",
+      "posted_ts": 1790928519,
+      "posted_at": "2026-10-02T08:08:39.274077+00:00",
+      "score": 103.67
+    },
+    {
+      "key": "mercadolivre:MLB7190286922",
+      "marketplace": "mercadolivre",
+      "id": "MLB7190286922",
+      "title": "Luminária Foguete Lava Bolha Todas As Cores Decoração Retrô",
+      "title_norm": "luminaria foguete lava bolha todas as cores decoracao retro",
+      "url": "https://www.mercadolivre.com.br/p/MLB75541518?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB75541518?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Pet",
+      "bucket": "pet",
+      "posted_ts": 1790928430,
+      "posted_at": "2026-10-02T08:07:10.478294+00:00",
+      "score": 149.67
+    },
+    {
       "key": "shopee:23597915053",
       "marketplace": "shopee",
       "id": "23597915053",
@@ -13957,49 +13999,7 @@
       "posted_ts": 1790155368,
       "posted_at": "2026-09-23T09:22:48.910008+00:00",
       "score": 100.44
-    },
-    {
-      "key": "shopee:54806921695",
-      "marketplace": "shopee",
-      "id": "54806921695",
-      "title": "Rejuvex Ultra Life In - Colágeno + Biotina + Retinol + Ácido Hialurônico | Pele Firme e Saudável",
-      "title_norm": "rejuvex ultra life in colageno biotina retinol acido hialuronico pele firme e saudavel",
-      "url": "https://shopee.com.br/product/1641032792/54806921695",
-      "affiliate_url": "https://s.shopee.com.br/60Rosd0AlP",
-      "category": "Life In Capsulas SP Oficial",
-      "bucket": "life_in_capsulas_sp_oficial",
-      "posted_ts": 1790155304,
-      "posted_at": "2026-09-23T09:21:44.947913+00:00",
-      "score": 112.59
-    },
-    {
-      "key": "shopee:9319243207",
-      "marketplace": "shopee",
-      "id": "9319243207",
-      "title": "Hidratante Creme Facial Pele De Porcelana Kokeshi 30g Milagre do Arroz",
-      "title_norm": "hidratante creme facial pele de porcelana kokeshi 30g milagre do arroz",
-      "url": "https://shopee.com.br/product/395166866/9319243207",
-      "affiliate_url": "https://s.shopee.com.br/7ptT3zorVR",
-      "category": "KOKESHI OFICIAL",
-      "bucket": "kokeshi_oficial",
-      "posted_ts": 1790155240,
-      "posted_at": "2026-09-23T09:20:40.970509+00:00",
-      "score": 117.09
-    },
-    {
-      "key": "shopee:22497186627",
-      "marketplace": "shopee",
-      "id": "22497186627",
-      "title": "Pré Treino Evolution 300g Soldiers Nutrition Pre Workout Termogênico Energia Foco Resistência Academia",
-      "title_norm": "pre treino evolution 300g soldiers nutrition pre workout termogenico energia foco resistencia academia",
-      "url": "https://shopee.com.br/product/347988064/22497186627",
-      "affiliate_url": "https://s.shopee.com.br/9V1h33mqf0",
-      "category": "Soldiers Nutrition",
-      "bucket": "soldiers_nutrition",
-      "posted_ts": 1790155176,
-      "posted_at": "2026-09-23T09:19:36.963145+00:00",
-      "score": 119.84
     }
   ],
-  "updated_at": "2026-10-02T07:20:23.091021+00:00"
+  "updated_at": "2026-10-02T08:09:47.006602+00:00"
 }
