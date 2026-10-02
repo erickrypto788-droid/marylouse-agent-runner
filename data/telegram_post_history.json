@@ -1,6 +1,20 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB4660765859",
+      "marketplace": "mercadolivre",
+      "id": "MLB4660765859",
+      "title": "Modem 4g Lte Mini Roteador Wifi Usb Portátil Cor Preto",
+      "title_norm": "modem 4g lte mini roteador wifi usb portatil cor preto",
+      "url": "https://www.mercadolivre.com.br/p/MLB69073417?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB69073417?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Informática",
+      "bucket": "informatica",
+      "posted_ts": 1790956999,
+      "posted_at": "2026-10-02T16:03:19.467205+00:00",
+      "score": 148.67
+    },
+    {
       "key": "shopee:22298016858",
       "marketplace": "shopee",
       "id": "22298016858",
@@ -13985,21 +13999,7 @@
       "posted_ts": 1790187678,
       "posted_at": "2026-09-23T18:21:18.620539+00:00",
       "score": 63.62
-    },
-    {
-      "key": "shopee:22898980977",
-      "marketplace": "shopee",
-      "id": "22898980977",
-      "title": "Principia Kit Duo c/ 2 Protetores Solares Faciais - PS-01 FPS 60",
-      "title_norm": "principia kit duo c 2 protetores solares faciais ps 01 fps 60",
-      "url": "https://shopee.com.br/product/373261329/22898980977",
-      "affiliate_url": "https://s.shopee.com.br/7Admrornym",
-      "category": "Principia Skincare",
-      "bucket": "principia_skincare",
-      "posted_ts": 1790187614,
-      "posted_at": "2026-09-23T18:20:14.072419+00:00",
-      "score": 68.93
     }
   ],
-  "updated_at": "2026-10-02T15:21:08.680712+00:00"
+  "updated_at": "2026-10-02T16:03:19.467221+00:00"
 }

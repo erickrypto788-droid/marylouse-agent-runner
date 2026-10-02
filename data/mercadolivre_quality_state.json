@@ -1,6 +1,21 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB4660765859",
+      "product_id": "MLB4660765859",
+      "catalog_product_id": "MLB69073417",
+      "item_id": "MLB4660765859",
+      "url": "https://www.mercadolivre.com.br/p/MLB69073417?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB69073417?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "modem 4g lte mini roteador wifi usb portatil cor preto",
+      "title": "Modem 4g Lte Mini Roteador Wifi Usb Portátil Cor Preto",
+      "category": "Informática",
+      "price": 149.4,
+      "score": 148.67,
+      "posted_ts": 1790956999,
+      "posted_at": "2026-10-02T16:03:19.478460+00:00"
+    },
+    {
       "key": "mercadolivre:MLB6223026490",
       "product_id": "MLB6223026490",
       "catalog_product_id": "MLB29263256",
@@ -584,22 +599,7 @@
       "score": 154.83,
       "posted_ts": 1790787763,
       "posted_at": "2026-09-30T17:02:43.729202+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB7609027366",
-      "product_id": "MLB7609027366",
-      "catalog_product_id": "MLB59103594",
-      "item_id": "MLB7609027366",
-      "url": "https://www.mercadolivre.com.br/p/MLB59103594?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB59103594?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "smartphone xiaomi 15t 5g 12 12gb ram 512gb cinza",
-      "title": "Smartphone Xiaomi 15t 5g 12+12gb Ram + 512gb, Cinza",
-      "category": "Informática",
-      "price": 4950.0,
-      "score": 124.0,
-      "posted_ts": 1790776980,
-      "posted_at": "2026-09-30T14:03:00.777858+00:00"
     }
   ],
-  "updated_at": "2026-10-02T13:02:41.117450+00:00"
+  "updated_at": "2026-10-02T16:03:19.478471+00:00"
 }
