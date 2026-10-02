@@ -1,6 +1,34 @@
 {
   "posts": [
     {
+      "key": "shopee:58264690361",
+      "marketplace": "shopee",
+      "id": "58264690361",
+      "title": "Sandália Feminina Rasteirinha Luxo com Strass Brilho Confortável Casual",
+      "title_norm": "sandalia feminina rasteirinha luxo com strass brilho confortavel casual",
+      "url": "https://shopee.com.br/product/388005801/58264690361",
+      "affiliate_url": "https://s.shopee.com.br/1ApkyO2ov",
+      "category": "Sandálias Taty",
+      "bucket": "calcados",
+      "posted_ts": 1790983078,
+      "posted_at": "2026-10-02T23:17:58.703458+00:00",
+      "score": 99.1
+    },
+    {
+      "key": "shopee:18398664230",
+      "marketplace": "shopee",
+      "id": "18398664230",
+      "title": "Bota Coturno Feminino Com Ziper Tratorada Blogueira Cano Curto Confortável",
+      "title_norm": "bota coturno feminino com ziper tratorada blogueira cano curto confortavel",
+      "url": "https://shopee.com.br/product/1017583864/18398664230",
+      "affiliate_url": "https://s.shopee.com.br/80D8XxmIoT",
+      "category": "Rosária Calçados ",
+      "bucket": "calcados",
+      "posted_ts": 1790983006,
+      "posted_at": "2026-10-02T23:16:46.316773+00:00",
+      "score": 99.92
+    },
+    {
       "key": "shopee:53660327247",
       "marketplace": "shopee",
       "id": "53660327247",
@@ -13971,35 +13999,7 @@
       "posted_ts": 1790211839,
       "posted_at": "2026-09-24T01:03:59.377495+00:00",
       "score": 111.0
-    },
-    {
-      "key": "shopee:23394245720",
-      "marketplace": "shopee",
-      "id": "23394245720",
-      "title": "Capa Case Pasta Notebook de 14 ate  17 polegadas Super Reforçada Alça Acolchoada Premium",
-      "title_norm": "capa case pasta notebook de 14 ate 17 polegadas super reforcada alca acolchoada premium",
-      "url": "https://shopee.com.br/product/969935385/23394245720",
-      "affiliate_url": "https://s.shopee.com.br/1qcGujZcSi",
-      "category": "GL Utilidadess",
-      "bucket": "informatica",
-      "posted_ts": 1790209197,
-      "posted_at": "2026-09-24T00:19:57.902652+00:00",
-      "score": 62.18
-    },
-    {
-      "key": "shopee:11298889483",
-      "marketplace": "shopee",
-      "id": "11298889483",
-      "title": "Kit chinelo Luiza Liz e necessaire bolsa de mão pequena kit dia a dia blogueira",
-      "title_norm": "kit chinelo luiza liz e necessaire bolsa de mao pequena kit dia a dia blogueira",
-      "url": "https://shopee.com.br/product/333046879/11298889483",
-      "affiliate_url": "https://s.shopee.com.br/1gIqiQerM4",
-      "category": "Luiza Liz calçados",
-      "bucket": "calcados",
-      "posted_ts": 1790209133,
-      "posted_at": "2026-09-24T00:18:53.949865+00:00",
-      "score": 92.87
     }
   ],
-  "updated_at": "2026-10-02T22:18:25.686333+00:00"
+  "updated_at": "2026-10-02T23:17:58.703473+00:00"
 }
