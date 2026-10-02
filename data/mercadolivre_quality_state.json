@@ -1,6 +1,36 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB5697892498",
+      "product_id": "MLB5697892498",
+      "catalog_product_id": "MLB56081727",
+      "item_id": "MLB5697892498",
+      "url": "https://www.mercadolivre.com.br/p/MLB56081727?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB56081727?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "body modelador nayane short feminino cor cristal tamanho eg",
+      "title": "Body Modelador Nayane Short Feminino Cor Cristal Tamanho EG",
+      "category": "Moda Feminina",
+      "price": 151.7,
+      "score": 88.0,
+      "posted_ts": 1790931894,
+      "posted_at": "2026-10-02T09:04:54.851765+00:00"
+    },
+    {
+      "key": "mercadolivre:MLB7079122650",
+      "product_id": "MLB7079122650",
+      "catalog_product_id": "MLB74851412",
+      "item_id": "MLB7079122650",
+      "url": "https://www.mercadolivre.com.br/p/MLB74851412?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB74851412?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "conjunto feminino alfaiataria bermuda blusa elegante peplum conjunto feminino bege",
+      "title": "Conjunto Feminino Alfaiataria Bermuda Blusa Elegante Peplum Conjunto Feminino Bege",
+      "category": "Moda Feminina",
+      "price": 208.9,
+      "score": 97.67,
+      "posted_ts": 1790931824,
+      "posted_at": "2026-10-02T09:03:44.065312+00:00"
+    },
+    {
       "key": "mercadolivre:MLB5827798066",
       "product_id": "MLB5827798066",
       "catalog_product_id": "MLB47658528",
@@ -599,37 +629,7 @@
       "score": 88.0,
       "posted_ts": 1790759115,
       "posted_at": "2026-09-30T09:05:15.879360+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB5205515547",
-      "product_id": "MLB5205515547",
-      "catalog_product_id": "MLB77998394",
-      "item_id": "MLB5205515547",
-      "url": "https://www.mercadolivre.com.br/p/MLB77998394?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB77998394?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "escova secadora",
-      "title": "Escova Secadora",
-      "category": "Beleza",
-      "price": 209.9,
-      "score": 113.0,
-      "posted_ts": 1790759043,
-      "posted_at": "2026-09-30T09:04:03.730218+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB6340337640",
-      "product_id": "MLB6340337640",
-      "catalog_product_id": "MLB37838163",
-      "item_id": "MLB6340337640",
-      "url": "https://www.mercadolivre.com.br/p/MLB37838163?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB37838163?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "chapinha cabelo nano titanium azul resultados",
-      "title": "Chapinha Cabelo Nano Titanium Azul , Resultados",
-      "category": "Beleza",
-      "price": 114.46,
-      "score": 113.0,
-      "posted_ts": 1790758976,
-      "posted_at": "2026-09-30T09:02:56.010622+00:00"
     }
   ],
-  "updated_at": "2026-10-02T08:09:47.019810+00:00"
+  "updated_at": "2026-10-02T09:04:54.851779+00:00"
 }
