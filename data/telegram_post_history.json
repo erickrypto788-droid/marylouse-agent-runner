@@ -1,6 +1,48 @@
 {
   "posts": [
     {
+      "key": "shopee:23997182498",
+      "marketplace": "shopee",
+      "id": "23997182498",
+      "title": "Kit com 2 Pares de Palmilha Ortopédica em Gel Para Várias Horas de Trabalho Alivia Dores Confortável",
+      "title_norm": "kit com 2 pares de palmilha ortopedica em gel para varias horas de trabalho alivia dores confortavel",
+      "url": "https://shopee.com.br/product/468703210/23997182498",
+      "affiliate_url": "https://s.shopee.com.br/gQWU4avFm",
+      "category": "Luxo Real",
+      "bucket": "luxo_real",
+      "posted_ts": 1790911132,
+      "posted_at": "2026-10-02T03:18:52.469451+00:00",
+      "score": 54.51
+    },
+    {
+      "key": "shopee:20199249608",
+      "marketplace": "shopee",
+      "id": "20199249608",
+      "title": "Tenis Sapatilha Masculino Casual Aquatico de Trilha Impermeável Com Solado Costurado E Elastico Ajustável",
+      "title_norm": "tenis sapatilha masculino casual aquatico de trilha impermeavel com solado costurado e elastico ajustavel",
+      "url": "https://shopee.com.br/product/1246015756/20199249608",
+      "affiliate_url": "https://s.shopee.com.br/BUFt9YQWD",
+      "category": "ShopShooes",
+      "bucket": "calcados",
+      "posted_ts": 1790911068,
+      "posted_at": "2026-10-02T03:17:48.471207+00:00",
+      "score": 100.12
+    },
+    {
+      "key": "shopee:58210080994",
+      "marketplace": "shopee",
+      "id": "58210080994",
+      "title": "Tênis Masculino Cadarço Elástico Sapatênis Meia Knit Couro Sintético Tecido",
+      "title_norm": "tenis masculino cadarco elastico sapatenis meia knit couro sintetico tecido",
+      "url": "https://shopee.com.br/product/1788702793/58210080994",
+      "affiliate_url": "https://s.shopee.com.br/40gySCSlnK",
+      "category": "Shop da Ca",
+      "bucket": "calcados",
+      "posted_ts": 1790911004,
+      "posted_at": "2026-10-02T03:16:44.445271+00:00",
+      "score": 112.5
+    },
+    {
       "key": "mercadolivre:MLB4302548173",
       "marketplace": "mercadolivre",
       "id": "MLB4302548173",
@@ -13957,49 +13999,7 @@
       "posted_ts": 1790144278,
       "posted_at": "2026-09-23T06:17:58.635613+00:00",
       "score": 116.69
-    },
-    {
-      "key": "shopee:22999054525",
-      "marketplace": "shopee",
-      "id": "22999054525",
-      "title": "Mochila de Couro Executiva Impermeável Reforçada com Porta USB e Fone para Notebook Viagem e Trabalho",
-      "title_norm": "mochila de couro executiva impermeavel reforcada com porta usb e fone para notebook viagem e trabalho",
-      "url": "https://shopee.com.br/product/1658947107/22999054525",
-      "affiliate_url": "https://s.shopee.com.br/AAHNdsidRN",
-      "category": "RON CHANG",
-      "bucket": "informatica",
-      "posted_ts": 1790144207,
-      "posted_at": "2026-09-23T06:16:47.187741+00:00",
-      "score": 124.8
-    },
-    {
-      "key": "shopee:10648848842",
-      "marketplace": "shopee",
-      "id": "10648848842",
-      "title": "Mala Case Capa Bolsa Porta Case Notebook Slim 14,6/15,6 Alça Dupla Reforçada",
-      "title_norm": "mala case capa bolsa porta case notebook slim 14 6 15 6 alca dupla reforcada",
-      "url": "https://shopee.com.br/product/391712221/10648848842",
-      "affiliate_url": "https://s.shopee.com.br/3g3tpoZvU7",
-      "category": "Street Man",
-      "bucket": "informatica",
-      "posted_ts": 1790140734,
-      "posted_at": "2026-09-23T05:18:54.400528+00:00",
-      "score": 77.79
-    },
-    {
-      "key": "shopee:7895885450",
-      "marketplace": "shopee",
-      "id": "7895885450",
-      "title": "Bolsa Feminina Pequena De Lado Transversal Alça Corrente Lançamento",
-      "title_norm": "bolsa feminina pequena de lado transversal alca corrente lancamento",
-      "url": "https://shopee.com.br/product/310142566/7895885450",
-      "affiliate_url": "https://s.shopee.com.br/9peXB98Fzv",
-      "category": "Debora Ribeiro Bolsas Oficial",
-      "bucket": "bolsas",
-      "posted_ts": 1790140670,
-      "posted_at": "2026-09-23T05:17:50.302677+00:00",
-      "score": 101.27
     }
   ],
-  "updated_at": "2026-10-02T03:02:29.259286+00:00"
+  "updated_at": "2026-10-02T03:18:52.469466+00:00"
 }
