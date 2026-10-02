@@ -1,6 +1,20 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB6406780222",
+      "marketplace": "mercadolivre",
+      "id": "MLB6406780222",
+      "title": "Ração Premier Pet Vitta Natural Ração Cachorro Adulto 15k",
+      "title_norm": "racao premier pet vitta natural racao cachorro adulto 15k",
+      "url": "https://www.mercadolivre.com.br/p/MLB32106098?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB32106098?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Pet",
+      "bucket": "pet",
+      "posted_ts": 1790974963,
+      "posted_at": "2026-10-02T21:02:43.375554+00:00",
+      "score": 129.0
+    },
+    {
       "key": "shopee:23199384962",
       "marketplace": "shopee",
       "id": "23199384962",
@@ -13985,21 +13999,7 @@
       "posted_ts": 1790205501,
       "posted_at": "2026-09-23T23:18:21.623557+00:00",
       "score": 67.77
-    },
-    {
-      "key": "shopee:44915338553",
-      "marketplace": "shopee",
-      "id": "44915338553",
-      "title": "Tapete Higiênico Para Cachorro 50 Unidades 50x60cm Com Gel Absorvente Fralda Manta Pet Cão",
-      "title_norm": "tapete higienico para cachorro 50 unidades 50x60cm com gel absorvente fralda manta pet cao",
-      "url": "https://shopee.com.br/product/1505860882/44915338553",
-      "affiliate_url": "https://s.shopee.com.br/6fhWbW168b",
-      "category": "Usual Mix",
-      "bucket": "fraldas",
-      "posted_ts": 1790205432,
-      "posted_at": "2026-09-23T23:17:12.979368+00:00",
-      "score": 110.01
     }
   ],
-  "updated_at": "2026-10-02T20:21:25.767696+00:00"
+  "updated_at": "2026-10-02T21:02:43.375568+00:00"
 }
