@@ -1,6 +1,34 @@
 {
   "posts": [
     {
+      "key": "shopee:58255239538",
+      "marketplace": "shopee",
+      "id": "58255239538",
+      "title": "Chinelo BABUCHE PLATAFORMA ALTA NUVEM MACIA 100 % DECORADA COM BÓTONS PINGENTES EM ABS CONFORTÁVELSandália Confortável",
+      "title_norm": "chinelo babuche plataforma alta nuvem macia 100 decorada com botons pingentes em abs confortavelsandalia confortavel",
+      "url": "https://shopee.com.br/product/1509055233/58255239538",
+      "affiliate_url": "https://s.shopee.com.br/7faGt3hrhj",
+      "category": "X&M Variedades",
+      "bucket": "calcados",
+      "posted_ts": 1790914681,
+      "posted_at": "2026-10-02T04:18:01.669661+00:00",
+      "score": 104.01
+    },
+    {
+      "key": "shopee:58201437353",
+      "marketplace": "shopee",
+      "id": "58201437353",
+      "title": "Sandália Rasteira Feminina Gladiadora Tachas Douradas e Prateadas Tira no Tornozelo Fivela Ajustável",
+      "title_norm": "sandalia rasteira feminina gladiadora tachas douradas e prateadas tira no tornozelo fivela ajustavel",
+      "url": "https://shopee.com.br/product/1679452756/58201437353",
+      "affiliate_url": "https://s.shopee.com.br/9V1v4QnsXs",
+      "category": "rosecoutinhoshoes",
+      "bucket": "calcados",
+      "posted_ts": 1790914610,
+      "posted_at": "2026-10-02T04:16:50.717617+00:00",
+      "score": 107.51
+    },
+    {
       "key": "shopee:23997182498",
       "marketplace": "shopee",
       "id": "23997182498",
@@ -13971,35 +13999,7 @@
       "posted_ts": 1790144406,
       "posted_at": "2026-09-23T06:20:06.804632+00:00",
       "score": 85.32
-    },
-    {
-      "key": "shopee:22694672050",
-      "marketplace": "shopee",
-      "id": "22694672050",
-      "title": "KIT Sapato Masculino Italiano Casual Versátil Formal Classico Esporte Fino + cinto + carteira + relogio",
-      "title_norm": "kit sapato masculino italiano casual versatil formal classico esporte fino cinto carteira relogio",
-      "url": "https://shopee.com.br/product/400392100/22694672050",
-      "affiliate_url": "https://s.shopee.com.br/70KLs3z5cr",
-      "category": "Shoee Store",
-      "bucket": "calcados",
-      "posted_ts": 1790144342,
-      "posted_at": "2026-09-23T06:19:02.758831+00:00",
-      "score": 91.62
-    },
-    {
-      "key": "shopee:22092313748",
-      "marketplace": "shopee",
-      "id": "22092313748",
-      "title": "Calças Sarja Masculina Jeans Colorido Slim Oferta especial de fábrica de vendas diretas bolsa de faca",
-      "title_norm": "calcas sarja masculina jeans colorido slim oferta especial de fabrica de vendas diretas bolsa de faca",
-      "url": "https://shopee.com.br/product/602589166/22092313748",
-      "affiliate_url": "https://s.shopee.com.br/9AOqS2i2fQ",
-      "category": "Sucesso Em Variedades shop",
-      "bucket": "bolsas",
-      "posted_ts": 1790144278,
-      "posted_at": "2026-09-23T06:17:58.635613+00:00",
-      "score": 116.69
     }
   ],
-  "updated_at": "2026-10-02T03:18:52.469466+00:00"
+  "updated_at": "2026-10-02T04:18:01.669677+00:00"
 }
