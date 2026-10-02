@@ -1,6 +1,48 @@
 {
   "posts": [
     {
+      "key": "shopee:22497089311",
+      "marketplace": "shopee",
+      "id": "22497089311",
+      "title": "Mochila Masculina Bolsa Feminina Notebook Escolar Resistente Oferta",
+      "title_norm": "mochila masculina bolsa feminina notebook escolar resistente oferta",
+      "url": "https://shopee.com.br/product/752743341/22497089311",
+      "affiliate_url": "https://s.shopee.com.br/4VdFiKJumV",
+      "category": "Fenix Abdon",
+      "bucket": "informatica",
+      "posted_ts": 1790947135,
+      "posted_at": "2026-10-02T13:18:55.413730+00:00",
+      "score": 92.01
+    },
+    {
+      "key": "shopee:7895885450",
+      "marketplace": "shopee",
+      "id": "7895885450",
+      "title": "Bolsa Feminina Pequena De Lado Transversal Alça Corrente Lançamento",
+      "title_norm": "bolsa feminina pequena de lado transversal alca corrente lancamento",
+      "url": "https://shopee.com.br/product/310142566/7895885450",
+      "affiliate_url": "https://s.shopee.com.br/1AqM3SJdq",
+      "category": "Debora Ribeiro Bolsas Oficial",
+      "bucket": "bolsas",
+      "posted_ts": 1790947071,
+      "posted_at": "2026-10-02T13:17:51.500077+00:00",
+      "score": 104.39
+    },
+    {
+      "key": "shopee:20399869941",
+      "marketplace": "shopee",
+      "id": "20399869941",
+      "title": "Bolsa de Praia Feminina Alça de Corda Elegante Grande e Resistente",
+      "title_norm": "bolsa de praia feminina alca de corda elegante grande e resistente",
+      "url": "https://shopee.com.br/product/1448484843/20399869941",
+      "affiliate_url": "https://s.shopee.com.br/113NXtOVc4",
+      "category": "YL.BR.BOLSAS",
+      "bucket": "bolsas",
+      "posted_ts": 1790947007,
+      "posted_at": "2026-10-02T13:16:47.641336+00:00",
+      "score": 105.72
+    },
+    {
       "key": "mercadolivre:MLB6223026490",
       "marketplace": "mercadolivre",
       "id": "MLB6223026490",
@@ -13957,49 +13999,7 @@
       "posted_ts": 1790184003,
       "posted_at": "2026-09-23T17:20:03.673521+00:00",
       "score": 86.09
-    },
-    {
-      "key": "shopee:57205646686",
-      "marketplace": "shopee",
-      "id": "57205646686",
-      "title": "Fritadeira Air Fryer Itatiaia 3,5 Litros 127V Sem Óleo",
-      "title_norm": "fritadeira air fryer itatiaia 3 5 litros 127v sem oleo",
-      "url": "https://shopee.com.br/product/1494297971/57205646686",
-      "affiliate_url": "https://s.shopee.com.br/qjjG3I8IO",
-      "category": "BESTBYBRASILGOLD",
-      "bucket": "casa_cozinha",
-      "posted_ts": 1790183939,
-      "posted_at": "2026-09-23T17:18:59.618157+00:00",
-      "score": 104.09
-    },
-    {
-      "key": "shopee:23597334946",
-      "marketplace": "shopee",
-      "id": "23597334946",
-      "title": "Liquidificador Britânia 900W 2,6L 4 Velocidades Preto BLQE01",
-      "title_norm": "liquidificador britania 900w 2 6l 4 velocidades preto blqe01",
-      "url": "https://shopee.com.br/product/811879342/23597334946",
-      "affiliate_url": "https://s.shopee.com.br/40gl1sAgTX",
-      "category": "Britânia Oficial",
-      "bucket": "casa_cozinha",
-      "posted_ts": 1790183875,
-      "posted_at": "2026-09-23T17:17:55.238897+00:00",
-      "score": 108.76
-    },
-    {
-      "key": "shopee:58202615709",
-      "marketplace": "shopee",
-      "id": "58202615709",
-      "title": "MINI Refrigerador De Ar Ventilador Umidificador Dupla Giratório+rgb Camada Ventilador Climatizador Ar C/ Reservatório",
-      "title_norm": "mini refrigerador de ar ventilador umidificador dupla giratorio rgb camada ventilador climatizador ar c reservatorio",
-      "url": "https://shopee.com.br/product/1103946075/58202615709",
-      "affiliate_url": "https://s.shopee.com.br/5LC8cKEGlF",
-      "category": "JX VERDE",
-      "bucket": "jx_verde",
-      "posted_ts": 1790183810,
-      "posted_at": "2026-09-23T17:16:50.494088+00:00",
-      "score": 126.86
     }
   ],
-  "updated_at": "2026-10-02T13:02:41.107421+00:00"
+  "updated_at": "2026-10-02T13:18:55.413747+00:00"
 }
