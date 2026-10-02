@@ -1,6 +1,21 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB6223026490",
+      "product_id": "MLB6223026490",
+      "catalog_product_id": "MLB29263256",
+      "item_id": "MLB6223026490",
+      "url": "https://www.mercadolivre.com.br/p/MLB29263256?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB29263256?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "lizz aparelho aparador pelos eletrico navalhete profissional",
+      "title": "Lizz Aparelho Aparador Pelos Elétrico Navalhete Profissional",
+      "category": "Beleza",
+      "price": 89.9,
+      "score": 88.0,
+      "posted_ts": 1790946161,
+      "posted_at": "2026-10-02T13:02:41.117436+00:00"
+    },
+    {
       "key": "mercadolivre:MLB7270317978",
       "product_id": "MLB7270317978",
       "catalog_product_id": "MLB75817587",
@@ -584,22 +599,7 @@
       "score": 124.0,
       "posted_ts": 1790776980,
       "posted_at": "2026-09-30T14:03:00.777858+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB5312148151",
-      "product_id": "MLB5312148151",
-      "catalog_product_id": "MLB23697502",
-      "item_id": "MLB5312148151",
-      "url": "https://www.mercadolivre.com.br/p/MLB23697502?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB23697502?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "ssd 1tb m 2 2280 sata",
-      "title": "Ssd 1tb M.2 2280 Sata",
-      "category": "Informática",
-      "price": 709.0,
-      "score": 111.0,
-      "posted_ts": 1790769841,
-      "posted_at": "2026-09-30T12:04:01.483632+00:00"
     }
   ],
-  "updated_at": "2026-10-02T12:03:02.126879+00:00"
+  "updated_at": "2026-10-02T13:02:41.117450+00:00"
 }
