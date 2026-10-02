@@ -1,6 +1,20 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB6582939094",
+      "marketplace": "mercadolivre",
+      "id": "MLB6582939094",
+      "title": "Jogo Panelas Grandes Conjunto Caçarolas 40cm - 2 Un Alumínio",
+      "title_norm": "jogo panelas grandes conjunto cacarolas 40cm 2 un aluminio",
+      "url": "https://www.mercadolivre.com.br/p/MLB67685128?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB67685128?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Casa e Cozinha",
+      "bucket": "casa_cozinha",
+      "posted_ts": 1790935407,
+      "posted_at": "2026-10-02T10:03:27.453051+00:00",
+      "score": 111.0
+    },
+    {
       "key": "shopee:58261209291",
       "marketplace": "shopee",
       "id": "58261209291",
@@ -13985,21 +13999,7 @@
       "posted_ts": 1790168635,
       "posted_at": "2026-09-23T13:03:55.307897+00:00",
       "score": 123.34
-    },
-    {
-      "key": "mercadolivre:MLB4974714813",
-      "marketplace": "mercadolivre",
-      "id": "MLB4974714813",
-      "title": "Ração Gato Estimacat Premium Filhote Sabor Frango 10kg",
-      "title_norm": "racao gato estimacat premium filhote sabor frango 10kg",
-      "url": "https://www.mercadolivre.com.br/p/MLB66844874?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB66844874?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "category": "Pet",
-      "bucket": "pet",
-      "posted_ts": 1790168571,
-      "posted_at": "2026-09-23T13:02:51.034164+00:00",
-      "score": 154.83
     }
   ],
-  "updated_at": "2026-10-02T09:21:13.140652+00:00"
+  "updated_at": "2026-10-02T10:03:27.453069+00:00"
 }

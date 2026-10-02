@@ -1,6 +1,21 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB6582939094",
+      "product_id": "MLB6582939094",
+      "catalog_product_id": "MLB67685128",
+      "item_id": "MLB6582939094",
+      "url": "https://www.mercadolivre.com.br/p/MLB67685128?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB67685128?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "jogo panelas grandes conjunto cacarolas 40cm 2 un aluminio",
+      "title": "Jogo Panelas Grandes Conjunto Caçarolas 40cm - 2 Un Alumínio",
+      "category": "Casa e Cozinha",
+      "price": 397.61,
+      "score": 111.0,
+      "posted_ts": 1790935407,
+      "posted_at": "2026-10-02T10:03:27.464070+00:00"
+    },
+    {
       "key": "mercadolivre:MLB5697892498",
       "product_id": "MLB5697892498",
       "catalog_product_id": "MLB56081727",
@@ -614,22 +629,7 @@
       "score": 169.3,
       "posted_ts": 1790766214,
       "posted_at": "2026-09-30T11:03:34.587987+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB6392071978",
-      "product_id": "MLB6392071978",
-      "catalog_product_id": "MLB29763388",
-      "item_id": "MLB6392071978",
-      "url": "https://www.mercadolivre.com.br/p/MLB29763388?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB29763388?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "mini depilador eletrico aparador pelos corporal feminino",
-      "title": "Mini Depilador Elétrico Aparador Pelos Corporal Feminino",
-      "category": "Beleza",
-      "price": 36.9,
-      "score": 88.0,
-      "posted_ts": 1790759115,
-      "posted_at": "2026-09-30T09:05:15.879360+00:00"
     }
   ],
-  "updated_at": "2026-10-02T09:04:54.851779+00:00"
+  "updated_at": "2026-10-02T10:03:27.464084+00:00"
 }
