@@ -1,6 +1,21 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB4302548173",
+      "product_id": "MLB4302548173",
+      "catalog_product_id": "MLB44164135",
+      "item_id": "MLB4302548173",
+      "url": "https://www.mercadolivre.com.br/p/MLB44164135?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB44164135?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "comedouro automatico racao aquario terrario peixe tartaruga",
+      "title": "Comedouro Automático Ração Aquário Terrario Peixe Tartaruga",
+      "category": "Pet",
+      "price": 117.85,
+      "score": 137.09,
+      "posted_ts": 1790910149,
+      "posted_at": "2026-10-02T03:02:29.272292+00:00"
+    },
+    {
       "key": "mercadolivre:MLB5501712742",
       "product_id": "MLB5501712742",
       "catalog_product_id": "MLB21090695",
@@ -674,22 +689,7 @@
       "score": 116.39,
       "posted_ts": 1790741129,
       "posted_at": "2026-09-30T04:05:29.797478+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB4949684225",
-      "product_id": "MLB4949684225",
-      "catalog_product_id": "MLB75635951",
-      "item_id": "MLB4949684225",
-      "url": "https://www.mercadolivre.com.br/p/MLB75635951?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB75635951?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "fralda geriatrica prevent care tamanho fralda geriatrica prevent care m c 50",
-      "title": "Fralda Geriatrica Prevent Care Tamanho FRALDA GERIATRICA PREVENT CARE M C/50",
-      "category": "Mãe e Bebê",
-      "price": 112.9,
-      "score": 114.0,
-      "posted_ts": 1790730164,
-      "posted_at": "2026-09-30T01:02:44.462814+00:00"
     }
   ],
-  "updated_at": "2026-10-02T00:03:33.843899+00:00"
+  "updated_at": "2026-10-02T03:02:29.272301+00:00"
 }

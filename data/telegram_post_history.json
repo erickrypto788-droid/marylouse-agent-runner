@@ -1,6 +1,20 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB4302548173",
+      "marketplace": "mercadolivre",
+      "id": "MLB4302548173",
+      "title": "Comedouro Automático Ração Aquário Terrario Peixe Tartaruga",
+      "title_norm": "comedouro automatico racao aquario terrario peixe tartaruga",
+      "url": "https://www.mercadolivre.com.br/p/MLB44164135?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB44164135?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Pet",
+      "bucket": "pet",
+      "posted_ts": 1790910149,
+      "posted_at": "2026-10-02T03:02:29.259275+00:00",
+      "score": 137.09
+    },
+    {
       "key": "shopee:22898567954",
       "marketplace": "shopee",
       "id": "22898567954",
@@ -13985,21 +13999,7 @@
       "posted_ts": 1790140670,
       "posted_at": "2026-09-23T05:17:50.302677+00:00",
       "score": 101.27
-    },
-    {
-      "key": "shopee:23997726120",
-      "marketplace": "shopee",
-      "id": "23997726120",
-      "title": "ROMANTIC CROWN Mochila De Viagem Feminina Multifuncional Impermeável Reforçada Expansível para Trilha Esportiva",
-      "title_norm": "romantic crown mochila de viagem feminina multifuncional impermeavel reforcada expansivel para trilha esportiva",
-      "url": "https://shopee.com.br/product/1198407784/23997726120",
-      "affiliate_url": "https://s.shopee.com.br/W6s3zlyuA",
-      "category": "Romantic Crown.02",
-      "bucket": "bolsas",
-      "posted_ts": 1790140606,
-      "posted_at": "2026-09-23T05:16:46.300361+00:00",
-      "score": 118.68
     }
   ],
-  "updated_at": "2026-10-02T02:21:13.128798+00:00"
+  "updated_at": "2026-10-02T03:02:29.259286+00:00"
 }
