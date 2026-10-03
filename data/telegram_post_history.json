@@ -1,6 +1,62 @@
 {
   "posts": [
     {
+      "key": "shopee:23993933147",
+      "marketplace": "shopee",
+      "id": "23993933147",
+      "title": "Micro-ondas Britânia 20L Pintura Limpa Fácil BMO23",
+      "title_norm": "micro ondas britania 20l pintura limpa facil bmo23",
+      "url": "https://shopee.com.br/product/811879342/23993933147",
+      "affiliate_url": "https://s.shopee.com.br/3VkjJwH4Sy",
+      "category": "Britânia Oficial",
+      "bucket": "britania_oficial",
+      "posted_ts": 1790990402,
+      "posted_at": "2026-10-03T01:20:02.830499+00:00",
+      "score": 63.59
+    },
+    {
+      "key": "shopee:23099337262",
+      "marketplace": "shopee",
+      "id": "23099337262",
+      "title": "Liquidificador Britânia 2,6L 4 Velocidades Diamante 1100",
+      "title_norm": "liquidificador britania 2 6l 4 velocidades diamante 1100",
+      "url": "https://shopee.com.br/product/811879342/23099337262",
+      "affiliate_url": "https://s.shopee.com.br/9KiWGehb1a",
+      "category": "Britânia Oficial",
+      "bucket": "casa_cozinha",
+      "posted_ts": 1790990338,
+      "posted_at": "2026-10-03T01:18:58.742618+00:00",
+      "score": 105.26
+    },
+    {
+      "key": "shopee:23297589986",
+      "marketplace": "shopee",
+      "id": "23297589986",
+      "title": "Pipoqueira Elétrica Popcorn Maker 110V  Pipoca Sem Óleo",
+      "title_norm": "pipoqueira eletrica popcorn maker 110v pipoca sem oleo",
+      "url": "https://shopee.com.br/product/1053378287/23297589986",
+      "affiliate_url": "https://s.shopee.com.br/2LYlvnLVqw",
+      "category": "3XZ STORE",
+      "bucket": "3xz_store",
+      "posted_ts": 1790990274,
+      "posted_at": "2026-10-03T01:17:54.658387+00:00",
+      "score": 108.5
+    },
+    {
+      "key": "shopee:40830814218",
+      "marketplace": "shopee",
+      "id": "40830814218",
+      "title": "Aspirador De Pó Vertical 2 Em 1 Portátil Gaabor 650w",
+      "title_norm": "aspirador de po vertical 2 em 1 portatil gaabor 650w",
+      "url": "https://shopee.com.br/product/342086228/40830814218",
+      "affiliate_url": "https://s.shopee.com.br/gQXwjNaxV",
+      "category": "BUMPER MAGAZINE",
+      "bucket": "casa_cozinha",
+      "posted_ts": 1790990210,
+      "posted_at": "2026-10-03T01:16:50.615507+00:00",
+      "score": 112.43
+    },
+    {
       "key": "mercadolivre:MLB5118569459",
       "marketplace": "mercadolivre",
       "id": "MLB5118569459",
@@ -13943,63 +13999,7 @@
       "posted_ts": 1790219872,
       "posted_at": "2026-09-24T03:17:52.650664+00:00",
       "score": 89.05
-    },
-    {
-      "key": "shopee:56855656714",
-      "marketplace": "shopee",
-      "id": "56855656714",
-      "title": "Webcam com Microfone Full HD 1080p Giratória 360° Ajuste de Ângulo Livre para PC Notebook e Home Office",
-      "title_norm": "webcam com microfone full hd 1080p giratoria 360 ajuste de angulo livre para pc notebook e home office",
-      "url": "https://shopee.com.br/product/1354781962/56855656714",
-      "affiliate_url": "https://s.shopee.com.br/4LJc5gtSNP",
-      "category": "GigaEletronicos",
-      "bucket": "informatica",
-      "posted_ts": 1790219808,
-      "posted_at": "2026-09-24T03:16:48.559055+00:00",
-      "score": 125.42
-    },
-    {
-      "key": "mercadolivre:MLB4450293643",
-      "marketplace": "mercadolivre",
-      "id": "MLB4450293643",
-      "title": "Xiaomi POCO Poco X6 5G Dual SIM 256GB/12GB Branco",
-      "title_norm": "xiaomi poco poco x6 5g dual sim 256gb 12gb branco",
-      "url": "https://www.mercadolivre.com.br/p/MLB29728116?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB29728116?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "category": "Informática",
-      "bucket": "celulares",
-      "posted_ts": 1790219040,
-      "posted_at": "2026-09-24T03:04:00.560179+00:00",
-      "score": 124.0
-    },
-    {
-      "key": "mercadolivre:MLB4514530845",
-      "marketplace": "mercadolivre",
-      "id": "MLB4514530845",
-      "title": "Smartphone Samsung Galaxy S23 256gb Preto",
-      "title_norm": "smartphone samsung galaxy s23 256gb preto",
-      "url": "https://www.mercadolivre.com.br/p/MLB39957733?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB39957733?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "category": "Informática",
-      "bucket": "celulares",
-      "posted_ts": 1790218970,
-      "posted_at": "2026-09-24T03:02:50.853716+00:00",
-      "score": 124.0
-    },
-    {
-      "key": "shopee:23598815356",
-      "marketplace": "shopee",
-      "id": "23598815356",
-      "title": "Agenda para agendamento de clientes com páginas não datada",
-      "title_norm": "agenda para agendamento de clientes com paginas nao datada",
-      "url": "https://shopee.com.br/product/221799126/23598815356",
-      "affiliate_url": "https://s.shopee.com.br/6L4gPG9n9W",
-      "category": "PP Personalizado",
-      "bucket": "pp_personalizado",
-      "posted_ts": 1790216414,
-      "posted_at": "2026-09-24T02:20:14.426698+00:00",
-      "score": 62.31
     }
   ],
-  "updated_at": "2026-10-03T01:11:24.523677+00:00"
+  "updated_at": "2026-10-03T01:20:02.830513+00:00"
 }
