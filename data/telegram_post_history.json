@@ -1,6 +1,34 @@
 {
   "posts": [
     {
+      "key": "shopee:20697344113",
+      "marketplace": "shopee",
+      "id": "20697344113",
+      "title": "Aspirador de Pó Vertical Britânia 2 em 1 BAS1295P 1250W",
+      "title_norm": "aspirador de po vertical britania 2 em 1 bas1295p 1250w",
+      "url": "https://shopee.com.br/product/811879342/20697344113",
+      "affiliate_url": "https://s.shopee.com.br/8fSqjiYedW",
+      "category": "Britânia Oficial",
+      "bucket": "casa_cozinha",
+      "posted_ts": 1791058676,
+      "posted_at": "2026-10-03T20:17:56.021125+00:00",
+      "score": 97.62
+    },
+    {
+      "key": "shopee:23394548691",
+      "marketplace": "shopee",
+      "id": "23394548691",
+      "title": "Mini Panela elétrica     （110V  /  220V）",
+      "title_norm": "mini panela eletrica 110v 220v",
+      "url": "https://shopee.com.br/product/1388839852/23394548691",
+      "affiliate_url": "https://s.shopee.com.br/1qcVKsNPrn",
+      "category": "RIO CENTER BAZAR E COMERCIO LTDA",
+      "bucket": "casa_cozinha",
+      "posted_ts": 1791058611,
+      "posted_at": "2026-10-03T20:16:51.993950+00:00",
+      "score": 121.19
+    },
+    {
       "key": "shopee:58208462064",
       "marketplace": "shopee",
       "id": "58208462064",
@@ -13971,35 +13999,7 @@
       "posted_ts": 1790288419,
       "posted_at": "2026-09-24T22:20:19.244076+00:00",
       "score": 75.67
-    },
-    {
-      "key": "shopee:23599242375",
-      "marketplace": "shopee",
-      "id": "23599242375",
-      "title": "Kit 6 Canetas Marca Texto em Gel Masterprint Não Mancha Ideal para Bíblia Vade Mecum e Estudos",
-      "title_norm": "kit 6 canetas marca texto em gel masterprint nao mancha ideal para biblia vade mecum e estudos",
-      "url": "https://shopee.com.br/product/715277512/23599242375",
-      "affiliate_url": "https://s.shopee.com.br/7KxEvV5cGi",
-      "category": "LeleMix Variedades",
-      "bucket": "lelemix_variedades",
-      "posted_ts": 1790288350,
-      "posted_at": "2026-09-24T22:19:10.413629+00:00",
-      "score": 78.99
-    },
-    {
-      "key": "shopee:42513246102",
-      "marketplace": "shopee",
-      "id": "42513246102",
-      "title": "1 Par De Lentes De Contato Coloridas Envio Do Brasil PATTAYA-GREEN Com Estojo Para Uso Anual , Rápido",
-      "title_norm": "1 par de lentes de contato coloridas envio do brasil pattaya green com estojo para uso anual rapido",
-      "url": "https://shopee.com.br/product/1489642475/42513246102",
-      "affiliate_url": "https://s.shopee.com.br/2gBPMvABNd",
-      "category": "eyesharebrazil.br",
-      "bucket": "eyesharebrazil_br",
-      "posted_ts": 1790288286,
-      "posted_at": "2026-09-24T22:18:06.162900+00:00",
-      "score": 90.43
     }
   ],
-  "updated_at": "2026-10-03T19:21:57.820008+00:00"
+  "updated_at": "2026-10-03T20:17:56.021138+00:00"
 }
