@@ -1,6 +1,20 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB7209916106",
+      "marketplace": "mercadolivre",
+      "id": "MLB7209916106",
+      "title": "Ssd Nvme 512gb Ceamere",
+      "title_norm": "ssd nvme 512gb ceamere",
+      "url": "https://www.mercadolivre.com.br/p/MLB24511655?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB24511655?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Informática",
+      "bucket": "informatica",
+      "posted_ts": 1791018175,
+      "posted_at": "2026-10-03T09:02:55.435468+00:00",
+      "score": 111.0
+    },
+    {
       "key": "shopee:23194993945",
       "marketplace": "shopee",
       "id": "23194993945",
@@ -13985,21 +13999,7 @@
       "posted_ts": 1790248682,
       "posted_at": "2026-09-24T11:18:02.379388+00:00",
       "score": 126.68
-    },
-    {
-      "key": "shopee:20798323083",
-      "marketplace": "shopee",
-      "id": "20798323083",
-      "title": "Power Bank 10000mAh para iPhone: Turbo Carregamento Sem Fio Magnético, Compacto e Alta Potência",
-      "title_norm": "power bank 10000mah para iphone turbo carregamento sem fio magnetico compacto e alta potencia",
-      "url": "https://shopee.com.br/product/1562705368/20798323083",
-      "affiliate_url": "https://s.shopee.com.br/5LC9oUVCMI",
-      "category": "Nex.Shop",
-      "bucket": "celulares",
-      "posted_ts": 1790248612,
-      "posted_at": "2026-09-24T11:16:52.226192+00:00",
-      "score": 128.53
     }
   ],
-  "updated_at": "2026-10-03T08:19:57.600298+00:00"
+  "updated_at": "2026-10-03T09:02:55.435480+00:00"
 }

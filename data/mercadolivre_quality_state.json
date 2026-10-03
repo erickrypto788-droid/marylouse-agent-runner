@@ -1,6 +1,21 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB7209916106",
+      "product_id": "MLB7209916106",
+      "catalog_product_id": "MLB24511655",
+      "item_id": "MLB7209916106",
+      "url": "https://www.mercadolivre.com.br/p/MLB24511655?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB24511655?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "ssd nvme 512gb ceamere",
+      "title": "Ssd Nvme 512gb Ceamere",
+      "category": "Informática",
+      "price": 524.0,
+      "score": 111.0,
+      "posted_ts": 1791018175,
+      "posted_at": "2026-10-03T09:02:55.449399+00:00"
+    },
+    {
       "key": "mercadolivre:MLB7574008638",
       "product_id": "MLB7574008638",
       "catalog_product_id": "MLB76876185",
@@ -614,37 +629,7 @@
       "score": 113.0,
       "posted_ts": 1790848991,
       "posted_at": "2026-10-01T10:03:11.285726+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB6405166350",
-      "product_id": "MLB6405166350",
-      "catalog_product_id": "MLB48332910",
-      "item_id": "MLB6405166350",
-      "url": "https://www.mercadolivre.com.br/p/MLB48332910?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB48332910?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "redmi note 14s cor preto",
-      "title": "Redmi Note 14s Cor Preto",
-      "category": "Informática",
-      "price": 1649.0,
-      "score": 108.0,
-      "posted_ts": 1790838293,
-      "posted_at": "2026-10-01T07:04:53.582769+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB7651756034",
-      "product_id": "MLB7651756034",
-      "catalog_product_id": "MLB39957733",
-      "item_id": "MLB7651756034",
-      "url": "https://www.mercadolivre.com.br/p/MLB39957733?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB39957733?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "smartphone samsung galaxy s23 256gb preto",
-      "title": "Smartphone Samsung Galaxy S23 256gb Preto",
-      "category": "Informática",
-      "price": 3999.0,
-      "score": 124.0,
-      "posted_ts": 1790838197,
-      "posted_at": "2026-10-01T07:03:17.577154+00:00"
     }
   ],
-  "updated_at": "2026-10-03T06:02:35.990625+00:00"
+  "updated_at": "2026-10-03T09:02:55.449408+00:00"
 }
