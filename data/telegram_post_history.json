@@ -1,6 +1,20 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB7575871600",
+      "marketplace": "mercadolivre",
+      "id": "MLB7575871600",
+      "title": "Ração Cachorro Selection Adultos Pequenos 10,1kg Harmony",
+      "title_norm": "racao cachorro selection adultos pequenos 10 1kg harmony",
+      "url": "https://www.mercadolivre.com.br/p/MLB49735840?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB49735840?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Pet",
+      "bucket": "pet",
+      "posted_ts": 1791036198,
+      "posted_at": "2026-10-03T14:03:18.535071+00:00",
+      "score": 113.0
+    },
+    {
       "key": "shopee:58215579449",
       "marketplace": "shopee",
       "id": "58215579449",
@@ -13985,21 +13999,7 @@
       "posted_ts": 1790263074,
       "posted_at": "2026-09-24T15:17:54.082478+00:00",
       "score": 106.76
-    },
-    {
-      "key": "shopee:23197485445",
-      "marketplace": "shopee",
-      "id": "23197485445",
-      "title": "Whey Protein Fuse 900g Isolate Dark Lab",
-      "title_norm": "whey protein fuse 900g isolate dark lab",
-      "url": "https://shopee.com.br/product/1242044379/23197485445",
-      "affiliate_url": "https://s.shopee.com.br/9AOse1QHTp",
-      "category": "Dark Lab Oficial",
-      "bucket": "dark_lab_oficial",
-      "posted_ts": 1790263010,
-      "posted_at": "2026-09-24T15:16:50.009042+00:00",
-      "score": 120.31
     }
   ],
-  "updated_at": "2026-10-03T13:16:55.054976+00:00"
+  "updated_at": "2026-10-03T14:03:18.535087+00:00"
 }
