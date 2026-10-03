@@ -1,6 +1,20 @@
 {
   "posts": [
     {
+      "key": "shopee:58215579449",
+      "marketplace": "shopee",
+      "id": "58215579449",
+      "title": "Console Nintendo Switch OLED + Super Mario Bros + 3 Meses NSO",
+      "title_norm": "console nintendo switch oled super mario bros 3 meses nso",
+      "url": "https://shopee.com.br/product/829012010/58215579449",
+      "affiliate_url": "https://s.shopee.com.br/8V9Q4ZMaW5",
+      "category": "Webfones",
+      "bucket": "webfones",
+      "posted_ts": 1791033415,
+      "posted_at": "2026-10-03T13:16:55.054957+00:00",
+      "score": 43.71
+    },
+    {
       "key": "mercadolivre:MLB7580832078",
       "marketplace": "mercadolivre",
       "id": "MLB7580832078",
@@ -13985,21 +13999,7 @@
       "posted_ts": 1790263010,
       "posted_at": "2026-09-24T15:16:50.009042+00:00",
       "score": 120.31
-    },
-    {
-      "key": "shopee:58263753315",
-      "marketplace": "shopee",
-      "id": "58263753315",
-      "title": "Kit 6 Peças de Roupa Infantil Menina Verão Feminino",
-      "title_norm": "kit 6 pecas de roupa infantil menina verao feminino",
-      "url": "https://shopee.com.br/product/458829405/58263753315",
-      "affiliate_url": "https://s.shopee.com.br/2BF8F2awDr",
-      "category": "Mundo Madê Kids",
-      "bucket": "mundo_made_kids",
-      "posted_ts": 1790259706,
-      "posted_at": "2026-09-24T14:21:46.591573+00:00",
-      "score": 89.27
     }
   ],
-  "updated_at": "2026-10-03T13:03:01.026295+00:00"
+  "updated_at": "2026-10-03T13:16:55.054976+00:00"
 }
