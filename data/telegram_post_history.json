@@ -1,6 +1,48 @@
 {
   "posts": [
     {
+      "key": "shopee:23194993945",
+      "marketplace": "shopee",
+      "id": "23194993945",
+      "title": "TOMI MITO Bolsa Feminina Compacta Elegante para Viagem e Trabalho TM9183",
+      "title_norm": "tomi mito bolsa feminina compacta elegante para viagem e trabalho tm9183",
+      "url": "https://shopee.com.br/product/1468415010/23194993945",
+      "affiliate_url": "https://s.shopee.com.br/6VOLMIMXpz",
+      "category": "Amy.Store",
+      "bucket": "bolsas",
+      "posted_ts": 1791015597,
+      "posted_at": "2026-10-03T08:19:57.600285+00:00",
+      "score": 119.27
+    },
+    {
+      "key": "shopee:22993817264",
+      "marketplace": "shopee",
+      "id": "22993817264",
+      "title": "Bolsa Feminina Baú Transversal Média com Lenço Alça Tiracolo Estruturada e Espaçosa",
+      "title_norm": "bolsa feminina bau transversal media com lenco alca tiracolo estruturada e espacosa",
+      "url": "https://shopee.com.br/product/1127030290/22993817264",
+      "affiliate_url": "https://s.shopee.com.br/5VVoASQLsq",
+      "category": "JIMMY.STORE",
+      "bucket": "bolsas",
+      "posted_ts": 1791015531,
+      "posted_at": "2026-10-03T08:18:51.130748+00:00",
+      "score": 119.88
+    },
+    {
+      "key": "shopee:58266854519",
+      "marketplace": "shopee",
+      "id": "58266854519",
+      "title": "Mochila casual feminina, pode guardar notebook de 15,6 polegadas, com costas acolchoadas para aliviar o peso",
+      "title_norm": "mochila casual feminina pode guardar notebook de 15 6 polegadas com costas acolchoadas para aliviar o peso",
+      "url": "https://shopee.com.br/product/1921485008/58266854519",
+      "affiliate_url": "https://s.shopee.com.br/70KbxDPB7y",
+      "category": "jiesipote-15",
+      "bucket": "informatica",
+      "posted_ts": 1791015463,
+      "posted_at": "2026-10-03T08:17:43.818708+00:00",
+      "score": 131.66
+    },
+    {
       "key": "shopee:23498038856",
       "marketplace": "shopee",
       "id": "23498038856",
@@ -13957,49 +13999,7 @@
       "posted_ts": 1790248612,
       "posted_at": "2026-09-24T11:16:52.226192+00:00",
       "score": 128.53
-    },
-    {
-      "key": "mercadolivre:MLB6442123488",
-      "marketplace": "mercadolivre",
-      "id": "MLB6442123488",
-      "title": "Hidratante Corporal Relaxante",
-      "title_norm": "hidratante corporal relaxante",
-      "url": "https://www.mercadolivre.com.br/p/MLB65794107?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB65794107?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "category": "Beleza",
-      "bucket": "beleza",
-      "posted_ts": 1790248342,
-      "posted_at": "2026-09-24T11:12:22.171745+00:00",
-      "score": 78.87
-    },
-    {
-      "key": "mercadolivre:MLB4158770181",
-      "marketplace": "mercadolivre",
-      "id": "MLB4158770181",
-      "title": "Vinagreen Amaciante Roupas Campos De Lavanda Concentrado 1l",
-      "title_norm": "vinagreen amaciante roupas campos de lavanda concentrado 1l",
-      "url": "https://www.mercadolivre.com.br/p/MLB35007224?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB35007224?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "category": "Supermercados",
-      "bucket": "supermercado",
-      "posted_ts": 1790248278,
-      "posted_at": "2026-09-24T11:11:18.013604+00:00",
-      "score": 114.0
-    },
-    {
-      "key": "mercadolivre:MLB7480232532",
-      "marketplace": "mercadolivre",
-      "id": "MLB7480232532",
-      "title": "Papel Higiênico Folha Simples Fofopel 30m 16 Rolos",
-      "title_norm": "papel higienico folha simples fofopel 30m 16 rolos",
-      "url": "https://www.mercadolivre.com.br/p/MLB54116785?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB54116785?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "category": "Supermercados",
-      "bucket": "supermercado",
-      "posted_ts": 1790248213,
-      "posted_at": "2026-09-24T11:10:13.934158+00:00",
-      "score": 114.0
     }
   ],
-  "updated_at": "2026-10-03T07:21:36.493951+00:00"
+  "updated_at": "2026-10-03T08:19:57.600298+00:00"
 }
