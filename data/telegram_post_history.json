@@ -1,6 +1,20 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB7625830504",
+      "marketplace": "mercadolivre",
+      "id": "MLB7625830504",
+      "title": "Impressora Etiquetas Adesivas + 1.000 Etiquetas 10x15cm Branco",
+      "title_norm": "impressora etiquetas adesivas 1 000 etiquetas 10x15cm branco",
+      "url": "https://www.mercadolivre.com.br/p/MLB78672090?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB78672090?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Informática",
+      "bucket": "informatica",
+      "posted_ts": 1791043358,
+      "posted_at": "2026-10-03T16:02:38.118726+00:00",
+      "score": 108.24
+    },
+    {
       "key": "shopee:5355380259",
       "marketplace": "shopee",
       "id": "5355380259",
@@ -13985,21 +13999,7 @@
       "posted_ts": 1790270292,
       "posted_at": "2026-09-24T17:18:12.144429+00:00",
       "score": 118.58
-    },
-    {
-      "key": "shopee:20999578899",
-      "marketplace": "shopee",
-      "id": "20999578899",
-      "title": "Inalador Ultrassônico Portátil Nebulizador USB Pilha Sem Fio - Pronta Entrega",
-      "title_norm": "inalador ultrassonico portatil nebulizador usb pilha sem fio pronta entrega",
-      "url": "https://shopee.com.br/product/1441056601/20999578899",
-      "affiliate_url": "https://s.shopee.com.br/2LYYdiCatl",
-      "category": "LDK IMPORTS",
-      "bucket": "saude",
-      "posted_ts": 1790270218,
-      "posted_at": "2026-09-24T17:16:58.259296+00:00",
-      "score": 118.66
     }
   ],
-  "updated_at": "2026-10-03T15:21:13.544187+00:00"
+  "updated_at": "2026-10-03T16:02:38.118745+00:00"
 }
