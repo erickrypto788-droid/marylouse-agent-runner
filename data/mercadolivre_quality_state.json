@@ -1,6 +1,21 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB7580832078",
+      "product_id": "MLB7580832078",
+      "catalog_product_id": "MLB77579661",
+      "item_id": "MLB7580832078",
+      "url": "https://www.mercadolivre.com.br/p/MLB77579661?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB77579661?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "difusor ar umidificador umidificador ar 1 5l humidifiicador ar ultrassonico umidificador domestico para quarto sala bercario operacao silenciosa umidificacao eficiente design compacto facil de usar",
+      "title": "Difusor Ar Umidificador Umidificador Ar 1.5l Humidifiicador Ar Ultrassonico Umidificador Doméstico Para Quarto Sala Berçário Operação Silenciosa Umidificação Eficiente Design Compacto Fácil De Usar",
+      "category": "Pet",
+      "price": 98.8,
+      "score": 206.9,
+      "posted_ts": 1791032581,
+      "posted_at": "2026-10-03T13:03:01.039509+00:00"
+    },
+    {
       "key": "mercadolivre:MLB5184513523",
       "product_id": "MLB5184513523",
       "catalog_product_id": "MLB47306242",
@@ -614,22 +629,7 @@
       "score": 115.56,
       "posted_ts": 1790863601,
       "posted_at": "2026-10-01T14:06:41.851663+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB7601679290",
-      "product_id": "MLB7601679290",
-      "catalog_product_id": "MLB78736073",
-      "item_id": "MLB7601679290",
-      "url": "https://www.mercadolivre.com.br/p/MLB78736073?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB78736073?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "impressora etiquetas portatil niimbot d11 1 rolo azul",
-      "title": "Impressora Etiquetas Portátil Niimbot D11 + 1 Rolo Azul",
-      "category": "Informática",
-      "price": 174.81,
-      "score": 155.08,
-      "posted_ts": 1790856213,
-      "posted_at": "2026-10-01T12:03:33.503814+00:00"
     }
   ],
-  "updated_at": "2026-10-03T11:04:54.239860+00:00"
+  "updated_at": "2026-10-03T13:03:01.039525+00:00"
 }
