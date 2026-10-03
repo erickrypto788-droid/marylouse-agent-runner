@@ -1,6 +1,48 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB5276660983",
+      "marketplace": "mercadolivre",
+      "id": "MLB5276660983",
+      "title": "Camisa feminina de gola sintética removível, cor de gravata, tamanho branco, conforme descrito",
+      "title_norm": "camisa feminina de gola sintetica removivel cor de gravata tamanho branco conforme descrito",
+      "url": "https://www.mercadolivre.com.br/p/MLB36370915?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB36370915?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Moda Feminina",
+      "bucket": "moda_feminina",
+      "posted_ts": 1790993138,
+      "posted_at": "2026-10-03T02:05:38.085231+00:00",
+      "score": 88.0
+    },
+    {
+      "key": "mercadolivre:MLB4812787883",
+      "marketplace": "mercadolivre",
+      "id": "MLB4812787883",
+      "title": "Saída Praia Saia Feminina Texturizada Moda Verão Tendências Amarelo M",
+      "title_norm": "saida praia saia feminina texturizada moda verao tendencias amarelo m",
+      "url": "https://www.mercadolivre.com.br/p/MLB74472001?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB74472001?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Moda Feminina",
+      "bucket": "moda_feminina",
+      "posted_ts": 1790993074,
+      "posted_at": "2026-10-03T02:04:34.111626+00:00",
+      "score": 92.32
+    },
+    {
+      "key": "mercadolivre:MLB4617422337",
+      "marketplace": "mercadolivre",
+      "id": "MLB4617422337",
+      "title": "Cropped Feminino Manga Comprida Proteção Solar Malha Fria Uv Cor Preto Tamanho P",
+      "title_norm": "cropped feminino manga comprida protecao solar malha fria uv cor preto tamanho p",
+      "url": "https://www.mercadolivre.com.br/p/MLB68298172?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB68298172?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Moda Feminina",
+      "bucket": "moda_feminina",
+      "posted_ts": 1790993009,
+      "posted_at": "2026-10-03T02:03:29.488164+00:00",
+      "score": 106.59
+    },
+    {
       "key": "shopee:23993933147",
       "marketplace": "shopee",
       "id": "23993933147",
@@ -13957,49 +13999,7 @@
       "posted_ts": 1790220065,
       "posted_at": "2026-09-24T03:21:05.049022+00:00",
       "score": 70.85
-    },
-    {
-      "key": "shopee:58212356206",
-      "marketplace": "shopee",
-      "id": "58212356206",
-      "title": "Leitor Cartão USB C 3 Em 1 OTG SD Micro SD Adaptador Para Celular Notebook Câmera",
-      "title_norm": "leitor cartao usb c 3 em 1 otg sd micro sd adaptador para celular notebook camera",
-      "url": "https://shopee.com.br/product/956346509/58212356206",
-      "affiliate_url": "https://s.shopee.com.br/5VVZTpkp3l",
-      "category": "Xuwei Digital",
-      "bucket": "celulares",
-      "posted_ts": 1790220000,
-      "posted_at": "2026-09-24T03:20:00.906256+00:00",
-      "score": 77.46
-    },
-    {
-      "key": "shopee:18398124948",
-      "marketplace": "shopee",
-      "id": "18398124948",
-      "title": "Adaptador Hub Tipo C 5em2/6em1/7 Em 1/ 8em1 HDMI Micro Sd Tf M1 4k Usb 3.0. E USB-A 4EM1. Para computador todo tipo",
-      "title_norm": "adaptador hub tipo c 5em2 6em1 7 em 1 8em1 hdmi micro sd tf m1 4k usb 3 0 e usb a 4em1 para computador todo tipo",
-      "url": "https://shopee.com.br/product/1314327488/18398124948",
-      "affiliate_url": "https://s.shopee.com.br/5q8PsRjYNr",
-      "category": "M&H1 STORE",
-      "bucket": "m_h1_store",
-      "posted_ts": 1790219936,
-      "posted_at": "2026-09-24T03:18:56.825813+00:00",
-      "score": 78.9
-    },
-    {
-      "key": "shopee:58204437244",
-      "marketplace": "shopee",
-      "id": "58204437244",
-      "title": "Etiquetas Adesivas 3x3, 4x4 ou 5x5cm Personalizados Com Recorte",
-      "title_norm": "etiquetas adesivas 3x3 4x4 ou 5x5cm personalizados com recorte",
-      "url": "https://shopee.com.br/product/239610877/58204437244",
-      "affiliate_url": "https://s.shopee.com.br/6L4gTMYmTK",
-      "category": "Plottz.br",
-      "bucket": "plottz_br",
-      "posted_ts": 1790219872,
-      "posted_at": "2026-09-24T03:17:52.650664+00:00",
-      "score": 89.05
     }
   ],
-  "updated_at": "2026-10-03T01:20:02.830513+00:00"
+  "updated_at": "2026-10-03T02:05:38.085248+00:00"
 }

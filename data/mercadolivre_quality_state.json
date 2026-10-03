@@ -1,6 +1,51 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB5276660983",
+      "product_id": "MLB5276660983",
+      "catalog_product_id": "MLB36370915",
+      "item_id": "MLB5276660983",
+      "url": "https://www.mercadolivre.com.br/p/MLB36370915?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB36370915?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "camisa feminina de gola sintetica removivel cor de gravata tamanho branco conforme descrito",
+      "title": "Camisa feminina de gola sintética removível, cor de gravata, tamanho branco, conforme descrito",
+      "category": "Moda Feminina",
+      "price": 59.99,
+      "score": 88.0,
+      "posted_ts": 1790993138,
+      "posted_at": "2026-10-03T02:05:38.098175+00:00"
+    },
+    {
+      "key": "mercadolivre:MLB4812787883",
+      "product_id": "MLB4812787883",
+      "catalog_product_id": "MLB74472001",
+      "item_id": "MLB4812787883",
+      "url": "https://www.mercadolivre.com.br/p/MLB74472001?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB74472001?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "saida praia saia feminina texturizada moda verao tendencias amarelo m",
+      "title": "Saída Praia Saia Feminina Texturizada Moda Verão Tendências Amarelo M",
+      "category": "Moda Feminina",
+      "price": 64.91,
+      "score": 92.32,
+      "posted_ts": 1790993074,
+      "posted_at": "2026-10-03T02:04:34.124321+00:00"
+    },
+    {
+      "key": "mercadolivre:MLB4617422337",
+      "product_id": "MLB4617422337",
+      "catalog_product_id": "MLB68298172",
+      "item_id": "MLB4617422337",
+      "url": "https://www.mercadolivre.com.br/p/MLB68298172?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB68298172?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "cropped feminino manga comprida protecao solar malha fria uv cor preto tamanho p",
+      "title": "Cropped Feminino Manga Comprida Proteção Solar Malha Fria Uv Cor Preto Tamanho P",
+      "category": "Moda Feminina",
+      "price": 42.9,
+      "score": 106.59,
+      "posted_ts": 1790993009,
+      "posted_at": "2026-10-03T02:03:29.501161+00:00"
+    },
+    {
       "key": "mercadolivre:MLB5118569459",
       "product_id": "MLB5118569459",
       "catalog_product_id": "MLB21407698",
@@ -599,37 +644,7 @@
       "score": 111.0,
       "posted_ts": 1790830956,
       "posted_at": "2026-10-01T05:02:36.631233+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB5227390237",
-      "product_id": "MLB5227390237",
-      "catalog_product_id": "MLB74370100",
-      "item_id": "MLB5227390237",
-      "url": "https://www.mercadolivre.com.br/p/MLB74370100?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB74370100?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "chapinha cabelo profissional 450f slim bivolt titanium",
-      "title": "Chapinha Cabelo Profissional 450f Slim Bivolt, Titanium",
-      "category": "Beleza",
-      "price": 64.99,
-      "score": 113.0,
-      "posted_ts": 1790820222,
-      "posted_at": "2026-10-01T02:03:42.690573+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB5276058179",
-      "product_id": "MLB5276058179",
-      "catalog_product_id": "MLB77039877",
-      "item_id": "MLB5276058179",
-      "url": "https://www.mercadolivre.com.br/p/MLB77039877?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB77039877?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "perfume feminino olympia",
-      "title": "Perfume Feminino Olympia",
-      "category": "Beleza",
-      "price": 184.0,
-      "score": 188.67,
-      "posted_ts": 1790820158,
-      "posted_at": "2026-10-01T02:02:38.537090+00:00"
     }
   ],
-  "updated_at": "2026-10-03T01:11:24.537193+00:00"
+  "updated_at": "2026-10-03T02:05:38.098189+00:00"
 }
