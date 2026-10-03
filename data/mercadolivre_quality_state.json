@@ -1,6 +1,66 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB7517810920",
+      "product_id": "MLB7517810920",
+      "catalog_product_id": "MLB76609780",
+      "item_id": "MLB7517810920",
+      "url": "https://www.mercadolivre.com.br/p/MLB76609780?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB76609780?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "hidratante corporal pessego",
+      "title": "Hidratante Corporal Pessego",
+      "category": "Beleza",
+      "price": 120.0,
+      "score": 63.0,
+      "posted_ts": 1791051020,
+      "posted_at": "2026-10-03T18:10:20.472695+00:00"
+    },
+    {
+      "key": "mercadolivre:MLB7046261998",
+      "product_id": "MLB7046261998",
+      "catalog_product_id": "MLB28886645",
+      "item_id": "MLB7046261998",
+      "url": "https://www.mercadolivre.com.br/p/MLB28886645?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB28886645?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "snob papel toalha cozinha folha dupla c 12 rolos",
+      "title": "Snob Papel Toalha Cozinha Folha Dupla C/ 12 Rolos",
+      "category": "Supermercados",
+      "price": 100.0,
+      "score": 89.0,
+      "posted_ts": 1791050948,
+      "posted_at": "2026-10-03T18:09:08.560701+00:00"
+    },
+    {
+      "key": "mercadolivre:MLB5032468211",
+      "product_id": "MLB5032468211",
+      "catalog_product_id": "MLB61910184",
+      "item_id": "MLB5032468211",
+      "url": "https://www.mercadolivre.com.br/p/MLB61910184?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB61910184?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "100 saco de lixo 60l preto saco lixo resistente reforcado",
+      "title": "100 Saco De Lixo 60l Preto Saco Lixo Resistente Reforçado",
+      "category": "Supermercados",
+      "price": 85.0,
+      "score": 89.0,
+      "posted_ts": 1791050870,
+      "posted_at": "2026-10-03T18:07:50.149149+00:00"
+    },
+    {
+      "key": "mercadolivre:MLB7624945484",
+      "product_id": "MLB7624945484",
+      "catalog_product_id": "MLB19638787",
+      "item_id": "MLB7624945484",
+      "url": "https://www.mercadolivre.com.br/p/MLB19638787?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB19638787?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "creme dental ozonizado philozon 90g",
+      "title": "Creme Dental Ozonizado Philozon 90g",
+      "category": "Supermercados",
+      "price": 42.1,
+      "score": 89.0,
+      "posted_ts": 1791050799,
+      "posted_at": "2026-10-03T18:06:39.612071+00:00"
+    },
+    {
       "key": "mercadolivre:MLB7625830504",
       "product_id": "MLB7625830504",
       "catalog_product_id": "MLB78672090",
@@ -554,22 +614,7 @@
       "score": 188.67,
       "posted_ts": 1790881369,
       "posted_at": "2026-10-01T19:02:49.738433+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB6884302164",
-      "product_id": "MLB6884302164",
-      "catalog_product_id": "MLB70627275",
-      "item_id": "MLB6884302164",
-      "url": "https://www.mercadolivre.com.br/p/MLB70627275?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB70627275?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "rack yescasa rack para tv ate 70 jatoba terroso de mdp",
-      "title": "Rack Yescasa Rack para TV até 70\" jatoba terroso de mdp",
-      "category": "Casa e Cozinha",
-      "price": 855.87,
-      "score": 82.57,
-      "posted_ts": 1790870648,
-      "posted_at": "2026-10-01T16:04:08.822461+00:00"
     }
   ],
-  "updated_at": "2026-10-03T16:02:38.133478+00:00"
+  "updated_at": "2026-10-03T18:10:20.472706+00:00"
 }

@@ -1,6 +1,62 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB7517810920",
+      "marketplace": "mercadolivre",
+      "id": "MLB7517810920",
+      "title": "Hidratante Corporal Pessego",
+      "title_norm": "hidratante corporal pessego",
+      "url": "https://www.mercadolivre.com.br/p/MLB76609780?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB76609780?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Beleza",
+      "bucket": "beleza",
+      "posted_ts": 1791051020,
+      "posted_at": "2026-10-03T18:10:20.459178+00:00",
+      "score": 63.0
+    },
+    {
+      "key": "mercadolivre:MLB7046261998",
+      "marketplace": "mercadolivre",
+      "id": "MLB7046261998",
+      "title": "Snob Papel Toalha Cozinha Folha Dupla C/ 12 Rolos",
+      "title_norm": "snob papel toalha cozinha folha dupla c 12 rolos",
+      "url": "https://www.mercadolivre.com.br/p/MLB28886645?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB28886645?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Supermercados",
+      "bucket": "supermercados",
+      "posted_ts": 1791050948,
+      "posted_at": "2026-10-03T18:09:08.546201+00:00",
+      "score": 89.0
+    },
+    {
+      "key": "mercadolivre:MLB5032468211",
+      "marketplace": "mercadolivre",
+      "id": "MLB5032468211",
+      "title": "100 Saco De Lixo 60l Preto Saco Lixo Resistente Reforçado",
+      "title_norm": "100 saco de lixo 60l preto saco lixo resistente reforcado",
+      "url": "https://www.mercadolivre.com.br/p/MLB61910184?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB61910184?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Supermercados",
+      "bucket": "supermercados",
+      "posted_ts": 1791050870,
+      "posted_at": "2026-10-03T18:07:50.135647+00:00",
+      "score": 89.0
+    },
+    {
+      "key": "mercadolivre:MLB7624945484",
+      "marketplace": "mercadolivre",
+      "id": "MLB7624945484",
+      "title": "Creme Dental Ozonizado Philozon 90g",
+      "title_norm": "creme dental ozonizado philozon 90g",
+      "url": "https://www.mercadolivre.com.br/p/MLB19638787?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB19638787?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Supermercados",
+      "bucket": "supermercados",
+      "posted_ts": 1791050799,
+      "posted_at": "2026-10-03T18:06:39.598195+00:00",
+      "score": 89.0
+    },
+    {
       "key": "shopee:23099043450",
       "marketplace": "shopee",
       "id": "23099043450",
@@ -13943,63 +13999,7 @@
       "posted_ts": 1790281081,
       "posted_at": "2026-09-24T20:18:01.835810+00:00",
       "score": 106.44
-    },
-    {
-      "key": "shopee:23993640763",
-      "marketplace": "shopee",
-      "id": "23993640763",
-      "title": "Bolsa Feminina Crossbody Transversal Pequena Necessaire Tecido Impermeável",
-      "title_norm": "bolsa feminina crossbody transversal pequena necessaire tecido impermeavel",
-      "url": "https://shopee.com.br/product/1059454625/23993640763",
-      "affiliate_url": "https://s.shopee.com.br/BU4By3Xps",
-      "category": "Unique.Bolsas.Mochilas",
-      "bucket": "bolsas",
-      "posted_ts": 1790281013,
-      "posted_at": "2026-09-24T20:16:53.890331+00:00",
-      "score": 108.39
-    },
-    {
-      "key": "mercadolivre:MLB6483255322",
-      "marketplace": "mercadolivre",
-      "id": "MLB6483255322",
-      "title": "Fone Bluetooth Redmi",
-      "title_norm": "fone bluetooth redmi",
-      "url": "https://www.mercadolivre.com.br/p/MLB62010143?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB62010143?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "category": "Informática",
-      "bucket": "celulares",
-      "posted_ts": 1790280199,
-      "posted_at": "2026-09-24T20:03:19.644938+00:00",
-      "score": 98.22
-    },
-    {
-      "key": "mercadolivre:MLB6198484798",
-      "marketplace": "mercadolivre",
-      "id": "MLB6198484798",
-      "title": "Roteador Wifi Maxlink Ac1200g (10pc)",
-      "title_norm": "roteador wifi maxlink ac1200g 10pc",
-      "url": "https://www.mercadolivre.com.br/p/MLB42822160?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB42822160?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "category": "Informática",
-      "bucket": "informatica",
-      "posted_ts": 1790276594,
-      "posted_at": "2026-09-24T19:03:14.299220+00:00",
-      "score": 88.0
-    },
-    {
-      "key": "shopee:3583616499",
-      "marketplace": "shopee",
-      "id": "3583616499",
-      "title": "Carrinho Camaro Amarelo Vira Robô Transformers Bate Volta",
-      "title_norm": "carrinho camaro amarelo vira robo transformers bate volta",
-      "url": "https://shopee.com.br/product/385632559/3583616499",
-      "affiliate_url": "https://s.shopee.com.br/1VzRiIR9Yu",
-      "category": "happytonia",
-      "bucket": "happytonia",
-      "posted_ts": 1790274075,
-      "posted_at": "2026-09-24T18:21:15.171771+00:00",
-      "score": 66.62
     }
   ],
-  "updated_at": "2026-10-03T17:18:08.884531+00:00"
+  "updated_at": "2026-10-03T18:10:20.459192+00:00"
 }
