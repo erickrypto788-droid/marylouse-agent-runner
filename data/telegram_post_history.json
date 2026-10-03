@@ -1,6 +1,20 @@
 {
   "posts": [
     {
+      "key": "shopee:15296691065",
+      "marketplace": "shopee",
+      "id": "15296691065",
+      "title": "Mochila Masculina Lona 50 Litros Viagem Passeio Motoboy Esporte Trilha Viagem 803",
+      "title_norm": "mochila masculina lona 50 litros viagem passeio motoboy esporte trilha viagem 803",
+      "url": "https://shopee.com.br/product/960960972/15296691065",
+      "affiliate_url": "https://s.shopee.com.br/AUuUBl5dpq",
+      "category": "Global Mochilas CHL",
+      "bucket": "bolsas",
+      "posted_ts": 1791019011,
+      "posted_at": "2026-10-03T09:16:51.494339+00:00",
+      "score": 59.01
+    },
+    {
       "key": "mercadolivre:MLB7209916106",
       "marketplace": "mercadolivre",
       "id": "MLB7209916106",
@@ -13985,21 +13999,7 @@
       "posted_ts": 1790248752,
       "posted_at": "2026-09-24T11:19:12.891500+00:00",
       "score": 75.6
-    },
-    {
-      "key": "shopee:22994336598",
-      "marketplace": "shopee",
-      "id": "22994336598",
-      "title": "Microfone de lapela duplo redondo magnético A’Gold 2 em 1 iphone tipo c discreto entrevista podcast video",
-      "title_norm": "microfone de lapela duplo redondo magnetico a gold 2 em 1 iphone tipo c discreto entrevista podcast video",
-      "url": "https://shopee.com.br/product/1117805526/22994336598",
-      "affiliate_url": "https://s.shopee.com.br/3LR5QocoQ5",
-      "category": " LUCKY STORE",
-      "bucket": "celulares",
-      "posted_ts": 1790248682,
-      "posted_at": "2026-09-24T11:18:02.379388+00:00",
-      "score": 126.68
     }
   ],
-  "updated_at": "2026-10-03T09:02:55.435480+00:00"
+  "updated_at": "2026-10-03T09:16:51.494354+00:00"
 }
