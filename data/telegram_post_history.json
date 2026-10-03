@@ -1,6 +1,34 @@
 {
   "posts": [
     {
+      "key": "shopee:23099043450",
+      "marketplace": "shopee",
+      "id": "23099043450",
+      "title": "Bota Galocha Impermeável EPI com C.A. Original Proteção Chuva Motoboy Limpeza ENVIO IMEDIATO",
+      "title_norm": "bota galocha impermeavel epi com c a original protecao chuva motoboy limpeza envio imediato",
+      "url": "https://shopee.com.br/product/620096607/23099043450",
+      "affiliate_url": "https://s.shopee.com.br/6q1CLzlGrC",
+      "category": "MTSSHOES",
+      "bucket": "calcados",
+      "posted_ts": 1791047888,
+      "posted_at": "2026-10-03T17:18:08.884513+00:00",
+      "score": 99.43
+    },
+    {
+      "key": "shopee:58205019767",
+      "marketplace": "shopee",
+      "id": "58205019767",
+      "title": "Botina Bota de Segurança Em Couro EPI Trabalho Obra CA Aprovado Biqueira PVC Unissex Profissional",
+      "title_norm": "botina bota de seguranca em couro epi trabalho obra ca aprovado biqueira pvc unissex profissional",
+      "url": "https://shopee.com.br/product/1747300144/58205019767",
+      "affiliate_url": "https://s.shopee.com.br/113O91IUdt",
+      "category": "LBO Store",
+      "bucket": "calcados",
+      "posted_ts": 1791047818,
+      "posted_at": "2026-10-03T17:16:58.766521+00:00",
+      "score": 99.45
+    },
+    {
       "key": "shopee:21097736365",
       "marketplace": "shopee",
       "id": "21097736365",
@@ -13971,35 +13999,7 @@
       "posted_ts": 1790274075,
       "posted_at": "2026-09-24T18:21:15.171771+00:00",
       "score": 66.62
-    },
-    {
-      "key": "shopee:23992941253",
-      "marketplace": "shopee",
-      "id": "23992941253",
-      "title": "Kit 11 Peças - 5 Fraldas 60x60cm + 6 Paninho de Boca 30x30cm 100% Algodão Grande Macias Estampadas",
-      "title_norm": "kit 11 pecas 5 fraldas 60x60cm 6 paninho de boca 30x30cm 100 algodao grande macias estampadas",
-      "url": "https://shopee.com.br/product/378105312/23992941253",
-      "affiliate_url": "https://s.shopee.com.br/9peZdbdtmp",
-      "category": "EssencialBaby",
-      "bucket": "fraldas",
-      "posted_ts": 1790274011,
-      "posted_at": "2026-09-24T18:20:11.051648+00:00",
-      "score": 93.28
-    },
-    {
-      "key": "shopee:23494165309",
-      "marketplace": "shopee",
-      "id": "23494165309",
-      "title": "Fralda Descartável Pampers Supersequinha Mega M 40 Unidades",
-      "title_norm": "fralda descartavel pampers supersequinha mega m 40 unidades",
-      "url": "https://shopee.com.br/product/683941545/23494165309",
-      "affiliate_url": "https://s.shopee.com.br/3g3wIH5dX3",
-      "category": "Lojas REDE",
-      "bucket": "fraldas",
-      "posted_ts": 1790273946,
-      "posted_at": "2026-09-24T18:19:06.951327+00:00",
-      "score": 96.07
     }
   ],
-  "updated_at": "2026-10-03T16:21:10.800094+00:00"
+  "updated_at": "2026-10-03T17:18:08.884531+00:00"
 }
