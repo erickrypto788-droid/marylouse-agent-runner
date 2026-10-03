@@ -1,6 +1,48 @@
 {
   "posts": [
     {
+      "key": "shopee:58254334434",
+      "marketplace": "shopee",
+      "id": "58254334434",
+      "title": "Medidor de Glicemia On Call Plus - Precisão e Armazenamento de Resultados",
+      "title_norm": "medidor de glicemia on call plus precisao e armazenamento de resultados",
+      "url": "https://shopee.com.br/product/470704991/58254334434",
+      "affiliate_url": "https://s.shopee.com.br/60S4d8t0yq",
+      "category": "V4saude",
+      "bucket": "v4saude",
+      "posted_ts": 1791008441,
+      "posted_at": "2026-10-03T06:20:41.098424+00:00",
+      "score": 37.48
+    },
+    {
+      "key": "shopee:22891997668",
+      "marketplace": "shopee",
+      "id": "22891997668",
+      "title": "Termômetro Industrial Digital Infravermelho Cozinha Laser Medição Temperatura Industrial -55º- 400ºc",
+      "title_norm": "termometro industrial digital infravermelho cozinha laser medicao temperatura industrial 55 400 c",
+      "url": "https://shopee.com.br/product/1025202028/22891997668",
+      "affiliate_url": "https://s.shopee.com.br/W78520Xzv",
+      "category": "Utime.Brasil",
+      "bucket": "saude",
+      "posted_ts": 1791008373,
+      "posted_at": "2026-10-03T06:19:33.477711+00:00",
+      "score": 109.69
+    },
+    {
+      "key": "shopee:23893497572",
+      "marketplace": "shopee",
+      "id": "23893497572",
+      "title": "Oxímetro Infantil Neonatal Pediátrico De Dedo Digital Crianças Medidor Oxigênio Recarregável Pulse Yihan",
+      "title_norm": "oximetro infantil neonatal pediatrico de dedo digital criancas medidor oxigenio recarregavel pulse yihan",
+      "url": "https://shopee.com.br/product/696313634/23893497572",
+      "affiliate_url": "https://s.shopee.com.br/8fSpo2eOUo",
+      "category": "Yihan.store",
+      "bucket": "saude",
+      "posted_ts": 1791008309,
+      "posted_at": "2026-10-03T06:18:29.281895+00:00",
+      "score": 110.56
+    },
+    {
       "key": "mercadolivre:MLB7574008638",
       "marketplace": "mercadolivre",
       "id": "MLB7574008638",
@@ -13957,49 +13999,7 @@
       "posted_ts": 1790241481,
       "posted_at": "2026-09-24T09:18:01.862128+00:00",
       "score": 96.69
-    },
-    {
-      "key": "shopee:20199249608",
-      "marketplace": "shopee",
-      "id": "20199249608",
-      "title": "Tenis Sapatilha Masculino Casual Aquatico de Trilha Impermeável Com Solado Costurado E Elastico Ajustável",
-      "title_norm": "tenis sapatilha masculino casual aquatico de trilha impermeavel com solado costurado e elastico ajustavel",
-      "url": "https://shopee.com.br/product/1246015756/20199249608",
-      "affiliate_url": "https://s.shopee.com.br/50ZJHdRlaV",
-      "category": "ShopShooes",
-      "bucket": "calcados",
-      "posted_ts": 1790241410,
-      "posted_at": "2026-09-24T09:16:50.663339+00:00",
-      "score": 100.12
-    },
-    {
-      "key": "shopee:55957074597",
-      "marketplace": "shopee",
-      "id": "55957074597",
-      "title": "Kit 2 Camisas Fitness Plus Size Alongadas Tapa Bumbum em  Premium",
-      "title_norm": "kit 2 camisas fitness plus size alongadas tapa bumbum em premium",
-      "url": "https://shopee.com.br/product/1464110755/55957074597",
-      "affiliate_url": "https://s.shopee.com.br/2qUodXtQY3",
-      "category": "Flexicom",
-      "bucket": "flexicom",
-      "posted_ts": 1790238025,
-      "posted_at": "2026-09-24T08:20:25.978574+00:00",
-      "score": 79.49
-    },
-    {
-      "key": "shopee:54656718466",
-      "marketplace": "shopee",
-      "id": "54656718466",
-      "title": "Calça Lipo Super Tecido Suplex Power Legging Modeladora PP ao Plus Size",
-      "title_norm": "calca lipo super tecido suplex power legging modeladora pp ao plus size",
-      "url": "https://shopee.com.br/product/346860378/54656718466",
-      "affiliate_url": "https://s.shopee.com.br/4qFt1DqHV3",
-      "category": "GTB Fashion",
-      "bucket": "moda_feminina",
-      "posted_ts": 1790237956,
-      "posted_at": "2026-09-24T08:19:16.758273+00:00",
-      "score": 91.86
     }
   ],
-  "updated_at": "2026-10-03T06:02:35.974096+00:00"
+  "updated_at": "2026-10-03T06:20:41.098445+00:00"
 }
