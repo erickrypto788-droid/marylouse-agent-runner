@@ -1,6 +1,21 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB6896373880",
+      "product_id": "MLB6896373880",
+      "catalog_product_id": "MLB72068054",
+      "item_id": "MLB6896373880",
+      "url": "https://www.mercadolivre.com.br/p/MLB72068054?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB72068054?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "rack acacia rack para tv ate 43 pt jupiter de madeira",
+      "title": "Rack Acacia Rack Para Tv Até 43 Pt-jupiter De Madeira",
+      "category": "Casa e Cozinha",
+      "price": 199.32,
+      "score": 88.0,
+      "posted_ts": 1790996590,
+      "posted_at": "2026-10-03T03:03:10.752117+00:00"
+    },
+    {
       "key": "mercadolivre:MLB5276660983",
       "product_id": "MLB5276660983",
       "catalog_product_id": "MLB36370915",
@@ -646,5 +661,5 @@
       "posted_at": "2026-10-01T05:02:36.631233+00:00"
     }
   ],
-  "updated_at": "2026-10-03T02:05:38.098189+00:00"
+  "updated_at": "2026-10-03T03:03:10.752126+00:00"
 }

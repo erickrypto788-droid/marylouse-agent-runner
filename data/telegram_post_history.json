@@ -1,6 +1,20 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB6896373880",
+      "marketplace": "mercadolivre",
+      "id": "MLB6896373880",
+      "title": "Rack Acacia Rack Para Tv Até 43 Pt-jupiter De Madeira",
+      "title_norm": "rack acacia rack para tv ate 43 pt jupiter de madeira",
+      "url": "https://www.mercadolivre.com.br/p/MLB72068054?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB72068054?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Casa e Cozinha",
+      "bucket": "casa_e_cozinha",
+      "posted_ts": 1790996590,
+      "posted_at": "2026-10-03T03:03:10.739144+00:00",
+      "score": 88.0
+    },
+    {
       "key": "shopee:58265242344",
       "marketplace": "shopee",
       "id": "58265242344",
@@ -13985,21 +13999,7 @@
       "posted_ts": 1790223673,
       "posted_at": "2026-09-24T04:21:13.795047+00:00",
       "score": 96.89
-    },
-    {
-      "key": "shopee:22593915398",
-      "marketplace": "shopee",
-      "id": "22593915398",
-      "title": "Chaleira Elétrica Jarra Café Chá Inox 110v",
-      "title_norm": "chaleira eletrica jarra cafe cha inox 110v",
-      "url": "https://shopee.com.br/product/408653169/22593915398",
-      "affiliate_url": "https://s.shopee.com.br/AKapIpmXQs",
-      "category": "SELLNEEDS",
-      "bucket": "sellneeds",
-      "posted_ts": 1790223609,
-      "posted_at": "2026-09-24T04:20:09.804467+00:00",
-      "score": 99.18
     }
   ],
-  "updated_at": "2026-10-03T02:20:00.914734+00:00"
+  "updated_at": "2026-10-03T03:03:10.739156+00:00"
 }
