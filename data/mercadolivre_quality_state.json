@@ -1,6 +1,21 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB7574008638",
+      "product_id": "MLB7574008638",
+      "catalog_product_id": "MLB76876185",
+      "item_id": "MLB7574008638",
+      "url": "https://www.mercadolivre.com.br/p/MLB76876185?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB76876185?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "perfume feminino delilah 50ml",
+      "title": "Perfume Feminino Delilah 50ml",
+      "category": "Beleza",
+      "price": 184.0,
+      "score": 188.67,
+      "posted_ts": 1791007355,
+      "posted_at": "2026-10-03T06:02:35.990607+00:00"
+    },
+    {
       "key": "mercadolivre:MLB6896373880",
       "product_id": "MLB6896373880",
       "catalog_product_id": "MLB72068054",
@@ -629,37 +644,7 @@
       "score": 124.0,
       "posted_ts": 1790838197,
       "posted_at": "2026-10-01T07:03:17.577154+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB5209357839",
-      "product_id": "MLB5209357839",
-      "catalog_product_id": "MLB76143330",
-      "item_id": "MLB5209357839",
-      "url": "https://www.mercadolivre.com.br/p/MLB76143330?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB76143330?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "impressora termica impressora de recibos mini impressora bluetooth impressora termica portatil arcashopping mini impressora termica impressora de recibos bluetooth mini impressora termica portatil",
-      "title": "Impressora térmica Impressora de recibos Mini impressora Bluetooth Impressora térmica portátil ARCASHOPPING mini impressora térmica Impressora de recibos Bluetooth Mini impressora térmica portátil",
-      "category": "Informática",
-      "price": 300.0,
-      "score": 88.0,
-      "posted_ts": 1790831025,
-      "posted_at": "2026-10-01T05:03:45.765503+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB7705734530",
-      "product_id": "MLB7705734530",
-      "catalog_product_id": "MLB50957106",
-      "item_id": "MLB7705734530",
-      "url": "https://www.mercadolivre.com.br/p/MLB50957106?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB50957106?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "ssd nvme kingston 1tb nv3 m 2 2280 pcie 4 0 nf e cor ssd nvme m 2 2280 kingston 1tb",
-      "title": "Ssd Nvme Kingston 1tb Nv3 M.2 2280 Pcie 4.0 Nf-e Cor Ssd Nvme M.2 2280 Kingston 1tb",
-      "category": "Informática",
-      "price": 1046.99,
-      "score": 111.0,
-      "posted_ts": 1790830956,
-      "posted_at": "2026-10-01T05:02:36.631233+00:00"
     }
   ],
-  "updated_at": "2026-10-03T03:03:10.752126+00:00"
+  "updated_at": "2026-10-03T06:02:35.990625+00:00"
 }

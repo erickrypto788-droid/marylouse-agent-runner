@@ -1,6 +1,20 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB7574008638",
+      "marketplace": "mercadolivre",
+      "id": "MLB7574008638",
+      "title": "Perfume Feminino Delilah 50ml",
+      "title_norm": "perfume feminino delilah 50ml",
+      "url": "https://www.mercadolivre.com.br/p/MLB76876185?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB76876185?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Beleza",
+      "bucket": "beleza",
+      "posted_ts": 1791007355,
+      "posted_at": "2026-10-03T06:02:35.974055+00:00",
+      "score": 188.67
+    },
+    {
       "key": "shopee:22394200465",
       "marketplace": "shopee",
       "id": "22394200465",
@@ -13985,21 +13999,7 @@
       "posted_ts": 1790237956,
       "posted_at": "2026-09-24T08:19:16.758273+00:00",
       "score": 91.86
-    },
-    {
-      "key": "shopee:58264428982",
-      "marketplace": "shopee",
-      "id": "58264428982",
-      "title": "Pijama Plus Size Feminino com Botões para Amamentação Pós-Cirúrgico Blusa Manga Curta e Short",
-      "title_norm": "pijama plus size feminino com botoes para amamentacao pos cirurgico blusa manga curta e short",
-      "url": "https://shopee.com.br/product/1776265360/58264428982",
-      "affiliate_url": "https://s.shopee.com.br/6q0xOteCQx",
-      "category": "Sono Leve Linha Noite",
-      "bucket": "sono_leve_linha_noite",
-      "posted_ts": 1790237890,
-      "posted_at": "2026-09-24T08:18:10.901956+00:00",
-      "score": 96.15
     }
   ],
-  "updated_at": "2026-10-03T05:21:03.488055+00:00"
+  "updated_at": "2026-10-03T06:02:35.974096+00:00"
 }
