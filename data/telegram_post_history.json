@@ -1,6 +1,48 @@
 {
   "posts": [
     {
+      "key": "shopee:22394494457",
+      "marketplace": "shopee",
+      "id": "22394494457",
+      "title": "Kit 36 Canetas Marca Texto Neon Fluorescente Vighs – Cores Vivas Secagem Rápida Escolar Escritório",
+      "title_norm": "kit 36 canetas marca texto neon fluorescente vighs cores vivas secagem rapida escolar escritorio",
+      "url": "https://shopee.com.br/product/1527598681/22394494457",
+      "affiliate_url": "https://s.shopee.com.br/113OwR3zML",
+      "category": "Mundo Vendas Online",
+      "bucket": "mundo_vendas_online",
+      "posted_ts": 1791022851,
+      "posted_at": "2026-10-03T10:20:51.611651+00:00",
+      "score": 87.48
+    },
+    {
+      "key": "shopee:43773939440",
+      "marketplace": "shopee",
+      "id": "43773939440",
+      "title": "Caneta de Óleo de Cutícula 3 em 1 Empurrador de Unha Removedor de Pele Morta com Ponta de Cerâmica",
+      "title_norm": "caneta de oleo de cuticula 3 em 1 empurrador de unha removedor de pele morta com ponta de ceramica",
+      "url": "https://shopee.com.br/product/745631864/43773939440",
+      "affiliate_url": "https://s.shopee.com.br/9fLNGMFG9y",
+      "category": "Bewiles Creative Hub｜BR",
+      "bucket": "bewiles_creative_hub_br",
+      "posted_ts": 1791022751,
+      "posted_at": "2026-10-03T10:19:11.511156+00:00",
+      "score": 110.78
+    },
+    {
+      "key": "shopee:22694688139",
+      "marketplace": "shopee",
+      "id": "22694688139",
+      "title": "Kit 12/24/36/48/60 Caneta Marcadora Acrílica Líquida Direta, Pincel de Pintura, Pedra, Cerâmica, Glas, Madeira, Lona",
+      "title_norm": "kit 12 24 36 48 60 caneta marcadora acrilica liquida direta pincel de pintura pedra ceramica glas madeira lona",
+      "url": "https://shopee.com.br/product/1055789069/22694688139",
+      "affiliate_url": "https://s.shopee.com.br/80D9HILbXk",
+      "category": "TIANSHU",
+      "bucket": "tianshu",
+      "posted_ts": 1791022681,
+      "posted_at": "2026-10-03T10:18:01.590658+00:00",
+      "score": 114.51
+    },
+    {
       "key": "shopee:15296691065",
       "marketplace": "shopee",
       "id": "15296691065",
@@ -13957,49 +13999,7 @@
       "posted_ts": 1790251515,
       "posted_at": "2026-09-24T12:05:15.224751+00:00",
       "score": 86.0
-    },
-    {
-      "key": "mercadolivre:MLB5747632298",
-      "marketplace": "mercadolivre",
-      "id": "MLB5747632298",
-      "title": "Calça Legging Redutora Miracle Belt Cor Preto Tamanho Pp",
-      "title_norm": "calca legging redutora miracle belt cor preto tamanho pp",
-      "url": "https://www.mercadolivre.com.br/p/MLB58174814?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB58174814?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "category": "Moda Feminina",
-      "bucket": "moda_feminina",
-      "posted_ts": 1790251451,
-      "posted_at": "2026-09-24T12:04:11.039905+00:00",
-      "score": 88.0
-    },
-    {
-      "key": "shopee:23898739327",
-      "marketplace": "shopee",
-      "id": "23898739327",
-      "title": "Cabo 4 em 1 Carregamento Rápido PD 65W USB Tipo C Lightning Duplo Nylon Trançado para Android e iOS",
-      "title_norm": "cabo 4 em 1 carregamento rapido pd 65w usb tipo c lightning duplo nylon trancado para android e ios",
-      "url": "https://shopee.com.br/product/1587885160/23898739327",
-      "affiliate_url": "https://s.shopee.com.br/3VkVd7XupQ",
-      "category": "Roweder Filial 2",
-      "bucket": "roweder_filial_2",
-      "posted_ts": 1790248816,
-      "posted_at": "2026-09-24T11:20:16.921809+00:00",
-      "score": 70.51
-    },
-    {
-      "key": "shopee:21798200941",
-      "marketplace": "shopee",
-      "id": "21798200941",
-      "title": "Fone P47 Headphone Sem Fio Estéreo Redução de Ruídos Bluetooth 5.0 Universal",
-      "title_norm": "fone p47 headphone sem fio estereo reducao de ruidos bluetooth 5 0 universal",
-      "url": "https://shopee.com.br/product/1396355892/21798200941",
-      "affiliate_url": "https://s.shopee.com.br/6fhXOwZ3ix",
-      "category": "TOP LOJA ELETRONICO",
-      "bucket": "top_loja_eletronico",
-      "posted_ts": 1790248752,
-      "posted_at": "2026-09-24T11:19:12.891500+00:00",
-      "score": 75.6
     }
   ],
-  "updated_at": "2026-10-03T09:16:51.494354+00:00"
+  "updated_at": "2026-10-03T10:20:51.611668+00:00"
 }
