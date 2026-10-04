@@ -1,6 +1,21 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB6619111042",
+      "product_id": "MLB6619111042",
+      "catalog_product_id": "MLB67984389",
+      "item_id": "MLB6619111042",
+      "url": "https://www.mercadolivre.com.br/p/MLB67984389?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB67984389?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "saida praia tule kimono amarracao short feminino verao bege m",
+      "title": "Saída Praia Tule Kimono Amarração Short Feminino Verão Bege M",
+      "category": "Moda Feminina",
+      "price": 97.99,
+      "score": 113.0,
+      "posted_ts": 1791115445,
+      "posted_at": "2026-10-04T12:04:05.646934+00:00"
+    },
+    {
       "key": "mercadolivre:MLB4266241495",
       "product_id": "MLB4266241495",
       "catalog_product_id": "MLB43806010",
@@ -524,22 +539,7 @@
       "score": 88.0,
       "posted_ts": 1790946161,
       "posted_at": "2026-10-02T13:02:41.117436+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB7270317978",
-      "product_id": "MLB7270317978",
-      "catalog_product_id": "MLB75817587",
-      "item_id": "MLB7270317978",
-      "url": "https://www.mercadolivre.com.br/p/MLB75817587?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB75817587?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "prancha esteira ergometrica deck multipla t3000 preto",
-      "title": "Prancha Esteira Ergométrica Deck Múltipla T3000 Preto",
-      "category": "Esportes",
-      "price": 270.57,
-      "score": 103.53,
-      "posted_ts": 1790942582,
-      "posted_at": "2026-10-02T12:03:02.126870+00:00"
     }
   ],
-  "updated_at": "2026-10-04T11:10:55.123523+00:00"
+  "updated_at": "2026-10-04T12:04:05.646946+00:00"
 }

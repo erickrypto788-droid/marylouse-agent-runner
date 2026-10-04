@@ -1,6 +1,20 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB6619111042",
+      "marketplace": "mercadolivre",
+      "id": "MLB6619111042",
+      "title": "Saída Praia Tule Kimono Amarração Short Feminino Verão Bege M",
+      "title_norm": "saida praia tule kimono amarracao short feminino verao bege m",
+      "url": "https://www.mercadolivre.com.br/p/MLB67984389?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB67984389?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Moda Feminina",
+      "bucket": "pet",
+      "posted_ts": 1791115445,
+      "posted_at": "2026-10-04T12:04:05.631894+00:00",
+      "score": 113.0
+    },
+    {
       "key": "shopee:22798552970",
       "marketplace": "shopee",
       "id": "22798552970",
@@ -13985,21 +13999,7 @@
       "posted_ts": 1790342471,
       "posted_at": "2026-09-25T13:21:11.240565+00:00",
       "score": 78.51
-    },
-    {
-      "key": "shopee:58205072200",
-      "marketplace": "shopee",
-      "id": "58205072200",
-      "title": "Jogo Xadrez Magnético Esferas Educacional Tabuleiro Infantil",
-      "title_norm": "jogo xadrez magnetico esferas educacional tabuleiro infantil",
-      "url": "https://shopee.com.br/product/1165645795/58205072200",
-      "affiliate_url": "https://s.shopee.com.br/2LYZy7KxLO",
-      "category": "UTILIDADES VC LTDA",
-      "bucket": "utilidades_vc_ltda",
-      "posted_ts": 1790342407,
-      "posted_at": "2026-09-25T13:20:07.002918+00:00",
-      "score": 87.95
     }
   ],
-  "updated_at": "2026-10-04T11:17:55.888025+00:00"
+  "updated_at": "2026-10-04T12:04:05.631910+00:00"
 }
