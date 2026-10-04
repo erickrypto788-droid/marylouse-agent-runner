@@ -1,6 +1,20 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB4780821021",
+      "marketplace": "mercadolivre",
+      "id": "MLB4780821021",
+      "title": "Esteira Ergométrica Elétrica Dobrável Residencial Com Bluetooth Tela Led 14km/h Jmjn Esteira Ergometrica 120kg",
+      "title_norm": "esteira ergometrica eletrica dobravel residencial com bluetooth tela led 14km h jmjn esteira ergometrica 120kg",
+      "url": "https://www.mercadolivre.com.br/p/MLB73080389?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB73080389?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Esportes",
+      "bucket": "esportes",
+      "posted_ts": 1791126180,
+      "posted_at": "2026-10-04T15:03:00.165510+00:00",
+      "score": 179.26
+    },
+    {
       "key": "shopee:58202799294",
       "marketplace": "shopee",
       "id": "58202799294",
@@ -13985,21 +13999,7 @@
       "posted_ts": 1790349488,
       "posted_at": "2026-09-25T15:18:08.145585+00:00",
       "score": 101.1
-    },
-    {
-      "key": "shopee:22198016021",
-      "marketplace": "shopee",
-      "id": "22198016021",
-      "title": "Kit 10 Unidades Fralda De Pano Estampada 60 x 60 Enxoval Infantil Bebê Menino Menina",
-      "title_norm": "kit 10 unidades fralda de pano estampada 60 x 60 enxoval infantil bebe menino menina",
-      "url": "https://shopee.com.br/product/1017646777/22198016021",
-      "affiliate_url": "https://s.shopee.com.br/9peb28bJQW",
-      "category": "magiainfantil",
-      "bucket": "fraldas",
-      "posted_ts": 1790349418,
-      "posted_at": "2026-09-25T15:16:58.623600+00:00",
-      "score": 113.33
     }
   ],
-  "updated_at": "2026-10-04T14:18:12.874959+00:00"
+  "updated_at": "2026-10-04T15:03:00.165525+00:00"
 }
