@@ -1,6 +1,20 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB7197070408",
+      "marketplace": "mercadolivre",
+      "id": "MLB7197070408",
+      "title": "Monitor Pressão Omron 7122: Saúde No Seu Braço",
+      "title_norm": "monitor pressao omron 7122 saude no seu braco",
+      "url": "https://www.mercadolivre.com.br/p/MLB75425217?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB75425217?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Informática",
+      "bucket": "informatica",
+      "posted_ts": 1791093752,
+      "posted_at": "2026-10-04T06:02:32.765983+00:00",
+      "score": 88.0
+    },
+    {
       "key": "shopee:22699515902",
       "marketplace": "shopee",
       "id": "22699515902",
@@ -13985,21 +13999,7 @@
       "posted_ts": 1790320609,
       "posted_at": "2026-09-25T07:16:49.131418+00:00",
       "score": 109.59
-    },
-    {
-      "key": "shopee:58263369269",
-      "marketplace": "shopee",
-      "id": "58263369269",
-      "title": "Tênis Masculino Academia Casual Esportivo Para Treino Crossfit Caminhada",
-      "title_norm": "tenis masculino academia casual esportivo para treino crossfit caminhada",
-      "url": "https://shopee.com.br/product/1598184222/58263369269",
-      "affiliate_url": "https://s.shopee.com.br/3VkWtPDMRg",
-      "category": "De Macedos 2.0",
-      "bucket": "calcados",
-      "posted_ts": 1790317077,
-      "posted_at": "2026-09-25T06:17:57.928468+00:00",
-      "score": 111.81
     }
   ],
-  "updated_at": "2026-10-04T05:21:06.434663+00:00"
+  "updated_at": "2026-10-04T06:02:32.765997+00:00"
 }
