@@ -1,6 +1,34 @@
 {
   "posts": [
     {
+      "key": "shopee:19197658752",
+      "marketplace": "shopee",
+      "id": "19197658752",
+      "title": "Mochila Grande Masculina Feminina De Viagem Bolsa Academia",
+      "title_norm": "mochila grande masculina feminina de viagem bolsa academia",
+      "url": "https://shopee.com.br/product/222975446/19197658752",
+      "affiliate_url": "https://s.shopee.com.br/2LYnj2pRa1",
+      "category": "Luxor Comercial",
+      "bucket": "bolsas",
+      "posted_ts": 1791087477,
+      "posted_at": "2026-10-04T04:17:57.378051+00:00",
+      "score": 95.07
+    },
+    {
+      "key": "shopee:17981546025",
+      "marketplace": "shopee",
+      "id": "17981546025",
+      "title": "Mochila Unissex Notebook Resistente Água para Viagem ou Escola Compartimento interno acolchoado para Notebook  RC-2528",
+      "title_norm": "mochila unissex notebook resistente agua para viagem ou escola compartimento interno acolchoado para notebook rc 2528",
+      "url": "https://shopee.com.br/product/379659209/17981546025",
+      "affiliate_url": "https://s.shopee.com.br/30oUWGmuED",
+      "category": "magiaworld",
+      "bucket": "informatica",
+      "posted_ts": 1791087413,
+      "posted_at": "2026-10-04T04:16:53.377642+00:00",
+      "score": 127.52
+    },
+    {
       "key": "mercadolivre:MLB7426392508",
       "marketplace": "mercadolivre",
       "id": "MLB7426392508",
@@ -13971,35 +13999,7 @@
       "posted_ts": 1790313476,
       "posted_at": "2026-09-25T05:17:56.974019+00:00",
       "score": 65.11
-    },
-    {
-      "key": "shopee:22398720647",
-      "marketplace": "shopee",
-      "id": "22398720647",
-      "title": "Calça Alfaiataria Feminina Social Com Ziper e Cós Alto Plus Size P ao G3",
-      "title_norm": "calca alfaiataria feminina social com ziper e cos alto plus size p ao g3",
-      "url": "https://shopee.com.br/product/547426318/22398720647",
-      "affiliate_url": "https://s.shopee.com.br/1qcIqEd35T",
-      "category": "Facinella",
-      "bucket": "facinella",
-      "posted_ts": 1790313412,
-      "posted_at": "2026-09-25T05:16:52.712694+00:00",
-      "score": 104.0
-    },
-    {
-      "key": "mercadolivre:MLB7079122650",
-      "marketplace": "mercadolivre",
-      "id": "MLB7079122650",
-      "title": "Conjunto Feminino Alfaiataria Bermuda Blusa Elegante Peplum Conjunto Feminino Bege",
-      "title_norm": "conjunto feminino alfaiataria bermuda blusa elegante peplum conjunto feminino bege",
-      "url": "https://www.mercadolivre.com.br/p/MLB74851412?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB74851412?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "category": "Moda Feminina",
-      "bucket": "moda_feminina",
-      "posted_ts": 1790312653,
-      "posted_at": "2026-09-25T05:04:13.321322+00:00",
-      "score": 88.0
     }
   ],
-  "updated_at": "2026-10-04T04:04:08.561829+00:00"
+  "updated_at": "2026-10-04T04:17:57.378068+00:00"
 }
