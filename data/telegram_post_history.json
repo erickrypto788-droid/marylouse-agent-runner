@@ -1,6 +1,34 @@
 {
   "posts": [
     {
+      "key": "shopee:22391919981",
+      "marketplace": "shopee",
+      "id": "22391919981",
+      "title": "Mochila 2023 bolsa Viagem Resistente a Água Style Premium Executiva Envio imediato",
+      "title_norm": "mochila 2023 bolsa viagem resistente a agua style premium executiva envio imediato",
+      "url": "https://shopee.com.br/product/691323218/22391919981",
+      "affiliate_url": "https://s.shopee.com.br/7Ae3Po3zTV",
+      "category": "ULTRA TECH COMERCIAL LTDA",
+      "bucket": "bolsas",
+      "posted_ts": 1791083874,
+      "posted_at": "2026-10-04T03:17:54.471016+00:00",
+      "score": 98.64
+    },
+    {
+      "key": "shopee:22094228144",
+      "marketplace": "shopee",
+      "id": "22094228144",
+      "title": "TOMI MITO Bolsa Feminina com Alça Lateral Transversal Faixa de Mão de Couro B736",
+      "title_norm": "tomi mito bolsa feminina com alca lateral transversal faixa de mao de couro b736",
+      "url": "https://shopee.com.br/product/1468415010/22094228144",
+      "affiliate_url": "https://s.shopee.com.br/8AWabdvmdZ",
+      "category": "Amy.Store",
+      "bucket": "bolsas",
+      "posted_ts": 1791083810,
+      "posted_at": "2026-10-04T03:16:50.338987+00:00",
+      "score": 104.74
+    },
+    {
       "key": "shopee:22498789144",
       "marketplace": "shopee",
       "id": "22498789144",
@@ -13971,35 +13999,7 @@
       "posted_ts": 1790310008,
       "posted_at": "2026-09-25T04:20:08.655103+00:00",
       "score": 94.06
-    },
-    {
-      "key": "shopee:58265588022",
-      "marketplace": "shopee",
-      "id": "58265588022",
-      "title": "Kit Com 3 e 2 Calças Jeans Masculinas Slim Fit Básicas Cores Variadas Dia a Dia",
-      "title_norm": "kit com 3 e 2 calcas jeans masculinas slim fit basicas cores variadas dia a dia",
-      "url": "https://shopee.com.br/product/1031671189/58265588022",
-      "affiliate_url": "https://s.shopee.com.br/3LR6Yrr9dH",
-      "category": "EPIPHANY OFICIAL",
-      "bucket": "epiphany_oficial",
-      "posted_ts": 1790309944,
-      "posted_at": "2026-09-25T04:19:04.711182+00:00",
-      "score": 98.53
-    },
-    {
-      "key": "shopee:23992783058",
-      "marketplace": "shopee",
-      "id": "23992783058",
-      "title": "Kit 2 camisa polo masculina camiseta premium piquet poliester",
-      "title_norm": "kit 2 camisa polo masculina camiseta premium piquet poliester",
-      "url": "https://shopee.com.br/product/380575792/23992783058",
-      "affiliate_url": "https://s.shopee.com.br/9AOtVaHkS1",
-      "category": "78 STORE",
-      "bucket": "78_store",
-      "posted_ts": 1790309880,
-      "posted_at": "2026-09-25T04:18:00.759271+00:00",
-      "score": 99.95
     }
   ],
-  "updated_at": "2026-10-04T02:21:19.444768+00:00"
+  "updated_at": "2026-10-04T03:17:54.471031+00:00"
 }
