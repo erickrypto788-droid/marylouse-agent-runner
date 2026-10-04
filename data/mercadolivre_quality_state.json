@@ -1,6 +1,36 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB4450293643",
+      "product_id": "MLB4450293643",
+      "catalog_product_id": "MLB29728116",
+      "item_id": "MLB4450293643",
+      "url": "https://www.mercadolivre.com.br/p/MLB29728116?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB29728116?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "xiaomi poco poco x6 5g dual sim 256gb 12gb branco",
+      "title": "Xiaomi POCO Poco X6 5G Dual SIM 256GB/12GB Branco",
+      "category": "Informática",
+      "price": 3500.0,
+      "score": 124.0,
+      "posted_ts": 1791147815,
+      "posted_at": "2026-10-04T21:03:35.449528+00:00"
+    },
+    {
+      "key": "mercadolivre:MLB6099604986",
+      "product_id": "MLB6099604986",
+      "catalog_product_id": "MLB47310708",
+      "item_id": "MLB6099604986",
+      "url": "https://www.mercadolivre.com.br/p/MLB47310708?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB47310708?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "smartphone samsung galaxy a32 128gb branco",
+      "title": "Smartphone Samsung Galaxy A32 128gb Branco",
+      "category": "Informática",
+      "price": 1959.9,
+      "score": 131.47,
+      "posted_ts": 1791147751,
+      "posted_at": "2026-10-04T21:02:31.510436+00:00"
+    },
+    {
       "key": "mercadolivre:MLB7584337290",
       "product_id": "MLB7584337290",
       "catalog_product_id": "MLB24511657",
@@ -509,22 +539,7 @@
       "score": 121.67,
       "posted_ts": 1790989604,
       "posted_at": "2026-10-03T01:06:44.643176+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB6406780222",
-      "product_id": "MLB6406780222",
-      "catalog_product_id": "MLB32106098",
-      "item_id": "MLB6406780222",
-      "url": "https://www.mercadolivre.com.br/p/MLB32106098?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB32106098?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "racao premier pet vitta natural racao cachorro adulto 15k",
-      "title": "Ração Premier Pet Vitta Natural Ração Cachorro Adulto 15k",
-      "category": "Pet",
-      "price": 148.0,
-      "score": 129.0,
-      "posted_ts": 1790974963,
-      "posted_at": "2026-10-02T21:02:43.389412+00:00"
     }
   ],
-  "updated_at": "2026-10-04T19:02:26.453846+00:00"
+  "updated_at": "2026-10-04T21:03:35.449541+00:00"
 }

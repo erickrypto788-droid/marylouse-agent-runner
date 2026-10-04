@@ -1,6 +1,34 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB4450293643",
+      "marketplace": "mercadolivre",
+      "id": "MLB4450293643",
+      "title": "Xiaomi POCO Poco X6 5G Dual SIM 256GB/12GB Branco",
+      "title_norm": "xiaomi poco poco x6 5g dual sim 256gb 12gb branco",
+      "url": "https://www.mercadolivre.com.br/p/MLB29728116?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB29728116?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Informática",
+      "bucket": "celulares",
+      "posted_ts": 1791147815,
+      "posted_at": "2026-10-04T21:03:35.435885+00:00",
+      "score": 124.0
+    },
+    {
+      "key": "mercadolivre:MLB6099604986",
+      "marketplace": "mercadolivre",
+      "id": "MLB6099604986",
+      "title": "Smartphone Samsung Galaxy A32 128gb Branco",
+      "title_norm": "smartphone samsung galaxy a32 128gb branco",
+      "url": "https://www.mercadolivre.com.br/p/MLB47310708?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB47310708?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Informática",
+      "bucket": "celulares",
+      "posted_ts": 1791147751,
+      "posted_at": "2026-10-04T21:02:31.496363+00:00",
+      "score": 131.47
+    },
+    {
       "key": "shopee:58254619015",
       "marketplace": "shopee",
       "id": "58254619015",
@@ -13971,35 +13999,7 @@
       "posted_ts": 1790374745,
       "posted_at": "2026-09-25T22:19:05.247278+00:00",
       "score": 116.69
-    },
-    {
-      "key": "shopee:58205320938",
-      "marketplace": "shopee",
-      "id": "58205320938",
-      "title": "Kit 3 T-Shirt Algodão 30.1 Comfort Confortavel Estilosa Baby Look Casual Básica Urbana",
-      "title_norm": "kit 3 t shirt algodao 30 1 comfort confortavel estilosa baby look casual basica urbana",
-      "url": "https://shopee.com.br/product/1709468100/58205320938",
-      "affiliate_url": "https://s.shopee.com.br/7Adp3mwJCu",
-      "category": "Gota de ouro ",
-      "bucket": "gota_de_ouro",
-      "posted_ts": 1790374681,
-      "posted_at": "2026-09-25T22:18:01.320063+00:00",
-      "score": 117.94
-    },
-    {
-      "key": "shopee:48514225661",
-      "marketplace": "shopee",
-      "id": "48514225661",
-      "title": "Calça Feminina Lanzinha Cintura Alta com Bolso Inverno",
-      "title_norm": "calca feminina lanzinha cintura alta com bolso inverno",
-      "url": "https://shopee.com.br/product/1423570800/48514225661",
-      "affiliate_url": "https://s.shopee.com.br/7VGfSP3uMA",
-      "category": "GreenStory",
-      "bucket": "greenstory",
-      "posted_ts": 1790374617,
-      "posted_at": "2026-09-25T22:16:57.374454+00:00",
-      "score": 119.27
     }
   ],
-  "updated_at": "2026-10-04T20:20:21.863102+00:00"
+  "updated_at": "2026-10-04T21:03:35.435898+00:00"
 }
