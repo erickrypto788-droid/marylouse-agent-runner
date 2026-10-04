@@ -1,6 +1,34 @@
 {
   "posts": [
     {
+      "key": "shopee:14838525205",
+      "marketplace": "shopee",
+      "id": "14838525205",
+      "title": "Bota Coturno Feminina Tratorada Motoqueira Lançamento Inverno",
+      "title_norm": "bota coturno feminina tratorada motoqueira lancamento inverno",
+      "url": "https://shopee.com.br/product/318092220/14838525205",
+      "affiliate_url": "https://s.shopee.com.br/2VsEWR5roJ",
+      "category": "Loja Tenis Onlinee",
+      "bucket": "calcados",
+      "posted_ts": 1791119881,
+      "posted_at": "2026-10-04T13:18:01.595500+00:00",
+      "score": 97.61
+    },
+    {
+      "key": "shopee:22299455857",
+      "marketplace": "shopee",
+      "id": "22299455857",
+      "title": "Bota Coturno Adventure Feminino Tênis Cano Curto Preto Rosa do 33 ao 40",
+      "title_norm": "bota coturno adventure feminino tenis cano curto preto rosa do 33 ao 40",
+      "url": "https://shopee.com.br/product/1788702793/22299455857",
+      "affiliate_url": "https://s.shopee.com.br/7ptjbwt3XI",
+      "category": "Shop da Ca",
+      "bucket": "calcados",
+      "posted_ts": 1791119817,
+      "posted_at": "2026-10-04T13:16:57.648492+00:00",
+      "score": 98.37
+    },
+    {
       "key": "shopee:21435125828",
       "marketplace": "shopee",
       "id": "21435125828",
@@ -13971,35 +13999,7 @@
       "posted_ts": 1790345883,
       "posted_at": "2026-09-25T14:18:03.655701+00:00",
       "score": 109.74
-    },
-    {
-      "key": "shopee:23893497572",
-      "marketplace": "shopee",
-      "id": "23893497572",
-      "title": "Oxímetro Infantil Neonatal Pediátrico De Dedo Digital Crianças Medidor Oxigênio Recarregável Pulse Yihan",
-      "title_norm": "oximetro infantil neonatal pediatrico de dedo digital criancas medidor oxigenio recarregavel pulse yihan",
-      "url": "https://shopee.com.br/product/696313634/23893497572",
-      "affiliate_url": "https://s.shopee.com.br/70KOCI3USz",
-      "category": "Yihan.store",
-      "bucket": "saude",
-      "posted_ts": 1790345819,
-      "posted_at": "2026-09-25T14:16:59.603329+00:00",
-      "score": 109.81
-    },
-    {
-      "key": "mercadolivre:MLB5200062049",
-      "marketplace": "mercadolivre",
-      "id": "MLB5200062049",
-      "title": "Celular Samsung Galaxy A06 5g Preto",
-      "title_norm": "celular samsung galaxy a06 5g preto",
-      "url": "https://www.mercadolivre.com.br/p/MLB65973005?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB65973005?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "category": "Informática",
-      "bucket": "celulares",
-      "posted_ts": 1790345096,
-      "posted_at": "2026-09-25T14:04:56.968049+00:00",
-      "score": 127.0
     }
   ],
-  "updated_at": "2026-10-04T12:18:00.772004+00:00"
+  "updated_at": "2026-10-04T13:18:01.595527+00:00"
 }
