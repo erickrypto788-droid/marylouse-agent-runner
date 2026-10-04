@@ -1,6 +1,20 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB7526272332",
+      "marketplace": "mercadolivre",
+      "id": "MLB7526272332",
+      "title": "Ração Gato Castrado Life Special Robustus 10,1kg",
+      "title_norm": "racao gato castrado life special robustus 10 1kg",
+      "url": "https://www.mercadolivre.com.br/p/MLB75981402?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB75981402?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Pet",
+      "bucket": "pet",
+      "posted_ts": 1791097381,
+      "posted_at": "2026-10-04T07:03:01.330455+00:00",
+      "score": 113.0
+    },
+    {
       "key": "shopee:58258835199",
       "marketplace": "shopee",
       "id": "58258835199",
@@ -13985,21 +13999,7 @@
       "posted_ts": 1790324456,
       "posted_at": "2026-09-25T08:20:56.423928+00:00",
       "score": 76.79
-    },
-    {
-      "key": "shopee:58208462064",
-      "marketplace": "shopee",
-      "id": "58208462064",
-      "title": "Fone De Ouvido Sem Fio I13 Com Bluetooth 5.0 TWS",
-      "title_norm": "fone de ouvido sem fio i13 com bluetooth 5 0 tws",
-      "url": "https://shopee.com.br/product/1679478603/58208462064",
-      "affiliate_url": "https://s.shopee.com.br/8fSdBBk7QW",
-      "category": "Vivar Top",
-      "bucket": "vivar_top",
-      "posted_ts": 1790324389,
-      "posted_at": "2026-09-25T08:19:49.631748+00:00",
-      "score": 101.79
     }
   ],
-  "updated_at": "2026-10-04T06:21:05.010565+00:00"
+  "updated_at": "2026-10-04T07:03:01.330466+00:00"
 }
