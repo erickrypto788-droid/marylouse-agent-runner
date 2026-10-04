@@ -1,6 +1,20 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB7584337290",
+      "marketplace": "mercadolivre",
+      "id": "MLB7584337290",
+      "title": "SSD Netac Nv3000 Ssd Nvme M2 250gb",
+      "title_norm": "ssd netac nv3000 ssd nvme m2 250gb",
+      "url": "https://www.mercadolivre.com.br/p/MLB24511657?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB24511657?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Informática",
+      "bucket": "informatica",
+      "posted_ts": 1791140546,
+      "posted_at": "2026-10-04T19:02:26.439679+00:00",
+      "score": 111.0
+    },
+    {
       "key": "shopee:58204084130",
       "marketplace": "shopee",
       "id": "58204084130",
@@ -13985,21 +13999,7 @@
       "posted_ts": 1790367538,
       "posted_at": "2026-09-25T20:18:58.777581+00:00",
       "score": 90.43
-    },
-    {
-      "key": "shopee:54557028525",
-      "marketplace": "shopee",
-      "id": "54557028525",
-      "title": "Chaleira Elétrica Inox 1,8L 1000W ou 1200W Desligamento Automático - Bule Jarra Cafeteira Elétrica Aquece Água Rápido",
-      "title_norm": "chaleira eletrica inox 1 8l 1000w ou 1200w desligamento automatico bule jarra cafeteira eletrica aquece agua rapido",
-      "url": "https://shopee.com.br/product/332059670/54557028525",
-      "affiliate_url": "https://s.shopee.com.br/9KiJVX5Un0",
-      "category": "Pratitudo Essencial",
-      "bucket": "casa_cozinha",
-      "posted_ts": 1790367474,
-      "posted_at": "2026-09-25T20:17:54.915275+00:00",
-      "score": 131.93
     }
   ],
-  "updated_at": "2026-10-04T18:21:09.171279+00:00"
+  "updated_at": "2026-10-04T19:02:26.439692+00:00"
 }
