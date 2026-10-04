@@ -1,6 +1,34 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB7262266178",
+      "marketplace": "mercadolivre",
+      "id": "MLB7262266178",
+      "title": "Monitor Bebe Wifi Infravermelho Vision Noctura Intercom Inteligente",
+      "title_norm": "monitor bebe wifi infravermelho vision noctura intercom inteligente",
+      "url": "https://www.mercadolivre.com.br/p/MLB23076913?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB23076913?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Informática",
+      "bucket": "informatica",
+      "posted_ts": 1791101039,
+      "posted_at": "2026-10-04T08:03:59.364342+00:00",
+      "score": 86.0
+    },
+    {
+      "key": "mercadolivre:MLB7591842132",
+      "marketplace": "mercadolivre",
+      "id": "MLB7591842132",
+      "title": "Azul escova limpeza mamadeira kit para limpeza de mamadeira kit limpeza mamadeira viagem kit limpeza bebe escova mamadeira portatil escova bico canudo secador higiene infantil acessorios bebe",
+      "title_norm": "azul escova limpeza mamadeira kit para limpeza de mamadeira kit limpeza mamadeira viagem kit limpeza bebe escova mamadeira portatil escova bico canudo secador higiene infantil acessorios bebe",
+      "url": "https://www.mercadolivre.com.br/p/MLB75043054?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB75043054?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Mãe e Bebê",
+      "bucket": "beleza",
+      "posted_ts": 1791100968,
+      "posted_at": "2026-10-04T08:02:48.815521+00:00",
+      "score": 191.5
+    },
+    {
       "key": "shopee:20609359452",
       "marketplace": "shopee",
       "id": "20609359452",
@@ -13971,35 +13999,7 @@
       "posted_ts": 1790331417,
       "posted_at": "2026-09-25T10:16:57.189318+00:00",
       "score": 133.76
-    },
-    {
-      "key": "shopee:23993933147",
-      "marketplace": "shopee",
-      "id": "23993933147",
-      "title": "Micro-ondas Britânia 20L Pintura Limpa Fácil BMO23",
-      "title_norm": "micro ondas britania 20l pintura limpa facil bmo23",
-      "url": "https://shopee.com.br/product/811879342/23993933147",
-      "affiliate_url": "https://s.shopee.com.br/5fp1flGKKX",
-      "category": "Britânia Oficial",
-      "bucket": "britania_oficial",
-      "posted_ts": 1790328088,
-      "posted_at": "2026-09-25T09:21:28.084208+00:00",
-      "score": 82.33
-    },
-    {
-      "key": "shopee:20697344113",
-      "marketplace": "shopee",
-      "id": "20697344113",
-      "title": "Aspirador de Pó Vertical Britânia 2 em 1 BAS1295P 1250W",
-      "title_norm": "aspirador de po vertical britania 2 em 1 bas1295p 1250w",
-      "url": "https://shopee.com.br/product/811879342/20697344113",
-      "affiliate_url": "https://s.shopee.com.br/gQLiZUxhb",
-      "category": "Britânia Oficial",
-      "bucket": "casa_cozinha",
-      "posted_ts": 1790328019,
-      "posted_at": "2026-09-25T09:20:19.920915+00:00",
-      "score": 99.17
     }
   ],
-  "updated_at": "2026-10-04T07:21:36.392595+00:00"
+  "updated_at": "2026-10-04T08:03:59.364359+00:00"
 }
