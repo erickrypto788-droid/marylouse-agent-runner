@@ -1,6 +1,34 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB7426392508",
+      "marketplace": "mercadolivre",
+      "id": "MLB7426392508",
+      "title": "Ulefone Note 18 Ultra 256GB 6GB RAM Celular 5G 5450mAh Câmera 50MP Cinza",
+      "title_norm": "ulefone note 18 ultra 256gb 6gb ram celular 5g 5450mah camera 50mp cinza",
+      "url": "https://www.mercadolivre.com.br/p/MLB77446523?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB77446523?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Informática",
+      "bucket": "celulares",
+      "posted_ts": 1791086648,
+      "posted_at": "2026-10-04T04:04:08.561815+00:00",
+      "score": 117.67
+    },
+    {
+      "key": "mercadolivre:MLB5306191149",
+      "marketplace": "mercadolivre",
+      "id": "MLB5306191149",
+      "title": "Smartphone Xiaomí Redmi 12 Preto 128/4gb + E Fone",
+      "title_norm": "smartphone xiaomi redmi 12 preto 128 4gb e fone",
+      "url": "https://www.mercadolivre.com.br/p/MLB47306212?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB47306212?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Informática",
+      "bucket": "celulares",
+      "posted_ts": 1791086583,
+      "posted_at": "2026-10-04T04:03:03.915362+00:00",
+      "score": 136.67
+    },
+    {
       "key": "shopee:22391919981",
       "marketplace": "shopee",
       "id": "22391919981",
@@ -13971,35 +13999,7 @@
       "posted_ts": 1790312653,
       "posted_at": "2026-09-25T05:04:13.321322+00:00",
       "score": 88.0
-    },
-    {
-      "key": "shopee:22392540812",
-      "marketplace": "shopee",
-      "id": "22392540812",
-      "title": "Kit 10 Cuecas Boxer Microfibra Adulto + 12 Pares Meias Algodão",
-      "title_norm": "kit 10 cuecas boxer microfibra adulto 12 pares meias algodao",
-      "url": "https://shopee.com.br/product/1095111736/22392540812",
-      "affiliate_url": "https://s.shopee.com.br/1VzSNV2X8Y",
-      "category": "Fast Mais",
-      "bucket": "fast_mais",
-      "posted_ts": 1790310072,
-      "posted_at": "2026-09-25T04:21:12.566308+00:00",
-      "score": 93.31
-    },
-    {
-      "key": "shopee:14642418245",
-      "marketplace": "shopee",
-      "id": "14642418245",
-      "title": "Calça Masculina Esporte Fino Estilo Social - Sport Fino",
-      "title_norm": "calca masculina esporte fino estilo social sport fino",
-      "url": "https://shopee.com.br/product/661543932/14642418245",
-      "affiliate_url": "https://s.shopee.com.br/2LYZN1uxfB",
-      "category": "Urban Zone Jeans ",
-      "bucket": "urban_zone_jeans",
-      "posted_ts": 1790310008,
-      "posted_at": "2026-09-25T04:20:08.655103+00:00",
-      "score": 94.06
     }
   ],
-  "updated_at": "2026-10-04T03:17:54.471031+00:00"
+  "updated_at": "2026-10-04T04:04:08.561829+00:00"
 }
