@@ -1,6 +1,20 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB7513707254",
+      "marketplace": "mercadolivre",
+      "id": "MLB7513707254",
+      "title": "Mini Impressora Niimbot B1 etiqueta Bluetooth Cor Prateado impressora etiquetas adesivas",
+      "title_norm": "mini impressora niimbot b1 etiqueta bluetooth cor prateado impressora etiquetas adesivas",
+      "url": "https://www.mercadolivre.com.br/p/MLB57578486?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB57578486?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Informática",
+      "bucket": "informatica",
+      "posted_ts": 1791104576,
+      "posted_at": "2026-10-04T09:02:56.929182+00:00",
+      "score": 88.0
+    },
+    {
       "key": "shopee:58200010613",
       "marketplace": "shopee",
       "id": "58200010613",
@@ -13985,21 +13999,7 @@
       "posted_ts": 1790331570,
       "posted_at": "2026-09-25T10:19:30.653151+00:00",
       "score": 97.33
-    },
-    {
-      "key": "shopee:22094238842",
-      "marketplace": "shopee",
-      "id": "22094238842",
-      "title": "BODY SPLASH FEMININO ARABE AYRA 100ML - PRIMACIAL PERFUME FLORAL",
-      "title_norm": "body splash feminino arabe ayra 100ml primacial perfume floral",
-      "url": "https://shopee.com.br/product/1295467768/22094238842",
-      "affiliate_url": "https://s.shopee.com.br/1Lg2ZuiD3v",
-      "category": "Primacial",
-      "bucket": "beleza",
-      "posted_ts": 1790331501,
-      "posted_at": "2026-09-25T10:18:21.622024+00:00",
-      "score": 126.8
     }
   ],
-  "updated_at": "2026-10-04T08:16:53.901608+00:00"
+  "updated_at": "2026-10-04T09:02:56.929195+00:00"
 }

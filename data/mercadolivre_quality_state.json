@@ -1,6 +1,21 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB7513707254",
+      "product_id": "MLB7513707254",
+      "catalog_product_id": "MLB57578486",
+      "item_id": "MLB7513707254",
+      "url": "https://www.mercadolivre.com.br/p/MLB57578486?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB57578486?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "mini impressora niimbot b1 etiqueta bluetooth cor prateado impressora etiquetas adesivas",
+      "title": "Mini Impressora Niimbot B1 etiqueta Bluetooth Cor Prateado impressora etiquetas adesivas",
+      "category": "Informática",
+      "price": 209.99,
+      "score": 88.0,
+      "posted_ts": 1791104576,
+      "posted_at": "2026-10-04T09:02:56.943215+00:00"
+    },
+    {
       "key": "mercadolivre:MLB7262266178",
       "product_id": "MLB7262266178",
       "catalog_product_id": "MLB23076913",
@@ -524,52 +539,7 @@
       "score": 97.67,
       "posted_ts": 1790931824,
       "posted_at": "2026-10-02T09:03:44.065312+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB5827798066",
-      "product_id": "MLB5827798066",
-      "catalog_product_id": "MLB47658528",
-      "item_id": "MLB5827798066",
-      "url": "https://www.mercadolivre.com.br/p/MLB47658528?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB47658528?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "kit papel toalha interfolha supremo e papel toalha mili",
-      "title": "Kit Papel Toalha Interfolha Supremo E Papel Toalha Mili",
-      "category": "Supermercados",
-      "price": 105.45,
-      "score": 98.67,
-      "posted_ts": 1790928587,
-      "posted_at": "2026-10-02T08:09:47.019800+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB5827152542",
-      "product_id": "MLB5827152542",
-      "catalog_product_id": "MLB60416491",
-      "item_id": "MLB5827152542",
-      "url": "https://www.mercadolivre.com.br/p/MLB60416491?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB60416491?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "amaciante roupas macias sensiv titila 5l",
-      "title": "Amaciante Roupas Macias Sensiv Titila 5l",
-      "category": "Supermercados",
-      "price": 47.4,
-      "score": 103.67,
-      "posted_ts": 1790928519,
-      "posted_at": "2026-10-02T08:08:39.287329+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB7190286922",
-      "product_id": "MLB7190286922",
-      "catalog_product_id": "MLB75541518",
-      "item_id": "MLB7190286922",
-      "url": "https://www.mercadolivre.com.br/p/MLB75541518?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB75541518?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "luminaria foguete lava bolha todas as cores decoracao retro",
-      "title": "Luminária Foguete Lava Bolha Todas As Cores Decoração Retrô",
-      "category": "Pet",
-      "price": 134.3,
-      "score": 149.67,
-      "posted_ts": 1790928430,
-      "posted_at": "2026-10-02T08:07:10.491959+00:00"
     }
   ],
-  "updated_at": "2026-10-04T08:03:59.373652+00:00"
+  "updated_at": "2026-10-04T09:02:56.943224+00:00"
 }
