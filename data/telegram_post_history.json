@@ -1,6 +1,34 @@
 {
   "posts": [
     {
+      "key": "shopee:21435125828",
+      "marketplace": "shopee",
+      "id": "21435125828",
+      "title": "Sapatênis Casual Masculino Confort Couro Anti Stress Calce Fácil Ortopedico com Ziper Promoção",
+      "title_norm": "sapatenis casual masculino confort couro anti stress calce facil ortopedico com ziper promocao",
+      "url": "https://shopee.com.br/product/694034844/21435125828",
+      "affiliate_url": "https://s.shopee.com.br/9KiYasHGhd",
+      "category": "Imperial_Shoes",
+      "bucket": "calcados",
+      "posted_ts": 1791116280,
+      "posted_at": "2026-10-04T12:18:00.771990+00:00",
+      "score": 91.21
+    },
+    {
+      "key": "shopee:23493066342",
+      "marketplace": "shopee",
+      "id": "23493066342",
+      "title": "Bota PVC Chuva Motociclista Moto Impermeável Forrado",
+      "title_norm": "bota pvc chuva motociclista moto impermeavel forrado",
+      "url": "https://shopee.com.br/product/1081929427/23493066342",
+      "affiliate_url": "https://s.shopee.com.br/W7A4dtMdM",
+      "category": "Safe_Brasil",
+      "bucket": "calcados",
+      "posted_ts": 1791116216,
+      "posted_at": "2026-10-04T12:16:56.537503+00:00",
+      "score": 105.33
+    },
+    {
       "key": "mercadolivre:MLB6619111042",
       "marketplace": "mercadolivre",
       "id": "MLB6619111042",
@@ -13971,35 +13999,7 @@
       "posted_ts": 1790345096,
       "posted_at": "2026-09-25T14:04:56.968049+00:00",
       "score": 127.0
-    },
-    {
-      "key": "mercadolivre:MLB5919313906",
-      "marketplace": "mercadolivre",
-      "id": "MLB5919313906",
-      "title": "Carregador Portátil 20000mAh Bahrein Power Bank Universal Power Bank Carga Rápida Com Display Bahrein Compatível Com Todos Celulares Iphone Android IOS apple xiaomi Samsung Motorola",
-      "title_norm": "carregador portatil 20000mah bahrein power bank universal power bank carga rapida com display bahrein compativel com todos celulares iphone android ios apple xiaomi samsung motorola",
-      "url": "https://www.mercadolivre.com.br/p/MLB24099360?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB24099360?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "category": "Informática",
-      "bucket": "celulares",
-      "posted_ts": 1790344988,
-      "posted_at": "2026-09-25T14:03:08.901270+00:00",
-      "score": 149.86
-    },
-    {
-      "key": "shopee:18299383775",
-      "marketplace": "shopee",
-      "id": "18299383775",
-      "title": "Carrinho de Bonecas Infantil Carrinho de Bebê Reborn Carrinho de Bonecas Reborn",
-      "title_norm": "carrinho de bonecas infantil carrinho de bebe reborn carrinho de bonecas reborn",
-      "url": "https://shopee.com.br/product/847598018/18299383775",
-      "affiliate_url": "https://s.shopee.com.br/4LJeLnHoMW",
-      "category": "Ngk Store",
-      "bucket": "ngk_store",
-      "posted_ts": 1790342471,
-      "posted_at": "2026-09-25T13:21:11.240565+00:00",
-      "score": 78.51
     }
   ],
-  "updated_at": "2026-10-04T12:04:05.631910+00:00"
+  "updated_at": "2026-10-04T12:18:00.772004+00:00"
 }
