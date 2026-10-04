@@ -1,6 +1,21 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB5041528061",
+      "product_id": "MLB5041528061",
+      "catalog_product_id": "MLB43810473",
+      "item_id": "MLB5041528061",
+      "url": "https://www.mercadolivre.com.br/p/MLB43810473?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB43810473?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "kit ferramentas informatica cor preto",
+      "title": "Kit Ferramentas Informatica Cor Preto",
+      "category": "Ferramentas",
+      "price": 104.5,
+      "score": 88.0,
+      "posted_ts": 1791136941,
+      "posted_at": "2026-10-04T18:02:21.033459+00:00"
+    },
+    {
       "key": "mercadolivre:MLB4780821021",
       "product_id": "MLB4780821021",
       "catalog_product_id": "MLB73080389",
@@ -524,22 +539,7 @@
       "score": 160.37,
       "posted_ts": 1790964186,
       "posted_at": "2026-10-02T18:03:06.395804+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB4660765859",
-      "product_id": "MLB4660765859",
-      "catalog_product_id": "MLB69073417",
-      "item_id": "MLB4660765859",
-      "url": "https://www.mercadolivre.com.br/p/MLB69073417?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB69073417?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "modem 4g lte mini roteador wifi usb portatil cor preto",
-      "title": "Modem 4g Lte Mini Roteador Wifi Usb Portátil Cor Preto",
-      "category": "Informática",
-      "price": 149.4,
-      "score": 148.67,
-      "posted_ts": 1790956999,
-      "posted_at": "2026-10-02T16:03:19.478460+00:00"
     }
   ],
-  "updated_at": "2026-10-04T15:03:00.179945+00:00"
+  "updated_at": "2026-10-04T18:02:21.033469+00:00"
 }
