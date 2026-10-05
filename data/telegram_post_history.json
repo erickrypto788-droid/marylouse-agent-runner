@@ -1,6 +1,20 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB4100148177",
+      "marketplace": "mercadolivre",
+      "id": "MLB4100148177",
+      "title": "Barbeador Costas Masculino Traseiro Dobrável Aparador Pelos",
+      "title_norm": "barbeador costas masculino traseiro dobravel aparador pelos",
+      "url": "https://www.mercadolivre.com.br/p/MLB51434487?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB51434487?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Beleza",
+      "bucket": "beleza",
+      "posted_ts": 1791190965,
+      "posted_at": "2026-10-05T09:02:45.998978+00:00",
+      "score": 139.6
+    },
+    {
       "key": "shopee:22199283663",
       "marketplace": "shopee",
       "id": "22199283663",
@@ -13985,21 +13999,7 @@
       "posted_ts": 1790418090,
       "posted_at": "2026-09-26T10:21:30.998913+00:00",
       "score": 56.85
-    },
-    {
-      "key": "shopee:58214792830",
-      "marketplace": "shopee",
-      "id": "58214792830",
-      "title": "Berço Portatil Moises Americano Acoplado Bebe Com Balanço e Mosqueteiro",
-      "title_norm": "berco portatil moises americano acoplado bebe com balanco e mosqueteiro",
-      "url": "https://shopee.com.br/product/658268072/58214792830",
-      "affiliate_url": "https://s.shopee.com.br/AUuJ5eVkcL",
-      "category": "Scagg Kids",
-      "bucket": "scagg_kids",
-      "posted_ts": 1790418023,
-      "posted_at": "2026-09-26T10:20:23.935174+00:00",
-      "score": 62.44
     }
   ],
-  "updated_at": "2026-10-05T08:18:02.077004+00:00"
+  "updated_at": "2026-10-05T09:02:45.999000+00:00"
 }
