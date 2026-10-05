@@ -1,6 +1,21 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB4110890853",
+      "product_id": "MLB4110890853",
+      "catalog_product_id": "MLB51893724",
+      "item_id": "MLB4110890853",
+      "url": "https://www.mercadolivre.com.br/p/MLB51893724?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB51893724?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "baba eletronica hellobaby hb66pro monitor bebe 3 2 white",
+      "title": "Babá Eletrônica Hellobaby Hb66pro Monitor Bebê 3.2 White",
+      "category": "Informática",
+      "price": 392.99,
+      "score": 86.0,
+      "posted_ts": 1791223409,
+      "posted_at": "2026-10-05T18:03:29.492925+00:00"
+    },
+    {
       "key": "mercadolivre:MLB5064332025",
       "product_id": "MLB5064332025",
       "catalog_product_id": "MLB38338089",
@@ -556,5 +571,5 @@
       "posted_at": "2026-10-03T18:06:39.612071+00:00"
     }
   ],
-  "updated_at": "2026-10-05T17:03:58.682565+00:00"
+  "updated_at": "2026-10-05T18:03:29.492933+00:00"
 }

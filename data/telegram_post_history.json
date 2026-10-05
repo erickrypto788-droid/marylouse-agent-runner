@@ -1,6 +1,20 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB4110890853",
+      "marketplace": "mercadolivre",
+      "id": "MLB4110890853",
+      "title": "Babá Eletrônica Hellobaby Hb66pro Monitor Bebê 3.2 White",
+      "title_norm": "baba eletronica hellobaby hb66pro monitor bebe 3 2 white",
+      "url": "https://www.mercadolivre.com.br/p/MLB51893724?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB51893724?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Informática",
+      "bucket": "informatica",
+      "posted_ts": 1791223409,
+      "posted_at": "2026-10-05T18:03:29.480815+00:00",
+      "score": 86.0
+    },
+    {
       "key": "shopee:58255636370",
       "marketplace": "shopee",
       "id": "58255636370",
@@ -13985,21 +13999,7 @@
       "posted_ts": 1790464612,
       "posted_at": "2026-09-26T23:16:52.303044+00:00",
       "score": 126.47
-    },
-    {
-      "key": "shopee:41672473191",
-      "marketplace": "shopee",
-      "id": "41672473191",
-      "title": "Sandália Feminina Shekinah Salto Bloco Quadrado  Tiras Cruzadas Super Leve Confortável Moderna",
-      "title_norm": "sandalia feminina shekinah salto bloco quadrado tiras cruzadas super leve confortavel moderna",
-      "url": "https://shopee.com.br/product/375175329/41672473191",
-      "affiliate_url": "https://s.shopee.com.br/9AOuyEr9Yg",
-      "category": "Shekinah Calçados",
-      "bucket": "calcados",
-      "posted_ts": 1790461075,
-      "posted_at": "2026-09-26T22:17:55.568752+00:00",
-      "score": 93.59
     }
   ],
-  "updated_at": "2026-10-05T17:21:08.977925+00:00"
+  "updated_at": "2026-10-05T18:03:29.480830+00:00"
 }
