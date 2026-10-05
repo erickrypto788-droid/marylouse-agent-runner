@@ -1,6 +1,20 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB5064332025",
+      "marketplace": "mercadolivre",
+      "id": "MLB5064332025",
+      "title": "Ração Gato Castrado Cat Excellence Salmão 10,1 Kg",
+      "title_norm": "racao gato castrado cat excellence salmao 10 1 kg",
+      "url": "https://www.mercadolivre.com.br/p/MLB38338089?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB38338089?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Pet",
+      "bucket": "pet",
+      "posted_ts": 1791219838,
+      "posted_at": "2026-10-05T17:03:58.667928+00:00",
+      "score": 113.0
+    },
+    {
       "key": "shopee:23699438217",
       "marketplace": "shopee",
       "id": "23699438217",
@@ -13985,21 +13999,7 @@
       "posted_ts": 1790453936,
       "posted_at": "2026-09-26T20:18:56.398175+00:00",
       "score": 96.76
-    },
-    {
-      "key": "shopee:22798552970",
-      "marketplace": "shopee",
-      "id": "22798552970",
-      "title": "Bermuda transpassada plus size M ao G3 academia moda modesta evangélica BERMUDA",
-      "title_norm": "bermuda transpassada plus size m ao g3 academia moda modesta evangelica bermuda",
-      "url": "https://shopee.com.br/product/1472986932/22798552970",
-      "affiliate_url": "https://s.shopee.com.br/70KRaPprc8",
-      "category": "KD-IMPORTS",
-      "bucket": "kd_imports",
-      "posted_ts": 1790453872,
-      "posted_at": "2026-09-26T20:17:52.507687+00:00",
-      "score": 101.31
     }
   ],
-  "updated_at": "2026-10-05T16:19:12.800317+00:00"
+  "updated_at": "2026-10-05T17:03:58.667944+00:00"
 }

@@ -1,6 +1,21 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB5064332025",
+      "product_id": "MLB5064332025",
+      "catalog_product_id": "MLB38338089",
+      "item_id": "MLB5064332025",
+      "url": "https://www.mercadolivre.com.br/p/MLB38338089?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB38338089?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "racao gato castrado cat excellence salmao 10 1 kg",
+      "title": "Ração Gato Castrado Cat Excellence Salmão 10,1 Kg",
+      "category": "Pet",
+      "price": 173.0,
+      "score": 113.0,
+      "posted_ts": 1791219838,
+      "posted_at": "2026-10-05T17:03:58.682550+00:00"
+    },
+    {
       "key": "mercadolivre:MLB5322253573",
       "product_id": "MLB5322253573",
       "catalog_product_id": "MLB61421090",
@@ -539,37 +554,7 @@
       "score": 89.0,
       "posted_ts": 1791050799,
       "posted_at": "2026-10-03T18:06:39.612071+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB7625830504",
-      "product_id": "MLB7625830504",
-      "catalog_product_id": "MLB78672090",
-      "item_id": "MLB7625830504",
-      "url": "https://www.mercadolivre.com.br/p/MLB78672090?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB78672090?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "impressora etiquetas adesivas 1 000 etiquetas 10x15cm branco",
-      "title": "Impressora Etiquetas Adesivas + 1.000 Etiquetas 10x15cm Branco",
-      "category": "Informática",
-      "price": 589.1,
-      "score": 108.24,
-      "posted_ts": 1791043358,
-      "posted_at": "2026-10-03T16:02:38.133463+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB7575871600",
-      "product_id": "MLB7575871600",
-      "catalog_product_id": "MLB49735840",
-      "item_id": "MLB7575871600",
-      "url": "https://www.mercadolivre.com.br/p/MLB49735840?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB49735840?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "racao cachorro selection adultos pequenos 10 1kg harmony",
-      "title": "Ração Cachorro Selection Adultos Pequenos 10,1kg Harmony",
-      "category": "Pet",
-      "price": 114.0,
-      "score": 113.0,
-      "posted_ts": 1791036198,
-      "posted_at": "2026-10-03T14:03:18.545740+00:00"
     }
   ],
-  "updated_at": "2026-10-05T14:02:41.493686+00:00"
+  "updated_at": "2026-10-05T17:03:58.682565+00:00"
 }
