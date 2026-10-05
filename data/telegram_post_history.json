@@ -1,6 +1,20 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB7158074090",
+      "marketplace": "mercadolivre",
+      "id": "MLB7158074090",
+      "title": "Liquidificador portátil, Mini liquidificador recarregável USB, Liquidificador",
+      "title_norm": "liquidificador portatil mini liquidificador recarregavel usb liquidificador",
+      "url": "https://www.mercadolivre.com.br/p/MLB38338044?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB38338044?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Casa e Cozinha",
+      "bucket": "casa_cozinha",
+      "posted_ts": 1791194565,
+      "posted_at": "2026-10-05T10:02:45.801503+00:00",
+      "score": 113.0
+    },
+    {
       "key": "shopee:22099705516",
       "marketplace": "shopee",
       "id": "22099705516",
@@ -13985,21 +13999,7 @@
       "posted_ts": 1790424185,
       "posted_at": "2026-09-26T12:03:05.498744+00:00",
       "score": 108.24
-    },
-    {
-      "key": "shopee:22094228144",
-      "marketplace": "shopee",
-      "id": "22094228144",
-      "title": "TOMI MITO Bolsa Feminina com Alça Lateral Transversal Faixa de Mão de Couro B736",
-      "title_norm": "tomi mito bolsa feminina com alca lateral transversal faixa de mao de couro b736",
-      "url": "https://shopee.com.br/product/1468415010/22094228144",
-      "affiliate_url": "https://s.shopee.com.br/8fSeyOjiTY",
-      "category": "Amy.Store",
-      "bucket": "bolsas",
-      "posted_ts": 1790421480,
-      "posted_at": "2026-09-26T11:18:00.706614+00:00",
-      "score": 108.51
     }
   ],
-  "updated_at": "2026-10-05T09:17:57.413657+00:00"
+  "updated_at": "2026-10-05T10:02:45.801525+00:00"
 }
