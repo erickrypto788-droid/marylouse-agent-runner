@@ -1,6 +1,48 @@
 {
   "posts": [
     {
+      "key": "shopee:23699438217",
+      "marketplace": "shopee",
+      "id": "23699438217",
+      "title": "Termômetro Digital Ultra Rápido Infantil Para Bebês Clínico Flexível Ponta Macia Silicone Adulto Rosa e Azul",
+      "title_norm": "termometro digital ultra rapido infantil para bebes clinico flexivel ponta macia silicone adulto rosa e azul",
+      "url": "https://shopee.com.br/product/1738153850/23699438217",
+      "affiliate_url": "https://s.shopee.com.br/9per3ACHSa",
+      "category": "Sunshine82",
+      "bucket": "saude",
+      "posted_ts": 1791217152,
+      "posted_at": "2026-10-05T16:19:12.800290+00:00",
+      "score": 116.04
+    },
+    {
+      "key": "shopee:20351119108",
+      "marketplace": "shopee",
+      "id": "20351119108",
+      "title": "Balança Bioimpedancia Digital Bluetooth Corporal até 180kg Resultado Pelo Celular",
+      "title_norm": "balanca bioimpedancia digital bluetooth corporal ate 180kg resultado pelo celular",
+      "url": "https://shopee.com.br/product/372753581/20351119108",
+      "affiliate_url": "https://s.shopee.com.br/AUuTzPbkIP",
+      "category": "Larsul",
+      "bucket": "celulares",
+      "posted_ts": 1791217085,
+      "posted_at": "2026-10-05T16:18:05.452020+00:00",
+      "score": 123.01
+    },
+    {
+      "key": "shopee:22498461397",
+      "marketplace": "shopee",
+      "id": "22498461397",
+      "title": "AIQUE Nebulizador Portátil Mini Inalador Silencioso Ultra-sônico Automático para Adultos e Crianças",
+      "title_norm": "aique nebulizador portatil mini inalador silencioso ultra sonico automatico para adultos e criancas",
+      "url": "https://shopee.com.br/product/733998429/22498461397",
+      "affiliate_url": "https://s.shopee.com.br/2LYmGOy6YC",
+      "category": "TTcomercio",
+      "bucket": "saude",
+      "posted_ts": 1791217017,
+      "posted_at": "2026-10-05T16:16:57.832802+00:00",
+      "score": 139.27
+    },
+    {
       "key": "shopee:18299383775",
       "marketplace": "shopee",
       "id": "18299383775",
@@ -13957,49 +13999,7 @@
       "posted_ts": 1790453872,
       "posted_at": "2026-09-26T20:17:52.507687+00:00",
       "score": 101.31
-    },
-    {
-      "key": "shopee:58263779645",
-      "marketplace": "shopee",
-      "id": "58263779645",
-      "title": "Calça Marmorizada Plus size academia",
-      "title_norm": "calca marmorizada plus size academia",
-      "url": "https://shopee.com.br/product/1797986527/58263779645",
-      "affiliate_url": "https://s.shopee.com.br/1AhFYTZgi",
-      "category": "RM Modas fit",
-      "bucket": "rm_modas_fit",
-      "posted_ts": 1790453808,
-      "posted_at": "2026-09-26T20:16:48.452444+00:00",
-      "score": 101.93
-    },
-    {
-      "key": "shopee:22398990698",
-      "marketplace": "shopee",
-      "id": "22398990698",
-      "title": "Kit 10 ou 5 Cuecas Box Boxer Microfibra Infantil Juvenil MEN Boy Criança Bebê Masculino",
-      "title_norm": "kit 10 ou 5 cuecas box boxer microfibra infantil juvenil men boy crianca bebe masculino",
-      "url": "https://shopee.com.br/product/421581203/22398990698",
-      "affiliate_url": "https://s.shopee.com.br/2gBRUmTd7a",
-      "category": "Lovic Meias e Variedades",
-      "bucket": "lovic_meias_e_variedades",
-      "posted_ts": 1790450465,
-      "posted_at": "2026-09-26T19:21:05.388435+00:00",
-      "score": 86.68
-    },
-    {
-      "key": "shopee:22695802903",
-      "marketplace": "shopee",
-      "id": "22695802903",
-      "title": "Calça Social Masculina Slim Fit Alfaiataria Tecido em Oxford Do 36 ao 50 Envio RápidoModa Evangélica",
-      "title_norm": "calca social masculina slim fit alfaiataria tecido em oxford do 36 ao 50 envio rapidomoda evangelica",
-      "url": "https://shopee.com.br/product/1003785079/22695802903",
-      "affiliate_url": "https://s.shopee.com.br/7KxHuuhTH2",
-      "category": "Vip Moda Social",
-      "bucket": "vip_moda_social",
-      "posted_ts": 1790450401,
-      "posted_at": "2026-09-26T19:20:01.457505+00:00",
-      "score": 91.02
     }
   ],
-  "updated_at": "2026-10-05T15:21:25.272521+00:00"
+  "updated_at": "2026-10-05T16:19:12.800317+00:00"
 }
