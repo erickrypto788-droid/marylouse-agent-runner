@@ -1,6 +1,48 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB4552665179",
+      "marketplace": "mercadolivre",
+      "id": "MLB4552665179",
+      "title": "Whey Protein Concentrado + Whey Protein Isolado + Cafeína",
+      "title_norm": "whey protein concentrado whey protein isolado cafeina",
+      "url": "https://www.mercadolivre.com.br/p/MLB20818317?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB20818317?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Esportes",
+      "bucket": "esportes",
+      "posted_ts": 1791187538,
+      "posted_at": "2026-10-05T08:05:38.744124+00:00",
+      "score": 86.0
+    },
+    {
+      "key": "mercadolivre:MLB5068069839",
+      "marketplace": "mercadolivre",
+      "id": "MLB5068069839",
+      "title": "Luva Academia Esporte Neoprene Academia Luva Proteção Preto Lisa Unico",
+      "title_norm": "luva academia esporte neoprene academia luva protecao preto lisa unico",
+      "url": "https://www.mercadolivre.com.br/p/MLB64424896?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB64424896?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Esportes",
+      "bucket": "esportes",
+      "posted_ts": 1791187467,
+      "posted_at": "2026-10-05T08:04:27.992898+00:00",
+      "score": 99.28
+    },
+    {
+      "key": "mercadolivre:MLB6827581422",
+      "marketplace": "mercadolivre",
+      "id": "MLB6827581422",
+      "title": "Prancha Esteira Ergometrica Kikos E600ix Preto",
+      "title_norm": "prancha esteira ergometrica kikos e600ix preto",
+      "url": "https://www.mercadolivre.com.br/p/MLB70114350?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB70114350?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Esportes",
+      "bucket": "esportes",
+      "posted_ts": 1791187398,
+      "posted_at": "2026-10-05T08:03:18.423382+00:00",
+      "score": 120.27
+    },
+    {
       "key": "shopee:53062822611",
       "marketplace": "shopee",
       "id": "53062822611",
@@ -13957,49 +13999,7 @@
       "posted_ts": 1790417887,
       "posted_at": "2026-09-26T10:18:07.237739+00:00",
       "score": 87.09
-    },
-    {
-      "key": "shopee:58206927432",
-      "marketplace": "shopee",
-      "id": "58206927432",
-      "title": "Berço Portátil Com Mosquiteiro Cama De Duas Camas 0-3 Anos Fecho De Segurança 3 Em 1 Ajustável",
-      "title_norm": "berco portatil com mosquiteiro cama de duas camas 0 3 anos fecho de seguranca 3 em 1 ajustavel",
-      "url": "https://shopee.com.br/product/1130732424/58206927432",
-      "affiliate_url": "https://s.shopee.com.br/1qcI6uUDNI",
-      "category": "lampadasstore",
-      "bucket": "lampadasstore",
-      "posted_ts": 1790417817,
-      "posted_at": "2026-09-26T10:16:57.718225+00:00",
-      "score": 98.82
-    },
-    {
-      "key": "shopee:43854643103",
-      "marketplace": "shopee",
-      "id": "43854643103",
-      "title": "Oxímetro de Dedo Digital Portátil com Tela LED, Leitura Rápida de SpO2 e Pulso para Uso Doméstico e Viagem",
-      "title_norm": "oximetro de dedo digital portatil com tela led leitura rapida de spo2 e pulso para uso domestico e viagem",
-      "url": "https://shopee.com.br/product/1432047639/43854643103",
-      "affiliate_url": "https://s.shopee.com.br/6VOAGB0Slh",
-      "category": "Tudo e Mais.br",
-      "bucket": "saude",
-      "posted_ts": 1790414282,
-      "posted_at": "2026-09-26T09:18:02.248642+00:00",
-      "score": 99.64
-    },
-    {
-      "key": "shopee:20999244718",
-      "marketplace": "shopee",
-      "id": "20999244718",
-      "title": "Inalador E Nebulizador Compressor De Ar Comprimido Compact DC1 G-Tech Infantil Remédio e Corticoides",
-      "title_norm": "inalador e nebulizador compressor de ar comprimido compact dc1 g tech infantil remedio e corticoides",
-      "url": "https://shopee.com.br/product/961638733/20999244718",
-      "affiliate_url": "https://s.shopee.com.br/qjnVlHhll",
-      "category": "ROMALIZ",
-      "bucket": "saude",
-      "posted_ts": 1790414214,
-      "posted_at": "2026-09-26T09:16:54.367739+00:00",
-      "score": 117.33
     }
   ],
-  "updated_at": "2026-10-05T07:20:10.604076+00:00"
+  "updated_at": "2026-10-05T08:05:38.744137+00:00"
 }
