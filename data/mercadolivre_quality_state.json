@@ -1,6 +1,36 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB4442585419",
+      "product_id": "MLB4442585419",
+      "catalog_product_id": "MLB64939142",
+      "item_id": "MLB4442585419",
+      "url": "https://www.mercadolivre.com.br/p/MLB64939142?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB64939142?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "soundbar samsung hw b650f soundbar hw b400f preto",
+      "title": "Soundbar Samsung Hw-b650f + Soundbar Hw-b400f Preto",
+      "category": "Informática",
+      "price": 2420.0,
+      "score": 104.0,
+      "posted_ts": 1791205422,
+      "posted_at": "2026-10-05T13:03:42.079903+00:00"
+    },
+    {
+      "key": "mercadolivre:MLB5175098567",
+      "product_id": "MLB5175098567",
+      "catalog_product_id": "MLB65128496",
+      "item_id": "MLB5175098567",
+      "url": "https://www.mercadolivre.com.br/p/MLB65128496?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB65128496?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "soundbar samsung hw b450f soundbar hw b400f",
+      "title": "Soundbar Samsung Hw-b450f + Soundbar Hw-b400f",
+      "category": "Informática",
+      "price": 999.0,
+      "score": 127.0,
+      "posted_ts": 1791205352,
+      "posted_at": "2026-10-05T13:02:32.390913+00:00"
+    },
+    {
       "key": "mercadolivre:MLB6459080170",
       "product_id": "MLB6459080170",
       "catalog_product_id": "MLB24522367",
@@ -524,22 +554,7 @@
       "score": 113.0,
       "posted_ts": 1791036198,
       "posted_at": "2026-10-03T14:03:18.545740+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB7580832078",
-      "product_id": "MLB7580832078",
-      "catalog_product_id": "MLB77579661",
-      "item_id": "MLB7580832078",
-      "url": "https://www.mercadolivre.com.br/p/MLB77579661?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB77579661?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "difusor ar umidificador umidificador ar 1 5l humidifiicador ar ultrassonico umidificador domestico para quarto sala bercario operacao silenciosa umidificacao eficiente design compacto facil de usar",
-      "title": "Difusor Ar Umidificador Umidificador Ar 1.5l Humidifiicador Ar Ultrassonico Umidificador Doméstico Para Quarto Sala Berçário Operação Silenciosa Umidificação Eficiente Design Compacto Fácil De Usar",
-      "category": "Pet",
-      "price": 98.8,
-      "score": 206.9,
-      "posted_ts": 1791032581,
-      "posted_at": "2026-10-03T13:03:01.039509+00:00"
     }
   ],
-  "updated_at": "2026-10-05T12:02:59.653969+00:00"
+  "updated_at": "2026-10-05T13:03:42.079912+00:00"
 }

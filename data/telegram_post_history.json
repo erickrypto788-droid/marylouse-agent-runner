@@ -1,6 +1,34 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB4442585419",
+      "marketplace": "mercadolivre",
+      "id": "MLB4442585419",
+      "title": "Soundbar Samsung Hw-b650f + Soundbar Hw-b400f Preto",
+      "title_norm": "soundbar samsung hw b650f soundbar hw b400f preto",
+      "url": "https://www.mercadolivre.com.br/p/MLB64939142?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB64939142?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Informática",
+      "bucket": "informatica",
+      "posted_ts": 1791205422,
+      "posted_at": "2026-10-05T13:03:42.066397+00:00",
+      "score": 104.0
+    },
+    {
+      "key": "mercadolivre:MLB5175098567",
+      "marketplace": "mercadolivre",
+      "id": "MLB5175098567",
+      "title": "Soundbar Samsung Hw-b450f + Soundbar Hw-b400f",
+      "title_norm": "soundbar samsung hw b450f soundbar hw b400f",
+      "url": "https://www.mercadolivre.com.br/p/MLB65128496?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB65128496?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Informática",
+      "bucket": "informatica",
+      "posted_ts": 1791205352,
+      "posted_at": "2026-10-05T13:02:32.377029+00:00",
+      "score": 127.0
+    },
+    {
       "key": "shopee:43852360893",
       "marketplace": "shopee",
       "id": "43852360893",
@@ -13971,35 +13999,7 @@
       "posted_ts": 1790432406,
       "posted_at": "2026-09-26T14:20:06.588702+00:00",
       "score": 69.52
-    },
-    {
-      "key": "shopee:22097785703",
-      "marketplace": "shopee",
-      "id": "22097785703",
-      "title": "Amplificador de sinal Wi-Fi repetidor e roteador sem fio rede sem fio através da parede Dupla pressão/2.4G - G8",
-      "title_norm": "amplificador de sinal wi fi repetidor e roteador sem fio rede sem fio atraves da parede dupla pressao 2 4g g8",
-      "url": "https://shopee.com.br/product/1217782773/22097785703",
-      "affiliate_url": "https://s.shopee.com.br/1BMcyh92qH",
-      "category": "JR905",
-      "bucket": "pet",
-      "posted_ts": 1790432342,
-      "posted_at": "2026-09-26T14:19:02.386720+00:00",
-      "score": 89.93
-    },
-    {
-      "key": "shopee:23698804974",
-      "marketplace": "shopee",
-      "id": "23698804974",
-      "title": "Papel Fotográfico 180g Glossy A4 Brilhante à Prova D'água MASTERPRINT",
-      "title_norm": "papel fotografico 180g glossy a4 brilhante a prova d agua masterprint",
-      "url": "https://shopee.com.br/product/1046010418/23698804974",
-      "affiliate_url": "https://s.shopee.com.br/9fL9hmsKlZ",
-      "category": "PAPEL.PAPELARIA",
-      "bucket": "papel_papelaria",
-      "posted_ts": 1790432278,
-      "posted_at": "2026-09-26T14:17:58.160866+00:00",
-      "score": 97.1
     }
   ],
-  "updated_at": "2026-10-05T12:21:26.059348+00:00"
+  "updated_at": "2026-10-05T13:03:42.066412+00:00"
 }
