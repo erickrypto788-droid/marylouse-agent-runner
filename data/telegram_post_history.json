@@ -1,6 +1,34 @@
 {
   "posts": [
     {
+      "key": "shopee:22199283663",
+      "marketplace": "shopee",
+      "id": "22199283663",
+      "title": "Bota Galocha Unisex Pvc Profissional Antiderrapante Impermeavel Resistente",
+      "title_norm": "bota galocha unisex pvc profissional antiderrapante impermeavel resistente",
+      "url": "https://shopee.com.br/product/1406953915/22199283663",
+      "affiliate_url": "https://s.shopee.com.br/8fSt83fi6w",
+      "category": "VELLUDINE",
+      "bucket": "calcados",
+      "posted_ts": 1791188282,
+      "posted_at": "2026-10-05T08:18:02.076990+00:00",
+      "score": 99.77
+    },
+    {
+      "key": "shopee:22494665073",
+      "marketplace": "shopee",
+      "id": "22494665073",
+      "title": "Botina Bota Segurança Couro Legitimo Com Biqueira Elastico Com CA",
+      "title_norm": "botina bota seguranca couro legitimo com biqueira elastico com ca",
+      "url": "https://shopee.com.br/product/1406953915/22494665073",
+      "affiliate_url": "https://s.shopee.com.br/1LgH4AqBwR",
+      "category": "VELLUDINE",
+      "bucket": "calcados",
+      "posted_ts": 1791188214,
+      "posted_at": "2026-10-05T08:16:54.107833+00:00",
+      "score": 113.17
+    },
+    {
       "key": "mercadolivre:MLB4552665179",
       "marketplace": "mercadolivre",
       "id": "MLB4552665179",
@@ -13971,35 +13999,7 @@
       "posted_ts": 1790418023,
       "posted_at": "2026-09-26T10:20:23.935174+00:00",
       "score": 62.44
-    },
-    {
-      "key": "shopee:23696208899",
-      "marketplace": "shopee",
-      "id": "23696208899",
-      "title": "Berço Desmontável Portátil Cercadinho Com Mosqueteiro Sonata Cinza Burigotto",
-      "title_norm": "berco desmontavel portatil cercadinho com mosqueteiro sonata cinza burigotto",
-      "url": "https://shopee.com.br/product/319880864/23696208899",
-      "affiliate_url": "https://s.shopee.com.br/80Cy73fGgo",
-      "category": "MK MEGA STORE",
-      "bucket": "mk_mega_store",
-      "posted_ts": 1790417954,
-      "posted_at": "2026-09-26T10:19:14.125161+00:00",
-      "score": 63.21
-    },
-    {
-      "key": "shopee:23997360502",
-      "marketplace": "shopee",
-      "id": "23997360502",
-      "title": "Kit 5 Toalhas Umedecidas Turminha da Bagunça 120 Unidades Lenço Umedecido Vegano Hipoalergênico Sem Álcool e 98% Água",
-      "title_norm": "kit 5 toalhas umedecidas turminha da bagunca 120 unidades lenco umedecido vegano hipoalergenico sem alcool e 98 agua",
-      "url": "https://shopee.com.br/product/1192668514/23997360502",
-      "affiliate_url": "https://s.shopee.com.br/7KxHJpUkEI",
-      "category": "Higie+",
-      "bucket": "fraldas",
-      "posted_ts": 1790417887,
-      "posted_at": "2026-09-26T10:18:07.237739+00:00",
-      "score": 87.09
     }
   ],
-  "updated_at": "2026-10-05T08:05:38.744137+00:00"
+  "updated_at": "2026-10-05T08:18:02.077004+00:00"
 }
