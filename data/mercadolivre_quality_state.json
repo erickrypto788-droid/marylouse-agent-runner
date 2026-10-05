@@ -1,6 +1,21 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB6194259162",
+      "product_id": "MLB6194259162",
+      "catalog_product_id": "MLB26008929",
+      "item_id": "MLB6194259162",
+      "url": "https://www.mercadolivre.com.br/p/MLB26008929?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB26008929?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "cadeira gamer profissional ergonomica giratoria vermelha para escritorio",
+      "title": "Cadeira Gamer Profissional Ergonômica Giratória Vermelha para Escritório",
+      "category": "Casa e Cozinha",
+      "price": 900.0,
+      "score": 86.0,
+      "posted_ts": 1791237767,
+      "posted_at": "2026-10-05T22:02:47.210655+00:00"
+    },
+    {
       "key": "mercadolivre:MLB6809134306",
       "product_id": "MLB6809134306",
       "catalog_product_id": "MLB46173110",
@@ -556,5 +571,5 @@
       "posted_at": "2026-10-04T04:03:03.929352+00:00"
     }
   ],
-  "updated_at": "2026-10-05T19:04:53.756795+00:00"
+  "updated_at": "2026-10-05T22:02:47.210666+00:00"
 }
