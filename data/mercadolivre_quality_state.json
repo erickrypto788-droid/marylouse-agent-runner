@@ -1,6 +1,36 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB4012619487",
+      "product_id": "MLB4012619487",
+      "catalog_product_id": "MLB45458466",
+      "item_id": "MLB4012619487",
+      "url": "https://www.mercadolivre.com.br/p/MLB45458466?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB45458466?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "air fryer br house fritadeira eletrica air fryer air fryer family preto",
+      "title": "Air fryer Br House Fritadeira ELETRICA AIR FRYER Air Fryer Family preto",
+      "category": "Casa e Cozinha",
+      "price": 323.99,
+      "score": 111.0,
+      "posted_ts": 1791180282,
+      "posted_at": "2026-10-05T06:04:42.978222+00:00"
+    },
+    {
+      "key": "mercadolivre:MLB6738465128",
+      "product_id": "MLB6738465128",
+      "catalog_product_id": "MLB59413555",
+      "item_id": "MLB6738465128",
+      "url": "https://www.mercadolivre.com.br/p/MLB59413555?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB59413555?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "cadeira massagem escritorio cadeira escritorio presidente cor ambar",
+      "title": "Cadeira Massagem Escritorio Cadeira Escritorio Presidente Cor Âmbar",
+      "category": "Casa e Cozinha",
+      "price": 743.0,
+      "score": 179.1,
+      "posted_ts": 1791180218,
+      "posted_at": "2026-10-05T06:03:38.933376+00:00"
+    },
+    {
       "key": "mercadolivre:MLB7059191208",
       "product_id": "MLB7059191208",
       "catalog_product_id": "MLB38422370",
@@ -464,22 +494,7 @@
       "score": 111.0,
       "posted_ts": 1791018175,
       "posted_at": "2026-10-03T09:02:55.449399+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB7574008638",
-      "product_id": "MLB7574008638",
-      "catalog_product_id": "MLB76876185",
-      "item_id": "MLB7574008638",
-      "url": "https://www.mercadolivre.com.br/p/MLB76876185?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB76876185?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "perfume feminino delilah 50ml",
-      "title": "Perfume Feminino Delilah 50ml",
-      "category": "Beleza",
-      "price": 184.0,
-      "score": 188.67,
-      "posted_ts": 1791007355,
-      "posted_at": "2026-10-03T06:02:35.990607+00:00"
     }
   ],
-  "updated_at": "2026-10-05T05:06:11.823105+00:00"
+  "updated_at": "2026-10-05T06:04:42.978229+00:00"
 }
