@@ -1,6 +1,81 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB4347506544",
+      "product_id": "MLB4347506544",
+      "catalog_product_id": "MLB29524127",
+      "item_id": "MLB4347506544",
+      "url": "https://www.mercadolivre.com.br/p/MLB29524127?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB29524127?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "arroz cateto integral 1kg arroz de altitude natural",
+      "title": "Arroz Cateto Integral 1kg Arroz De Altitude Natural",
+      "category": "Supermercados",
+      "price": 23.46,
+      "score": 78.68,
+      "posted_ts": 1791241826,
+      "posted_at": "2026-10-05T23:10:26.606529+00:00"
+    },
+    {
+      "key": "mercadolivre:MLB7752684914",
+      "product_id": "MLB7752684914",
+      "catalog_product_id": "MLB68684184",
+      "item_id": "MLB7752684914",
+      "url": "https://www.mercadolivre.com.br/p/MLB68684184?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB68684184?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "kit shampoo infantil palmolive kids 1 shampoo 1 condicionador",
+      "title": "Kit Shampoo Infantil Palmolive Kids 1 Shampoo + 1 Condicionador",
+      "category": "Beleza",
+      "price": 42.9,
+      "score": 88.0,
+      "posted_ts": 1791241762,
+      "posted_at": "2026-10-05T23:09:22.688514+00:00"
+    },
+    {
+      "key": "mercadolivre:MLB7634917954",
+      "product_id": "MLB7634917954",
+      "catalog_product_id": "MLB21780816",
+      "item_id": "MLB7634917954",
+      "url": "https://www.mercadolivre.com.br/p/MLB21780816?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB21780816?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "shampoo infantil meu bebe",
+      "title": "Shampoo Infantil Meu Bebê",
+      "category": "Beleza",
+      "price": 39.9,
+      "score": 88.0,
+      "posted_ts": 1791241698,
+      "posted_at": "2026-10-05T23:08:18.287092+00:00"
+    },
+    {
+      "key": "mercadolivre:MLB7597764796",
+      "product_id": "MLB7597764796",
+      "catalog_product_id": "MLB25251850",
+      "item_id": "MLB7597764796",
+      "url": "https://www.mercadolivre.com.br/p/MLB25251850?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB25251850?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "fralda huggies jumbinho m 36 unidades",
+      "title": "Fralda Huggies Jumbinho M - 36 Unidades",
+      "category": "Mãe e Bebê",
+      "price": 65.9,
+      "score": 130.0,
+      "posted_ts": 1791241634,
+      "posted_at": "2026-10-05T23:07:14.318008+00:00"
+    },
+    {
+      "key": "mercadolivre:MLB7734789232",
+      "product_id": "MLB7734789232",
+      "catalog_product_id": "MLB43609445",
+      "item_id": "MLB7734789232",
+      "url": "https://www.mercadolivre.com.br/p/MLB43609445?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB43609445?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "papel higienico indaial caicai papel higienico folha dupla de 1 un",
+      "title": "Papel higiênico INDAIAL CAICAI PAPEL HIGIENICO folha dupla de 1 un",
+      "category": "Supermercados",
+      "price": 118.99,
+      "score": 161.0,
+      "posted_ts": 1791241570,
+      "posted_at": "2026-10-05T23:06:10.379453+00:00"
+    },
+    {
       "key": "mercadolivre:MLB6194259162",
       "product_id": "MLB6194259162",
       "catalog_product_id": "MLB26008929",
@@ -571,5 +646,5 @@
       "posted_at": "2026-10-04T04:03:03.929352+00:00"
     }
   ],
-  "updated_at": "2026-10-05T22:02:47.210666+00:00"
+  "updated_at": "2026-10-05T23:10:26.606540+00:00"
 }
