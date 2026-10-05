@@ -1,6 +1,62 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB7059191208",
+      "marketplace": "mercadolivre",
+      "id": "MLB7059191208",
+      "title": "Boneca Sophia Deluxe com Roupa Academia Unicórnio 24cm Sunny",
+      "title_norm": "boneca sophia deluxe com roupa academia unicornio 24cm sunny",
+      "url": "https://www.mercadolivre.com.br/p/MLB38422370?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB38422370?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Esportes",
+      "bucket": "esportes",
+      "posted_ts": 1791176771,
+      "posted_at": "2026-10-05T05:06:11.808596+00:00",
+      "score": 88.0
+    },
+    {
+      "key": "mercadolivre:MLB5909017866",
+      "marketplace": "mercadolivre",
+      "id": "MLB5909017866",
+      "title": "Blusa Camisa Feminina Proteção Solar Bike Jetski Pesca Praia Cor Branco Tamanho M",
+      "title_norm": "blusa camisa feminina protecao solar bike jetski pesca praia cor branco tamanho m",
+      "url": "https://www.mercadolivre.com.br/p/MLB61770185?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB61770185?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Moda Feminina",
+      "bucket": "moda_feminina",
+      "posted_ts": 1791176707,
+      "posted_at": "2026-10-05T05:05:07.769496+00:00",
+      "score": 88.0
+    },
+    {
+      "key": "mercadolivre:MLB5248354709",
+      "marketplace": "mercadolivre",
+      "id": "MLB5248354709",
+      "title": "Kit 7 Shorts Feminino Modelador Selene Levanta Bumbum Bege Eg",
+      "title_norm": "kit 7 shorts feminino modelador selene levanta bumbum bege eg",
+      "url": "https://www.mercadolivre.com.br/p/MLB74383241?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB74383241?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Moda Feminina",
+      "bucket": "moda_feminina",
+      "posted_ts": 1791176643,
+      "posted_at": "2026-10-05T05:04:03.923897+00:00",
+      "score": 97.67
+    },
+    {
+      "key": "mercadolivre:MLB5941366026",
+      "marketplace": "mercadolivre",
+      "id": "MLB5941366026",
+      "title": "Shorts Feminino Sem Costura Loba Plus Size Redutor Tamanho XXG Sortido",
+      "title_norm": "shorts feminino sem costura loba plus size redutor tamanho xxg sortido",
+      "url": "https://www.mercadolivre.com.br/p/MLB62222654?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB62222654?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Moda Feminina",
+      "bucket": "moda_feminina",
+      "posted_ts": 1791176579,
+      "posted_at": "2026-10-05T05:02:59.998402+00:00",
+      "score": 99.14
+    },
+    {
       "key": "shopee:57410081742",
       "marketplace": "shopee",
       "id": "57410081742",
@@ -13943,63 +13999,7 @@
       "posted_ts": 1790403556,
       "posted_at": "2026-09-26T06:19:16.403533+00:00",
       "score": 96.48
-    },
-    {
-      "key": "shopee:58261565925",
-      "marketplace": "shopee",
-      "id": "58261565925",
-      "title": "Kit 2 Pares Sandália Infantil Papete Menina Casual Leve Lançamento",
-      "title_norm": "kit 2 pares sandalia infantil papete menina casual leve lancamento",
-      "url": "https://shopee.com.br/product/1782683148/58261565925",
-      "affiliate_url": "https://s.shopee.com.br/BU6WBd9DO",
-      "category": "Sandalias Baby Colorito",
-      "bucket": "pet",
-      "posted_ts": 1790403486,
-      "posted_at": "2026-09-26T06:18:06.798995+00:00",
-      "score": 97.94
-    },
-    {
-      "key": "shopee:58255859733",
-      "marketplace": "shopee",
-      "id": "58255859733",
-      "title": "Tênis Infantil Menino Super Leve e Confortável Escolar Esportivo - Volta as aulas",
-      "title_norm": "tenis infantil menino super leve e confortavel escolar esportivo volta as aulas",
-      "url": "https://shopee.com.br/product/1669522364/58255859733",
-      "affiliate_url": "https://s.shopee.com.br/9V1kN41lhD",
-      "category": "TI MIMEI-",
-      "bucket": "calcados",
-      "posted_ts": 1790403422,
-      "posted_at": "2026-09-26T06:17:02.541206+00:00",
-      "score": 102.6
-    },
-    {
-      "key": "shopee:58208444702",
-      "marketplace": "shopee",
-      "id": "58208444702",
-      "title": "Principia Kit Protetor Solar PS-01 FPS 60 + PS-05 FPS 70- escolha seu tom",
-      "title_norm": "principia kit protetor solar ps 01 fps 60 ps 05 fps 70 escolha seu tom",
-      "url": "https://shopee.com.br/product/373261329/58208444702",
-      "affiliate_url": "https://s.shopee.com.br/905Ti0bEC1",
-      "category": "Principia Skincare",
-      "bucket": "principia_skincare",
-      "posted_ts": 1790400063,
-      "posted_at": "2026-09-26T05:21:03.357457+00:00",
-      "score": 64.79
-    },
-    {
-      "key": "shopee:22399469469",
-      "marketplace": "shopee",
-      "id": "22399469469",
-      "title": "New Show Caixa De 800Cilios Tufos Sem Nó Tufinho 12P/20P/30P/40P/50P/0.07D9-14Mix Extensão de Cilios",
-      "title_norm": "new show caixa de 800cilios tufos sem no tufinho 12p 20p 30p 40p 50p 0 07d9 14mix extensao de cilios",
-      "url": "https://shopee.com.br/product/1430626556/22399469469",
-      "affiliate_url": "https://s.shopee.com.br/3g3ycUEyk3",
-      "category": "New Show Oficial",
-      "bucket": "new_show_oficial",
-      "posted_ts": 1790399999,
-      "posted_at": "2026-09-26T05:19:59.079316+00:00",
-      "score": 91.92
     }
   ],
-  "updated_at": "2026-10-05T04:18:54.592608+00:00"
+  "updated_at": "2026-10-05T05:06:11.808613+00:00"
 }
