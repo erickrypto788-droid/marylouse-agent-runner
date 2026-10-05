@@ -1,6 +1,48 @@
 {
   "posts": [
     {
+      "key": "shopee:20597347457",
+      "marketplace": "shopee",
+      "id": "20597347457",
+      "title": "Kit 2 Tênis Masculino Polo Fran Sapatênis Básico Casual Com Carteira Cinto e Relógio London",
+      "title_norm": "kit 2 tenis masculino polo fran sapatenis basico casual com carteira cinto e relogio london",
+      "url": "https://shopee.com.br/product/324642050/20597347457",
+      "affiliate_url": "https://s.shopee.com.br/AUuY2ngHjX",
+      "category": " MISTERBOOT",
+      "bucket": "calcados",
+      "posted_ts": 1791227980,
+      "posted_at": "2026-10-05T19:19:40.005482+00:00",
+      "score": 98.03
+    },
+    {
+      "key": "shopee:58255448463",
+      "marketplace": "shopee",
+      "id": "58255448463",
+      "title": "Bota Masculina Caterpillar Reforçada",
+      "title_norm": "bota masculina caterpillar reforcada",
+      "url": "https://shopee.com.br/product/397535661/58255448463",
+      "affiliate_url": "https://s.shopee.com.br/5VVs5bzJsj",
+      "category": "Shopping Alpha.",
+      "bucket": "calcados",
+      "posted_ts": 1791227916,
+      "posted_at": "2026-10-05T19:18:36.074810+00:00",
+      "score": 104.0
+    },
+    {
+      "key": "shopee:23594304295",
+      "marketplace": "shopee",
+      "id": "23594304295",
+      "title": "Mochila CHL Bolsa Reforçada Notebook Impermeavel Material Premium Colorido Excecultivo 888",
+      "title_norm": "mochila chl bolsa reforcada notebook impermeavel material premium colorido excecultivo 888",
+      "url": "https://shopee.com.br/product/960960972/23594304295",
+      "affiliate_url": "https://s.shopee.com.br/2BFQ7Tyk60",
+      "category": "Global Mochilas CHL",
+      "bucket": "informatica",
+      "posted_ts": 1791227852,
+      "posted_at": "2026-10-05T19:17:32.109682+00:00",
+      "score": 132.58
+    },
+    {
       "key": "mercadolivre:MLB6809134306",
       "marketplace": "mercadolivre",
       "id": "MLB6809134306",
@@ -13957,49 +13999,7 @@
       "posted_ts": 1790471806,
       "posted_at": "2026-09-27T01:16:46.654015+00:00",
       "score": 142.47
-    },
-    {
-      "key": "shopee:22794554573",
-      "marketplace": "shopee",
-      "id": "22794554573",
-      "title": "Micro-ondas Electrolux 20L cor Inox Espelhado com Função Tira Odor (MT30S)",
-      "title_norm": "micro ondas electrolux 20l cor inox espelhado com funcao tira odor mt30s",
-      "url": "https://shopee.com.br/product/1526836548/22794554573",
-      "affiliate_url": "https://s.shopee.com.br/8fSfq0RJFm",
-      "category": "Electrolux",
-      "bucket": "electrolux",
-      "posted_ts": 1790468446,
-      "posted_at": "2026-09-27T00:20:46.175617+00:00",
-      "score": 61.84
-    },
-    {
-      "key": "shopee:22792891006",
-      "marketplace": "shopee",
-      "id": "22792891006",
-      "title": "Cafeteira Philco 15 Cafezinhos 550W 600ml PCFE01",
-      "title_norm": "cafeteira philco 15 cafezinhos 550w 600ml pcfe01",
-      "url": "https://shopee.com.br/product/811034337/22792891006",
-      "affiliate_url": "https://s.shopee.com.br/8KppROFNd9",
-      "category": "Philco Oficial",
-      "bucket": "casa_cozinha",
-      "posted_ts": 1790468378,
-      "posted_at": "2026-09-27T00:19:38.392120+00:00",
-      "score": 106.43
-    },
-    {
-      "key": "shopee:19297147366",
-      "marketplace": "shopee",
-      "id": "19297147366",
-      "title": "Espremedor Elétrico Industrial Inox p/ Suco de Laranja, Limão e Frutas com Copo Incluso",
-      "title_norm": "espremedor eletrico industrial inox p suco de laranja limao e frutas com copo incluso",
-      "url": "https://shopee.com.br/product/390307022/19297147366",
-      "affiliate_url": "https://s.shopee.com.br/9AOwQv80wU",
-      "category": "ZSZ_brasil",
-      "bucket": "zsz_brasil",
-      "posted_ts": 1790468314,
-      "posted_at": "2026-09-27T00:18:34.352047+00:00",
-      "score": 112.68
     }
   ],
-  "updated_at": "2026-10-05T19:04:53.742926+00:00"
+  "updated_at": "2026-10-05T19:19:40.005496+00:00"
 }
