@@ -1,6 +1,20 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB6667071540",
+      "marketplace": "mercadolivre",
+      "id": "MLB6667071540",
+      "title": "Bepantol Baby Pomada Assadura Bebe Hipoalergênica, 200g",
+      "title_norm": "bepantol baby pomada assadura bebe hipoalergenica 200g",
+      "url": "https://www.mercadolivre.com.br/p/MLB68578906?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB68578906?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Mãe e Bebê",
+      "bucket": "mae_e_bebe",
+      "posted_ts": 1791173180,
+      "posted_at": "2026-10-05T04:06:20.820279+00:00",
+      "score": 76.82
+    },
+    {
       "key": "shopee:58258457260",
       "marketplace": "shopee",
       "id": "58258457260",
@@ -13985,21 +13999,7 @@
       "posted_ts": 1790399807,
       "posted_at": "2026-09-26T05:16:47.054437+00:00",
       "score": 124.73
-    },
-    {
-      "key": "mercadolivre:MLB5292061071",
-      "marketplace": "mercadolivre",
-      "id": "MLB5292061071",
-      "title": "Ssd Nvme 512gb Ceamere",
-      "title_norm": "ssd nvme 512gb ceamere",
-      "url": "https://www.mercadolivre.com.br/p/MLB24511655?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB24511655?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "category": "Informática",
-      "bucket": "informatica",
-      "posted_ts": 1790398960,
-      "posted_at": "2026-09-26T05:02:40.946303+00:00",
-      "score": 111.0
     }
   ],
-  "updated_at": "2026-10-05T03:21:23.531799+00:00"
+  "updated_at": "2026-10-05T04:06:20.820294+00:00"
 }
