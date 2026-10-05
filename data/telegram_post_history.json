@@ -1,6 +1,20 @@
 {
   "posts": [
     {
+      "key": "shopee:58257736580",
+      "marketplace": "shopee",
+      "id": "58257736580",
+      "title": "Mochila Pochete Tática Masculina Impermeável Preta Versátil - Bolsa de Peito Esportiva",
+      "title_norm": "mochila pochete tatica masculina impermeavel preta versatil bolsa de peito esportiva",
+      "url": "https://shopee.com.br/product/328215051/58257736580",
+      "affiliate_url": "https://s.shopee.com.br/5q8ftTgNim",
+      "category": "Loja da Su__",
+      "bucket": "bolsas",
+      "posted_ts": 1791159424,
+      "posted_at": "2026-10-05T00:17:04.476951+00:00",
+      "score": 117.09
+    },
+    {
       "key": "shopee:18397808004",
       "marketplace": "shopee",
       "id": "18397808004",
@@ -13985,21 +13999,7 @@
       "posted_ts": 1790381808,
       "posted_at": "2026-09-26T00:16:48.689091+00:00",
       "score": 117.02
-    },
-    {
-      "key": "shopee:23393839981",
-      "marketplace": "shopee",
-      "id": "23393839981",
-      "title": "Kit 3 calça masculina Dry Fit Esportiva Treino Com Ziper no Bolso",
-      "title_norm": "kit 3 calca masculina dry fit esportiva treino com ziper no bolso",
-      "url": "https://shopee.com.br/product/1500679968/23393839981",
-      "affiliate_url": "https://s.shopee.com.br/2qUrEH2Yxl",
-      "category": "L N Confecções",
-      "bucket": "l_n_confeccoes",
-      "posted_ts": 1790378510,
-      "posted_at": "2026-09-25T23:21:50.569668+00:00",
-      "score": 76.8
     }
   ],
-  "updated_at": "2026-10-04T22:19:59.780498+00:00"
+  "updated_at": "2026-10-05T00:17:04.476966+00:00"
 }
