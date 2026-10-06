@@ -1,6 +1,66 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB5669950086",
+      "product_id": "MLB5669950086",
+      "catalog_product_id": "MLB29412135",
+      "item_id": "MLB5669950086",
+      "url": "https://www.mercadolivre.com.br/p/MLB29412135?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB29412135?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "shampoo infantil 250ml buba care",
+      "title": "Shampoo Infantil 250ml Buba Care",
+      "category": "Beleza",
+      "price": 39.9,
+      "score": 88.0,
+      "posted_ts": 1791302917,
+      "posted_at": "2026-10-06T16:08:37.281910+00:00"
+    },
+    {
+      "key": "mercadolivre:MLB6302363224",
+      "product_id": "MLB6302363224",
+      "catalog_product_id": "MLB65932271",
+      "item_id": "MLB6302363224",
+      "url": "https://www.mercadolivre.com.br/p/MLB65932271?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB65932271?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "35 escova dental 35 porta escova dental 35 creme dental sortidas",
+      "title": "35 Escova Dental + 35 Porta Escova Dental + 35 Creme Dental Sortidas",
+      "category": "Supermercados",
+      "price": 224.07,
+      "score": 89.0,
+      "posted_ts": 1791302853,
+      "posted_at": "2026-10-06T16:07:33.365675+00:00"
+    },
+    {
+      "key": "mercadolivre:MLB5709004240",
+      "product_id": "MLB5709004240",
+      "catalog_product_id": "MLB56414429",
+      "item_id": "MLB5709004240",
+      "url": "https://www.mercadolivre.com.br/p/MLB56414429?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB56414429?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "detergente sabao lava louca pastilha lava maquina unik",
+      "title": "Detergente Sabão Lava Louça Pastilha + Lava Máquina Unik",
+      "category": "Supermercados",
+      "price": 46.49,
+      "score": 105.13,
+      "posted_ts": 1791302789,
+      "posted_at": "2026-10-06T16:06:29.307058+00:00"
+    },
+    {
+      "key": "mercadolivre:MLB6428938830",
+      "product_id": "MLB6428938830",
+      "catalog_product_id": "MLB36175310",
+      "item_id": "MLB6428938830",
+      "url": "https://www.mercadolivre.com.br/p/MLB36175310?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB36175310?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "fralda pampers supersec m 30 unidades",
+      "title": "Fralda Pampers Supersec M 30 Unidades",
+      "category": "Mãe e Bebê",
+      "price": 39.99,
+      "score": 130.0,
+      "posted_ts": 1791302725,
+      "posted_at": "2026-10-06T16:05:25.368582+00:00"
+    },
+    {
       "key": "mercadolivre:MLB5468706054",
       "product_id": "MLB5468706054",
       "catalog_product_id": "MLB51901869",
@@ -734,22 +794,7 @@
       "score": 88.0,
       "posted_ts": 1791136941,
       "posted_at": "2026-10-04T18:02:21.033459+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB4780821021",
-      "product_id": "MLB4780821021",
-      "catalog_product_id": "MLB73080389",
-      "item_id": "MLB4780821021",
-      "url": "https://www.mercadolivre.com.br/p/MLB73080389?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB73080389?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "esteira ergometrica eletrica dobravel residencial com bluetooth tela led 14km h jmjn esteira ergometrica 120kg",
-      "title": "Esteira Ergométrica Elétrica Dobrável Residencial Com Bluetooth Tela Led 14km/h Jmjn Esteira Ergometrica 120kg",
-      "category": "Esportes",
-      "price": 1339.8,
-      "score": 179.26,
-      "posted_ts": 1791126180,
-      "posted_at": "2026-10-04T15:03:00.179935+00:00"
     }
   ],
-  "updated_at": "2026-10-06T13:02:35.013751+00:00"
+  "updated_at": "2026-10-06T16:08:37.281919+00:00"
 }

@@ -1,6 +1,62 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB5669950086",
+      "marketplace": "mercadolivre",
+      "id": "MLB5669950086",
+      "title": "Shampoo Infantil 250ml Buba Care",
+      "title_norm": "shampoo infantil 250ml buba care",
+      "url": "https://www.mercadolivre.com.br/p/MLB29412135?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB29412135?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Beleza",
+      "bucket": "beleza",
+      "posted_ts": 1791302917,
+      "posted_at": "2026-10-06T16:08:37.268626+00:00",
+      "score": 88.0
+    },
+    {
+      "key": "mercadolivre:MLB6302363224",
+      "marketplace": "mercadolivre",
+      "id": "MLB6302363224",
+      "title": "35 Escova Dental + 35 Porta Escova Dental + 35 Creme Dental Sortidas",
+      "title_norm": "35 escova dental 35 porta escova dental 35 creme dental sortidas",
+      "url": "https://www.mercadolivre.com.br/p/MLB65932271?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB65932271?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Supermercados",
+      "bucket": "supermercados",
+      "posted_ts": 1791302853,
+      "posted_at": "2026-10-06T16:07:33.352337+00:00",
+      "score": 89.0
+    },
+    {
+      "key": "mercadolivre:MLB5709004240",
+      "marketplace": "mercadolivre",
+      "id": "MLB5709004240",
+      "title": "Detergente Sabão Lava Louça Pastilha + Lava Máquina Unik",
+      "title_norm": "detergente sabao lava louca pastilha lava maquina unik",
+      "url": "https://www.mercadolivre.com.br/p/MLB56414429?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB56414429?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Supermercados",
+      "bucket": "supermercado",
+      "posted_ts": 1791302789,
+      "posted_at": "2026-10-06T16:06:29.293532+00:00",
+      "score": 105.13
+    },
+    {
+      "key": "mercadolivre:MLB6428938830",
+      "marketplace": "mercadolivre",
+      "id": "MLB6428938830",
+      "title": "Fralda Pampers Supersec M 30 Unidades",
+      "title_norm": "fralda pampers supersec m 30 unidades",
+      "url": "https://www.mercadolivre.com.br/p/MLB36175310?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB36175310?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Mãe e Bebê",
+      "bucket": "fraldas",
+      "posted_ts": 1791302725,
+      "posted_at": "2026-10-06T16:05:25.354500+00:00",
+      "score": 130.0
+    },
+    {
       "key": "shopee:10908191710",
       "marketplace": "shopee",
       "id": "10908191710",
@@ -13943,63 +13999,7 @@
       "posted_ts": 1790551149,
       "posted_at": "2026-09-27T23:19:09.537127+00:00",
       "score": 127.25
-    },
-    {
-      "key": "shopee:22092998564",
-      "marketplace": "shopee",
-      "id": "22092998564",
-      "title": "Creatina Monohidratada Pura 1kg, 500g, 600, 300g e 150g - Dark Lab",
-      "title_norm": "creatina monohidratada pura 1kg 500g 600 300g e 150g dark lab",
-      "url": "https://shopee.com.br/product/1242044379/22092998564",
-      "affiliate_url": "https://s.shopee.com.br/4qFy0FgsqQ",
-      "category": "Dark Lab Oficial",
-      "bucket": "dark_lab_oficial",
-      "posted_ts": 1790551082,
-      "posted_at": "2026-09-27T23:18:02.204322+00:00",
-      "score": 127.59
-    },
-    {
-      "key": "shopee:9212570285",
-      "marketplace": "shopee",
-      "id": "9212570285",
-      "title": "Creatina Suplemento Monohidratada em Pó 100% Pura Importada - Soldiers Nutrition",
-      "title_norm": "creatina suplemento monohidratada em po 100 pura importada soldiers nutrition",
-      "url": "https://shopee.com.br/product/347988064/9212570285",
-      "affiliate_url": "https://s.shopee.com.br/AKau1OXb5Q",
-      "category": "Soldiers Nutrition",
-      "bucket": "soldiers_nutrition",
-      "posted_ts": 1790551013,
-      "posted_at": "2026-09-27T23:16:53.825645+00:00",
-      "score": 133.26
-    },
-    {
-      "key": "shopee:22998768336",
-      "marketplace": "shopee",
-      "id": "22998768336",
-      "title": "Sandália Infantil Chinelo Eva Anti-Derrapante",
-      "title_norm": "sandalia infantil chinelo eva anti derrapante",
-      "url": "https://shopee.com.br/product/1310381126/22998768336",
-      "affiliate_url": "https://s.shopee.com.br/40gqPdB7jI",
-      "category": "Bliss Femme",
-      "bucket": "calcados",
-      "posted_ts": 1790544068,
-      "posted_at": "2026-09-27T21:21:08.754125+00:00",
-      "score": 97.9
-    },
-    {
-      "key": "shopee:23498194746",
-      "marketplace": "shopee",
-      "id": "23498194746",
-      "title": "Kit 2 Pares Tênis Infantil Menina Escolar | Para Escola Leve e Resistente 25 ao 36 | COMPRE AGORA!",
-      "title_norm": "kit 2 pares tenis infantil menina escolar para escola leve e resistente 25 ao 36 compre agora",
-      "url": "https://shopee.com.br/product/832004029/23498194746",
-      "affiliate_url": "https://s.shopee.com.br/6VOCeVpqsJ",
-      "category": "Piedora",
-      "bucket": "calcados",
-      "posted_ts": 1790544004,
-      "posted_at": "2026-09-27T21:20:04.756629+00:00",
-      "score": 100.86
     }
   ],
-  "updated_at": "2026-10-06T14:20:13.192167+00:00"
+  "updated_at": "2026-10-06T16:08:37.268641+00:00"
 }
