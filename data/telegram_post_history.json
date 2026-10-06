@@ -1,6 +1,34 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB7003862824",
+      "marketplace": "mercadolivre",
+      "id": "MLB7003862824",
+      "title": "Painel D'Rossi Painel Para TV para TV até 60\" cumaru de mdf/mdp",
+      "title_norm": "painel d rossi painel para tv para tv ate 60 cumaru de mdf mdp",
+      "url": "https://www.mercadolivre.com.br/p/MLB74184723?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB74184723?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Casa e Cozinha",
+      "bucket": "casa_e_cozinha",
+      "posted_ts": 1791248671,
+      "posted_at": "2026-10-06T01:04:31.989201+00:00",
+      "score": 104.9
+    },
+    {
+      "key": "mercadolivre:MLB4027376697",
+      "marketplace": "mercadolivre",
+      "id": "MLB4027376697",
+      "title": "Jogo de Panelas Antiaderente 5 Peças Cereja com Revestimento Antiaderente",
+      "title_norm": "jogo de panelas antiaderente 5 pecas cereja com revestimento antiaderente",
+      "url": "https://www.mercadolivre.com.br/p/MLB33652298?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB33652298?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Casa e Cozinha",
+      "bucket": "casa_cozinha",
+      "posted_ts": 1791248608,
+      "posted_at": "2026-10-06T01:03:28.071117+00:00",
+      "score": 119.82
+    },
+    {
       "key": "shopee:42605947566",
       "marketplace": "shopee",
       "id": "42605947566",
@@ -13971,35 +13999,7 @@
       "posted_ts": 1790489881,
       "posted_at": "2026-09-27T06:18:01.852080+00:00",
       "score": 88.79
-    },
-    {
-      "key": "shopee:17884006630",
-      "marketplace": "shopee",
-      "id": "17884006630",
-      "title": "Lenços Umedecidos Pampers Carícia de Bebê com 576 unidades",
-      "title_norm": "lencos umedecidos pampers caricia de bebe com 576 unidades",
-      "url": "https://shopee.com.br/product/528273775/17884006630",
-      "affiliate_url": "https://s.shopee.com.br/6L4lSOlRxT",
-      "category": "Loja Sage's",
-      "bucket": "fraldas",
-      "posted_ts": 1790489813,
-      "posted_at": "2026-09-27T06:16:53.050622+00:00",
-      "score": 108.17
-    },
-    {
-      "key": "shopee:58254619015",
-      "marketplace": "shopee",
-      "id": "58254619015",
-      "title": "KIT APARELHO MEDIDOR GLICOSE GLICOSÍMETRO   Gh83 Medisign",
-      "title_norm": "kit aparelho medidor glicose glicosimetro gh83 medisign",
-      "url": "https://shopee.com.br/product/409223478/58254619015",
-      "affiliate_url": "https://s.shopee.com.br/AAHTxKH8ji",
-      "category": "ZAN LOG",
-      "bucket": "zan_log",
-      "posted_ts": 1790486403,
-      "posted_at": "2026-09-27T05:20:03.300299+00:00",
-      "score": 44.57
     }
   ],
-  "updated_at": "2026-10-06T00:21:15.375157+00:00"
+  "updated_at": "2026-10-06T01:04:31.989216+00:00"
 }

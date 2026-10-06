@@ -1,6 +1,36 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB7003862824",
+      "product_id": "MLB7003862824",
+      "catalog_product_id": "MLB74184723",
+      "item_id": "MLB7003862824",
+      "url": "https://www.mercadolivre.com.br/p/MLB74184723?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB74184723?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "painel d rossi painel para tv para tv ate 60 cumaru de mdf mdp",
+      "title": "Painel D'Rossi Painel Para TV para TV até 60\" cumaru de mdf/mdp",
+      "category": "Casa e Cozinha",
+      "price": 621.83,
+      "score": 104.9,
+      "posted_ts": 1791248672,
+      "posted_at": "2026-10-06T01:04:32.002787+00:00"
+    },
+    {
+      "key": "mercadolivre:MLB4027376697",
+      "product_id": "MLB4027376697",
+      "catalog_product_id": "MLB33652298",
+      "item_id": "MLB4027376697",
+      "url": "https://www.mercadolivre.com.br/p/MLB33652298?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB33652298?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "jogo de panelas antiaderente 5 pecas cereja com revestimento antiaderente",
+      "title": "Jogo de Panelas Antiaderente 5 Peças Cereja com Revestimento Antiaderente",
+      "category": "Casa e Cozinha",
+      "price": 174.9,
+      "score": 119.82,
+      "posted_ts": 1791248608,
+      "posted_at": "2026-10-06T01:03:28.086200+00:00"
+    },
+    {
       "key": "mercadolivre:MLB7728856848",
       "product_id": "MLB7728856848",
       "catalog_product_id": "MLB69276350",
@@ -661,5 +691,5 @@
       "posted_at": "2026-10-04T04:03:03.929352+00:00"
     }
   ],
-  "updated_at": "2026-10-06T00:05:00.365786+00:00"
+  "updated_at": "2026-10-06T01:04:32.002797+00:00"
 }
