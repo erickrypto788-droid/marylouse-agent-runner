@@ -1,6 +1,20 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB6512536586",
+      "marketplace": "mercadolivre",
+      "id": "MLB6512536586",
+      "title": "Vestido feminino casual feminino Guess, relógio esportivo, pulseira, cor dourada",
+      "title_norm": "vestido feminino casual feminino guess relogio esportivo pulseira cor dourada",
+      "url": "https://www.mercadolivre.com.br/p/MLB25981434?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB25981434?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Moda Feminina",
+      "bucket": "moda_feminina",
+      "posted_ts": 1791252172,
+      "posted_at": "2026-10-06T02:02:52.482831+00:00",
+      "score": 86.0
+    },
+    {
       "key": "shopee:19099500190",
       "marketplace": "shopee",
       "id": "19099500190",
@@ -13985,21 +13999,7 @@
       "posted_ts": 1790492970,
       "posted_at": "2026-09-27T07:09:30.706068+00:00",
       "score": 88.0
-    },
-    {
-      "key": "mercadolivre:MLB6935275144",
-      "marketplace": "mercadolivre",
-      "id": "MLB6935275144",
-      "title": "Base Amaciante 500 Faz 100 Litros Amaciante",
-      "title_norm": "base amaciante 500 faz 100 litros amaciante",
-      "url": "https://www.mercadolivre.com.br/p/MLB73023961?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB73023961?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "category": "Supermercados",
-      "bucket": "supermercado",
-      "posted_ts": 1790492902,
-      "posted_at": "2026-09-27T07:08:22.349662+00:00",
-      "score": 102.2
     }
   ],
-  "updated_at": "2026-10-06T01:21:10.644979+00:00"
+  "updated_at": "2026-10-06T02:02:52.482845+00:00"
 }
