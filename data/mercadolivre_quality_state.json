@@ -1,6 +1,36 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB6991422356",
+      "product_id": "MLB6991422356",
+      "catalog_product_id": "MLB67933956",
+      "item_id": "MLB6991422356",
+      "url": "https://www.mercadolivre.com.br/p/MLB67933956?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB67933956?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "shorts feminino modelador up line loba 5690 003 cor bege tamanho m",
+      "title": "Shorts Feminino Modelador Up Line Loba 5690-003 Cor Bege Tamanho M",
+      "category": "Moda Feminina",
+      "price": 48.28,
+      "score": 77.67,
+      "posted_ts": 1791313484,
+      "posted_at": "2026-10-06T19:04:44.406663+00:00"
+    },
+    {
+      "key": "mercadolivre:MLB5120190903",
+      "product_id": "MLB5120190903",
+      "catalog_product_id": "MLB77976379",
+      "item_id": "MLB5120190903",
+      "url": "https://www.mercadolivre.com.br/p/MLB77976379?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB77976379?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "tecido paete tribal africano 1 30x1 50m vestido feminino cor preto",
+      "title": "Tecido Paetê Tribal Africano 1,30x1,50m Vestido Feminino Cor Preto",
+      "category": "Moda Feminina",
+      "price": 305.0,
+      "score": 86.0,
+      "posted_ts": 1791313420,
+      "posted_at": "2026-10-06T19:03:40.502538+00:00"
+    },
+    {
       "key": "mercadolivre:MLB6291964460",
       "product_id": "MLB6291964460",
       "catalog_product_id": "MLB50493068",
@@ -854,22 +884,7 @@
       "score": 131.47,
       "posted_ts": 1791147751,
       "posted_at": "2026-10-04T21:02:31.510436+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB7584337290",
-      "product_id": "MLB7584337290",
-      "catalog_product_id": "MLB24511657",
-      "item_id": "MLB7584337290",
-      "url": "https://www.mercadolivre.com.br/p/MLB24511657?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB24511657?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "ssd netac nv3000 ssd nvme m2 250gb",
-      "title": "SSD Netac Nv3000 Ssd Nvme M2 250gb",
-      "category": "Informática",
-      "price": 399.0,
-      "score": 111.0,
-      "posted_ts": 1791140546,
-      "posted_at": "2026-10-04T19:02:26.453837+00:00"
     }
   ],
-  "updated_at": "2026-10-06T18:04:19.193306+00:00"
+  "updated_at": "2026-10-06T19:04:44.406673+00:00"
 }

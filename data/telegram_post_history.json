@@ -1,6 +1,34 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB6991422356",
+      "marketplace": "mercadolivre",
+      "id": "MLB6991422356",
+      "title": "Shorts Feminino Modelador Up Line Loba 5690-003 Cor Bege Tamanho M",
+      "title_norm": "shorts feminino modelador up line loba 5690 003 cor bege tamanho m",
+      "url": "https://www.mercadolivre.com.br/p/MLB67933956?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB67933956?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Moda Feminina",
+      "bucket": "moda_feminina",
+      "posted_ts": 1791313484,
+      "posted_at": "2026-10-06T19:04:44.392970+00:00",
+      "score": 77.67
+    },
+    {
+      "key": "mercadolivre:MLB5120190903",
+      "marketplace": "mercadolivre",
+      "id": "MLB5120190903",
+      "title": "Tecido Paetê Tribal Africano 1,30x1,50m Vestido Feminino Cor Preto",
+      "title_norm": "tecido paete tribal africano 1 30x1 50m vestido feminino cor preto",
+      "url": "https://www.mercadolivre.com.br/p/MLB77976379?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB77976379?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Moda Feminina",
+      "bucket": "moda_feminina",
+      "posted_ts": 1791313420,
+      "posted_at": "2026-10-06T19:03:40.488129+00:00",
+      "score": 86.0
+    },
+    {
       "key": "shopee:20599384653",
       "marketplace": "shopee",
       "id": "20599384653",
@@ -13971,35 +13999,7 @@
       "posted_ts": 1790561965,
       "posted_at": "2026-09-28T02:19:25.378272+00:00",
       "score": 77.76
-    },
-    {
-      "key": "shopee:58256756469",
-      "marketplace": "shopee",
-      "id": "58256756469",
-      "title": "Pampers SuperSec - Escolha o Tamanho (M, G, XG, XXG)",
-      "title_norm": "pampers supersec escolha o tamanho m g xg xxg",
-      "url": "https://shopee.com.br/product/909267635/58256756469",
-      "affiliate_url": "https://s.shopee.com.br/6fhdBPsgGq",
-      "category": "Raycriss",
-      "bucket": "fraldas",
-      "posted_ts": 1790561901,
-      "posted_at": "2026-09-28T02:18:21.377257+00:00",
-      "score": 86.95
-    },
-    {
-      "key": "shopee:42579853608",
-      "marketplace": "shopee",
-      "id": "42579853608",
-      "title": "Ninho Redutor de Berço Liso e Trocador Portátil Impermeável",
-      "title_norm": "ninho redutor de berco liso e trocador portatil impermeavel",
-      "url": "https://shopee.com.br/product/298372359/42579853608",
-      "affiliate_url": "https://s.shopee.com.br/1gIvtpBsTX",
-      "category": "Monzillo ",
-      "bucket": "monzillo",
-      "posted_ts": 1790561806,
-      "posted_at": "2026-09-28T02:16:46.837959+00:00",
-      "score": 117.49
     }
   ],
-  "updated_at": "2026-10-06T18:21:13.239449+00:00"
+  "updated_at": "2026-10-06T19:04:44.392984+00:00"
 }
