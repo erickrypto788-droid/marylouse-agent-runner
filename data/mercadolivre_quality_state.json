@@ -1,6 +1,21 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB4712198025",
+      "product_id": "MLB4712198025",
+      "catalog_product_id": "MLB54083722",
+      "item_id": "MLB4712198025",
+      "url": "https://www.mercadolivre.com.br/p/MLB54083722?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB54083722?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "fritadeira air fryer mondial oven digital 127v",
+      "title": "Fritadeira Air Fryer Mondial Oven Digital 127v",
+      "category": "Casa e Cozinha",
+      "price": 949.0,
+      "score": 168.81,
+      "posted_ts": 1791324146,
+      "posted_at": "2026-10-06T22:02:26.664363+00:00"
+    },
+    {
       "key": "mercadolivre:MLB6714509354",
       "product_id": "MLB6714509354",
       "catalog_product_id": "MLB69134972",
@@ -869,37 +884,7 @@
       "score": 76.82,
       "posted_ts": 1791173180,
       "posted_at": "2026-10-05T04:06:20.834356+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB4450293643",
-      "product_id": "MLB4450293643",
-      "catalog_product_id": "MLB29728116",
-      "item_id": "MLB4450293643",
-      "url": "https://www.mercadolivre.com.br/p/MLB29728116?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB29728116?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "xiaomi poco poco x6 5g dual sim 256gb 12gb branco",
-      "title": "Xiaomi POCO Poco X6 5G Dual SIM 256GB/12GB Branco",
-      "category": "Informática",
-      "price": 3500.0,
-      "score": 124.0,
-      "posted_ts": 1791147815,
-      "posted_at": "2026-10-04T21:03:35.449528+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB6099604986",
-      "product_id": "MLB6099604986",
-      "catalog_product_id": "MLB47310708",
-      "item_id": "MLB6099604986",
-      "url": "https://www.mercadolivre.com.br/p/MLB47310708?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB47310708?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "smartphone samsung galaxy a32 128gb branco",
-      "title": "Smartphone Samsung Galaxy A32 128gb Branco",
-      "category": "Informática",
-      "price": 1959.9,
-      "score": 131.47,
-      "posted_ts": 1791147751,
-      "posted_at": "2026-10-04T21:02:31.510436+00:00"
     }
   ],
-  "updated_at": "2026-10-06T20:03:30.862863+00:00"
+  "updated_at": "2026-10-06T22:02:26.664373+00:00"
 }

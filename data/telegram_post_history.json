@@ -1,6 +1,20 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB4712198025",
+      "marketplace": "mercadolivre",
+      "id": "MLB4712198025",
+      "title": "Fritadeira Air Fryer Mondial Oven Digital 127v",
+      "title_norm": "fritadeira air fryer mondial oven digital 127v",
+      "url": "https://www.mercadolivre.com.br/p/MLB54083722?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB54083722?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Casa e Cozinha",
+      "bucket": "casa_cozinha",
+      "posted_ts": 1791324146,
+      "posted_at": "2026-10-06T22:02:26.650604+00:00",
+      "score": 168.81
+    },
+    {
       "key": "shopee:12978772197",
       "marketplace": "shopee",
       "id": "12978772197",
@@ -13985,21 +13999,7 @@
       "posted_ts": 1790572675,
       "posted_at": "2026-09-28T05:17:55.250133+00:00",
       "score": 103.52
-    },
-    {
-      "key": "shopee:22696925642",
-      "marketplace": "shopee",
-      "id": "22696925642",
-      "title": "Aplique Finalizador de Laço e Agenda KIT 100 UN (5 Modelos) Passante Elástico, Decoração, Artesanato",
-      "title_norm": "aplique finalizador de laco e agenda kit 100 un 5 modelos passante elastico decoracao artesanato",
-      "url": "https://shopee.com.br/product/1076961691/22696925642",
-      "affiliate_url": "https://s.shopee.com.br/BU9dqJyfe",
-      "category": "E-Bureau",
-      "bucket": "pet",
-      "posted_ts": 1790572611,
-      "posted_at": "2026-09-28T05:16:51.154184+00:00",
-      "score": 122.24
     }
   ],
-  "updated_at": "2026-10-06T21:22:15.056699+00:00"
+  "updated_at": "2026-10-06T22:02:26.650617+00:00"
 }
