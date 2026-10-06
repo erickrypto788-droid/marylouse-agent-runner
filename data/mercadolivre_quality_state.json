@@ -1,6 +1,36 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB7420274710",
+      "product_id": "MLB7420274710",
+      "catalog_product_id": "MLB74419020",
+      "item_id": "MLB7420274710",
+      "url": "https://www.mercadolivre.com.br/p/MLB74419020?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB74419020?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "xiaomi redmi note 15",
+      "title": "Xiaomi Redmi Note 15",
+      "category": "Informática",
+      "price": 1699.0,
+      "score": 124.0,
+      "posted_ts": 1791277439,
+      "posted_at": "2026-10-06T09:03:59.974366+00:00"
+    },
+    {
+      "key": "mercadolivre:MLB3900697873",
+      "product_id": "MLB3900697873",
+      "catalog_product_id": "MLB41629336",
+      "item_id": "MLB3900697873",
+      "url": "https://www.mercadolivre.com.br/p/MLB41629336?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB41629336?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "smartphone xiaomi redmi 13 cor azul marinho",
+      "title": "Smartphone Xiaomi Redmi 13 Cor Azul-marinho",
+      "category": "Informática",
+      "price": 1337.4,
+      "score": 127.0,
+      "posted_ts": 1791277364,
+      "posted_at": "2026-10-06T09:02:44.217824+00:00"
+    },
+    {
       "key": "mercadolivre:MLB7226098148",
       "product_id": "MLB7226098148",
       "catalog_product_id": "MLB68059006",
@@ -749,52 +779,7 @@
       "score": 114.0,
       "posted_ts": 1791112127,
       "posted_at": "2026-10-04T11:08:47.243304+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB7513707254",
-      "product_id": "MLB7513707254",
-      "catalog_product_id": "MLB57578486",
-      "item_id": "MLB7513707254",
-      "url": "https://www.mercadolivre.com.br/p/MLB57578486?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB57578486?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "mini impressora niimbot b1 etiqueta bluetooth cor prateado impressora etiquetas adesivas",
-      "title": "Mini Impressora Niimbot B1 etiqueta Bluetooth Cor Prateado impressora etiquetas adesivas",
-      "category": "Informática",
-      "price": 209.99,
-      "score": 88.0,
-      "posted_ts": 1791104576,
-      "posted_at": "2026-10-04T09:02:56.943215+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB7262266178",
-      "product_id": "MLB7262266178",
-      "catalog_product_id": "MLB23076913",
-      "item_id": "MLB7262266178",
-      "url": "https://www.mercadolivre.com.br/p/MLB23076913?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB23076913?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "monitor bebe wifi infravermelho vision noctura intercom inteligente",
-      "title": "Monitor Bebe Wifi Infravermelho Vision Noctura Intercom Inteligente",
-      "category": "Informática",
-      "price": 1198.9,
-      "score": 86.0,
-      "posted_ts": 1791101039,
-      "posted_at": "2026-10-04T08:03:59.373638+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB7591842132",
-      "product_id": "MLB7591842132",
-      "catalog_product_id": "MLB75043054",
-      "item_id": "MLB7591842132",
-      "url": "https://www.mercadolivre.com.br/p/MLB75043054?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB75043054?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "azul escova limpeza mamadeira kit para limpeza de mamadeira kit limpeza mamadeira viagem kit limpeza bebe escova mamadeira portatil escova bico canudo secador higiene infantil acessorios bebe",
-      "title": "Azul escova limpeza mamadeira kit para limpeza de mamadeira kit limpeza mamadeira viagem kit limpeza bebe escova mamadeira portatil escova bico canudo secador higiene infantil acessorios bebe",
-      "category": "Mãe e Bebê",
-      "price": 53.2,
-      "score": 191.5,
-      "posted_ts": 1791100968,
-      "posted_at": "2026-10-04T08:02:48.824746+00:00"
     }
   ],
-  "updated_at": "2026-10-06T08:02:41.105524+00:00"
+  "updated_at": "2026-10-06T09:03:59.974373+00:00"
 }
