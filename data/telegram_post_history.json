@@ -1,6 +1,20 @@
 {
   "posts": [
     {
+      "key": "shopee:22998137276",
+      "marketplace": "shopee",
+      "id": "22998137276",
+      "title": "Calça Jeans Plus Size Com Elastano Super Conforto 44 ao 54",
+      "title_norm": "calca jeans plus size com elastano super conforto 44 ao 54",
+      "url": "https://shopee.com.br/product/1119924602/22998137276",
+      "affiliate_url": "https://s.shopee.com.br/BUMCbkb8g",
+      "category": "Inove jeans",
+      "bucket": "inove_jeans",
+      "posted_ts": 1791325014,
+      "posted_at": "2026-10-06T22:16:54.162308+00:00",
+      "score": 106.44
+    },
+    {
       "key": "mercadolivre:MLB4712198025",
       "marketplace": "mercadolivre",
       "id": "MLB4712198025",
@@ -13985,21 +13999,7 @@
       "posted_ts": 1790572739,
       "posted_at": "2026-09-28T05:18:59.278100+00:00",
       "score": 101.21
-    },
-    {
-      "key": "shopee:23498951046",
-      "marketplace": "shopee",
-      "id": "23498951046",
-      "title": "kit 10  24 Cores Caneta Marcadora De Cabeça Dupla Oleosa Montagem Artística Para Estudantes Material Escolar su",
-      "title_norm": "kit 10 24 cores caneta marcadora de cabeca dupla oleosa montagem artistica para estudantes material escolar su",
-      "url": "https://shopee.com.br/product/526615488/23498951046",
-      "affiliate_url": "https://s.shopee.com.br/BU8JRBXzo",
-      "category": "Sus.store",
-      "bucket": "sus_store",
-      "posted_ts": 1790572675,
-      "posted_at": "2026-09-28T05:17:55.250133+00:00",
-      "score": 103.52
     }
   ],
-  "updated_at": "2026-10-06T22:02:26.650617+00:00"
+  "updated_at": "2026-10-06T22:16:54.162327+00:00"
 }
