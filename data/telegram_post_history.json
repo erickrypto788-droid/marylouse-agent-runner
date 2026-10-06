@@ -1,6 +1,34 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB4139317597",
+      "marketplace": "mercadolivre",
+      "id": "MLB4139317597",
+      "title": "Furadeira Parafusadeira Imp C/ Parafusadeira Imp Dlx2336syx",
+      "title_norm": "furadeira parafusadeira imp c parafusadeira imp dlx2336syx",
+      "url": "https://www.mercadolivre.com.br/p/MLB23649057?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB23649057?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Ferramentas",
+      "bucket": "ferramentas",
+      "posted_ts": 1791327831,
+      "posted_at": "2026-10-06T23:03:51.735940+00:00",
+      "score": 117.68
+    },
+    {
+      "key": "mercadolivre:MLB3583861201",
+      "marketplace": "mercadolivre",
+      "id": "MLB3583861201",
+      "title": "Combo Furadeira Parafusadeira DF333D + Parafusadeira de Impacto TD110D 12V - CLX224SAX",
+      "title_norm": "combo furadeira parafusadeira df333d parafusadeira de impacto td110d 12v clx224sax",
+      "url": "https://www.mercadolivre.com.br/p/MLB19765397?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB19765397?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Ferramentas",
+      "bucket": "ferramentas",
+      "posted_ts": 1791327767,
+      "posted_at": "2026-10-06T23:02:47.572310+00:00",
+      "score": 133.63
+    },
+    {
       "key": "shopee:22998137276",
       "marketplace": "shopee",
       "id": "22998137276",
@@ -13971,35 +13999,7 @@
       "posted_ts": 1790572867,
       "posted_at": "2026-09-28T05:21:07.322816+00:00",
       "score": 70.77
-    },
-    {
-      "key": "shopee:22199198026",
-      "marketplace": "shopee",
-      "id": "22199198026",
-      "title": "Kit Grampos e Presilhas Automotivas com 100 Peças + Estojo Organizador Universal Reforçado",
-      "title_norm": "kit grampos e presilhas automotivas com 100 pecas estojo organizador universal reforcado",
-      "url": "https://shopee.com.br/product/1459511958/22199198026",
-      "affiliate_url": "https://s.shopee.com.br/8V9HZ9fNwe",
-      "category": "RD ECOM",
-      "bucket": "rd_ecom",
-      "posted_ts": 1790572803,
-      "posted_at": "2026-09-28T05:20:03.276903+00:00",
-      "score": 88.63
-    },
-    {
-      "key": "shopee:51307288179",
-      "marketplace": "shopee",
-      "id": "51307288179",
-      "title": "Kit Presente Caderneta Personalizada + Caneta com Nome + Caixa Elegante – Presente Brinde Agenda",
-      "title_norm": "kit presente caderneta personalizada caneta com nome caixa elegante presente brinde agenda",
-      "url": "https://shopee.com.br/product/243816539/51307288179",
-      "affiliate_url": "https://s.shopee.com.br/80CyJQ8ccz",
-      "category": "Gráfica Vision Art Design",
-      "bucket": "grafica_vision_art_design",
-      "posted_ts": 1790572739,
-      "posted_at": "2026-09-28T05:18:59.278100+00:00",
-      "score": 101.21
     }
   ],
-  "updated_at": "2026-10-06T22:16:54.162327+00:00"
+  "updated_at": "2026-10-06T23:03:51.735953+00:00"
 }
