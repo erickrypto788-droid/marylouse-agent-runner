@@ -1,6 +1,34 @@
 {
   "posts": [
     {
+      "key": "shopee:58255159172",
+      "marketplace": "shopee",
+      "id": "58255159172",
+      "title": "Fones de ouvido sem fio Bluetooth compactos Xiaomi Redmi Airdots com Estojo Recarregável",
+      "title_norm": "fones de ouvido sem fio bluetooth compactos xiaomi redmi airdots com estojo recarregavel",
+      "url": "https://shopee.com.br/product/1382685526/58255159172",
+      "affiliate_url": "https://s.shopee.com.br/80DDjMfjPK",
+      "category": "YYYNN",
+      "bucket": "celulares",
+      "posted_ts": 1791263897,
+      "posted_at": "2026-10-06T05:18:17.353939+00:00",
+      "score": 138.52
+    },
+    {
+      "key": "shopee:23399043568",
+      "marketplace": "shopee",
+      "id": "23399043568",
+      "title": "Fone Bluetooth Pro5 Premium | Imersão Total c Cancelamento Ruído Qualidade Superior p iPhoneAndroid",
+      "title_norm": "fone bluetooth pro5 premium imersao total c cancelamento ruido qualidade superior p iphoneandroid",
+      "url": "https://shopee.com.br/product/976285267/23399043568",
+      "affiliate_url": "https://s.shopee.com.br/9APB7VbI2T",
+      "category": "TOP SELECAO",
+      "bucket": "celulares",
+      "posted_ts": 1791263816,
+      "posted_at": "2026-10-06T05:16:56.714820+00:00",
+      "score": 139.03
+    },
+    {
       "key": "shopee:14263042301",
       "marketplace": "shopee",
       "id": "14263042301",
@@ -13971,35 +13999,7 @@
       "posted_ts": 1790504355,
       "posted_at": "2026-09-27T10:19:15.818253+00:00",
       "score": 82.28
-    },
-    {
-      "key": "shopee:22393975400",
-      "marketplace": "shopee",
-      "id": "22393975400",
-      "title": "MousePad Grande Rosa Desk Pad Couro Gamer Office",
-      "title_norm": "mousepad grande rosa desk pad couro gamer office",
-      "url": "https://shopee.com.br/product/500815088/22393975400",
-      "affiliate_url": "https://s.shopee.com.br/30oIQLha2r",
-      "category": "PrismaCar",
-      "bucket": "informatica",
-      "posted_ts": 1790504286,
-      "posted_at": "2026-09-27T10:18:06.624051+00:00",
-      "score": 105.58
-    },
-    {
-      "key": "shopee:57764417866",
-      "marketplace": "shopee",
-      "id": "57764417866",
-      "title": "SSD SATA III de 2,5 polegadas 120GB 128GB 240GB 256GB notebook desktop universal de alta velocidade construído em SSD",
-      "title_norm": "ssd sata iii de 2 5 polegadas 120gb 128gb 240gb 256gb notebook desktop universal de alta velocidade construido em ssd",
-      "url": "https://shopee.com.br/product/1672861664/57764417866",
-      "affiliate_url": "https://s.shopee.com.br/2LYcxXIsYN",
-      "category": "Brand Choice",
-      "bucket": "informatica",
-      "posted_ts": 1790504217,
-      "posted_at": "2026-09-27T10:16:57.214924+00:00",
-      "score": 107.49
     }
   ],
-  "updated_at": "2026-10-06T04:18:06.789240+00:00"
+  "updated_at": "2026-10-06T05:18:17.353962+00:00"
 }
