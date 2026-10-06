@@ -1,6 +1,20 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB6714509354",
+      "marketplace": "mercadolivre",
+      "id": "MLB6714509354",
+      "title": "Luva Academia Musculação Fitness Tamanho P",
+      "title_norm": "luva academia musculacao fitness tamanho p",
+      "url": "https://www.mercadolivre.com.br/p/MLB69134972?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB69134972?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Esportes",
+      "bucket": "esportes",
+      "posted_ts": 1791317010,
+      "posted_at": "2026-10-06T20:03:30.854167+00:00",
+      "score": 82.71
+    },
+    {
       "key": "shopee:22694224490",
       "marketplace": "shopee",
       "id": "22694224490",
@@ -13985,21 +13999,7 @@
       "posted_ts": 1790562099,
       "posted_at": "2026-09-28T02:21:39.597891+00:00",
       "score": 50.69
-    },
-    {
-      "key": "shopee:22694017124",
-      "marketplace": "shopee",
-      "id": "22694017124",
-      "title": "Caixa Lenços/Toalhas Umedecidas Baby Free Plus c/ 120 Unidades Cada – Sem Tampa FlipTop",
-      "title_norm": "caixa lencos toalhas umedecidas baby free plus c 120 unidades cada sem tampa fliptop",
-      "url": "https://shopee.com.br/product/287778538/22694017124",
-      "affiliate_url": "https://s.shopee.com.br/113GR0Iimx",
-      "category": "PLUMA_BABy",
-      "bucket": "pluma_baby",
-      "posted_ts": 1790562035,
-      "posted_at": "2026-09-28T02:20:35.525753+00:00",
-      "score": 62.51
     }
   ],
-  "updated_at": "2026-10-06T19:16:50.122335+00:00"
+  "updated_at": "2026-10-06T20:03:30.854177+00:00"
 }

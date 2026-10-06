@@ -1,6 +1,21 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB6714509354",
+      "product_id": "MLB6714509354",
+      "catalog_product_id": "MLB69134972",
+      "item_id": "MLB6714509354",
+      "url": "https://www.mercadolivre.com.br/p/MLB69134972?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB69134972?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "luva academia musculacao fitness tamanho p",
+      "title": "Luva Academia Musculação Fitness Tamanho P",
+      "category": "Esportes",
+      "price": 35.25,
+      "score": 82.71,
+      "posted_ts": 1791317010,
+      "posted_at": "2026-10-06T20:03:30.862856+00:00"
+    },
+    {
       "key": "mercadolivre:MLB6991422356",
       "product_id": "MLB6991422356",
       "catalog_product_id": "MLB67933956",
@@ -886,5 +901,5 @@
       "posted_at": "2026-10-04T21:02:31.510436+00:00"
     }
   ],
-  "updated_at": "2026-10-06T19:04:44.406673+00:00"
+  "updated_at": "2026-10-06T20:03:30.862863+00:00"
 }
