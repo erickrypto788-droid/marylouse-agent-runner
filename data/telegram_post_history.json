@@ -1,6 +1,62 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB4669888929",
+      "marketplace": "mercadolivre",
+      "id": "MLB4669888929",
+      "title": "Kit 10 Cateteres Speedicath Short Feminino Ch10",
+      "title_norm": "kit 10 cateteres speedicath short feminino ch10",
+      "url": "https://www.mercadolivre.com.br/p/MLB69426926?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB69426926?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Moda Feminina",
+      "bucket": "moda_feminina",
+      "posted_ts": 1791306426,
+      "posted_at": "2026-10-06T17:07:06.710335+00:00",
+      "score": 88.0
+    },
+    {
+      "key": "mercadolivre:MLB4712632217",
+      "marketplace": "mercadolivre",
+      "id": "MLB4712632217",
+      "title": "Meia Calça Feminina Térmica Plus Size",
+      "title_norm": "meia calca feminina termica plus size",
+      "url": "https://www.mercadolivre.com.br/p/MLB66992733?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB66992733?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Moda Feminina",
+      "bucket": "moda_feminina",
+      "posted_ts": 1791306362,
+      "posted_at": "2026-10-06T17:06:02.740985+00:00",
+      "score": 88.0
+    },
+    {
+      "key": "mercadolivre:MLB5049841699",
+      "marketplace": "mercadolivre",
+      "id": "MLB5049841699",
+      "title": "Camiseta feminina modeladora",
+      "title_norm": "camiseta feminina modeladora",
+      "url": "https://www.mercadolivre.com.br/p/MLB59779508?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB59779508?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Moda Feminina",
+      "bucket": "moda_feminina",
+      "posted_ts": 1791306298,
+      "posted_at": "2026-10-06T17:04:58.830642+00:00",
+      "score": 88.0
+    },
+    {
+      "key": "mercadolivre:MLB3957584779",
+      "marketplace": "mercadolivre",
+      "id": "MLB3957584779",
+      "title": "Tecido Suplex Liso Amarelo de 5 Metros para Moda Fitness",
+      "title_norm": "tecido suplex liso amarelo de 5 metros para moda fitness",
+      "url": "https://www.mercadolivre.com.br/p/MLB45621460?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB45621460?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Esportes",
+      "bucket": "esportes",
+      "posted_ts": 1791306234,
+      "posted_at": "2026-10-06T17:03:54.794829+00:00",
+      "score": 97.67
+    },
+    {
       "key": "shopee:22394647600",
       "marketplace": "shopee",
       "id": "22394647600",
@@ -13943,63 +13999,7 @@
       "posted_ts": 1790557440,
       "posted_at": "2026-09-28T01:04:00.841398+00:00",
       "score": 183.81
-    },
-    {
-      "key": "shopee:23494419895",
-      "marketplace": "shopee",
-      "id": "23494419895",
-      "title": "Casinha de Boneca com 14/7/4 Quartos Corda de Luzes Brinquedo para Crianças Presente De Aniversário",
-      "title_norm": "casinha de boneca com 14 7 4 quartos corda de luzes brinquedo para criancas presente de aniversario",
-      "url": "https://shopee.com.br/product/1625500226/23494419895",
-      "affiliate_url": "https://s.shopee.com.br/1Lg6hOC8qh",
-      "category": "Domibro.br",
-      "bucket": "domibro_br",
-      "posted_ts": 1790554876,
-      "posted_at": "2026-09-28T00:21:16.360278+00:00",
-      "score": 96.98
-    },
-    {
-      "key": "shopee:23799369338",
-      "marketplace": "shopee",
-      "id": "23799369338",
-      "title": "Kit 48 Carrinhos De Metal Fricção Brinquedo Menino Maleta Pista Presente",
-      "title_norm": "kit 48 carrinhos de metal friccao brinquedo menino maleta pista presente",
-      "url": "https://shopee.com.br/product/1377920727/23799369338",
-      "affiliate_url": "https://s.shopee.com.br/1gIvla2qWi",
-      "category": "rcacomercial",
-      "bucket": "rcacomercial",
-      "posted_ts": 1790554811,
-      "posted_at": "2026-09-28T00:20:11.531518+00:00",
-      "score": 108.19
-    },
-    {
-      "key": "shopee:22998920151",
-      "marketplace": "shopee",
-      "id": "22998920151",
-      "title": "Copo com Canudo Hot Wheels - Aventura Sobre Rodas! 1200ml Em Policarbonato",
-      "title_norm": "copo com canudo hot wheels aventura sobre rodas 1200ml em policarbonato",
-      "url": "https://shopee.com.br/product/1625539033/22998920151",
-      "affiliate_url": "https://s.shopee.com.br/2BFCMUnk98",
-      "category": "MAX STORE VARIEDADES LTDA",
-      "bucket": "max_store_variedades_ltda",
-      "posted_ts": 1790554747,
-      "posted_at": "2026-09-28T00:19:07.260620+00:00",
-      "score": 117.58
-    },
-    {
-      "key": "shopee:23398908978",
-      "marketplace": "shopee",
-      "id": "23398908978",
-      "title": "Brinquedo Caminhão Dinossauro Engolidor 2026 Porta-Carrinhos com 4 Carrinhos de Metal – Kit Infantil🦖🚚",
-      "title_norm": "brinquedo caminhao dinossauro engolidor 2026 porta carrinhos com 4 carrinhos de metal kit infantil",
-      "url": "https://shopee.com.br/product/1634545368/23398908978",
-      "affiliate_url": "https://s.shopee.com.br/4LJgwTsh7U",
-      "category": "CANDYSTAR",
-      "bucket": "candystar",
-      "posted_ts": 1790554682,
-      "posted_at": "2026-09-28T00:18:02.985648+00:00",
-      "score": 119.17
     }
   ],
-  "updated_at": "2026-10-06T16:21:19.464167+00:00"
+  "updated_at": "2026-10-06T17:07:06.710346+00:00"
 }
