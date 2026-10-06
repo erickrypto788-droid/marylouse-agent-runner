@@ -1,6 +1,36 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB4662546537",
+      "product_id": "MLB4662546537",
+      "catalog_product_id": "MLB46462690",
+      "item_id": "MLB4662546537",
+      "url": "https://www.mercadolivre.com.br/p/MLB46462690?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB46462690?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "parafusadeira de impacto bateria kit parafusadeira com caixa cor preto",
+      "title": "Parafusadeira De Impacto Bateria Kit Parafusadeira Com Caixa Cor Preto",
+      "category": "Ferramentas",
+      "price": 99.95,
+      "score": 113.0,
+      "posted_ts": 1791266626,
+      "posted_at": "2026-10-06T06:03:46.735533+00:00"
+    },
+    {
+      "key": "mercadolivre:MLB4135248591",
+      "product_id": "MLB4135248591",
+      "catalog_product_id": "MLB21865416",
+      "item_id": "MLB4135248591",
+      "url": "https://www.mercadolivre.com.br/p/MLB21865416?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB21865416?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "combo parafusadeira furadeira de impacto 13mm parafusadeira de impacto 6 3mm dewalt dck276d2",
+      "title": "Combo Parafusadeira Furadeira de Impacto 13mm + Parafusadeira de Impacto 6,3mm DEWALT DCK276D2",
+      "category": "Ferramentas",
+      "price": 1645.71,
+      "score": 166.77,
+      "posted_ts": 1791266562,
+      "posted_at": "2026-10-06T06:02:42.640607+00:00"
+    },
+    {
       "key": "mercadolivre:MLB5338677257",
       "product_id": "MLB5338677257",
       "catalog_product_id": "MLB74509688",
@@ -719,37 +749,7 @@
       "score": 113.0,
       "posted_ts": 1791097381,
       "posted_at": "2026-10-04T07:03:01.339273+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB7197070408",
-      "product_id": "MLB7197070408",
-      "catalog_product_id": "MLB75425217",
-      "item_id": "MLB7197070408",
-      "url": "https://www.mercadolivre.com.br/p/MLB75425217?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB75425217?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "monitor pressao omron 7122 saude no seu braco",
-      "title": "Monitor Pressão Omron 7122: Saúde No Seu Braço",
-      "category": "Informática",
-      "price": 280.0,
-      "score": 88.0,
-      "posted_ts": 1791093752,
-      "posted_at": "2026-10-04T06:02:32.780108+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB7426392508",
-      "product_id": "MLB7426392508",
-      "catalog_product_id": "MLB77446523",
-      "item_id": "MLB7426392508",
-      "url": "https://www.mercadolivre.com.br/p/MLB77446523?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB77446523?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "ulefone note 18 ultra 256gb 6gb ram celular 5g 5450mah camera 50mp cinza",
-      "title": "Ulefone Note 18 Ultra 256GB 6GB RAM Celular 5G 5450mAh Câmera 50MP Cinza",
-      "category": "Informática",
-      "price": 1867.15,
-      "score": 117.67,
-      "posted_ts": 1791086648,
-      "posted_at": "2026-10-04T04:04:08.575658+00:00"
     }
   ],
-  "updated_at": "2026-10-06T04:03:44.484285+00:00"
+  "updated_at": "2026-10-06T06:03:46.735544+00:00"
 }

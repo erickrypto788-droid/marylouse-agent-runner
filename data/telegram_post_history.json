@@ -1,6 +1,34 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB4662546537",
+      "marketplace": "mercadolivre",
+      "id": "MLB4662546537",
+      "title": "Parafusadeira De Impacto Bateria Kit Parafusadeira Com Caixa Cor Preto",
+      "title_norm": "parafusadeira de impacto bateria kit parafusadeira com caixa cor preto",
+      "url": "https://www.mercadolivre.com.br/p/MLB46462690?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB46462690?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Ferramentas",
+      "bucket": "ferramentas",
+      "posted_ts": 1791266626,
+      "posted_at": "2026-10-06T06:03:46.721232+00:00",
+      "score": 113.0
+    },
+    {
+      "key": "mercadolivre:MLB4135248591",
+      "marketplace": "mercadolivre",
+      "id": "MLB4135248591",
+      "title": "Combo Parafusadeira Furadeira de Impacto 13mm + Parafusadeira de Impacto 6,3mm DEWALT DCK276D2",
+      "title_norm": "combo parafusadeira furadeira de impacto 13mm parafusadeira de impacto 6 3mm dewalt dck276d2",
+      "url": "https://www.mercadolivre.com.br/p/MLB21865416?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB21865416?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Ferramentas",
+      "bucket": "ferramentas",
+      "posted_ts": 1791266562,
+      "posted_at": "2026-10-06T06:02:42.625967+00:00",
+      "score": 166.77
+    },
+    {
       "key": "shopee:58255159172",
       "marketplace": "shopee",
       "id": "58255159172",
@@ -13971,35 +13999,7 @@
       "posted_ts": 1790504497,
       "posted_at": "2026-09-27T10:21:37.103107+00:00",
       "score": 72.63
-    },
-    {
-      "key": "shopee:23094696654",
-      "marketplace": "shopee",
-      "id": "23094696654",
-      "title": "Adaptador Tipo-C USBC e Leitor de Cartão de Memória SD, TF E USB OTG Hub Android Iphone",
-      "title_norm": "adaptador tipo c usbc e leitor de cartao de memoria sd tf e usb otg hub android iphone",
-      "url": "https://shopee.com.br/product/362844515/23094696654",
-      "affiliate_url": "https://s.shopee.com.br/4LJg0nphfo",
-      "category": "Ldgs Tech Pb",
-      "bucket": "celulares",
-      "posted_ts": 1790504427,
-      "posted_at": "2026-09-27T10:20:27.740592+00:00",
-      "score": 78.24
-    },
-    {
-      "key": "shopee:58256416471",
-      "marketplace": "shopee",
-      "id": "58256416471",
-      "title": "MONITOR PC COMPUTADOR 24 | 23 ” FULL HD 20” 19” 15,4” HD TELA HDMI VGA TRABALHO ESTUDO GAMER",
-      "title_norm": "monitor pc computador 24 23 full hd 20 19 15 4 hd tela hdmi vga trabalho estudo gamer",
-      "url": "https://shopee.com.br/product/890617346/58256416471",
-      "affiliate_url": "https://s.shopee.com.br/5Asn0KdavT",
-      "category": "FLYELETRO7529 LTDA",
-      "bucket": "flyeletro7529_ltda",
-      "posted_ts": 1790504355,
-      "posted_at": "2026-09-27T10:19:15.818253+00:00",
-      "score": 82.28
     }
   ],
-  "updated_at": "2026-10-06T05:18:17.353962+00:00"
+  "updated_at": "2026-10-06T06:03:46.721249+00:00"
 }
