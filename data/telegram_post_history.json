@@ -1,6 +1,20 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB7226098148",
+      "marketplace": "mercadolivre",
+      "id": "MLB7226098148",
+      "title": "Fone Bluetooth Esportivo 320mah Fone Sem Fio Fone Academia Preto",
+      "title_norm": "fone bluetooth esportivo 320mah fone sem fio fone academia preto",
+      "url": "https://www.mercadolivre.com.br/p/MLB68059006?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB68059006?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Esportes",
+      "bucket": "esportes",
+      "posted_ts": 1791273761,
+      "posted_at": "2026-10-06T08:02:41.090397+00:00",
+      "score": 110.15
+    },
+    {
       "key": "shopee:44074380649",
       "marketplace": "shopee",
       "id": "44074380649",
@@ -13985,21 +13999,7 @@
       "posted_ts": 1790515075,
       "posted_at": "2026-09-27T13:17:55.759064+00:00",
       "score": 130.28
-    },
-    {
-      "key": "shopee:23397741792",
-      "marketplace": "shopee",
-      "id": "23397741792",
-      "title": "Calça Jeans Feminina Cintura Alta Wide Leg Com Bolso",
-      "title_norm": "calca jeans feminina cintura alta wide leg com bolso",
-      "url": "https://shopee.com.br/product/952371980/23397741792",
-      "affiliate_url": "https://s.shopee.com.br/BU7FUzipZ",
-      "category": "Joy Jeans",
-      "bucket": "joy_jeans",
-      "posted_ts": 1790515011,
-      "posted_at": "2026-09-27T13:16:51.807495+00:00",
-      "score": 130.52
     }
   ],
-  "updated_at": "2026-10-06T07:23:49.949153+00:00"
+  "updated_at": "2026-10-06T08:02:41.090411+00:00"
 }
