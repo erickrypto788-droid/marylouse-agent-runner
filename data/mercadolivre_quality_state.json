@@ -1,6 +1,36 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB6291964460",
+      "product_id": "MLB6291964460",
+      "catalog_product_id": "MLB50493068",
+      "item_id": "MLB6291964460",
+      "url": "https://www.mercadolivre.com.br/p/MLB50493068?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB50493068?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "elgin air fryer fritadeira air fryer",
+      "title": "Elgin Air Fryer Fritadeira Air Fryer",
+      "category": "Casa e Cozinha",
+      "price": 228.0,
+      "score": 129.0,
+      "posted_ts": 1791309859,
+      "posted_at": "2026-10-06T18:04:19.193298+00:00"
+    },
+    {
+      "key": "mercadolivre:MLB5286746537",
+      "product_id": "MLB5286746537",
+      "catalog_product_id": "MLB39315109",
+      "item_id": "MLB5286746537",
+      "url": "https://www.mercadolivre.com.br/p/MLB39315109?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB39315109?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "rack para sala de estar rack para tv c prateleira flex cor preto",
+      "title": "Rack Para Sala De Estar Rack Para Tv C/ Prateleira Flex Cor Preto",
+      "category": "Casa e Cozinha",
+      "price": 336.87,
+      "score": 133.0,
+      "posted_ts": 1791309795,
+      "posted_at": "2026-10-06T18:03:15.191640+00:00"
+    },
+    {
       "key": "mercadolivre:MLB4669888929",
       "product_id": "MLB4669888929",
       "catalog_product_id": "MLB69426926",
@@ -839,22 +869,7 @@
       "score": 111.0,
       "posted_ts": 1791140546,
       "posted_at": "2026-10-04T19:02:26.453837+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB5041528061",
-      "product_id": "MLB5041528061",
-      "catalog_product_id": "MLB43810473",
-      "item_id": "MLB5041528061",
-      "url": "https://www.mercadolivre.com.br/p/MLB43810473?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB43810473?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "kit ferramentas informatica cor preto",
-      "title": "Kit Ferramentas Informatica Cor Preto",
-      "category": "Ferramentas",
-      "price": 104.5,
-      "score": 88.0,
-      "posted_ts": 1791136941,
-      "posted_at": "2026-10-04T18:02:21.033459+00:00"
     }
   ],
-  "updated_at": "2026-10-06T17:07:06.721987+00:00"
+  "updated_at": "2026-10-06T18:04:19.193306+00:00"
 }
