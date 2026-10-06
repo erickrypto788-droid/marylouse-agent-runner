@@ -1,6 +1,62 @@
 {
   "posts": [
     {
+      "key": "shopee:10908191710",
+      "marketplace": "shopee",
+      "id": "10908191710",
+      "title": "Mochila Bolsa Masculina Impermeável Reforçada Promoção Cor Preta",
+      "title_norm": "mochila bolsa masculina impermeavel reforcada promocao cor preta",
+      "url": "https://shopee.com.br/product/364186110/10908191710",
+      "affiliate_url": "https://s.shopee.com.br/2LYra2aAQJ",
+      "category": "SHIMA & ZAKI",
+      "bucket": "bolsas",
+      "posted_ts": 1791296413,
+      "posted_at": "2026-10-06T14:20:13.192148+00:00",
+      "score": 92.97
+    },
+    {
+      "key": "shopee:58217479066",
+      "marketplace": "shopee",
+      "id": "58217479066",
+      "title": "Sapato Social Masculino Reforçado + Cinto + Carteira + Relógio",
+      "title_norm": "sapato social masculino reforcado cinto carteira relogio",
+      "url": "https://shopee.com.br/product/372130636/58217479066",
+      "affiliate_url": "https://s.shopee.com.br/40h5Z6godf",
+      "category": "Soft_Shop",
+      "bucket": "calcados",
+      "posted_ts": 1791296348,
+      "posted_at": "2026-10-06T14:19:08.950219+00:00",
+      "score": 108.62
+    },
+    {
+      "key": "shopee:23697830604",
+      "marketplace": "shopee",
+      "id": "23697830604",
+      "title": "Mochila Militar Tática Impermeável 50 Litros Grande Reforçada com Brinde Bandeira",
+      "title_norm": "mochila militar tatica impermeavel 50 litros grande reforcada com brinde bandeira",
+      "url": "https://shopee.com.br/product/392260640/23697830604",
+      "affiliate_url": "https://s.shopee.com.br/BUN03iPou",
+      "category": "Good Vibes Moment Variedade Mochila",
+      "bucket": "bolsas",
+      "posted_ts": 1791296284,
+      "posted_at": "2026-10-06T14:18:04.770227+00:00",
+      "score": 114.51
+    },
+    {
+      "key": "shopee:22799125551",
+      "marketplace": "shopee",
+      "id": "22799125551",
+      "title": "Mochila Masculina Esportiva Impermeável para Notebook, Mochila Escolar de Viagem e Trabalho",
+      "title_norm": "mochila masculina esportiva impermeavel para notebook mochila escolar de viagem e trabalho",
+      "url": "https://shopee.com.br/product/1658947107/22799125551",
+      "affiliate_url": "https://s.shopee.com.br/1BMuBtebnC",
+      "category": "RON CHANG",
+      "bucket": "informatica",
+      "posted_ts": 1791296220,
+      "posted_at": "2026-10-06T14:17:00.545691+00:00",
+      "score": 124.67
+    },
+    {
       "key": "shopee:23594069255",
       "marketplace": "shopee",
       "id": "23594069255",
@@ -13943,63 +13999,7 @@
       "posted_ts": 1790544004,
       "posted_at": "2026-09-27T21:20:04.756629+00:00",
       "score": 100.86
-    },
-    {
-      "key": "shopee:58257712601",
-      "marketplace": "shopee",
-      "id": "58257712601",
-      "title": "Kit 5 Short Bermuda Infantil Juvenil Tactel Menino Praia Com Bolso Elastano Premium 2 a 16 Anos",
-      "title_norm": "kit 5 short bermuda infantil juvenil tactel menino praia com bolso elastano premium 2 a 16 anos",
-      "url": "https://shopee.com.br/product/424773647/58257712601",
-      "affiliate_url": "https://s.shopee.com.br/1gIvdL6o8J",
-      "category": "EDYBOY",
-      "bucket": "edyboy",
-      "posted_ts": 1790543940,
-      "posted_at": "2026-09-27T21:19:00.771760+00:00",
-      "score": 114.27
-    },
-    {
-      "key": "shopee:23398654174",
-      "marketplace": "shopee",
-      "id": "23398654174",
-      "title": "Calça Jeans Infantil  Wide Leg Cargo Black Juvenil 6 ao 14  ALTO PADRÃO LINHA PREMIUM",
-      "title_norm": "calca jeans infantil wide leg cargo black juvenil 6 ao 14 alto padrao linha premium",
-      "url": "https://shopee.com.br/product/1203275050/23398654174",
-      "affiliate_url": "https://s.shopee.com.br/gQORVAcA1",
-      "category": "MUNDO INFANTIL ",
-      "bucket": "mundo_infantil",
-      "posted_ts": 1790543876,
-      "posted_at": "2026-09-27T21:17:56.807110+00:00",
-      "score": 119.51
-    },
-    {
-      "key": "shopee:22898838787",
-      "marketplace": "shopee",
-      "id": "22898838787",
-      "title": "Kit 5 Camisetas Regata Bebê Menino Menina",
-      "title_norm": "kit 5 camisetas regata bebe menino menina",
-      "url": "https://shopee.com.br/product/1017646777/22898838787",
-      "affiliate_url": "https://s.shopee.com.br/4B0HsDq8ou",
-      "category": "magiainfantil",
-      "bucket": "magiainfantil",
-      "posted_ts": 1790543812,
-      "posted_at": "2026-09-27T21:16:52.779152+00:00",
-      "score": 120.91
-    },
-    {
-      "key": "shopee:43852360893",
-      "marketplace": "shopee",
-      "id": "43852360893",
-      "title": "Creme Hidratante Facial 5% Manteiga de Karité + 5% Glicerina + 2% Niacinamida CH-01Principia - 50g",
-      "title_norm": "creme hidratante facial 5 manteiga de karite 5 glicerina 2 niacinamida ch 01principia 50g",
-      "url": "https://shopee.com.br/product/373261329/43852360893",
-      "affiliate_url": "https://s.shopee.com.br/2BFDQQqYyc",
-      "category": "Principia Skincare",
-      "bucket": "principia_skincare",
-      "posted_ts": 1790540482,
-      "posted_at": "2026-09-27T20:21:22.474262+00:00",
-      "score": 51.02
     }
   ],
-  "updated_at": "2026-10-06T13:19:09.488645+00:00"
+  "updated_at": "2026-10-06T14:20:13.192167+00:00"
 }
