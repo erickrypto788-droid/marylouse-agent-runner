@@ -1,6 +1,20 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB5468706054",
+      "marketplace": "mercadolivre",
+      "id": "MLB5468706054",
+      "title": "Babá Eletrônica Hellobaby Hb65-2 Monitor Bebê 3.2 Branco",
+      "title_norm": "baba eletronica hellobaby hb65 2 monitor bebe 3 2 branco",
+      "url": "https://www.mercadolivre.com.br/p/MLB51901869?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB51901869?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Informática",
+      "bucket": "informatica",
+      "posted_ts": 1791291754,
+      "posted_at": "2026-10-06T13:02:34.999788+00:00",
+      "score": 86.0
+    },
+    {
       "key": "shopee:54808426700",
       "marketplace": "shopee",
       "id": "54808426700",
@@ -13985,21 +13999,7 @@
       "posted_ts": 1790540283,
       "posted_at": "2026-09-27T20:18:03.055729+00:00",
       "score": 127.34
-    },
-    {
-      "key": "shopee:23598683017",
-      "marketplace": "shopee",
-      "id": "23598683017",
-      "title": "Escova Secadora Alisador Elétrica Quente Cabelo Com 3 Em1 Hair Styler APENAS 110V Jimmystore",
-      "title_norm": "escova secadora alisador eletrica quente cabelo com 3 em1 hair styler apenas 110v jimmystore",
-      "url": "https://shopee.com.br/product/1127030290/23598683017",
-      "affiliate_url": "https://s.shopee.com.br/gQPdfjDCV",
-      "category": "JIMMY.STORE",
-      "bucket": "beleza",
-      "posted_ts": 1790540215,
-      "posted_at": "2026-09-27T20:16:55.557141+00:00",
-      "score": 149.27
     }
   ],
-  "updated_at": "2026-10-06T12:21:19.587338+00:00"
+  "updated_at": "2026-10-06T13:02:34.999802+00:00"
 }

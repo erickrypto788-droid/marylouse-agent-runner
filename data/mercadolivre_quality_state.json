@@ -1,6 +1,21 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB5468706054",
+      "product_id": "MLB5468706054",
+      "catalog_product_id": "MLB51901869",
+      "item_id": "MLB5468706054",
+      "url": "https://www.mercadolivre.com.br/p/MLB51901869?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB51901869?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "baba eletronica hellobaby hb65 2 monitor bebe 3 2 branco",
+      "title": "Babá Eletrônica Hellobaby Hb65-2 Monitor Bebê 3.2 Branco",
+      "category": "Informática",
+      "price": 653.99,
+      "score": 86.0,
+      "posted_ts": 1791291755,
+      "posted_at": "2026-10-06T13:02:35.013742+00:00"
+    },
+    {
       "key": "mercadolivre:MLB7639579812",
       "product_id": "MLB7639579812",
       "catalog_product_id": "MLB66541712",
@@ -734,22 +749,7 @@
       "score": 179.26,
       "posted_ts": 1791126180,
       "posted_at": "2026-10-04T15:03:00.179935+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB6619111042",
-      "product_id": "MLB6619111042",
-      "catalog_product_id": "MLB67984389",
-      "item_id": "MLB6619111042",
-      "url": "https://www.mercadolivre.com.br/p/MLB67984389?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB67984389?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "saida praia tule kimono amarracao short feminino verao bege m",
-      "title": "Saída Praia Tule Kimono Amarração Short Feminino Verão Bege M",
-      "category": "Moda Feminina",
-      "price": 97.99,
-      "score": 113.0,
-      "posted_ts": 1791115445,
-      "posted_at": "2026-10-04T12:04:05.646934+00:00"
     }
   ],
-  "updated_at": "2026-10-06T12:02:49.554780+00:00"
+  "updated_at": "2026-10-06T13:02:35.013751+00:00"
 }
