@@ -1,6 +1,48 @@
 {
   "posts": [
     {
+      "key": "shopee:23893703937",
+      "marketplace": "shopee",
+      "id": "23893703937",
+      "title": "Babuche Adulto Masculino E Feminino Personalizado",
+      "title_norm": "babuche adulto masculino e feminino personalizado",
+      "url": "https://shopee.com.br/product/1464624047/23893703937",
+      "affiliate_url": "https://s.shopee.com.br/W7CfKlmHL",
+      "category": "Passinhos Mágicos ",
+      "bucket": "passinhos_magicos",
+      "posted_ts": 1791256734,
+      "posted_at": "2026-10-06T03:18:54.213726+00:00",
+      "score": 92.31
+    },
+    {
+      "key": "shopee:57008381938",
+      "marketplace": "shopee",
+      "id": "57008381938",
+      "title": "Tênis De Corrida Profissional Ultraleve Com Placa De Carbono De Sola Completa Para Maratona , Masculino E Feminino",
+      "title_norm": "tenis de corrida profissional ultraleve com placa de carbono de sola completa para maratona masculino e feminino",
+      "url": "https://shopee.com.br/product/863968451/57008381938",
+      "affiliate_url": "https://s.shopee.com.br/20w0S5XGgP",
+      "category": "NBGAGA Oficial Loja.br",
+      "bucket": "calcados",
+      "posted_ts": 1791256670,
+      "posted_at": "2026-10-06T03:17:50.318987+00:00",
+      "score": 96.77
+    },
+    {
+      "key": "shopee:58257600358",
+      "marketplace": "shopee",
+      "id": "58257600358",
+      "title": "Sapatenis Tenis kinit masculino  Palmilhas P.U GEL Estiloso para todas ocasiões",
+      "title_norm": "sapatenis tenis kinit masculino palmilhas p u gel estiloso para todas ocasioes",
+      "url": "https://shopee.com.br/product/1783515830/58257600358",
+      "affiliate_url": "https://s.shopee.com.br/40h4plUBum",
+      "category": "IG Ferreira Calçados",
+      "bucket": "calcados",
+      "posted_ts": 1791256606,
+      "posted_at": "2026-10-06T03:16:46.439263+00:00",
+      "score": 123.16
+    },
+    {
       "key": "mercadolivre:MLB6815537068",
       "marketplace": "mercadolivre",
       "id": "MLB6815537068",
@@ -13957,49 +13999,7 @@
       "posted_ts": 1790500689,
       "posted_at": "2026-09-27T09:18:09.297761+00:00",
       "score": 77.27
-    },
-    {
-      "key": "shopee:20299194828",
-      "marketplace": "shopee",
-      "id": "20299194828",
-      "title": "My life Estojo De Maquiagem Infantil Coração Menina MY8142",
-      "title_norm": "my life estojo de maquiagem infantil coracao menina my8142",
-      "url": "https://shopee.com.br/product/801784917/20299194828",
-      "affiliate_url": "https://s.shopee.com.br/AUuJI0luF2",
-      "category": "encanto do anjo make ",
-      "bucket": "beleza",
-      "posted_ts": 1790500620,
-      "posted_at": "2026-09-27T09:17:00.751934+00:00",
-      "score": 93.37
-    },
-    {
-      "key": "shopee:58257736580",
-      "marketplace": "shopee",
-      "id": "58257736580",
-      "title": "Mochila Pochete Tática Masculina Impermeável Preta Versátil - Bolsa de Peito Esportiva",
-      "title_norm": "mochila pochete tatica masculina impermeavel preta versatil bolsa de peito esportiva",
-      "url": "https://shopee.com.br/product/328215051/58257736580",
-      "affiliate_url": "https://s.shopee.com.br/6q10r9FQ29",
-      "category": "Loja da Su__",
-      "bucket": "bolsas",
-      "posted_ts": 1790497007,
-      "posted_at": "2026-09-27T08:16:47.750310+00:00",
-      "score": 115.25
-    },
-    {
-      "key": "mercadolivre:MLB5909017866",
-      "marketplace": "mercadolivre",
-      "id": "MLB5909017866",
-      "title": "Blusa Camisa Feminina Proteção Solar Bike Jetski Pesca Praia Cor Branco Tamanho M",
-      "title_norm": "blusa camisa feminina protecao solar bike jetski pesca praia cor branco tamanho m",
-      "url": "https://www.mercadolivre.com.br/p/MLB61770185?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB61770185?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "category": "Moda Feminina",
-      "bucket": "moda_feminina",
-      "posted_ts": 1790496489,
-      "posted_at": "2026-09-27T08:08:09.692472+00:00",
-      "score": 88.0
     }
   ],
-  "updated_at": "2026-10-06T03:04:03.692305+00:00"
+  "updated_at": "2026-10-06T03:18:54.213744+00:00"
 }
