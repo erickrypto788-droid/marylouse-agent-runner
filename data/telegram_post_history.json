@@ -1,6 +1,34 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB5338677257",
+      "marketplace": "mercadolivre",
+      "id": "MLB5338677257",
+      "title": "Perfume masculino Dolce & Gabbana Devotion For Men Perfume Masculino 101 ml",
+      "title_norm": "perfume masculino dolce gabbana devotion for men perfume masculino 101 ml",
+      "url": "https://www.mercadolivre.com.br/p/MLB74509688?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB74509688?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Beleza",
+      "bucket": "beleza",
+      "posted_ts": 1791259424,
+      "posted_at": "2026-10-06T04:03:44.470857+00:00",
+      "score": 111.0
+    },
+    {
+      "key": "mercadolivre:MLB3474477475",
+      "marketplace": "mercadolivre",
+      "id": "MLB3474477475",
+      "title": "Lamina Aparador Pelos Philips Bodygroom Qg3379 Qg3280 Qg3380",
+      "title_norm": "lamina aparador pelos philips bodygroom qg3379 qg3280 qg3380",
+      "url": "https://www.mercadolivre.com.br/p/MLB24908965?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB24908965?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Beleza",
+      "bucket": "beleza",
+      "posted_ts": 1791259355,
+      "posted_at": "2026-10-06T04:02:35.293764+00:00",
+      "score": 119.78
+    },
+    {
       "key": "shopee:23893703937",
       "marketplace": "shopee",
       "id": "23893703937",
@@ -13971,35 +13999,7 @@
       "posted_ts": 1790500828,
       "posted_at": "2026-09-27T09:20:28.561868+00:00",
       "score": 53.68
-    },
-    {
-      "key": "shopee:58256029412",
-      "marketplace": "shopee",
-      "id": "58256029412",
-      "title": "Adesivos Personalizados 4x4 cm - 1000 unidades, 500, 300 ou 200 unidades - Com sua logo ou arte",
-      "title_norm": "adesivos personalizados 4x4 cm 1000 unidades 500 300 ou 200 unidades com sua logo ou arte",
-      "url": "https://shopee.com.br/product/1748741556/58256029412",
-      "affiliate_url": "https://s.shopee.com.br/3g3wcsDV3I",
-      "category": "Céu de Papel Criativos",
-      "bucket": "ceu_de_papel_criativos",
-      "posted_ts": 1790500760,
-      "posted_at": "2026-09-27T09:19:20.285123+00:00",
-      "score": 61.18
-    },
-    {
-      "key": "shopee:22394381790",
-      "marketplace": "shopee",
-      "id": "22394381790",
-      "title": "36/48/60/90/100/120/168 peças Caneta Marcadora De Cabeça Dupla Conjunto De Canetas De Aquarela Especial Para Crianças",
-      "title_norm": "36 48 60 90 100 120 168 pecas caneta marcadora de cabeca dupla conjunto de canetas de aquarela especial para criancas",
-      "url": "https://shopee.com.br/product/1569849623/22394381790",
-      "affiliate_url": "https://s.shopee.com.br/1VzVtsxfim",
-      "category": "CASA TOP SHOP",
-      "bucket": "casa_top_shop",
-      "posted_ts": 1790500689,
-      "posted_at": "2026-09-27T09:18:09.297761+00:00",
-      "score": 77.27
     }
   ],
-  "updated_at": "2026-10-06T03:18:54.213744+00:00"
+  "updated_at": "2026-10-06T04:03:44.470871+00:00"
 }

@@ -1,6 +1,36 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB5338677257",
+      "product_id": "MLB5338677257",
+      "catalog_product_id": "MLB74509688",
+      "item_id": "MLB5338677257",
+      "url": "https://www.mercadolivre.com.br/p/MLB74509688?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB74509688?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "perfume masculino dolce gabbana devotion for men perfume masculino 101 ml",
+      "title": "Perfume masculino Dolce & Gabbana Devotion For Men Perfume Masculino 101 ml",
+      "category": "Beleza",
+      "price": 875.0,
+      "score": 111.0,
+      "posted_ts": 1791259424,
+      "posted_at": "2026-10-06T04:03:44.484276+00:00"
+    },
+    {
+      "key": "mercadolivre:MLB3474477475",
+      "product_id": "MLB3474477475",
+      "catalog_product_id": "MLB24908965",
+      "item_id": "MLB3474477475",
+      "url": "https://www.mercadolivre.com.br/p/MLB24908965?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB24908965?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "lamina aparador pelos philips bodygroom qg3379 qg3280 qg3380",
+      "title": "Lamina Aparador Pelos Philips Bodygroom Qg3379 Qg3280 Qg3380",
+      "category": "Beleza",
+      "price": 129.9,
+      "score": 119.78,
+      "posted_ts": 1791259355,
+      "posted_at": "2026-10-06T04:02:35.307473+00:00"
+    },
+    {
       "key": "mercadolivre:MLB6815537068",
       "product_id": "MLB6815537068",
       "catalog_product_id": "MLB36405300",
@@ -719,22 +749,7 @@
       "score": 117.67,
       "posted_ts": 1791086648,
       "posted_at": "2026-10-04T04:04:08.575658+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB5306191149",
-      "product_id": "MLB5306191149",
-      "catalog_product_id": "MLB47306212",
-      "item_id": "MLB5306191149",
-      "url": "https://www.mercadolivre.com.br/p/MLB47306212?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB47306212?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "smartphone xiaomi redmi 12 preto 128 4gb e fone",
-      "title": "Smartphone Xiaomí Redmi 12 Preto 128/4gb + E Fone",
-      "category": "Informática",
-      "price": 1329.05,
-      "score": 136.67,
-      "posted_ts": 1791086583,
-      "posted_at": "2026-10-04T04:03:03.929352+00:00"
     }
   ],
-  "updated_at": "2026-10-06T03:04:03.703236+00:00"
+  "updated_at": "2026-10-06T04:03:44.484285+00:00"
 }
