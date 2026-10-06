@@ -1,6 +1,21 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB7728856848",
+      "product_id": "MLB7728856848",
+      "catalog_product_id": "MLB69276350",
+      "item_id": "MLB7728856848",
+      "url": "https://www.mercadolivre.com.br/p/MLB69276350?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB69276350?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "calca legging feminina ausare de compressao media com uv50 e cos alto para academia",
+      "title": "Calça Legging Feminina Ausare de Compressão Média com UV50+ e Cós Alto para Academia",
+      "category": "Moda Feminina",
+      "price": 97.0,
+      "score": 88.0,
+      "posted_ts": 1791245100,
+      "posted_at": "2026-10-06T00:05:00.365777+00:00"
+    },
+    {
       "key": "mercadolivre:MLB4347506544",
       "product_id": "MLB4347506544",
       "catalog_product_id": "MLB29524127",
@@ -646,5 +661,5 @@
       "posted_at": "2026-10-04T04:03:03.929352+00:00"
     }
   ],
-  "updated_at": "2026-10-05T23:10:26.606540+00:00"
+  "updated_at": "2026-10-06T00:05:00.365786+00:00"
 }

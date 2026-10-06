@@ -1,6 +1,20 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB7728856848",
+      "marketplace": "mercadolivre",
+      "id": "MLB7728856848",
+      "title": "Calça Legging Feminina Ausare de Compressão Média com UV50+ e Cós Alto para Academia",
+      "title_norm": "calca legging feminina ausare de compressao media com uv50 e cos alto para academia",
+      "url": "https://www.mercadolivre.com.br/p/MLB69276350?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB69276350?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Moda Feminina",
+      "bucket": "moda_feminina",
+      "posted_ts": 1791245100,
+      "posted_at": "2026-10-06T00:05:00.351842+00:00",
+      "score": 88.0
+    },
+    {
       "key": "shopee:52902130185",
       "marketplace": "shopee",
       "id": "52902130185",
@@ -13985,21 +13999,7 @@
       "posted_ts": 1790482877,
       "posted_at": "2026-09-27T04:21:17.839436+00:00",
       "score": 94.14
-    },
-    {
-      "key": "shopee:55764955243",
-      "marketplace": "shopee",
-      "id": "55764955243",
-      "title": "Brinquedo De Jesus Boneco Pelucia Brilha Toca Musica E Respira 38cm Boneco Para Criança Dormir",
-      "title_norm": "brinquedo de jesus boneco pelucia brilha toca musica e respira 38cm boneco para crianca dormir",
-      "url": "https://shopee.com.br/product/1178848006/55764955243",
-      "affiliate_url": "https://s.shopee.com.br/9KiLZGDp9S",
-      "category": "Jask Variedades",
-      "bucket": "jask_variedades",
-      "posted_ts": 1790482807,
-      "posted_at": "2026-09-27T04:20:07.839837+00:00",
-      "score": 97.41
     }
   ],
-  "updated_at": "2026-10-05T23:17:59.633470+00:00"
+  "updated_at": "2026-10-06T00:05:00.351856+00:00"
 }
