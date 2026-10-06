@@ -1,6 +1,48 @@
 {
   "posts": [
     {
+      "key": "shopee:22493725920",
+      "marketplace": "shopee",
+      "id": "22493725920",
+      "title": "SHORT CINTA MODELADOR ORIGINAL 4 Barbatanas Alta Compressão Não Enrola Empina Bumbum Plus Size",
+      "title_norm": "short cinta modelador original 4 barbatanas alta compressao nao enrola empina bumbum plus size",
+      "url": "https://shopee.com.br/product/760344136/22493725920",
+      "affiliate_url": "https://s.shopee.com.br/3B7xdslwBn",
+      "category": "AKAPE CLOTHING",
+      "bucket": "akape_clothing",
+      "posted_ts": 1791253141,
+      "posted_at": "2026-10-06T02:19:01.092297+00:00",
+      "score": 87.26
+    },
+    {
+      "key": "shopee:18997669654",
+      "marketplace": "shopee",
+      "id": "18997669654",
+      "title": "Conjunto na Alfaiataria Calça  Pantalona + Colete Social Escritório Plus SIze",
+      "title_norm": "conjunto na alfaiataria calca pantalona colete social escritorio plus size",
+      "url": "https://shopee.com.br/product/1239041434/18997669654",
+      "affiliate_url": "https://s.shopee.com.br/4LJv21qIO2",
+      "category": "Elizye Delicato",
+      "bucket": "elizye_delicato",
+      "posted_ts": 1791253076,
+      "posted_at": "2026-10-06T02:17:56.943960+00:00",
+      "score": 101.1
+    },
+    {
+      "key": "shopee:58204813363",
+      "marketplace": "shopee",
+      "id": "58204813363",
+      "title": "Vestido longo casual basico feminino ribana canelada manga muscle moda gringa preto marrom plus size",
+      "title_norm": "vestido longo casual basico feminino ribana canelada manga muscle moda gringa preto marrom plus size",
+      "url": "https://shopee.com.br/product/1252857157/58204813363",
+      "affiliate_url": "https://s.shopee.com.br/6VOPc0v6pW",
+      "category": "Visionaria Closet",
+      "bucket": "moda_feminina",
+      "posted_ts": 1791253012,
+      "posted_at": "2026-10-06T02:16:52.736534+00:00",
+      "score": 106.1
+    },
+    {
       "key": "mercadolivre:MLB6512536586",
       "marketplace": "mercadolivre",
       "id": "MLB6512536586",
@@ -13957,49 +13999,7 @@
       "posted_ts": 1790496329,
       "posted_at": "2026-09-27T08:05:29.848364+00:00",
       "score": 113.0
-    },
-    {
-      "key": "shopee:18397808004",
-      "marketplace": "shopee",
-      "id": "18397808004",
-      "title": "Bolsa feminina fitness Esportiva yoga Bolsa de viagem Impermeável unissex Academia",
-      "title_norm": "bolsa feminina fitness esportiva yoga bolsa de viagem impermeavel unissex academia",
-      "url": "https://shopee.com.br/product/391739739/18397808004",
-      "affiliate_url": "https://s.shopee.com.br/4LJfoR4kZG",
-      "category": "ANJ.GG store",
-      "bucket": "bolsas",
-      "posted_ts": 1790493487,
-      "posted_at": "2026-09-27T07:18:07.182490+00:00",
-      "score": 105.39
-    },
-    {
-      "key": "shopee:58206781154",
-      "marketplace": "shopee",
-      "id": "58206781154",
-      "title": "SPOETRY Bolsa Feminina Casual de Nylon Nova Grande Ombro Tote",
-      "title_norm": "spoetry bolsa feminina casual de nylon nova grande ombro tote",
-      "url": "https://shopee.com.br/product/1669666744/58206781154",
-      "affiliate_url": "https://s.shopee.com.br/1VzVldfZ8H",
-      "category": "JESDA-05",
-      "bucket": "bolsas",
-      "posted_ts": 1790493419,
-      "posted_at": "2026-09-27T07:16:59.670312+00:00",
-      "score": 124.44
-    },
-    {
-      "key": "mercadolivre:MLB4266241495",
-      "marketplace": "mercadolivre",
-      "id": "MLB4266241495",
-      "title": "Absorvente Mulher Ativa Com Abas Kit 80 Pacotes Gel Super Absorvente",
-      "title_norm": "absorvente mulher ativa com abas kit 80 pacotes gel super absorvente",
-      "url": "https://www.mercadolivre.com.br/p/MLB43806010?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB43806010?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "category": "Moda Feminina",
-      "bucket": "moda_feminina",
-      "posted_ts": 1790492970,
-      "posted_at": "2026-09-27T07:09:30.706068+00:00",
-      "score": 88.0
     }
   ],
-  "updated_at": "2026-10-06T02:02:52.482845+00:00"
+  "updated_at": "2026-10-06T02:19:01.092310+00:00"
 }
