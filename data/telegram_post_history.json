@@ -1,6 +1,48 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB5653921846",
+      "marketplace": "mercadolivre",
+      "id": "MLB5653921846",
+      "title": "Monitor 24 Polegadas 1920x1200px Vga Hdmi 5ms Rápido",
+      "title_norm": "monitor 24 polegadas 1920x1200px vga hdmi 5ms rapido",
+      "url": "https://www.mercadolivre.com.br/p/MLB45798788?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB45798788?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Informática",
+      "bucket": "informatica",
+      "posted_ts": 1791270305,
+      "posted_at": "2026-10-06T07:05:05.517857+00:00",
+      "score": 86.0
+    },
+    {
+      "key": "mercadolivre:MLB4654205549",
+      "marketplace": "mercadolivre",
+      "id": "MLB4654205549",
+      "title": "Roteador Wifi Ac 1200 2 Flex",
+      "title_norm": "roteador wifi ac 1200 2 flex",
+      "url": "https://www.mercadolivre.com.br/p/MLB47353377?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB47353377?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Informática",
+      "bucket": "informatica",
+      "posted_ts": 1791270221,
+      "posted_at": "2026-10-06T07:03:41.411807+00:00",
+      "score": 97.67
+    },
+    {
+      "key": "mercadolivre:MLB5250415907",
+      "marketplace": "mercadolivre",
+      "id": "MLB5250415907",
+      "title": "SSD NVMe 128GB Walram W2000 M.2 2280",
+      "title_norm": "ssd nvme 128gb walram w2000 m 2 2280",
+      "url": "https://www.mercadolivre.com.br/p/MLB27345327?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB27345327?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Informática",
+      "bucket": "informatica",
+      "posted_ts": 1791270152,
+      "posted_at": "2026-10-06T07:02:32.182595+00:00",
+      "score": 113.0
+    },
+    {
       "key": "shopee:21897737849",
       "marketplace": "shopee",
       "id": "21897737849",
@@ -13957,49 +13999,7 @@
       "posted_ts": 1790508075,
       "posted_at": "2026-09-27T11:21:15.366486+00:00",
       "score": 85.87
-    },
-    {
-      "key": "shopee:58250754217",
-      "marketplace": "shopee",
-      "id": "58250754217",
-      "title": "Mini Filtro De Café Chá Coador De Café Reutilizável Portátil Inox",
-      "title_norm": "mini filtro de cafe cha coador de cafe reutilizavel portatil inox",
-      "url": "https://shopee.com.br/product/1567163829/58250754217",
-      "affiliate_url": "https://s.shopee.com.br/9KiM26zedw",
-      "category": "NOVOHOME STORE COMECIAL LTDA",
-      "bucket": "novohome_store_comecial_ltda",
-      "posted_ts": 1790508011,
-      "posted_at": "2026-09-27T11:20:11.190655+00:00",
-      "score": 87.69
-    },
-    {
-      "key": "shopee:58202241414",
-      "marketplace": "shopee",
-      "id": "58202241414",
-      "title": "YoPRO Chocolate 15g de proteínas 250ml - 12 unidades",
-      "title_norm": "yopro chocolate 15g de proteinas 250ml 12 unidades",
-      "url": "https://shopee.com.br/product/1685471497/58202241414",
-      "affiliate_url": "https://s.shopee.com.br/8V9GMzKC4p",
-      "category": "Loja Oficial Danone",
-      "bucket": "loja_oficial_danone",
-      "posted_ts": 1790507946,
-      "posted_at": "2026-09-27T11:19:06.844834+00:00",
-      "score": 90.08
-    },
-    {
-      "key": "shopee:58258457260",
-      "marketplace": "shopee",
-      "id": "58258457260",
-      "title": "Kit Pele de Porcelana com Sérum de Arroz e Olhos de Gueixa Kokeshi",
-      "title_norm": "kit pele de porcelana com serum de arroz e olhos de gueixa kokeshi",
-      "url": "https://shopee.com.br/product/395166866/58258457260",
-      "affiliate_url": "https://s.shopee.com.br/6L4ln0Whkf",
-      "category": "KOKESHI OFICIAL",
-      "bucket": "kokeshi_oficial",
-      "posted_ts": 1790507882,
-      "posted_at": "2026-09-27T11:18:02.542894+00:00",
-      "score": 92.57
     }
   ],
-  "updated_at": "2026-10-06T06:21:16.194716+00:00"
+  "updated_at": "2026-10-06T07:05:05.517870+00:00"
 }
