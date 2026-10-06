@@ -1,6 +1,48 @@
 {
   "posts": [
     {
+      "key": "shopee:23699513929",
+      "marketplace": "shopee",
+      "id": "23699513929",
+      "title": "Tenis Masculino + Relogio + 1 Par de Meia Esportivo Corrida Treino Super leve e Macio",
+      "title_norm": "tenis masculino relogio 1 par de meia esportivo corrida treino super leve e macio",
+      "url": "https://shopee.com.br/product/1833187804/23699513929",
+      "affiliate_url": "https://s.shopee.com.br/905m7MjzCv",
+      "category": "FREECTOM",
+      "bucket": "calcados",
+      "posted_ts": 1791328758,
+      "posted_at": "2026-10-06T23:19:18.016620+00:00",
+      "score": 95.6
+    },
+    {
+      "key": "shopee:20198028410",
+      "marketplace": "shopee",
+      "id": "20198028410",
+      "title": "Bota CAT Coturno Preto Palmilha Gel Ortopédica Couro Masculino Promoção Envio Rápido",
+      "title_norm": "bota cat coturno preto palmilha gel ortopedica couro masculino promocao envio rapido",
+      "url": "https://shopee.com.br/product/391757444/20198028410",
+      "affiliate_url": "https://s.shopee.com.br/AUuZu7rPEC",
+      "category": "ELITE SHOES ",
+      "bucket": "calcados",
+      "posted_ts": 1791328694,
+      "posted_at": "2026-10-06T23:18:14.075797+00:00",
+      "score": 100.79
+    },
+    {
+      "key": "shopee:22013474107",
+      "marketplace": "shopee",
+      "id": "22013474107",
+      "title": "Botina Botinha Caterpillar Masculina De Couro Impermeável Antiderrapante Reforçado Promoção Barato",
+      "title_norm": "botina botinha caterpillar masculina de couro impermeavel antiderrapante reforcado promocao barato",
+      "url": "https://shopee.com.br/product/258776766/22013474107",
+      "affiliate_url": "https://s.shopee.com.br/AKb9hos2ZB",
+      "category": "THORO SHOES",
+      "bucket": "thoro_shoes",
+      "posted_ts": 1791328629,
+      "posted_at": "2026-10-06T23:17:09.955913+00:00",
+      "score": 103.36
+    },
+    {
       "key": "mercadolivre:MLB4139317597",
       "marketplace": "mercadolivre",
       "id": "MLB4139317597",
@@ -13957,49 +13999,7 @@
       "posted_ts": 1790576278,
       "posted_at": "2026-09-28T06:17:58.774904+00:00",
       "score": 129.94
-    },
-    {
-      "key": "shopee:58214825723",
-      "marketplace": "shopee",
-      "id": "58214825723",
-      "title": "Porta USB Hub 8 Em 1 Leitor SD Type C Áudio 3.5mm, HDMI 4K, RJ45 Rede, 2xUSB3.0 2xUSB2.0, PD Notebook MacBook",
-      "title_norm": "porta usb hub 8 em 1 leitor sd type c audio 3 5mm hdmi 4k rj45 rede 2xusb3 0 2xusb2 0 pd notebook macbook",
-      "url": "https://shopee.com.br/product/1842644423/58214825723",
-      "affiliate_url": "https://s.shopee.com.br/4Vd8rvWKRk",
-      "category": "Loja do Hub USB",
-      "bucket": "informatica",
-      "posted_ts": 1790576214,
-      "posted_at": "2026-09-28T06:16:54.644695+00:00",
-      "score": 134.98
-    },
-    {
-      "key": "mercadolivre:MLB7158074090",
-      "marketplace": "mercadolivre",
-      "id": "MLB7158074090",
-      "title": "Liquidificador portátil, Mini liquidificador recarregável USB, Liquidificador",
-      "title_norm": "liquidificador portatil mini liquidificador recarregavel usb liquidificador",
-      "url": "https://www.mercadolivre.com.br/p/MLB38338044?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB38338044?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "category": "Casa e Cozinha",
-      "bucket": "casa_cozinha",
-      "posted_ts": 1790575380,
-      "posted_at": "2026-09-28T06:03:00.586045+00:00",
-      "score": 113.0
-    },
-    {
-      "key": "shopee:23997651063",
-      "marketplace": "shopee",
-      "id": "23997651063",
-      "title": "Kit de 10 - 100 Fotos 10x15 Reveladas para álbum, papel de parede, quadro.6",
-      "title_norm": "kit de 10 100 fotos 10x15 reveladas para album papel de parede quadro 6",
-      "url": "https://shopee.com.br/product/885595445/23997651063",
-      "affiliate_url": "https://s.shopee.com.br/9V1nQaXXzB",
-      "category": "Tudo para você ltda",
-      "bucket": "tudo_para_voce_ltda",
-      "posted_ts": 1790572867,
-      "posted_at": "2026-09-28T05:21:07.322816+00:00",
-      "score": 70.77
     }
   ],
-  "updated_at": "2026-10-06T23:03:51.735953+00:00"
+  "updated_at": "2026-10-06T23:19:18.016632+00:00"
 }
