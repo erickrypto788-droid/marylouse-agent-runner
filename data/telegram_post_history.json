@@ -1,6 +1,48 @@
 {
   "posts": [
     {
+      "key": "shopee:23594069255",
+      "marketplace": "shopee",
+      "id": "23594069255",
+      "title": "Bolsa Transversal Com Alça Regulável Feminina Médio Versátil Moda Crossbody",
+      "title_norm": "bolsa transversal com alca regulavel feminina medio versatil moda crossbody",
+      "url": "https://shopee.com.br/product/1284795277/23594069255",
+      "affiliate_url": "https://s.shopee.com.br/Lnn8EwzUB",
+      "category": "DIVA IMPORT",
+      "bucket": "bolsas",
+      "posted_ts": 1791292749,
+      "posted_at": "2026-10-06T13:19:09.488626+00:00",
+      "score": 98.14
+    },
+    {
+      "key": "shopee:21099546181",
+      "marketplace": "shopee",
+      "id": "21099546181",
+      "title": "ROMANTIC CROWN Bolsa Feminina Pequena de Ombro Impermeável, Mini Tiracolo de Couro para Trabalho e Festa",
+      "title_norm": "romantic crown bolsa feminina pequena de ombro impermeavel mini tiracolo de couro para trabalho e festa",
+      "url": "https://shopee.com.br/product/1198407784/21099546181",
+      "affiliate_url": "https://s.shopee.com.br/113TvSlrNp",
+      "category": "Romantic Crown.02",
+      "bucket": "bolsas",
+      "posted_ts": 1791292685,
+      "posted_at": "2026-10-06T13:18:05.469242+00:00",
+      "score": 117.16
+    },
+    {
+      "key": "shopee:58209895415",
+      "marketplace": "shopee",
+      "id": "58209895415",
+      "title": "Mochila de Viagem Masculina e Feminina Impermeável e Reforçada com Compartimento para Notebook",
+      "title_norm": "mochila de viagem masculina e feminina impermeavel e reforcada com compartimento para notebook",
+      "url": "https://shopee.com.br/product/1789754785/58209895415",
+      "affiliate_url": "https://s.shopee.com.br/7VGxfPRJBJ",
+      "category": "Solperk",
+      "bucket": "informatica",
+      "posted_ts": 1791292613,
+      "posted_at": "2026-10-06T13:16:53.659313+00:00",
+      "score": 139.22
+    },
+    {
       "key": "mercadolivre:MLB5468706054",
       "marketplace": "mercadolivre",
       "id": "MLB5468706054",
@@ -13957,49 +13999,7 @@
       "posted_ts": 1790540482,
       "posted_at": "2026-09-27T20:21:22.474262+00:00",
       "score": 51.02
-    },
-    {
-      "key": "shopee:18799918385",
-      "marketplace": "shopee",
-      "id": "18799918385",
-      "title": "Pente Elétrico Alisador Cabelo Aquecimento Milti-fucional Prancha Alisadora",
-      "title_norm": "pente eletrico alisador cabelo aquecimento milti fucional prancha alisadora",
-      "url": "https://shopee.com.br/product/1264719671/18799918385",
-      "affiliate_url": "https://s.shopee.com.br/6fhcmhQq3y",
-      "category": "omni commerce",
-      "bucket": "omni_commerce",
-      "posted_ts": 1790540410,
-      "posted_at": "2026-09-27T20:20:10.988572+00:00",
-      "score": 100.72
-    },
-    {
-      "key": "shopee:23994387054",
-      "marketplace": "shopee",
-      "id": "23994387054",
-      "title": "Kit Dupla Renovadores Faciais Kokeshi Pele Porcelana Olhos Gueixa",
-      "title_norm": "kit dupla renovadores faciais kokeshi pele porcelana olhos gueixa",
-      "url": "https://shopee.com.br/product/395166866/23994387054",
-      "affiliate_url": "https://s.shopee.com.br/W6zRMwuMK",
-      "category": "KOKESHI OFICIAL",
-      "bucket": "kokeshi_oficial",
-      "posted_ts": 1790540347,
-      "posted_at": "2026-09-27T20:19:07.031545+00:00",
-      "score": 103.26
-    },
-    {
-      "key": "shopee:23094999147",
-      "marketplace": "shopee",
-      "id": "23094999147",
-      "title": "Kit de 2 Até 3 Body Splash Masculino Malbeck Essencialle Magnata Árabe 200ml Longa Duração Cheiroso",
-      "title_norm": "kit de 2 ate 3 body splash masculino malbeck essencialle magnata arabe 200ml longa duracao cheiroso",
-      "url": "https://shopee.com.br/product/1723473029/23094999147",
-      "affiliate_url": "https://s.shopee.com.br/5LCFCFMyiG",
-      "category": "Barbarus Body&Hair",
-      "bucket": "pet",
-      "posted_ts": 1790540283,
-      "posted_at": "2026-09-27T20:18:03.055729+00:00",
-      "score": 127.34
     }
   ],
-  "updated_at": "2026-10-06T13:02:34.999802+00:00"
+  "updated_at": "2026-10-06T13:19:09.488645+00:00"
 }
