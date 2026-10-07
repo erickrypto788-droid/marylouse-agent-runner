@@ -1,6 +1,20 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB5346615649",
+      "marketplace": "mercadolivre",
+      "id": "MLB5346615649",
+      "title": "Smartphone Xiaomi 15t 5g 12+12gb Ram + 512gb, Cinza",
+      "title_norm": "smartphone xiaomi 15t 5g 12 12gb ram 512gb cinza",
+      "url": "https://www.mercadolivre.com.br/p/MLB59103594?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB59103594?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Informática",
+      "bucket": "celulares",
+      "posted_ts": 1791403411,
+      "posted_at": "2026-10-07T20:03:31.090623+00:00",
+      "score": 124.0
+    },
+    {
       "key": "shopee:23893178722",
       "marketplace": "shopee",
       "id": "23893178722",
@@ -13985,21 +13999,7 @@
       "posted_ts": 1790633816,
       "posted_at": "2026-09-28T22:16:56.282378+00:00",
       "score": 140.68
-    },
-    {
-      "key": "mercadolivre:MLB3474477475",
-      "marketplace": "mercadolivre",
-      "id": "MLB3474477475",
-      "title": "Lamina Aparador Pelos Philips Bodygroom Qg3379 Qg3280 Qg3380",
-      "title_norm": "lamina aparador pelos philips bodygroom qg3379 qg3280 qg3380",
-      "url": "https://www.mercadolivre.com.br/p/MLB24908965?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB24908965?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "category": "Beleza",
-      "bucket": "beleza",
-      "posted_ts": 1790632977,
-      "posted_at": "2026-09-28T22:02:57.698308+00:00",
-      "score": 119.78
     }
   ],
-  "updated_at": "2026-10-07T19:20:05.511293+00:00"
+  "updated_at": "2026-10-07T20:03:31.090641+00:00"
 }
