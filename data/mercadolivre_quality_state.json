@@ -1,6 +1,36 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB6149389980",
+      "product_id": "MLB6149389980",
+      "catalog_product_id": "MLB37180897",
+      "item_id": "MLB6149389980",
+      "url": "https://www.mercadolivre.com.br/p/MLB37180897?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB37180897?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "kit furadeira e parafusadeira com parafusadeira dewalt modelo dck200me2gt 2 baterias 20v",
+      "title": "Kit Furadeira e Parafusadeira com Parafusadeira Dewalt Modelo DCK200ME2GT 2 Baterias 20V",
+      "category": "Ferramentas",
+      "price": 2999.0,
+      "score": 109.0,
+      "posted_ts": 1791389048,
+      "posted_at": "2026-10-07T16:04:08.636661+00:00"
+    },
+    {
+      "key": "mercadolivre:MLB4773133945",
+      "product_id": "MLB4773133945",
+      "catalog_product_id": "MLB70110890",
+      "item_id": "MLB4773133945",
+      "url": "https://www.mercadolivre.com.br/p/MLB70110890?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB70110890?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "kit ferramentas furadeira esmerilhadeira parafusadeira",
+      "title": "Kit Ferramentas Furadeira Esmerilhadeira Parafusadeira",
+      "category": "Ferramentas",
+      "price": 754.34,
+      "score": 152.83,
+      "posted_ts": 1791388977,
+      "posted_at": "2026-10-07T16:02:57.183747+00:00"
+    },
+    {
       "key": "mercadolivre:MLB6392071978",
       "product_id": "MLB6392071978",
       "catalog_product_id": "MLB29763388",
@@ -856,5 +886,5 @@
       "posted_at": "2026-10-05T17:03:58.682550+00:00"
     }
   ],
-  "updated_at": "2026-10-07T14:04:32.526782+00:00"
+  "updated_at": "2026-10-07T16:04:08.636674+00:00"
 }
