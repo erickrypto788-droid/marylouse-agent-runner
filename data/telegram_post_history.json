@@ -1,6 +1,20 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB4974714813",
+      "marketplace": "mercadolivre",
+      "id": "MLB4974714813",
+      "title": "Ração Gato Estimacat Premium Filhote Sabor Frango 10kg",
+      "title_norm": "racao gato estimacat premium filhote sabor frango 10kg",
+      "url": "https://www.mercadolivre.com.br/p/MLB66844874?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB66844874?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Pet",
+      "bucket": "pet",
+      "posted_ts": 1791414176,
+      "posted_at": "2026-10-07T23:02:56.735066+00:00",
+      "score": 154.83
+    },
+    {
       "key": "shopee:20798022468",
       "marketplace": "shopee",
       "id": "20798022468",
@@ -13985,21 +13999,7 @@
       "posted_ts": 1790641009,
       "posted_at": "2026-09-29T00:16:49.029812+00:00",
       "score": 138.52
-    },
-    {
-      "key": "mercadolivre:MLB5297261932",
-      "marketplace": "mercadolivre",
-      "id": "MLB5297261932",
-      "title": "Brinquedo Lider Kit Ferramentas - 2381",
-      "title_norm": "brinquedo lider kit ferramentas 2381",
-      "url": "https://www.mercadolivre.com.br/p/MLB45785598?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB45785598?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "category": "Ferramentas",
-      "bucket": "ferramentas",
-      "posted_ts": 1790640407,
-      "posted_at": "2026-09-29T00:06:47.049561+00:00",
-      "score": 88.0
     }
   ],
-  "updated_at": "2026-10-07T22:21:29.044880+00:00"
+  "updated_at": "2026-10-07T23:02:56.735085+00:00"
 }
