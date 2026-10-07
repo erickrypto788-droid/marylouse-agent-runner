@@ -1,6 +1,21 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB7263958974",
+      "product_id": "MLB7263958974",
+      "catalog_product_id": "MLB75636681",
+      "item_id": "MLB7263958974",
+      "url": "https://www.mercadolivre.com.br/p/MLB75636681?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB75636681?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "fralda geriatrica prevent care tamanho fralda geriatrica prevent care xg c 46",
+      "title": "Fralda Geriatrica Prevent Care Tamanho FRALDA GERIATRICA PREVENT CARE XG C/46",
+      "category": "Mãe e Bebê",
+      "price": 110.73,
+      "score": 114.0,
+      "posted_ts": 1791352946,
+      "posted_at": "2026-10-07T06:02:26.095047+00:00"
+    },
+    {
       "key": "mercadolivre:MLB4694661245",
       "product_id": "MLB4694661245",
       "catalog_product_id": "MLB67529462",
@@ -884,67 +899,7 @@
       "score": 179.1,
       "posted_ts": 1791180218,
       "posted_at": "2026-10-05T06:03:38.933376+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB7059191208",
-      "product_id": "MLB7059191208",
-      "catalog_product_id": "MLB38422370",
-      "item_id": "MLB7059191208",
-      "url": "https://www.mercadolivre.com.br/p/MLB38422370?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB38422370?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "boneca sophia deluxe com roupa academia unicornio 24cm sunny",
-      "title": "Boneca Sophia Deluxe com Roupa Academia Unicórnio 24cm Sunny",
-      "category": "Esportes",
-      "price": 156.99,
-      "score": 88.0,
-      "posted_ts": 1791176771,
-      "posted_at": "2026-10-05T05:06:11.823088+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB5909017866",
-      "product_id": "MLB5909017866",
-      "catalog_product_id": "MLB61770185",
-      "item_id": "MLB5909017866",
-      "url": "https://www.mercadolivre.com.br/p/MLB61770185?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB61770185?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "blusa camisa feminina protecao solar bike jetski pesca praia cor branco tamanho m",
-      "title": "Blusa Camisa Feminina Proteção Solar Bike Jetski Pesca Praia Cor Branco Tamanho M",
-      "category": "Moda Feminina",
-      "price": 90.92,
-      "score": 88.0,
-      "posted_ts": 1791176707,
-      "posted_at": "2026-10-05T05:05:07.783909+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB5248354709",
-      "product_id": "MLB5248354709",
-      "catalog_product_id": "MLB74383241",
-      "item_id": "MLB5248354709",
-      "url": "https://www.mercadolivre.com.br/p/MLB74383241?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB74383241?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "kit 7 shorts feminino modelador selene levanta bumbum bege eg",
-      "title": "Kit 7 Shorts Feminino Modelador Selene Levanta Bumbum Bege Eg",
-      "category": "Moda Feminina",
-      "price": 135.84,
-      "score": 97.67,
-      "posted_ts": 1791176643,
-      "posted_at": "2026-10-05T05:04:03.937457+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB5941366026",
-      "product_id": "MLB5941366026",
-      "catalog_product_id": "MLB62222654",
-      "item_id": "MLB5941366026",
-      "url": "https://www.mercadolivre.com.br/p/MLB62222654?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB62222654?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "shorts feminino sem costura loba plus size redutor tamanho xxg sortido",
-      "title": "Shorts Feminino Sem Costura Loba Plus Size Redutor Tamanho XXG Sortido",
-      "category": "Moda Feminina",
-      "price": 148.5,
-      "score": 99.14,
-      "posted_ts": 1791176580,
-      "posted_at": "2026-10-05T05:03:00.013036+00:00"
     }
   ],
-  "updated_at": "2026-10-07T05:02:26.716518+00:00"
+  "updated_at": "2026-10-07T06:02:26.095057+00:00"
 }

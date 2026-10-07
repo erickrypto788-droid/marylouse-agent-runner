@@ -1,6 +1,20 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB7263958974",
+      "marketplace": "mercadolivre",
+      "id": "MLB7263958974",
+      "title": "Fralda Geriatrica Prevent Care Tamanho FRALDA GERIATRICA PREVENT CARE XG C/46",
+      "title_norm": "fralda geriatrica prevent care tamanho fralda geriatrica prevent care xg c 46",
+      "url": "https://www.mercadolivre.com.br/p/MLB75636681?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB75636681?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Mãe e Bebê",
+      "bucket": "fraldas",
+      "posted_ts": 1791352946,
+      "posted_at": "2026-10-07T06:02:26.081265+00:00",
+      "score": 114.0
+    },
+    {
       "key": "shopee:23897989795",
       "marketplace": "shopee",
       "id": "23897989795",
@@ -13985,21 +13999,7 @@
       "posted_ts": 1790596988,
       "posted_at": "2026-09-28T12:03:08.584937+00:00",
       "score": 95.09
-    },
-    {
-      "key": "shopee:22493725920",
-      "marketplace": "shopee",
-      "id": "22493725920",
-      "title": "SHORT CINTA MODELADOR ORIGINAL 4 Barbatanas Alta Compressão Não Enrola Empina Bumbum Plus Size",
-      "title_norm": "short cinta modelador original 4 barbatanas alta compressao nao enrola empina bumbum plus size",
-      "url": "https://shopee.com.br/product/760344136/22493725920",
-      "affiliate_url": "https://s.shopee.com.br/AUuMDJYeF1",
-      "category": "AKAPE CLOTHING",
-      "bucket": "akape_clothing",
-      "posted_ts": 1790594385,
-      "posted_at": "2026-09-28T11:19:45.937512+00:00",
-      "score": 88.43
     }
   ],
-  "updated_at": "2026-10-07T05:21:15.534333+00:00"
+  "updated_at": "2026-10-07T06:02:26.081280+00:00"
 }
