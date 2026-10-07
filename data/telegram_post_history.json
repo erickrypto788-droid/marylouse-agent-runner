@@ -1,6 +1,34 @@
 {
   "posts": [
     {
+      "key": "shopee:23293827748",
+      "marketplace": "shopee",
+      "id": "23293827748",
+      "title": "Bota Feminina GiGiL Cano Longo Enrugado Slouch Bico Fino Salto Bloco Médio Elegante Clássica Casual",
+      "title_norm": "bota feminina gigil cano longo enrugado slouch bico fino salto bloco medio elegante classica casual",
+      "url": "https://shopee.com.br/product/387348115/23293827748",
+      "affiliate_url": "https://s.shopee.com.br/9zyJNLZE9y",
+      "category": "GiGiL",
+      "bucket": "calcados",
+      "posted_ts": 1791332293,
+      "posted_at": "2026-10-07T00:18:13.509155+00:00",
+      "score": 100.48
+    },
+    {
+      "key": "shopee:20497149341",
+      "marketplace": "shopee",
+      "id": "20497149341",
+      "title": "Bota Coturno Feminino Tratorada Chelsea Macia Confortável Snapshoes",
+      "title_norm": "bota coturno feminino tratorada chelsea macia confortavel snapshoes",
+      "url": "https://shopee.com.br/product/428566450/20497149341",
+      "affiliate_url": "https://s.shopee.com.br/W7E3t9ORI",
+      "category": "SHOESCOM Boots",
+      "bucket": "calcados",
+      "posted_ts": 1791332229,
+      "posted_at": "2026-10-07T00:17:09.389001+00:00",
+      "score": 110.36
+    },
+    {
       "key": "shopee:23699513929",
       "marketplace": "shopee",
       "id": "23699513929",
@@ -13971,35 +13999,7 @@
       "posted_ts": 1790576407,
       "posted_at": "2026-09-28T06:20:07.038186+00:00",
       "score": 78.12
-    },
-    {
-      "key": "shopee:23494197175",
-      "marketplace": "shopee",
-      "id": "23494197175",
-      "title": "Webcam Câmera Computador Full HD 1080x1920p 2MP USB Plug Play Microfone Embutido",
-      "title_norm": "webcam camera computador full hd 1080x1920p 2mp usb plug play microfone embutido",
-      "url": "https://shopee.com.br/product/384064825/23494197175",
-      "affiliate_url": "https://s.shopee.com.br/4LJifcbV4e",
-      "category": "SHOPELXY",
-      "bucket": "shopelxy",
-      "posted_ts": 1790576342,
-      "posted_at": "2026-09-28T06:19:02.893334+00:00",
-      "score": 94.18
-    },
-    {
-      "key": "shopee:22398374434",
-      "marketplace": "shopee",
-      "id": "22398374434",
-      "title": "Kit Teclado e Mouse branco Gamer RGB LED USB ABNT2 Profissional com Luz para PC Notebook Promoção",
-      "title_norm": "kit teclado e mouse branco gamer rgb led usb abnt2 profissional com luz para pc notebook promocao",
-      "url": "https://shopee.com.br/product/1447668497/22398374434",
-      "affiliate_url": "https://s.shopee.com.br/gQOyTKtPl",
-      "category": "MixMania BR",
-      "bucket": "informatica",
-      "posted_ts": 1790576278,
-      "posted_at": "2026-09-28T06:17:58.774904+00:00",
-      "score": 129.94
     }
   ],
-  "updated_at": "2026-10-06T23:19:18.016632+00:00"
+  "updated_at": "2026-10-07T00:18:13.509171+00:00"
 }
