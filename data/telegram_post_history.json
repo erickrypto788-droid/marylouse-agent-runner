@@ -1,6 +1,20 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB4799696639",
+      "marketplace": "mercadolivre",
+      "id": "MLB4799696639",
+      "title": "Molde Calça Legging Feminina Com Bolso Impresso Pp/p/m/g/gg",
+      "title_norm": "molde calca legging feminina com bolso impresso pp p m g gg",
+      "url": "https://www.mercadolivre.com.br/p/MLB74233210?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB74233210?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Moda Feminina",
+      "bucket": "moda_feminina",
+      "posted_ts": 1791367399,
+      "posted_at": "2026-10-07T10:03:19.400330+00:00",
+      "score": 88.0
+    },
+    {
       "key": "shopee:23693223002",
       "marketplace": "shopee",
       "id": "23693223002",
@@ -13985,21 +13999,7 @@
       "posted_ts": 1790608868,
       "posted_at": "2026-09-28T15:21:08.614279+00:00",
       "score": 52.51
-    },
-    {
-      "key": "shopee:18799069741",
-      "marketplace": "shopee",
-      "id": "18799069741",
-      "title": "Ventilador de Mesa Mondial 6 Pás Super Power Preto VSP-30-B - 30cm 220V",
-      "title_norm": "ventilador de mesa mondial 6 pas super power preto vsp 30 b 30cm 220v",
-      "url": "https://shopee.com.br/product/1050213612/18799069741",
-      "affiliate_url": "https://s.shopee.com.br/2LYet1iqdU",
-      "category": "Le biscuit®",
-      "bucket": "le_biscuit",
-      "posted_ts": 1790608804,
-      "posted_at": "2026-09-28T15:20:04.423911+00:00",
-      "score": 62.44
     }
   ],
-  "updated_at": "2026-10-07T09:21:16.298323+00:00"
+  "updated_at": "2026-10-07T10:03:19.400354+00:00"
 }
