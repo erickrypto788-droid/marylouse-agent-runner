@@ -1,6 +1,48 @@
 {
   "posts": [
     {
+      "key": "shopee:58212496584",
+      "marketplace": "shopee",
+      "id": "58212496584",
+      "title": "Nintendo Switch 2 lcd 256gb novo",
+      "title_norm": "nintendo switch 2 lcd 256gb novo",
+      "url": "https://shopee.com.br/product/1470976304/58212496584",
+      "affiliate_url": "https://s.shopee.com.br/8V9WegZSFe",
+      "category": "AmandaImports8",
+      "bucket": "amandaimports8",
+      "posted_ts": 1791390105,
+      "posted_at": "2026-10-07T16:21:45.997803+00:00",
+      "score": 33.8
+    },
+    {
+      "key": "shopee:22195061065",
+      "marketplace": "shopee",
+      "id": "22195061065",
+      "title": "Controle Playstation 5 Sem Fio Dualsense Branco - PS5",
+      "title_norm": "controle playstation 5 sem fio dualsense branco ps5",
+      "url": "https://shopee.com.br/product/829012010/22195061065",
+      "affiliate_url": "https://s.shopee.com.br/3B80IskkjO",
+      "category": "Webfones",
+      "bucket": "webfones",
+      "posted_ts": 1791390041,
+      "posted_at": "2026-10-07T16:20:41.821836+00:00",
+      "score": 46.46
+    },
+    {
+      "key": "shopee:47060418366",
+      "marketplace": "shopee",
+      "id": "47060418366",
+      "title": "Controle PS5 Sony Dualsense sem fio JoyStick - Midnight Black",
+      "title_norm": "controle ps5 sony dualsense sem fio joystick midnight black",
+      "url": "https://shopee.com.br/product/1343318906/47060418366",
+      "affiliate_url": "https://s.shopee.com.br/30oa6ZlO4N",
+      "category": "NegociuN",
+      "bucket": "negociun",
+      "posted_ts": 1791389977,
+      "posted_at": "2026-10-07T16:19:37.199687+00:00",
+      "score": 79.29
+    },
+    {
       "key": "mercadolivre:MLB6149389980",
       "marketplace": "mercadolivre",
       "id": "MLB6149389980",
@@ -13957,49 +13999,7 @@
       "posted_ts": 1790623267,
       "posted_at": "2026-09-28T19:21:07.425712+00:00",
       "score": 83.14
-    },
-    {
-      "key": "shopee:58213752303",
-      "marketplace": "shopee",
-      "id": "58213752303",
-      "title": "Sapatilha Feminina Mary Jane Confortável Luxo Elegante Sapato Feminino Boneca  Bico Quadrado Malbec",
-      "title_norm": "sapatilha feminina mary jane confortavel luxo elegante sapato feminino boneca bico quadrado malbec",
-      "url": "https://shopee.com.br/product/1627773064/58213752303",
-      "affiliate_url": "https://s.shopee.com.br/6q14Vm1zMj",
-      "category": "AcheiOnBR",
-      "bucket": "calcados",
-      "posted_ts": 1790623203,
-      "posted_at": "2026-09-28T19:20:03.382696+00:00",
-      "score": 93.16
-    },
-    {
-      "key": "shopee:58215811795",
-      "marketplace": "shopee",
-      "id": "58215811795",
-      "title": "Xadrez Magnético Jogo de Xadrez Magnético Jogos De Tabuleiro Jogo Magnético Jogos Educativos",
-      "title_norm": "xadrez magnetico jogo de xadrez magnetico jogos de tabuleiro jogo magnetico jogos educativos",
-      "url": "https://shopee.com.br/product/1717663781/58215811795",
-      "affiliate_url": "https://s.shopee.com.br/30oKgSEjZA",
-      "category": "IMPERIAL TOYS",
-      "bucket": "imperial_toys",
-      "posted_ts": 1790623139,
-      "posted_at": "2026-09-28T19:18:59.350317+00:00",
-      "score": 102.31
-    },
-    {
-      "key": "shopee:23794965742",
-      "marketplace": "shopee",
-      "id": "23794965742",
-      "title": "Brinquedos infantis do Homem-Aranha - conjunto de 1 a 3 com luvas de tiro na teia e dardos",
-      "title_norm": "brinquedos infantis do homem aranha conjunto de 1 a 3 com luvas de tiro na teia e dardos",
-      "url": "https://shopee.com.br/product/1692649392/23794965742",
-      "affiliate_url": "https://s.shopee.com.br/30oKgRx4Af",
-      "category": "VELORA Beauty",
-      "bucket": "velora_beauty",
-      "posted_ts": 1790623075,
-      "posted_at": "2026-09-28T19:17:55.305716+00:00",
-      "score": 119.27
     }
   ],
-  "updated_at": "2026-10-07T16:04:08.623462+00:00"
+  "updated_at": "2026-10-07T16:21:45.997819+00:00"
 }
