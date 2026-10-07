@@ -1,6 +1,21 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB4694661245",
+      "product_id": "MLB4694661245",
+      "catalog_product_id": "MLB67529462",
+      "item_id": "MLB4694661245",
+      "url": "https://www.mercadolivre.com.br/p/MLB67529462?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB67529462?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "comedouro elevado duplo racao gato porcelana acrilico 190ml porta racao gato comedouro rosa",
+      "title": "Comedouro Elevado Duplo Ração Gato Porcelana Acrilico 190ml Porta Racao Gato Comedouro Rosa",
+      "category": "Pet",
+      "price": 48.4,
+      "score": 148.86,
+      "posted_ts": 1791349346,
+      "posted_at": "2026-10-07T05:02:26.716508+00:00"
+    },
+    {
       "key": "mercadolivre:MLB5337424001",
       "product_id": "MLB5337424001",
       "catalog_product_id": "MLB20643765",
@@ -929,22 +944,7 @@
       "score": 99.14,
       "posted_ts": 1791176580,
       "posted_at": "2026-10-05T05:03:00.013036+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB6667071540",
-      "product_id": "MLB6667071540",
-      "catalog_product_id": "MLB68578906",
-      "item_id": "MLB6667071540",
-      "url": "https://www.mercadolivre.com.br/p/MLB68578906?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB68578906?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "bepantol baby pomada assadura bebe hipoalergenica 200g",
-      "title": "Bepantol Baby Pomada Assadura Bebe Hipoalergênica, 200g",
-      "category": "Mãe e Bebê",
-      "price": 97.42,
-      "score": 76.82,
-      "posted_ts": 1791173180,
-      "posted_at": "2026-10-05T04:06:20.834356+00:00"
     }
   ],
-  "updated_at": "2026-10-07T02:04:20.893408+00:00"
+  "updated_at": "2026-10-07T05:02:26.716518+00:00"
 }

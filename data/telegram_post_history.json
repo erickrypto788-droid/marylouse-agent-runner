@@ -1,6 +1,20 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB4694661245",
+      "marketplace": "mercadolivre",
+      "id": "MLB4694661245",
+      "title": "Comedouro Elevado Duplo Ração Gato Porcelana Acrilico 190ml Porta Racao Gato Comedouro Rosa",
+      "title_norm": "comedouro elevado duplo racao gato porcelana acrilico 190ml porta racao gato comedouro rosa",
+      "url": "https://www.mercadolivre.com.br/p/MLB67529462?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB67529462?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Pet",
+      "bucket": "pet",
+      "posted_ts": 1791349346,
+      "posted_at": "2026-10-07T05:02:26.702860+00:00",
+      "score": 148.86
+    },
+    {
       "key": "shopee:23394327377",
       "marketplace": "shopee",
       "id": "23394327377",
@@ -13985,21 +13999,7 @@
       "posted_ts": 1790590749,
       "posted_at": "2026-09-28T10:19:09.195667+00:00",
       "score": 103.53
-    },
-    {
-      "key": "shopee:22298033341",
-      "marketplace": "shopee",
-      "id": "22298033341",
-      "title": "4 camisa termica masculina Manga Longa UV 50+ Malha Fria DryFit Masculina Academia",
-      "title_norm": "4 camisa termica masculina manga longa uv 50 malha fria dryfit masculina academia",
-      "url": "https://shopee.com.br/product/916176093/22298033341",
-      "affiliate_url": "https://s.shopee.com.br/8KpqN2S2yX",
-      "category": "LitoralModa",
-      "bucket": "litoralmoda",
-      "posted_ts": 1790590685,
-      "posted_at": "2026-09-28T10:18:05.262208+00:00",
-      "score": 110.96
     }
   ],
-  "updated_at": "2026-10-07T04:21:27.647627+00:00"
+  "updated_at": "2026-10-07T05:02:26.702874+00:00"
 }
