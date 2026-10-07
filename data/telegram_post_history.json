@@ -1,6 +1,34 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB5337424001",
+      "marketplace": "mercadolivre",
+      "id": "MLB5337424001",
+      "title": "Carregador iPhone Tipo USB-C Cor Branco",
+      "title_norm": "carregador iphone tipo usb c cor branco",
+      "url": "https://www.mercadolivre.com.br/p/MLB20643765?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB20643765?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Informática",
+      "bucket": "celulares",
+      "posted_ts": 1791338660,
+      "posted_at": "2026-10-07T02:04:20.883768+00:00",
+      "score": 114.0
+    },
+    {
+      "key": "mercadolivre:MLB5129093619",
+      "marketplace": "mercadolivre",
+      "id": "MLB5129093619",
+      "title": "celulares smartphones 6.78 Polegadas celular 5g 16GB+512GB Câmera HD 32Mpx+18Mpx Bateria 5000mAh celular baratinho",
+      "title_norm": "celulares smartphones 6 78 polegadas celular 5g 16gb 512gb camera hd 32mpx 18mpx bateria 5000mah celular baratinho",
+      "url": "https://www.mercadolivre.com.br/p/MLB78262248?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB78262248?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Informática",
+      "bucket": "celulares",
+      "posted_ts": 1791338564,
+      "posted_at": "2026-10-07T02:02:44.678595+00:00",
+      "score": 195.37
+    },
+    {
       "key": "shopee:22494456015",
       "marketplace": "shopee",
       "id": "22494456015",
@@ -13971,35 +13999,7 @@
       "posted_ts": 1790582613,
       "posted_at": "2026-09-28T08:03:33.532530+00:00",
       "score": 111.0
-    },
-    {
-      "key": "shopee:22094579769",
-      "marketplace": "shopee",
-      "id": "22094579769",
-      "title": "Bandeja Mesa Café Da Manhã Pézinho Dobrável Mesa Cozinha",
-      "title_norm": "bandeja mesa cafe da manha pezinho dobravel mesa cozinha",
-      "url": "https://shopee.com.br/product/1553038344/22094579769",
-      "affiliate_url": "https://s.shopee.com.br/1AjZmPJSd",
-      "category": "VERLUNA MULTIVENDAS",
-      "bucket": "verluna_multivendas",
-      "posted_ts": 1790580095,
-      "posted_at": "2026-09-28T07:21:35.106917+00:00",
-      "score": 81.78
-    },
-    {
-      "key": "shopee:23895623632",
-      "marketplace": "shopee",
-      "id": "23895623632",
-      "title": "Cafe Graos Torra Media Gourmet Café Italle 1kg",
-      "title_norm": "cafe graos torra media gourmet cafe italle 1kg",
-      "url": "https://shopee.com.br/product/334540655/23895623632",
-      "affiliate_url": "https://s.shopee.com.br/1gIxYqIy53",
-      "category": "Café Italle",
-      "bucket": "cafe_italle",
-      "posted_ts": 1790580028,
-      "posted_at": "2026-09-28T07:20:28.180790+00:00",
-      "score": 82.01
     }
   ],
-  "updated_at": "2026-10-07T01:21:16.888345+00:00"
+  "updated_at": "2026-10-07T02:04:20.883781+00:00"
 }
