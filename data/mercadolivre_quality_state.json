@@ -1,6 +1,36 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB6392071978",
+      "product_id": "MLB6392071978",
+      "catalog_product_id": "MLB29763388",
+      "item_id": "MLB6392071978",
+      "url": "https://www.mercadolivre.com.br/p/MLB29763388?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB29763388?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "mini depilador eletrico aparador pelos corporal feminino",
+      "title": "Mini Depilador Elétrico Aparador Pelos Corporal Feminino",
+      "category": "Beleza",
+      "price": 36.9,
+      "score": 88.0,
+      "posted_ts": 1791381872,
+      "posted_at": "2026-10-07T14:04:32.526772+00:00"
+    },
+    {
+      "key": "mercadolivre:MLB6340337640",
+      "product_id": "MLB6340337640",
+      "catalog_product_id": "MLB37838163",
+      "item_id": "MLB6340337640",
+      "url": "https://www.mercadolivre.com.br/p/MLB37838163?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB37838163?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "chapinha cabelo nano titanium azul resultados",
+      "title": "Chapinha Cabelo Nano Titanium Azul , Resultados",
+      "category": "Beleza",
+      "price": 114.46,
+      "score": 113.0,
+      "posted_ts": 1791381800,
+      "posted_at": "2026-10-07T14:03:20.800565+00:00"
+    },
+    {
       "key": "mercadolivre:MLB5355035490",
       "product_id": "MLB5355035490",
       "catalog_product_id": "MLB48409016",
@@ -824,67 +854,7 @@
       "score": 113.0,
       "posted_ts": 1791219838,
       "posted_at": "2026-10-05T17:03:58.682550+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB5322253573",
-      "product_id": "MLB5322253573",
-      "catalog_product_id": "MLB61421090",
-      "item_id": "MLB5322253573",
-      "url": "https://www.mercadolivre.com.br/p/MLB61421090?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB61421090?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "smartphone xiaomi redmi 15c 256gb global azul",
-      "title": "Smartphone Xiaomi Redmi 15c 256gb Global Azul",
-      "category": "Informática",
-      "price": 1058.0,
-      "score": 127.0,
-      "posted_ts": 1791208961,
-      "posted_at": "2026-10-05T14:02:41.493673+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB4442585419",
-      "product_id": "MLB4442585419",
-      "catalog_product_id": "MLB64939142",
-      "item_id": "MLB4442585419",
-      "url": "https://www.mercadolivre.com.br/p/MLB64939142?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB64939142?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "soundbar samsung hw b650f soundbar hw b400f preto",
-      "title": "Soundbar Samsung Hw-b650f + Soundbar Hw-b400f Preto",
-      "category": "Informática",
-      "price": 2420.0,
-      "score": 104.0,
-      "posted_ts": 1791205422,
-      "posted_at": "2026-10-05T13:03:42.079903+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB5175098567",
-      "product_id": "MLB5175098567",
-      "catalog_product_id": "MLB65128496",
-      "item_id": "MLB5175098567",
-      "url": "https://www.mercadolivre.com.br/p/MLB65128496?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB65128496?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "soundbar samsung hw b450f soundbar hw b400f",
-      "title": "Soundbar Samsung Hw-b450f + Soundbar Hw-b400f",
-      "category": "Informática",
-      "price": 999.0,
-      "score": 127.0,
-      "posted_ts": 1791205352,
-      "posted_at": "2026-10-05T13:02:32.390913+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB6459080170",
-      "product_id": "MLB6459080170",
-      "catalog_product_id": "MLB24522367",
-      "item_id": "MLB6459080170",
-      "url": "https://www.mercadolivre.com.br/p/MLB24522367?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB24522367?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "ssd nvme asgard an4 1tb gen4",
-      "title": "SSD Nvme Asgard AN4 1tb Gen4",
-      "category": "Informática",
-      "price": 1000.0,
-      "score": 111.0,
-      "posted_ts": 1791201779,
-      "posted_at": "2026-10-05T12:02:59.653952+00:00"
     }
   ],
-  "updated_at": "2026-10-07T11:04:42.565262+00:00"
+  "updated_at": "2026-10-07T14:04:32.526782+00:00"
 }

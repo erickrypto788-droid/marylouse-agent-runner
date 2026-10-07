@@ -1,6 +1,34 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB6392071978",
+      "marketplace": "mercadolivre",
+      "id": "MLB6392071978",
+      "title": "Mini Depilador Elétrico Aparador Pelos Corporal Feminino",
+      "title_norm": "mini depilador eletrico aparador pelos corporal feminino",
+      "url": "https://www.mercadolivre.com.br/p/MLB29763388?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB29763388?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Beleza",
+      "bucket": "beleza",
+      "posted_ts": 1791381872,
+      "posted_at": "2026-10-07T14:04:32.513203+00:00",
+      "score": 88.0
+    },
+    {
+      "key": "mercadolivre:MLB6340337640",
+      "marketplace": "mercadolivre",
+      "id": "MLB6340337640",
+      "title": "Chapinha Cabelo Nano Titanium Azul , Resultados",
+      "title_norm": "chapinha cabelo nano titanium azul resultados",
+      "url": "https://www.mercadolivre.com.br/p/MLB37838163?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB37838163?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Beleza",
+      "bucket": "beleza",
+      "posted_ts": 1791381800,
+      "posted_at": "2026-10-07T14:03:20.786693+00:00",
+      "score": 113.0
+    },
+    {
       "key": "shopee:58250907521",
       "marketplace": "shopee",
       "id": "58250907521",
@@ -13971,35 +13999,7 @@
       "posted_ts": 1790619550,
       "posted_at": "2026-09-28T18:19:10.715084+00:00",
       "score": 115.02
-    },
-    {
-      "key": "shopee:20399323829",
-      "marketplace": "shopee",
-      "id": "20399323829",
-      "title": "Creatina Monohidratado Pura 600g Dark Lab - 100% Pura",
-      "title_norm": "creatina monohidratado pura 600g dark lab 100 pura",
-      "url": "https://shopee.com.br/product/1242044379/20399323829",
-      "affiliate_url": "https://s.shopee.com.br/2BFCpLr2GA",
-      "category": "Dark Lab Oficial",
-      "bucket": "dark_lab_oficial",
-      "posted_ts": 1790619486,
-      "posted_at": "2026-09-28T18:18:06.514196+00:00",
-      "score": 127.59
-    },
-    {
-      "key": "shopee:21798597083",
-      "marketplace": "shopee",
-      "id": "21798597083",
-      "title": "Patinete infantil 3 rodas com led ajustável scooter dobrável menino menina",
-      "title_norm": "patinete infantil 3 rodas com led ajustavel scooter dobravel menino menina",
-      "url": "https://shopee.com.br/product/325008325/21798597083",
-      "affiliate_url": "https://s.shopee.com.br/7faAF1fIhc",
-      "category": "Na Web Group De Marcas",
-      "bucket": "na_web_group_de_marcas",
-      "posted_ts": 1790619418,
-      "posted_at": "2026-09-28T18:16:58.441944+00:00",
-      "score": 133.02
     }
   ],
-  "updated_at": "2026-10-07T13:21:15.736580+00:00"
+  "updated_at": "2026-10-07T14:04:32.513217+00:00"
 }
