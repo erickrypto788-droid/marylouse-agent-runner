@@ -1,6 +1,34 @@
 {
   "posts": [
     {
+      "key": "shopee:58257368830",
+      "marketplace": "shopee",
+      "id": "58257368830",
+      "title": "MochilaMasculino E Feminino Bolsa Viagem Resistente A Água Notebook Escolar Executiva Trabalho Faculdade",
+      "title_norm": "mochilamasculino e feminino bolsa viagem resistente a agua notebook escolar executiva trabalho faculdade",
+      "url": "https://shopee.com.br/product/1658947107/58257368830",
+      "affiliate_url": "https://s.shopee.com.br/AUuadVccrk",
+      "category": "RON CHANG",
+      "bucket": "informatica",
+      "posted_ts": 1791368327,
+      "posted_at": "2026-10-07T10:18:47.534922+00:00",
+      "score": 115.67
+    },
+    {
+      "key": "shopee:23893335036",
+      "marketplace": "shopee",
+      "id": "23893335036",
+      "title": "JAMI JAMI Bolsa Mochila Feminina Grande De Ombro Com Alça Transversal De Couro PU TM9034",
+      "title_norm": "jami jami bolsa mochila feminina grande de ombro com alca transversal de couro pu tm9034",
+      "url": "https://shopee.com.br/product/452872883/23893335036",
+      "affiliate_url": "https://s.shopee.com.br/2qV86pj4eL",
+      "category": "Jami Ling",
+      "bucket": "bolsas",
+      "posted_ts": 1791368263,
+      "posted_at": "2026-10-07T10:17:43.346677+00:00",
+      "score": 117.33
+    },
+    {
       "key": "mercadolivre:MLB4799696639",
       "marketplace": "mercadolivre",
       "id": "MLB4799696639",
@@ -13971,35 +13999,7 @@
       "posted_ts": 1790612220,
       "posted_at": "2026-09-28T16:17:00.209235+00:00",
       "score": 160.52
-    },
-    {
-      "key": "mercadolivre:MLB6194259162",
-      "marketplace": "mercadolivre",
-      "id": "MLB6194259162",
-      "title": "Cadeira Gamer Profissional Ergonômica Giratória Vermelha para Escritório",
-      "title_norm": "cadeira gamer profissional ergonomica giratoria vermelha para escritorio",
-      "url": "https://www.mercadolivre.com.br/p/MLB26008929?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB26008929?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "category": "Casa e Cozinha",
-      "bucket": "casa_e_cozinha",
-      "posted_ts": 1790611447,
-      "posted_at": "2026-09-28T16:04:07.100509+00:00",
-      "score": 86.0
-    },
-    {
-      "key": "shopee:21897737849",
-      "marketplace": "shopee",
-      "id": "21897737849",
-      "title": "Micro-ondas Philco 25L Função Tira Odor PM27",
-      "title_norm": "micro ondas philco 25l funcao tira odor pm27",
-      "url": "https://shopee.com.br/product/811034337/21897737849",
-      "affiliate_url": "https://s.shopee.com.br/2LYet1rVg0",
-      "category": "Philco Oficial",
-      "bucket": "philco_oficial",
-      "posted_ts": 1790608868,
-      "posted_at": "2026-09-28T15:21:08.614279+00:00",
-      "score": 52.51
     }
   ],
-  "updated_at": "2026-10-07T10:03:19.400354+00:00"
+  "updated_at": "2026-10-07T10:18:47.534941+00:00"
 }
