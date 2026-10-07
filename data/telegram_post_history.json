@@ -1,6 +1,48 @@
 {
   "posts": [
     {
+      "key": "shopee:58252788027",
+      "marketplace": "shopee",
+      "id": "58252788027",
+      "title": "Mochila Escolar Reforçada Notebook Impermeável Cabo De Aço",
+      "title_norm": "mochila escolar reforcada notebook impermeavel cabo de aco",
+      "url": "https://shopee.com.br/product/874311878/58252788027",
+      "affiliate_url": "https://s.shopee.com.br/9KidJQOw3c",
+      "category": "RIZENT",
+      "bucket": "informatica",
+      "posted_ts": 1791371937,
+      "posted_at": "2026-10-07T11:18:57.816426+00:00",
+      "score": 101.5
+    },
+    {
+      "key": "shopee:58250519029",
+      "marketplace": "shopee",
+      "id": "58250519029",
+      "title": "Carteira Curta Masculina Com Padrão De Pedra-Bolso Para Moedas Zíper Vários Cartões E Bordas Costuradas--BT",
+      "title_norm": "carteira curta masculina com padrao de pedra bolso para moedas ziper varios cartoes e bordas costuradas bt",
+      "url": "https://shopee.com.br/product/1314013169/58250519029",
+      "affiliate_url": "https://s.shopee.com.br/70KiX8c9Kd",
+      "category": "Better Life",
+      "bucket": "better_life",
+      "posted_ts": 1791371873,
+      "posted_at": "2026-10-07T11:17:53.890161+00:00",
+      "score": 109.01
+    },
+    {
+      "key": "shopee:18350470458",
+      "marketplace": "shopee",
+      "id": "18350470458",
+      "title": "Mochila Bolsa Reforçada Notebook Resistente Trabalho Faculdade Coreana",
+      "title_norm": "mochila bolsa reforcada notebook resistente trabalho faculdade coreana",
+      "url": "https://shopee.com.br/product/752743341/18350470458",
+      "affiliate_url": "https://s.shopee.com.br/7Ae8jROFPG",
+      "category": "Fenix Abdon",
+      "bucket": "informatica",
+      "posted_ts": 1791371809,
+      "posted_at": "2026-10-07T11:16:49.963077+00:00",
+      "score": 120.9
+    },
+    {
       "key": "mercadolivre:MLB5355035490",
       "marketplace": "mercadolivre",
       "id": "MLB5355035490",
@@ -13957,49 +13999,7 @@
       "posted_ts": 1790612477,
       "posted_at": "2026-09-28T16:21:17.603003+00:00",
       "score": 51.02
-    },
-    {
-      "key": "shopee:25293647491",
-      "marketplace": "shopee",
-      "id": "25293647491",
-      "title": "Celimax The Vita A Retinal Shot Tightening Booster 15ml",
-      "title_norm": "celimax the vita a retinal shot tightening booster 15ml",
-      "url": "https://shopee.com.br/product/457864097/25293647491",
-      "affiliate_url": "https://s.shopee.com.br/2Vs3p2pIIe",
-      "category": "koksara.kbeauty",
-      "bucket": "koksara_kbeauty",
-      "posted_ts": 1790612413,
-      "posted_at": "2026-09-28T16:20:13.220861+00:00",
-      "score": 105.25
-    },
-    {
-      "key": "shopee:23098851500",
-      "marketplace": "shopee",
-      "id": "23098851500",
-      "title": "Kit Body Splash Dolce + Florata Red 200ml Feminino.",
-      "title_norm": "kit body splash dolce florata red 200ml feminino",
-      "url": "https://shopee.com.br/product/1617566398/23098851500",
-      "affiliate_url": "https://s.shopee.com.br/30oKPxVvda",
-      "category": "Ambar.cosmeticos",
-      "bucket": "ambar_cosmeticos",
-      "posted_ts": 1790612348,
-      "posted_at": "2026-09-28T16:19:08.862090+00:00",
-      "score": 117.02
-    },
-    {
-      "key": "shopee:22798465103",
-      "marketplace": "shopee",
-      "id": "22798465103",
-      "title": "Perfume Attracione Feminino by Attracione Woman Mulher",
-      "title_norm": "perfume attracione feminino by attracione woman mulher",
-      "url": "https://shopee.com.br/product/1266325318/22798465103",
-      "affiliate_url": "https://s.shopee.com.br/4qFybKOwv7",
-      "category": "Attracione Men & Attracione",
-      "bucket": "beleza",
-      "posted_ts": 1790612284,
-      "posted_at": "2026-09-28T16:18:04.538780+00:00",
-      "score": 152.47
     }
   ],
-  "updated_at": "2026-10-07T11:04:42.550458+00:00"
+  "updated_at": "2026-10-07T11:18:57.816445+00:00"
 }
