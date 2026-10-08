@@ -1,6 +1,48 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB6442123488",
+      "marketplace": "mercadolivre",
+      "id": "MLB6442123488",
+      "title": "Hidratante Corporal Relaxante",
+      "title_norm": "hidratante corporal relaxante",
+      "url": "https://www.mercadolivre.com.br/p/MLB65794107?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB65794107?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Beleza",
+      "bucket": "beleza",
+      "posted_ts": 1791490204,
+      "posted_at": "2026-10-08T20:10:04.392591+00:00",
+      "score": 78.87
+    },
+    {
+      "key": "mercadolivre:MLB5210422937",
+      "marketplace": "mercadolivre",
+      "id": "MLB5210422937",
+      "title": "Papel Toalha Interfolhas Folha Dupla Luxo Premium 2000 Folha",
+      "title_norm": "papel toalha interfolhas folha dupla luxo premium 2000 folha",
+      "url": "https://www.mercadolivre.com.br/p/MLB67465833?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB67465833?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Supermercados",
+      "bucket": "supermercados",
+      "posted_ts": 1791490136,
+      "posted_at": "2026-10-08T20:08:56.963944+00:00",
+      "score": 89.0
+    },
+    {
+      "key": "mercadolivre:MLB4958928190",
+      "marketplace": "mercadolivre",
+      "id": "MLB4958928190",
+      "title": "Papel Higiênico Supra Folha Dupla 24 Rolos",
+      "title_norm": "papel higienico supra folha dupla 24 rolos",
+      "url": "https://www.mercadolivre.com.br/p/MLB38659676?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB38659676?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Supermercados",
+      "bucket": "supermercado",
+      "posted_ts": 1791490046,
+      "posted_at": "2026-10-08T20:07:26.786361+00:00",
+      "score": 119.94
+    },
+    {
       "key": "shopee:22997581085",
       "marketplace": "shopee",
       "id": "22997581085",
@@ -13957,49 +13999,7 @@
       "posted_ts": 1790709644,
       "posted_at": "2026-09-29T19:20:44.217612+00:00",
       "score": 96.93
-    },
-    {
-      "key": "shopee:20798150432",
-      "marketplace": "shopee",
-      "id": "20798150432",
-      "title": "ANA1108 Kit 10 mini pincéis para Maquiagem com estojo bolsa para viagem",
-      "title_norm": "ana1108 kit 10 mini pinceis para maquiagem com estojo bolsa para viagem",
-      "url": "https://shopee.com.br/product/418205294/20798150432",
-      "affiliate_url": "https://s.shopee.com.br/3qNUXCH6b2",
-      "category": "ANA 1108",
-      "bucket": "beleza",
-      "posted_ts": 1790709574,
-      "posted_at": "2026-09-29T19:19:34.236761+00:00",
-      "score": 99.34
-    },
-    {
-      "key": "shopee:23099236697",
-      "marketplace": "shopee",
-      "id": "23099236697",
-      "title": "A6S Fone Sem Fio Bluetooth Intra Auricular com Microfone e Estojo Portátil",
-      "title_norm": "a6s fone sem fio bluetooth intra auricular com microfone e estojo portatil",
-      "url": "https://shopee.com.br/product/1615578976/23099236697",
-      "affiliate_url": "https://s.shopee.com.br/4qG1j2DIZ8",
-      "category": "AcheiBarato.com",
-      "bucket": "acheibarato_com",
-      "posted_ts": 1790709450,
-      "posted_at": "2026-09-29T19:17:30.171040+00:00",
-      "score": 102.27
-    },
-    {
-      "key": "shopee:58252788027",
-      "marketplace": "shopee",
-      "id": "58252788027",
-      "title": "Mochila Escolar Reforçada Notebook Impermeável Cabo De Aço",
-      "title_norm": "mochila escolar reforcada notebook impermeavel cabo de aco",
-      "url": "https://shopee.com.br/product/874311878/58252788027",
-      "affiliate_url": "https://s.shopee.com.br/qjstYqk2z",
-      "category": "RIZENT",
-      "bucket": "informatica",
-      "posted_ts": 1790705972,
-      "posted_at": "2026-09-29T18:19:32.094114+00:00",
-      "score": 100.47
     }
   ],
-  "updated_at": "2026-10-08T19:21:30.660492+00:00"
+  "updated_at": "2026-10-08T20:10:04.392605+00:00"
 }
