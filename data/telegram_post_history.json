@@ -1,6 +1,62 @@
 {
   "posts": [
     {
+      "key": "shopee:27791019433",
+      "marketplace": "shopee",
+      "id": "27791019433",
+      "title": "Adaptadores Tomada Universal Para Viagem Internacional Compatível Em +150 Países",
+      "title_norm": "adaptadores tomada universal para viagem internacional compativel em 150 paises",
+      "url": "https://shopee.com.br/product/331720585/27791019433",
+      "affiliate_url": "https://s.shopee.com.br/1gJEB5GpxM",
+      "category": "19BR SHOP",
+      "bucket": "19br_shop",
+      "posted_ts": 1791480132,
+      "posted_at": "2026-10-08T17:22:12.504189+00:00",
+      "score": 77.75
+    },
+    {
+      "key": "shopee:58205140425",
+      "marketplace": "shopee",
+      "id": "58205140425",
+      "title": "Película De Privacidade 3D Vidro Temperado Anti-Spy  Compatível Samsung A07 A17 A37 A57",
+      "title_norm": "pelicula de privacidade 3d vidro temperado anti spy compativel samsung a07 a17 a37 a57",
+      "url": "https://shopee.com.br/product/1240425443/58205140425",
+      "affiliate_url": "https://s.shopee.com.br/3B81xq2Bni",
+      "category": "TopToki",
+      "bucket": "toptoki",
+      "posted_ts": 1791480068,
+      "posted_at": "2026-10-08T17:21:08.479717+00:00",
+      "score": 81.3
+    },
+    {
+      "key": "shopee:22494048108",
+      "marketplace": "shopee",
+      "id": "22494048108",
+      "title": "Power Bank Mini Sem Fio 2em1 - 5000mAh, Bateria Portátil para iPhone e Celulares com USB-C",
+      "title_norm": "power bank mini sem fio 2em1 5000mah bateria portatil para iphone e celulares com usb c",
+      "url": "https://shopee.com.br/product/1229047031/22494048108",
+      "affiliate_url": "https://s.shopee.com.br/1Vznym4GwV",
+      "category": "UNIBOM.STORE",
+      "bucket": "celulares",
+      "posted_ts": 1791480004,
+      "posted_at": "2026-10-08T17:20:04.441261+00:00",
+      "score": 115.77
+    },
+    {
+      "key": "shopee:23995144850",
+      "marketplace": "shopee",
+      "id": "23995144850",
+      "title": "Mini Power Bank Carregador 10000mAh para iPhone eTouch-C 2 em 1",
+      "title_norm": "mini power bank carregador 10000mah para iphone etouch c 2 em 1",
+      "url": "https://shopee.com.br/product/406722479/23995144850",
+      "affiliate_url": "https://s.shopee.com.br/W7GmwGjyt",
+      "category": "Gordo Loja",
+      "bucket": "celulares",
+      "posted_ts": 1791479936,
+      "posted_at": "2026-10-08T17:18:56.907675+00:00",
+      "score": 136.99
+    },
+    {
       "key": "shopee:58253347883",
       "marketplace": "shopee",
       "id": "58253347883",
@@ -13943,63 +13999,7 @@
       "posted_ts": 1790698680,
       "posted_at": "2026-09-29T16:18:00.246914+00:00",
       "score": 96.83
-    },
-    {
-      "key": "shopee:17882461983",
-      "marketplace": "shopee",
-      "id": "17882461983",
-      "title": "Trocador Plastificado Impermeável Anatômico Americano de Cômoda Para Troca de Fraldas",
-      "title_norm": "trocador plastificado impermeavel anatomico americano de comoda para troca de fraldas",
-      "url": "https://shopee.com.br/product/816564186/17882461983",
-      "affiliate_url": "https://s.shopee.com.br/40gtGodXlv",
-      "category": "Mainha Baby",
-      "bucket": "fraldas",
-      "posted_ts": 1790698616,
-      "posted_at": "2026-09-29T16:16:56.042537+00:00",
-      "score": 136.92
-    },
-    {
-      "key": "shopee:29642919085",
-      "marketplace": "shopee",
-      "id": "29642919085",
-      "title": "Balança Digital 180kg Vidro Temperado Automática Controle de Peso Corporal",
-      "title_norm": "balanca digital 180kg vidro temperado automatica controle de peso corporal",
-      "url": "https://shopee.com.br/product/907619591/29642919085",
-      "affiliate_url": "https://s.shopee.com.br/905aQAstrh",
-      "category": "VCOMMERCE_",
-      "bucket": "vcommerce",
-      "posted_ts": 1790695277,
-      "posted_at": "2026-09-29T15:21:17.169595+00:00",
-      "score": 91.97
-    },
-    {
-      "key": "shopee:41503878761",
-      "marketplace": "shopee",
-      "id": "41503878761",
-      "title": "Medidor Glicose Diabete Gtech Vita / Ultra Kit Com 1 Aparelho 1 Caneta 10 Tiras 10 Lancetas Completo",
-      "title_norm": "medidor glicose diabete gtech vita ultra kit com 1 aparelho 1 caneta 10 tiras 10 lancetas completo",
-      "url": "https://shopee.com.br/product/961638733/41503878761",
-      "affiliate_url": "https://s.shopee.com.br/6fhfdt6O6Z",
-      "category": "ROMALIZ",
-      "bucket": "romaliz",
-      "posted_ts": 1790695213,
-      "posted_at": "2026-09-29T15:20:13.160746+00:00",
-      "score": 97.09
-    },
-    {
-      "key": "shopee:23693177961",
-      "marketplace": "shopee",
-      "id": "23693177961",
-      "title": "Aparelho Medidor De Glicose G-tech Vita Kit 10tiras+10lancet",
-      "title_norm": "aparelho medidor de glicose g tech vita kit 10tiras 10lancet",
-      "url": "https://shopee.com.br/product/1251321262/23693177961",
-      "affiliate_url": "https://s.shopee.com.br/6q15qC5kla",
-      "category": "Multimix Saúde Online",
-      "bucket": "multimix_saude_online",
-      "posted_ts": 1790695149,
-      "posted_at": "2026-09-29T15:19:09.187607+00:00",
-      "score": 101.83
     }
   ],
-  "updated_at": "2026-10-08T16:18:29.931266+00:00"
+  "updated_at": "2026-10-08T17:22:12.504207+00:00"
 }
