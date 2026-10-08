@@ -1,6 +1,20 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB5175310031",
+      "marketplace": "mercadolivre",
+      "id": "MLB5175310031",
+      "title": "Jogo Panelas Vermelho Alumínio Fundido Usinado Javaliam16a24",
+      "title_norm": "jogo panelas vermelho aluminio fundido usinado javaliam16a24",
+      "url": "https://www.mercadolivre.com.br/p/MLB32583536?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB32583536?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Casa e Cozinha",
+      "bucket": "casa_cozinha",
+      "posted_ts": 1791435807,
+      "posted_at": "2026-10-08T05:03:27.221269+00:00",
+      "score": 111.0
+    },
+    {
       "key": "shopee:18199606563",
       "marketplace": "shopee",
       "id": "18199606563",
@@ -13985,21 +13999,7 @@
       "posted_ts": 1790662603,
       "posted_at": "2026-09-29T06:16:43.672688+00:00",
       "score": 106.44
-    },
-    {
-      "key": "mercadolivre:MLB6555948878",
-      "marketplace": "mercadolivre",
-      "id": "MLB6555948878",
-      "title": "Ração Gato Castrado Frango +12 Anos 500g Premier",
-      "title_norm": "racao gato castrado frango 12 anos 500g premier",
-      "url": "https://www.mercadolivre.com.br/p/MLB22588098?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB22588098?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "category": "Pet",
-      "bucket": "pet",
-      "posted_ts": 1790661807,
-      "posted_at": "2026-09-29T06:03:27.160560+00:00",
-      "score": 129.0
     }
   ],
-  "updated_at": "2026-10-08T04:21:11.675830+00:00"
+  "updated_at": "2026-10-08T05:03:27.221282+00:00"
 }

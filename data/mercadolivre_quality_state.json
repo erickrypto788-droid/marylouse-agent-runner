@@ -1,6 +1,21 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB5175310031",
+      "product_id": "MLB5175310031",
+      "catalog_product_id": "MLB32583536",
+      "item_id": "MLB5175310031",
+      "url": "https://www.mercadolivre.com.br/p/MLB32583536?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB32583536?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "jogo panelas vermelho aluminio fundido usinado javaliam16a24",
+      "title": "Jogo Panelas Vermelho Alumínio Fundido Usinado Javaliam16a24",
+      "category": "Casa e Cozinha",
+      "price": 519.0,
+      "score": 111.0,
+      "posted_ts": 1791435807,
+      "posted_at": "2026-10-08T05:03:27.235265+00:00"
+    },
+    {
       "key": "mercadolivre:MLB7209542710",
       "product_id": "MLB7209542710",
       "catalog_product_id": "MLB69276346",
@@ -674,22 +689,7 @@
       "score": 166.77,
       "posted_ts": 1791266562,
       "posted_at": "2026-10-06T06:02:42.640607+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB5338677257",
-      "product_id": "MLB5338677257",
-      "catalog_product_id": "MLB74509688",
-      "item_id": "MLB5338677257",
-      "url": "https://www.mercadolivre.com.br/p/MLB74509688?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB74509688?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "perfume masculino dolce gabbana devotion for men perfume masculino 101 ml",
-      "title": "Perfume masculino Dolce & Gabbana Devotion For Men Perfume Masculino 101 ml",
-      "category": "Beleza",
-      "price": 875.0,
-      "score": 111.0,
-      "posted_ts": 1791259424,
-      "posted_at": "2026-10-06T04:03:44.484276+00:00"
     }
   ],
-  "updated_at": "2026-10-08T04:03:33.715892+00:00"
+  "updated_at": "2026-10-08T05:03:27.235274+00:00"
 }
