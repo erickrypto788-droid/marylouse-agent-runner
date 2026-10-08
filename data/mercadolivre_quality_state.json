@@ -1,6 +1,51 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB6884302164",
+      "product_id": "MLB6884302164",
+      "catalog_product_id": "MLB70627275",
+      "item_id": "MLB6884302164",
+      "url": "https://www.mercadolivre.com.br/p/MLB70627275?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB70627275?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "rack yescasa rack para tv ate 70 jatoba terroso de mdp",
+      "title": "Rack Yescasa Rack para TV até 70\" jatoba terroso de mdp",
+      "category": "Casa e Cozinha",
+      "price": 855.87,
+      "score": 82.57,
+      "posted_ts": 1791497152,
+      "posted_at": "2026-10-08T22:05:52.860305+00:00"
+    },
+    {
+      "key": "mercadolivre:MLB4098790465",
+      "product_id": "MLB4098790465",
+      "catalog_product_id": "MLB50984468",
+      "item_id": "MLB4098790465",
+      "url": "https://www.mercadolivre.com.br/p/MLB50984468?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB50984468?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "jogo panelas 5 pecas tradicional preto nacional",
+      "title": "Jogo Panelas 5 Peças Tradicional Preto Nacional",
+      "category": "Casa e Cozinha",
+      "price": 179.9,
+      "score": 109.86,
+      "posted_ts": 1791497088,
+      "posted_at": "2026-10-08T22:04:48.884426+00:00"
+    },
+    {
+      "key": "mercadolivre:MLB5195207435",
+      "product_id": "MLB5195207435",
+      "catalog_product_id": "MLB28353455",
+      "item_id": "MLB5195207435",
+      "url": "https://www.mercadolivre.com.br/p/MLB28353455?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB28353455?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "miniatura aspirador po infantil bw165",
+      "title": "Miniatura Aspirador Pó Infantil Bw165",
+      "category": "Casa e Cozinha",
+      "price": 70.54,
+      "score": 113.0,
+      "posted_ts": 1791497020,
+      "posted_at": "2026-10-08T22:03:40.380902+00:00"
+    },
+    {
       "key": "mercadolivre:MLB5761828894",
       "product_id": "MLB5761828894",
       "catalog_product_id": "MLB54669799",
@@ -524,22 +569,7 @@
       "score": 133.63,
       "posted_ts": 1791327767,
       "posted_at": "2026-10-06T23:02:47.581967+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB4712198025",
-      "product_id": "MLB4712198025",
-      "catalog_product_id": "MLB54083722",
-      "item_id": "MLB4712198025",
-      "url": "https://www.mercadolivre.com.br/p/MLB54083722?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB54083722?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "fritadeira air fryer mondial oven digital 127v",
-      "title": "Fritadeira Air Fryer Mondial Oven Digital 127v",
-      "category": "Casa e Cozinha",
-      "price": 949.0,
-      "score": 168.81,
-      "posted_ts": 1791324146,
-      "posted_at": "2026-10-06T22:02:26.664363+00:00"
     }
   ],
-  "updated_at": "2026-10-08T21:03:20.521026+00:00"
+  "updated_at": "2026-10-08T22:05:52.860318+00:00"
 }

@@ -1,6 +1,48 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB6884302164",
+      "marketplace": "mercadolivre",
+      "id": "MLB6884302164",
+      "title": "Rack Yescasa Rack para TV até 70\" jatoba terroso de mdp",
+      "title_norm": "rack yescasa rack para tv ate 70 jatoba terroso de mdp",
+      "url": "https://www.mercadolivre.com.br/p/MLB70627275?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB70627275?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Casa e Cozinha",
+      "bucket": "casa_e_cozinha",
+      "posted_ts": 1791497152,
+      "posted_at": "2026-10-08T22:05:52.848239+00:00",
+      "score": 82.57
+    },
+    {
+      "key": "mercadolivre:MLB4098790465",
+      "marketplace": "mercadolivre",
+      "id": "MLB4098790465",
+      "title": "Jogo Panelas 5 Peças Tradicional Preto Nacional",
+      "title_norm": "jogo panelas 5 pecas tradicional preto nacional",
+      "url": "https://www.mercadolivre.com.br/p/MLB50984468?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB50984468?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Casa e Cozinha",
+      "bucket": "casa_cozinha",
+      "posted_ts": 1791497088,
+      "posted_at": "2026-10-08T22:04:48.871996+00:00",
+      "score": 109.86
+    },
+    {
+      "key": "mercadolivre:MLB5195207435",
+      "marketplace": "mercadolivre",
+      "id": "MLB5195207435",
+      "title": "Miniatura Aspirador Pó Infantil Bw165",
+      "title_norm": "miniatura aspirador po infantil bw165",
+      "url": "https://www.mercadolivre.com.br/p/MLB28353455?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB28353455?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Casa e Cozinha",
+      "bucket": "casa_cozinha",
+      "posted_ts": 1791497020,
+      "posted_at": "2026-10-08T22:03:40.368126+00:00",
+      "score": 113.0
+    },
+    {
       "key": "shopee:22794534319",
       "marketplace": "shopee",
       "id": "22794534319",
@@ -13957,49 +13999,7 @@
       "posted_ts": 1790716877,
       "posted_at": "2026-09-29T21:21:17.170319+00:00",
       "score": 93.26
-    },
-    {
-      "key": "shopee:57310981122",
-      "marketplace": "shopee",
-      "id": "57310981122",
-      "title": "Kit 4 Potes Herméticos 2L Com Copo Medidor Organizador Mantimentos Arroz Feijão Sabão Em Pó Amaciante Produtos Limpeza",
-      "title_norm": "kit 4 potes hermeticos 2l com copo medidor organizador mantimentos arroz feijao sabao em po amaciante produtos limpeza",
-      "url": "https://shopee.com.br/product/1327572074/57310981122",
-      "affiliate_url": "https://s.shopee.com.br/50ZQnFczfC",
-      "category": "shopmultiprime",
-      "bucket": "supermercado",
-      "posted_ts": 1790716812,
-      "posted_at": "2026-09-29T21:20:12.955959+00:00",
-      "score": 100.28
-    },
-    {
-      "key": "shopee:16271693872",
-      "marketplace": "shopee",
-      "id": "16271693872",
-      "title": "Beauty Of Joseon relief sun rice probiotics / niacinamide  sun cream protetor solar SPF50+ PA++10ml,50ml,50ml 1+1",
-      "title_norm": "beauty of joseon relief sun rice probiotics niacinamide sun cream protetor solar spf50 pa 10ml 50ml 50ml 1 1",
-      "url": "https://shopee.com.br/product/457864097/16271693872",
-      "affiliate_url": "https://s.shopee.com.br/1gIyp7pc8S",
-      "category": "koksara.kbeauty",
-      "bucket": "koksara_kbeauty",
-      "posted_ts": 1790716748,
-      "posted_at": "2026-09-29T21:19:08.925893+00:00",
-      "score": 109.48
-    },
-    {
-      "key": "shopee:58210178989",
-      "marketplace": "shopee",
-      "id": "58210178989",
-      "title": "TRUFAS DE CHOCOLATE POTE 510G -KITRUFA KIKAKAU 30UNIDADES.",
-      "title_norm": "trufas de chocolate pote 510g kitrufa kikakau 30unidades",
-      "url": "https://shopee.com.br/product/427327813/58210178989",
-      "affiliate_url": "https://s.shopee.com.br/LnbEfm63k",
-      "category": "ShoppCaio Comércio  Varejista",
-      "bucket": "shoppcaio_comercio_varejista",
-      "posted_ts": 1790716684,
-      "posted_at": "2026-09-29T21:18:04.816140+00:00",
-      "score": 110.51
     }
   ],
-  "updated_at": "2026-10-08T21:21:17.154058+00:00"
+  "updated_at": "2026-10-08T22:05:52.848253+00:00"
 }
