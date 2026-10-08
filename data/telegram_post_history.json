@@ -1,6 +1,48 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB5209357839",
+      "marketplace": "mercadolivre",
+      "id": "MLB5209357839",
+      "title": "Impressora térmica Impressora de recibos Mini impressora Bluetooth Impressora térmica portátil ARCASHOPPING mini impressora térmica Impressora de recibos Bluetooth Mini impressora térmica portátil",
+      "title_norm": "impressora termica impressora de recibos mini impressora bluetooth impressora termica portatil arcashopping mini impressora termica impressora de recibos bluetooth mini impressora termica portatil",
+      "url": "https://www.mercadolivre.com.br/p/MLB76143330?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB76143330?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Informática",
+      "bucket": "informatica",
+      "posted_ts": 1791457532,
+      "posted_at": "2026-10-08T11:05:32.222554+00:00",
+      "score": 88.0
+    },
+    {
+      "key": "mercadolivre:MLB5109540257",
+      "marketplace": "mercadolivre",
+      "id": "MLB5109540257",
+      "title": "SSD 1TB NVMe M.2 2280 Preto Pcyes",
+      "title_norm": "ssd 1tb nvme m 2 2280 preto pcyes",
+      "url": "https://www.mercadolivre.com.br/p/MLB46166592?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB46166592?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Informática",
+      "bucket": "informatica",
+      "posted_ts": 1791457468,
+      "posted_at": "2026-10-08T11:04:28.227830+00:00",
+      "score": 111.0
+    },
+    {
+      "key": "mercadolivre:MLB5940055730",
+      "marketplace": "mercadolivre",
+      "id": "MLB5940055730",
+      "title": "Mesa Para Computador Notebook Gamer Me4153 Preto/Vermelho",
+      "title_norm": "mesa para computador notebook gamer me4153 preto vermelho",
+      "url": "https://www.mercadolivre.com.br/p/MLB62207694?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB62207694?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Informática",
+      "bucket": "informatica",
+      "posted_ts": 1791457403,
+      "posted_at": "2026-10-08T11:03:23.393107+00:00",
+      "score": 127.67
+    },
+    {
       "key": "shopee:22591803318",
       "marketplace": "shopee",
       "id": "22591803318",
@@ -13957,49 +13999,7 @@
       "posted_ts": 1790684292,
       "posted_at": "2026-09-29T12:18:12.784977+00:00",
       "score": 111.91
-    },
-    {
-      "key": "shopee:22393665567",
-      "marketplace": "shopee",
-      "id": "22393665567",
-      "title": "Tênis Branco Infantil Leve Macio Confortável Original Envio Imediato",
-      "title_norm": "tenis branco infantil leve macio confortavel original envio imediato",
-      "url": "https://shopee.com.br/product/303419140/22393665567",
-      "affiliate_url": "https://s.shopee.com.br/6VOFFDhrUV",
-      "category": "Momy Calçados ✅",
-      "bucket": "calcados",
-      "posted_ts": 1790684220,
-      "posted_at": "2026-09-29T12:17:00.775845+00:00",
-      "score": 112.22
-    },
-    {
-      "key": "mercadolivre:MLB5773064424",
-      "marketplace": "mercadolivre",
-      "id": "MLB5773064424",
-      "title": "Elgin Air Fryer Fritadeira Air Fryer",
-      "title_norm": "elgin air fryer fritadeira air fryer",
-      "url": "https://www.mercadolivre.com.br/p/MLB50493068?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB50493068?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "category": "Casa e Cozinha",
-      "bucket": "casa_cozinha",
-      "posted_ts": 1790683497,
-      "posted_at": "2026-09-29T12:04:57.824751+00:00",
-      "score": 129.0
-    },
-    {
-      "key": "mercadolivre:MLB6218013518",
-      "marketplace": "mercadolivre",
-      "id": "MLB6218013518",
-      "title": "Jogo Panelas Tramontina Coimbra 5pçs Preto Antiaderente",
-      "title_norm": "jogo panelas tramontina coimbra 5pcs preto antiaderente",
-      "url": "https://www.mercadolivre.com.br/p/MLB39387638?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB39387638?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "category": "Casa e Cozinha",
-      "bucket": "casa_cozinha",
-      "posted_ts": 1790683433,
-      "posted_at": "2026-09-29T12:03:53.536912+00:00",
-      "score": 129.0
     }
   ],
-  "updated_at": "2026-10-08T10:21:47.456923+00:00"
+  "updated_at": "2026-10-08T11:05:32.222569+00:00"
 }

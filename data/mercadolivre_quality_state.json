@@ -1,6 +1,51 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB5209357839",
+      "product_id": "MLB5209357839",
+      "catalog_product_id": "MLB76143330",
+      "item_id": "MLB5209357839",
+      "url": "https://www.mercadolivre.com.br/p/MLB76143330?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB76143330?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "impressora termica impressora de recibos mini impressora bluetooth impressora termica portatil arcashopping mini impressora termica impressora de recibos bluetooth mini impressora termica portatil",
+      "title": "Impressora térmica Impressora de recibos Mini impressora Bluetooth Impressora térmica portátil ARCASHOPPING mini impressora térmica Impressora de recibos Bluetooth Mini impressora térmica portátil",
+      "category": "Informática",
+      "price": 300.0,
+      "score": 88.0,
+      "posted_ts": 1791457532,
+      "posted_at": "2026-10-08T11:05:32.236480+00:00"
+    },
+    {
+      "key": "mercadolivre:MLB5109540257",
+      "product_id": "MLB5109540257",
+      "catalog_product_id": "MLB46166592",
+      "item_id": "MLB5109540257",
+      "url": "https://www.mercadolivre.com.br/p/MLB46166592?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB46166592?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "ssd 1tb nvme m 2 2280 preto pcyes",
+      "title": "SSD 1TB NVMe M.2 2280 Preto Pcyes",
+      "category": "Informática",
+      "price": 1279.0,
+      "score": 111.0,
+      "posted_ts": 1791457468,
+      "posted_at": "2026-10-08T11:04:28.241641+00:00"
+    },
+    {
+      "key": "mercadolivre:MLB5940055730",
+      "product_id": "MLB5940055730",
+      "catalog_product_id": "MLB62207694",
+      "item_id": "MLB5940055730",
+      "url": "https://www.mercadolivre.com.br/p/MLB62207694?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB62207694?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "mesa para computador notebook gamer me4153 preto vermelho",
+      "title": "Mesa Para Computador Notebook Gamer Me4153 Preto/Vermelho",
+      "category": "Informática",
+      "price": 435.88,
+      "score": 127.67,
+      "posted_ts": 1791457403,
+      "posted_at": "2026-10-08T11:03:23.407089+00:00"
+    },
+    {
       "key": "mercadolivre:MLB5227390237",
       "product_id": "MLB5227390237",
       "catalog_product_id": "MLB74370100",
@@ -614,37 +659,7 @@
       "score": 154.83,
       "posted_ts": 1791288169,
       "posted_at": "2026-10-06T12:02:49.554763+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB7420274710",
-      "product_id": "MLB7420274710",
-      "catalog_product_id": "MLB74419020",
-      "item_id": "MLB7420274710",
-      "url": "https://www.mercadolivre.com.br/p/MLB74419020?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB74419020?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "xiaomi redmi note 15",
-      "title": "Xiaomi Redmi Note 15",
-      "category": "Informática",
-      "price": 1699.0,
-      "score": 124.0,
-      "posted_ts": 1791277439,
-      "posted_at": "2026-10-06T09:03:59.974366+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB3900697873",
-      "product_id": "MLB3900697873",
-      "catalog_product_id": "MLB41629336",
-      "item_id": "MLB3900697873",
-      "url": "https://www.mercadolivre.com.br/p/MLB41629336?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB41629336?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "smartphone xiaomi redmi 13 cor azul marinho",
-      "title": "Smartphone Xiaomi Redmi 13 Cor Azul-marinho",
-      "category": "Informática",
-      "price": 1337.4,
-      "score": 127.0,
-      "posted_ts": 1791277364,
-      "posted_at": "2026-10-06T09:02:44.217824+00:00"
     }
   ],
-  "updated_at": "2026-10-08T08:04:29.933559+00:00"
+  "updated_at": "2026-10-08T11:05:32.236492+00:00"
 }
