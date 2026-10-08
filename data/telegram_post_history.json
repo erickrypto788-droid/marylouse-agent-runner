@@ -1,6 +1,20 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB7601679290",
+      "marketplace": "mercadolivre",
+      "id": "MLB7601679290",
+      "title": "Impressora Etiquetas Portátil Niimbot D11 + 1 Rolo Azul",
+      "title_norm": "impressora etiquetas portatil niimbot d11 1 rolo azul",
+      "url": "https://www.mercadolivre.com.br/p/MLB78736073?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB78736073?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Informática",
+      "bucket": "informatica",
+      "posted_ts": 1791482601,
+      "posted_at": "2026-10-08T18:03:21.030300+00:00",
+      "score": 155.08
+    },
+    {
       "key": "shopee:27791019433",
       "marketplace": "shopee",
       "id": "27791019433",
@@ -13985,21 +13999,7 @@
       "posted_ts": 1790698748,
       "posted_at": "2026-09-29T16:19:08.281713+00:00",
       "score": 90.27
-    },
-    {
-      "key": "shopee:22597636169",
-      "marketplace": "shopee",
-      "id": "22597636169",
-      "title": "Promo Pack 4 Lenços Umedecidos Free Wipes nº 2 – Higiene Completa (200 un.)",
-      "title_norm": "promo pack 4 lencos umedecidos free wipes n 2 higiene completa 200 un",
-      "url": "https://shopee.com.br/product/283442002/22597636169",
-      "affiliate_url": "https://s.shopee.com.br/5q8YiTPD1g",
-      "category": "FreeBrands",
-      "bucket": "freebrands",
-      "posted_ts": 1790698680,
-      "posted_at": "2026-09-29T16:18:00.246914+00:00",
-      "score": 96.83
     }
   ],
-  "updated_at": "2026-10-08T17:22:12.504207+00:00"
+  "updated_at": "2026-10-08T18:03:21.030314+00:00"
 }
