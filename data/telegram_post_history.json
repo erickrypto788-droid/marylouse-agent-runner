@@ -1,6 +1,62 @@
 {
   "posts": [
     {
+      "key": "shopee:23699130927",
+      "marketplace": "shopee",
+      "id": "23699130927",
+      "title": "Kit Bloco Adesivo 400 Folhas Canetas Coloridas Marca Texto Ponta Fina Material Escolar Adesivo Fofo",
+      "title_norm": "kit bloco adesivo 400 folhas canetas coloridas marca texto ponta fina material escolar adesivo fofo",
+      "url": "https://shopee.com.br/product/368541019/23699130927",
+      "affiliate_url": "https://s.shopee.com.br/5At5kJT4qg",
+      "category": "Gamernet",
+      "bucket": "gamernet",
+      "posted_ts": 1791447637,
+      "posted_at": "2026-10-08T08:20:37.271138+00:00",
+      "score": 46.85
+    },
+    {
+      "key": "shopee:22493510715",
+      "marketplace": "shopee",
+      "id": "22493510715",
+      "title": "Guilhotina Portátil Cortador De Papel A4 A3, 36.5cmx9.5cm Material Escritório",
+      "title_norm": "guilhotina portatil cortador de papel a4 a3 36 5cmx9 5cm material escritorio",
+      "url": "https://shopee.com.br/product/1391407427/22493510715",
+      "affiliate_url": "https://s.shopee.com.br/50ZfY0TiBf",
+      "category": "CORAN COMMERCE",
+      "bucket": "coran_commerce",
+      "posted_ts": 1791447567,
+      "posted_at": "2026-10-08T08:19:27.572000+00:00",
+      "score": 47.5
+    },
+    {
+      "key": "shopee:19059412759",
+      "marketplace": "shopee",
+      "id": "19059412759",
+      "title": "Cartão Cinza Horlle 1.9 mm (Papelão Holler 1,9mm) para Encadernação e Cartonagem A4 A5 A6 15,5x21,5 16x22 19x27 40x50",
+      "title_norm": "cartao cinza horlle 1 9 mm papelao holler 1 9mm para encadernacao e cartonagem a4 a5 a6 15 5x21 5 16x22 19x27 40x50",
+      "url": "https://shopee.com.br/product/344962067/19059412759",
+      "affiliate_url": "https://s.shopee.com.br/8fSxukOcZO",
+      "category": "Diplomata Papéis",
+      "bucket": "diplomata_papeis",
+      "posted_ts": 1791447500,
+      "posted_at": "2026-10-08T08:18:20.068215+00:00",
+      "score": 48.03
+    },
+    {
+      "key": "shopee:22293571956",
+      "marketplace": "shopee",
+      "id": "22293571956",
+      "title": "Mini Guarda-Chuva Cápsula 5 Dobrável Portátil FPS 50+ Sol e Chuva com Estojo Leve",
+      "title_norm": "mini guarda chuva capsula 5 dobravel portatil fps 50 sol e chuva com estojo leve",
+      "url": "https://shopee.com.br/product/1165417797/22293571956",
+      "affiliate_url": "https://s.shopee.com.br/6Alcw9KwLz",
+      "category": "KIKO SHOP",
+      "bucket": "kiko_shop",
+      "posted_ts": 1791447430,
+      "posted_at": "2026-10-08T08:17:10.603084+00:00",
+      "score": 112.61
+    },
+    {
       "key": "mercadolivre:MLB5227390237",
       "marketplace": "mercadolivre",
       "id": "MLB5227390237",
@@ -13943,63 +13999,7 @@
       "posted_ts": 1790677088,
       "posted_at": "2026-09-29T10:18:08.242091+00:00",
       "score": 91.35
-    },
-    {
-      "key": "shopee:8020679826",
-      "marketplace": "shopee",
-      "id": "8020679826",
-      "title": "Liquidificador Mondial L‑99 Turbo 550 W 3 Velocidades",
-      "title_norm": "liquidificador mondial l 99 turbo 550 w 3 velocidades",
-      "url": "https://shopee.com.br/product/359168917/8020679826",
-      "affiliate_url": "https://s.shopee.com.br/1VzZ9mj45q",
-      "category": "LOI BRASIL",
-      "bucket": "casa_cozinha",
-      "posted_ts": 1790677019,
-      "posted_at": "2026-09-29T10:16:59.798174+00:00",
-      "score": 125.18
-    },
-    {
-      "key": "mercadolivre:MLB5669950086",
-      "marketplace": "mercadolivre",
-      "id": "MLB5669950086",
-      "title": "Shampoo Infantil 250ml Buba Care",
-      "title_norm": "shampoo infantil 250ml buba care",
-      "url": "https://www.mercadolivre.com.br/p/MLB29412135?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB29412135?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "category": "Beleza",
-      "bucket": "beleza",
-      "posted_ts": 1790676519,
-      "posted_at": "2026-09-29T10:08:39.404169+00:00",
-      "score": 88.0
-    },
-    {
-      "key": "mercadolivre:MLB6302363224",
-      "marketplace": "mercadolivre",
-      "id": "MLB6302363224",
-      "title": "35 Escova Dental + 35 Porta Escova Dental + 35 Creme Dental Sortidas",
-      "title_norm": "35 escova dental 35 porta escova dental 35 creme dental sortidas",
-      "url": "https://www.mercadolivre.com.br/p/MLB65932271?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB65932271?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "category": "Supermercados",
-      "bucket": "supermercados",
-      "posted_ts": 1790676451,
-      "posted_at": "2026-09-29T10:07:31.816826+00:00",
-      "score": 89.0
-    },
-    {
-      "key": "mercadolivre:MLB5709004240",
-      "marketplace": "mercadolivre",
-      "id": "MLB5709004240",
-      "title": "Detergente Sabão Lava Louça Pastilha + Lava Máquina Unik",
-      "title_norm": "detergente sabao lava louca pastilha lava maquina unik",
-      "url": "https://www.mercadolivre.com.br/p/MLB56414429?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB56414429?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "category": "Supermercados",
-      "bucket": "supermercado",
-      "posted_ts": 1790676383,
-      "posted_at": "2026-09-29T10:06:23.719139+00:00",
-      "score": 118.39
     }
   ],
-  "updated_at": "2026-10-08T08:04:29.919321+00:00"
+  "updated_at": "2026-10-08T08:20:37.271152+00:00"
 }
