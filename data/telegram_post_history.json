@@ -1,6 +1,34 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB4689031381",
+      "marketplace": "mercadolivre",
+      "id": "MLB4689031381",
+      "title": "Kit C/20 Pomada Assadura 10xtradicional + 10xóleo Amêndoas",
+      "title_norm": "kit c 20 pomada assadura 10xtradicional 10xoleo amendoas",
+      "url": "https://www.mercadolivre.com.br/p/MLB69801251?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB69801251?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Mãe e Bebê",
+      "bucket": "mae_e_bebe",
+      "posted_ts": 1791428871,
+      "posted_at": "2026-10-08T03:07:51.416844+00:00",
+      "score": 89.0
+    },
+    {
+      "key": "mercadolivre:MLB6425142428",
+      "marketplace": "mercadolivre",
+      "id": "MLB6425142428",
+      "title": "Fralda Pampers Confort Sec G 38 Unidades",
+      "title_norm": "fralda pampers confort sec g 38 unidades",
+      "url": "https://www.mercadolivre.com.br/p/MLB33581064?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB33581064?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Mãe e Bebê",
+      "bucket": "fraldas",
+      "posted_ts": 1791428802,
+      "posted_at": "2026-10-08T03:06:42.133190+00:00",
+      "score": 130.0
+    },
+    {
       "key": "shopee:45017764651",
       "marketplace": "shopee",
       "id": "45017764651",
@@ -13971,35 +13999,7 @@
       "posted_ts": 1790651875,
       "posted_at": "2026-09-29T03:17:55.372914+00:00",
       "score": 33.32
-    },
-    {
-      "key": "shopee:55501487126",
-      "marketplace": "shopee",
-      "id": "55501487126",
-      "title": "Controlador Sem Fio Original De Controle De Alta Qualidade Para Xbox One/S/X/XSX/XSS/ELITE/ELITE2-Gamepad Bluetooth Comp",
-      "title_norm": "controlador sem fio original de controle de alta qualidade para xbox one s x xsx xss elite elite2 gamepad bluetooth comp",
-      "url": "https://shopee.com.br/product/1663285670/55501487126",
-      "affiliate_url": "https://s.shopee.com.br/8fSjE6ekf7",
-      "category": "mikehao.br",
-      "bucket": "mikehao_br",
-      "posted_ts": 1790651811,
-      "posted_at": "2026-09-29T03:16:51.319710+00:00",
-      "score": 62.35
-    },
-    {
-      "key": "mercadolivre:MLB5296476853",
-      "marketplace": "mercadolivre",
-      "id": "MLB5296476853",
-      "title": "Celular Smartphone Xiaomi Poco M7 Pro 5g Verde",
-      "title_norm": "celular smartphone xiaomi poco m7 pro 5g verde",
-      "url": "https://www.mercadolivre.com.br/p/MLB79929864?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB79929864?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "category": "Informática",
-      "bucket": "celulares",
-      "posted_ts": 1790651023,
-      "posted_at": "2026-09-29T03:03:43.782819+00:00",
-      "score": 127.0
     }
   ],
-  "updated_at": "2026-10-08T02:21:14.043577+00:00"
+  "updated_at": "2026-10-08T03:07:51.416857+00:00"
 }
