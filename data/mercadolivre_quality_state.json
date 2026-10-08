@@ -1,6 +1,21 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB5761828894",
+      "product_id": "MLB5761828894",
+      "catalog_product_id": "MLB54669799",
+      "item_id": "MLB5761828894",
+      "url": "https://www.mercadolivre.com.br/p/MLB54669799?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB54669799?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "tecido suplex bras tecidos 2m terracota para moda fitness",
+      "title": "Tecido Suplex Brás Tecidos 2m Terracota Para Moda Fitness",
+      "category": "Esportes",
+      "price": 58.7,
+      "score": 77.68,
+      "posted_ts": 1791493400,
+      "posted_at": "2026-10-08T21:03:20.521013+00:00"
+    },
+    {
       "key": "mercadolivre:MLB6442123488",
       "product_id": "MLB6442123488",
       "catalog_product_id": "MLB65794107",
@@ -526,5 +541,5 @@
       "posted_at": "2026-10-06T22:02:26.664363+00:00"
     }
   ],
-  "updated_at": "2026-10-08T20:10:04.407327+00:00"
+  "updated_at": "2026-10-08T21:03:20.521026+00:00"
 }

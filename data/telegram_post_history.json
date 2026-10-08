@@ -1,6 +1,20 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB5761828894",
+      "marketplace": "mercadolivre",
+      "id": "MLB5761828894",
+      "title": "Tecido Suplex Brás Tecidos 2m Terracota Para Moda Fitness",
+      "title_norm": "tecido suplex bras tecidos 2m terracota para moda fitness",
+      "url": "https://www.mercadolivre.com.br/p/MLB54669799?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB54669799?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Esportes",
+      "bucket": "esportes",
+      "posted_ts": 1791493400,
+      "posted_at": "2026-10-08T21:03:20.507637+00:00",
+      "score": 77.68
+    },
+    {
       "key": "shopee:58214671619",
       "marketplace": "shopee",
       "id": "58214671619",
@@ -13985,21 +13999,7 @@
       "posted_ts": 1790713217,
       "posted_at": "2026-09-29T20:20:17.339943+00:00",
       "score": 60.5
-    },
-    {
-      "key": "shopee:21099605719",
-      "marketplace": "shopee",
-      "id": "21099605719",
-      "title": "Carregador Veicular Carro Turbo Universal 3 Portas Usb 1 Porta 3.0 Quick Charger",
-      "title_norm": "carregador veicular carro turbo universal 3 portas usb 1 porta 3 0 quick charger",
-      "url": "https://shopee.com.br/product/1462764554/21099605719",
-      "affiliate_url": "https://s.shopee.com.br/6fheiBzKjN",
-      "category": "MI HOU.SE",
-      "bucket": "mi_hou_se",
-      "posted_ts": 1790713153,
-      "posted_at": "2026-09-29T20:19:13.170647+00:00",
-      "score": 62.19
     }
   ],
-  "updated_at": "2026-10-08T20:21:09.163080+00:00"
+  "updated_at": "2026-10-08T21:03:20.507657+00:00"
 }
