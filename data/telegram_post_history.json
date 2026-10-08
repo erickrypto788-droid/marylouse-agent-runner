@@ -1,6 +1,34 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB4719874245",
+      "marketplace": "mercadolivre",
+      "id": "MLB4719874245",
+      "title": "Smartphone Samsung Galaxy S23 256gb Preto",
+      "title_norm": "smartphone samsung galaxy s23 256gb preto",
+      "url": "https://www.mercadolivre.com.br/p/MLB39957733?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB39957733?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Informática",
+      "bucket": "celulares",
+      "posted_ts": 1791464627,
+      "posted_at": "2026-10-08T13:03:47.558509+00:00",
+      "score": 124.0
+    },
+    {
+      "key": "mercadolivre:MLB5348892479",
+      "marketplace": "mercadolivre",
+      "id": "MLB5348892479",
+      "title": "Celular Smartphone Xiaomi Poco M7 Pro 5g Verde",
+      "title_norm": "celular smartphone xiaomi poco m7 pro 5g verde",
+      "url": "https://www.mercadolivre.com.br/p/MLB79929864?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB79929864?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Informática",
+      "bucket": "celulares",
+      "posted_ts": 1791464563,
+      "posted_at": "2026-10-08T13:02:43.579930+00:00",
+      "score": 127.0
+    },
+    {
       "key": "shopee:58261931915",
       "marketplace": "shopee",
       "id": "58261931915",
@@ -13971,35 +13999,7 @@
       "posted_ts": 1790688078,
       "posted_at": "2026-09-29T13:21:18.278807+00:00",
       "score": 92.03
-    },
-    {
-      "key": "shopee:47858345120",
-      "marketplace": "shopee",
-      "id": "47858345120",
-      "title": "Creatina Monohidratada DUX Nutrition 100% Pura 300g Original Ganho de Massa Hipertrofia Academia",
-      "title_norm": "creatina monohidratada dux nutrition 100 pura 300g original ganho de massa hipertrofia academia",
-      "url": "https://shopee.com.br/product/1523139407/47858345120",
-      "affiliate_url": "https://s.shopee.com.br/5fp8Jns1Ic",
-      "category": "EVO Fitnes",
-      "bucket": "evo_fitnes",
-      "posted_ts": 1790688013,
-      "posted_at": "2026-09-29T13:20:13.709526+00:00",
-      "score": 95.0
-    },
-    {
-      "key": "shopee:23295160242",
-      "marketplace": "shopee",
-      "id": "23295160242",
-      "title": "ROMANTIC CROWN Garrafa Térmica 900ml Inox com Bico e Alça Flip Tumbler para Academia e Trabalho",
-      "title_norm": "romantic crown garrafa termica 900ml inox com bico e alca flip tumbler para academia e trabalho",
-      "url": "https://shopee.com.br/product/1240652277/23295160242",
-      "affiliate_url": "https://s.shopee.com.br/50ZQGI6Nij",
-      "category": "Romantic Crown",
-      "bucket": "romantic_crown",
-      "posted_ts": 1790687949,
-      "posted_at": "2026-09-29T13:19:09.633270+00:00",
-      "score": 106.27
     }
   ],
-  "updated_at": "2026-10-08T12:21:16.187299+00:00"
+  "updated_at": "2026-10-08T13:03:47.558532+00:00"
 }
