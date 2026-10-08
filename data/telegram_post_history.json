@@ -1,6 +1,20 @@
 {
   "posts": [
     {
+      "key": "shopee:22999054525",
+      "marketplace": "shopee",
+      "id": "22999054525",
+      "title": "Mochila de Couro Executiva Impermeável Reforçada com Porta USB e Fone para Notebook Viagem e Trabalho",
+      "title_norm": "mochila de couro executiva impermeavel reforcada com porta usb e fone para notebook viagem e trabalho",
+      "url": "https://shopee.com.br/product/1658947107/22999054525",
+      "affiliate_url": "https://s.shopee.com.br/2gBkhaA0tV",
+      "category": "RON CHANG",
+      "bucket": "informatica",
+      "posted_ts": 1791443814,
+      "posted_at": "2026-10-08T07:16:54.902117+00:00",
+      "score": 130.01
+    },
+    {
       "key": "mercadolivre:MLB7119236764",
       "marketplace": "mercadolivre",
       "id": "MLB7119236764",
@@ -13985,21 +13999,7 @@
       "posted_ts": 1790673614,
       "posted_at": "2026-09-29T09:20:14.170459+00:00",
       "score": 99.44
-    },
-    {
-      "key": "shopee:58211988568",
-      "marketplace": "shopee",
-      "id": "58211988568",
-      "title": "Tela Magnética Monitor Para Celular Sem Fio Smartphone Selfie Vlog Gravação",
-      "title_norm": "tela magnetica monitor para celular sem fio smartphone selfie vlog gravacao",
-      "url": "https://shopee.com.br/product/1256572557/58211988568",
-      "affiliate_url": "https://s.shopee.com.br/2BFFssRDJl",
-      "category": "BOAMAIS",
-      "bucket": "celulares",
-      "posted_ts": 1790673544,
-      "posted_at": "2026-09-29T09:19:04.775608+00:00",
-      "score": 107.66
     }
   ],
-  "updated_at": "2026-10-08T07:02:54.013051+00:00"
+  "updated_at": "2026-10-08T07:16:54.902127+00:00"
 }
