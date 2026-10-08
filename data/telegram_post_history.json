@@ -1,6 +1,20 @@
 {
   "posts": [
     {
+      "key": "shopee:55913136538",
+      "marketplace": "shopee",
+      "id": "55913136538",
+      "title": "Jogo Grand Theft Auto VI Edição Standard - PS5",
+      "title_norm": "jogo grand theft auto vi edicao standard ps5",
+      "url": "https://shopee.com.br/product/413072701/55913136538",
+      "affiliate_url": "https://s.shopee.com.br/1LgNNcOUTL",
+      "category": "Webfones Express",
+      "bucket": "webfones_express",
+      "posted_ts": 1791458215,
+      "posted_at": "2026-10-08T11:16:55.736898+00:00",
+      "score": 20.5
+    },
+    {
       "key": "mercadolivre:MLB5209357839",
       "marketplace": "mercadolivre",
       "id": "MLB5209357839",
@@ -13985,21 +13999,7 @@
       "posted_ts": 1790684356,
       "posted_at": "2026-09-29T12:19:16.880262+00:00",
       "score": 111.32
-    },
-    {
-      "key": "shopee:18698032904",
-      "marketplace": "shopee",
-      "id": "18698032904",
-      "title": "Vestido Infantil Menina Princesa  Listrado Floral Barrado Varias Cores para Festas  Dia Das Crianças",
-      "title_norm": "vestido infantil menina princesa listrado floral barrado varias cores para festas dia das criancas",
-      "url": "https://shopee.com.br/product/615604454/18698032904",
-      "affiliate_url": "https://s.shopee.com.br/6q15dpY029",
-      "category": "Florenzza kids",
-      "bucket": "moda_feminina",
-      "posted_ts": 1790684292,
-      "posted_at": "2026-09-29T12:18:12.784977+00:00",
-      "score": 111.91
     }
   ],
-  "updated_at": "2026-10-08T11:05:32.222569+00:00"
+  "updated_at": "2026-10-08T11:16:55.736909+00:00"
 }
