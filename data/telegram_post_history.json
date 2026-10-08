@@ -1,6 +1,20 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB7119236764",
+      "marketplace": "mercadolivre",
+      "id": "MLB7119236764",
+      "title": "Bike Spinning Bicicleta 6kg Wct Fitness Preta",
+      "title_norm": "bike spinning bicicleta 6kg wct fitness preta",
+      "url": "https://www.mercadolivre.com.br/p/MLB75107533?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB75107533?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Esportes",
+      "bucket": "esportes",
+      "posted_ts": 1791442974,
+      "posted_at": "2026-10-08T07:02:54.013039+00:00",
+      "score": 141.48
+    },
+    {
       "key": "shopee:10648848842",
       "marketplace": "shopee",
       "id": "10648848842",
@@ -13985,21 +13999,7 @@
       "posted_ts": 1790673544,
       "posted_at": "2026-09-29T09:19:04.775608+00:00",
       "score": 107.66
-    },
-    {
-      "key": "shopee:22097098020",
-      "marketplace": "shopee",
-      "id": "22097098020",
-      "title": "Lente para Câmera de Celular 0.45X Grande Angular + Macro para Smartphone",
-      "title_norm": "lente para camera de celular 0 45x grande angular macro para smartphone",
-      "url": "https://shopee.com.br/product/1006790682/22097098020",
-      "affiliate_url": "https://s.shopee.com.br/BUBVCYpNR",
-      "category": "AUXOM",
-      "bucket": "celulares",
-      "posted_ts": 1790673476,
-      "posted_at": "2026-09-29T09:17:56.831827+00:00",
-      "score": 121.23
     }
   ],
-  "updated_at": "2026-10-08T06:18:57.584722+00:00"
+  "updated_at": "2026-10-08T07:02:54.013051+00:00"
 }
