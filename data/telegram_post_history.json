@@ -1,6 +1,34 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB5227390237",
+      "marketplace": "mercadolivre",
+      "id": "MLB5227390237",
+      "title": "Chapinha Cabelo Profissional 450f Slim Bivolt, Titanium",
+      "title_norm": "chapinha cabelo profissional 450f slim bivolt titanium",
+      "url": "https://www.mercadolivre.com.br/p/MLB74370100?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB74370100?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Beleza",
+      "bucket": "beleza",
+      "posted_ts": 1791446669,
+      "posted_at": "2026-10-08T08:04:29.919306+00:00",
+      "score": 113.0
+    },
+    {
+      "key": "mercadolivre:MLB5279469915",
+      "marketplace": "mercadolivre",
+      "id": "MLB5279469915",
+      "title": "Perfume Feminino Olympia",
+      "title_norm": "perfume feminino olympia",
+      "url": "https://www.mercadolivre.com.br/p/MLB77039877?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB77039877?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Beleza",
+      "bucket": "beleza",
+      "posted_ts": 1791446590,
+      "posted_at": "2026-10-08T08:03:10.306784+00:00",
+      "score": 156.25
+    },
+    {
       "key": "shopee:22999054525",
       "marketplace": "shopee",
       "id": "22999054525",
@@ -13971,35 +13999,7 @@
       "posted_ts": 1790676383,
       "posted_at": "2026-09-29T10:06:23.719139+00:00",
       "score": 118.39
-    },
-    {
-      "key": "mercadolivre:MLB6428938830",
-      "marketplace": "mercadolivre",
-      "id": "MLB6428938830",
-      "title": "Fralda Pampers Supersec M 30 Unidades",
-      "title_norm": "fralda pampers supersec m 30 unidades",
-      "url": "https://www.mercadolivre.com.br/p/MLB36175310?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB36175310?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "category": "Mãe e Bebê",
-      "bucket": "fraldas",
-      "posted_ts": 1790676310,
-      "posted_at": "2026-09-29T10:05:10.984336+00:00",
-      "score": 130.0
-    },
-    {
-      "key": "shopee:22494456015",
-      "marketplace": "shopee",
-      "id": "22494456015",
-      "title": "Fone de ouvido Bluetooth Sem Fio Headphone Bluetooth Recarregável P9 Air Top Casual Esportivo",
-      "title_norm": "fone de ouvido bluetooth sem fio headphone bluetooth recarregavel p9 air top casual esportivo",
-      "url": "https://shopee.com.br/product/1396355892/22494456015",
-      "affiliate_url": "https://s.shopee.com.br/4fwarTUgrf",
-      "category": "TOP LOJA ELETRONICO",
-      "bucket": "top_loja_eletronico",
-      "posted_ts": 1790673614,
-      "posted_at": "2026-09-29T09:20:14.170459+00:00",
-      "score": 99.44
     }
   ],
-  "updated_at": "2026-10-08T07:16:54.902127+00:00"
+  "updated_at": "2026-10-08T08:04:29.919321+00:00"
 }

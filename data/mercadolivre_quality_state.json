@@ -1,6 +1,36 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB5227390237",
+      "product_id": "MLB5227390237",
+      "catalog_product_id": "MLB74370100",
+      "item_id": "MLB5227390237",
+      "url": "https://www.mercadolivre.com.br/p/MLB74370100?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB74370100?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "chapinha cabelo profissional 450f slim bivolt titanium",
+      "title": "Chapinha Cabelo Profissional 450f Slim Bivolt, Titanium",
+      "category": "Beleza",
+      "price": 64.99,
+      "score": 113.0,
+      "posted_ts": 1791446669,
+      "posted_at": "2026-10-08T08:04:29.933543+00:00"
+    },
+    {
+      "key": "mercadolivre:MLB5279469915",
+      "product_id": "MLB5279469915",
+      "catalog_product_id": "MLB77039877",
+      "item_id": "MLB5279469915",
+      "url": "https://www.mercadolivre.com.br/p/MLB77039877?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB77039877?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "perfume feminino olympia",
+      "title": "Perfume Feminino Olympia",
+      "category": "Beleza",
+      "price": 184.0,
+      "score": 156.25,
+      "posted_ts": 1791446590,
+      "posted_at": "2026-10-08T08:03:10.321502+00:00"
+    },
+    {
       "key": "mercadolivre:MLB7119236764",
       "product_id": "MLB7119236764",
       "catalog_product_id": "MLB75107533",
@@ -614,52 +644,7 @@
       "score": 127.0,
       "posted_ts": 1791277364,
       "posted_at": "2026-10-06T09:02:44.217824+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB7226098148",
-      "product_id": "MLB7226098148",
-      "catalog_product_id": "MLB68059006",
-      "item_id": "MLB7226098148",
-      "url": "https://www.mercadolivre.com.br/p/MLB68059006?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB68059006?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "fone bluetooth esportivo 320mah fone sem fio fone academia preto",
-      "title": "Fone Bluetooth Esportivo 320mah Fone Sem Fio Fone Academia Preto",
-      "category": "Esportes",
-      "price": 59.0,
-      "score": 110.15,
-      "posted_ts": 1791273761,
-      "posted_at": "2026-10-06T08:02:41.105508+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB5653921846",
-      "product_id": "MLB5653921846",
-      "catalog_product_id": "MLB45798788",
-      "item_id": "MLB5653921846",
-      "url": "https://www.mercadolivre.com.br/p/MLB45798788?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB45798788?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "monitor 24 polegadas 1920x1200px vga hdmi 5ms rapido",
-      "title": "Monitor 24 Polegadas 1920x1200px Vga Hdmi 5ms Rápido",
-      "category": "Informática",
-      "price": 565.0,
-      "score": 86.0,
-      "posted_ts": 1791270305,
-      "posted_at": "2026-10-06T07:05:05.531593+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB4654205549",
-      "product_id": "MLB4654205549",
-      "catalog_product_id": "MLB47353377",
-      "item_id": "MLB4654205549",
-      "url": "https://www.mercadolivre.com.br/p/MLB47353377?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB47353377?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "roteador wifi ac 1200 2 flex",
-      "title": "Roteador Wifi Ac 1200 2 Flex",
-      "category": "Informática",
-      "price": 178.82,
-      "score": 97.67,
-      "posted_ts": 1791270221,
-      "posted_at": "2026-10-06T07:03:41.425508+00:00"
     }
   ],
-  "updated_at": "2026-10-08T07:02:54.024972+00:00"
+  "updated_at": "2026-10-08T08:04:29.933559+00:00"
 }
