@@ -1,6 +1,48 @@
 {
   "posts": [
     {
+      "key": "shopee:10648848842",
+      "marketplace": "shopee",
+      "id": "10648848842",
+      "title": "Mala Case Capa Bolsa Porta Case Notebook Slim 14,6/15,6 Alça Dupla Reforçada",
+      "title_norm": "mala case capa bolsa porta case notebook slim 14 6 15 6 alca dupla reforcada",
+      "url": "https://shopee.com.br/product/391712221/10648848842",
+      "affiliate_url": "https://s.shopee.com.br/9fLUyKGNe1",
+      "category": "Street Man",
+      "bucket": "informatica",
+      "posted_ts": 1791440337,
+      "posted_at": "2026-10-08T06:18:57.584710+00:00",
+      "score": 78.5
+    },
+    {
+      "key": "shopee:22899036423",
+      "marketplace": "shopee",
+      "id": "22899036423",
+      "title": "TOMI MITO Bolsa de Ombro Acolchoada com Alça de Corrente Estilo Casual Elegante para Trabalho e Passeio T310",
+      "title_norm": "tomi mito bolsa de ombro acolchoada com alca de corrente estilo casual elegante para trabalho e passeio t310",
+      "url": "https://shopee.com.br/product/1468415010/22899036423",
+      "affiliate_url": "https://s.shopee.com.br/1qcddvbTFa",
+      "category": "Amy.Store",
+      "bucket": "bolsas",
+      "posted_ts": 1791440273,
+      "posted_at": "2026-10-08T06:17:53.665756+00:00",
+      "score": 105.68
+    },
+    {
+      "key": "shopee:23997726120",
+      "marketplace": "shopee",
+      "id": "23997726120",
+      "title": "ROMANTIC CROWN Mochila De Viagem Feminina Multifuncional Impermeável Reforçada Expansível para Trilha Esportiva",
+      "title_norm": "romantic crown mochila de viagem feminina multifuncional impermeavel reforcada expansivel para trilha esportiva",
+      "url": "https://shopee.com.br/product/1198407784/23997726120",
+      "affiliate_url": "https://s.shopee.com.br/7faQaeJauT",
+      "category": "Romantic Crown.02",
+      "bucket": "bolsas",
+      "posted_ts": 1791440209,
+      "posted_at": "2026-10-08T06:16:49.734861+00:00",
+      "score": 118.68
+    },
+    {
       "key": "shopee:23099005551",
       "marketplace": "shopee",
       "id": "23099005551",
@@ -13957,49 +13999,7 @@
       "posted_ts": 1790673476,
       "posted_at": "2026-09-29T09:17:56.831827+00:00",
       "score": 121.23
-    },
-    {
-      "key": "shopee:20607193834",
-      "marketplace": "shopee",
-      "id": "20607193834",
-      "title": "CARREGADOR PORTÁTIL POWER BANK UNIVERSAL 10.000MAH E 5.000MAH",
-      "title_norm": "carregador portatil power bank universal 10 000mah e 5 000mah",
-      "url": "https://shopee.com.br/product/238078335/20607193834",
-      "affiliate_url": "https://s.shopee.com.br/2Vs6HUcwDP",
-      "category": "LUFEE ACESSÓRIOS",
-      "bucket": "lufee_acessorios",
-      "posted_ts": 1790673408,
-      "posted_at": "2026-09-29T09:16:48.127885+00:00",
-      "score": 123.79
-    },
-    {
-      "key": "shopee:23293827748",
-      "marketplace": "shopee",
-      "id": "23293827748",
-      "title": "Bota Feminina GiGiL Cano Longo Enrugado Slouch Bico Fino Salto Bloco Médio Elegante Clássica Casual",
-      "title_norm": "bota feminina gigil cano longo enrugado slouch bico fino salto bloco medio elegante classica casual",
-      "url": "https://shopee.com.br/product/387348115/23293827748",
-      "affiliate_url": "https://s.shopee.com.br/3g43bYMRKn",
-      "category": "GiGiL",
-      "bucket": "calcados",
-      "posted_ts": 1790669905,
-      "posted_at": "2026-09-29T08:18:25.422947+00:00",
-      "score": 105.53
-    },
-    {
-      "key": "shopee:20497149341",
-      "marketplace": "shopee",
-      "id": "20497149341",
-      "title": "Bota Coturno Feminino Tratorada Chelsea Macia Confortável Snapshoes",
-      "title_norm": "bota coturno feminino tratorada chelsea macia confortavel snapshoes",
-      "url": "https://shopee.com.br/product/428566450/20497149341",
-      "affiliate_url": "https://s.shopee.com.br/1BMicxVxPY",
-      "category": "SHOESCOM Boots",
-      "bucket": "calcados",
-      "posted_ts": 1790669836,
-      "posted_at": "2026-09-29T08:17:16.692980+00:00",
-      "score": 110.44
     }
   ],
-  "updated_at": "2026-10-08T05:21:29.387543+00:00"
+  "updated_at": "2026-10-08T06:18:57.584722+00:00"
 }
