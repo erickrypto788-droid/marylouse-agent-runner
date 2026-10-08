@@ -1,6 +1,34 @@
 {
   "posts": [
     {
+      "key": "shopee:21276599648",
+      "marketplace": "shopee",
+      "id": "21276599648",
+      "title": "Bota Caterpillar Trilha Coturno Adventure Envio Rápido",
+      "title_norm": "bota caterpillar trilha coturno adventure envio rapido",
+      "url": "https://shopee.com.br/product/397535661/21276599648",
+      "affiliate_url": "https://s.shopee.com.br/3LRS1m8sx3",
+      "category": "Shopping Alpha.",
+      "bucket": "calcados",
+      "posted_ts": 1791472683,
+      "posted_at": "2026-10-08T15:18:03.506785+00:00",
+      "score": 108.31
+    },
+    {
+      "key": "shopee:19198992648",
+      "marketplace": "shopee",
+      "id": "19198992648",
+      "title": "Sapatenis Casual Masculino Sneaker Sola Alta Macio Chunky Confortável Estiloso Sola Oversize Lanç",
+      "title_norm": "sapatenis casual masculino sneaker sola alta macio chunky confortavel estiloso sola oversize lanc",
+      "url": "https://shopee.com.br/product/304755339/19198992648",
+      "affiliate_url": "https://s.shopee.com.br/AKbCMdUyBZ",
+      "category": "Atria Shoes",
+      "bucket": "calcados",
+      "posted_ts": 1791472616,
+      "posted_at": "2026-10-08T15:16:56.283172+00:00",
+      "score": 109.22
+    },
+    {
       "key": "shopee:22894748403",
       "marketplace": "shopee",
       "id": "22894748403",
@@ -13971,35 +13999,7 @@
       "posted_ts": 1790695015,
       "posted_at": "2026-09-29T15:16:55.314252+00:00",
       "score": 144.27
-    },
-    {
-      "key": "mercadolivre:MLB6714509354",
-      "marketplace": "mercadolivre",
-      "id": "MLB6714509354",
-      "title": "Luva Academia Musculação Fitness Tamanho P",
-      "title_norm": "luva academia musculacao fitness tamanho p",
-      "url": "https://www.mercadolivre.com.br/p/MLB69134972?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB69134972?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "category": "Esportes",
-      "bucket": "esportes",
-      "posted_ts": 1790694173,
-      "posted_at": "2026-09-29T15:02:53.787065+00:00",
-      "score": 82.71
-    },
-    {
-      "key": "shopee:23193491200",
-      "marketplace": "shopee",
-      "id": "23193491200",
-      "title": "Boneca Lola Baby Com Chupeta Rosa Menina Brinquedo Infantil Bebê",
-      "title_norm": "boneca lola baby com chupeta rosa menina brinquedo infantil bebe",
-      "url": "https://shopee.com.br/product/769529304/23193491200",
-      "affiliate_url": "https://s.shopee.com.br/4B0KbAQmi7",
-      "category": "Icomprei.com.br",
-      "bucket": "pet",
-      "posted_ts": 1790691673,
-      "posted_at": "2026-09-29T14:21:13.053680+00:00",
-      "score": 97.32
     }
   ],
-  "updated_at": "2026-10-08T14:18:08.930375+00:00"
+  "updated_at": "2026-10-08T15:18:03.506798+00:00"
 }
