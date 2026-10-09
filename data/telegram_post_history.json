@@ -1,6 +1,48 @@
 {
   "posts": [
     {
+      "key": "shopee:22497089311",
+      "marketplace": "shopee",
+      "id": "22497089311",
+      "title": "Mochila Masculina Bolsa Feminina Notebook Escolar Resistente Oferta",
+      "title_norm": "mochila masculina bolsa feminina notebook escolar resistente oferta",
+      "url": "https://shopee.com.br/product/752743341/22497089311",
+      "affiliate_url": "https://s.shopee.com.br/2VsN5yl7ym",
+      "category": "Fenix Abdon",
+      "bucket": "informatica",
+      "posted_ts": 1791584352,
+      "posted_at": "2026-10-09T22:19:12.883800+00:00",
+      "score": 92.69
+    },
+    {
+      "key": "shopee:7895885450",
+      "marketplace": "shopee",
+      "id": "7895885450",
+      "title": "Bolsa Feminina Pequena De Lado Transversal Alça Corrente Lançamento",
+      "title_norm": "bolsa feminina pequena de lado transversal alca corrente lancamento",
+      "url": "https://shopee.com.br/product/310142566/7895885450",
+      "affiliate_url": "https://s.shopee.com.br/AKbEQNClnP",
+      "category": "Debora Ribeiro Bolsas Oficial",
+      "bucket": "bolsas",
+      "posted_ts": 1791584284,
+      "posted_at": "2026-10-09T22:18:04.966457+00:00",
+      "score": 105.27
+    },
+    {
+      "key": "shopee:20399869941",
+      "marketplace": "shopee",
+      "id": "20399869941",
+      "title": "Bolsa de Praia Feminina Alça de Corda Elegante Grande e Resistente",
+      "title_norm": "bolsa de praia feminina alca de corda elegante grande e resistente",
+      "url": "https://shopee.com.br/product/1448484843/20399869941",
+      "affiliate_url": "https://s.shopee.com.br/1B27Nq6lK",
+      "category": "YL.BR.BOLSAS",
+      "bucket": "bolsas",
+      "posted_ts": 1791584220,
+      "posted_at": "2026-10-09T22:17:00.912661+00:00",
+      "score": 106.23
+    },
+    {
       "key": "mercadolivre:MLB4353924282",
       "marketplace": "mercadolivre",
       "id": "MLB4353924282",
@@ -13957,49 +13999,7 @@
       "posted_ts": 1790805828,
       "posted_at": "2026-09-30T22:03:48.845653+00:00",
       "score": 88.0
-    },
-    {
-      "key": "shopee:22894748403",
-      "marketplace": "shopee",
-      "id": "22894748403",
-      "title": "Kit 3 Blusas Feminina Plus Size Gola V Básica Casual - H00",
-      "title_norm": "kit 3 blusas feminina plus size gola v basica casual h00",
-      "url": "https://shopee.com.br/product/441206033/22894748403",
-      "affiliate_url": "https://s.shopee.com.br/2BFIHEXjJO",
-      "category": "Uzze.K ",
-      "bucket": "uzze_k",
-      "posted_ts": 1790803222,
-      "posted_at": "2026-09-30T21:20:22.338991+00:00",
-      "score": 69.58
-    },
-    {
-      "key": "shopee:23095731294",
-      "marketplace": "shopee",
-      "id": "23095731294",
-      "title": "Kit 2 Calças Legging Plus Size Suplex Cintura Alta Costura Reforça G1 G2 G3",
-      "title_norm": "kit 2 calcas legging plus size suplex cintura alta costura reforca g1 g2 g3",
-      "url": "https://shopee.com.br/product/356848158/23095731294",
-      "affiliate_url": "https://s.shopee.com.br/8pmCDUColW",
-      "category": "TGL CONFECÇÕES ",
-      "bucket": "moda_feminina",
-      "posted_ts": 1790803158,
-      "posted_at": "2026-09-30T21:19:18.097844+00:00",
-      "score": 73.16
-    },
-    {
-      "key": "shopee:58252602711",
-      "marketplace": "shopee",
-      "id": "58252602711",
-      "title": "Blazer Feminino Plus Size Alfaiataria Sem Forro | Botões Dourados Decorativos | Elegante para , Escritório e Casual",
-      "title_norm": "blazer feminino plus size alfaiataria sem forro botoes dourados decorativos elegante para escritorio e casual",
-      "url": "https://shopee.com.br/product/1076483874/58252602711",
-      "affiliate_url": "https://s.shopee.com.br/4qG3S8Euol",
-      "category": "MILUÍ Moda Feminina",
-      "bucket": "milui_moda_feminina",
-      "posted_ts": 1790803024,
-      "posted_at": "2026-09-30T21:17:04.755088+00:00",
-      "score": 103.49
     }
   ],
-  "updated_at": "2026-10-09T22:02:43.723872+00:00"
+  "updated_at": "2026-10-09T22:19:12.883814+00:00"
 }
