@@ -1,6 +1,48 @@
 {
   "posts": [
     {
+      "key": "shopee:23996889885",
+      "marketplace": "shopee",
+      "id": "23996889885",
+      "title": "Mochila Mala Reforçada Notebook Impermeável Escolar Trabalho Oferta",
+      "title_norm": "mochila mala reforcada notebook impermeavel escolar trabalho oferta",
+      "url": "https://shopee.com.br/product/659347495/23996889885",
+      "affiliate_url": "https://s.shopee.com.br/2VsLlZ3IEa",
+      "category": "Pula - Pula Mk",
+      "bucket": "informatica",
+      "posted_ts": 1791515940,
+      "posted_at": "2026-10-09T03:19:00.000103+00:00",
+      "score": 71.44
+    },
+    {
+      "key": "shopee:18077247106",
+      "marketplace": "shopee",
+      "id": "18077247106",
+      "title": "Mochila Unissex para Viagem Cabo de Aço Reforçado Resistente Elegantes Moderno RC9801",
+      "title_norm": "mochila unissex para viagem cabo de aco reforcado resistente elegantes moderno rc9801",
+      "url": "https://shopee.com.br/product/379659209/18077247106",
+      "affiliate_url": "https://s.shopee.com.br/1VzoZj2hVY",
+      "category": "magiaworld",
+      "bucket": "bolsas",
+      "posted_ts": 1791515876,
+      "posted_at": "2026-10-09T03:17:56.112576+00:00",
+      "score": 86.55
+    },
+    {
+      "key": "shopee:58202297715",
+      "marketplace": "shopee",
+      "id": "58202297715",
+      "title": "Mochila Transversal Masculina - Bolsa de Peito Multifuncional Impermeável",
+      "title_norm": "mochila transversal masculina bolsa de peito multifuncional impermeavel",
+      "url": "https://shopee.com.br/product/1630783360/58202297715",
+      "affiliate_url": "https://s.shopee.com.br/20w5Ae9Wkk",
+      "category": "vxcs4mh5zv",
+      "bucket": "bolsas",
+      "posted_ts": 1791515812,
+      "posted_at": "2026-10-09T03:16:52.198920+00:00",
+      "score": 89.87
+    },
+    {
       "key": "mercadolivre:MLB6574930760",
       "marketplace": "mercadolivre",
       "id": "MLB6574930760",
@@ -13957,49 +13999,7 @@
       "posted_ts": 1790741206,
       "posted_at": "2026-09-30T04:06:46.250114+00:00",
       "score": 89.0
-    },
-    {
-      "key": "mercadolivre:MLB4189107767",
-      "marketplace": "mercadolivre",
-      "id": "MLB4189107767",
-      "title": "Azeite Oliva Extra Virgem Italiano 500ml Mercatto",
-      "title_norm": "azeite oliva extra virgem italiano 500ml mercatto",
-      "url": "https://www.mercadolivre.com.br/p/MLB54332454?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB54332454?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "category": "Supermercados",
-      "bucket": "supermercado",
-      "posted_ts": 1790741129,
-      "posted_at": "2026-09-30T04:05:29.783609+00:00",
-      "score": 116.39
-    },
-    {
-      "key": "shopee:58253347883",
-      "marketplace": "shopee",
-      "id": "58253347883",
-      "title": "Bota Feminina Cano Curto Preta Salto Grosso Tratorada Confortável Moda Inverno",
-      "title_norm": "bota feminina cano curto preta salto grosso tratorada confortavel moda inverno",
-      "url": "https://shopee.com.br/product/702625496/58253347883",
-      "affiliate_url": "https://s.shopee.com.br/9AP1PuqYTw",
-      "category": "ENCAST CONTRY GIRL",
-      "bucket": "calcados",
-      "posted_ts": 1790738272,
-      "posted_at": "2026-09-30T03:17:52.967791+00:00",
-      "score": 104.56
-    },
-    {
-      "key": "shopee:58203391596",
-      "marketplace": "shopee",
-      "id": "58203391596",
-      "title": "pronta entrega envio imediato Sandália Saltinho 4 cm Tira de Strass Brilho  Calce Fácil Confortável elegante dia a dia",
-      "title_norm": "pronta entrega envio imediato sandalia saltinho 4 cm tira de strass brilho calce facil confortavel elegante dia a dia",
-      "url": "https://shopee.com.br/product/1715117439/58203391596",
-      "affiliate_url": "https://s.shopee.com.br/8fSkozjaek",
-      "category": "finnaflorr",
-      "bucket": "calcados",
-      "posted_ts": 1790738206,
-      "posted_at": "2026-09-30T03:16:46.540465+00:00",
-      "score": 121.27
     }
   ],
-  "updated_at": "2026-10-09T03:03:13.950670+00:00"
+  "updated_at": "2026-10-09T03:19:00.000115+00:00"
 }
