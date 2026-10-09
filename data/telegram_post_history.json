@@ -1,6 +1,20 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB7079122650",
+      "marketplace": "mercadolivre",
+      "id": "MLB7079122650",
+      "title": "Conjunto Feminino Alfaiataria Bermuda Blusa Elegante Peplum Conjunto Feminino Bege",
+      "title_norm": "conjunto feminino alfaiataria bermuda blusa elegante peplum conjunto feminino bege",
+      "url": "https://www.mercadolivre.com.br/p/MLB74851412?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB74851412?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Moda Feminina",
+      "bucket": "moda_feminina",
+      "posted_ts": 1791554617,
+      "posted_at": "2026-10-09T14:03:37.477816+00:00",
+      "score": 136.74
+    },
+    {
       "key": "shopee:58255239538",
       "marketplace": "shopee",
       "id": "58255239538",
@@ -13985,21 +13999,7 @@
       "posted_ts": 1790767076,
       "posted_at": "2026-09-30T11:17:56.104686+00:00",
       "score": 103.68
-    },
-    {
-      "key": "shopee:22394414025",
-      "marketplace": "shopee",
-      "id": "22394414025",
-      "title": "Kit 32 Fraldas Geriátricas Unissex ConfortMaster Pants  P/M G/EG Calcinha/Cueca Incontinência Severa",
-      "title_norm": "kit 32 fraldas geriatricas unissex confortmaster pants p m g eg calcinha cueca incontinencia severa",
-      "url": "https://shopee.com.br/product/1480477115/22394414025",
-      "affiliate_url": "https://s.shopee.com.br/3VkfCT0TbE",
-      "category": "CAZAC ARTIGOS GERAIS",
-      "bucket": "fraldas",
-      "posted_ts": 1790767011,
-      "posted_at": "2026-09-30T11:16:51.896530+00:00",
-      "score": 104.66
     }
   ],
-  "updated_at": "2026-10-09T13:18:10.387592+00:00"
+  "updated_at": "2026-10-09T14:03:37.477834+00:00"
 }

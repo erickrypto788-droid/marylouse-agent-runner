@@ -1,6 +1,21 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB7079122650",
+      "product_id": "MLB7079122650",
+      "catalog_product_id": "MLB74851412",
+      "item_id": "MLB7079122650",
+      "url": "https://www.mercadolivre.com.br/p/MLB74851412?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB74851412?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "conjunto feminino alfaiataria bermuda blusa elegante peplum conjunto feminino bege",
+      "title": "Conjunto Feminino Alfaiataria Bermuda Blusa Elegante Peplum Conjunto Feminino Bege",
+      "category": "Moda Feminina",
+      "price": 150.24,
+      "score": 136.74,
+      "posted_ts": 1791554617,
+      "posted_at": "2026-10-09T14:03:37.490888+00:00"
+    },
+    {
       "key": "mercadolivre:MLB5827798066",
       "product_id": "MLB5827798066",
       "catalog_product_id": "MLB47658528",
@@ -554,22 +569,7 @@
       "score": 88.0,
       "posted_ts": 1791381872,
       "posted_at": "2026-10-07T14:04:32.526772+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB6340337640",
-      "product_id": "MLB6340337640",
-      "catalog_product_id": "MLB37838163",
-      "item_id": "MLB6340337640",
-      "url": "https://www.mercadolivre.com.br/p/MLB37838163?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB37838163?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "chapinha cabelo nano titanium azul resultados",
-      "title": "Chapinha Cabelo Nano Titanium Azul , Resultados",
-      "category": "Beleza",
-      "price": 114.46,
-      "score": 113.0,
-      "posted_ts": 1791381800,
-      "posted_at": "2026-10-07T14:03:20.800565+00:00"
     }
   ],
-  "updated_at": "2026-10-09T13:09:41.558938+00:00"
+  "updated_at": "2026-10-09T14:03:37.490914+00:00"
 }
