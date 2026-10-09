@@ -1,6 +1,51 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB6198484798",
+      "product_id": "MLB6198484798",
+      "catalog_product_id": "MLB42822160",
+      "item_id": "MLB6198484798",
+      "url": "https://www.mercadolivre.com.br/p/MLB42822160?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB42822160?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "roteador wifi maxlink ac1200g 10pc",
+      "title": "Roteador Wifi Maxlink Ac1200g (10pc)",
+      "category": "Informática",
+      "price": 265.85,
+      "score": 88.0,
+      "posted_ts": 1791518694,
+      "posted_at": "2026-10-09T04:04:54.914955+00:00"
+    },
+    {
+      "key": "mercadolivre:MLB7705734530",
+      "product_id": "MLB7705734530",
+      "catalog_product_id": "MLB50957106",
+      "item_id": "MLB7705734530",
+      "url": "https://www.mercadolivre.com.br/p/MLB50957106?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB50957106?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "ssd nvme kingston 1tb nv3 m 2 2280 pcie 4 0 nf e cor ssd nvme m 2 2280 kingston 1tb",
+      "title": "Ssd Nvme Kingston 1tb Nv3 M.2 2280 Pcie 4.0 Nf-e Cor Ssd Nvme M.2 2280 Kingston 1tb",
+      "category": "Informática",
+      "price": 1031.0,
+      "score": 111.0,
+      "posted_ts": 1791518630,
+      "posted_at": "2026-10-09T04:03:50.901617+00:00"
+    },
+    {
+      "key": "mercadolivre:MLB5353707831",
+      "product_id": "MLB5353707831",
+      "catalog_product_id": "MLB29473939",
+      "item_id": "MLB5353707831",
+      "url": "https://www.mercadolivre.com.br/p/MLB29473939?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB29473939?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "monitor gamer curvo vedd freesync monitor gamer curvo led 27 preto",
+      "title": "Monitor gamer curvo Vedd FreeSync Monitor Gamer Curvo led 27\" preto",
+      "category": "Informática",
+      "price": 932.11,
+      "score": 111.0,
+      "posted_ts": 1791518547,
+      "posted_at": "2026-10-09T04:02:27.184658+00:00"
+    },
+    {
       "key": "mercadolivre:MLB6574930760",
       "product_id": "MLB6574930760",
       "catalog_product_id": "MLB67606890",
@@ -541,5 +586,5 @@
       "posted_at": "2026-10-07T05:02:26.716508+00:00"
     }
   ],
-  "updated_at": "2026-10-09T03:03:13.965171+00:00"
+  "updated_at": "2026-10-09T04:04:54.914973+00:00"
 }

@@ -1,6 +1,48 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB6198484798",
+      "marketplace": "mercadolivre",
+      "id": "MLB6198484798",
+      "title": "Roteador Wifi Maxlink Ac1200g (10pc)",
+      "title_norm": "roteador wifi maxlink ac1200g 10pc",
+      "url": "https://www.mercadolivre.com.br/p/MLB42822160?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB42822160?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Informática",
+      "bucket": "informatica",
+      "posted_ts": 1791518694,
+      "posted_at": "2026-10-09T04:04:54.899549+00:00",
+      "score": 88.0
+    },
+    {
+      "key": "mercadolivre:MLB7705734530",
+      "marketplace": "mercadolivre",
+      "id": "MLB7705734530",
+      "title": "Ssd Nvme Kingston 1tb Nv3 M.2 2280 Pcie 4.0 Nf-e Cor Ssd Nvme M.2 2280 Kingston 1tb",
+      "title_norm": "ssd nvme kingston 1tb nv3 m 2 2280 pcie 4 0 nf e cor ssd nvme m 2 2280 kingston 1tb",
+      "url": "https://www.mercadolivre.com.br/p/MLB50957106?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB50957106?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Informática",
+      "bucket": "informatica",
+      "posted_ts": 1791518630,
+      "posted_at": "2026-10-09T04:03:50.888805+00:00",
+      "score": 111.0
+    },
+    {
+      "key": "mercadolivre:MLB5353707831",
+      "marketplace": "mercadolivre",
+      "id": "MLB5353707831",
+      "title": "Monitor gamer curvo Vedd FreeSync Monitor Gamer Curvo led 27\" preto",
+      "title_norm": "monitor gamer curvo vedd freesync monitor gamer curvo led 27 preto",
+      "url": "https://www.mercadolivre.com.br/p/MLB29473939?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB29473939?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Informática",
+      "bucket": "informatica",
+      "posted_ts": 1791518547,
+      "posted_at": "2026-10-09T04:02:27.170632+00:00",
+      "score": 111.0
+    },
+    {
       "key": "shopee:23996889885",
       "marketplace": "shopee",
       "id": "23996889885",
@@ -13957,49 +13999,7 @@
       "posted_ts": 1790741810,
       "posted_at": "2026-09-30T04:16:50.366247+00:00",
       "score": 130.27
-    },
-    {
-      "key": "mercadolivre:MLB3649165215",
-      "marketplace": "mercadolivre",
-      "id": "MLB3649165215",
-      "title": "Arroz Jasmine Tailandês Aromático 1kg Arroz De Altitude",
-      "title_norm": "arroz jasmine tailandes aromatico 1kg arroz de altitude",
-      "url": "https://www.mercadolivre.com.br/p/MLB35368172?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB35368172?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "category": "Supermercados",
-      "bucket": "supermercados",
-      "posted_ts": 1790741334,
-      "posted_at": "2026-09-30T04:08:54.738370+00:00",
-      "score": 78.68
-    },
-    {
-      "key": "mercadolivre:MLB5281214491",
-      "marketplace": "mercadolivre",
-      "id": "MLB5281214491",
-      "title": "Kaisasa Shampoo Tonalizante Para Cobrir Cabelo Cinzento，shampoo cabelo branco，shampoo barba，shampoo redutor grisalhos，shampoo tonalizante preto，hair dye shampoo，black hair dye，500ml-Preto",
-      "title_norm": "kaisasa shampoo tonalizante para cobrir cabelo cinzento shampoo cabelo branco shampoo barba shampoo redutor grisalhos shampoo tonalizante preto hair dye shampoo black hair dye 500ml preto",
-      "url": "https://www.mercadolivre.com.br/p/MLB50178919?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB50178919?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "category": "Beleza",
-      "bucket": "beleza",
-      "posted_ts": 1790741270,
-      "posted_at": "2026-09-30T04:07:50.266844+00:00",
-      "score": 88.0
-    },
-    {
-      "key": "mercadolivre:MLB5532475634",
-      "marketplace": "mercadolivre",
-      "id": "MLB5532475634",
-      "title": "Miniatura Creme Dental 15g",
-      "title_norm": "miniatura creme dental 15g",
-      "url": "https://www.mercadolivre.com.br/p/MLB53217462?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB53217462?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "category": "Supermercados",
-      "bucket": "supermercados",
-      "posted_ts": 1790741206,
-      "posted_at": "2026-09-30T04:06:46.250114+00:00",
-      "score": 89.0
     }
   ],
-  "updated_at": "2026-10-09T03:19:00.000115+00:00"
+  "updated_at": "2026-10-09T04:04:54.899568+00:00"
 }
