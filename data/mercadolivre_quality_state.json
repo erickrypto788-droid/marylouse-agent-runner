@@ -1,6 +1,21 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB4353924282",
+      "product_id": "MLB4353924282",
+      "catalog_product_id": "MLB29479675",
+      "item_id": "MLB4353924282",
+      "url": "https://www.mercadolivre.com.br/p/MLB29479675?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB29479675?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "mesa computador escrivaninha notebook gamer cor branco ajl",
+      "title": "Mesa Computador Escrivaninha Notebook Gamer cor branco AJL",
+      "category": "Informática",
+      "price": 267.2,
+      "score": 113.0,
+      "posted_ts": 1791583363,
+      "posted_at": "2026-10-09T22:02:43.739836+00:00"
+    },
+    {
       "key": "mercadolivre:MLB6223026490",
       "product_id": "MLB6223026490",
       "catalog_product_id": "MLB29263256",
@@ -539,22 +554,7 @@
       "score": 154.83,
       "posted_ts": 1791414176,
       "posted_at": "2026-10-07T23:02:56.748034+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB5346615649",
-      "product_id": "MLB5346615649",
-      "catalog_product_id": "MLB59103594",
-      "item_id": "MLB5346615649",
-      "url": "https://www.mercadolivre.com.br/p/MLB59103594?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB59103594?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "smartphone xiaomi 15t 5g 12 12gb ram 512gb cinza",
-      "title": "Smartphone Xiaomi 15t 5g 12+12gb Ram + 512gb, Cinza",
-      "category": "Informática",
-      "price": 3899.0,
-      "score": 124.0,
-      "posted_ts": 1791403411,
-      "posted_at": "2026-10-07T20:03:31.102610+00:00"
     }
   ],
-  "updated_at": "2026-10-09T19:02:47.369313+00:00"
+  "updated_at": "2026-10-09T22:02:43.739851+00:00"
 }
