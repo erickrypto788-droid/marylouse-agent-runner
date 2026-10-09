@@ -1,6 +1,20 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB6574930760",
+      "marketplace": "mercadolivre",
+      "id": "MLB6574930760",
+      "title": "Parafusadeira STANLEY + Parafusadeira + Ganhe Bateria 20V",
+      "title_norm": "parafusadeira stanley parafusadeira ganhe bateria 20v",
+      "url": "https://www.mercadolivre.com.br/p/MLB67606890?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB67606890?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Ferramentas",
+      "bucket": "ferramentas",
+      "posted_ts": 1791514993,
+      "posted_at": "2026-10-09T03:03:13.950654+00:00",
+      "score": 124.0
+    },
+    {
       "key": "shopee:11298889483",
       "marketplace": "shopee",
       "id": "11298889483",
@@ -13985,21 +13999,7 @@
       "posted_ts": 1790738206,
       "posted_at": "2026-09-30T03:16:46.540465+00:00",
       "score": 121.27
-    },
-    {
-      "key": "shopee:12820428668",
-      "marketplace": "shopee",
-      "id": "12820428668",
-      "title": "Sapatenis Masculino Star Fox Ziper e Cadarço Calce Casual A1",
-      "title_norm": "sapatenis masculino star fox ziper e cadarco calce casual a1",
-      "url": "https://shopee.com.br/product/294355829/12820428668",
-      "affiliate_url": "https://s.shopee.com.br/3B7oClbgHE",
-      "category": "Star Fox Calçados",
-      "bucket": "calcados",
-      "posted_ts": 1790734668,
-      "posted_at": "2026-09-30T02:17:48.304808+00:00",
-      "score": 87.09
     }
   ],
-  "updated_at": "2026-10-09T01:18:57.076876+00:00"
+  "updated_at": "2026-10-09T03:03:13.950670+00:00"
 }
