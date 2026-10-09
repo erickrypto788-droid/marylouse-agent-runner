@@ -1,6 +1,21 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB7617590426",
+      "product_id": "MLB7617590426",
+      "catalog_product_id": "MLB77141871",
+      "item_id": "MLB7617590426",
+      "url": "https://www.mercadolivre.com.br/p/MLB77141871?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB77141871?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "perfume masculino millions",
+      "title": "Perfume Masculino Millions",
+      "category": "Beleza",
+      "price": 184.0,
+      "score": 188.67,
+      "posted_ts": 1791507761,
+      "posted_at": "2026-10-09T01:02:41.464802+00:00"
+    },
+    {
       "key": "mercadolivre:MLB6884302164",
       "product_id": "MLB6884302164",
       "catalog_product_id": "MLB70627275",
@@ -539,37 +554,7 @@
       "score": 195.37,
       "posted_ts": 1791338564,
       "posted_at": "2026-10-07T02:02:44.688518+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB4139317597",
-      "product_id": "MLB4139317597",
-      "catalog_product_id": "MLB23649057",
-      "item_id": "MLB4139317597",
-      "url": "https://www.mercadolivre.com.br/p/MLB23649057?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB23649057?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "furadeira parafusadeira imp c parafusadeira imp dlx2336syx",
-      "title": "Furadeira Parafusadeira Imp C/ Parafusadeira Imp Dlx2336syx",
-      "category": "Ferramentas",
-      "price": 1576.0,
-      "score": 117.68,
-      "posted_ts": 1791327831,
-      "posted_at": "2026-10-06T23:03:51.744815+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB3583861201",
-      "product_id": "MLB3583861201",
-      "catalog_product_id": "MLB19765397",
-      "item_id": "MLB3583861201",
-      "url": "https://www.mercadolivre.com.br/p/MLB19765397?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB19765397?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "combo furadeira parafusadeira df333d parafusadeira de impacto td110d 12v clx224sax",
-      "title": "Combo Furadeira Parafusadeira DF333D + Parafusadeira de Impacto TD110D 12V - CLX224SAX",
-      "category": "Ferramentas",
-      "price": 1199.0,
-      "score": 133.63,
-      "posted_ts": 1791327767,
-      "posted_at": "2026-10-06T23:02:47.581967+00:00"
     }
   ],
-  "updated_at": "2026-10-08T22:05:52.860318+00:00"
+  "updated_at": "2026-10-09T01:02:41.464820+00:00"
 }
