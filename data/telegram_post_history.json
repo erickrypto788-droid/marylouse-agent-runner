@@ -1,6 +1,34 @@
 {
   "posts": [
     {
+      "key": "shopee:22191925108",
+      "marketplace": "shopee",
+      "id": "22191925108",
+      "title": "Mochila Coleção 2023 Luxo Viagem Executiva Reforçada",
+      "title_norm": "mochila colecao 2023 luxo viagem executiva reforcada",
+      "url": "https://shopee.com.br/product/691323218/22191925108",
+      "affiliate_url": "https://s.shopee.com.br/905qu1yVF0",
+      "category": "ULTRA TECH COMERCIAL LTDA",
+      "bucket": "bolsas",
+      "posted_ts": 1791587907,
+      "posted_at": "2026-10-09T23:18:27.444442+00:00",
+      "score": 82.04
+    },
+    {
+      "key": "shopee:15480003512",
+      "marketplace": "shopee",
+      "id": "15480003512",
+      "title": "Mochila Escolar Impermeável Grande 45 L Notebook 17 Resistente",
+      "title_norm": "mochila escolar impermeavel grande 45 l notebook 17 resistente",
+      "url": "https://shopee.com.br/product/695223211/15480003512",
+      "affiliate_url": "https://s.shopee.com.br/5VVyjbBpLV",
+      "category": "MD2Representacoes",
+      "bucket": "informatica",
+      "posted_ts": 1791587843,
+      "posted_at": "2026-10-09T23:17:23.529897+00:00",
+      "score": 112.11
+    },
+    {
       "key": "shopee:22497089311",
       "marketplace": "shopee",
       "id": "22497089311",
@@ -13971,35 +13999,7 @@
       "posted_ts": 1790806675,
       "posted_at": "2026-09-30T22:17:55.331075+00:00",
       "score": 103.76
-    },
-    {
-      "key": "shopee:19198992648",
-      "marketplace": "shopee",
-      "id": "19198992648",
-      "title": "Sapatenis Casual Masculino Sneaker Sola Alta Macio Chunky Confortável Estiloso Sola Oversize Lanç",
-      "title_norm": "sapatenis casual masculino sneaker sola alta macio chunky confortavel estiloso sola oversize lanc",
-      "url": "https://shopee.com.br/product/304755339/19198992648",
-      "affiliate_url": "https://s.shopee.com.br/4qG3WFHIN9",
-      "category": "Atria Shoes",
-      "bucket": "calcados",
-      "posted_ts": 1790806611,
-      "posted_at": "2026-09-30T22:16:51.189512+00:00",
-      "score": 109.38
-    },
-    {
-      "key": "mercadolivre:MLB7209542710",
-      "marketplace": "mercadolivre",
-      "id": "MLB7209542710",
-      "title": "Calça Legging Fitness Feminina Ausare com Proteção UV 50+ para Academia, Yoga e Pilates",
-      "title_norm": "calca legging fitness feminina ausare com protecao uv 50 para academia yoga e pilates",
-      "url": "https://www.mercadolivre.com.br/p/MLB69276346?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB69276346?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "category": "Moda Feminina",
-      "bucket": "moda_feminina",
-      "posted_ts": 1790805828,
-      "posted_at": "2026-09-30T22:03:48.845653+00:00",
-      "score": 88.0
     }
   ],
-  "updated_at": "2026-10-09T22:19:12.883814+00:00"
+  "updated_at": "2026-10-09T23:18:27.444453+00:00"
 }
