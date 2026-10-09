@@ -1,6 +1,20 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB7270317978",
+      "marketplace": "mercadolivre",
+      "id": "MLB7270317978",
+      "title": "Prancha Esteira Ergométrica Deck Múltipla T3000 Preto",
+      "title_norm": "prancha esteira ergometrica deck multipla t3000 preto",
+      "url": "https://www.mercadolivre.com.br/p/MLB75817587?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB75817587?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Esportes",
+      "bucket": "esportes",
+      "posted_ts": 1791568994,
+      "posted_at": "2026-10-09T18:03:14.968797+00:00",
+      "score": 103.53
+    },
+    {
       "key": "shopee:20299836604",
       "marketplace": "shopee",
       "id": "20299836604",
@@ -13985,21 +13999,7 @@
       "posted_ts": 1790785210,
       "posted_at": "2026-09-30T16:20:10.885038+00:00",
       "score": 95.89
-    },
-    {
-      "key": "shopee:22499247158",
-      "marketplace": "shopee",
-      "id": "22499247158",
-      "title": "Carregador Portátil Mini Power Bank 10000mAh Com 02 Saídas Tipo-C / Lightning",
-      "title_norm": "carregador portatil mini power bank 10000mah com 02 saidas tipo c lightning",
-      "url": "https://shopee.com.br/product/408715442/22499247158",
-      "affiliate_url": "https://s.shopee.com.br/5LCIuzlGPG",
-      "category": "SHR ELETRONICOS",
-      "bucket": "shr_eletronicos",
-      "posted_ts": 1790785146,
-      "posted_at": "2026-09-30T16:19:06.866515+00:00",
-      "score": 118.56
     }
   ],
-  "updated_at": "2026-10-09T17:21:16.949014+00:00"
+  "updated_at": "2026-10-09T18:03:14.968811+00:00"
 }
