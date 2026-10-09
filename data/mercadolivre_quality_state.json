@@ -1,6 +1,66 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB5827798066",
+      "product_id": "MLB5827798066",
+      "catalog_product_id": "MLB47658528",
+      "item_id": "MLB5827798066",
+      "url": "https://www.mercadolivre.com.br/p/MLB47658528?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB47658528?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "kit papel toalha interfolha supremo e papel toalha mili",
+      "title": "Kit Papel Toalha Interfolha Supremo E Papel Toalha Mili",
+      "category": "Supermercados",
+      "price": 105.45,
+      "score": 98.67,
+      "posted_ts": 1791551381,
+      "posted_at": "2026-10-09T13:09:41.558924+00:00"
+    },
+    {
+      "key": "mercadolivre:MLB5827152542",
+      "product_id": "MLB5827152542",
+      "catalog_product_id": "MLB60416491",
+      "item_id": "MLB5827152542",
+      "url": "https://www.mercadolivre.com.br/p/MLB60416491?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB60416491?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "amaciante roupas macias sensiv titila 5l",
+      "title": "Amaciante Roupas Macias Sensiv Titila 5l",
+      "category": "Supermercados",
+      "price": 47.4,
+      "score": 103.67,
+      "posted_ts": 1791551317,
+      "posted_at": "2026-10-09T13:08:37.415423+00:00"
+    },
+    {
+      "key": "mercadolivre:MLB7480232532",
+      "product_id": "MLB7480232532",
+      "catalog_product_id": "MLB54116785",
+      "item_id": "MLB7480232532",
+      "url": "https://www.mercadolivre.com.br/p/MLB54116785?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB54116785?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "papel higienico folha simples fofopel 30m 16 rolos",
+      "title": "Papel Higiênico Folha Simples Fofopel 30m 16 Rolos",
+      "category": "Supermercados",
+      "price": 84.99,
+      "score": 114.0,
+      "posted_ts": 1791551246,
+      "posted_at": "2026-10-09T13:07:26.565631+00:00"
+    },
+    {
+      "key": "mercadolivre:MLB7190286922",
+      "product_id": "MLB7190286922",
+      "catalog_product_id": "MLB75541518",
+      "item_id": "MLB7190286922",
+      "url": "https://www.mercadolivre.com.br/p/MLB75541518?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB75541518?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "luminaria foguete lava bolha todas as cores decoracao retro",
+      "title": "Luminária Foguete Lava Bolha Todas As Cores Decoração Retrô",
+      "category": "Pet",
+      "price": 134.3,
+      "score": 149.67,
+      "posted_ts": 1791551173,
+      "posted_at": "2026-10-09T13:06:13.268454+00:00"
+    },
+    {
       "key": "mercadolivre:MLB5095655201",
       "product_id": "MLB5095655201",
       "catalog_product_id": "MLB50110319",
@@ -509,22 +569,7 @@
       "score": 113.0,
       "posted_ts": 1791381800,
       "posted_at": "2026-10-07T14:03:20.800565+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB5355035490",
-      "product_id": "MLB5355035490",
-      "catalog_product_id": "MLB48409016",
-      "item_id": "MLB5355035490",
-      "url": "https://www.mercadolivre.com.br/p/MLB48409016?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB48409016?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "cama box solteiro colchao molas ensacadas orthoflex memor",
-      "title": "Cama Box Solteiro: Colchão Molas Ensacadas Orthoflex Memor",
-      "category": "Casa e Cozinha",
-      "price": 1235.89,
-      "score": 75.67,
-      "posted_ts": 1791371082,
-      "posted_at": "2026-10-07T11:04:42.565223+00:00"
     }
   ],
-  "updated_at": "2026-10-09T11:03:40.772548+00:00"
+  "updated_at": "2026-10-09T13:09:41.558938+00:00"
 }
