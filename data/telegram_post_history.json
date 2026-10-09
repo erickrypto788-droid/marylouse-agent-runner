@@ -1,6 +1,20 @@
 {
   "posts": [
     {
+      "key": "shopee:20598029203",
+      "marketplace": "shopee",
+      "id": "20598029203",
+      "title": "Vídeo Game portátil 10000 jogos retrô tipo P-s.Eony 5.5 Polegadas",
+      "title_norm": "video game portatil 10000 jogos retro tipo p s eony 5 5 polegadas",
+      "url": "https://shopee.com.br/product/974102638/20598029203",
+      "affiliate_url": "https://s.shopee.com.br/LnrWDw3cW",
+      "category": "Loja 128",
+      "bucket": "loja_128",
+      "posted_ts": 1791530249,
+      "posted_at": "2026-10-09T07:17:29.559199+00:00",
+      "score": 71.08
+    },
+    {
       "key": "shopee:22094579769",
       "marketplace": "shopee",
       "id": "22094579769",
@@ -13985,21 +13999,7 @@
       "posted_ts": 1790752679,
       "posted_at": "2026-09-30T07:17:59.202377+00:00",
       "score": 119.64
-    },
-    {
-      "key": "shopee:51400292461",
-      "marketplace": "shopee",
-      "id": "51400292461",
-      "title": "Babuche Carros Menino Infantil Divertido e com Solado Antiderrapante Kidstep",
-      "title_norm": "babuche carros menino infantil divertido e com solado antiderrapante kidstep",
-      "url": "https://shopee.com.br/product/655361464/51400292461",
-      "affiliate_url": "https://s.shopee.com.br/3B7oXN5Gds",
-      "category": "Kidstarcalcados",
-      "bucket": "kidstarcalcados",
-      "posted_ts": 1790752611,
-      "posted_at": "2026-09-30T07:16:51.440297+00:00",
-      "score": 120.63
     }
   ],
-  "updated_at": "2026-10-09T06:21:08.944661+00:00"
+  "updated_at": "2026-10-09T07:17:29.559212+00:00"
 }
