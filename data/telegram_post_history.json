@@ -1,6 +1,34 @@
 {
   "posts": [
     {
+      "key": "shopee:58255239538",
+      "marketplace": "shopee",
+      "id": "58255239538",
+      "title": "Chinelo BABUCHE PLATAFORMA ALTA NUVEM MACIA 100 % DECORADA COM BÓTONS PINGENTES EM ABS CONFORTÁVELSandália Confortável",
+      "title_norm": "chinelo babuche plataforma alta nuvem macia 100 decorada com botons pingentes em abs confortavelsandalia confortavel",
+      "url": "https://shopee.com.br/product/1509055233/58255239538",
+      "affiliate_url": "https://s.shopee.com.br/1VznuYDNh8",
+      "category": "X&M Variedades",
+      "bucket": "calcados",
+      "posted_ts": 1791551890,
+      "posted_at": "2026-10-09T13:18:10.387571+00:00",
+      "score": 104.01
+    },
+    {
+      "key": "shopee:58201437353",
+      "marketplace": "shopee",
+      "id": "58201437353",
+      "title": "Sandália Rasteira Feminina Gladiadora Tachas Douradas e Prateadas Tira no Tornozelo Fivela Ajustável",
+      "title_norm": "sandalia rasteira feminina gladiadora tachas douradas e prateadas tira no tornozelo fivela ajustavel",
+      "url": "https://shopee.com.br/product/1679452756/58201437353",
+      "affiliate_url": "https://s.shopee.com.br/8Kq9RcpW4z",
+      "category": "rosecoutinhoshoes",
+      "bucket": "calcados",
+      "posted_ts": 1791551826,
+      "posted_at": "2026-10-09T13:17:06.266609+00:00",
+      "score": 109.18
+    },
+    {
       "key": "mercadolivre:MLB5827798066",
       "marketplace": "mercadolivre",
       "id": "MLB5827798066",
@@ -13971,35 +13999,7 @@
       "posted_ts": 1790767011,
       "posted_at": "2026-09-30T11:16:51.896530+00:00",
       "score": 104.66
-    },
-    {
-      "key": "mercadolivre:MLB6149389980",
-      "marketplace": "mercadolivre",
-      "id": "MLB6149389980",
-      "title": "Kit Furadeira e Parafusadeira com Parafusadeira Dewalt Modelo DCK200ME2GT 2 Baterias 20V",
-      "title_norm": "kit furadeira e parafusadeira com parafusadeira dewalt modelo dck200me2gt 2 baterias 20v",
-      "url": "https://www.mercadolivre.com.br/p/MLB37180897?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB37180897?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "category": "Ferramentas",
-      "bucket": "ferramentas",
-      "posted_ts": 1790766354,
-      "posted_at": "2026-09-30T11:05:54.879084+00:00",
-      "score": 109.0
-    },
-    {
-      "key": "mercadolivre:MLB4773133945",
-      "marketplace": "mercadolivre",
-      "id": "MLB4773133945",
-      "title": "Kit Ferramentas Furadeira Esmerilhadeira Parafusadeira",
-      "title_norm": "kit ferramentas furadeira esmerilhadeira parafusadeira",
-      "url": "https://www.mercadolivre.com.br/p/MLB70110890?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB70110890?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "category": "Ferramentas",
-      "bucket": "ferramentas",
-      "posted_ts": 1790766284,
-      "posted_at": "2026-09-30T11:04:44.641672+00:00",
-      "score": 147.67
     }
   ],
-  "updated_at": "2026-10-09T13:09:41.547084+00:00"
+  "updated_at": "2026-10-09T13:18:10.387592+00:00"
 }
