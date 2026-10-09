@@ -1,6 +1,20 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB5095655201",
+      "marketplace": "mercadolivre",
+      "id": "MLB5095655201",
+      "title": "Impressora Etiquetas Código Barras + 1.000 Etiquetas Cor Branco",
+      "title_norm": "impressora etiquetas codigo barras 1 000 etiquetas cor branco",
+      "url": "https://www.mercadolivre.com.br/p/MLB50110319?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB50110319?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Informática",
+      "bucket": "informatica",
+      "posted_ts": 1791543820,
+      "posted_at": "2026-10-09T11:03:40.757670+00:00",
+      "score": 98.46
+    },
+    {
       "key": "shopee:58205018164",
       "marketplace": "shopee",
       "id": "58205018164",
@@ -13985,21 +13999,7 @@
       "posted_ts": 1790759811,
       "posted_at": "2026-09-30T09:16:51.546625+00:00",
       "score": 103.68
-    },
-    {
-      "key": "mercadolivre:MLB6392071978",
-      "marketplace": "mercadolivre",
-      "id": "MLB6392071978",
-      "title": "Mini Depilador Elétrico Aparador Pelos Corporal Feminino",
-      "title_norm": "mini depilador eletrico aparador pelos corporal feminino",
-      "url": "https://www.mercadolivre.com.br/p/MLB29763388?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB29763388?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "category": "Beleza",
-      "bucket": "beleza",
-      "posted_ts": 1790759115,
-      "posted_at": "2026-09-30T09:05:15.868484+00:00",
-      "score": 88.0
     }
   ],
-  "updated_at": "2026-10-09T10:21:52.318822+00:00"
+  "updated_at": "2026-10-09T11:03:40.757683+00:00"
 }
