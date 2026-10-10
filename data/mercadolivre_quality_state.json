@@ -1,6 +1,36 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB3845821781",
+      "product_id": "MLB3845821781",
+      "catalog_product_id": "MLB38279289",
+      "item_id": "MLB3845821781",
+      "url": "https://www.mercadolivre.com.br/p/MLB38279289?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB38279289?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "armario organizador cozinha balcao microondas jet cinza",
+      "title": "Armário Organizador Cozinha Balcão Microondas Jet - Cinza",
+      "category": "Casa e Cozinha",
+      "price": 399.9,
+      "score": 86.0,
+      "posted_ts": 1791623060,
+      "posted_at": "2026-10-10T09:04:20.522846+00:00"
+    },
+    {
+      "key": "mercadolivre:MLB7075807782",
+      "product_id": "MLB7075807782",
+      "catalog_product_id": "MLB72068054",
+      "item_id": "MLB7075807782",
+      "url": "https://www.mercadolivre.com.br/p/MLB72068054?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB72068054?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "rack acacia rack para tv ate 43 pt jupiter de madeira",
+      "title": "Rack Acacia Rack Para Tv Até 43 Pt-jupiter De Madeira",
+      "category": "Casa e Cozinha",
+      "price": 195.32,
+      "score": 88.0,
+      "posted_ts": 1791622989,
+      "posted_at": "2026-10-10T09:03:09.554657+00:00"
+    },
+    {
       "key": "mercadolivre:MLB5276660983",
       "product_id": "MLB5276660983",
       "catalog_product_id": "MLB36370915",
@@ -556,5 +586,5 @@
       "posted_at": "2026-10-08T11:03:23.407089+00:00"
     }
   ],
-  "updated_at": "2026-10-10T08:06:31.998699+00:00"
+  "updated_at": "2026-10-10T09:04:20.522861+00:00"
 }

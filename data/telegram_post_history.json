@@ -1,6 +1,34 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB3845821781",
+      "marketplace": "mercadolivre",
+      "id": "MLB3845821781",
+      "title": "Armário Organizador Cozinha Balcão Microondas Jet - Cinza",
+      "title_norm": "armario organizador cozinha balcao microondas jet cinza",
+      "url": "https://www.mercadolivre.com.br/p/MLB38279289?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB38279289?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Casa e Cozinha",
+      "bucket": "casa_e_cozinha",
+      "posted_ts": 1791623060,
+      "posted_at": "2026-10-10T09:04:20.507886+00:00",
+      "score": 86.0
+    },
+    {
+      "key": "mercadolivre:MLB7075807782",
+      "marketplace": "mercadolivre",
+      "id": "MLB7075807782",
+      "title": "Rack Acacia Rack Para Tv Até 43 Pt-jupiter De Madeira",
+      "title_norm": "rack acacia rack para tv ate 43 pt jupiter de madeira",
+      "url": "https://www.mercadolivre.com.br/p/MLB72068054?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB72068054?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Casa e Cozinha",
+      "bucket": "casa_e_cozinha",
+      "posted_ts": 1791622989,
+      "posted_at": "2026-10-10T09:03:09.539155+00:00",
+      "score": 88.0
+    },
+    {
       "key": "shopee:58264690361",
       "marketplace": "shopee",
       "id": "58264690361",
@@ -13971,35 +13999,7 @@
       "posted_ts": 1790867943,
       "posted_at": "2026-10-01T15:19:03.170791+00:00",
       "score": 95.35
-    },
-    {
-      "key": "shopee:22594952327",
-      "marketplace": "shopee",
-      "id": "22594952327",
-      "title": "30 Unidades Jogo da Velha MDF Brinquedo Educativo Infantil Lembrança Festa Aniversário Presente",
-      "title_norm": "30 unidades jogo da velha mdf brinquedo educativo infantil lembranca festa aniversario presente",
-      "url": "https://shopee.com.br/product/1801640716/22594952327",
-      "affiliate_url": "https://s.shopee.com.br/3LRGrXbLfR",
-      "category": "Mundo Laser Decor",
-      "bucket": "mundo_laser_decor",
-      "posted_ts": 1790867878,
-      "posted_at": "2026-10-01T15:17:58.866324+00:00",
-      "score": 97.34
-    },
-    {
-      "key": "shopee:58254949260",
-      "marketplace": "shopee",
-      "id": "58254949260",
-      "title": "Tapple Stop – Jogo de Tabuleiro Trava Letras com Temporizador – Versão GRANDE 24cm – Português",
-      "title_norm": "tapple stop jogo de tabuleiro trava letras com temporizador versao grande 24cm portugues",
-      "url": "https://shopee.com.br/product/1695518686/58254949260",
-      "affiliate_url": "https://s.shopee.com.br/3Vkh3qaiKS",
-      "category": "Tudo Bom ",
-      "bucket": "tudo_bom",
-      "posted_ts": 1790867814,
-      "posted_at": "2026-10-01T15:16:54.837568+00:00",
-      "score": 111.43
     }
   ],
-  "updated_at": "2026-10-10T08:18:27.441054+00:00"
+  "updated_at": "2026-10-10T09:04:20.507908+00:00"
 }
