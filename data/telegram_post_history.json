@@ -1,6 +1,20 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB7625830504",
+      "marketplace": "mercadolivre",
+      "id": "MLB7625830504",
+      "title": "Impressora Etiquetas Adesivas + 1.000 Etiquetas 10x15cm Branco",
+      "title_norm": "impressora etiquetas adesivas 1 000 etiquetas 10x15cm branco",
+      "url": "https://www.mercadolivre.com.br/p/MLB78672090?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB78672090?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Informática",
+      "bucket": "informatica",
+      "posted_ts": 1791669778,
+      "posted_at": "2026-10-10T22:02:58.327257+00:00",
+      "score": 108.24
+    },
+    {
       "key": "shopee:58205560982",
       "marketplace": "shopee",
       "id": "58205560982",
@@ -13985,21 +13999,7 @@
       "posted_ts": 1790911004,
       "posted_at": "2026-10-02T03:16:44.445271+00:00",
       "score": 112.5
-    },
-    {
-      "key": "mercadolivre:MLB4302548173",
-      "marketplace": "mercadolivre",
-      "id": "MLB4302548173",
-      "title": "Comedouro Automático Ração Aquário Terrario Peixe Tartaruga",
-      "title_norm": "comedouro automatico racao aquario terrario peixe tartaruga",
-      "url": "https://www.mercadolivre.com.br/p/MLB44164135?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB44164135?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "category": "Pet",
-      "bucket": "pet",
-      "posted_ts": 1790910149,
-      "posted_at": "2026-10-02T03:02:29.259275+00:00",
-      "score": 137.09
     }
   ],
-  "updated_at": "2026-10-10T21:21:25.343187+00:00"
+  "updated_at": "2026-10-10T22:02:58.327278+00:00"
 }
