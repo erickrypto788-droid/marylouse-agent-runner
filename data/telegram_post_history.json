@@ -1,6 +1,20 @@
 {
   "posts": [
     {
+      "key": "shopee:58263369269",
+      "marketplace": "shopee",
+      "id": "58263369269",
+      "title": "Tênis Masculino Academia Casual Esportivo Para Treino Crossfit Caminhada",
+      "title_norm": "tenis masculino academia casual esportivo para treino crossfit caminhada",
+      "url": "https://shopee.com.br/product/1598184222/58263369269",
+      "affiliate_url": "https://s.shopee.com.br/9KihpcP2bR",
+      "category": "De Macedos 2.0",
+      "bucket": "calcados",
+      "posted_ts": 1791616618,
+      "posted_at": "2026-10-10T07:16:58.927755+00:00",
+      "score": 114.27
+    },
+    {
       "key": "mercadolivre:MLB5118569459",
       "marketplace": "mercadolivre",
       "id": "MLB5118569459",
@@ -13985,21 +13999,7 @@
       "posted_ts": 1790864344,
       "posted_at": "2026-10-01T14:19:04.452539+00:00",
       "score": 120.08
-    },
-    {
-      "key": "shopee:19499545730",
-      "marketplace": "shopee",
-      "id": "19499545730",
-      "title": "Mini Compressor De Ar Portátil Recarregável Digital USB Calibrador De Pneus Carro Moto Bicicleta Infláveis Automático",
-      "title_norm": "mini compressor de ar portatil recarregavel digital usb calibrador de pneus carro moto bicicleta inflaveis automatico",
-      "url": "https://shopee.com.br/product/1127030290/19499545730",
-      "affiliate_url": "https://s.shopee.com.br/8KpwkbKbHz",
-      "category": "JIMMY.STORE",
-      "bucket": "jimmy_store",
-      "posted_ts": 1790864280,
-      "posted_at": "2026-10-01T14:18:00.506518+00:00",
-      "score": 121.71
     }
   ],
-  "updated_at": "2026-10-10T07:07:40.143333+00:00"
+  "updated_at": "2026-10-10T07:16:58.927770+00:00"
 }
