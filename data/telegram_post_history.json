@@ -1,6 +1,34 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB7776260612",
+      "marketplace": "mercadolivre",
+      "id": "MLB7776260612",
+      "title": "Smartphone Xiaomi Redmi Note 11s 128gb, Cinza",
+      "title_norm": "smartphone xiaomi redmi note 11s 128gb cinza",
+      "url": "https://www.mercadolivre.com.br/p/MLB60854599?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB60854599?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Informática",
+      "bucket": "celulares",
+      "posted_ts": 1791590681,
+      "posted_at": "2026-10-10T00:04:41.445254+00:00",
+      "score": 136.67
+    },
+    {
+      "key": "mercadolivre:MLB5919313906",
+      "marketplace": "mercadolivre",
+      "id": "MLB5919313906",
+      "title": "Carregador Portátil 20000mAh Bahrein Power Bank Universal Power Bank Carga Rápida Com Display Bahrein Compatível Com Todos Celulares Iphone Android IOS apple xiaomi Samsung Motorola",
+      "title_norm": "carregador portatil 20000mah bahrein power bank universal power bank carga rapida com display bahrein compativel com todos celulares iphone android ios apple xiaomi samsung motorola",
+      "url": "https://www.mercadolivre.com.br/p/MLB24099360?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB24099360?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Informática",
+      "bucket": "celulares",
+      "posted_ts": 1791590608,
+      "posted_at": "2026-10-10T00:03:28.514059+00:00",
+      "score": 147.96
+    },
+    {
       "key": "shopee:22191925108",
       "marketplace": "shopee",
       "id": "22191925108",
@@ -13971,35 +13999,7 @@
       "posted_ts": 1790810214,
       "posted_at": "2026-09-30T23:16:54.486162+00:00",
       "score": 112.01
-    },
-    {
-      "key": "mercadolivre:MLB5175310031",
-      "marketplace": "mercadolivre",
-      "id": "MLB5175310031",
-      "title": "Jogo Panelas Vermelho Alumínio Fundido Usinado Javaliam16a24",
-      "title_norm": "jogo panelas vermelho aluminio fundido usinado javaliam16a24",
-      "url": "https://www.mercadolivre.com.br/p/MLB32583536?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB32583536?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "category": "Casa e Cozinha",
-      "bucket": "casa_cozinha",
-      "posted_ts": 1790809443,
-      "posted_at": "2026-09-30T23:04:03.074469+00:00",
-      "score": 111.0
-    },
-    {
-      "key": "shopee:58262825557",
-      "marketplace": "shopee",
-      "id": "58262825557",
-      "title": "Tênis Sapato Masculino Casual + Relógio Digital Sapatênis Várias Cores Envio Imediato",
-      "title_norm": "tenis sapato masculino casual relogio digital sapatenis varias cores envio imediato",
-      "url": "https://shopee.com.br/product/847396155/58262825557",
-      "affiliate_url": "https://s.shopee.com.br/W74MHXnAT",
-      "category": "StoreOutlett",
-      "bucket": "calcados",
-      "posted_ts": 1790806675,
-      "posted_at": "2026-09-30T22:17:55.331075+00:00",
-      "score": 103.76
     }
   ],
-  "updated_at": "2026-10-09T23:18:27.444453+00:00"
+  "updated_at": "2026-10-10T00:04:41.445267+00:00"
 }
