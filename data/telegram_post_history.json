@@ -1,6 +1,34 @@
 {
   "posts": [
     {
+      "key": "shopee:22593940178",
+      "marketplace": "shopee",
+      "id": "22593940178",
+      "title": "Mochila Cabo de Aço Masculina Impermeável Faculdade Resistente Grande",
+      "title_norm": "mochila cabo de aco masculina impermeavel faculdade resistente grande",
+      "url": "https://shopee.com.br/product/392260640/22593940178",
+      "affiliate_url": "https://s.shopee.com.br/8fT1li1Hjq",
+      "category": "Good Vibes Moment Variedade Mochila",
+      "bucket": "bolsas",
+      "posted_ts": 1791656269,
+      "posted_at": "2026-10-10T18:17:49.839350+00:00",
+      "score": 66.6
+    },
+    {
+      "key": "shopee:58256512525",
+      "marketplace": "shopee",
+      "id": "58256512525",
+      "title": "Mochila Masculina Preta Reforçada Impermeável Grande Capacidade para Trabalho Viagem Escola e Uso Diário",
+      "title_norm": "mochila masculina preta reforcada impermeavel grande capacidade para trabalho viagem escola e uso diario",
+      "url": "https://shopee.com.br/product/1658947107/58256512525",
+      "affiliate_url": "https://s.shopee.com.br/4fwt0MByUL",
+      "category": "RON CHANG",
+      "bucket": "bolsas",
+      "posted_ts": 1791656205,
+      "posted_at": "2026-10-10T18:16:45.845805+00:00",
+      "score": 77.63
+    },
+    {
       "key": "shopee:58213892471",
       "marketplace": "shopee",
       "id": "58213892471",
@@ -13971,35 +13999,7 @@
       "posted_ts": 1790900218,
       "posted_at": "2026-10-02T00:16:58.652430+00:00",
       "score": 119.15
-    },
-    {
-      "key": "mercadolivre:MLB5501712742",
-      "marketplace": "mercadolivre",
-      "id": "MLB5501712742",
-      "title": "Estojo magnético da série Crystal para iPhone 13, iPhone 13 Pro, iPhone 13 Pro Max, iPhone 14, iPhone 14 Pro, iPhone 14 Pro Max",
-      "title_norm": "estojo magnetico da serie crystal para iphone 13 iphone 13 pro iphone 13 pro max iphone 14 iphone 14 pro iphone 14 pro max",
-      "url": "https://www.mercadolivre.com.br/p/MLB21090695?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB21090695?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "category": "Informática",
-      "bucket": "celulares",
-      "posted_ts": 1790899413,
-      "posted_at": "2026-10-02T00:03:33.830080+00:00",
-      "score": 114.0
-    },
-    {
-      "key": "mercadolivre:MLB4867137953",
-      "marketplace": "mercadolivre",
-      "id": "MLB4867137953",
-      "title": "Celular 5g Smartphone 16gb/512gb Rom Dimensity 7200 Impressão Digital Android 15",
-      "title_norm": "celular 5g smartphone 16gb 512gb rom dimensity 7200 impressao digital android 15",
-      "url": "https://www.mercadolivre.com.br/p/MLB75208845?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB75208845?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "category": "Informática",
-      "bucket": "celulares",
-      "posted_ts": 1790899349,
-      "posted_at": "2026-10-02T00:02:29.901644+00:00",
-      "score": 206.47
     }
   ],
-  "updated_at": "2026-10-10T17:20:19.513342+00:00"
+  "updated_at": "2026-10-10T18:17:49.839361+00:00"
 }
