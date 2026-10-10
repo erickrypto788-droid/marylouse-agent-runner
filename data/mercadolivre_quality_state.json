@@ -1,6 +1,36 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB5501712742",
+      "product_id": "MLB5501712742",
+      "catalog_product_id": "MLB21090695",
+      "item_id": "MLB5501712742",
+      "url": "https://www.mercadolivre.com.br/p/MLB21090695?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB21090695?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "estojo magnetico da serie crystal para iphone 13 iphone 13 pro iphone 13 pro max iphone 14 iphone 14 pro iphone 14 pro max",
+      "title": "Estojo magnético da série Crystal para iPhone 13, iPhone 13 Pro, iPhone 13 Pro Max, iPhone 14, iPhone 14 Pro, iPhone 14 Pro Max",
+      "category": "Informática",
+      "price": 99.9,
+      "score": 114.0,
+      "posted_ts": 1791651847,
+      "posted_at": "2026-10-10T17:04:07.316975+00:00"
+    },
+    {
+      "key": "mercadolivre:MLB7735209524",
+      "product_id": "MLB7735209524",
+      "catalog_product_id": "MLB43264591",
+      "item_id": "MLB7735209524",
+      "url": "https://www.mercadolivre.com.br/p/MLB43264591?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB43264591?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "smartphone xiaomi redmi 14c preto 128gb 4gb ram",
+      "title": "Smartphone Xiaomi Redmi 14C Preto 128GB 4GB RAM",
+      "category": "Informática",
+      "price": 759.05,
+      "score": 136.67,
+      "posted_ts": 1791651770,
+      "posted_at": "2026-10-10T17:02:50.103552+00:00"
+    },
+    {
       "key": "mercadolivre:MLB5292061071",
       "product_id": "MLB5292061071",
       "catalog_product_id": "MLB24511655",
@@ -571,5 +601,5 @@
       "posted_at": "2026-10-08T18:03:21.042214+00:00"
     }
   ],
-  "updated_at": "2026-10-10T15:02:43.823212+00:00"
+  "updated_at": "2026-10-10T17:04:07.316989+00:00"
 }

@@ -1,6 +1,34 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB5501712742",
+      "marketplace": "mercadolivre",
+      "id": "MLB5501712742",
+      "title": "Estojo magnético da série Crystal para iPhone 13, iPhone 13 Pro, iPhone 13 Pro Max, iPhone 14, iPhone 14 Pro, iPhone 14 Pro Max",
+      "title_norm": "estojo magnetico da serie crystal para iphone 13 iphone 13 pro iphone 13 pro max iphone 14 iphone 14 pro iphone 14 pro max",
+      "url": "https://www.mercadolivre.com.br/p/MLB21090695?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB21090695?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Informática",
+      "bucket": "celulares",
+      "posted_ts": 1791651847,
+      "posted_at": "2026-10-10T17:04:07.304490+00:00",
+      "score": 114.0
+    },
+    {
+      "key": "mercadolivre:MLB7735209524",
+      "marketplace": "mercadolivre",
+      "id": "MLB7735209524",
+      "title": "Smartphone Xiaomi Redmi 14C Preto 128GB 4GB RAM",
+      "title_norm": "smartphone xiaomi redmi 14c preto 128gb 4gb ram",
+      "url": "https://www.mercadolivre.com.br/p/MLB43264591?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB43264591?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Informática",
+      "bucket": "celulares",
+      "posted_ts": 1791651770,
+      "posted_at": "2026-10-10T17:02:50.090410+00:00",
+      "score": 136.67
+    },
+    {
       "key": "shopee:23296980905",
       "marketplace": "shopee",
       "id": "23296980905",
@@ -13971,35 +13999,7 @@
       "posted_ts": 1790896672,
       "posted_at": "2026-10-01T23:17:52.464300+00:00",
       "score": 46.25
-    },
-    {
-      "key": "shopee:23998082220",
-      "marketplace": "shopee",
-      "id": "23998082220",
-      "title": "Vídeo Game Portátil  polegadas 10 Mil Jogos  Classicos Retro BOY Classicos",
-      "title_norm": "video game portatil polegadas 10 mil jogos classicos retro boy classicos",
-      "url": "https://shopee.com.br/product/1064041485/23998082220",
-      "affiliate_url": "https://s.shopee.com.br/2BFK0Lv0eQ",
-      "category": "LuxeElectra",
-      "bucket": "luxeelectra",
-      "posted_ts": 1790896608,
-      "posted_at": "2026-10-01T23:16:48.487810+00:00",
-      "score": 69.39
-    },
-    {
-      "key": "shopee:22593915398",
-      "marketplace": "shopee",
-      "id": "22593915398",
-      "title": "Chaleira Elétrica Jarra Café Chá Inox 110v",
-      "title_norm": "chaleira eletrica jarra cafe cha inox 110v",
-      "url": "https://shopee.com.br/product/408653169/22593915398",
-      "affiliate_url": "https://s.shopee.com.br/30oQvlOmcX",
-      "category": "SELLNEEDS",
-      "bucket": "sellneeds",
-      "posted_ts": 1790893270,
-      "posted_at": "2026-10-01T22:21:10.572940+00:00",
-      "score": 98.59
     }
   ],
-  "updated_at": "2026-10-10T16:21:13.581081+00:00"
+  "updated_at": "2026-10-10T17:04:07.304508+00:00"
 }
