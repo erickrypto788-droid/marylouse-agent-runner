@@ -1,6 +1,62 @@
 {
   "posts": [
     {
+      "key": "shopee:23993933147",
+      "marketplace": "shopee",
+      "id": "23993933147",
+      "title": "Micro-ondas Britânia 20L Pintura Limpa Fácil BMO23",
+      "title_norm": "micro ondas britania 20l pintura limpa facil bmo23",
+      "url": "https://shopee.com.br/product/811879342/23993933147",
+      "affiliate_url": "https://s.shopee.com.br/1B2uooOmd",
+      "category": "Britânia Oficial",
+      "bucket": "britania_oficial",
+      "posted_ts": 1791627617,
+      "posted_at": "2026-10-10T10:20:17.123033+00:00",
+      "score": 93.84
+    },
+    {
+      "key": "shopee:23099337262",
+      "marketplace": "shopee",
+      "id": "23099337262",
+      "title": "Liquidificador Britânia 2,6L 4 Velocidades Diamante 1100",
+      "title_norm": "liquidificador britania 2 6l 4 velocidades diamante 1100",
+      "url": "https://shopee.com.br/product/811879342/23099337262",
+      "affiliate_url": "https://s.shopee.com.br/9zyNYvJ8tj",
+      "category": "Britânia Oficial",
+      "bucket": "casa_cozinha",
+      "posted_ts": 1791627548,
+      "posted_at": "2026-10-10T10:19:08.882186+00:00",
+      "score": 109.34
+    },
+    {
+      "key": "shopee:23297589986",
+      "marketplace": "shopee",
+      "id": "23297589986",
+      "title": "Pipoqueira Elétrica Popcorn Maker 110V  Pipoca Sem Óleo",
+      "title_norm": "pipoqueira eletrica popcorn maker 110v pipoca sem oleo",
+      "url": "https://shopee.com.br/product/1053378287/23297589986",
+      "affiliate_url": "https://s.shopee.com.br/2VsNtPjHTL",
+      "category": "3XZ STORE",
+      "bucket": "3xz_store",
+      "posted_ts": 1791627479,
+      "posted_at": "2026-10-10T10:17:59.460063+00:00",
+      "score": 113.69
+    },
+    {
+      "key": "shopee:40830814218",
+      "marketplace": "shopee",
+      "id": "40830814218",
+      "title": "Aspirador De Pó Vertical 2 Em 1 Portátil Gaabor 650w",
+      "title_norm": "aspirador de po vertical 2 em 1 portatil gaabor 650w",
+      "url": "https://shopee.com.br/product/342086228/40830814218",
+      "affiliate_url": "https://s.shopee.com.br/905rdMG4DP",
+      "category": "BUMPER MAGAZINE",
+      "bucket": "casa_cozinha",
+      "posted_ts": 1791627412,
+      "posted_at": "2026-10-10T10:16:52.224199+00:00",
+      "score": 124.71
+    },
+    {
       "key": "shopee:22594276889",
       "marketplace": "shopee",
       "id": "22594276889",
@@ -13943,63 +13999,7 @@
       "posted_ts": 1790871605,
       "posted_at": "2026-10-01T16:20:05.226063+00:00",
       "score": 71.53
-    },
-    {
-      "key": "shopee:45504711899",
-      "marketplace": "shopee",
-      "id": "45504711899",
-      "title": "Kit Medidor Glicose 10 Tiras  10 Lancetas  Caneta G-Tech - Lite - Lite Praticidade Rapidez Precisão",
-      "title_norm": "kit medidor glicose 10 tiras 10 lancetas caneta g tech lite lite praticidade rapidez precisao",
-      "url": "https://shopee.com.br/product/1263405995/45504711899",
-      "affiliate_url": "https://s.shopee.com.br/3B7qjM4y50",
-      "category": "Essencial Vida",
-      "bucket": "essencial_vida",
-      "posted_ts": 1790871540,
-      "posted_at": "2026-10-01T16:19:00.965475+00:00",
-      "score": 89.81
-    },
-    {
-      "key": "shopee:23293187754",
-      "marketplace": "shopee",
-      "id": "23293187754",
-      "title": "TIRAS DE TESTE GLICOSE G-TECH PARA MEDIDOR MODELO VITA C/50",
-      "title_norm": "tiras de teste glicose g tech para medidor modelo vita c 50",
-      "url": "https://shopee.com.br/product/1251321262/23293187754",
-      "affiliate_url": "https://s.shopee.com.br/3Vkh7y3hOy",
-      "category": "Multimix Saúde Online",
-      "bucket": "multimix_saude_online",
-      "posted_ts": 1790871476,
-      "posted_at": "2026-10-01T16:17:56.780945+00:00",
-      "score": 94.76
-    },
-    {
-      "key": "shopee:20299250319",
-      "marketplace": "shopee",
-      "id": "20299250319",
-      "title": "Monitor digital de pressão arterial de braço totalmente automático anjgg",
-      "title_norm": "monitor digital de pressao arterial de braco totalmente automatico anjgg",
-      "url": "https://shopee.com.br/product/391739739/20299250319",
-      "affiliate_url": "https://s.shopee.com.br/9zyAruJA5Y",
-      "category": "ANJ.GG store",
-      "bucket": "saude",
-      "posted_ts": 1790871412,
-      "posted_at": "2026-10-01T16:16:52.857565+00:00",
-      "score": 123.02
-    },
-    {
-      "key": "mercadolivre:MLB6884302164",
-      "marketplace": "mercadolivre",
-      "id": "MLB6884302164",
-      "title": "Rack Yescasa Rack para TV até 70\" jatoba terroso de mdp",
-      "title_norm": "rack yescasa rack para tv ate 70 jatoba terroso de mdp",
-      "url": "https://www.mercadolivre.com.br/p/MLB70627275?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB70627275?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "category": "Casa e Cozinha",
-      "bucket": "casa_e_cozinha",
-      "posted_ts": 1790870648,
-      "posted_at": "2026-10-01T16:04:08.808560+00:00",
-      "score": 82.57
     }
   ],
-  "updated_at": "2026-10-10T09:19:07.485302+00:00"
+  "updated_at": "2026-10-10T10:20:17.123043+00:00"
 }
