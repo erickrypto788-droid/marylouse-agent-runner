@@ -1,6 +1,20 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB5292061071",
+      "marketplace": "mercadolivre",
+      "id": "MLB5292061071",
+      "title": "Ssd Nvme 512gb Ceamere",
+      "title_norm": "ssd nvme 512gb ceamere",
+      "url": "https://www.mercadolivre.com.br/p/MLB24511655?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB24511655?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Informática",
+      "bucket": "informatica",
+      "posted_ts": 1791644563,
+      "posted_at": "2026-10-10T15:02:43.812645+00:00",
+      "score": 124.48
+    },
+    {
       "key": "shopee:23498038856",
       "marketplace": "shopee",
       "id": "23498038856",
@@ -13985,21 +13999,7 @@
       "posted_ts": 1790889615,
       "posted_at": "2026-10-01T21:20:15.864852+00:00",
       "score": 75.72
-    },
-    {
-      "key": "shopee:58204437244",
-      "marketplace": "shopee",
-      "id": "58204437244",
-      "title": "Etiquetas Adesivas 3x3, 4x4 ou 5x5cm Personalizados Com Recorte",
-      "title_norm": "etiquetas adesivas 3x3 4x4 ou 5x5cm personalizados com recorte",
-      "url": "https://shopee.com.br/product/239610877/58204437244",
-      "affiliate_url": "https://s.shopee.com.br/4VdEeOucn3",
-      "category": "Plottz.br",
-      "bucket": "plottz_br",
-      "posted_ts": 1790889491,
-      "posted_at": "2026-10-01T21:18:11.821168+00:00",
-      "score": 90.93
     }
   ],
-  "updated_at": "2026-10-10T14:21:14.624333+00:00"
+  "updated_at": "2026-10-10T15:02:43.812664+00:00"
 }

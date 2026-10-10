@@ -1,6 +1,21 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB5292061071",
+      "product_id": "MLB5292061071",
+      "catalog_product_id": "MLB24511655",
+      "item_id": "MLB5292061071",
+      "url": "https://www.mercadolivre.com.br/p/MLB24511655?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB24511655?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "ssd nvme 512gb ceamere",
+      "title": "Ssd Nvme 512gb Ceamere",
+      "category": "Informática",
+      "price": 493.0,
+      "score": 124.48,
+      "posted_ts": 1791644563,
+      "posted_at": "2026-10-10T15:02:43.823194+00:00"
+    },
+    {
       "key": "mercadolivre:MLB4219158443",
       "product_id": "MLB4219158443",
       "catalog_product_id": "MLB45785598",
@@ -556,5 +571,5 @@
       "posted_at": "2026-10-08T18:03:21.042214+00:00"
     }
   ],
-  "updated_at": "2026-10-10T14:02:25.258607+00:00"
+  "updated_at": "2026-10-10T15:02:43.823212+00:00"
 }
