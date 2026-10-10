@@ -1,6 +1,62 @@
 {
   "posts": [
     {
+      "key": "shopee:58254334434",
+      "marketplace": "shopee",
+      "id": "58254334434",
+      "title": "Medidor de Glicemia On Call Plus - Precisão e Armazenamento de Resultados",
+      "title_norm": "medidor de glicemia on call plus precisao e armazenamento de resultados",
+      "url": "https://shopee.com.br/product/470704991/58254334434",
+      "affiliate_url": "https://s.shopee.com.br/2BFXpPVnvK",
+      "category": "V4saude",
+      "bucket": "v4saude",
+      "posted_ts": 1791645609,
+      "posted_at": "2026-10-10T15:20:09.351517+00:00",
+      "score": 37.52
+    },
+    {
+      "key": "shopee:23993814406",
+      "marketplace": "shopee",
+      "id": "23993814406",
+      "title": "Kit Medidor de Glicose Bioland G425-3 + 25 Tiras + 25 Lancetas + Bolsa CAIXA",
+      "title_norm": "kit medidor de glicose bioland g425 3 25 tiras 25 lancetas bolsa caixa",
+      "url": "https://shopee.com.br/product/1494129238/23993814406",
+      "affiliate_url": "https://s.shopee.com.br/113aRGaFHx",
+      "category": "Cirúrgica Ramos",
+      "bucket": "bolsas",
+      "posted_ts": 1791645545,
+      "posted_at": "2026-10-10T15:19:05.303492+00:00",
+      "score": 43.96
+    },
+    {
+      "key": "shopee:22891997668",
+      "marketplace": "shopee",
+      "id": "22891997668",
+      "title": "Termômetro Industrial Digital Infravermelho Cozinha Laser Medição Temperatura Industrial -55º- 400ºc",
+      "title_norm": "termometro industrial digital infravermelho cozinha laser medicao temperatura industrial 55 400 c",
+      "url": "https://shopee.com.br/product/1025202028/22891997668",
+      "affiliate_url": "https://s.shopee.com.br/6q1NNywZqD",
+      "category": "Utime.Brasil",
+      "bucket": "saude",
+      "posted_ts": 1791645481,
+      "posted_at": "2026-10-10T15:18:01.307512+00:00",
+      "score": 109.51
+    },
+    {
+      "key": "shopee:23893497572",
+      "marketplace": "shopee",
+      "id": "23893497572",
+      "title": "Oxímetro Infantil Neonatal Pediátrico De Dedo Digital Crianças Medidor Oxigênio Recarregável Pulse Yihan",
+      "title_norm": "oximetro infantil neonatal pediatrico de dedo digital criancas medidor oxigenio recarregavel pulse yihan",
+      "url": "https://shopee.com.br/product/696313634/23893497572",
+      "affiliate_url": "https://s.shopee.com.br/9APIAGwQQz",
+      "category": "Yihan.store",
+      "bucket": "saude",
+      "posted_ts": 1791645411,
+      "posted_at": "2026-10-10T15:16:51.435338+00:00",
+      "score": 110.81
+    },
+    {
       "key": "mercadolivre:MLB5292061071",
       "marketplace": "mercadolivre",
       "id": "MLB5292061071",
@@ -13943,63 +13999,7 @@
       "posted_ts": 1790892247,
       "posted_at": "2026-10-01T22:04:07.899095+00:00",
       "score": 88.0
-    },
-    {
-      "key": "mercadolivre:MLB5237564467",
-      "marketplace": "mercadolivre",
-      "id": "MLB5237564467",
-      "title": "Ssd nvme M.2 256gb PM9B1",
-      "title_norm": "ssd nvme m 2 256gb pm9b1",
-      "url": "https://www.mercadolivre.com.br/p/MLB37332939?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB37332939?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "category": "Informática",
-      "bucket": "informatica",
-      "posted_ts": 1790892183,
-      "posted_at": "2026-10-01T22:03:03.605094+00:00",
-      "score": 111.0
-    },
-    {
-      "key": "shopee:18398124948",
-      "marketplace": "shopee",
-      "id": "18398124948",
-      "title": "Adaptador Hub Tipo C 5em2/6em1/7 Em 1/ 8em1 HDMI Micro Sd Tf M1 4k Usb 3.0. E USB-A 4EM1. Para computador todo tipo",
-      "title_norm": "adaptador hub tipo c 5em2 6em1 7 em 1 8em1 hdmi micro sd tf m1 4k usb 3 0 e usb a 4em1 para computador todo tipo",
-      "url": "https://shopee.com.br/product/1314327488/18398124948",
-      "affiliate_url": "https://s.shopee.com.br/1qcTTVHq3T",
-      "category": "M&H1 STORE",
-      "bucket": "m_h1_store",
-      "posted_ts": 1790889751,
-      "posted_at": "2026-10-01T21:22:31.517294+00:00",
-      "score": 68.8
-    },
-    {
-      "key": "shopee:22893843635",
-      "marketplace": "shopee",
-      "id": "22893843635",
-      "title": "Papel Fotográfico Adesivo 130G Glossy 100 Folhas A4 MASTERPRINT (PAPEL ADESIVO)",
-      "title_norm": "papel fotografico adesivo 130g glossy 100 folhas a4 masterprint papel adesivo",
-      "url": "https://shopee.com.br/product/761647073/22893843635",
-      "affiliate_url": "https://s.shopee.com.br/3VkhSYyQop",
-      "category": "Papel fotografico e Papelaria",
-      "bucket": "papel_fotografico_e_papelaria",
-      "posted_ts": 1790889687,
-      "posted_at": "2026-10-01T21:21:27.544073+00:00",
-      "score": 69.75
-    },
-    {
-      "key": "shopee:58212356206",
-      "marketplace": "shopee",
-      "id": "58212356206",
-      "title": "Leitor Cartão USB C 3 Em 1 OTG SD Micro SD Adaptador Para Celular Notebook Câmera",
-      "title_norm": "leitor cartao usb c 3 em 1 otg sd micro sd adaptador para celular notebook camera",
-      "url": "https://shopee.com.br/product/956346509/58212356206",
-      "affiliate_url": "https://s.shopee.com.br/3qNXrBADzv",
-      "category": "Xuwei Digital",
-      "bucket": "celulares",
-      "posted_ts": 1790889615,
-      "posted_at": "2026-10-01T21:20:15.864852+00:00",
-      "score": 75.72
     }
   ],
-  "updated_at": "2026-10-10T15:02:43.812664+00:00"
+  "updated_at": "2026-10-10T15:20:09.351530+00:00"
 }
