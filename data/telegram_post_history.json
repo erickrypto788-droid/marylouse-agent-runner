@@ -1,6 +1,20 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB4219158443",
+      "marketplace": "mercadolivre",
+      "id": "MLB4219158443",
+      "title": "Brinquedo Lider Kit Ferramentas - 2381",
+      "title_norm": "brinquedo lider kit ferramentas 2381",
+      "url": "https://www.mercadolivre.com.br/p/MLB45785598?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB45785598?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Ferramentas",
+      "bucket": "ferramentas",
+      "posted_ts": 1791640945,
+      "posted_at": "2026-10-10T14:02:25.244464+00:00",
+      "score": 137.71
+    },
+    {
       "key": "shopee:58204057552",
       "marketplace": "shopee",
       "id": "58204057552",
@@ -13985,21 +13999,7 @@
       "posted_ts": 1790885983,
       "posted_at": "2026-10-01T20:19:43.960229+00:00",
       "score": 72.57
-    },
-    {
-      "key": "shopee:18299332007",
-      "marketplace": "shopee",
-      "id": "18299332007",
-      "title": "Caneta Glitter 4/6 Cores Flash Silver Gel Marcador Metálico para Bullet Journal Agenda Desenho DIY",
-      "title_norm": "caneta glitter 4 6 cores flash silver gel marcador metalico para bullet journal agenda desenho diy",
-      "url": "https://shopee.com.br/product/1234149276/18299332007",
-      "affiliate_url": "https://s.shopee.com.br/40gxzNOfdZ",
-      "category": "KissShe",
-      "bucket": "kissshe",
-      "posted_ts": 1790885919,
-      "posted_at": "2026-10-01T20:18:39.845038+00:00",
-      "score": 74.74
     }
   ],
-  "updated_at": "2026-10-10T13:21:15.596652+00:00"
+  "updated_at": "2026-10-10T14:02:25.244481+00:00"
 }

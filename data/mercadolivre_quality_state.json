@@ -1,6 +1,21 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB4219158443",
+      "product_id": "MLB4219158443",
+      "catalog_product_id": "MLB45785598",
+      "item_id": "MLB4219158443",
+      "url": "https://www.mercadolivre.com.br/p/MLB45785598?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB45785598?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "brinquedo lider kit ferramentas 2381",
+      "title": "Brinquedo Lider Kit Ferramentas - 2381",
+      "category": "Ferramentas",
+      "price": 101.0,
+      "score": 137.71,
+      "posted_ts": 1791640945,
+      "posted_at": "2026-10-10T14:02:25.258594+00:00"
+    },
+    {
       "key": "mercadolivre:MLB7777653276",
       "product_id": "MLB7777653276",
       "catalog_product_id": "MLB25118152",
@@ -539,37 +554,7 @@
       "score": 155.08,
       "posted_ts": 1791482601,
       "posted_at": "2026-10-08T18:03:21.042214+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB4719874245",
-      "product_id": "MLB4719874245",
-      "catalog_product_id": "MLB39957733",
-      "item_id": "MLB4719874245",
-      "url": "https://www.mercadolivre.com.br/p/MLB39957733?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB39957733?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "smartphone samsung galaxy s23 256gb preto",
-      "title": "Smartphone Samsung Galaxy S23 256gb Preto",
-      "category": "Informática",
-      "price": 4499.0,
-      "score": 124.0,
-      "posted_ts": 1791464627,
-      "posted_at": "2026-10-08T13:03:47.573539+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB5348892479",
-      "product_id": "MLB5348892479",
-      "catalog_product_id": "MLB79929864",
-      "item_id": "MLB5348892479",
-      "url": "https://www.mercadolivre.com.br/p/MLB79929864?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB79929864?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "celular smartphone xiaomi poco m7 pro 5g verde",
-      "title": "Celular Smartphone Xiaomi Poco M7 Pro 5g Verde",
-      "category": "Informática",
-      "price": 1500.0,
-      "score": 127.0,
-      "posted_ts": 1791464563,
-      "posted_at": "2026-10-08T13:02:43.596191+00:00"
     }
   ],
-  "updated_at": "2026-10-10T12:02:29.501241+00:00"
+  "updated_at": "2026-10-10T14:02:25.258607+00:00"
 }
