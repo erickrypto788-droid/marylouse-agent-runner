@@ -1,6 +1,48 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB5276660983",
+      "marketplace": "mercadolivre",
+      "id": "MLB5276660983",
+      "title": "Camisa feminina de gola sintética removível, cor de gravata, tamanho branco, conforme descrito",
+      "title_norm": "camisa feminina de gola sintetica removivel cor de gravata tamanho branco conforme descrito",
+      "url": "https://www.mercadolivre.com.br/p/MLB36370915?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB36370915?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Moda Feminina",
+      "bucket": "moda_feminina",
+      "posted_ts": 1791619591,
+      "posted_at": "2026-10-10T08:06:31.984047+00:00",
+      "score": 88.0
+    },
+    {
+      "key": "mercadolivre:MLB6964552356",
+      "marketplace": "mercadolivre",
+      "id": "MLB6964552356",
+      "title": "Saída Praia Saia Feminina Texturizada Moda Verão Tendências Amarelo Gg",
+      "title_norm": "saida praia saia feminina texturizada moda verao tendencias amarelo gg",
+      "url": "https://www.mercadolivre.com.br/p/MLB73607431?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB73607431?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Moda Feminina",
+      "bucket": "moda_feminina",
+      "posted_ts": 1791619516,
+      "posted_at": "2026-10-10T08:05:16.548037+00:00",
+      "score": 92.32
+    },
+    {
+      "key": "mercadolivre:MLB4617422337",
+      "marketplace": "mercadolivre",
+      "id": "MLB4617422337",
+      "title": "Cropped Feminino Manga Comprida Proteção Solar Malha Fria Uv Cor Preto Tamanho P",
+      "title_norm": "cropped feminino manga comprida protecao solar malha fria uv cor preto tamanho p",
+      "url": "https://www.mercadolivre.com.br/p/MLB68298172?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB68298172?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Moda Feminina",
+      "bucket": "moda_feminina",
+      "posted_ts": 1791619444,
+      "posted_at": "2026-10-10T08:04:04.290993+00:00",
+      "score": 106.59
+    },
+    {
       "key": "shopee:58263369269",
       "marketplace": "shopee",
       "id": "58263369269",
@@ -13957,49 +13999,7 @@
       "posted_ts": 1790866998,
       "posted_at": "2026-10-01T15:03:18.365340+00:00",
       "score": 101.33
-    },
-    {
-      "key": "shopee:23998684746",
-      "marketplace": "shopee",
-      "id": "23998684746",
-      "title": "Kit de Halteres Treino 20 Kg Bonafit 3 em 1 Musculação Ajustável Segurança e Durabilidade + Ebook",
-      "title_norm": "kit de halteres treino 20 kg bonafit 3 em 1 musculacao ajustavel seguranca e durabilidade ebook",
-      "url": "https://shopee.com.br/product/405481102/23998684746",
-      "affiliate_url": "https://s.shopee.com.br/qjvooeUQN",
-      "category": "aheadsports",
-      "bucket": "aheadsports",
-      "posted_ts": 1790864472,
-      "posted_at": "2026-10-01T14:21:12.627365+00:00",
-      "score": 117.8
-    },
-    {
-      "key": "shopee:20999381894",
-      "marketplace": "shopee",
-      "id": "20999381894",
-      "title": "Conjunto 2/3/5/10 Potes 370/640/1040ml Vidro Hermético Mantimentos Marmita Fitness",
-      "title_norm": "conjunto 2 3 5 10 potes 370 640 1040ml vidro hermetico mantimentos marmita fitness",
-      "url": "https://shopee.com.br/product/1345719405/20999381894",
-      "affiliate_url": "https://s.shopee.com.br/80D6LzLwAs",
-      "category": "Life Hack Homeware",
-      "bucket": "life_hack_homeware",
-      "posted_ts": 1790864408,
-      "posted_at": "2026-10-01T14:20:08.516563+00:00",
-      "score": 119.43
-    },
-    {
-      "key": "shopee:58251614514",
-      "marketplace": "shopee",
-      "id": "58251614514",
-      "title": "Belifou Glitter Garrafa Térmica Portátil De 800 Ml Com Isolamento Duplo Adequada Para Academia",
-      "title_norm": "belifou glitter garrafa termica portatil de 800 ml com isolamento duplo adequada para academia",
-      "url": "https://shopee.com.br/product/1224363395/58251614514",
-      "affiliate_url": "https://s.shopee.com.br/8AWWYITxtS",
-      "category": "Belifou Talheres",
-      "bucket": "belifou_talheres",
-      "posted_ts": 1790864344,
-      "posted_at": "2026-10-01T14:19:04.452539+00:00",
-      "score": 120.08
     }
   ],
-  "updated_at": "2026-10-10T07:16:58.927770+00:00"
+  "updated_at": "2026-10-10T08:06:31.984062+00:00"
 }
