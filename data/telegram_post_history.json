@@ -1,6 +1,20 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB7777653276",
+      "marketplace": "mercadolivre",
+      "id": "MLB7777653276",
+      "title": "Escova Secadora Oval",
+      "title_norm": "escova secadora oval",
+      "url": "https://www.mercadolivre.com.br/p/MLB25118152?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB25118152?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Beleza",
+      "bucket": "beleza",
+      "posted_ts": 1791633749,
+      "posted_at": "2026-10-10T12:02:29.487402+00:00",
+      "score": 113.0
+    },
+    {
       "key": "shopee:27142661681",
       "marketplace": "shopee",
       "id": "27142661681",
@@ -13985,21 +13999,7 @@
       "posted_ts": 1790878625,
       "posted_at": "2026-10-01T18:17:05.338972+00:00",
       "score": 124.27
-    },
-    {
-      "key": "shopee:23498386191",
-      "marketplace": "shopee",
-      "id": "23498386191",
-      "title": "Jip Jipe Infantil Maral Vários Modelos Carrinho de Passeio Empurrador Dia Das Crianças Presente",
-      "title_norm": "jip jipe infantil maral varios modelos carrinho de passeio empurrador dia das criancas presente",
-      "url": "https://shopee.com.br/product/504754787/23498386191",
-      "affiliate_url": "https://s.shopee.com.br/1gJ2sTm5q3",
-      "category": "Zociella Kids",
-      "bucket": "zociella_kids",
-      "posted_ts": 1790875282,
-      "posted_at": "2026-10-01T17:21:22.889750+00:00",
-      "score": 76.13
     }
   ],
-  "updated_at": "2026-10-10T11:21:32.139934+00:00"
+  "updated_at": "2026-10-10T12:02:29.487416+00:00"
 }
