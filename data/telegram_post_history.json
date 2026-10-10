@@ -1,6 +1,20 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB5887241714",
+      "marketplace": "mercadolivre",
+      "id": "MLB5887241714",
+      "title": "Bola Futebol Campo Futsal Praia",
+      "title_norm": "bola futebol campo futsal praia",
+      "url": "https://www.mercadolivre.com.br/p/MLB39280584?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB39280584?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Esportes",
+      "bucket": "esportes",
+      "posted_ts": 1791630189,
+      "posted_at": "2026-10-10T11:03:09.067717+00:00",
+      "score": 120.63
+    },
+    {
       "key": "shopee:23993933147",
       "marketplace": "shopee",
       "id": "23993933147",
@@ -13985,21 +13999,7 @@
       "posted_ts": 1790871669,
       "posted_at": "2026-10-01T16:21:09.381112+00:00",
       "score": 50.41
-    },
-    {
-      "key": "shopee:55004354021",
-      "marketplace": "shopee",
-      "id": "55004354021",
-      "title": "Tira/Fita de Glicemia C/50 Unidades de Tiras - medidor de glicose - Bioland",
-      "title_norm": "tira fita de glicemia c 50 unidades de tiras medidor de glicose bioland",
-      "url": "https://shopee.com.br/product/464285438/55004354021",
-      "affiliate_url": "https://s.shopee.com.br/4B0NvC1A3I",
-      "category": "Lojao Da 25",
-      "bucket": "lojao_da_25",
-      "posted_ts": 1790871605,
-      "posted_at": "2026-10-01T16:20:05.226063+00:00",
-      "score": 71.53
     }
   ],
-  "updated_at": "2026-10-10T10:20:17.123043+00:00"
+  "updated_at": "2026-10-10T11:03:09.067739+00:00"
 }
