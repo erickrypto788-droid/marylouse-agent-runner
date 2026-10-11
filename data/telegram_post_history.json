@@ -1,6 +1,62 @@
 {
   "posts": [
     {
+      "key": "shopee:22493230159",
+      "marketplace": "shopee",
+      "id": "22493230159",
+      "title": "Kit 3 Cinto Masculino Couro Montana - 125 CM ou 150CM (PLUS-SIZE).",
+      "title_norm": "kit 3 cinto masculino couro montana 125 cm ou 150cm plus size",
+      "url": "https://shopee.com.br/product/1263555097/22493230159",
+      "affiliate_url": "https://s.shopee.com.br/2qVGY8FAN7",
+      "category": "Mayos.",
+      "bucket": "mayos",
+      "posted_ts": 1791750017,
+      "posted_at": "2026-10-11T20:20:17.885712+00:00",
+      "score": 54.27
+    },
+    {
+      "key": "shopee:21097736365",
+      "marketplace": "shopee",
+      "id": "21097736365",
+      "title": "Vestido rodado Plus Size manga fler  com a faixa  tecido Suplex Digital 44/46/48/50/52 g gg g1 g2",
+      "title_norm": "vestido rodado plus size manga fler com a faixa tecido suplex digital 44 46 48 50 52 g gg g1 g2",
+      "url": "https://shopee.com.br/product/1314293823/21097736365",
+      "affiliate_url": "https://s.shopee.com.br/1BN2Z4PqE6",
+      "category": "JOYCE MODAS12",
+      "bucket": "moda_feminina",
+      "posted_ts": 1791749953,
+      "posted_at": "2026-10-11T20:19:13.339423+00:00",
+      "score": 58.93
+    },
+    {
+      "key": "shopee:22798552970",
+      "marketplace": "shopee",
+      "id": "22798552970",
+      "title": "Bermuda transpassada plus size M ao G3 academia moda modesta evangélica BERMUDA",
+      "title_norm": "bermuda transpassada plus size m ao g3 academia moda modesta evangelica bermuda",
+      "url": "https://shopee.com.br/product/1472986932/22798552970",
+      "affiliate_url": "https://s.shopee.com.br/20w9YbIL48",
+      "category": "KD-IMPORTS",
+      "bucket": "kd_imports",
+      "posted_ts": 1791749889,
+      "posted_at": "2026-10-11T20:18:09.098548+00:00",
+      "score": 101.15
+    },
+    {
+      "key": "shopee:58263779645",
+      "marketplace": "shopee",
+      "id": "58263779645",
+      "title": "Calça Marmorizada Plus size academia",
+      "title_norm": "calca marmorizada plus size academia",
+      "url": "https://shopee.com.br/product/1797986527/58263779645",
+      "affiliate_url": "https://s.shopee.com.br/5VW1j2MTW0",
+      "category": "RM Modas fit",
+      "bucket": "rm_modas_fit",
+      "posted_ts": 1791749824,
+      "posted_at": "2026-10-11T20:17:04.866105+00:00",
+      "score": 103.45
+    },
+    {
       "key": "shopee:20350419516",
       "marketplace": "shopee",
       "id": "20350419516",
@@ -13943,63 +13999,7 @@
       "posted_ts": 1790986749,
       "posted_at": "2026-10-03T00:19:09.022648+00:00",
       "score": 76.79
-    },
-    {
-      "key": "shopee:23993565028",
-      "marketplace": "shopee",
-      "id": "23993565028",
-      "title": "Suporte Celular Carro Veicular Trava Automática anti queda",
-      "title_norm": "suporte celular carro veicular trava automatica anti queda",
-      "url": "https://shopee.com.br/product/1384055377/23993565028",
-      "affiliate_url": "https://s.shopee.com.br/9zyCzlL0hr",
-      "category": "vida vida lenta",
-      "bucket": "celulares",
-      "posted_ts": 1790986684,
-      "posted_at": "2026-10-03T00:18:04.970343+00:00",
-      "score": 102.84
-    },
-    {
-      "key": "shopee:22094298275",
-      "marketplace": "shopee",
-      "id": "22094298275",
-      "title": "Carregador 168w  Para Celular Com Type C Tipo C",
-      "title_norm": "carregador 168w para celular com type c tipo c",
-      "url": "https://shopee.com.br/product/1572491828/22094298275",
-      "affiliate_url": "https://s.shopee.com.br/9fLMb9MHNh",
-      "category": "TecnoExpressBR",
-      "bucket": "celulares",
-      "posted_ts": 1790986620,
-      "posted_at": "2026-10-03T00:17:00.938455+00:00",
-      "score": 126.61
-    },
-    {
-      "key": "shopee:58264690361",
-      "marketplace": "shopee",
-      "id": "58264690361",
-      "title": "Sandália Feminina Rasteirinha Luxo com Strass Brilho Confortável Casual",
-      "title_norm": "sandalia feminina rasteirinha luxo com strass brilho confortavel casual",
-      "url": "https://shopee.com.br/product/388005801/58264690361",
-      "affiliate_url": "https://s.shopee.com.br/1ApkyO2ov",
-      "category": "Sandálias Taty",
-      "bucket": "calcados",
-      "posted_ts": 1790983078,
-      "posted_at": "2026-10-02T23:17:58.703458+00:00",
-      "score": 99.1
-    },
-    {
-      "key": "shopee:18398664230",
-      "marketplace": "shopee",
-      "id": "18398664230",
-      "title": "Bota Coturno Feminino Com Ziper Tratorada Blogueira Cano Curto Confortável",
-      "title_norm": "bota coturno feminino com ziper tratorada blogueira cano curto confortavel",
-      "url": "https://shopee.com.br/product/1017583864/18398664230",
-      "affiliate_url": "https://s.shopee.com.br/80D8XxmIoT",
-      "category": "Rosária Calçados ",
-      "bucket": "calcados",
-      "posted_ts": 1790983006,
-      "posted_at": "2026-10-02T23:16:46.316773+00:00",
-      "score": 99.92
     }
   ],
-  "updated_at": "2026-10-11T19:21:12.452047+00:00"
+  "updated_at": "2026-10-11T20:20:17.885725+00:00"
 }
