@@ -1,6 +1,34 @@
 {
   "posts": [
     {
+      "key": "shopee:58205019767",
+      "marketplace": "shopee",
+      "id": "58205019767",
+      "title": "Botina Bota de Segurança Em Couro EPI Trabalho Obra CA Aprovado Biqueira PVC Unissex Profissional",
+      "title_norm": "botina bota de seguranca em couro epi trabalho obra ca aprovado biqueira pvc unissex profissional",
+      "url": "https://shopee.com.br/product/1747300144/58205019767",
+      "affiliate_url": "https://s.shopee.com.br/2qVFLxktpS",
+      "category": "LBO Store",
+      "bucket": "calcados",
+      "posted_ts": 1791685082,
+      "posted_at": "2026-10-11T02:18:02.968257+00:00",
+      "score": 99.45
+    },
+    {
+      "key": "shopee:21419869737",
+      "marketplace": "shopee",
+      "id": "21419869737",
+      "title": "Bota Masculina Caterpillar Adventure Lona em Promoção",
+      "title_norm": "bota masculina caterpillar adventure lona em promocao",
+      "url": "https://shopee.com.br/product/378772460/21419869737",
+      "affiliate_url": "https://s.shopee.com.br/4fwtXKdv71",
+      "category": "By MP Fashion",
+      "bucket": "calcados",
+      "posted_ts": 1791685018,
+      "posted_at": "2026-10-11T02:16:58.860702+00:00",
+      "score": 104.21
+    },
+    {
       "key": "shopee:21839872084",
       "marketplace": "shopee",
       "id": "21839872084",
@@ -13971,35 +13999,7 @@
       "posted_ts": 1790928519,
       "posted_at": "2026-10-02T08:08:39.274077+00:00",
       "score": 103.67
-    },
-    {
-      "key": "mercadolivre:MLB7190286922",
-      "marketplace": "mercadolivre",
-      "id": "MLB7190286922",
-      "title": "Luminária Foguete Lava Bolha Todas As Cores Decoração Retrô",
-      "title_norm": "luminaria foguete lava bolha todas as cores decoracao retro",
-      "url": "https://www.mercadolivre.com.br/p/MLB75541518?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB75541518?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "category": "Pet",
-      "bucket": "pet",
-      "posted_ts": 1790928430,
-      "posted_at": "2026-10-02T08:07:10.478294+00:00",
-      "score": 149.67
-    },
-    {
-      "key": "shopee:23597915053",
-      "marketplace": "shopee",
-      "id": "23597915053",
-      "title": "Kit Sundown Fps50 200ml + Sundown Fps50 120ml",
-      "title_norm": "kit sundown fps50 200ml sundown fps50 120ml",
-      "url": "https://shopee.com.br/product/1045085918/23597915053",
-      "affiliate_url": "https://s.shopee.com.br/2BFKXJwUFq",
-      "category": "Droga Clara",
-      "bucket": "droga_clara",
-      "posted_ts": 1790925623,
-      "posted_at": "2026-10-02T07:20:23.091001+00:00",
-      "score": 67.99
     }
   ],
-  "updated_at": "2026-10-11T01:21:15.717848+00:00"
+  "updated_at": "2026-10-11T02:18:02.968274+00:00"
 }
