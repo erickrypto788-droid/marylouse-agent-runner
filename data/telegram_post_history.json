@@ -1,6 +1,20 @@
 {
   "posts": [
     {
+      "key": "shopee:51301123098",
+      "marketplace": "shopee",
+      "id": "51301123098",
+      "title": "Console Nintendo Switch Oled Nintendo Bundle Super Mario Bros Wonder -  3 Meses Nintendo Switch Online 64gb Branco",
+      "title_norm": "console nintendo switch oled nintendo bundle super mario bros wonder 3 meses nintendo switch online 64gb branco",
+      "url": "https://shopee.com.br/product/1343318906/51301123098",
+      "affiliate_url": "https://s.shopee.com.br/2LYzkqVymb",
+      "category": "NegociuN",
+      "bucket": "negociun",
+      "posted_ts": 1791739011,
+      "posted_at": "2026-10-11T17:16:51.605782+00:00",
+      "score": 75.33
+    },
+    {
       "key": "mercadolivre:MLB4266241495",
       "marketplace": "mercadolivre",
       "id": "MLB4266241495",
@@ -13985,21 +13999,7 @@
       "posted_ts": 1790972357,
       "posted_at": "2026-10-02T20:19:17.778449+00:00",
       "score": 99.15
-    },
-    {
-      "key": "shopee:23992783058",
-      "marketplace": "shopee",
-      "id": "23992783058",
-      "title": "Kit 2 camisa polo masculina camiseta premium piquet poliester",
-      "title_norm": "kit 2 camisa polo masculina camiseta premium piquet poliester",
-      "url": "https://shopee.com.br/product/380575792/23992783058",
-      "affiliate_url": "https://s.shopee.com.br/AAHcvaSIZx",
-      "category": "78 STORE",
-      "bucket": "78_store",
-      "posted_ts": 1790972293,
-      "posted_at": "2026-10-02T20:18:13.762772+00:00",
-      "score": 99.99
     }
   ],
-  "updated_at": "2026-10-11T17:07:11.941388+00:00"
+  "updated_at": "2026-10-11T17:16:51.605796+00:00"
 }
