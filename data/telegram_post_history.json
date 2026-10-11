@@ -1,6 +1,48 @@
 {
   "posts": [
     {
+      "key": "shopee:15296691065",
+      "marketplace": "shopee",
+      "id": "15296691065",
+      "title": "Mochila Masculina Lona 50 Litros Viagem Passeio Motoboy Esporte Trilha Viagem 803",
+      "title_norm": "mochila masculina lona 50 litros viagem passeio motoboy esporte trilha viagem 803",
+      "url": "https://shopee.com.br/product/960960972/15296691065",
+      "affiliate_url": "https://s.shopee.com.br/BUUuNhxKY",
+      "category": "Global Mochilas CHL",
+      "bucket": "bolsas",
+      "posted_ts": 1791724743,
+      "posted_at": "2026-10-11T13:19:03.504481+00:00",
+      "score": 57.12
+    },
+    {
+      "key": "shopee:19197658752",
+      "marketplace": "shopee",
+      "id": "19197658752",
+      "title": "Mochila Grande Masculina Feminina De Viagem Bolsa Academia",
+      "title_norm": "mochila grande masculina feminina de viagem bolsa academia",
+      "url": "https://shopee.com.br/product/222975446/19197658752",
+      "affiliate_url": "https://s.shopee.com.br/70Kp2wMPaP",
+      "category": "Luxor Comercial",
+      "bucket": "bolsas",
+      "posted_ts": 1791724679,
+      "posted_at": "2026-10-11T13:17:59.567268+00:00",
+      "score": 88.41
+    },
+    {
+      "key": "shopee:17981546025",
+      "marketplace": "shopee",
+      "id": "17981546025",
+      "title": "Mochila Unissex Notebook Resistente Água para Viagem ou Escola Compartimento interno acolchoado para Notebook  RC-2528",
+      "title_norm": "mochila unissex notebook resistente agua para viagem ou escola compartimento interno acolchoado para notebook rc 2528",
+      "url": "https://shopee.com.br/product/379659209/17981546025",
+      "affiliate_url": "https://s.shopee.com.br/6VOYS1OJbM",
+      "category": "magiaworld",
+      "bucket": "informatica",
+      "posted_ts": 1791724615,
+      "posted_at": "2026-10-11T13:16:55.610384+00:00",
+      "score": 128.35
+    },
+    {
       "key": "shopee:58254359534",
       "marketplace": "shopee",
       "id": "58254359534",
@@ -13957,49 +13999,7 @@
       "posted_ts": 1790957911,
       "posted_at": "2026-10-02T16:18:31.000781+00:00",
       "score": 101.37
-    },
-    {
-      "key": "shopee:27318047353",
-      "marketplace": "shopee",
-      "id": "27318047353",
-      "title": "Unidade Externa SAMSUNG SSD T5 2TB/4TB/8TB/16TB De Estado Sólido Hd Rígido Portátil Adequado Para Desktop",
-      "title_norm": "unidade externa samsung ssd t5 2tb 4tb 8tb 16tb de estado solido hd rigido portatil adequado para desktop",
-      "url": "https://shopee.com.br/product/1388464713/27318047353",
-      "affiliate_url": "https://s.shopee.com.br/qjxXyeM08",
-      "category": "klued.br",
-      "bucket": "informatica",
-      "posted_ts": 1790957841,
-      "posted_at": "2026-10-02T16:17:21.535453+00:00",
-      "score": 115.27
-    },
-    {
-      "key": "mercadolivre:MLB4660765859",
-      "marketplace": "mercadolivre",
-      "id": "MLB4660765859",
-      "title": "Modem 4g Lte Mini Roteador Wifi Usb Portátil Cor Preto",
-      "title_norm": "modem 4g lte mini roteador wifi usb portatil cor preto",
-      "url": "https://www.mercadolivre.com.br/p/MLB69073417?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB69073417?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "category": "Informática",
-      "bucket": "informatica",
-      "posted_ts": 1790956999,
-      "posted_at": "2026-10-02T16:03:19.467205+00:00",
-      "score": 148.67
-    },
-    {
-      "key": "shopee:22298016858",
-      "marketplace": "shopee",
-      "id": "22298016858",
-      "title": "PAPELÃO PARANÁ CINZA A4 HOLLER 25 PLACAS 1,9mm #Encadernação#Artesanato#Agendas#Criatividade#Horle##",
-      "title_norm": "papelao parana cinza a4 holler 25 placas 1 9mm encadernacao artesanato agendas criatividade horle",
-      "url": "https://shopee.com.br/product/1020574907/22298016858",
-      "affiliate_url": "https://s.shopee.com.br/5q8dR1xH5Z",
-      "category": "Power Film",
-      "bucket": "power_film",
-      "posted_ts": 1790954468,
-      "posted_at": "2026-10-02T15:21:08.680698+00:00",
-      "score": 38.86
     }
   ],
-  "updated_at": "2026-10-11T12:17:59.006473+00:00"
+  "updated_at": "2026-10-11T13:19:03.504503+00:00"
 }
