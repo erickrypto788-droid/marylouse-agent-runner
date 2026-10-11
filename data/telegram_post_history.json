@@ -1,6 +1,20 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB7197070408",
+      "marketplace": "mercadolivre",
+      "id": "MLB7197070408",
+      "title": "Monitor Pressão Omron 7122: Saúde No Seu Braço",
+      "title_norm": "monitor pressao omron 7122 saude no seu braco",
+      "url": "https://www.mercadolivre.com.br/p/MLB75425217?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB75425217?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Informática",
+      "bucket": "informatica",
+      "posted_ts": 1791720150,
+      "posted_at": "2026-10-11T12:02:30.518029+00:00",
+      "score": 88.0
+    },
+    {
       "key": "shopee:22498789144",
       "marketplace": "shopee",
       "id": "22498789144",
@@ -13985,21 +13999,7 @@
       "posted_ts": 1790954340,
       "posted_at": "2026-10-02T15:19:00.646997+00:00",
       "score": 78.9
-    },
-    {
-      "key": "shopee:23599190753",
-      "marketplace": "shopee",
-      "id": "23599190753",
-      "title": "Kit 4 Caneta permanente de acrílico com ponta dupla em metal para resina, artesanato e artigos de papelaria.",
-      "title_norm": "kit 4 caneta permanente de acrilico com ponta dupla em metal para resina artesanato e artigos de papelaria",
-      "url": "https://shopee.com.br/product/1055789069/23599190753",
-      "affiliate_url": "https://s.shopee.com.br/40gzFf4Fna",
-      "category": "TIANSHU",
-      "bucket": "tianshu",
-      "posted_ts": 1790954221,
-      "posted_at": "2026-10-02T15:17:01.476176+00:00",
-      "score": 89.86
     }
   ],
-  "updated_at": "2026-10-11T11:21:43.469660+00:00"
+  "updated_at": "2026-10-11T12:02:30.518046+00:00"
 }

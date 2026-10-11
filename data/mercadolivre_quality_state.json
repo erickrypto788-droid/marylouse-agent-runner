@@ -1,6 +1,21 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB7197070408",
+      "product_id": "MLB7197070408",
+      "catalog_product_id": "MLB75425217",
+      "item_id": "MLB7197070408",
+      "url": "https://www.mercadolivre.com.br/p/MLB75425217?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB75425217?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "monitor pressao omron 7122 saude no seu braco",
+      "title": "Monitor Pressão Omron 7122: Saúde No Seu Braço",
+      "category": "Informática",
+      "price": 280.0,
+      "score": 88.0,
+      "posted_ts": 1791720150,
+      "posted_at": "2026-10-11T12:02:30.532389+00:00"
+    },
+    {
       "key": "mercadolivre:MLB7579081274",
       "product_id": "MLB7579081274",
       "catalog_product_id": "MLB47306242",
@@ -479,22 +494,7 @@
       "score": 149.67,
       "posted_ts": 1791551173,
       "posted_at": "2026-10-09T13:06:13.268454+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB5095655201",
-      "product_id": "MLB5095655201",
-      "catalog_product_id": "MLB50110319",
-      "item_id": "MLB5095655201",
-      "url": "https://www.mercadolivre.com.br/p/MLB50110319?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB50110319?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "impressora etiquetas codigo barras 1 000 etiquetas cor branco",
-      "title": "Impressora Etiquetas Código Barras + 1.000 Etiquetas Cor Branco",
-      "category": "Informática",
-      "price": 409.39,
-      "score": 98.46,
-      "posted_ts": 1791543820,
-      "posted_at": "2026-10-09T11:03:40.772538+00:00"
     }
   ],
-  "updated_at": "2026-10-11T10:03:56.159001+00:00"
+  "updated_at": "2026-10-11T12:02:30.532402+00:00"
 }
