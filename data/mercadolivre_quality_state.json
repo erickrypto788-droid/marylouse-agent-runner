@@ -1,6 +1,21 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB6968844088",
+      "product_id": "MLB6968844088",
+      "catalog_product_id": "MLB73080390",
+      "item_id": "MLB6968844088",
+      "url": "https://www.mercadolivre.com.br/p/MLB73080390?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB73080390?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "esteira ergometrica eletrica dobravel residencial com bluetooth tela led 14km h jmjn esteira ergometrica 120kg",
+      "title": "Esteira Ergométrica Elétrica Dobrável Residencial Com Bluetooth Tela Led 14km/h Jmjn Esteira Ergometrica 120kg",
+      "category": "Esportes",
+      "price": 1260.81,
+      "score": 180.31,
+      "posted_ts": 1791752547,
+      "posted_at": "2026-10-11T21:02:27.970548+00:00"
+    },
+    {
       "key": "mercadolivre:MLB4596616593",
       "product_id": "MLB4596616593",
       "catalog_product_id": "MLB67783609",
@@ -464,22 +479,7 @@
       "score": 113.0,
       "posted_ts": 1791583363,
       "posted_at": "2026-10-09T22:02:43.739836+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB6223026490",
-      "product_id": "MLB6223026490",
-      "catalog_product_id": "MLB29263256",
-      "item_id": "MLB6223026490",
-      "url": "https://www.mercadolivre.com.br/p/MLB29263256?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB29263256?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "lizz aparelho aparador pelos eletrico navalhete profissional",
-      "title": "Lizz Aparelho Aparador Pelos Elétrico Navalhete Profissional",
-      "category": "Beleza",
-      "price": 89.9,
-      "score": 88.0,
-      "posted_ts": 1791572567,
-      "posted_at": "2026-10-09T19:02:47.369299+00:00"
     }
   ],
-  "updated_at": "2026-10-11T18:03:43.613110+00:00"
+  "updated_at": "2026-10-11T21:02:27.970555+00:00"
 }
