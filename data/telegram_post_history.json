@@ -1,6 +1,20 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB5312148151",
+      "marketplace": "mercadolivre",
+      "id": "MLB5312148151",
+      "title": "Ssd 1tb M.2 2280 Sata",
+      "title_norm": "ssd 1tb m 2 2280 sata",
+      "url": "https://www.mercadolivre.com.br/p/MLB23697502?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB23697502?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Informática",
+      "bucket": "informatica",
+      "posted_ts": 1791705762,
+      "posted_at": "2026-10-11T08:02:42.578896+00:00",
+      "score": 111.0
+    },
+    {
       "key": "shopee:58261565925",
       "marketplace": "shopee",
       "id": "58261565925",
@@ -13985,21 +13999,7 @@
       "posted_ts": 1790936433,
       "posted_at": "2026-10-02T10:20:33.325869+00:00",
       "score": 79.15
-    },
-    {
-      "key": "shopee:47261463441",
-      "marketplace": "shopee",
-      "id": "47261463441",
-      "title": "Boneca Reborn Girafinha 48cm Kit Completo com Roupinhas e Acessórios",
-      "title_norm": "boneca reborn girafinha 48cm kit completo com roupinhas e acessorios",
-      "url": "https://shopee.com.br/product/1625661042/47261463441",
-      "affiliate_url": "https://s.shopee.com.br/AKb1CP1yBl",
-      "category": "MIMOBEE",
-      "bucket": "mimobee",
-      "posted_ts": 1790936369,
-      "posted_at": "2026-10-02T10:19:29.114806+00:00",
-      "score": 100.64
     }
   ],
-  "updated_at": "2026-10-11T07:21:27.363174+00:00"
+  "updated_at": "2026-10-11T08:02:42.578914+00:00"
 }
