@@ -1,6 +1,20 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB7277439248",
+      "marketplace": "mercadolivre",
+      "id": "MLB7277439248",
+      "title": "Cinta Meia Calça Feminina Rendada Trama Preta Preto Un (38 A 48)",
+      "title_norm": "cinta meia calca feminina rendada trama preta preto un 38 a 48",
+      "url": "https://www.mercadolivre.com.br/p/MLB75883414?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB75883414?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Moda Feminina",
+      "bucket": "moda_feminina",
+      "posted_ts": 1791680607,
+      "posted_at": "2026-10-11T01:03:27.109347+00:00",
+      "score": 77.67
+    },
+    {
       "key": "shopee:23395162708",
       "marketplace": "shopee",
       "id": "23395162708",
@@ -13985,21 +13999,7 @@
       "posted_ts": 1790922067,
       "posted_at": "2026-10-02T06:21:07.127757+00:00",
       "score": 71.18
-    },
-    {
-      "key": "shopee:23192939481",
-      "marketplace": "shopee",
-      "id": "23192939481",
-      "title": "Pipoqueira Elétrica Ar Quente Máquina Fazer Pipoca Sem Óleo 110V/220V",
-      "title_norm": "pipoqueira eletrica ar quente maquina fazer pipoca sem oleo 110v 220v",
-      "url": "https://shopee.com.br/product/1224304136/23192939481",
-      "affiliate_url": "https://s.shopee.com.br/4LJp3BCWVO",
-      "category": "KICOOL COMERCIAL",
-      "bucket": "kicool_comercial",
-      "posted_ts": 1790922003,
-      "posted_at": "2026-10-02T06:20:03.165818+00:00",
-      "score": 98.51
     }
   ],
-  "updated_at": "2026-10-11T00:21:44.615177+00:00"
+  "updated_at": "2026-10-11T01:03:27.109366+00:00"
 }

@@ -1,6 +1,21 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB7277439248",
+      "product_id": "MLB7277439248",
+      "catalog_product_id": "MLB75883414",
+      "item_id": "MLB7277439248",
+      "url": "https://www.mercadolivre.com.br/p/MLB75883414?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB75883414?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "cinta meia calca feminina rendada trama preta preto un 38 a 48",
+      "title": "Cinta Meia Calça Feminina Rendada Trama Preta Preto Un (38 A 48)",
+      "category": "Moda Feminina",
+      "price": 36.57,
+      "score": 77.67,
+      "posted_ts": 1791680607,
+      "posted_at": "2026-10-11T01:03:27.121375+00:00"
+    },
+    {
       "key": "mercadolivre:MLB7517810920",
       "product_id": "MLB7517810920",
       "catalog_product_id": "MLB76609780",
@@ -524,22 +539,7 @@
       "score": 124.0,
       "posted_ts": 1791514993,
       "posted_at": "2026-10-09T03:03:13.965156+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB7617590426",
-      "product_id": "MLB7617590426",
-      "catalog_product_id": "MLB77141871",
-      "item_id": "MLB7617590426",
-      "url": "https://www.mercadolivre.com.br/p/MLB77141871?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB77141871?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "perfume masculino millions",
-      "title": "Perfume Masculino Millions",
-      "category": "Beleza",
-      "price": 184.0,
-      "score": 188.67,
-      "posted_ts": 1791507761,
-      "posted_at": "2026-10-09T01:02:41.464802+00:00"
     }
   ],
-  "updated_at": "2026-10-11T00:07:28.705046+00:00"
+  "updated_at": "2026-10-11T01:03:27.121385+00:00"
 }
