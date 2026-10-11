@@ -1,6 +1,51 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB7517810920",
+      "product_id": "MLB7517810920",
+      "catalog_product_id": "MLB76609780",
+      "item_id": "MLB7517810920",
+      "url": "https://www.mercadolivre.com.br/p/MLB76609780?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB76609780?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "hidratante corporal pessego",
+      "title": "Hidratante Corporal Pessego",
+      "category": "Beleza",
+      "price": 114.0,
+      "score": 72.67,
+      "posted_ts": 1791677248,
+      "posted_at": "2026-10-11T00:07:28.705029+00:00"
+    },
+    {
+      "key": "mercadolivre:MLB7046261998",
+      "product_id": "MLB7046261998",
+      "catalog_product_id": "MLB28886645",
+      "item_id": "MLB7046261998",
+      "url": "https://www.mercadolivre.com.br/p/MLB28886645?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB28886645?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "snob papel toalha cozinha folha dupla c 12 rolos",
+      "title": "Snob Papel Toalha Cozinha Folha Dupla C/ 12 Rolos",
+      "category": "Supermercados",
+      "price": 100.0,
+      "score": 89.0,
+      "posted_ts": 1791677184,
+      "posted_at": "2026-10-11T00:06:24.811075+00:00"
+    },
+    {
+      "key": "mercadolivre:MLB6581237526",
+      "product_id": "MLB6581237526",
+      "catalog_product_id": "MLB61910184",
+      "item_id": "MLB6581237526",
+      "url": "https://www.mercadolivre.com.br/p/MLB61910184?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB61910184?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "100 saco de lixo 60l preto saco lixo resistente reforcado",
+      "title": "100 Saco De Lixo 60l Preto Saco Lixo Resistente Reforçado",
+      "category": "Supermercados",
+      "price": 45.6,
+      "score": 89.0,
+      "posted_ts": 1791677120,
+      "posted_at": "2026-10-11T00:05:20.920480+00:00"
+    },
+    {
       "key": "mercadolivre:MLB7625830504",
       "product_id": "MLB7625830504",
       "catalog_product_id": "MLB78672090",
@@ -494,52 +539,7 @@
       "score": 188.67,
       "posted_ts": 1791507761,
       "posted_at": "2026-10-09T01:02:41.464802+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB6884302164",
-      "product_id": "MLB6884302164",
-      "catalog_product_id": "MLB70627275",
-      "item_id": "MLB6884302164",
-      "url": "https://www.mercadolivre.com.br/p/MLB70627275?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB70627275?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "rack yescasa rack para tv ate 70 jatoba terroso de mdp",
-      "title": "Rack Yescasa Rack para TV até 70\" jatoba terroso de mdp",
-      "category": "Casa e Cozinha",
-      "price": 855.87,
-      "score": 82.57,
-      "posted_ts": 1791497152,
-      "posted_at": "2026-10-08T22:05:52.860305+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB4098790465",
-      "product_id": "MLB4098790465",
-      "catalog_product_id": "MLB50984468",
-      "item_id": "MLB4098790465",
-      "url": "https://www.mercadolivre.com.br/p/MLB50984468?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB50984468?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "jogo panelas 5 pecas tradicional preto nacional",
-      "title": "Jogo Panelas 5 Peças Tradicional Preto Nacional",
-      "category": "Casa e Cozinha",
-      "price": 179.9,
-      "score": 109.86,
-      "posted_ts": 1791497088,
-      "posted_at": "2026-10-08T22:04:48.884426+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB5195207435",
-      "product_id": "MLB5195207435",
-      "catalog_product_id": "MLB28353455",
-      "item_id": "MLB5195207435",
-      "url": "https://www.mercadolivre.com.br/p/MLB28353455?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB28353455?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "miniatura aspirador po infantil bw165",
-      "title": "Miniatura Aspirador Pó Infantil Bw165",
-      "category": "Casa e Cozinha",
-      "price": 70.54,
-      "score": 113.0,
-      "posted_ts": 1791497020,
-      "posted_at": "2026-10-08T22:03:40.380902+00:00"
     }
   ],
-  "updated_at": "2026-10-10T22:02:58.340957+00:00"
+  "updated_at": "2026-10-11T00:07:28.705046+00:00"
 }
