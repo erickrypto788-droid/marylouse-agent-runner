@@ -1,6 +1,34 @@
 {
   "posts": [
     {
+      "key": "shopee:22999488902",
+      "marketplace": "shopee",
+      "id": "22999488902",
+      "title": "Termômetro Culinário Digital Infravermelho Laser -50°C a 400°C Primebras JISHOP",
+      "title_norm": "termometro culinario digital infravermelho laser 50 c a 400 c primebras jishop",
+      "url": "https://shopee.com.br/product/1785542074/22999488902",
+      "affiliate_url": "https://s.shopee.com.br/5fpRG86nKf",
+      "category": "JiSHOP",
+      "bucket": "saude",
+      "posted_ts": 1791713884,
+      "posted_at": "2026-10-11T10:18:04.514086+00:00",
+      "score": 81.41
+    },
+    {
+      "key": "shopee:20999244718",
+      "marketplace": "shopee",
+      "id": "20999244718",
+      "title": "Inalador E Nebulizador Compressor De Ar Comprimido Compact DC1 G-Tech Infantil Remédio e Corticoides",
+      "title_norm": "inalador e nebulizador compressor de ar comprimido compact dc1 g tech infantil remedio e corticoides",
+      "url": "https://shopee.com.br/product/961638733/20999244718",
+      "affiliate_url": "https://s.shopee.com.br/6Alhr39Qco",
+      "category": "ROMALIZ",
+      "bucket": "saude",
+      "posted_ts": 1791713816,
+      "posted_at": "2026-10-11T10:16:56.075091+00:00",
+      "score": 111.45
+    },
+    {
       "key": "mercadolivre:MLB7579081274",
       "marketplace": "mercadolivre",
       "id": "MLB7579081274",
@@ -13971,35 +13999,7 @@
       "posted_ts": 1790947007,
       "posted_at": "2026-10-02T13:16:47.641336+00:00",
       "score": 105.72
-    },
-    {
-      "key": "mercadolivre:MLB6223026490",
-      "marketplace": "mercadolivre",
-      "id": "MLB6223026490",
-      "title": "Lizz Aparelho Aparador Pelos Elétrico Navalhete Profissional",
-      "title_norm": "lizz aparelho aparador pelos eletrico navalhete profissional",
-      "url": "https://www.mercadolivre.com.br/p/MLB29263256?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB29263256?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "category": "Beleza",
-      "bucket": "beleza",
-      "posted_ts": 1790946161,
-      "posted_at": "2026-10-02T13:02:41.107399+00:00",
-      "score": 88.0
-    },
-    {
-      "key": "shopee:3583616499",
-      "marketplace": "shopee",
-      "id": "3583616499",
-      "title": "Carrinho Camaro Amarelo Vira Robô Transformers Bate Volta",
-      "title_norm": "carrinho camaro amarelo vira robo transformers bate volta",
-      "url": "https://shopee.com.br/product/385632559/3583616499",
-      "affiliate_url": "https://s.shopee.com.br/60S3QyTHmC",
-      "category": "happytonia",
-      "bucket": "happytonia",
-      "posted_ts": 1790943677,
-      "posted_at": "2026-10-02T12:21:17.760876+00:00",
-      "score": 67.5
     }
   ],
-  "updated_at": "2026-10-11T10:03:56.148762+00:00"
+  "updated_at": "2026-10-11T10:18:04.514102+00:00"
 }
