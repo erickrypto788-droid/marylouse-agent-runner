@@ -1,6 +1,20 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB7513707254",
+      "marketplace": "mercadolivre",
+      "id": "MLB7513707254",
+      "title": "Mini Impressora Niimbot B1 etiqueta Bluetooth Cor Prateado impressora etiquetas adesivas",
+      "title_norm": "mini impressora niimbot b1 etiqueta bluetooth cor prateado impressora etiquetas adesivas",
+      "url": "https://www.mercadolivre.com.br/p/MLB57578486?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB57578486?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Informática",
+      "bucket": "informatica",
+      "posted_ts": 1791730969,
+      "posted_at": "2026-10-11T15:02:49.249715+00:00",
+      "score": 88.0
+    },
+    {
       "key": "shopee:58205902043",
       "marketplace": "shopee",
       "id": "58205902043",
@@ -13985,21 +13999,7 @@
       "posted_ts": 1790961607,
       "posted_at": "2026-10-02T17:20:07.585257+00:00",
       "score": 94.8
-    },
-    {
-      "key": "shopee:22398848141",
-      "marketplace": "shopee",
-      "id": "22398848141",
-      "title": "Kit 2 Porta Leite em Pó Para Bebê + Colher de Silicone",
-      "title_norm": "kit 2 porta leite em po para bebe colher de silicone",
-      "url": "https://shopee.com.br/product/404249674/22398848141",
-      "affiliate_url": "https://s.shopee.com.br/AKb2vWu7GS",
-      "category": "CHLOE01",
-      "bucket": "chloe01",
-      "posted_ts": 1790961543,
-      "posted_at": "2026-10-02T17:19:03.598009+00:00",
-      "score": 96.54
     }
   ],
-  "updated_at": "2026-10-11T14:21:13.223040+00:00"
+  "updated_at": "2026-10-11T15:02:49.249734+00:00"
 }

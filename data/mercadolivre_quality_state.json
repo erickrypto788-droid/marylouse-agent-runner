@@ -1,6 +1,21 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB7513707254",
+      "product_id": "MLB7513707254",
+      "catalog_product_id": "MLB57578486",
+      "item_id": "MLB7513707254",
+      "url": "https://www.mercadolivre.com.br/p/MLB57578486?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB57578486?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "mini impressora niimbot b1 etiqueta bluetooth cor prateado impressora etiquetas adesivas",
+      "title": "Mini Impressora Niimbot B1 etiqueta Bluetooth Cor Prateado impressora etiquetas adesivas",
+      "category": "Informática",
+      "price": 209.99,
+      "score": 88.0,
+      "posted_ts": 1791730969,
+      "posted_at": "2026-10-11T15:02:49.262165+00:00"
+    },
+    {
       "key": "mercadolivre:MLB7262266178",
       "product_id": "MLB7262266178",
       "catalog_product_id": "MLB23076913",
@@ -434,22 +449,7 @@
       "score": 103.53,
       "posted_ts": 1791568994,
       "posted_at": "2026-10-09T18:03:14.983356+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB7079122650",
-      "product_id": "MLB7079122650",
-      "catalog_product_id": "MLB74851412",
-      "item_id": "MLB7079122650",
-      "url": "https://www.mercadolivre.com.br/p/MLB74851412?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB74851412?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "conjunto feminino alfaiataria bermuda blusa elegante peplum conjunto feminino bege",
-      "title": "Conjunto Feminino Alfaiataria Bermuda Blusa Elegante Peplum Conjunto Feminino Bege",
-      "category": "Moda Feminina",
-      "price": 150.24,
-      "score": 136.74,
-      "posted_ts": 1791554617,
-      "posted_at": "2026-10-09T14:03:37.490888+00:00"
     }
   ],
-  "updated_at": "2026-10-11T14:02:46.943141+00:00"
+  "updated_at": "2026-10-11T15:02:49.262176+00:00"
 }
