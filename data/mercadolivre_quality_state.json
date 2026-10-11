@@ -1,6 +1,36 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB7579081274",
+      "product_id": "MLB7579081274",
+      "catalog_product_id": "MLB47306242",
+      "item_id": "MLB7579081274",
+      "url": "https://www.mercadolivre.com.br/p/MLB47306242?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB47306242?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "motorola smartphone motorola razr 50 ultra 5g cor pink",
+      "title": "Motorola Smartphone Motorola Razr 50 Ultra 5g Cor Pink",
+      "category": "Informática",
+      "price": 4000.0,
+      "score": 124.0,
+      "posted_ts": 1791713036,
+      "posted_at": "2026-10-11T10:03:56.158989+00:00"
+    },
+    {
+      "key": "mercadolivre:MLB5066951426",
+      "product_id": "MLB5066951426",
+      "catalog_product_id": "MLB65973005",
+      "item_id": "MLB5066951426",
+      "url": "https://www.mercadolivre.com.br/p/MLB65973005?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB65973005?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "celular samsung galaxy a06 5g preto",
+      "title": "Celular Samsung Galaxy A06 5g Preto",
+      "category": "Informática",
+      "price": 749.65,
+      "score": 127.0,
+      "posted_ts": 1791712965,
+      "posted_at": "2026-10-11T10:02:45.778120+00:00"
+    },
+    {
       "key": "mercadolivre:MLB5312148151",
       "product_id": "MLB5312148151",
       "catalog_product_id": "MLB23697502",
@@ -466,5 +496,5 @@
       "posted_at": "2026-10-09T11:03:40.772538+00:00"
     }
   ],
-  "updated_at": "2026-10-11T08:02:42.592075+00:00"
+  "updated_at": "2026-10-11T10:03:56.159001+00:00"
 }
