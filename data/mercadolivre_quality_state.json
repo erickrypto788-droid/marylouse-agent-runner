@@ -1,6 +1,21 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB7262266178",
+      "product_id": "MLB7262266178",
+      "catalog_product_id": "MLB23076913",
+      "item_id": "MLB7262266178",
+      "url": "https://www.mercadolivre.com.br/p/MLB23076913?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB23076913?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "monitor bebe wifi infravermelho vision noctura intercom inteligente",
+      "title": "Monitor Bebe Wifi Infravermelho Vision Noctura Intercom Inteligente",
+      "category": "Informática",
+      "price": 1198.9,
+      "score": 86.0,
+      "posted_ts": 1791727366,
+      "posted_at": "2026-10-11T14:02:46.943132+00:00"
+    },
+    {
       "key": "mercadolivre:MLB7197070408",
       "product_id": "MLB7197070408",
       "catalog_product_id": "MLB75425217",
@@ -434,67 +449,7 @@
       "score": 136.74,
       "posted_ts": 1791554617,
       "posted_at": "2026-10-09T14:03:37.490888+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB5827798066",
-      "product_id": "MLB5827798066",
-      "catalog_product_id": "MLB47658528",
-      "item_id": "MLB5827798066",
-      "url": "https://www.mercadolivre.com.br/p/MLB47658528?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB47658528?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "kit papel toalha interfolha supremo e papel toalha mili",
-      "title": "Kit Papel Toalha Interfolha Supremo E Papel Toalha Mili",
-      "category": "Supermercados",
-      "price": 105.45,
-      "score": 98.67,
-      "posted_ts": 1791551381,
-      "posted_at": "2026-10-09T13:09:41.558924+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB5827152542",
-      "product_id": "MLB5827152542",
-      "catalog_product_id": "MLB60416491",
-      "item_id": "MLB5827152542",
-      "url": "https://www.mercadolivre.com.br/p/MLB60416491?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB60416491?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "amaciante roupas macias sensiv titila 5l",
-      "title": "Amaciante Roupas Macias Sensiv Titila 5l",
-      "category": "Supermercados",
-      "price": 47.4,
-      "score": 103.67,
-      "posted_ts": 1791551317,
-      "posted_at": "2026-10-09T13:08:37.415423+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB7480232532",
-      "product_id": "MLB7480232532",
-      "catalog_product_id": "MLB54116785",
-      "item_id": "MLB7480232532",
-      "url": "https://www.mercadolivre.com.br/p/MLB54116785?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB54116785?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "papel higienico folha simples fofopel 30m 16 rolos",
-      "title": "Papel Higiênico Folha Simples Fofopel 30m 16 Rolos",
-      "category": "Supermercados",
-      "price": 84.99,
-      "score": 114.0,
-      "posted_ts": 1791551246,
-      "posted_at": "2026-10-09T13:07:26.565631+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB7190286922",
-      "product_id": "MLB7190286922",
-      "catalog_product_id": "MLB75541518",
-      "item_id": "MLB7190286922",
-      "url": "https://www.mercadolivre.com.br/p/MLB75541518?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB75541518?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "luminaria foguete lava bolha todas as cores decoracao retro",
-      "title": "Luminária Foguete Lava Bolha Todas As Cores Decoração Retrô",
-      "category": "Pet",
-      "price": 134.3,
-      "score": 149.67,
-      "posted_ts": 1791551173,
-      "posted_at": "2026-10-09T13:06:13.268454+00:00"
     }
   ],
-  "updated_at": "2026-10-11T12:02:30.532402+00:00"
+  "updated_at": "2026-10-11T14:02:46.943141+00:00"
 }

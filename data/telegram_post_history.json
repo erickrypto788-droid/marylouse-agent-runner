@@ -1,6 +1,20 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB7262266178",
+      "marketplace": "mercadolivre",
+      "id": "MLB7262266178",
+      "title": "Monitor Bebe Wifi Infravermelho Vision Noctura Intercom Inteligente",
+      "title_norm": "monitor bebe wifi infravermelho vision noctura intercom inteligente",
+      "url": "https://www.mercadolivre.com.br/p/MLB23076913?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB23076913?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Informática",
+      "bucket": "informatica",
+      "posted_ts": 1791727366,
+      "posted_at": "2026-10-11T14:02:46.929341+00:00",
+      "score": 86.0
+    },
+    {
       "key": "shopee:15296691065",
       "marketplace": "shopee",
       "id": "15296691065",
@@ -13985,21 +13999,7 @@
       "posted_ts": 1790957983,
       "posted_at": "2026-10-02T16:19:43.480047+00:00",
       "score": 98.39
-    },
-    {
-      "key": "shopee:24235727112",
-      "marketplace": "shopee",
-      "id": "24235727112",
-      "title": "Unidade de estado sólido interna de alta velocidade SATA III de 2.5 \"SSD 120 GB/256 GB/240 GB",
-      "title_norm": "unidade de estado solido interna de alta velocidade sata iii de 2 5 ssd 120 gb 256 gb 240 gb",
-      "url": "https://shopee.com.br/product/993120827/24235727112",
-      "affiliate_url": "https://s.shopee.com.br/AKb2rR4Biu",
-      "category": "somnambulist.br",
-      "bucket": "informatica",
-      "posted_ts": 1790957911,
-      "posted_at": "2026-10-02T16:18:31.000781+00:00",
-      "score": 101.37
     }
   ],
-  "updated_at": "2026-10-11T13:19:03.504503+00:00"
+  "updated_at": "2026-10-11T14:02:46.929355+00:00"
 }
