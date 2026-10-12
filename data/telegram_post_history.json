@@ -1,6 +1,20 @@
 {
   "posts": [
     {
+      "key": "shopee:58257736580",
+      "marketplace": "shopee",
+      "id": "58257736580",
+      "title": "Mochila Pochete Tática Masculina Impermeável Preta Versátil - Bolsa de Peito Esportiva",
+      "title_norm": "mochila pochete tatica masculina impermeavel preta versatil bolsa de peito esportiva",
+      "url": "https://shopee.com.br/product/328215051/58257736580",
+      "affiliate_url": "https://s.shopee.com.br/8V9e5zDbiB",
+      "category": "Loja da Su__",
+      "bucket": "bolsas",
+      "posted_ts": 1791793014,
+      "posted_at": "2026-10-12T08:16:54.162899+00:00",
+      "score": 118.75
+    },
+    {
       "key": "shopee:23198072057",
       "marketplace": "shopee",
       "id": "23198072057",
@@ -13985,21 +13999,7 @@
       "posted_ts": 1791022681,
       "posted_at": "2026-10-03T10:18:01.590658+00:00",
       "score": 114.51
-    },
-    {
-      "key": "shopee:15296691065",
-      "marketplace": "shopee",
-      "id": "15296691065",
-      "title": "Mochila Masculina Lona 50 Litros Viagem Passeio Motoboy Esporte Trilha Viagem 803",
-      "title_norm": "mochila masculina lona 50 litros viagem passeio motoboy esporte trilha viagem 803",
-      "url": "https://shopee.com.br/product/960960972/15296691065",
-      "affiliate_url": "https://s.shopee.com.br/AUuUBl5dpq",
-      "category": "Global Mochilas CHL",
-      "bucket": "bolsas",
-      "posted_ts": 1791019011,
-      "posted_at": "2026-10-03T09:16:51.494339+00:00",
-      "score": 59.01
     }
   ],
-  "updated_at": "2026-10-12T07:18:19.345659+00:00"
+  "updated_at": "2026-10-12T08:16:54.162912+00:00"
 }
