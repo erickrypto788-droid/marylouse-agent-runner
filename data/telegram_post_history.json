@@ -1,6 +1,34 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB4450293643",
+      "marketplace": "mercadolivre",
+      "id": "MLB4450293643",
+      "title": "Xiaomi POCO Poco X6 5G Dual SIM 256GB/12GB Branco",
+      "title_norm": "xiaomi poco poco x6 5g dual sim 256gb 12gb branco",
+      "url": "https://www.mercadolivre.com.br/p/MLB29728116?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB29728116?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Informática",
+      "bucket": "celulares",
+      "posted_ts": 1791835488,
+      "posted_at": "2026-10-12T20:04:48.362713+00:00",
+      "score": 124.0
+    },
+    {
+      "key": "mercadolivre:MLB5360257867",
+      "marketplace": "mercadolivre",
+      "id": "MLB5360257867",
+      "title": "Smartphone Xiaomi Redmi 15c 256gb Global Azul",
+      "title_norm": "smartphone xiaomi redmi 15c 256gb global azul",
+      "url": "https://www.mercadolivre.com.br/p/MLB61421090?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB61421090?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Informática",
+      "bucket": "celulares",
+      "posted_ts": 1791835424,
+      "posted_at": "2026-10-12T20:03:44.416110+00:00",
+      "score": 127.0
+    },
+    {
       "key": "shopee:20298661096",
       "marketplace": "shopee",
       "id": "20298661096",
@@ -13971,35 +13999,7 @@
       "posted_ts": 1791065985,
       "posted_at": "2026-10-03T22:19:45.340287+00:00",
       "score": 102.17
-    },
-    {
-      "key": "shopee:58255859733",
-      "marketplace": "shopee",
-      "id": "58255859733",
-      "title": "Tênis Infantil Menino Super Leve e Confortável Escolar Esportivo - Volta as aulas",
-      "title_norm": "tenis infantil menino super leve e confortavel escolar esportivo volta as aulas",
-      "url": "https://shopee.com.br/product/1669522364/58255859733",
-      "affiliate_url": "https://s.shopee.com.br/4B0RVkFLGe",
-      "category": "TI MIMEI-",
-      "bucket": "calcados",
-      "posted_ts": 1791065921,
-      "posted_at": "2026-10-03T22:18:41.162536+00:00",
-      "score": 102.6
-    },
-    {
-      "key": "shopee:41055996625",
-      "marketplace": "shopee",
-      "id": "41055996625",
-      "title": "Meninas Sereia Vestidos De Princesa Vestido Verde Crianças Moana Cosplay Roupa Infantil Menina",
-      "title_norm": "meninas sereia vestidos de princesa vestido verde criancas moana cosplay roupa infantil menina",
-      "url": "https://shopee.com.br/product/1210031341/41055996625",
-      "affiliate_url": "https://s.shopee.com.br/5VVp6C5rk2",
-      "category": "cngate1.br",
-      "bucket": "moda_feminina",
-      "posted_ts": 1791065857,
-      "posted_at": "2026-10-03T22:17:37.068384+00:00",
-      "score": 110.99
     }
   ],
-  "updated_at": "2026-10-12T19:18:01.729162+00:00"
+  "updated_at": "2026-10-12T20:04:48.362730+00:00"
 }
