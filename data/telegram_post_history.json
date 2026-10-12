@@ -1,6 +1,20 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB4100148177",
+      "marketplace": "mercadolivre",
+      "id": "MLB4100148177",
+      "title": "Barbeador Costas Masculino Traseiro Dobrável Aparador Pelos",
+      "title_norm": "barbeador costas masculino traseiro dobravel aparador pelos",
+      "url": "https://www.mercadolivre.com.br/p/MLB51434487?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB51434487?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Beleza",
+      "bucket": "beleza",
+      "posted_ts": 1791817396,
+      "posted_at": "2026-10-12T15:03:16.831677+00:00",
+      "score": 139.6
+    },
+    {
       "key": "shopee:20199862626",
       "marketplace": "shopee",
       "id": "20199862626",
@@ -13985,21 +13999,7 @@
       "posted_ts": 1791050799,
       "posted_at": "2026-10-03T18:06:39.598195+00:00",
       "score": 89.0
-    },
-    {
-      "key": "shopee:23099043450",
-      "marketplace": "shopee",
-      "id": "23099043450",
-      "title": "Bota Galocha Impermeável EPI com C.A. Original Proteção Chuva Motoboy Limpeza ENVIO IMEDIATO",
-      "title_norm": "bota galocha impermeavel epi com c a original protecao chuva motoboy limpeza envio imediato",
-      "url": "https://shopee.com.br/product/620096607/23099043450",
-      "affiliate_url": "https://s.shopee.com.br/6q1CLzlGrC",
-      "category": "MTSSHOES",
-      "bucket": "calcados",
-      "posted_ts": 1791047888,
-      "posted_at": "2026-10-03T17:18:08.884513+00:00",
-      "score": 99.43
     }
   ],
-  "updated_at": "2026-10-12T14:21:24.993410+00:00"
+  "updated_at": "2026-10-12T15:03:16.831690+00:00"
 }
