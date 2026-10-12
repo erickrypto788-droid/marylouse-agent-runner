@@ -1,6 +1,51 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB4012619487",
+      "product_id": "MLB4012619487",
+      "catalog_product_id": "MLB45458466",
+      "item_id": "MLB4012619487",
+      "url": "https://www.mercadolivre.com.br/p/MLB45458466?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB45458466?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "air fryer br house fritadeira eletrica air fryer air fryer family preto",
+      "title": "Air fryer Br House Fritadeira ELETRICA AIR FRYER Air Fryer Family preto",
+      "category": "Casa e Cozinha",
+      "price": 323.99,
+      "score": 111.0,
+      "posted_ts": 1791806767,
+      "posted_at": "2026-10-12T12:06:07.087682+00:00"
+    },
+    {
+      "key": "mercadolivre:MLB7158074090",
+      "product_id": "MLB7158074090",
+      "catalog_product_id": "MLB38338044",
+      "item_id": "MLB7158074090",
+      "url": "https://www.mercadolivre.com.br/p/MLB38338044?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB38338044?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "liquidificador portatil mini liquidificador recarregavel usb liquidificador",
+      "title": "Liquidificador portátil, Mini liquidificador recarregável USB, Liquidificador",
+      "category": "Casa e Cozinha",
+      "price": 98.0,
+      "score": 113.0,
+      "posted_ts": 1791806702,
+      "posted_at": "2026-10-12T12:05:02.860900+00:00"
+    },
+    {
+      "key": "mercadolivre:MLB6738465128",
+      "product_id": "MLB6738465128",
+      "catalog_product_id": "MLB59413555",
+      "item_id": "MLB6738465128",
+      "url": "https://www.mercadolivre.com.br/p/MLB59413555?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB59413555?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "cadeira massagem escritorio cadeira escritorio presidente cor ambar",
+      "title": "Cadeira Massagem Escritorio Cadeira Escritorio Presidente Cor Âmbar",
+      "category": "Casa e Cozinha",
+      "price": 743.0,
+      "score": 179.1,
+      "posted_ts": 1791806631,
+      "posted_at": "2026-10-12T12:03:51.827999+00:00"
+    },
+    {
       "key": "mercadolivre:MLB5909017866",
       "product_id": "MLB5909017866",
       "catalog_product_id": "MLB61770185",
@@ -404,22 +449,7 @@
       "score": 137.71,
       "posted_ts": 1791640945,
       "posted_at": "2026-10-10T14:02:25.258594+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB7777653276",
-      "product_id": "MLB7777653276",
-      "catalog_product_id": "MLB25118152",
-      "item_id": "MLB7777653276",
-      "url": "https://www.mercadolivre.com.br/p/MLB25118152?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB25118152?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "escova secadora oval",
-      "title": "Escova Secadora Oval",
-      "category": "Beleza",
-      "price": 187.4,
-      "score": 113.0,
-      "posted_ts": 1791633749,
-      "posted_at": "2026-10-10T12:02:29.501232+00:00"
     }
   ],
-  "updated_at": "2026-10-12T11:07:17.476560+00:00"
+  "updated_at": "2026-10-12T12:06:07.087698+00:00"
 }

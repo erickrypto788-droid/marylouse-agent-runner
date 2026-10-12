@@ -1,6 +1,48 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB4012619487",
+      "marketplace": "mercadolivre",
+      "id": "MLB4012619487",
+      "title": "Air fryer Br House Fritadeira ELETRICA AIR FRYER Air Fryer Family preto",
+      "title_norm": "air fryer br house fritadeira eletrica air fryer air fryer family preto",
+      "url": "https://www.mercadolivre.com.br/p/MLB45458466?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB45458466?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Casa e Cozinha",
+      "bucket": "casa_cozinha",
+      "posted_ts": 1791806767,
+      "posted_at": "2026-10-12T12:06:07.074490+00:00",
+      "score": 111.0
+    },
+    {
+      "key": "mercadolivre:MLB7158074090",
+      "marketplace": "mercadolivre",
+      "id": "MLB7158074090",
+      "title": "Liquidificador portátil, Mini liquidificador recarregável USB, Liquidificador",
+      "title_norm": "liquidificador portatil mini liquidificador recarregavel usb liquidificador",
+      "url": "https://www.mercadolivre.com.br/p/MLB38338044?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB38338044?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Casa e Cozinha",
+      "bucket": "casa_cozinha",
+      "posted_ts": 1791806702,
+      "posted_at": "2026-10-12T12:05:02.847880+00:00",
+      "score": 113.0
+    },
+    {
+      "key": "mercadolivre:MLB6738465128",
+      "marketplace": "mercadolivre",
+      "id": "MLB6738465128",
+      "title": "Cadeira Massagem Escritorio Cadeira Escritorio Presidente Cor Âmbar",
+      "title_norm": "cadeira massagem escritorio cadeira escritorio presidente cor ambar",
+      "url": "https://www.mercadolivre.com.br/p/MLB59413555?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB59413555?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Casa e Cozinha",
+      "bucket": "casa_e_cozinha",
+      "posted_ts": 1791806631,
+      "posted_at": "2026-10-12T12:03:51.813877+00:00",
+      "score": 179.1
+    },
+    {
       "key": "shopee:3775644666",
       "marketplace": "shopee",
       "id": "3775644666",
@@ -13957,49 +13999,7 @@
       "posted_ts": 1791037143,
       "posted_at": "2026-10-03T14:19:03.647180+00:00",
       "score": 102.7
-    },
-    {
-      "key": "shopee:58206364376",
-      "marketplace": "shopee",
-      "id": "58206364376",
-      "title": "kit 3 Blusa Regata Alcinha Básica Com Forro Confortável Casual Verão Suplex Poliamida Com Forro",
-      "title_norm": "kit 3 blusa regata alcinha basica com forro confortavel casual verao suplex poliamida com forro",
-      "url": "https://shopee.com.br/product/751256827/58206364376",
-      "affiliate_url": "https://s.shopee.com.br/6q1C9cw7lr",
-      "category": "Oskley",
-      "bucket": "oskley",
-      "posted_ts": 1791037079,
-      "posted_at": "2026-10-03T14:17:59.590626+00:00",
-      "score": 103.87
-    },
-    {
-      "key": "shopee:22096426333",
-      "marketplace": "shopee",
-      "id": "22096426333",
-      "title": "Calça Mom Jeans Cintura Alta Feminina Levanta Bumbum",
-      "title_norm": "calca mom jeans cintura alta feminina levanta bumbum",
-      "url": "https://shopee.com.br/product/869193731/22096426333",
-      "affiliate_url": "https://s.shopee.com.br/1As14UnfM",
-      "category": "OxeanJeans",
-      "bucket": "oxeanjeans",
-      "posted_ts": 1791037015,
-      "posted_at": "2026-10-03T14:16:55.346658+00:00",
-      "score": 124.27
-    },
-    {
-      "key": "mercadolivre:MLB7575871600",
-      "marketplace": "mercadolivre",
-      "id": "MLB7575871600",
-      "title": "Ração Cachorro Selection Adultos Pequenos 10,1kg Harmony",
-      "title_norm": "racao cachorro selection adultos pequenos 10 1kg harmony",
-      "url": "https://www.mercadolivre.com.br/p/MLB49735840?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB49735840?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "category": "Pet",
-      "bucket": "pet",
-      "posted_ts": 1791036198,
-      "posted_at": "2026-10-03T14:03:18.535071+00:00",
-      "score": 113.0
     }
   ],
-  "updated_at": "2026-10-12T11:21:25.537453+00:00"
+  "updated_at": "2026-10-12T12:06:07.074512+00:00"
 }
