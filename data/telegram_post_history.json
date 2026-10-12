@@ -1,6 +1,62 @@
 {
   "posts": [
     {
+      "key": "shopee:43852360893",
+      "marketplace": "shopee",
+      "id": "43852360893",
+      "title": "Creme Hidratante Facial 5% Manteiga de Karité + 5% Glicerina + 2% Niacinamida CH-01Principia - 50g",
+      "title_norm": "creme hidratante facial 5 manteiga de karite 5 glicerina 2 niacinamida ch 01principia 50g",
+      "url": "https://shopee.com.br/product/373261329/43852360893",
+      "affiliate_url": "https://s.shopee.com.br/5VW3Jva2pj",
+      "category": "Principia Skincare",
+      "bucket": "principia_skincare",
+      "posted_ts": 1791836411,
+      "posted_at": "2026-10-12T20:20:11.485203+00:00",
+      "score": 51.02
+    },
+    {
+      "key": "shopee:23994387054",
+      "marketplace": "shopee",
+      "id": "23994387054",
+      "title": "Kit Dupla Renovadores Faciais Kokeshi Pele Porcelana Olhos Gueixa",
+      "title_norm": "kit dupla renovadores faciais kokeshi pele porcelana olhos gueixa",
+      "url": "https://shopee.com.br/product/395166866/23994387054",
+      "affiliate_url": "https://s.shopee.com.br/5LCd7cagAg",
+      "category": "KOKESHI OFICIAL",
+      "bucket": "kokeshi_oficial",
+      "posted_ts": 1791836347,
+      "posted_at": "2026-10-12T20:19:07.376349+00:00",
+      "score": 102.68
+    },
+    {
+      "key": "shopee:18799918385",
+      "marketplace": "shopee",
+      "id": "18799918385",
+      "title": "Pente Elétrico Alisador Cabelo Aquecimento Milti-fucional Prancha Alisadora",
+      "title_norm": "pente eletrico alisador cabelo aquecimento milti fucional prancha alisadora",
+      "url": "https://shopee.com.br/product/1264719671/18799918385",
+      "affiliate_url": "https://s.shopee.com.br/3g4P8YYQn9",
+      "category": "omni commerce",
+      "bucket": "omni_commerce",
+      "posted_ts": 1791836283,
+      "posted_at": "2026-10-12T20:18:03.451427+00:00",
+      "score": 106.33
+    },
+    {
+      "key": "shopee:23598683017",
+      "marketplace": "shopee",
+      "id": "23598683017",
+      "title": "Escova Secadora Alisador Elétrica Quente Cabelo Com 3 Em1 Hair Styler APENAS 110V Jimmystore",
+      "title_norm": "escova secadora alisador eletrica quente cabelo com 3 em1 hair styler apenas 110v jimmystore",
+      "url": "https://shopee.com.br/product/1127030290/23598683017",
+      "affiliate_url": "https://s.shopee.com.br/60SJuqKwUP",
+      "category": "JIMMY.STORE",
+      "bucket": "beleza",
+      "posted_ts": 1791836219,
+      "posted_at": "2026-10-12T20:16:59.438175+00:00",
+      "score": 145.88
+    },
+    {
       "key": "mercadolivre:MLB4450293643",
       "marketplace": "mercadolivre",
       "id": "MLB4450293643",
@@ -13943,63 +13999,7 @@
       "posted_ts": 1791069477,
       "posted_at": "2026-10-03T23:17:57.291808+00:00",
       "score": 116.96
-    },
-    {
-      "key": "shopee:20299558422",
-      "marketplace": "shopee",
-      "id": "20299558422",
-      "title": "Creatina Ultra Pote 300g - FTW",
-      "title_norm": "creatina ultra pote 300g ftw",
-      "url": "https://shopee.com.br/product/1397772996/20299558422",
-      "affiliate_url": "https://s.shopee.com.br/gQYg3RxeM",
-      "category": "Loja Oficial FTW",
-      "bucket": "loja_oficial_ftw",
-      "posted_ts": 1791069413,
-      "posted_at": "2026-10-03T23:16:53.343693+00:00",
-      "score": 127.59
-    },
-    {
-      "key": "shopee:22193592077",
-      "marketplace": "shopee",
-      "id": "22193592077",
-      "title": "Sandália Papete Infantil Meninos Babuche Masculino Macio Leve e Confortável",
-      "title_norm": "sandalia papete infantil meninos babuche masculino macio leve e confortavel",
-      "url": "https://shopee.com.br/product/759231231/22193592077",
-      "affiliate_url": "https://s.shopee.com.br/2BFN84MxKS",
-      "category": "Lua & Passos Kids",
-      "bucket": "pet",
-      "posted_ts": 1791066113,
-      "posted_at": "2026-10-03T22:21:53.482616+00:00",
-      "score": 97.06
-    },
-    {
-      "key": "shopee:58261565925",
-      "marketplace": "shopee",
-      "id": "58261565925",
-      "title": "Kit 2 Pares Sandália Infantil Papete Menina Casual Leve Lançamento",
-      "title_norm": "kit 2 pares sandalia infantil papete menina casual leve lancamento",
-      "url": "https://shopee.com.br/product/1782683148/58261565925",
-      "affiliate_url": "https://s.shopee.com.br/8pmH4JomCx",
-      "category": "Sandalias Baby Colorito",
-      "bucket": "pet",
-      "posted_ts": 1791066049,
-      "posted_at": "2026-10-03T22:20:49.397350+00:00",
-      "score": 98.18
-    },
-    {
-      "key": "shopee:22194698355",
-      "marketplace": "shopee",
-      "id": "22194698355",
-      "title": "Tênis infantil casual moderno e confortável modinha",
-      "title_norm": "tenis infantil casual moderno e confortavel modinha",
-      "url": "https://shopee.com.br/product/1125543872/22194698355",
-      "affiliate_url": "https://s.shopee.com.br/8fSqs12P7h",
-      "category": "Passinho de Luz",
-      "bucket": "calcados",
-      "posted_ts": 1791065985,
-      "posted_at": "2026-10-03T22:19:45.340287+00:00",
-      "score": 102.17
     }
   ],
-  "updated_at": "2026-10-12T20:04:48.362730+00:00"
+  "updated_at": "2026-10-12T20:20:11.485214+00:00"
 }
