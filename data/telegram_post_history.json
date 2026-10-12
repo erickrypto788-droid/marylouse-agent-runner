@@ -1,6 +1,34 @@
 {
   "posts": [
     {
+      "key": "shopee:20298661096",
+      "marketplace": "shopee",
+      "id": "20298661096",
+      "title": "Aspirador de Pó Vertical Britânia 2 em 1 1200W BAS1200C",
+      "title_norm": "aspirador de po vertical britania 2 em 1 1200w bas1200c",
+      "url": "https://shopee.com.br/product/811879342/20298661096",
+      "affiliate_url": "https://s.shopee.com.br/9pf2PldV9J",
+      "category": "Britânia Oficial",
+      "bucket": "casa_cozinha",
+      "posted_ts": 1791832681,
+      "posted_at": "2026-10-12T19:18:01.729148+00:00",
+      "score": 120.18
+    },
+    {
+      "key": "shopee:22998383507",
+      "marketplace": "shopee",
+      "id": "22998383507",
+      "title": "Panela De Pressão 4,5litros Panelux Linha Classic Alto Brilho A Mais Vendida Do Brasil",
+      "title_norm": "panela de pressao 4 5litros panelux linha classic alto brilho a mais vendida do brasil",
+      "url": "https://shopee.com.br/product/472053026/22998383507",
+      "affiliate_url": "https://s.shopee.com.br/113dtXJrOZ",
+      "category": "MBShopp",
+      "bucket": "casa_cozinha",
+      "posted_ts": 1791832617,
+      "posted_at": "2026-10-12T19:16:57.481872+00:00",
+      "score": 126.09
+    },
+    {
       "key": "mercadolivre:MLB4442585419",
       "marketplace": "mercadolivre",
       "id": "MLB4442585419",
@@ -13971,35 +13999,7 @@
       "posted_ts": 1791065857,
       "posted_at": "2026-10-03T22:17:37.068384+00:00",
       "score": 110.99
-    },
-    {
-      "key": "shopee:58208444702",
-      "marketplace": "shopee",
-      "id": "58208444702",
-      "title": "Principia Kit Protetor Solar PS-01 FPS 60 + PS-05 FPS 70- escolha seu tom",
-      "title_norm": "principia kit protetor solar ps 01 fps 60 ps 05 fps 70 escolha seu tom",
-      "url": "https://shopee.com.br/product/373261329/58208444702",
-      "affiliate_url": "https://s.shopee.com.br/3B7szRKrGS",
-      "category": "Principia Skincare",
-      "bucket": "principia_skincare",
-      "posted_ts": 1791062486,
-      "posted_at": "2026-10-03T21:21:26.543430+00:00",
-      "score": 66.59
-    },
-    {
-      "key": "shopee:22399469469",
-      "marketplace": "shopee",
-      "id": "22399469469",
-      "title": "New Show Caixa De 800Cilios Tufos Sem Nó Tufinho 12P/20P/30P/40P/50P/0.07D9-14Mix Extensão de Cilios",
-      "title_norm": "new show caixa de 800cilios tufos sem no tufinho 12p 20p 30p 40p 50p 0 07d9 14mix extensao de cilios",
-      "url": "https://shopee.com.br/product/1430626556/22399469469",
-      "affiliate_url": "https://s.shopee.com.br/6q1CcTYsZx",
-      "category": "New Show Oficial",
-      "bucket": "new_show_oficial",
-      "posted_ts": 1791062416,
-      "posted_at": "2026-10-03T21:20:16.071821+00:00",
-      "score": 101.08
     }
   ],
-  "updated_at": "2026-10-12T19:03:50.177532+00:00"
+  "updated_at": "2026-10-12T19:18:01.729162+00:00"
 }
