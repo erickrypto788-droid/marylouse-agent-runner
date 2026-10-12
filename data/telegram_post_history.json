@@ -1,6 +1,62 @@
 {
   "posts": [
     {
+      "key": "shopee:53062822611",
+      "marketplace": "shopee",
+      "id": "53062822611",
+      "title": "Conjunto Feminino Plus Size Casual Chic Blusa Solta e Pantalona Viscolycra",
+      "title_norm": "conjunto feminino plus size casual chic blusa solta e pantalona viscolycra",
+      "url": "https://shopee.com.br/product/1113241364/53062822611",
+      "affiliate_url": "https://s.shopee.com.br/3LRYPNDlEF",
+      "category": "Jadore Plus Size",
+      "bucket": "jadore_plus_size",
+      "posted_ts": 1791818440,
+      "posted_at": "2026-10-12T15:20:40.502156+00:00",
+      "score": 57.62
+    },
+    {
+      "key": "shopee:58252754423",
+      "marketplace": "shopee",
+      "id": "58252754423",
+      "title": "conjunto femenino calça e blusa baby look elegante plus size confortavel DIVERSAS CORES",
+      "title_norm": "conjunto femenino calca e blusa baby look elegante plus size confortavel diversas cores",
+      "url": "https://shopee.com.br/product/1010045857/58252754423",
+      "affiliate_url": "https://s.shopee.com.br/6AliWGFbf1",
+      "category": "Fashion Stars Oficial",
+      "bucket": "fashion_stars_oficial",
+      "posted_ts": 1791818376,
+      "posted_at": "2026-10-12T15:19:36.194405+00:00",
+      "score": 67.92
+    },
+    {
+      "key": "shopee:58264805020",
+      "marketplace": "shopee",
+      "id": "58264805020",
+      "title": "Blusa Feminina Plus Size Manga Curta soltinha",
+      "title_norm": "blusa feminina plus size manga curta soltinha",
+      "url": "https://shopee.com.br/product/1638164440/58264805020",
+      "affiliate_url": "https://s.shopee.com.br/6q1PJU8fVJ",
+      "category": "Modas Luque",
+      "bucket": "moda_feminina",
+      "posted_ts": 1791818311,
+      "posted_at": "2026-10-12T15:18:31.711606+00:00",
+      "score": 96.77
+    },
+    {
+      "key": "shopee:58257330060",
+      "marketplace": "shopee",
+      "id": "58257330060",
+      "title": "Vestido Plus Size Soltinho Em Dois Tamanhos e Várias Cores",
+      "title_norm": "vestido plus size soltinho em dois tamanhos e varias cores",
+      "url": "https://shopee.com.br/product/1518048481/58257330060",
+      "affiliate_url": "https://s.shopee.com.br/4B0e8aEQ8a",
+      "category": "augeconceito",
+      "bucket": "moda_feminina",
+      "posted_ts": 1791818247,
+      "posted_at": "2026-10-12T15:17:27.409336+00:00",
+      "score": 119.51
+    },
+    {
       "key": "mercadolivre:MLB4100148177",
       "marketplace": "mercadolivre",
       "id": "MLB4100148177",
@@ -13943,63 +13999,7 @@
       "posted_ts": 1791051409,
       "posted_at": "2026-10-03T18:16:49.566119+00:00",
       "score": 96.58
-    },
-    {
-      "key": "mercadolivre:MLB7517810920",
-      "marketplace": "mercadolivre",
-      "id": "MLB7517810920",
-      "title": "Hidratante Corporal Pessego",
-      "title_norm": "hidratante corporal pessego",
-      "url": "https://www.mercadolivre.com.br/p/MLB76609780?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB76609780?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "category": "Beleza",
-      "bucket": "beleza",
-      "posted_ts": 1791051020,
-      "posted_at": "2026-10-03T18:10:20.459178+00:00",
-      "score": 63.0
-    },
-    {
-      "key": "mercadolivre:MLB7046261998",
-      "marketplace": "mercadolivre",
-      "id": "MLB7046261998",
-      "title": "Snob Papel Toalha Cozinha Folha Dupla C/ 12 Rolos",
-      "title_norm": "snob papel toalha cozinha folha dupla c 12 rolos",
-      "url": "https://www.mercadolivre.com.br/p/MLB28886645?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB28886645?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "category": "Supermercados",
-      "bucket": "supermercados",
-      "posted_ts": 1791050948,
-      "posted_at": "2026-10-03T18:09:08.546201+00:00",
-      "score": 89.0
-    },
-    {
-      "key": "mercadolivre:MLB5032468211",
-      "marketplace": "mercadolivre",
-      "id": "MLB5032468211",
-      "title": "100 Saco De Lixo 60l Preto Saco Lixo Resistente Reforçado",
-      "title_norm": "100 saco de lixo 60l preto saco lixo resistente reforcado",
-      "url": "https://www.mercadolivre.com.br/p/MLB61910184?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB61910184?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "category": "Supermercados",
-      "bucket": "supermercados",
-      "posted_ts": 1791050870,
-      "posted_at": "2026-10-03T18:07:50.135647+00:00",
-      "score": 89.0
-    },
-    {
-      "key": "mercadolivre:MLB7624945484",
-      "marketplace": "mercadolivre",
-      "id": "MLB7624945484",
-      "title": "Creme Dental Ozonizado Philozon 90g",
-      "title_norm": "creme dental ozonizado philozon 90g",
-      "url": "https://www.mercadolivre.com.br/p/MLB19638787?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB19638787?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "category": "Supermercados",
-      "bucket": "supermercados",
-      "posted_ts": 1791050799,
-      "posted_at": "2026-10-03T18:06:39.598195+00:00",
-      "score": 89.0
     }
   ],
-  "updated_at": "2026-10-12T15:03:16.831690+00:00"
+  "updated_at": "2026-10-12T15:20:40.502172+00:00"
 }
