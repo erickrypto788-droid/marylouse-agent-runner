@@ -1,6 +1,21 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB6359500600",
+      "product_id": "MLB6359500600",
+      "catalog_product_id": "MLB26685042",
+      "item_id": "MLB6359500600",
+      "url": "https://www.mercadolivre.com.br/p/MLB26685042?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB26685042?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "owlet dream sock meia inteligente monitor bebe rosa",
+      "title": "Owlet Dream Sock | Meia Inteligente Monitor Bebê - Rosa",
+      "category": "Informática",
+      "price": 3450.0,
+      "score": 83.0,
+      "posted_ts": 1791788609,
+      "posted_at": "2026-10-12T07:03:29.748377+00:00"
+    },
+    {
       "key": "mercadolivre:MLB7426392508",
       "product_id": "MLB7426392508",
       "catalog_product_id": "MLB77446523",
@@ -481,5 +496,5 @@
       "posted_at": "2026-10-10T07:05:18.317818+00:00"
     }
   ],
-  "updated_at": "2026-10-12T03:02:45.438468+00:00"
+  "updated_at": "2026-10-12T07:03:29.748393+00:00"
 }

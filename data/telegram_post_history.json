@@ -1,6 +1,20 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB6359500600",
+      "marketplace": "mercadolivre",
+      "id": "MLB6359500600",
+      "title": "Owlet Dream Sock | Meia Inteligente Monitor Bebê - Rosa",
+      "title_norm": "owlet dream sock meia inteligente monitor bebe rosa",
+      "url": "https://www.mercadolivre.com.br/p/MLB26685042?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB26685042?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Informática",
+      "bucket": "informatica",
+      "posted_ts": 1791788609,
+      "posted_at": "2026-10-12T07:03:29.732902+00:00",
+      "score": 83.0
+    },
+    {
       "key": "shopee:22492958419",
       "marketplace": "shopee",
       "id": "22492958419",
@@ -13985,21 +13999,7 @@
       "posted_ts": 1791015597,
       "posted_at": "2026-10-03T08:19:57.600285+00:00",
       "score": 119.27
-    },
-    {
-      "key": "shopee:22993817264",
-      "marketplace": "shopee",
-      "id": "22993817264",
-      "title": "Bolsa Feminina Baú Transversal Média com Lenço Alça Tiracolo Estruturada e Espaçosa",
-      "title_norm": "bolsa feminina bau transversal media com lenco alca tiracolo estruturada e espacosa",
-      "url": "https://shopee.com.br/product/1127030290/22993817264",
-      "affiliate_url": "https://s.shopee.com.br/5VVoASQLsq",
-      "category": "JIMMY.STORE",
-      "bucket": "bolsas",
-      "posted_ts": 1791015531,
-      "posted_at": "2026-10-03T08:18:51.130748+00:00",
-      "score": 119.88
     }
   ],
-  "updated_at": "2026-10-12T06:21:32.631117+00:00"
+  "updated_at": "2026-10-12T07:03:29.732923+00:00"
 }
