@@ -1,6 +1,62 @@
 {
   "posts": [
     {
+      "key": "shopee:52054081014",
+      "marketplace": "shopee",
+      "id": "52054081014",
+      "title": "Principia Protetor Solar PS-05 Cor 3.0 c/ 14,5% Mix de Filtros UV + 5% Niacinamida FPS 70 - 30ml",
+      "title_norm": "principia protetor solar ps 05 cor 3 0 c 14 5 mix de filtros uv 5 niacinamida fps 70 30ml",
+      "url": "https://shopee.com.br/product/373261329/52054081014",
+      "affiliate_url": "https://s.shopee.com.br/7VH6RJQuxL",
+      "category": "Principia Skincare",
+      "bucket": "principia_skincare",
+      "posted_ts": 1791768014,
+      "posted_at": "2026-10-12T01:20:14.040473+00:00",
+      "score": 51.02
+    },
+    {
+      "key": "shopee:22494941454",
+      "marketplace": "shopee",
+      "id": "22494941454",
+      "title": "Kit Facial Kokeshi Completo 3 Passos Hidratação e Colágeno",
+      "title_norm": "kit facial kokeshi completo 3 passos hidratacao e colageno",
+      "url": "https://shopee.com.br/product/395166866/22494941454",
+      "affiliate_url": "https://s.shopee.com.br/60SIeYSMl1",
+      "category": "KOKESHI OFICIAL",
+      "bucket": "kokeshi_oficial",
+      "posted_ts": 1791767950,
+      "posted_at": "2026-10-12T01:19:10.077900+00:00",
+      "score": 103.26
+    },
+    {
+      "key": "shopee:23198900707",
+      "marketplace": "shopee",
+      "id": "23198900707",
+      "title": "Chapinha 2 em 1 Profissional | Modelador Cachos Barril 30mm | Para Cabelos Todos Tipos",
+      "title_norm": "chapinha 2 em 1 profissional modelador cachos barril 30mm para cabelos todos tipos",
+      "url": "https://shopee.com.br/product/386512962/23198900707",
+      "affiliate_url": "https://s.shopee.com.br/5AtBf1Mjs0",
+      "category": "OPA LEGAL",
+      "bucket": "beleza",
+      "posted_ts": 1791767886,
+      "posted_at": "2026-10-12T01:18:06.102042+00:00",
+      "score": 125.48
+    },
+    {
+      "key": "shopee:20997924613",
+      "marketplace": "shopee",
+      "id": "20997924613",
+      "title": "Escova Secadora 3 em 1 Profissional",
+      "title_norm": "escova secadora 3 em 1 profissional",
+      "url": "https://shopee.com.br/product/1372149000/20997924613",
+      "affiliate_url": "https://s.shopee.com.br/7VH6RJ9O5D",
+      "category": "OLIVIA.OFICIAIS",
+      "bucket": "beleza",
+      "posted_ts": 1791767822,
+      "posted_at": "2026-10-12T01:17:02.185190+00:00",
+      "score": 136.68
+    },
+    {
       "key": "mercadolivre:MLB5317844777",
       "marketplace": "mercadolivre",
       "id": "MLB5317844777",
@@ -13943,63 +13999,7 @@
       "posted_ts": 1790997480,
       "posted_at": "2026-10-03T03:18:00.147121+00:00",
       "score": 102.68
-    },
-    {
-      "key": "shopee:44152768165",
-      "marketplace": "shopee",
-      "id": "44152768165",
-      "title": "Kit 3 Pares Chinelo Infantil Menina Sortido Confortável Leve Macio",
-      "title_norm": "kit 3 pares chinelo infantil menina sortido confortavel leve macio",
-      "url": "https://shopee.com.br/product/280039385/44152768165",
-      "affiliate_url": "https://s.shopee.com.br/1gJ5Go6p1y",
-      "category": "Lima'S Fabrica",
-      "bucket": "calcados",
-      "posted_ts": 1790997416,
-      "posted_at": "2026-10-03T03:16:56.054742+00:00",
-      "score": 110.5
-    },
-    {
-      "key": "mercadolivre:MLB6896373880",
-      "marketplace": "mercadolivre",
-      "id": "MLB6896373880",
-      "title": "Rack Acacia Rack Para Tv Até 43 Pt-jupiter De Madeira",
-      "title_norm": "rack acacia rack para tv ate 43 pt jupiter de madeira",
-      "url": "https://www.mercadolivre.com.br/p/MLB72068054?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB72068054?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "category": "Casa e Cozinha",
-      "bucket": "casa_e_cozinha",
-      "posted_ts": 1790996590,
-      "posted_at": "2026-10-03T03:03:10.739144+00:00",
-      "score": 88.0
-    },
-    {
-      "key": "shopee:58265242344",
-      "marketplace": "shopee",
-      "id": "58265242344",
-      "title": "Principia kit com 2 Protetores solares com cor PS-05-escolha seu tom",
-      "title_norm": "principia kit com 2 protetores solares com cor ps 05 escolha seu tom",
-      "url": "https://shopee.com.br/product/373261329/58265242344",
-      "affiliate_url": "https://s.shopee.com.br/4VdGZtFmYq",
-      "category": "Principia Skincare",
-      "bucket": "principia_skincare",
-      "posted_ts": 1790994000,
-      "posted_at": "2026-10-03T02:20:00.914724+00:00",
-      "score": 59.4
-    },
-    {
-      "key": "shopee:22898980977",
-      "marketplace": "shopee",
-      "id": "22898980977",
-      "title": "Principia Kit Duo c/ 2 Protetores Solares Faciais - PS-01 FPS 60",
-      "title_norm": "principia kit duo c 2 protetores solares faciais ps 01 fps 60",
-      "url": "https://shopee.com.br/product/373261329/22898980977",
-      "affiliate_url": "https://s.shopee.com.br/7faILi3j8G",
-      "category": "Principia Skincare",
-      "bucket": "principia_skincare",
-      "posted_ts": 1790993936,
-      "posted_at": "2026-10-03T02:18:56.898534+00:00",
-      "score": 63.68
     }
   ],
-  "updated_at": "2026-10-12T01:02:40.364363+00:00"
+  "updated_at": "2026-10-12T01:20:14.040490+00:00"
 }
