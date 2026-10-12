@@ -1,6 +1,48 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB5909017866",
+      "marketplace": "mercadolivre",
+      "id": "MLB5909017866",
+      "title": "Blusa Camisa Feminina Proteção Solar Bike Jetski Pesca Praia Cor Branco Tamanho M",
+      "title_norm": "blusa camisa feminina protecao solar bike jetski pesca praia cor branco tamanho m",
+      "url": "https://www.mercadolivre.com.br/p/MLB61770185?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB61770185?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Moda Feminina",
+      "bucket": "moda_feminina",
+      "posted_ts": 1791803237,
+      "posted_at": "2026-10-12T11:07:17.462557+00:00",
+      "score": 88.0
+    },
+    {
+      "key": "mercadolivre:MLB5248354709",
+      "marketplace": "mercadolivre",
+      "id": "MLB5248354709",
+      "title": "Kit 7 Shorts Feminino Modelador Selene Levanta Bumbum Bege Eg",
+      "title_norm": "kit 7 shorts feminino modelador selene levanta bumbum bege eg",
+      "url": "https://www.mercadolivre.com.br/p/MLB74383241?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB74383241?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Moda Feminina",
+      "bucket": "moda_feminina",
+      "posted_ts": 1791803169,
+      "posted_at": "2026-10-12T11:06:09.883606+00:00",
+      "score": 97.67
+    },
+    {
+      "key": "mercadolivre:MLB7059191208",
+      "marketplace": "mercadolivre",
+      "id": "MLB7059191208",
+      "title": "Boneca Sophia Deluxe com Roupa Academia Unicórnio 24cm Sunny",
+      "title_norm": "boneca sophia deluxe com roupa academia unicornio 24cm sunny",
+      "url": "https://www.mercadolivre.com.br/p/MLB38422370?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB38422370?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Esportes",
+      "bucket": "esportes",
+      "posted_ts": 1791803100,
+      "posted_at": "2026-10-12T11:05:00.953574+00:00",
+      "score": 102.75
+    },
+    {
       "key": "shopee:58217079398",
       "marketplace": "shopee",
       "id": "58217079398",
@@ -13957,49 +13999,7 @@
       "posted_ts": 1791029953,
       "posted_at": "2026-10-03T12:19:13.992021+00:00",
       "score": 90.18
-    },
-    {
-      "key": "shopee:54557028525",
-      "marketplace": "shopee",
-      "id": "54557028525",
-      "title": "Chaleira Elétrica Inox 1,8L 1000W ou 1200W Desligamento Automático - Bule Jarra Cafeteira Elétrica Aquece Água Rápido",
-      "title_norm": "chaleira eletrica inox 1 8l 1000w ou 1200w desligamento automatico bule jarra cafeteira eletrica aquece agua rapido",
-      "url": "https://shopee.com.br/product/332059670/54557028525",
-      "affiliate_url": "https://s.shopee.com.br/4fwhROv47r",
-      "category": "Pratitudo Essencial",
-      "bucket": "casa_cozinha",
-      "posted_ts": 1791029882,
-      "posted_at": "2026-10-03T12:18:02.749707+00:00",
-      "score": 131.93
-    },
-    {
-      "key": "shopee:22910602652",
-      "marketplace": "shopee",
-      "id": "22910602652",
-      "title": "Ômega 3 1450mg óleo de peixe - EPA + TDH 30 cáps",
-      "title_norm": "omega 3 1450mg oleo de peixe epa tdh 30 caps",
-      "url": "https://shopee.com.br/product/834213091/22910602652",
-      "affiliate_url": "https://s.shopee.com.br/113P4fQgyO",
-      "category": "Natural Premium Brasil",
-      "bucket": "natural_premium_brasil",
-      "posted_ts": 1791029813,
-      "posted_at": "2026-10-03T12:16:53.466488+00:00",
-      "score": 135.76
-    },
-    {
-      "key": "shopee:41882703455",
-      "marketplace": "shopee",
-      "id": "41882703455",
-      "title": "Homem Aranha - Miniaturas para Monitor – Decoração Criativa para Setup PC Gamer/Office - Spider Man Miles Morales",
-      "title_norm": "homem aranha miniaturas para monitor decoracao criativa para setup pc gamer office spider man miles morales",
-      "url": "https://shopee.com.br/product/395317285/41882703455",
-      "affiliate_url": "https://s.shopee.com.br/80D9LPkKJ9",
-      "category": "FABRICCA - MANUFATURA ADITIVA",
-      "bucket": "pet",
-      "posted_ts": 1791026567,
-      "posted_at": "2026-10-03T11:22:47.894580+00:00",
-      "score": 59.18
     }
   ],
-  "updated_at": "2026-10-12T10:21:39.943027+00:00"
+  "updated_at": "2026-10-12T11:07:17.462570+00:00"
 }

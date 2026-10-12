@@ -1,6 +1,51 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB5909017866",
+      "product_id": "MLB5909017866",
+      "catalog_product_id": "MLB61770185",
+      "item_id": "MLB5909017866",
+      "url": "https://www.mercadolivre.com.br/p/MLB61770185?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB61770185?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "blusa camisa feminina protecao solar bike jetski pesca praia cor branco tamanho m",
+      "title": "Blusa Camisa Feminina Proteção Solar Bike Jetski Pesca Praia Cor Branco Tamanho M",
+      "category": "Moda Feminina",
+      "price": 90.92,
+      "score": 88.0,
+      "posted_ts": 1791803237,
+      "posted_at": "2026-10-12T11:07:17.476550+00:00"
+    },
+    {
+      "key": "mercadolivre:MLB5248354709",
+      "product_id": "MLB5248354709",
+      "catalog_product_id": "MLB74383241",
+      "item_id": "MLB5248354709",
+      "url": "https://www.mercadolivre.com.br/p/MLB74383241?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB74383241?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "kit 7 shorts feminino modelador selene levanta bumbum bege eg",
+      "title": "Kit 7 Shorts Feminino Modelador Selene Levanta Bumbum Bege Eg",
+      "category": "Moda Feminina",
+      "price": 135.84,
+      "score": 97.67,
+      "posted_ts": 1791803169,
+      "posted_at": "2026-10-12T11:06:09.897273+00:00"
+    },
+    {
+      "key": "mercadolivre:MLB7059191208",
+      "product_id": "MLB7059191208",
+      "catalog_product_id": "MLB38422370",
+      "item_id": "MLB7059191208",
+      "url": "https://www.mercadolivre.com.br/p/MLB38422370?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB38422370?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "boneca sophia deluxe com roupa academia unicornio 24cm sunny",
+      "title": "Boneca Sophia Deluxe com Roupa Academia Unicórnio 24cm Sunny",
+      "category": "Esportes",
+      "price": 138.26,
+      "score": 102.75,
+      "posted_ts": 1791803100,
+      "posted_at": "2026-10-12T11:05:00.967712+00:00"
+    },
+    {
       "key": "mercadolivre:MLB6711765758",
       "product_id": "MLB6711765758",
       "catalog_product_id": "MLB68578906",
@@ -374,22 +419,7 @@
       "score": 113.0,
       "posted_ts": 1791633749,
       "posted_at": "2026-10-10T12:02:29.501232+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB5887241714",
-      "product_id": "MLB5887241714",
-      "catalog_product_id": "MLB39280584",
-      "item_id": "MLB5887241714",
-      "url": "https://www.mercadolivre.com.br/p/MLB39280584?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB39280584?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "bola futebol campo futsal praia",
-      "title": "Bola Futebol Campo Futsal Praia",
-      "category": "Esportes",
-      "price": 25.99,
-      "score": 120.63,
-      "posted_ts": 1791630189,
-      "posted_at": "2026-10-10T11:03:09.083784+00:00"
     }
   ],
-  "updated_at": "2026-10-12T10:06:30.932925+00:00"
+  "updated_at": "2026-10-12T11:07:17.476560+00:00"
 }
