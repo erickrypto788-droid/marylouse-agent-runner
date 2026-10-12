@@ -1,6 +1,20 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB6711765758",
+      "marketplace": "mercadolivre",
+      "id": "MLB6711765758",
+      "title": "Bepantol Baby Pomada Assadura Bebe Hipoalergênica, 200g",
+      "title_norm": "bepantol baby pomada assadura bebe hipoalergenica 200g",
+      "url": "https://www.mercadolivre.com.br/p/MLB68578906?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB68578906?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Mãe e Bebê",
+      "bucket": "mae_e_bebe",
+      "posted_ts": 1791799590,
+      "posted_at": "2026-10-12T10:06:30.919588+00:00",
+      "score": 101.69
+    },
+    {
       "key": "shopee:22698058200",
       "marketplace": "shopee",
       "id": "22698058200",
@@ -13985,21 +13999,7 @@
       "posted_ts": 1791025494,
       "posted_at": "2026-10-03T11:04:54.226379+00:00",
       "score": 124.0
-    },
-    {
-      "key": "mercadolivre:MLB7740602398",
-      "marketplace": "mercadolivre",
-      "id": "MLB7740602398",
-      "title": "Smartphone Xiaomi Redmi 14C Preto 128GB 4GB RAM",
-      "title_norm": "smartphone xiaomi redmi 14c preto 128gb 4gb ram",
-      "url": "https://www.mercadolivre.com.br/p/MLB43264591?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB43264591?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "category": "Informática",
-      "bucket": "celulares",
-      "posted_ts": 1791025426,
-      "posted_at": "2026-10-03T11:03:46.885571+00:00",
-      "score": 127.0
     }
   ],
-  "updated_at": "2026-10-12T09:19:23.398171+00:00"
+  "updated_at": "2026-10-12T10:06:30.919606+00:00"
 }
