@@ -1,6 +1,36 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB4552665179",
+      "product_id": "MLB4552665179",
+      "catalog_product_id": "MLB20818317",
+      "item_id": "MLB4552665179",
+      "url": "https://www.mercadolivre.com.br/p/MLB20818317?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB20818317?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "whey protein concentrado whey protein isolado cafeina",
+      "title": "Whey Protein Concentrado + Whey Protein Isolado + Cafeína",
+      "category": "Esportes",
+      "price": 658.0,
+      "score": 86.0,
+      "posted_ts": 1791813821,
+      "posted_at": "2026-10-12T14:03:41.854602+00:00"
+    },
+    {
+      "key": "mercadolivre:MLB6827581422",
+      "product_id": "MLB6827581422",
+      "catalog_product_id": "MLB70114350",
+      "item_id": "MLB6827581422",
+      "url": "https://www.mercadolivre.com.br/p/MLB70114350?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB70114350?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "prancha esteira ergometrica kikos e600ix preto",
+      "title": "Prancha Esteira Ergometrica Kikos E600ix Preto",
+      "category": "Esportes",
+      "price": 191.28,
+      "score": 120.27,
+      "posted_ts": 1791813757,
+      "posted_at": "2026-10-12T14:02:37.788506+00:00"
+    },
+    {
       "key": "mercadolivre:MLB4012619487",
       "product_id": "MLB4012619487",
       "catalog_product_id": "MLB45458466",
@@ -434,22 +464,7 @@
       "score": 124.48,
       "posted_ts": 1791644563,
       "posted_at": "2026-10-10T15:02:43.823194+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB4219158443",
-      "product_id": "MLB4219158443",
-      "catalog_product_id": "MLB45785598",
-      "item_id": "MLB4219158443",
-      "url": "https://www.mercadolivre.com.br/p/MLB45785598?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB45785598?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "brinquedo lider kit ferramentas 2381",
-      "title": "Brinquedo Lider Kit Ferramentas - 2381",
-      "category": "Ferramentas",
-      "price": 101.0,
-      "score": 137.71,
-      "posted_ts": 1791640945,
-      "posted_at": "2026-10-10T14:02:25.258594+00:00"
     }
   ],
-  "updated_at": "2026-10-12T12:06:07.087698+00:00"
+  "updated_at": "2026-10-12T14:03:41.854616+00:00"
 }
