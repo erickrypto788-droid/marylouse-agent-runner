@@ -1,6 +1,34 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB4442585419",
+      "marketplace": "mercadolivre",
+      "id": "MLB4442585419",
+      "title": "Soundbar Samsung Hw-b650f + Soundbar Hw-b400f Preto",
+      "title_norm": "soundbar samsung hw b650f soundbar hw b400f preto",
+      "url": "https://www.mercadolivre.com.br/p/MLB64939142?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB64939142?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Informática",
+      "bucket": "informatica",
+      "posted_ts": 1791831830,
+      "posted_at": "2026-10-12T19:03:50.177514+00:00",
+      "score": 104.0
+    },
+    {
+      "key": "mercadolivre:MLB5175098567",
+      "marketplace": "mercadolivre",
+      "id": "MLB5175098567",
+      "title": "Soundbar Samsung Hw-b450f + Soundbar Hw-b400f",
+      "title_norm": "soundbar samsung hw b450f soundbar hw b400f",
+      "url": "https://www.mercadolivre.com.br/p/MLB65128496?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB65128496?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Informática",
+      "bucket": "informatica",
+      "posted_ts": 1791831766,
+      "posted_at": "2026-10-12T19:02:46.135685+00:00",
+      "score": 127.0
+    },
+    {
       "key": "shopee:22792809253",
       "marketplace": "shopee",
       "id": "22792809253",
@@ -13971,35 +13999,7 @@
       "posted_ts": 1791062416,
       "posted_at": "2026-10-03T21:20:16.071821+00:00",
       "score": 101.08
-    },
-    {
-      "key": "shopee:54359629558",
-      "marketplace": "shopee",
-      "id": "54359629558",
-      "title": "Sérum Roll-On Área dos Olhos Adeus Olheiras 10ml Kokeshi",
-      "title_norm": "serum roll on area dos olhos adeus olheiras 10ml kokeshi",
-      "url": "https://shopee.com.br/product/395166866/54359629558",
-      "affiliate_url": "https://s.shopee.com.br/1BMps3uacs",
-      "category": "KOKESHI OFICIAL",
-      "bucket": "kokeshi_oficial",
-      "posted_ts": 1791062352,
-      "posted_at": "2026-10-03T21:19:12.045173+00:00",
-      "score": 103.25
-    },
-    {
-      "key": "shopee:22694181207",
-      "marketplace": "shopee",
-      "id": "22694181207",
-      "title": "Perfume Árabe Masculino Intense Men Eau de Parfum 100ml",
-      "title_norm": "perfume arabe masculino intense men eau de parfum 100ml",
-      "url": "https://shopee.com.br/product/632650443/22694181207",
-      "affiliate_url": "https://s.shopee.com.br/1AsTulpcu",
-      "category": "SHOPPING MIX LTDA",
-      "bucket": "beleza",
-      "posted_ts": 1791062287,
-      "posted_at": "2026-10-03T21:18:07.930955+00:00",
-      "score": 127.0
     }
   ],
-  "updated_at": "2026-10-12T18:20:17.489472+00:00"
+  "updated_at": "2026-10-12T19:03:50.177532+00:00"
 }
