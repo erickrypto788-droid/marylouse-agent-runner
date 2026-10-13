@@ -1,6 +1,20 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB7226098148",
+      "marketplace": "mercadolivre",
+      "id": "MLB7226098148",
+      "title": "Fone Bluetooth Esportivo 320mah Fone Sem Fio Fone Academia Preto",
+      "title_norm": "fone bluetooth esportivo 320mah fone sem fio fone academia preto",
+      "url": "https://www.mercadolivre.com.br/p/MLB68059006?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB68059006?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Esportes",
+      "bucket": "esportes",
+      "posted_ts": 1791892959,
+      "posted_at": "2026-10-13T12:02:39.423856+00:00",
+      "score": 115.39
+    },
+    {
       "key": "shopee:21435125828",
       "marketplace": "shopee",
       "id": "21435125828",
@@ -13985,21 +13999,7 @@
       "posted_ts": 1791137941,
       "posted_at": "2026-10-04T18:19:01.378869+00:00",
       "score": 101.14
-    },
-    {
-      "key": "shopee:40552787490",
-      "marketplace": "shopee",
-      "id": "40552787490",
-      "title": "WHEY 900g O MAIS GOSTOSO DO BRASIL- DIVERSOS SABORES",
-      "title_norm": "whey 900g o mais gostoso do brasil diversos sabores",
-      "url": "https://shopee.com.br/product/733181094/40552787490",
-      "affiliate_url": "https://s.shopee.com.br/5fpFMZM1U2",
-      "category": "SUPER_PROMO",
-      "bucket": "super_promo",
-      "posted_ts": 1791137877,
-      "posted_at": "2026-10-04T18:17:57.479292+00:00",
-      "score": 109.46
     }
   ],
-  "updated_at": "2026-10-13T11:18:58.866460+00:00"
+  "updated_at": "2026-10-13T12:02:39.423867+00:00"
 }
