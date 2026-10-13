@@ -1,6 +1,34 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB7797408910",
+      "marketplace": "mercadolivre",
+      "id": "MLB7797408910",
+      "title": "Blusa Fitness Feminina Ausare Para Academia de Poliamida Dry Fit",
+      "title_norm": "blusa fitness feminina ausare para academia de poliamida dry fit",
+      "url": "https://www.mercadolivre.com.br/p/MLB68415141?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB68415141?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Esportes",
+      "bucket": "esportes",
+      "posted_ts": 1791864320,
+      "posted_at": "2026-10-13T04:05:20.553432+00:00",
+      "score": 88.0
+    },
+    {
+      "key": "mercadolivre:MLB7728856848",
+      "marketplace": "mercadolivre",
+      "id": "MLB7728856848",
+      "title": "Calça Legging Feminina Ausare de Compressão Média com UV50+ e Cós Alto para Academia",
+      "title_norm": "calca legging feminina ausare de compressao media com uv50 e cos alto para academia",
+      "url": "https://www.mercadolivre.com.br/p/MLB69276350?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB69276350?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Moda Feminina",
+      "bucket": "moda_feminina",
+      "posted_ts": 1791864254,
+      "posted_at": "2026-10-13T04:04:14.956385+00:00",
+      "score": 88.0
+    },
+    {
       "key": "shopee:58255448463",
       "marketplace": "shopee",
       "id": "58255448463",
@@ -13971,35 +13999,7 @@
       "posted_ts": 1791101813,
       "posted_at": "2026-10-04T08:16:53.901598+00:00",
       "score": 40.55
-    },
-    {
-      "key": "mercadolivre:MLB7262266178",
-      "marketplace": "mercadolivre",
-      "id": "MLB7262266178",
-      "title": "Monitor Bebe Wifi Infravermelho Vision Noctura Intercom Inteligente",
-      "title_norm": "monitor bebe wifi infravermelho vision noctura intercom inteligente",
-      "url": "https://www.mercadolivre.com.br/p/MLB23076913?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB23076913?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "category": "Informática",
-      "bucket": "informatica",
-      "posted_ts": 1791101039,
-      "posted_at": "2026-10-04T08:03:59.364342+00:00",
-      "score": 86.0
-    },
-    {
-      "key": "mercadolivre:MLB7591842132",
-      "marketplace": "mercadolivre",
-      "id": "MLB7591842132",
-      "title": "Azul escova limpeza mamadeira kit para limpeza de mamadeira kit limpeza mamadeira viagem kit limpeza bebe escova mamadeira portatil escova bico canudo secador higiene infantil acessorios bebe",
-      "title_norm": "azul escova limpeza mamadeira kit para limpeza de mamadeira kit limpeza mamadeira viagem kit limpeza bebe escova mamadeira portatil escova bico canudo secador higiene infantil acessorios bebe",
-      "url": "https://www.mercadolivre.com.br/p/MLB75043054?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB75043054?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "category": "Mãe e Bebê",
-      "bucket": "beleza",
-      "posted_ts": 1791100968,
-      "posted_at": "2026-10-04T08:02:48.815521+00:00",
-      "score": 191.5
     }
   ],
-  "updated_at": "2026-10-13T03:19:01.320732+00:00"
+  "updated_at": "2026-10-13T04:05:20.553446+00:00"
 }

@@ -1,6 +1,36 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB7797408910",
+      "product_id": "MLB7797408910",
+      "catalog_product_id": "MLB68415141",
+      "item_id": "MLB7797408910",
+      "url": "https://www.mercadolivre.com.br/p/MLB68415141?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB68415141?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "blusa fitness feminina ausare para academia de poliamida dry fit",
+      "title": "Blusa Fitness Feminina Ausare Para Academia de Poliamida Dry Fit",
+      "category": "Esportes",
+      "price": 89.99,
+      "score": 88.0,
+      "posted_ts": 1791864320,
+      "posted_at": "2026-10-13T04:05:20.566858+00:00"
+    },
+    {
+      "key": "mercadolivre:MLB7728856848",
+      "product_id": "MLB7728856848",
+      "catalog_product_id": "MLB69276350",
+      "item_id": "MLB7728856848",
+      "url": "https://www.mercadolivre.com.br/p/MLB69276350?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB69276350?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "calca legging feminina ausare de compressao media com uv50 e cos alto para academia",
+      "title": "Calça Legging Feminina Ausare de Compressão Média com UV50+ e Cós Alto para Academia",
+      "category": "Moda Feminina",
+      "price": 97.0,
+      "score": 88.0,
+      "posted_ts": 1791864254,
+      "posted_at": "2026-10-13T04:04:14.970378+00:00"
+    },
+    {
       "key": "mercadolivre:MLB7752684914",
       "product_id": "MLB7752684914",
       "catalog_product_id": "MLB68684184",
@@ -586,5 +616,5 @@
       "posted_at": "2026-10-11T08:02:42.592060+00:00"
     }
   ],
-  "updated_at": "2026-10-13T03:09:23.729241+00:00"
+  "updated_at": "2026-10-13T04:05:20.566867+00:00"
 }
