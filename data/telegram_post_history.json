@@ -1,6 +1,48 @@
 {
   "posts": [
     {
+      "key": "shopee:18397808004",
+      "marketplace": "shopee",
+      "id": "18397808004",
+      "title": "Bolsa feminina fitness Esportiva yoga Bolsa de viagem Impermeável unissex Academia",
+      "title_norm": "bolsa feminina fitness esportiva yoga bolsa de viagem impermeavel unissex academia",
+      "url": "https://shopee.com.br/product/391739739/18397808004",
+      "affiliate_url": "https://s.shopee.com.br/3VkzKxs2VI",
+      "category": "ANJ.GG store",
+      "bucket": "bolsas",
+      "posted_ts": 1791857939,
+      "posted_at": "2026-10-13T02:18:59.270042+00:00",
+      "score": 105.36
+    },
+    {
+      "key": "shopee:22693513091",
+      "marketplace": "shopee",
+      "id": "22693513091",
+      "title": "ROMANTIC CROWN Bolsa de Ombra Feminina com Alça Ajustável, Bolsa Feminina Elegante com Couro Sintetico Preto, Presente",
+      "title_norm": "romantic crown bolsa de ombra feminina com alca ajustavel bolsa feminina elegante com couro sintetico preto presente",
+      "url": "https://shopee.com.br/product/1345043704/22693513091",
+      "affiliate_url": "https://s.shopee.com.br/6AlkVrZE4M",
+      "category": "Romantic Crown 02",
+      "bucket": "bolsas",
+      "posted_ts": 1791857874,
+      "posted_at": "2026-10-13T02:17:54.340001+00:00",
+      "score": 119.64
+    },
+    {
+      "key": "shopee:23497594302",
+      "marketplace": "shopee",
+      "id": "23497594302",
+      "title": "ROMANTIC CROWN Mochla de Viagem MascuIino e Feminina ImpermeaveI Reforçada Executiva para Notebook",
+      "title_norm": "romantic crown mochla de viagem mascuiino e feminina impermeavei reforcada executiva para notebook",
+      "url": "https://shopee.com.br/product/1198407784/23497594302",
+      "affiliate_url": "https://s.shopee.com.br/4B0g8Bgq82",
+      "category": "Romantic Crown.02",
+      "bucket": "informatica",
+      "posted_ts": 1791857810,
+      "posted_at": "2026-10-13T02:16:50.335082+00:00",
+      "score": 145.6
+    },
+    {
       "key": "mercadolivre:MLB6194259162",
       "marketplace": "mercadolivre",
       "id": "MLB6194259162",
@@ -13957,49 +13999,7 @@
       "posted_ts": 1791094801,
       "posted_at": "2026-10-04T06:20:01.148029+00:00",
       "score": 72.68
-    },
-    {
-      "key": "shopee:23698804974",
-      "marketplace": "shopee",
-      "id": "23698804974",
-      "title": "Papel Fotográfico 180g Glossy A4 Brilhante à Prova D'água MASTERPRINT",
-      "title_norm": "papel fotografico 180g glossy a4 brilhante a prova d agua masterprint",
-      "url": "https://shopee.com.br/product/1046010418/23698804974",
-      "affiliate_url": "https://s.shopee.com.br/113QCiJ2IK",
-      "category": "PAPEL.PAPELARIA",
-      "bucket": "papel_papelaria",
-      "posted_ts": 1791094737,
-      "posted_at": "2026-10-04T06:18:57.242198+00:00",
-      "score": 97.1
-    },
-    {
-      "key": "shopee:22097785703",
-      "marketplace": "shopee",
-      "id": "22097785703",
-      "title": "Amplificador de sinal Wi-Fi repetidor e roteador sem fio rede sem fio através da parede Dupla pressão/2.4G - G8",
-      "title_norm": "amplificador de sinal wi fi repetidor e roteador sem fio rede sem fio atraves da parede dupla pressao 2 4g g8",
-      "url": "https://shopee.com.br/product/1217782773/22097785703",
-      "affiliate_url": "https://s.shopee.com.br/qjyoFKLAB",
-      "category": "JR905",
-      "bucket": "pet",
-      "posted_ts": 1791094673,
-      "posted_at": "2026-10-04T06:17:53.383219+00:00",
-      "score": 100.26
-    },
-    {
-      "key": "shopee:23099201597",
-      "marketplace": "shopee",
-      "id": "23099201597",
-      "title": "Monitor Gamer Mancer Horizon Z Pro, 23.8 Pol, IPS, FHD, 1ms, 144Hz, HDMI/VGA, MCR-HZNP24-BL02",
-      "title_norm": "monitor gamer mancer horizon z pro 23 8 pol ips fhd 1ms 144hz hdmi vga mcr hznp24 bl02",
-      "url": "https://shopee.com.br/product/627750190/23099201597",
-      "affiliate_url": "https://s.shopee.com.br/9peon417qh",
-      "category": "Pichau",
-      "bucket": "informatica",
-      "posted_ts": 1791094609,
-      "posted_at": "2026-10-04T06:16:49.315493+00:00",
-      "score": 120.98
     }
   ],
-  "updated_at": "2026-10-13T02:02:49.906313+00:00"
+  "updated_at": "2026-10-13T02:18:59.270056+00:00"
 }
