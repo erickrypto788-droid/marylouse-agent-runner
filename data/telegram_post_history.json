@@ -1,6 +1,48 @@
 {
   "posts": [
     {
+      "key": "shopee:58255448463",
+      "marketplace": "shopee",
+      "id": "58255448463",
+      "title": "Bota Masculina Caterpillar Reforçada",
+      "title_norm": "bota masculina caterpillar reforcada",
+      "url": "https://shopee.com.br/product/397535661/58255448463",
+      "affiliate_url": "https://s.shopee.com.br/4LK6OcZaWL",
+      "category": "Shopping Alpha.",
+      "bucket": "calcados",
+      "posted_ts": 1791861541,
+      "posted_at": "2026-10-13T03:19:01.320713+00:00",
+      "score": 96.97
+    },
+    {
+      "key": "shopee:20597347457",
+      "marketplace": "shopee",
+      "id": "20597347457",
+      "title": "Kit 2 Tênis Masculino Polo Fran Sapatênis Básico Casual Com Carteira Cinto e Relógio London",
+      "title_norm": "kit 2 tenis masculino polo fran sapatenis basico casual com carteira cinto e relogio london",
+      "url": "https://shopee.com.br/product/324642050/20597347457",
+      "affiliate_url": "https://s.shopee.com.br/5AtDO9WPpQ",
+      "category": " MISTERBOOT",
+      "bucket": "calcados",
+      "posted_ts": 1791861477,
+      "posted_at": "2026-10-13T03:17:57.297120+00:00",
+      "score": 99.01
+    },
+    {
+      "key": "shopee:23594304295",
+      "marketplace": "shopee",
+      "id": "23594304295",
+      "title": "Mochila CHL Bolsa Reforçada Notebook Impermeavel Material Premium Colorido Excecultivo 888",
+      "title_norm": "mochila chl bolsa reforcada notebook impermeavel material premium colorido excecultivo 888",
+      "url": "https://shopee.com.br/product/960960972/23594304295",
+      "affiliate_url": "https://s.shopee.com.br/9APM9V3zOQ",
+      "category": "Global Mochilas CHL",
+      "bucket": "informatica",
+      "posted_ts": 1791861413,
+      "posted_at": "2026-10-13T03:16:53.200589+00:00",
+      "score": 123.76
+    },
+    {
       "key": "mercadolivre:MLB7752684914",
       "marketplace": "mercadolivre",
       "id": "MLB7752684914",
@@ -13957,49 +13999,7 @@
       "posted_ts": 1791100968,
       "posted_at": "2026-10-04T08:02:48.815521+00:00",
       "score": 191.5
-    },
-    {
-      "key": "shopee:20609359452",
-      "marketplace": "shopee",
-      "id": "20609359452",
-      "title": "Leite de Coco em Pó - Delicioso e Saudável",
-      "title_norm": "leite de coco em po delicioso e saudavel",
-      "url": "https://shopee.com.br/product/394192376/20609359452",
-      "affiliate_url": "https://s.shopee.com.br/1gJ78BL86o",
-      "category": "P&P FIT",
-      "bucket": "p_p_fit",
-      "posted_ts": 1791098496,
-      "posted_at": "2026-10-04T07:21:36.392584+00:00",
-      "score": 81.96
-    },
-    {
-      "key": "shopee:52858085838",
-      "marketplace": "shopee",
-      "id": "52858085838",
-      "title": "Garrafa Térmica Cabo Madeira Para Café 1l",
-      "title_norm": "garrafa termica cabo madeira para cafe 1l",
-      "url": "https://shopee.com.br/product/408653169/52858085838",
-      "affiliate_url": "https://s.shopee.com.br/1BMqXGIdLw",
-      "category": "SELLNEEDS",
-      "bucket": "sellneeds",
-      "posted_ts": 1791098426,
-      "posted_at": "2026-10-04T07:20:26.786345+00:00",
-      "score": 82.85
-    },
-    {
-      "key": "shopee:23494418394",
-      "marketplace": "shopee",
-      "id": "23494418394",
-      "title": "Kit 3x Magnésio e Inositol Taurina Melatonina 210g Bodyaction",
-      "title_norm": "kit 3x magnesio e inositol taurina melatonina 210g bodyaction",
-      "url": "https://shopee.com.br/product/443076516/23494418394",
-      "affiliate_url": "https://s.shopee.com.br/8AWZbpzPQc",
-      "category": "Bodyaction Oficial",
-      "bucket": "bodyaction_oficial",
-      "posted_ts": 1791098355,
-      "posted_at": "2026-10-04T07:19:15.641545+00:00",
-      "score": 85.5
     }
   ],
-  "updated_at": "2026-10-13T03:09:23.714837+00:00"
+  "updated_at": "2026-10-13T03:19:01.320732+00:00"
 }
