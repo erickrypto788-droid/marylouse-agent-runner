@@ -1,6 +1,34 @@
 {
   "posts": [
     {
+      "key": "shopee:14838525205",
+      "marketplace": "shopee",
+      "id": "14838525205",
+      "title": "Bota Coturno Feminina Tratorada Motoqueira Lançamento Inverno",
+      "title_norm": "bota coturno feminina tratorada motoqueira lancamento inverno",
+      "url": "https://shopee.com.br/product/318092220/14838525205",
+      "affiliate_url": "https://s.shopee.com.br/4qGNacxgCY",
+      "category": "Loja Tenis Onlinee",
+      "bucket": "calcados",
+      "posted_ts": 1791893880,
+      "posted_at": "2026-10-13T12:18:00.873099+00:00",
+      "score": 97.56
+    },
+    {
+      "key": "shopee:22895975988",
+      "marketplace": "shopee",
+      "id": "22895975988",
+      "title": "Tênis Feminino casual confortável e leve para trabalho e lazer barato lançamento 2023",
+      "title_norm": "tenis feminino casual confortavel e leve para trabalho e lazer barato lancamento 2023",
+      "url": "https://shopee.com.br/product/426736090/22895975988",
+      "affiliate_url": "https://s.shopee.com.br/BUY232FJq",
+      "category": "R.SHOESS",
+      "bucket": "calcados",
+      "posted_ts": 1791893816,
+      "posted_at": "2026-10-13T12:16:56.821191+00:00",
+      "score": 97.61
+    },
+    {
       "key": "mercadolivre:MLB7226098148",
       "marketplace": "mercadolivre",
       "id": "MLB7226098148",
@@ -13971,35 +13999,7 @@
       "posted_ts": 1791138069,
       "posted_at": "2026-10-04T18:21:09.171263+00:00",
       "score": 88.63
-    },
-    {
-      "key": "shopee:19898018206",
-      "marketplace": "shopee",
-      "id": "19898018206",
-      "title": "Bicicleta Bike Aro 29 Ksw Xlt100 21 Velocidades Marcha Aero Alumínio Freio a disco Suspensão Mtb",
-      "title_norm": "bicicleta bike aro 29 ksw xlt100 21 velocidades marcha aero aluminio freio a disco suspensao mtb",
-      "url": "https://shopee.com.br/product/990966849/19898018206",
-      "affiliate_url": "https://s.shopee.com.br/1gJ6bDO3Hz",
-      "category": "OGMBIKE",
-      "bucket": "ogmbike",
-      "posted_ts": 1791138005,
-      "posted_at": "2026-10-04T18:20:05.279507+00:00",
-      "score": 100.48
-    },
-    {
-      "key": "shopee:22793684140",
-      "marketplace": "shopee",
-      "id": "22793684140",
-      "title": "Tênis Feminino Esportivo Leve e mácio Academia Corrida",
-      "title_norm": "tenis feminino esportivo leve e macio academia corrida",
-      "url": "https://shopee.com.br/product/375051668/22793684140",
-      "affiliate_url": "https://s.shopee.com.br/1BMrGaRXLB",
-      "category": "Dulojashoes",
-      "bucket": "calcados",
-      "posted_ts": 1791137941,
-      "posted_at": "2026-10-04T18:19:01.378869+00:00",
-      "score": 101.14
     }
   ],
-  "updated_at": "2026-10-13T12:02:39.423867+00:00"
+  "updated_at": "2026-10-13T12:18:00.873115+00:00"
 }
