@@ -1,6 +1,34 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB5338677257",
+      "marketplace": "mercadolivre",
+      "id": "MLB5338677257",
+      "title": "Perfume masculino Dolce & Gabbana Devotion For Men Perfume Masculino 101 ml",
+      "title_norm": "perfume masculino dolce gabbana devotion for men perfume masculino 101 ml",
+      "url": "https://www.mercadolivre.com.br/p/MLB74509688?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB74509688?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Beleza",
+      "bucket": "beleza",
+      "posted_ts": 1791878642,
+      "posted_at": "2026-10-13T08:04:02.088152+00:00",
+      "score": 111.0
+    },
+    {
+      "key": "mercadolivre:MLB3474477475",
+      "marketplace": "mercadolivre",
+      "id": "MLB3474477475",
+      "title": "Lamina Aparador Pelos Philips Bodygroom Qg3379 Qg3280 Qg3380",
+      "title_norm": "lamina aparador pelos philips bodygroom qg3379 qg3280 qg3380",
+      "url": "https://www.mercadolivre.com.br/p/MLB24908965?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB24908965?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Beleza",
+      "bucket": "beleza",
+      "posted_ts": 1791878566,
+      "posted_at": "2026-10-13T08:02:46.635972+00:00",
+      "score": 119.78
+    },
+    {
       "key": "shopee:52902130185",
       "marketplace": "shopee",
       "id": "52902130185",
@@ -13971,35 +13999,7 @@
       "posted_ts": 1791123492,
       "posted_at": "2026-10-04T14:18:12.874934+00:00",
       "score": 129.09
-    },
-    {
-      "key": "shopee:17255136776",
-      "marketplace": "shopee",
-      "id": "17255136776",
-      "title": "Relógio Smartwatch D20 Pro Bluetooth Coloca Foto na Tela Monitor Cardíaco Pressão Esportivo Android iPhone",
-      "title_norm": "relogio smartwatch d20 pro bluetooth coloca foto na tela monitor cardiaco pressao esportivo android iphone",
-      "url": "https://shopee.com.br/product/400311012/17255136776",
-      "affiliate_url": "https://s.shopee.com.br/9peoSTJnXF",
-      "category": "Marisa.store",
-      "bucket": "celulares",
-      "posted_ts": 1791123424,
-      "posted_at": "2026-10-04T14:17:04.044387+00:00",
-      "score": 129.98
-    },
-    {
-      "key": "shopee:14838525205",
-      "marketplace": "shopee",
-      "id": "14838525205",
-      "title": "Bota Coturno Feminina Tratorada Motoqueira Lançamento Inverno",
-      "title_norm": "bota coturno feminina tratorada motoqueira lancamento inverno",
-      "url": "https://shopee.com.br/product/318092220/14838525205",
-      "affiliate_url": "https://s.shopee.com.br/2VsEWR5roJ",
-      "category": "Loja Tenis Onlinee",
-      "bucket": "calcados",
-      "posted_ts": 1791119881,
-      "posted_at": "2026-10-04T13:18:01.595500+00:00",
-      "score": 97.61
     }
   ],
-  "updated_at": "2026-10-13T07:18:03.158787+00:00"
+  "updated_at": "2026-10-13T08:04:02.088170+00:00"
 }

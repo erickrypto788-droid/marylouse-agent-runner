@@ -1,6 +1,36 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB5338677257",
+      "product_id": "MLB5338677257",
+      "catalog_product_id": "MLB74509688",
+      "item_id": "MLB5338677257",
+      "url": "https://www.mercadolivre.com.br/p/MLB74509688?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB74509688?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "perfume masculino dolce gabbana devotion for men perfume masculino 101 ml",
+      "title": "Perfume masculino Dolce & Gabbana Devotion For Men Perfume Masculino 101 ml",
+      "category": "Beleza",
+      "price": 875.0,
+      "score": 111.0,
+      "posted_ts": 1791878642,
+      "posted_at": "2026-10-13T08:04:02.102697+00:00"
+    },
+    {
+      "key": "mercadolivre:MLB3474477475",
+      "product_id": "MLB3474477475",
+      "catalog_product_id": "MLB24908965",
+      "item_id": "MLB3474477475",
+      "url": "https://www.mercadolivre.com.br/p/MLB24908965?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB24908965?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "lamina aparador pelos philips bodygroom qg3379 qg3280 qg3380",
+      "title": "Lamina Aparador Pelos Philips Bodygroom Qg3379 Qg3280 Qg3380",
+      "category": "Beleza",
+      "price": 129.9,
+      "score": 119.78,
+      "posted_ts": 1791878566,
+      "posted_at": "2026-10-13T08:02:46.650659+00:00"
+    },
+    {
       "key": "mercadolivre:MLB6815537068",
       "product_id": "MLB6815537068",
       "catalog_product_id": "MLB36405300",
@@ -674,22 +704,7 @@
       "score": 127.0,
       "posted_ts": 1791712965,
       "posted_at": "2026-10-11T10:02:45.778120+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB5312148151",
-      "product_id": "MLB5312148151",
-      "catalog_product_id": "MLB23697502",
-      "item_id": "MLB5312148151",
-      "url": "https://www.mercadolivre.com.br/p/MLB23697502?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB23697502?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "ssd 1tb m 2 2280 sata",
-      "title": "Ssd 1tb M.2 2280 Sata",
-      "category": "Informática",
-      "price": 709.0,
-      "score": 111.0,
-      "posted_ts": 1791705762,
-      "posted_at": "2026-10-11T08:02:42.592060+00:00"
     }
   ],
-  "updated_at": "2026-10-13T07:04:05.841587+00:00"
+  "updated_at": "2026-10-13T08:04:02.102711+00:00"
 }
