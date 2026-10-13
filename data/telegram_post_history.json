@@ -1,6 +1,34 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB4662546537",
+      "marketplace": "mercadolivre",
+      "id": "MLB4662546537",
+      "title": "Parafusadeira De Impacto Bateria Kit Parafusadeira Com Caixa Cor Preto",
+      "title_norm": "parafusadeira de impacto bateria kit parafusadeira com caixa cor preto",
+      "url": "https://www.mercadolivre.com.br/p/MLB46462690?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB46462690?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Ferramentas",
+      "bucket": "ferramentas",
+      "posted_ts": 1791885825,
+      "posted_at": "2026-10-13T10:03:45.841870+00:00",
+      "score": 113.0
+    },
+    {
+      "key": "mercadolivre:MLB6711607808",
+      "marketplace": "mercadolivre",
+      "id": "MLB6711607808",
+      "title": "Combo Parafusadeira Furadeira de Impacto 13mm + Parafusadeira de Impacto 6,3mm DEWALT DCK276D2",
+      "title_norm": "combo parafusadeira furadeira de impacto 13mm parafusadeira de impacto 6 3mm dewalt dck276d2",
+      "url": "https://www.mercadolivre.com.br/p/MLB21865416?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB21865416?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Ferramentas",
+      "bucket": "ferramentas",
+      "posted_ts": 1791885761,
+      "posted_at": "2026-10-13T10:02:41.901964+00:00",
+      "score": 140.67
+    },
+    {
       "key": "shopee:22294422865",
       "marketplace": "shopee",
       "id": "22294422865",
@@ -13971,35 +13999,7 @@
       "posted_ts": 1791134214,
       "posted_at": "2026-10-04T17:16:54.178592+00:00",
       "score": 99.94
-    },
-    {
-      "key": "shopee:58263573164",
-      "marketplace": "shopee",
-      "id": "58263573164",
-      "title": "Principia Kit Limpeza, proteção e Hidratação com: GL-02, CH-01, PS-05",
-      "title_norm": "principia kit limpeza protecao e hidratacao com gl 02 ch 01 ps 05",
-      "url": "https://shopee.com.br/product/373261329/58263573164",
-      "affiliate_url": "https://s.shopee.com.br/7ptl4bF3Us",
-      "category": "Principia Skincare",
-      "bucket": "principia_skincare",
-      "posted_ts": 1791130869,
-      "posted_at": "2026-10-04T16:21:09.729809+00:00",
-      "score": 59.73
-    },
-    {
-      "key": "shopee:22095222282",
-      "marketplace": "shopee",
-      "id": "22095222282",
-      "title": "Body Splash 200ml Feminino Obsessed Infinity Liberté VF Golden | Unitário, Sortido ou Kit cm 4",
-      "title_norm": "body splash 200ml feminino obsessed infinity liberte vf golden unitario sortido ou kit cm 4",
-      "url": "https://shopee.com.br/product/330126581/22095222282",
-      "affiliate_url": "https://s.shopee.com.br/qk0jjFJ1Q",
-      "category": "Xclusive Box",
-      "bucket": "xclusive_box",
-      "posted_ts": 1791130805,
-      "posted_at": "2026-10-04T16:20:05.895427+00:00",
-      "score": 82.66
     }
   ],
-  "updated_at": "2026-10-13T09:21:30.544662+00:00"
+  "updated_at": "2026-10-13T10:03:45.841886+00:00"
 }

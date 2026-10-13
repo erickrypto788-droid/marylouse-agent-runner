@@ -1,6 +1,36 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB4662546537",
+      "product_id": "MLB4662546537",
+      "catalog_product_id": "MLB46462690",
+      "item_id": "MLB4662546537",
+      "url": "https://www.mercadolivre.com.br/p/MLB46462690?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB46462690?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "parafusadeira de impacto bateria kit parafusadeira com caixa cor preto",
+      "title": "Parafusadeira De Impacto Bateria Kit Parafusadeira Com Caixa Cor Preto",
+      "category": "Ferramentas",
+      "price": 99.95,
+      "score": 113.0,
+      "posted_ts": 1791885825,
+      "posted_at": "2026-10-13T10:03:45.855762+00:00"
+    },
+    {
+      "key": "mercadolivre:MLB6711607808",
+      "product_id": "MLB6711607808",
+      "catalog_product_id": "MLB21865416",
+      "item_id": "MLB6711607808",
+      "url": "https://www.mercadolivre.com.br/p/MLB21865416?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB21865416?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "combo parafusadeira furadeira de impacto 13mm parafusadeira de impacto 6 3mm dewalt dck276d2",
+      "title": "Combo Parafusadeira Furadeira de Impacto 13mm + Parafusadeira de Impacto 6,3mm DEWALT DCK276D2",
+      "category": "Ferramentas",
+      "price": 1431.72,
+      "score": 140.67,
+      "posted_ts": 1791885761,
+      "posted_at": "2026-10-13T10:02:41.915936+00:00"
+    },
+    {
       "key": "mercadolivre:MLB5338677257",
       "product_id": "MLB5338677257",
       "catalog_product_id": "MLB74509688",
@@ -689,22 +719,7 @@
       "score": 124.0,
       "posted_ts": 1791713036,
       "posted_at": "2026-10-11T10:03:56.158989+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB5066951426",
-      "product_id": "MLB5066951426",
-      "catalog_product_id": "MLB65973005",
-      "item_id": "MLB5066951426",
-      "url": "https://www.mercadolivre.com.br/p/MLB65973005?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB65973005?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "celular samsung galaxy a06 5g preto",
-      "title": "Celular Samsung Galaxy A06 5g Preto",
-      "category": "Informática",
-      "price": 749.65,
-      "score": 127.0,
-      "posted_ts": 1791712965,
-      "posted_at": "2026-10-11T10:02:45.778120+00:00"
     }
   ],
-  "updated_at": "2026-10-13T08:04:02.102711+00:00"
+  "updated_at": "2026-10-13T10:03:45.855773+00:00"
 }
