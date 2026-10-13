@@ -1,6 +1,34 @@
 {
   "posts": [
     {
+      "key": "shopee:22493725920",
+      "marketplace": "shopee",
+      "id": "22493725920",
+      "title": "SHORT CINTA MODELADOR ORIGINAL 4 Barbatanas Alta Compressão Não Enrola Empina Bumbum Plus Size",
+      "title_norm": "short cinta modelador original 4 barbatanas alta compressao nao enrola empina bumbum plus size",
+      "url": "https://shopee.com.br/product/760344136/22493725920",
+      "affiliate_url": "https://s.shopee.com.br/8pmW5UuqKD",
+      "category": "AKAPE CLOTHING",
+      "bucket": "akape_clothing",
+      "posted_ts": 1791886674,
+      "posted_at": "2026-10-13T10:17:54.942006+00:00",
+      "score": 72.59
+    },
+    {
+      "key": "shopee:18997669654",
+      "marketplace": "shopee",
+      "id": "18997669654",
+      "title": "Conjunto na Alfaiataria Calça  Pantalona + Colete Social Escritório Plus SIze",
+      "title_norm": "conjunto na alfaiataria calca pantalona colete social escritorio plus size",
+      "url": "https://shopee.com.br/product/1239041434/18997669654",
+      "affiliate_url": "https://s.shopee.com.br/2VsSXrNLwp",
+      "category": "Elizye Delicato",
+      "bucket": "elizye_delicato",
+      "posted_ts": 1791886611,
+      "posted_at": "2026-10-13T10:16:51.056765+00:00",
+      "score": 101.1
+    },
+    {
       "key": "mercadolivre:MLB4662546537",
       "marketplace": "mercadolivre",
       "id": "MLB4662546537",
@@ -13971,35 +13999,7 @@
       "posted_ts": 1791134345,
       "posted_at": "2026-10-04T17:19:05.332032+00:00",
       "score": 99.1
-    },
-    {
-      "key": "shopee:22094442475",
-      "marketplace": "shopee",
-      "id": "22094442475",
-      "title": "Kit Tênis Infantil Escolar Masculino Calce Fácil Sem Cardaço Confortável Leve",
-      "title_norm": "kit tenis infantil escolar masculino calce facil sem cardaco confortavel leve",
-      "url": "https://shopee.com.br/product/1458530949/22094442475",
-      "affiliate_url": "https://s.shopee.com.br/BUK0dOUip",
-      "category": "Starkcalçados",
-      "bucket": "calcados",
-      "posted_ts": 1791134281,
-      "posted_at": "2026-10-04T17:18:01.479029+00:00",
-      "score": 99.6
-    },
-    {
-      "key": "shopee:58264415501",
-      "marketplace": "shopee",
-      "id": "58264415501",
-      "title": "Tênis Infantil Leve Para Adultos e Criança Básico",
-      "title_norm": "tenis infantil leve para adultos e crianca basico",
-      "url": "https://shopee.com.br/product/1670233926/58264415501",
-      "affiliate_url": "https://s.shopee.com.br/2BFN84R9JL",
-      "category": "camila.shoes",
-      "bucket": "calcados",
-      "posted_ts": 1791134214,
-      "posted_at": "2026-10-04T17:16:54.178592+00:00",
-      "score": 99.94
     }
   ],
-  "updated_at": "2026-10-13T10:03:45.841886+00:00"
+  "updated_at": "2026-10-13T10:17:54.942019+00:00"
 }
