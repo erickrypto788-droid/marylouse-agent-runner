@@ -1,6 +1,36 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB6815537068",
+      "product_id": "MLB6815537068",
+      "catalog_product_id": "MLB36405300",
+      "item_id": "MLB6815537068",
+      "url": "https://www.mercadolivre.com.br/p/MLB36405300?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB36405300?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "bike spinning ergometrica cor preto",
+      "title": "Bike Spinning Ergométrica Cor Preto",
+      "category": "Esportes",
+      "price": 1789.0,
+      "score": 83.0,
+      "posted_ts": 1791875045,
+      "posted_at": "2026-10-13T07:04:05.841570+00:00"
+    },
+    {
+      "key": "mercadolivre:MLB7359539976",
+      "product_id": "MLB7359539976",
+      "catalog_product_id": "MLB18603556",
+      "item_id": "MLB7359539976",
+      "url": "https://www.mercadolivre.com.br/p/MLB18603556?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB18603556?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "bike spinning kikos max ks5 preto",
+      "title": "Bike Spinning Kikos Max-ks5 Preto",
+      "category": "Esportes",
+      "price": 2687.0,
+      "score": 84.0,
+      "posted_ts": 1791874979,
+      "posted_at": "2026-10-13T07:02:59.341618+00:00"
+    },
+    {
       "key": "mercadolivre:MLB6512536586",
       "product_id": "MLB6512536586",
       "catalog_product_id": "MLB25981434",
@@ -661,5 +691,5 @@
       "posted_at": "2026-10-11T08:02:42.592060+00:00"
     }
   ],
-  "updated_at": "2026-10-13T06:03:20.291397+00:00"
+  "updated_at": "2026-10-13T07:04:05.841587+00:00"
 }

@@ -1,6 +1,34 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB6815537068",
+      "marketplace": "mercadolivre",
+      "id": "MLB6815537068",
+      "title": "Bike Spinning Ergométrica Cor Preto",
+      "title_norm": "bike spinning ergometrica cor preto",
+      "url": "https://www.mercadolivre.com.br/p/MLB36405300?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB36405300?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Esportes",
+      "bucket": "esportes",
+      "posted_ts": 1791875045,
+      "posted_at": "2026-10-13T07:04:05.826859+00:00",
+      "score": 83.0
+    },
+    {
+      "key": "mercadolivre:MLB7359539976",
+      "marketplace": "mercadolivre",
+      "id": "MLB7359539976",
+      "title": "Bike Spinning Kikos Max-ks5 Preto",
+      "title_norm": "bike spinning kikos max ks5 preto",
+      "url": "https://www.mercadolivre.com.br/p/MLB18603556?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB18603556?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Esportes",
+      "bucket": "esportes",
+      "posted_ts": 1791874979,
+      "posted_at": "2026-10-13T07:02:59.325556+00:00",
+      "score": 84.0
+    },
+    {
       "key": "shopee:52858085838",
       "marketplace": "shopee",
       "id": "52858085838",
@@ -13971,35 +13999,7 @@
       "posted_ts": 1791116280,
       "posted_at": "2026-10-04T12:18:00.771990+00:00",
       "score": 91.21
-    },
-    {
-      "key": "shopee:23493066342",
-      "marketplace": "shopee",
-      "id": "23493066342",
-      "title": "Bota PVC Chuva Motociclista Moto Impermeável Forrado",
-      "title_norm": "bota pvc chuva motociclista moto impermeavel forrado",
-      "url": "https://shopee.com.br/product/1081929427/23493066342",
-      "affiliate_url": "https://s.shopee.com.br/W7A4dtMdM",
-      "category": "Safe_Brasil",
-      "bucket": "calcados",
-      "posted_ts": 1791116216,
-      "posted_at": "2026-10-04T12:16:56.537503+00:00",
-      "score": 105.33
-    },
-    {
-      "key": "mercadolivre:MLB6619111042",
-      "marketplace": "mercadolivre",
-      "id": "MLB6619111042",
-      "title": "Saída Praia Tule Kimono Amarração Short Feminino Verão Bege M",
-      "title_norm": "saida praia tule kimono amarracao short feminino verao bege m",
-      "url": "https://www.mercadolivre.com.br/p/MLB67984389?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB67984389?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "category": "Moda Feminina",
-      "bucket": "pet",
-      "posted_ts": 1791115445,
-      "posted_at": "2026-10-04T12:04:05.631894+00:00",
-      "score": 113.0
     }
   ],
-  "updated_at": "2026-10-13T06:21:12.440211+00:00"
+  "updated_at": "2026-10-13T07:04:05.826877+00:00"
 }
