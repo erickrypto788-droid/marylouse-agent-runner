@@ -1,6 +1,21 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB4110890873",
+      "product_id": "MLB4110890873",
+      "catalog_product_id": "MLB51893724",
+      "item_id": "MLB4110890873",
+      "url": "https://www.mercadolivre.com.br/p/MLB51893724?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB51893724?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "baba eletronica hellobaby hb66pro monitor bebe 3 2 white",
+      "title": "Babá Eletrônica Hellobaby Hb66pro Monitor Bebê 3.2 White",
+      "category": "Informática",
+      "price": 392.99,
+      "score": 86.0,
+      "posted_ts": 1791849751,
+      "posted_at": "2026-10-13T00:02:31.794421+00:00"
+    },
+    {
       "key": "mercadolivre:MLB4450293643",
       "product_id": "MLB4450293643",
       "catalog_product_id": "MLB29728116",
@@ -494,22 +509,7 @@
       "score": 89.0,
       "posted_ts": 1791677120,
       "posted_at": "2026-10-11T00:05:20.920480+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB7625830504",
-      "product_id": "MLB7625830504",
-      "catalog_product_id": "MLB78672090",
-      "item_id": "MLB7625830504",
-      "url": "https://www.mercadolivre.com.br/p/MLB78672090?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB78672090?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "impressora etiquetas adesivas 1 000 etiquetas 10x15cm branco",
-      "title": "Impressora Etiquetas Adesivas + 1.000 Etiquetas 10x15cm Branco",
-      "category": "Informática",
-      "price": 589.1,
-      "score": 108.24,
-      "posted_ts": 1791669778,
-      "posted_at": "2026-10-10T22:02:58.340941+00:00"
     }
   ],
-  "updated_at": "2026-10-12T20:04:48.374159+00:00"
+  "updated_at": "2026-10-13T00:02:31.794432+00:00"
 }

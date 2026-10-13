@@ -1,6 +1,20 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB4110890873",
+      "marketplace": "mercadolivre",
+      "id": "MLB4110890873",
+      "title": "Babá Eletrônica Hellobaby Hb66pro Monitor Bebê 3.2 White",
+      "title_norm": "baba eletronica hellobaby hb66pro monitor bebe 3 2 white",
+      "url": "https://www.mercadolivre.com.br/p/MLB51893724?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB51893724?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Informática",
+      "bucket": "informatica",
+      "posted_ts": 1791849751,
+      "posted_at": "2026-10-13T00:02:31.779780+00:00",
+      "score": 86.0
+    },
+    {
       "key": "shopee:22394553041",
       "marketplace": "shopee",
       "id": "22394553041",
@@ -13985,21 +13999,7 @@
       "posted_ts": 1791083810,
       "posted_at": "2026-10-04T03:16:50.338987+00:00",
       "score": 104.74
-    },
-    {
-      "key": "shopee:22498789144",
-      "marketplace": "shopee",
-      "id": "22498789144",
-      "title": "Caminhão De Engolir Dinossauro com KIT 12 CARRINHOS - A Diversão Está Garantida! 🚗 YM5500",
-      "title_norm": "caminhao de engolir dinossauro com kit 12 carrinhos a diversao esta garantida ym5500",
-      "url": "https://shopee.com.br/product/1453333493/22498789144",
-      "affiliate_url": "https://s.shopee.com.br/8fSps9lRux",
-      "category": "TAISHAN BRINQUEDOS",
-      "bucket": "taishan_brinquedos",
-      "posted_ts": 1791080479,
-      "posted_at": "2026-10-04T02:21:19.444748+00:00",
-      "score": 58.83
     }
   ],
-  "updated_at": "2026-10-12T23:21:15.857802+00:00"
+  "updated_at": "2026-10-13T00:02:31.779797+00:00"
 }
