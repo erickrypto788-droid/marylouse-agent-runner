@@ -1,6 +1,34 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB5653921846",
+      "marketplace": "mercadolivre",
+      "id": "MLB5653921846",
+      "title": "Monitor 24 Polegadas 1920x1200px Vga Hdmi 5ms Rápido",
+      "title_norm": "monitor 24 polegadas 1920x1200px vga hdmi 5ms rapido",
+      "url": "https://www.mercadolivre.com.br/p/MLB45798788?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB45798788?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Informática",
+      "bucket": "informatica",
+      "posted_ts": 1791889569,
+      "posted_at": "2026-10-13T11:06:09.876817+00:00",
+      "score": 86.0
+    },
+    {
+      "key": "mercadolivre:MLB4654205549",
+      "marketplace": "mercadolivre",
+      "id": "MLB4654205549",
+      "title": "Roteador Wifi Ac 1200 2 Flex",
+      "title_norm": "roteador wifi ac 1200 2 flex",
+      "url": "https://www.mercadolivre.com.br/p/MLB47353377?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB47353377?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Informática",
+      "bucket": "informatica",
+      "posted_ts": 1791889505,
+      "posted_at": "2026-10-13T11:05:05.844420+00:00",
+      "score": 97.67
+    },
+    {
       "key": "shopee:22493725920",
       "marketplace": "shopee",
       "id": "22493725920",
@@ -13971,35 +13999,7 @@
       "posted_ts": 1791134473,
       "posted_at": "2026-10-04T17:21:13.092965+00:00",
       "score": 92.2
-    },
-    {
-      "key": "shopee:20350419516",
-      "marketplace": "shopee",
-      "id": "20350419516",
-      "title": "Kit Sortido 10 ou 4 Peças de Roupas Infantil Menino- 5 Camisetas + 5 Bermudas - Kit 5 Conjuntos de Roupa Verão Masculino",
-      "title_norm": "kit sortido 10 ou 4 pecas de roupas infantil menino 5 camisetas 5 bermudas kit 5 conjuntos de roupa verao masculino",
-      "url": "https://shopee.com.br/product/341167297/20350419516",
-      "affiliate_url": "https://s.shopee.com.br/6AlWgo7A5Y",
-      "category": "Poloinfantil.store",
-      "bucket": "poloinfantil_store",
-      "posted_ts": 1791134409,
-      "posted_at": "2026-10-04T17:20:09.275875+00:00",
-      "score": 92.34
-    },
-    {
-      "key": "shopee:58263249722",
-      "marketplace": "shopee",
-      "id": "58263249722",
-      "title": "Boneca Vestido Cesta de Piquenique Infantil 10 Acessórios",
-      "title_norm": "boneca vestido cesta de piquenique infantil 10 acessorios",
-      "url": "https://shopee.com.br/product/1042151324/58263249722",
-      "affiliate_url": "https://s.shopee.com.br/905hGcsXdV",
-      "category": "Brincar Mais Brinquedos",
-      "bucket": "moda_feminina",
-      "posted_ts": 1791134345,
-      "posted_at": "2026-10-04T17:19:05.332032+00:00",
-      "score": 99.1
     }
   ],
-  "updated_at": "2026-10-13T10:17:54.942019+00:00"
+  "updated_at": "2026-10-13T11:06:09.876834+00:00"
 }

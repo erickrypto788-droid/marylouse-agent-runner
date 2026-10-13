@@ -1,6 +1,36 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB5653921846",
+      "product_id": "MLB5653921846",
+      "catalog_product_id": "MLB45798788",
+      "item_id": "MLB5653921846",
+      "url": "https://www.mercadolivre.com.br/p/MLB45798788?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB45798788?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "monitor 24 polegadas 1920x1200px vga hdmi 5ms rapido",
+      "title": "Monitor 24 Polegadas 1920x1200px Vga Hdmi 5ms Rápido",
+      "category": "Informática",
+      "price": 565.0,
+      "score": 86.0,
+      "posted_ts": 1791889569,
+      "posted_at": "2026-10-13T11:06:09.891062+00:00"
+    },
+    {
+      "key": "mercadolivre:MLB4654205549",
+      "product_id": "MLB4654205549",
+      "catalog_product_id": "MLB47353377",
+      "item_id": "MLB4654205549",
+      "url": "https://www.mercadolivre.com.br/p/MLB47353377?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB47353377?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "roteador wifi ac 1200 2 flex",
+      "title": "Roteador Wifi Ac 1200 2 Flex",
+      "category": "Informática",
+      "price": 178.82,
+      "score": 97.67,
+      "posted_ts": 1791889505,
+      "posted_at": "2026-10-13T11:05:05.858987+00:00"
+    },
+    {
       "key": "mercadolivre:MLB4662546537",
       "product_id": "MLB4662546537",
       "catalog_product_id": "MLB46462690",
@@ -704,22 +734,7 @@
       "score": 88.0,
       "posted_ts": 1791720150,
       "posted_at": "2026-10-11T12:02:30.532389+00:00"
-    },
-    {
-      "key": "mercadolivre:MLB7579081274",
-      "product_id": "MLB7579081274",
-      "catalog_product_id": "MLB47306242",
-      "item_id": "MLB7579081274",
-      "url": "https://www.mercadolivre.com.br/p/MLB47306242?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB47306242?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "title_norm": "motorola smartphone motorola razr 50 ultra 5g cor pink",
-      "title": "Motorola Smartphone Motorola Razr 50 Ultra 5g Cor Pink",
-      "category": "Informática",
-      "price": 4000.0,
-      "score": 124.0,
-      "posted_ts": 1791713036,
-      "posted_at": "2026-10-11T10:03:56.158989+00:00"
     }
   ],
-  "updated_at": "2026-10-13T10:03:45.855773+00:00"
+  "updated_at": "2026-10-13T11:06:09.891074+00:00"
 }
