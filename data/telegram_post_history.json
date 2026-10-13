@@ -1,6 +1,34 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB7003862824",
+      "marketplace": "mercadolivre",
+      "id": "MLB7003862824",
+      "title": "Painel D'Rossi Painel Para TV para TV até 60\" cumaru de mdf/mdp",
+      "title_norm": "painel d rossi painel para tv para tv ate 60 cumaru de mdf mdp",
+      "url": "https://www.mercadolivre.com.br/p/MLB74184723?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB74184723?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Casa e Cozinha",
+      "bucket": "casa_e_cozinha",
+      "posted_ts": 1791868166,
+      "posted_at": "2026-10-13T05:09:26.047789+00:00",
+      "score": 104.9
+    },
+    {
+      "key": "mercadolivre:MLB6218013518",
+      "marketplace": "mercadolivre",
+      "id": "MLB6218013518",
+      "title": "Jogo Panelas Tramontina Coimbra 5pçs Preto Antiaderente",
+      "title_norm": "jogo panelas tramontina coimbra 5pcs preto antiaderente",
+      "url": "https://www.mercadolivre.com.br/p/MLB39387638?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB39387638?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Casa e Cozinha",
+      "bucket": "casa_cozinha",
+      "posted_ts": 1791868102,
+      "posted_at": "2026-10-13T05:08:22.031280+00:00",
+      "score": 129.0
+    },
+    {
       "key": "shopee:22693013284",
       "marketplace": "shopee",
       "id": "22693013284",
@@ -13971,35 +13999,7 @@
       "posted_ts": 1791105688,
       "posted_at": "2026-10-04T09:21:28.525695+00:00",
       "score": 92.33
-    },
-    {
-      "key": "shopee:29042426965",
-      "marketplace": "shopee",
-      "id": "29042426965",
-      "title": "Vestido Midi Linho Feminino Elegante Casual Alfaiataria Bolsos Laterais Atemporal",
-      "title_norm": "vestido midi linho feminino elegante casual alfaiataria bolsos laterais atemporal",
-      "url": "https://shopee.com.br/product/453420996/29042426965",
-      "affiliate_url": "https://s.shopee.com.br/AKb5aLJqV9",
-      "category": "Camila&Co.",
-      "bucket": "moda_feminina",
-      "posted_ts": 1791105620,
-      "posted_at": "2026-10-04T09:20:20.010552+00:00",
-      "score": 92.69
-    },
-    {
-      "key": "shopee:58254632176",
-      "marketplace": "shopee",
-      "id": "58254632176",
-      "title": "Conjunto de Academia Feminino Short com Bolso Zero Transparência e Cintura Alta + Top com Forro Duplo",
-      "title_norm": "conjunto de academia feminino short com bolso zero transparencia e cintura alta top com forro duplo",
-      "url": "https://shopee.com.br/product/1101082974/58254632176",
-      "affiliate_url": "https://s.shopee.com.br/40h22hzYUH",
-      "category": "Zayan Moda Fitness",
-      "bucket": "zayan_moda_fitness",
-      "posted_ts": 1791105552,
-      "posted_at": "2026-10-04T09:19:12.644018+00:00",
-      "score": 105.68
     }
   ],
-  "updated_at": "2026-10-13T04:20:10.038048+00:00"
+  "updated_at": "2026-10-13T05:09:26.047807+00:00"
 }

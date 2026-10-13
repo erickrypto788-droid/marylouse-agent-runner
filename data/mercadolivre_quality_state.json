@@ -1,6 +1,36 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB7003862824",
+      "product_id": "MLB7003862824",
+      "catalog_product_id": "MLB74184723",
+      "item_id": "MLB7003862824",
+      "url": "https://www.mercadolivre.com.br/p/MLB74184723?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB74184723?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "painel d rossi painel para tv para tv ate 60 cumaru de mdf mdp",
+      "title": "Painel D'Rossi Painel Para TV para TV até 60\" cumaru de mdf/mdp",
+      "category": "Casa e Cozinha",
+      "price": 621.83,
+      "score": 104.9,
+      "posted_ts": 1791868166,
+      "posted_at": "2026-10-13T05:09:26.059925+00:00"
+    },
+    {
+      "key": "mercadolivre:MLB6218013518",
+      "product_id": "MLB6218013518",
+      "catalog_product_id": "MLB39387638",
+      "item_id": "MLB6218013518",
+      "url": "https://www.mercadolivre.com.br/p/MLB39387638?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB39387638?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "jogo panelas tramontina coimbra 5pcs preto antiaderente",
+      "title": "Jogo Panelas Tramontina Coimbra 5pçs Preto Antiaderente",
+      "category": "Casa e Cozinha",
+      "price": 213.89,
+      "score": 129.0,
+      "posted_ts": 1791868102,
+      "posted_at": "2026-10-13T05:08:22.043454+00:00"
+    },
+    {
       "key": "mercadolivre:MLB7797408910",
       "product_id": "MLB7797408910",
       "catalog_product_id": "MLB68415141",
@@ -616,5 +646,5 @@
       "posted_at": "2026-10-11T08:02:42.592060+00:00"
     }
   ],
-  "updated_at": "2026-10-13T04:05:20.566867+00:00"
+  "updated_at": "2026-10-13T05:09:26.059936+00:00"
 }
