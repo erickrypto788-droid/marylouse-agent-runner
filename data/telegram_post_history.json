@@ -1,6 +1,34 @@
 {
   "posts": [
     {
+      "key": "mercadolivre:MLB7350489426",
+      "marketplace": "mercadolivre",
+      "id": "MLB7350489426",
+      "title": "Xiaomi Redmi Note 15",
+      "title_norm": "xiaomi redmi note 15",
+      "url": "https://www.mercadolivre.com.br/p/MLB74419020?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB74419020?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Informática",
+      "bucket": "celulares",
+      "posted_ts": 1791896657,
+      "posted_at": "2026-10-13T13:04:17.365871+00:00",
+      "score": 124.0
+    },
+    {
+      "key": "mercadolivre:MLB4959922773",
+      "marketplace": "mercadolivre",
+      "id": "MLB4959922773",
+      "title": "Power Bank Portátil FEELTRA 10.200mAh 22.5W Turbo para Celular com 3 Saídas",
+      "title_norm": "power bank portatil feeltra 10 200mah 22 5w turbo para celular com 3 saidas",
+      "url": "https://www.mercadolivre.com.br/p/MLB75833773?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB75833773?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "category": "Informática",
+      "bucket": "celulares",
+      "posted_ts": 1791896593,
+      "posted_at": "2026-10-13T13:03:13.435429+00:00",
+      "score": 169.17
+    },
+    {
       "key": "shopee:14838525205",
       "marketplace": "shopee",
       "id": "14838525205",
@@ -13971,35 +13999,7 @@
       "posted_ts": 1791141412,
       "posted_at": "2026-10-04T19:16:52.934179+00:00",
       "score": 101.51
-    },
-    {
-      "key": "mercadolivre:MLB7584337290",
-      "marketplace": "mercadolivre",
-      "id": "MLB7584337290",
-      "title": "SSD Netac Nv3000 Ssd Nvme M2 250gb",
-      "title_norm": "ssd netac nv3000 ssd nvme m2 250gb",
-      "url": "https://www.mercadolivre.com.br/p/MLB24511657?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB24511657?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
-      "category": "Informática",
-      "bucket": "informatica",
-      "posted_ts": 1791140546,
-      "posted_at": "2026-10-04T19:02:26.439679+00:00",
-      "score": 111.0
-    },
-    {
-      "key": "shopee:58204084130",
-      "marketplace": "shopee",
-      "id": "58204084130",
-      "title": "Kit 2 Regata Top Halter Blusinha Halter Neck Moda Gringa Frente Única Costas Nuas Cropped",
-      "title_norm": "kit 2 regata top halter blusinha halter neck moda gringa frente unica costas nuas cropped",
-      "url": "https://shopee.com.br/product/392241159/58204084130",
-      "affiliate_url": "https://s.shopee.com.br/8fSsCMuaNs",
-      "category": "vitorelle",
-      "bucket": "moda_feminina",
-      "posted_ts": 1791138069,
-      "posted_at": "2026-10-04T18:21:09.171263+00:00",
-      "score": 88.63
     }
   ],
-  "updated_at": "2026-10-13T12:18:00.873115+00:00"
+  "updated_at": "2026-10-13T13:04:17.365892+00:00"
 }

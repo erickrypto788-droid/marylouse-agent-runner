@@ -1,6 +1,36 @@
 {
   "posted": [
     {
+      "key": "mercadolivre:MLB7350489426",
+      "product_id": "MLB7350489426",
+      "catalog_product_id": "MLB74419020",
+      "item_id": "MLB7350489426",
+      "url": "https://www.mercadolivre.com.br/p/MLB74419020?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB74419020?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "xiaomi redmi note 15",
+      "title": "Xiaomi Redmi Note 15",
+      "category": "Informática",
+      "price": 1799.0,
+      "score": 124.0,
+      "posted_ts": 1791896657,
+      "posted_at": "2026-10-13T13:04:17.378989+00:00"
+    },
+    {
+      "key": "mercadolivre:MLB4959922773",
+      "product_id": "MLB4959922773",
+      "catalog_product_id": "MLB75833773",
+      "item_id": "MLB4959922773",
+      "url": "https://www.mercadolivre.com.br/p/MLB75833773?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "affiliate_url": "https://www.mercadolivre.com.br/p/MLB75833773?matt_word=marylouse&matt_tool=50459180&forceInApp=true",
+      "title_norm": "power bank portatil feeltra 10 200mah 22 5w turbo para celular com 3 saidas",
+      "title": "Power Bank Portátil FEELTRA 10.200mAh 22.5W Turbo para Celular com 3 Saídas",
+      "category": "Informática",
+      "price": 129.9,
+      "score": 169.17,
+      "posted_ts": 1791896593,
+      "posted_at": "2026-10-13T13:03:13.449443+00:00"
+    },
+    {
       "key": "mercadolivre:MLB7226098148",
       "product_id": "MLB7226098148",
       "catalog_product_id": "MLB68059006",
@@ -736,5 +766,5 @@
       "posted_at": "2026-10-11T14:02:46.943132+00:00"
     }
   ],
-  "updated_at": "2026-10-13T12:02:39.432506+00:00"
+  "updated_at": "2026-10-13T13:04:17.379002+00:00"
 }
